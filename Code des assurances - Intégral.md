@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-08-23
+Version Consolidée au 1994-09-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -243,16 +243,16 @@ Version Consolidée au 1994-08-23
             - [Sous-section 2 : Direction et administration (art. Annexe I art. R*322-58)](#240)
               - [Paragraphe 4 : L'assemblée générale des sociétés d'assurance mutuelles (art. Annexe I art. R*322-58)](#241)
             - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. R*322-72 à R322-79)](#242)
-            - [Paragraphe 4 : Réassurance. (art. R*322-82 à R322-84)](#243)
+            - [Paragraphe 4 : Réassurance. (art. R322-81 à R322-84)](#243)
             - [Paragraphe 5 : Publicité. (art. R*322-86 à R322-87)](#244)
             - [Paragraphe 6 : Nullités. (art. R*322-91 à R322-90)](#245)
             - [Paragraphe 7 : Sociétés mutuelles d'assurance. (art. R*322-99 à R332-105)](#246)
-          - [Section V : Unions de sociétés d'assurance mutuelles. (art. R322-107 à R322-117)](#247)
-          - [Section VI : Sociétés ou caisses d'assurances et de réassurances mutuelles agricoles (art. R*322-118 à R322-137)](#248)
-            - [Paragraphe 1 : Dispositions générales. (art. R*322-118 à R322-124)](#249)
-            - [Paragraphe 2 : Organismes soumis à l'agrément administratif. (art. R*322-126 à R322-128)](#250)
-            - [Paragraphe 3 : Organismes dispensés de l'agrément administratif. (art. R*322-132 à R322-137)](#251)
-          - [Section VII : Tontines. (art. R*322-141 à R332-139)](#252)
+          - [Section V : Unions de sociétés d'assurance mutuelles. (art. R*322-117-1 à R322-117)](#247)
+          - [Section VI : Sociétés ou caisses d'assurances et de réassurances mutuelles agricoles (art. R*322-121 à R322-138)](#248)
+            - [Paragraphe 1 : Dispositions générales. (art. R*322-121 à R322-124)](#249)
+            - [Paragraphe 2 : Organismes soumis à l'agrément administratif. (art. R*322-126 à R322-131)](#250)
+            - [Paragraphe 3 : Organismes dispensés de l'agrément administratif. (art. R*322-133 à R322-138)](#251)
+          - [Section VII : Tontines. (art. R*322-142 à R332-139)](#252)
         - [Chapitre III : Procédures de redressement et de sauvegarde (art. R*323-6 à R323-9)](#253)
           - [Section I : Règles générales. (art. R*323-6 à R323-9)](#254)
         - [Chapitre IV : Transfert de portefeuille (art. R*324-4)](#255)
@@ -23960,8 +23960,8 @@ _Cité par_:
 Sous réserve des dispositions des articles R. 322-99 et R. 322-158, les sociétés d'assurance mutuelles doivent avoir un fonds
 d'établissement au moins égal à :
 
-- 2.500.000 F pour pratiquer les opérations mentionnées aux 10 à 15, 20, 21, 22, 24, 25 et 28 de l'article R. 321-1 ainsi que
-les opérations de réassurance ;
+- 2.500.000 F pour pratiquer les opérations mentionnées aux 10 à 15, 20, 21, 22, 24, 25 de l'article R. 321-1 ainsi que les
+opérations de réassurance ;
 
 - 1.500.000 F pour pratiquer les opérations entrant dans d'autres branches que celles énumérées ci-dessus.
 
@@ -23971,19 +23971,18 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+  - TXT_SOURCE: Code des assurances R322-42
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 4 () JORF 15 octobre 1991
-  - Décret n°93-866 du 25 juin 1993 - art. 3 () JORF 27 juin 1993
+  - Décret n°94-799 du 9 septembre 1994 - art. 1 () JORF 15 septembre 1994
 
 _Cité par_:
 
   - Code des assurances - art. R322-80 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R322-42
 
 _Cite_:
 
@@ -23993,25 +23992,28 @@ _Cite_:
 ###### Article R*322-45
 
 Les sociétés d'assurance mutuelles régies par la présente section doivent faire figurer dans leurs statuts et dans tous les
-documents prévus à l'article L. 310-8 l'une des deux mentions ci-après imprimées en caractères uniformes : "société
-d'assurance mutuelle à cotisations fixes", ou "société d'assurance mutuelle à cotisations variables", suivant le régime des
-cotisations appliqué aux sociétaires.
+documents à caractère contractuel ou publicitaire ayant pour objet une opération d'assurance ou de capitalisation la mention
+ci-après imprimée en caractères uniformes : "Société d'assurance mutuelle", ou, pour les organismes mentionnés à l'article
+1235 du code rural : "Caisse d'assurance mutuelle agricole" ou "Caisse de réassurance mutuelle agricole" complétée, s'il y a
+lieu, par la mention : "à cotisations variables" lorsque ce régime de cotisations est appliqué aux sociétaires.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1235
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 3 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 5 () JORF 15 octobre 1991
-
-_Cite_:
-
-  - Code des assurances - art. L310-8 (M)
+  - Décret n°94-799 du 9 septembre 1994 - art. 2 () JORF 15 septembre 1994
 
 _Cité par_:
 
@@ -24052,7 +24054,8 @@ Les projets de statuts doivent :
 déterminer le mode et les conditions générales suivant lesquels sont contractés les engagements entre la société et les
 sociétaires, et préciser les branches d'assurance garanties directement ou acceptées en réassurance ;
 
-2° Fixer le nombre minimal d'adhérents, qui ne peut être inférieur à 500 ;
+2° Fixer le nombre minimal d'adhérents, qui ne peut être inférieur à 500 ; ce nombre minimal est fixé à sept pour les
+organismes mentionnés à l'article 1235 du code rural ;
 
 3° Fixer le montant minimal des cotisations versées par les adhérents au titre de la première période annuelle et préciser
 que ces cotisations doivent être intégralement versées préalablement à la déclaration prévue à l'article R. 322-51 ;
@@ -24060,28 +24063,38 @@ que ces cotisations doivent être intégralement versées préalablement à la d
 4° Indiquer le mode de rémunération de la direction et, s'il y a lieu, des administrateurs en conformité des dispositions de
 l'article R. 322-55 ;
 
-5° Prévoir la constitution d'un fonds d'établissement destiné à faire face dans les limites fixées par le programme
-d'activités prévu au g de l'article R. 321-6, aux dépenses des trois premières années et à garantir les engagements de la
-société, et préciser que le fonds d'établissement devra être intégralement versé en espèces préalablement à la déclaration
-prévue à l'article R. 322-51 ;
+5° Prévoir la constitution d'un fonds d'établissement destiné à faire face aux dépenses des cinq premières années et à
+garantir les engagements de la société, et préciser que le fonds d'établissement devra être intégralement versé en espèces
+préalablement à la déclaration prévue à l'article R. 322-51 ou au dépôt des statuts en mairie pour les organismes mentionnés
+à l'article 1235 du code rural ;
 
 6° (paragraphe abrogé).
 
 7° Prévoir le mode de répartition des excédents de recettes ;
 
-8° Prévoir, pour les sociétés pratiquant les opérations mentionnées aux 20 à 28 de l'article R. 321-1, le versement de
+8° Prévoir, pour les sociétés pratiquant les opérations mentionnées aux 20 à 26 de l'article R. 321-1, le versement de
 cotisations fixes.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1235
+  - Code des assurances - art. R*322-55 (M)
+  - Code des assurances R321-1, R322-51, R322-55
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+  - TXT_ASSOCIE: Code des assurances R322-90 *sanctions civiles*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 7 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 3 () JORF 15 septembre 1994
 
 _Cité par_:
 
@@ -24090,15 +24103,6 @@ _Cité par_:
   - Code des assurances - art. R322-140 (V)
   - Code des assurances - art. R322-161 (V)
   - Code des assurances - art. R322-74 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. R*322-55 (M)
-  - Code des assurances R322-51, R322-55, R321-6, R321-1
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances R322-90 *sanctions civiles*
 
 
 ###### Article R*322-48
@@ -24722,6 +24726,10 @@ membres de leur famille, soit de contribution à la constitution de pensions de 
 peuvent en aucun cas consister en allocations variables avec l'activité de la société, notamment avec le montant des
 cotisations, le montant des valeurs assurées, ou le nombre des sociétaires.
 
+Les dispositions précédentes ne font pas obstacle à l'institution d'un intéressement collectif des salariés de l'entreprise
+dans les conditions prévues par l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée relative à l'intéressement et à la
+participation des salariés aux résultats de l'entreprise et à l'actionnariat.
+
 Les avantages accessoires qui seraient accordés au directeur ou à l'un quelconque des employés, autres que ceux qui sont
 chargés du placement et de la souscription des contrats et que ceux qui dirigent cette activité ou en assurent l'encadrement,
 ne peuvent représenter plus de 20 % du total des sommes affectées par la société à de tels avantages, ni plus de 25 % du
@@ -24736,11 +24744,17 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+_Cite_:
+
+  - Ordonnance 86-1134 1986-10-21
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 10 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 3 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 4 () JORF 15 septembre 1994
 
 _Cité par_:
 
@@ -25176,7 +25190,7 @@ Les fractions du montant maximal de cotisation que les assurés des sociétés �
 avoir à verser en sus de la cotisation normale, sont fixées par le conseil d'administration.
 
 Les dispositions du présent article ne s'appliquent pas aux sociétés pratiquant une ou plusieurs des branches mentionnées aux
-20 à 28 de l'article R. 321-1.
+20 à 26 de l'article R. 321-1.
 
 **Liens relatifs à cet article**
 
@@ -25184,10 +25198,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 15 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 5 () JORF 15 septembre 1994
 
 _Cité par_:
 
@@ -25351,7 +25368,7 @@ des sinistres dus à ces causes. Les sociétés qui ont obtenu cette autorisatio
 excédents de recettes constatés ultérieurement, au paiement du solde de l'indemnité restant dû à chaque ayant droit.
 
 Les dispositions du présent article ne s'appliquent pas aux sociétés pratiquant une ou plusieurs des branches mentionnées aux
-20 à 28 de l'article R. 321-1.
+20 à 26 de l'article R. 321-1.
 
 **Liens relatifs à cet article**
 
@@ -25359,11 +25376,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 15 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 20 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 6 () JORF 15 septembre 1994
 
 _Cité par_:
 
@@ -25373,6 +25392,10 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances R321-1
+
+_Nouveaux textes_:
+
+  - Code des assurances R322-75 (3ème version)
 
 
 ###### Article R322-79
@@ -25414,28 +25437,47 @@ _Anciens textes_:
 
 ##### Paragraphe 4 : Réassurance.<a id=243></a>
 
-###### Article R*322-82
+###### Article R322-81
+
+Sous réserve des dispositions des articles R. 322-96 et R. 322-120, 1°, les sociétés d'assurances mutuelles peuvent accepter
+des risques en réassurance, si leurs statuts les y autorisent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
+_Modifié par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 7 () JORF 15 septembre 1994
+
+_Cite_:
+
+  - Code des assurances - art. R*322-120 (M)
+  - Code des assurances - art. R*322-96 (M)
+
+_Cité par_:
+
+  - Code des assurances - art. R322-140 (V)
+
+
+###### Article R322-82
 
 Les sociétés réassurées ne peuvent faire partie de la société à laquelle elles se réassurent, au même titre que les autres
 sociétaires, que si une disposition expresse des statuts de cette dernière société les y autorise.
 
 Dans ce cas, les statuts déterminent les conditions de participation des sociétés réassurées aux assemblées générales.
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-
-
-###### Article R322-81
-
-Sous réserve des dispositions de l'article R. 322-96, les sociétés d'assurances mutuelles peuvent accepter des risques en
-réassurance, si leurs statuts les y autorisent.
+Toutefois, les statuts des sociétés ayant pour objet exclusif la réassurance peuvent attribuer à chacune des sociétés
+réassurées un nombre de voix aux assemblées générales déterminé en fonction des cotisations cédées ou en fonction du nombre
+des adhérents de la société réassurée. Chaque société réassurée dispose toutefois d'au moins une voix. Le quorum requis pour
+la validité des délibérations doit alors être atteint à la fois en nombre de sociétés réassurées et en nombre de voix dont
+elles disposent.
 
 **Liens relatifs à cet article**
 
@@ -25443,18 +25485,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 22 () JORF 15 octobre 1991
-
-_Cite_:
-
-  - Code des assurances - art. R*322-96 (M)
-
-_Cité par_:
-
-  - Code des assurances - art. R322-140 (V)
+  - Décret n°94-799 du 9 septembre 1994 - art. 8 () JORF 15 septembre 1994
 
 
 ###### Article R322-83
@@ -25467,7 +25504,7 @@ le droit de résilier son engagement dans un délai de trois mois à dater de la
 formes prévues au présent article.
 
 Les dispositions du présent article ne s'appliquent pas aux sociétés pratiquant une ou plusieurs des branches mentionnées aux
-20 à 28 de l'article R. 321-1.
+20 à 26 de l'article R. 321-1.
 
 **Liens relatifs à cet article**
 
@@ -25475,10 +25512,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 15 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 9 () JORF 15 septembre 1994
 
 _Cite_:
 
@@ -25493,8 +25533,8 @@ _Cité par_:
 
 ###### Article R322-84
 
-Il peut être formé, entre sociétés régies par la présente section, des sociétés de réassurance mutuelles ayant pour objet la
-réassurance des risques garantis directement par les sociétés qui en font partie.
+Il peut être formé, entre sociétés régies par la présente section ou par la section V, des sociétés de réassurance mutuelles
+ayant pour objet la réassurance des risques garantis directement par les sociétés qui en font partie.
 
 Ces sociétés de réassurance peuvent, sur autorisation du ministre de l'économie et des finances, procéder à des échanges de
 risques avec les sociétés non adhérentes.
@@ -25509,11 +25549,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 19 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 3 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 10 () JORF 15 septembre 1994
 
 _Cité par_:
 
@@ -26051,10 +26093,9 @@ _Cité par_:
 
 ###### Article R322-98
 
-Les sociétés mutuelles d'assurance doivent faire figurer dans leurs statuts et dans tous les documents mentionnés à l'article
-L. 310-8 la mention ci-après, imprimée en caractères uniformes :
-
-"société mutuelle d'assurance à cotisations variables".
+Les sociétés mutuelles d'assurance doivent faire figurer dans leurs statuts et dans tous les documents à caractère
+contractuel ou publicitaire ayant pour objet une opération d'assurance ou de capitalisation la mention ci-après, imprimée en
+caractères uniformes : "société mutuelle d'assurance à cotisations variables".
 
 **Liens relatifs à cet article**
 
@@ -26062,16 +26103,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 1991-09-30 art. 1, art. 25 I, V, art. 27 I JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 25 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 27 () JORF 15 octobre 1991
-
-_Cite_:
-
-  - Code des assurances - art. L310-8 (M)
+  - Décret n°94-799 du 9 septembre 1994 - art. 11 () JORF 15 septembre 1994
 
 
 ###### Article R322-100
@@ -26196,6 +26234,224 @@ _Cité par_:
 
 ##### Section V : Unions de sociétés d'assurance mutuelles.<a id=247></a>
 
+###### Article R*322-117-1
+
+Les sociétés d'assurance mutuelles autres que celles visées aux sections VI et VII du présent chapitre ne sont pas tenues
+d'obtenir l'agrément administratif prévu à l'article L. 321-1 lorsque les conditions suivantes sont réunies :
+
+1° Avant de commencer leurs opérations, elles ont souscrit auprès d'une union de mutuelles un traité de réassurance dans les
+conditions définies aux articles R. 322-107 à R. 322-117 ;
+
+2° Ce traité substitue intégralement l'union aux sociétés réassurées, sur l'ensemble de leurs opérations, pour la
+constitution des garanties prévues par la réglementation des assurances et l'exécution des engagements d'assurance pris par
+les sociétés réassurées ;
+
+3° Elles ont obtenu de la commission de contrôle des assurances un accord préalable constatant explicitement la dispense
+d'agrément. Cet accord se fonde sur la conformité du traité et des statuts aux dispositions de la présente section et sur la
+situation financière de l'union.
+
+Les opérations effectuées en application dudit traité de réassurance par une union de mutuelles qui se substitue, dans les
+conditions définies au présent article, aux sociétés qu'elle réassure, sont considérées au regard des dispositions du présent
+code comme des opérations d'assurance directe de l'union de mutuelles.
+
+Par dérogation à l'article R. 322-47, le nombre d'adhérents d'une société réassurée dans les conditions définies à l'alinéa
+précédent ne peut être inférieur à 7. Le nombre total d'adhérents des sociétés réassurées auprès d'une union de mutuelles
+dans les conditions de l'alinéa précédent ne peut être inférieur à 2 000.
+
+Toute modification du traité de réassurance est soumise à autorisation préalable de la commission de contrôle des assurances.
+
+Les sociétés réassurées visées au premier alinéa du présent article sont dispensées de l'obligation de constituer un fonds
+d'établissement et une marge de solvabilité. Elles ne sont pas soumises à l'obligation de désigner un commissaire aux
+comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
+_Créé par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 14 () JORF 15 septembre 1994
+
+_Cité par_:
+
+  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - Code de commerce - art. L820-1 (V)
+  - Code des assurances - art. R*322-117-2 (V)
+  - Code des assurances - art. R*322-117-3 (V)
+  - Code des assurances - art. R*322-117-4 (V)
+  - Code des assurances - art. R*322-117-5 (V)
+  - Code des assurances - art. R*322-117-6 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L321-1 (M)
+  - Code des assurances - art. R*322-47 (M)
+  - Code des assurances L321-1, R322-47, R322-107 à R322-117
+
+
+###### Article R*322-117-2
+
+Les statuts des sociétés réassurées dans les conditions définies à l'article R. 322-117-1 doivent contenir une clause qui
+prévoit la substitution de l'union de mutuelles aux sociétés réassurées et le nom de cette union. 
+
+Ils peuvent prévoir que les tarifs sont fixés par l'union qui est substituée aux sociétés réassurées dans les conditions
+définies à l'article R. 322-117-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
+_Créé par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 14 () JORF 15 septembre 1994
+
+_Cite_:
+
+  - Code des assurances - art. R*322-117-1 (V)
+
+
+###### Article R*322-117-3
+
+L'union de mutuelles qui est substituée aux sociétés réassurées dans les conditions définies à l'article R. 322-117-1 est
+tenue d'informer la commission de contrôle des assurances de la conclusion, de l'expiration, de la résiliation ou de la
+modification d'un tel traité au plus tard deux mois avant la prise d'effet de ce traité, de sa résiliation, de son expiration
+ou des modifications envisagées.
+
+Les sociétés réassurées visées au premier alinéa de l'article R. 322-117-1 sont tenues, au plus tard deux mois avant la prise
+d'effet de la résiliation ou de l'expiration du traité :
+
+- soit de justifier qu'elles ont conclu un nouveau traité se substituant au traité résilié, et ayant obtenu l'accord de la
+commission de contrôle ;
+
+- soit de justifier qu'elles ont obtenu l'agrément administratif, conformément aux dispositions des articles R. 321-1 et
+suivants ;
+
+- soit de justifier qu'elles ont obtenu, dans les conditions prévues à l'article R. 322-117-5 du code, l'autorisation de
+transfert de leur portefeuille de contrats à une ou plusieurs entreprises agréées.
+
+Si elles ne peuvent apporter l'une des justifications prévues ci-dessus, elles sont tenues de cesser toute souscription et
+tout renouvellement de contrat à compter de la date d'effet de la résiliation ou de l'expiration du traité ; à compter de
+cette date et sur demande de la commission de contrôle des assurances, il peut être mis fin à tout moment, par arrêté du
+ministre chargé de l'économie, aux opérations des sociétés concernées ; l'arrêté mettant fin aux opérations produit les mêmes
+effets qu'un arrêté de retrait d'agrément administratif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
+_Créé par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 14 () JORF 15 septembre 1994
+
+_Cite_:
+
+  - Code des assurances R321-1, R322-117-1, R322-117-5
+
+
+###### Article R*322-117-4
+
+Les contrats d'assurance souscrits par les sociétés réassurées visées au premier alinéa de l'article R. 322-117-1 doivent
+indiquer, en caractères très apparents, les nom et adresse de l'union de mutuelles qui est substituée aux sociétés réassurées
+conformément aux dispositions du même article, et mentionner l'engagement formel de cette société de prendre les lieu et
+place des sociétés réassurées. Le respect des dispositions de l'article L. 310-8 incombe à l'union de mutuelles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
+_Créé par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 14 () JORF 15 septembre 1994
+
+_Cite_:
+
+  - Code des assurances - art. L310-8 (V)
+  - Code des assurances - art. R*322-117-1 (V)
+
+
+###### Article R*322-117-5
+
+Les transferts de portefeuille visés à l'article L. 324-1 du code, relatifs à des sociétés réassurées dans les conditions
+définies à l'article R. 322-117-1, sont effectués par l'union de mutuelles substituée aux sociétés réassurées conformément
+aux dispositions du même article, qui agit pour le compte des sociétés auxquelles elle est substituée. L'avis et l'arrêté de
+transfert de portefeuille mentionnés à l'article L. 324-1 comportent en annexe la liste des sociétés d'assurance mutuelles
+concernées par le transfert.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
+_Créé par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 14 () JORF 15 septembre 1994
+
+_Cite_:
+
+  - Code des assurances - art. L324-1 (V)
+  - Code des assurances - art. R*322-117-1 (V)
+
+_Cité par_:
+
+  - Code des assurances - art. R*322-117-3 (V)
+
+
+###### Article R*322-117-6
+
+Lorsqu'une société visée à la présente section, antérieurement agréée conformément aux dispositions de l'article R. 321-1,
+souscrit un traité de réassurance et obtient l'accord de la commission de contrôle des assurances dans les conditions prévues
+à l'article R. 322-117-1, le ministre de l'économie et des finances constate, par arrêté publié au Journal officiel, la
+caducité de l'ensemble des agréments.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
+_Créé par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 14 () JORF 15 septembre 1994
+
+_Cite_:
+
+  - Code des assurances R321-1, R322-117-1
+
+
 ###### Article R322-107
 
 Les unions de sociétés d'assurance mutuelles mentionnées à l'article L. 322-26-3 sont régies par les dispositions de la
@@ -26286,7 +26542,7 @@ _Modifié par_:
 ###### Article R322-111
 
 L'union est chargée, pour le compte et à la place de la société d'assurance mutuelle réassurée, de faire, au ministre de
-l'économie et des finances, les différentes communications prescrites par l'article R. 310-6 et à la commission de contrôle
+l'économie et des finances, les différentes communications prescrites par l'article L. 310-8 et à la commission de contrôle
 des assurances celles qui sont prévues à l'article R. 310-6-1, de tenir à son siège les livres de comptabilité, registres ou
 fichiers prévus par le titre IV du présent livre, de mettre à la disposition des commissaires-contrôleurs tous les documents
 mentionnés à l'article R. 310-2 et de produire les comptes et les états dont la publication et le dépôt auprès de la
@@ -26306,16 +26562,18 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 18 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 25 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 29 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 31 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 12 () JORF 15 septembre 1994
 
 _Cite_:
 
-  - Code des assurances R310-2, R310-6, R310-6-1
+  - Code des assurances - art. L310-8 (M)
+  - Code des assurances L310-8, R310-2, R310-6-1
 
 
 ###### Article R322-112
@@ -26348,7 +26606,7 @@ caractères très apparents la désignation et l'adresse de cette union et repro
 laquelle l'union déclare se porter dans tous les cas caution solidaire des engagements de la société d'assurance mutuelle.
 
 Les conditions générales de ces polices doivent être soumises par l'union au ministre de l'économie et des finances dans les
-conditions prévues par l'article R. 310-6. Elles doivent préciser que si l'agrément accordé à l'union lui est retiré, la
+conditions prévues par l'article L. 310-8. Elles doivent préciser que si l'agrément accordé à l'union lui est retiré, la
 police sera résiliée le dixième jour à midi à compter de la date de la publication au Journal officiel de l'arrêté prononçant
 le retrait d'agrément, la portion de cotisation afférente à la période non garantie étant alors restituée à l'assuré.
 
@@ -26358,15 +26616,17 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 25 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 29 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 31 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 13 () JORF 15 septembre 1994
 
 _Cite_:
 
-  - Code des assurances R310-6
+  - Code des assurances - art. L310-8 (M)
 
 
 ###### Article R322-114
@@ -26462,22 +26722,6 @@ _Cité par_:
 
 ##### Paragraphe 1 : Dispositions générales.<a id=249></a>
 
-###### Article R*322-118
-
-Les décrets en Conseil d'Etat mentionnés à l'article L. 322-27 sont pris sur le rapport du ministre de l'économie et des
-finances et du ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cite_:
-
-  - Code des assurances - art. L322-27 (M)
-
-
 ###### Article R*322-121
 
 Sont considérés pour l'application de la présente section comme présentant le caractère de risques agricoles :
@@ -26512,53 +26756,6 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances - art. L322-27 (M)
 
 
-###### Article R*322-123
-
-Entrent dans le champ d'application de la présente section, notamment en ce qui concerne les modalités de contrôle et les
-règles de gestion financière, outre les organismes pratiquant des opérations d'assurance directe, y compris les opérations
-mentionnées à l'article R. 322-135, les sociétés ou caisses ayant pour objet exclusif la réassurance des risques agricoles.
-
-En sont exclus, par dérogation aux dispositions de l'article R. 322-119, lorsque les opérations ci-après définies constituent
-leur activité exclusive :
-
-- les organismes qui, moyennant le versement d'une contribution après sinistre, promettent à leurs adhérents, en cas de
-mortalité du bétail, une prestation éventuellement limitée en fonction des ressources desdits organismes ;
-
-- les organismes parfois dénommés cotises ou consorces qui ont pour objet la mise en oeuvre de mesures de prévention et de
-protection contre certaines maladies du bétail, notamment la tuberculose des bovins ;
-
-- les organismes dont l'objet est d'acheter à leurs adhérents la viande d'animaux victimes d'accidents et soumis à
-l'abattage ;
-
-- les organismes dont les adhérents s'engagent à apporter une contribution en nature à ceux des adhérents qui ont été
-victimes d'un incendie de produits agricoles.
-
-D'autre part, sont exclus jusqu'à nouvel ordre du champ d'application de la présente section les organismes dont l'activité
-exclusive consiste, moyennant le versement d'une contribution variable, à promettre à leurs adhérents, lorsqu'ils sont
-victimes de calamités agricoles qui ne constituent pas des risques techniquement assurables, une prestation proportionnée aux
-ressources de l'organisme. Un décret fixe en tant que de besoin les conditions dans lesquelles lesdits organismes sont
-assujettis au contrôle de l'Etat sur les entreprises d'assurance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
-
-_Cite_:
-
-  - Code des assurances - art. R*322-119 (M)
-  - Code des assurances R322-119, R322-135
-
-_Cité par_:
-
-  - Code des assurances - art. R322-120 (M)
-
-
 ###### Article R*322-125
 
 Les organismes entrant dans le champ d'application de la présente section doivent, dans les conditions prévues aux articles
@@ -26585,17 +26782,10 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L322-27 (M)
 
 
-###### Article R322-119
+###### Article R322-118
 
-La réglementation des entreprises d'assurance résultant du présent code est, dans les conditions et sous les réserves prévues
-à la présente section, applicable aux organismes mentionnés à l'article 1235 du code rural.
-
-Ces organismes ne sont pas tenus de se conformer aux règles de constitution et de fonctionnement prescrites pour les
-entreprises d'assurance aux sections II à V du présent chapitre. Toutefois, l'article R. 322-78 leur est applicable et les
-statuts doivent indiquer le nombre d'administrateurs élus par le personnel salarié.
-
-Des décrets ou des arrêtés précisent, en tant que de besoin, les modalités d'application de la présente section aux
-organismes intéressés.
+Le décret en Conseil d'Etat mentionné à l'article L. 322-27 est pris sur le rapport du ministre chargé de l'économie et des
+finances et du ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -26603,29 +26793,128 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 35 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 15 () JORF 15 septembre 1994
 
 _Cite_:
 
-  - Code des assurances - art. R*322-78 (M)
+  - Code des assurances - art. L322-27 (V)
+
+
+###### Article R322-119
+
+La réglementation des entreprises d'assurance résultant du présent code est, dans les conditions et sous les réserves prévues
+à la présente section, applicable aux organismes mentionnés à l'article 1235 du code rural.
+
+Ces organismes se conforment aux règles de constitution et de fonctionnement prescrites pour les entreprises d'assurance à la
+section IV, paragraphes I, II, III, IV et VI du présent chapitre, sous réserve des dispositions particulières de la présente
+section.
+
+Des décrets ou des arrêtés précisent, en tant que de besoin, les modalités d'application de la présente section aux
+organismes intéressés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
   - Code rural 1235
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
+_Modifié par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 16 () JORF 15 septembre 1994
 
 _Cité par_:
 
   - Code des assurances - art. R322-123 (V)
 
 
+###### Article R322-119-1
+
+Les organismes mentionnés à l'article 1235 du code rural sont dispensés pour leur constitution des formalités prévues aux
+articles R. 322-51 et R. 322-52.
+
+Leur constitution prend effet à compter du dépôt de leurs statuts à la mairie de la commune du siège social, fait
+conformément aux dispositions de l'article R. 411-1 du code du travail.
+
+Dans le mois du dépôt de leurs statuts, ces organismes doivent publier dans un des journaux habilités à recevoir les annonces
+légales dans le département de leur siège social un extrait contenant la dénomination de la société ou de la caisse,
+l'indication du siège social, la désignation des personnes autorisées à gérer et à administrer la société ou la caisse, la
+durée pour laquelle la société ou la caisse a été constituée, la date et le lieu de dépôt des statuts, le montant et le mode
+de constitution du fonds d'établissement. Il est justifié de l'insertion par un exemplaire du journal conservé au siège
+social de la société ou de la caisse.
+
+Sont soumis aux formalités de dépôt et de publicité ci-dessus prescrites tous actes et délibérations ayant pour objet la
+modification des statuts ou la continuation de la société ou de la caisse au-delà du terme fixé pour sa durée ou la
+dissolution de la société ou la caisse avant ce terme.
+
+Toute personne peut prendre communication des statuts déposés en mairie et s'en faire délivrer une copie à ses frais.
+
+Toute personne peut obtenir au siège de la société ou de la caisse une copie certifiée des statuts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 17 () JORF 15 septembre 1994
+
+_Cite_:
+
+  - Code du travail - art. R411-1 (M)
+  - Code des assurances - art. R*322-52 (M)
+  - Code des assurances R322-51, R322-52
+  - Code rural 1235
+
+
+###### Article R322-119-2
+
+Par dérogation aux dispositions de l'article R. 322-59, alinéa 1er, les convocations aux assemblées générales sont faites par
+simples lettres adressées aux sociétaires ou par annonces, quinze jours au moins avant la date de la réunion, dans au moins
+deux journaux de la presse quotidienne ou hebdomadaire diffusés dans la circonscription de la société ou de la caisse. 
+
+Les dispositions du sixième alinéa de l'article R. 322-58 ne sont pas applicables si les statuts stipulent qu'un sociétaire
+ne peut se faire représenter que par un autre sociétaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 17 () JORF 15 septembre 1994
+
+_Cite_:
+
+  - Code des assurances - art. R*322-58 (V)
+  - Code des assurances - art. R322-59 (V)
+
+
 ###### Article R322-120
 
-Jusqu'à l'intervention d'un statut de la mutualité agricole, les organismes mentionnés à l'article 1235 du code rural, à
-l'exception de ceux faisant l'objet du deuxième alinéa de l'article R. 322-123, sont soumis aux prescriptions suivantes :
+Les organismes mentionnés à l'article 1235 du code rural sont soumis aux prescriptions suivantes :
 
-1° Ils doivent avoir pour objet de pratiquer exclusivement soit l'assurance, soit la réassurance des risques agricoles
-définis à l'article R. 322-121 ;
+1° Ils doivent avoir pour objet de pratiquer soit exclusivement des opérations d'assurance, soit exclusivement des opérations
+de réassurance ;
 
-2° Ils ne peuvent pratiquer des opérations d'assurances autres que celles mentionnées au 5° et 7° de l'article L. 310-1 ;
+2° Ils ne peuvent pratiquer des opérations d'assurances autres que celles mentionnées au 2° et au 3° de l'article L. 310-1 ;
 
 3° Ils garantissent, moyennant le paiement d'une cotisation fixe ou variable, le règlement intégral des engagements pris à
 l'égard de leurs adhérents, en cas de réalisation des risques faisant l'objet de ces engagements ;
@@ -26641,6 +26930,8 @@ Ne peuvent être considérés comme ayant une compétence nationale, nonobstant 
 organismes groupant au moins sept sociétés ou caisses mutuelles de réassurances agricoles comptant au total au moins 300 000
 adhérents.
 
+Les dispositions des articles R. 322-83 et R. 322-84 ne sont pas applicables aux organismes mentionnés ci-dessus.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -26649,7 +26940,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 36 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 18 () JORF 15 septembre 1994
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 du 9 septembre 1994 - art. 27 (V)
 
 _Cité par_:
 
@@ -26660,16 +26955,64 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. R*322-123 (M)
-  - Code des assurances R322-123, R322-121, L310-1
+  - Code des assurances - art. R*322-83 (M)
+  - Code des assurances - art. R*322-84 (M)
   - Code rural 1235
 
 
 ###### Article R322-122
 
 Les sociétés ou caisses mentionnées à l'article L. 322-27 sont soumises, sous l'autorité de la commission de contrôle des
-assurances, à la surveillance permanente des commissaires-contrôleurs mentionnés à l'article R. 310-1, exercée en
+assurances, à la surveillance permanente des commissaires-contrôleurs mentionnés à l'article R. 310-17, exercée en
 collaboration avec les agents habilités à cet effet par le ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+
+_Modifié par_:
+
+  - Décret n°94-799 du 9 septembre 1994 - art. 19 () JORF 15 septembre 1994
+
+_Cite_:
+
+  - Code des assurances - art. L322-27 (M)
+  - Code des assurances L322-27, R310-17
+
+
+###### Article R322-123
+
+Entrent dans le champ d'application de la présente section, notamment en ce qui concerne les modalités de contrôle et les
+règles de gestion financière, outre les organismes pratiquant des opérations d'assurance directe, y compris les opérations
+mentionnées à l'article R. 322-135, les sociétés ou caisses mentionnées à l'article L. 322-27 ayant pour objet exclusif la
+réassurance. 
+
+En sont exclus, par dérogation aux dispositions de l'article R. 322-119, lorsque les opérations ci-après définies constituent
+leur activité exclusive :
+
+- les organismes qui, moyennant le versement d'une contribution après sinistre, promettent à leurs adhérents, en cas de
+mortalité du bétail, une prestation éventuellement limitée en fonction des ressources desdits organismes ;
+
+- les organismes parfois dénommés cotises ou consorces qui ont pour objet la mise en oeuvre de mesures de prévention et de
+protection contre certaines maladies du bétail, notamment la tuberculose des bovins ;
+
+- les organismes dont l'objet est d'acheter à leurs adhérents la viande d'animaux victimes d'accidents et soumis à
+l'abattage ;
+
+- les organismes dont les adhérents s'engagent à apporter une contribution en nature à ceux des adhérents qui ont été
+victimes d'un incendie de produits agricoles. 
+
+D'autre part, sont exclus jusqu'à nouvel ordre du champ d'application de la présente section les organismes dont l'activité
+exclusive consiste, moyennant le versement d'une contribution variable, à promettre à leurs adhérents, lorsqu'ils sont
+victimes de calamités agricoles qui ne constituent pas des risques techniquement assurables, une prestation proportionnée aux
+ressources de l'organisme. Un décret fixe en tant que de besoin les conditions dans lesquelles lesdits organismes sont
+assujettis au contrôle de l'Etat sur les entreprises d'assurance.
 
 **Liens relatifs à cet article**
 
@@ -26679,13 +27022,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
-  - Décret n°91-1050 du 30 septembre 1991 - art. 18 () JORF 15 octobre 1991
+  - Décret n°94-799 du 9 septembre 1994 - art. 20 () JORF 15 septembre 1994
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
 
 _Cite_:
 
-  - Code des assurances - art. L322-27 (M)
-  - Code des assurances L322-27, R310-1
+  - Code des assurances - art. L322-27 (V)
+  - Code des assurances - art. R*322-135 (V)
+  - Code des assurances - art. R322-119 (V)
+
+_Cité par_:
+
+  - Code des assurances - art. R322-120 (M)
 
 
 ###### Article R322-124
@@ -26757,79 +27108,6 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances - art. L322-27 (M)
 
 
-###### Article R*322-129
-
-Pour obtenir l'agrément administratif prévu à l'article L. 321-1, les organismes doivent justifier de l'existence d'un fonds
-d'établissement au moins égal au montant minimal exigé des sociétés d'assurance mutuelles régies par la section IV du présent
-chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-1050 du 30 septembre 1991 - art. 3 () JORF 15 octobre 1991
-
-_Abrogé par_:
-
-  - Décret n°94-799 du 9 septembre 1994 - art. 21 (V) JORF 15 septembre 1994
-
-_Cite_:
-
-  - Code des assurances - art. L321-1 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances R322-44
-
-
-###### Article R*322-130
-
-Les organismes agréés doivent constituer et alimenter, dans les conditions prévues par la réglementation des sociétés
-d'assurance mutuelles, une marge de solvabilité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-1050 du 30 septembre 1991 - art. 3 () JORF 15 octobre 1991
-
-_Abrogé par_:
-
-  - Décret n°94-799 du 9 septembre 1994 - art. 21 (V) JORF 15 septembre 1994
-
-
-###### Article R*322-131
-
-Pour l'application des dispositions prévues à l'article R. 310-2, les renseignements et documents relatifs à la situation
-desdits organismes doivent être mis à la disposition des commissaires-contrôleurs dans les services du siège ou, le cas
-échéant, aux sièges des sociétés ou caisses ayant souscrit auprès desdits organismes un traité de réassurance dans les
-conditions définies à l'article R. 322-132.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
-  - TXT_SOURCE: Code des assurances L322-27, R310-2
-
-_Cite_:
-
-  - Code des assurances - art. R*322-132 (M)
-  - Code des assurances R310-2, R322-132
-
-
 ###### Article R322-128
 
 En ce qui concerne ces organismes, les décisions prévues aux articles L. 321-1, L. 324-1 et L. 325-1 sont prises
@@ -26852,17 +27130,12 @@ _Cite_:
   - Code des assurances - art. L325-1 (M)
 
 
-##### Paragraphe 3 : Organismes dispensés de l'agrément administratif.<a id=251></a>
+###### Article R322-131
 
-###### Article R*322-132
-
-Les organismes qui, en vertu des dispositions de la présente section, sont soumis à la réglementation des entreprises
-d'assurance, ne sont pas tenus d'obtenir l'agrément administratif prévu à l'article L. 321-1 et sont dispensés d'observer les
-règles de gestion qui leur seraient normalement applicables, lorsque, avant de commencer leurs opérations, ils ont souscrit
-auprès d'une société ou caisse assujettie aux dispositions de la présente section et agréée à cet effet un traité de
-réassurance substituant ladite société ou caisse à l'organisme réassuré, pour la constitution des garanties prévues par la
-réglementation susmentionnée et l'exécution des engagements d'assurance pris par l'organisme réassuré. Ce traité doit porter
-sur l'ensemble des opérations pratiquées par l'organisme réassuré.
+Pour l'application des dispositions prévues à l'article R. 310-18, les renseignements et documents relatifs à la situation
+desdits organismes doivent être mis à la disposition des commissaires-contrôleurs dans les services du siège ou, le cas
+échéant, aux sièges des sociétés ou caisses ayant souscrit auprès desdits organismes un traité de réassurance dans les
+conditions définies à l'article R. 322-132.
 
 **Liens relatifs à cet article**
 
@@ -26870,22 +27143,17 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Cité par_:
+_Modifié par_:
 
-  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
-  - Code des assurances - art. R322-131 (V)
-  - Code des assurances - art. R322-134 (V)
-  - Code des assurances - art. R322-138 (V)
-  - Code des assurances - art. R334-8 (V)
+  - Décret n°94-799 du 9 septembre 1994 - art. 22 () JORF 15 septembre 1994
 
 _Cite_:
 
-  - Code des assurances - art. L321-1 (M)
+  - Code des assurances - art. R*322-132 (M)
+  - Code des assurances R310-18, R322-132
 
-**Liens**:
 
-  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
-
+##### Paragraphe 3 : Organismes dispensés de l'agrément administratif.<a id=251></a>
 
 ###### Article R*322-133
 
@@ -27024,19 +27292,23 @@ _Cite_:
   - Code des assurances - art. R*322-135 (V)
 
 
-###### Article R*322-138
+###### Article R322-132
 
-Les organismes ayant demandé l'agrément administratif constitués avant le 27 mai 1964 peuvent conserver les placements
-effectués sous le régime des dispositions antérieures. Ceux-ci seront classés dans la catégorie nouvelle dont ils relèvent de
-par leur nature ou, à défaut, dans celle que le ministère de l'économie et des finances désignera par analogie.
+Les organismes qui, en vertu des dispositions de la présente section, sont soumis à la réglementation des entreprises
+d'assurance, ne sont pas tenus d'obtenir l'agrément administratif prévu à l'article L. 321-1 et sont dispensés d'observer les
+règles de gestion qui leur seraient normalement applicables, lorsque, avant de commencer leurs opérations, ils ont souscrit
+auprès d'une société ou caisse assujettie aux dispositions de la présente section et agréée à cet effet un traité de
+réassurance substituant ladite société ou caisse à l'organisme réassuré, pour la constitution des garanties prévues par la
+réglementation susmentionnée et l'exécution des engagements d'assurance pris par l'organisme réassuré. Ce traité doit porter
+sur l'ensemble des opérations pratiquées par l'organisme réassuré.
 
-Aucun placement nouveau, par remploi ou autrement, ne sera fait dans une catégorie de valeurs mobilières ou immobilières tant
-que, du fait du classement ci-dessus prévu, le pourcentage de cette catégorie dépassera le pourcentage limite fixé par la
-réglementation des entreprises d'assurance.
+Ces organismes sont notamment dispensés de l'obligation de constituer un fonds d'établissement et une marge de solvabilité.
 
-Les dispositions du présent article ne s'opposent pas à ce que les organismes intéressés effectuent des emplois de fonds qui
-seraient la conséquence d'opérations de placement engagées ou effectuées sous le régime des dispositions antérieures, à
-condition de rester dans les limites fixées par celles-ci.
+Leurs statuts peuvent prévoir que les tarifs sont fixés par la société ou caisse auprès de laquelle ces organismes sont
+réassurés dans les conditions définies au premier alinéa du présent article.
+
+Enfin, ces organismes ne sont pas soumis à l'obligation de désigner un commissaire aux comptes mentionnée à l'article R.
+322-67.
 
 **Liens relatifs à cet article**
 
@@ -27044,22 +27316,32 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 39 (V) JORF 15 octobre 1991
-
-_Cité par_:
-
-  - Décret n°91-1050 du 30 septembre 1991 - art. 39 (V)
+  - Décret n°94-799 du 9 septembre 1994 - art. 23 () JORF 15 septembre 1994
 
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-799 du 9 septembre 1994 - art. 27 (V)
   - TXT_SOURCE: Code des assurances - art. L322-27 (M)
+
+_Cité par_:
+
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - Code des assurances - art. R322-131 (V)
+  - Code des assurances - art. R322-134 (V)
+  - Code des assurances - art. R322-138 (V)
+  - Code des assurances - art. R334-8 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L321-1 (M)
+  - Code des assurances - art. R*322-67 (M)
 
 
 ###### Article R322-137
 
-Le respect des dispositions de l'article R. 310-6 incombe au réassureur agréé.
+Le respect des dispositions de l'article L. 310-8 incombe au réassureur agréé. 
 
 Les contrats d'assurance souscrits par les organismes dispensés de l'agrément administratif doivent indiquer, en caractères
 très apparents, les nom et adresse du réassureur agréé et mentionner l'engagement formel de ce dernier de prendre les lieu et
@@ -27073,45 +27355,41 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-617 du 28 juin 1991 - art. 3 () JORF 30 juin 1991
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
+  - Décret n°94-799 du 9 septembre 1994 - art. 24 () JORF 15 septembre 1994
 
 _Cite_:
 
-  - Code des assurances R310-6
+  - Code des assurances - art. L310-8 (V)
 
 
-##### Section VII : Tontines.<a id=252></a>
+###### Article R322-138
 
-###### Article R*322-141
-
-Les sociétés à forme tontinière sont soumises aux dispositions de l'article R. 160-1.
+Les transferts de portefeuille visés à l'article L. 324-1 du code, relatifs à des organismes visés à l'article R. 322-132,
+sont effectués par la société ou caisse mentionnée à l'article R. 322-132, qui agit pour le compte des organismes auxquels
+elle est substituée dans les conditions prévues aux articles R. 322-132 à R. 322-137. L'avis et l'arrêté de transfert de
+portefeuille, mentionnés à l'article L. 324-1, mentionnent dans ce cas, en annexe, les organismes concernés par le transfert.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-667 1976-07-16
 
-_Modifié par_:
+_Cité par_:
 
-  - Décret n°91-1050 du 30 septembre 1991 - art. 42 () JORF 15 octobre 1991
+  - Décret n°91-1050 du 30 septembre 1991 - art. 39 (V)
 
-_Abrogé par_:
+_Créé par_:
 
-  - Décret n°94-799 du 9 septembre 1994 - art. 26 (V) JORF 15 septembre 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Code des assurances - art. R*322-140 (M)
+  - Décret n°94-799 du 9 septembre 1994 - art. 25 () JORF 15 septembre 1994
 
 _Cite_:
 
-  - Code des assurances R160-1
+  - Code des assurances - art. L324-1 (M)
+  - Code des assurances L324-1, R322-132 à R322-137
 
+
+##### Section VII : Tontines.<a id=252></a>
 
 ###### Article R*322-142
 
