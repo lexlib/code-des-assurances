@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1980-08-20
+Version Consolidée au 1980-09-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -256,7 +256,7 @@ Version Consolidée au 1980-08-20
             - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. R*331-15 à R*331-28)](#253)
             - [Paragraphe 4 : Dispositions particulières au Lloyd's de Londres. (art. R*331-29 à R*331-30)](#254)
         - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. R*332-1 à R*332-44)](#255)
-          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. R*332-1 à R*332-13)](#256)
+          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. R*332-1 à R332-3)](#256)
           - [Section II : Réglementations particulières concernant certains éléments d'actif. (art. R*332-14 à R332-17)](#257)
           - [Section III : Estimation des éléments d'actif. (art. R*332-19 à R332-29)](#258)
           - [Section IV : Commissions et frais d'acquisition à amortir. (art. R*332-33 à R332-36)](#259)
@@ -24733,321 +24733,6 @@ _Cite_:
   - Code des assurances - art. R332-16 (M)
 
 
-###### Article R*332-2
-
-Sous réserve des dispositions des articles R. 332-1 et des articles R. 332-4 à R. 332-7, les provisions techniques
-mentionnées aux articles R. 331-3, R. 331-5 et R. 331-6 sont représentées par les actifs suivants :
-
-1° Valeurs émises par l'Etat français ou jouissant de sa garantie, inscrites à la cote officielle des bourses françaises de
-valeurs ou en instance d'inscription, ainsi que les portions de coupons attachés à celles de ces valeurs évaluées selon les
-règles de l'article R. 332-19, courues à la clôture de chaque exercice ;
-
-2° Autres obligations inscrites à la cote officielle des bourses françaises de valeurs ou en instance d'inscription, ainsi
-que les portions de coupons attachés aux mêmes obligations évaluées selon les règles de l'article R. 332-19, courues à la
-clôture de chaque exercice ;
-
-3° Actions des sociétés d'investissement à capital variable dont l'objet est limité à la gestion d'un portefeuille de valeurs
-mentionnées aux 1° et 2° ci-dessus ;
-
-4° Actions, parts et autres valeurs mobilières inscrites à la cote officielle des bourses françaises de valeurs ;
-
-5° Valeurs mobilières étrangères ayant fait l'objet d'une émission publique ou inscrites à la cote d'une bourse de valeurs,
-dans les conditions déterminées par arrêté du ministre de l'économie et des finances ;
-
-6° Actions de sociétés d'investissement à capital variable, dans les conditions déterminées par arrêté du ministre de
-l'économie et des finances ;
-
-7° Immeubles bâtis en France métropolitaine.
-
-Tous autres immeubles situés en France métropolitaine et dans les départements et territoires d'outre-mer, sur autorisation
-donnée dans chaque cas par le ministre de l'économie et des finances.
-
-Parts ou actions de sociétés immobilières non inscrites à la cote officielle des bourses françaises de valeurs, dans les
-conditions déterminées dans chaque cas par le ministre de l'économie et des finances.
-
-Droits réels immobiliers donnant à leurs titulaires les prérogatives du propriétaire pendant une durée au moins égale à
-trente ans ;
-
-8° Billets émis et négociables sur le marché hypothécaire, conformément aux règles de fonctionnement de ce marché ;
-
-9° Prêts en première hypothèque sur tous immeubles et ouvertures de crédits hypothécaires consenties en vue de la
-construction d'immeubles d'habitation, à condition que les immeubles soient situés en France métropolitaine ou dans les
-départements et territoires d'outre-mer et que, sauf dérogation accordée par le ministre de l'économie et des finances,
-l'ensemble des hypothèques en premier rang sur un même immeuble n'excède pas 50 p. 100 de la valeur estimative dudit
-immeuble.
-
-Prêts garantis par des hypothèques maritimes en premier rang, dans les conditions déterminées par décret ;
-
-10° Prêts aux communes, syndicats de communes, communautés urbaines, districts, établissements publics hospitaliers,
-départements, régions, territoires d'outre-mer, et obligations libérées émises par lesdites collectivités.
-
-Prêts aux organismes d'habitation à loyer modéré mentionnés à l'article 159 du code de l'urbanisme et de l'habitation, aux
-coopératives de construction et aux sociétés d'économie mixte de construction de logements, et obligations libérées émises
-par lesdits organismes. Chacun de ces prêts ou obligations doit bénéficier de la garantie totale et inconditionnelle de la
-collectivité locale intéressée. Cette garantie doit avoir pour effet de substituer, immédiatement et sans réserve, la
-collectivité garante au débiteur défaillant.
-
-Prêts aux ports autonomes ou aux chambres de commerce garantis par des péages ou autres rémunérations de services, et
-obligations libérées émises par lesdits organismes ;
-
-11° Prêts ou effets représentatifs de prêts aux entreprises industrielles et commerciales dans les conditions et avec les
-garanties déterminées par arrêté du ministre de l'économie et des finances.
-
-12° Prêts sur les valeurs mentionnées aux 1° et 15° du présent article, dans la limite de 75 p. 100 au plus de leur montant
-nominal ;
-
-13° Parts ou actions d'entreprises étrangères d'assurance dans lesquelles des entreprises françaises d'assurance, de
-réassurance ou de capitalisation, individuellement ou collectivement, possèdent une participation au moins égale à 20 p. 100
-du capital social. Ces valeurs sont admises en représentation des provisions techniques dans les conditions fixées, dans
-chaque cas, par le ministre de l'économie et des finances ;
-
-14° Créances nettes sur le fonds de garantie prévu par la législation sur les accidents du travail, sur le fonds de garantie
-institué par l'article L. 420-1 et sur le fonds institué par l'article 2 de la loi n° 74-1118 du 27 décembre 1974 ;
-
-15° Bons du Trésor et autres valeurs, à court ou moyen terme, figurant sur une liste fixée par arrêté du ministre de
-l'économie et des finances ;
-
-16° Fonds déposés chez les comptables du Trésor, aux chèques postaux et dans les banques.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°74-1118 du 27 décembre 1974 - art. 2 (M)
-  - Code des assurances - art. L420-1 (M)
-  - Code des assurances - art. R*331-3 (M)
-  - Code des assurances - art. R*331-5 (M)
-  - Code des assurances - art. R*331-6 (M)
-  - Code des assurances R332-1, R332-4 à R332-7, R331-3, R331-5, R331-6, R332-19, L420-1
-  - Code de l'urbanisme 159
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°79-823 du 21 septembre 1979 - art. 3 (Ab)
-  - Décret n°86-1111 du 15 octobre 1986 - art. 5 (Ab)
-  - Décret n°92-183 du 26 février 1992 - art. 16 (Ab)
-  - Décret n°95-1115 du 17 octobre 1995 - art. 8 (Ab)
-  - Décret n°2000-142 du 18 février 2000 - art. 11 (V)
-  - Décret n°2004-342 du 21 avril 2004 - art. 29 (Ab)
-  - Décret n°2004-342 du 21 avril 2004 - art. 35 (Ab)
-  - Décret n°2004-342 du 21 avril 2004 - art. 37 (Ab)
-  - Décret n°2004-569 du 18 juin 2004 - art. 29 (V)
-  - Décret n°2006-1499 du 29 novembre 2006 - art. 7 (VD)
-  - Décret  n°2007-243 du 23 février 2007 - art. 4 (V)
-  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
-  - Décret n°2007-243 du 23 février 2007 - art. 5 (V)
-  - Décret n°2009-527 du 12 mai 2009 - art. 7 (V)
-  - Décret n°2016-1781 du 19 décembre 2016 - art. 1
-  - Décret n°2017-1591 du 20 novembre 2017 - art. 15
-  - Décret n°2017-1765 du 26 décembre 2017 - art. 6
-  - Code de l'environnement - art. R561-9 (V)
-  - Code de la mutualité - art. Annexe à l'article A223-6-1 (V)
-  - Code de la mutualité - art. R223-1 (VD)
-  - Code de la mutualité - art. R223-3 (V)
-  - Code de la santé publique - art. R3122-16 (MMN)
-  - Code de la sécurité sociale. - art. R932-3-1 (VD)
-  - Code des assurances - art. A132-6 (V)
-  - Code des assurances - art. A322-5 (Ab)
-  - Code des assurances - art. A331-2 (V)
-  - Code des assurances - art. A332-1 (Ab)
-  - Code des assurances - art. A332-1 bis (Ab)
-  - Code des assurances - art. A332-2 (Ab)
-  - Code des assurances - art. A332-3 (Ab)
-  - Code des assurances - art. A332-4 (M)
-  - Code des assurances - art. A332-7 (V)
-  - Code des assurances - art. A333-5 (Ab)
-  - Code des assurances - art. A344-15 (Ab)
-  - Code des assurances - art. A344-8 (M)
-  - Code des assurances - art. A431-5 (M)
-  - Code des assurances - art. A432-10 (Ab)
-  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
-  - Code des assurances - art. Annexe art. A132-4 (VD)
-  - Code des assurances - art. R*332-11 (M)
-  - Code des assurances - art. R*332-8 (M)
-  - Code des assurances - art. R*420-47 (T)
-  - Code des assurances - art. R*431-17 (M)
-  - Code des assurances - art. R*431-23 (M)
-  - Code des assurances - art. R*431-42 (Ab)
-  - Code des assurances - art. R131-1 (VD)
-  - Code des assurances - art. R131-3 (V)
-  - Code des assurances - art. R134-14 (V)
-  - Code des assurances - art. R142-14 (Ab)
-  - Code des assurances - art. R332-1 (M)
-  - Code des assurances - art. R332-10-3 (VT)
-  - Code des assurances - art. R332-12 (V)
-  - Code des assurances - art. R332-13 (V)
-  - Code des assurances - art. R332-14 (V)
-  - Code des assurances - art. R332-14-1 (V)
-  - Code des assurances - art. R332-14-2 (VD)
-  - Code des assurances - art. R332-15 (V)
-  - Code des assurances - art. R332-16 (V)
-  - Code des assurances - art. R332-17 (VD)
-  - Code des assurances - art. R332-19 (VT)
-  - Code des assurances - art. R332-2-1 (V)
-  - Code des assurances - art. R332-20 (V)
-  - Code des assurances - art. R332-20-1 (V)
-  - Code des assurances - art. R332-20-2 (VT)
-  - Code des assurances - art. R332-3 (VD)
-  - Code des assurances - art. R332-3-1 (VD)
-  - Code des assurances - art. R332-4 (M)
-  - Code des assurances - art. R332-46 (V)
-  - Code des assurances - art. R332-52 (V)
-  - Code des assurances - art. R332-53 (V)
-  - Code des assurances - art. R332-56 (V)
-  - Code des assurances - art. R332-57 (V)
-  - Code des assurances - art. R332-7 (M)
-  - Code des assurances - art. R332-7-1 (M)
-  - Code des assurances - art. R334-11 (VD)
-  - Code des assurances - art. R334-3 (VD)
-  - Code des assurances - art. R342-4 (V)
-  - Code des assurances - art. R343-11 (VD)
-  - Code des assurances - art. R343-12 (V)
-  - Code des assurances - art. R343-2 (Ab)
-  - Code des assurances - art. R343-9 (VD)
-  - Code des assurances - art. R370-3 (V)
-  - Code des assurances - art. R385-1 (VD)
-  - Code des assurances - art. R385-5 (V)
-  - Code des assurances - art. R421-47 (V)
-  - Code des assurances - art. R422-5 (V)
-  - Code des assurances - art. R424-6 (V)
-  - Code des assurances - art. R427-5 (V)
-  - Code des assurances - art. R431-35 (V)
-  - Code des assurances - art. R431-57 (V)
-  - Code des assurances - art. R441-7-1 (V)
-  - Code rural - art. D361-3 (V)
-  - Code rural - art. R*361-3 (T)
-  - Code rural et de la pêche maritime - art. D361-5 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
-  - TXT_ASSOCIE: Code des assurances - art. A332-3 (M)
-  - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
-  - TXT_ASSOCIE: Code des assurances - art. A332-4 (M)
-  - TXT_SOURCE: Code des assurances - art. R332-16 (M)
-
-
-###### Article R*332-3
-
-Les actifs mentionnés à l'article R. 332-2 doivent satisfaire aux conditions suivantes :
-
-1° Les valeurs mentionnées du 4° au 16° de l'article R. 332-2 ne peuvent représenter plus des deux tiers du montant au bilan
-des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
-
-2° Les immeubles et les valeurs assimilées mentionnées au 7° de l'article R. 332-2 ne peuvent représenter plus de 40 p. 100
-du montant au bilan des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
-
-3° Les prêts mentionnés aux 9°, 10° et 11° de l'article R. 332-2 ne peuvent représenter plus de 35 p. 100 du montant au bilan
-des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
-
-4° Les liquidités mentionnées au 16° de l'article R. 332-2 ne peuvent représenter plus de 15 p. 100 du montant au bilan des
-valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
-
-5° Sauf dérogation accordée par le ministre de l'économie et des finances :
-
-- un même immeuble ou les parts ou actions d'une même société immobilière ne peuvent représenter plus de 10 p. 100 du montant
-au bilan des valeurs énumérées à l'article R. 332-2 et affectées à la représentation des provisions techniques ;
-
-- les valeurs émises ou les prêts obtenus par un même emprunteur, à l'exception des valeurs émises par l'Etat ou jouissance
-de sa garantie, ne peuvent représenter plus de 5 p. 100 du montant au bilan des valeurs énumérées à l'article R. 332-2 et
-affectées à la représentation des provisions techniques ;
-
-6° L'ensemble des parts ou actions d'entreprises étrangères d'assurance ou de capitalisation mentionnées à l'article R.
-332-2, 13°, ne peut dépasser 5 p. 100 du montant au bilan des valeurs énumérées au même article et affectées à la
-représentation des provisions techniques ;
-
-7° Une entreprise d'assurance ou de capitalisation ne peut détenir au titre des valeurs énumérées à l'article R. 332-2 et
-affectées à la représentation des provisions techniques, plus de 5 p. 100 des titres inscrits à la cote officielle des
-bourses françaises de valeurs d'une même entreprise d'assurance, de réassurance ou de capitalisation, sauf dérogation
-accordée par le ministre de l'économie et des finances ;
-
-8° Les titres de rente et les obligations non cotées émises par l'Etat français ou jouissant de sa garantie et les
-obligations non cotées émises par le Crédit foncier et communal d'Alsace et de Lorraine, antérieurement au 15 décembre 1972,
-sont assimilés à des obligations cotées pour l'application des dispositions de l'article R. 332-2, 12° et du 1° du présent
-article.
-
-9° Les provisions techniques des entreprises opérant à la fois sur le territoire français et sur le territoire monégasque
-doivent être représentées dans les conditions prévues par la réglementation française ; toutefois, les actifs admis en
-représentation desdites provisions peuvent comprendre, à concurrence de 5 p. 100 du montant de celles-ci, des placements
-mobiliers ou immobiliers monégasques, sur autorisation donnée conjointement, pour chaque entreprise ou pour chaque cas, par
-le ministre de l'économie et des finances de la République française et par le ministre d'Etat de la Principauté de Monaco ;
-
-10° En ce qui concerne les opérations réalisées dans les départements d'outre-mer et dans les territoires de la Nouvelle-
-Calédonie, de la Polynésie française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de
-Wallis et Futuna, le ministre de l'économie et des finances peut, sur proposition du préfet ou du chef de territoire,
-augmenter les proportions maximales suivant lesquelles les placements dans lesdits départements et territoires sont admis en
-représentation des provisions techniques afférentes aux opérations précitées.
-
-Il peut de même, à titre exceptionnel, accorder aux entreprises des dérogations à la réglementation de contrôle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°70-36 1970-01-09
-  - Décret n°1938-12-30 art. 154
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°86-1111 du 15 octobre 1986 - art. 5 (Ab)
-  - Arrêté du 22 avril 2004 - art. 19 (Ab)
-  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
-  - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
-  - Décret n°2007-243 du 23 février 2007 - art. 5 (V)
-  - Décret n°2017-1765 du 26 décembre 2017 - art. 3
-  - Décret n°2017-1765 du 26 décembre 2017 - art. 4
-  - Code de l'environnement - art. R561-9 (V)
-  - Code de la mutualité - art. R222-8 (V)
-  - Code des assurances - art. A134-3 (V)
-  - Code des assurances - art. A142-3 (VT)
-  - Code des assurances - art. A332-1 bis (Ab)
-  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
-  - Code des assurances - art. R*332-11 (M)
-  - Code des assurances - art. R*431-17 (M)
-  - Code des assurances - art. R*431-23 (M)
-  - Code des assurances - art. R*431-42 (Ab)
-  - Code des assurances - art. R134-14 (V)
-  - Code des assurances - art. R142-14 (V)
-  - Code des assurances - art. R332-17 (VD)
-  - Code des assurances - art. R332-3-1 (VD)
-  - Code des assurances - art. R332-3-2 (VD)
-  - Code des assurances - art. R332-3-3 (M)
-  - Code des assurances - art. R332-5 (V)
-  - Code des assurances - art. R332-51 (V)
-  - Code des assurances - art. R332-52 (V)
-  - Code des assurances - art. R332-55 (V)
-  - Code des assurances - art. R332-57 (V)
-  - Code des assurances - art. R332-60 (VT)
-  - Code des assurances - art. R332-65 (VD)
-  - Code des assurances - art. R332-7 (M)
-  - Code des assurances - art. R332-7-1 (V)
-  - Code des assurances - art. R342-2 (VT)
-  - Code des assurances - art. R370-3 (V)
-  - Code des assurances - art. R422-5 (V)
-  - Code des assurances - art. R424-6 (V)
-  - Code des assurances - art. R427-5 (V)
-  - Code des assurances - art. R431-35 (V)
-  - Code des assurances - art. R431-57 (V)
-  - Code des assurances - art. R441-7 (VD)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. A332-1 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. R*332-2 (M)
-
-
 ###### Article R*332-4
 
 Sont admises en représentation des provisions techniques correspondant aux branches mentionnées aux 19, 20 et 21 de l'article
@@ -25367,6 +25052,330 @@ _Cite_:
 _Anciens textes_:
 
   - Décret n°1938-12-30 art. 163
+
+
+###### Article R332-2
+
+Sous réserve des dispositions des articles R. 332-1 et des articles R. 332-4 à R. 332-7, les provisions techniques
+mentionnées aux articles R. 331-3, R. 331-5 et R. 331-6 sont représentées par les actifs suivants :
+
+1° Valeurs émises par l'Etat français ou jouissant de sa garantie, inscrites à la cote officielle des bourses françaises de
+valeurs ou en instance d'inscription, ainsi que les portions de coupons attachés à celles de ces valeurs évaluées selon les
+règles de l'article R. 332-19, courues à la clôture de chaque exercice ;
+
+2° Autres obligations inscrites à la cote officielle des bourses françaises de valeurs ou en instance d'inscription, ainsi
+que les portions de coupons attachés aux mêmes obligations évaluées selon les règles de l'article R. 332-19, courues à la
+clotûre de chaque exercice ;
+
+3° Actions des sociétés d'investissement à capital variable dont l'objet est limité à la gestion d'un portefeuille de valeurs
+mentionnées aux 1° et 2° ci-dessus ;
+
+4° Actions, parts et autres valeurs mobilières inscrites à la cote officielle ou au compartiment spécial du marché hors cote
+des bourses françaises de valeurs ;
+
+5° Valeurs mobilières étrangères ayant fait l'objet d'une émission publique ou inscrites à la cote d'une bourse de valeurs,
+dans les conditions déterminées par arrêté du ministre de l'économie et des finances ;
+
+6° Actions de sociétés d'investissement à capital variable, dans les conditions déterminées par arrêté du ministre de
+l'économie et des finances ;
+
+7° Immeubles bâtis en France métropolitaine.
+
+Tous autres immeubles situés en France métropolitaine et dans les départements et territoires d'outre-mer, sur autorisation
+donnée dans chaque cas par le ministre de l'économie et des finances.
+
+Parts ou actions de sociétés immobilières non inscrites à la cote officielle des bourses françaises de valeurs, dans les
+conditions déterminées dans chaque cas par le ministre de l'économie et des finances.
+
+Droits réels immobiliers donnant à leurs titulaires les prérogatives du propriétaire pendant une durée au moins égale à
+trente ans ;
+
+8° Billets émis et négociables sur le marché hypothécaire, conformément aux règles de fonctionnement de ce marché ;
+
+9° Prêts en première hypothèque sur tous immeubles et ouvertures de crédits hypothécaires consenties en vue de la
+construction d'immeubles d'habitation, à condition que les immeubles soient situés en France métropolitaine ou dans les
+départements et territoires d'outre-mer et que, sauf dérogation accordée par le ministre de l'économie et des finances,
+l'ensemble des hypothèques en premier rang sur un même immeuble n'excède pas 50 p. 100 de la valeur estimative dudit
+immeuble.
+
+Prêts garantis par des hypothèques maritimes en premier rang, dans les conditions déterminées par décret ;
+
+10° Prêts aux communes, syndicats de communes, communautés urbaines, districts, établissements publics hospitaliers,
+départements, régions, territoires d'outre-mer, et obligations libérées émises par lesdites collectivités.
+
+Prêts aux organismes d'habitation à loyer modéré mentionnés à l'article 159 du code de l'urbanisme et de l'habitation, aux
+coopératives de construction et aux sociétés d'économie mixte de construction de logements, et obligations libérées émises
+par lesdits organismes. Chacun de ces prêts ou obligations doit bénéficier de la garantie totale et inconditionnelle de la
+collectivité locale intéressée. Cette garantie doit avoir pour effet de substituer, immédiatement et sans réserve, la
+collectivité garante au débiteur défaillant.
+
+Prêts aux ports autonomes ou aux chambres de commerce garantis par des péages ou autres rémunérations de services, et
+obligations libérées émises par lesdits organismes ;
+
+11° Prêts ou effets représentatifs de prêts aux entreprises industrielles et commerciales dans les conditions et avec les
+garanties déterminées par arrêté du ministre de l'économie et des finances.
+
+12° Prêts sur les valeurs mentionnées aux 1° et 15° du présent article, dans la limite de 75 p. 100 au plus de leur montant
+nominal ;
+
+13° Parts ou actions d'entreprises étrangères d'assurance dans lesquelles des entreprises françaises d'assurance, de
+réassurance ou de capitalisation, individuellement ou collectivement, possèdent une participation au moins égale à 20 p. 100
+du capital social. Ces valeurs sont admises en représentation des provisions techniques dans les conditions fixées, dans
+chaque cas, par le ministre de l'économie et des finances ;
+
+14° Créances nettes sur le fonds de garantie prévu par la législation sur les accidents du travail, sur le fonds de garantie
+institué par l'article L. 420-1 et sur le fonds institué par l'article 2 de la loi n° 74-1118 du 27 décembre 1974 ;
+
+15° Bons du Trésor et autres valeurs, à court ou moyen terme, figurant sur un liste fixée par arrêté du ministre de
+l'économie et des finances ;
+
+16° Fonds déposés chez les comptables du Trésor, aux chèques postaux et dans les banques.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°74-1118 du 27 décembre 1974 - art. 2 (M)
+  - Code des assurances - art. L420-1 (M)
+  - Code des assurances - art. R*331-3 (M)
+  - Code des assurances - art. R*331-5 (M)
+  - Code des assurances - art. R*331-6 (M)
+  - Code des assurances R332-1, R332-4 à R332-7, R331-3, R331-5, R331-6, R332-19, L420-1
+  - Code de l'urbanisme 159
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Cité par_:
+
+  - Décret n°79-823 du 21 septembre 1979 - art. 3 (Ab)
+  - Décret n°86-1111 du 15 octobre 1986 - art. 5 (Ab)
+  - Décret n°92-183 du 26 février 1992 - art. 16 (Ab)
+  - Décret n°95-1115 du 17 octobre 1995 - art. 8 (Ab)
+  - Décret n°2000-142 du 18 février 2000 - art. 11 (V)
+  - Décret n°2004-342 du 21 avril 2004 - art. 29 (Ab)
+  - Décret n°2004-342 du 21 avril 2004 - art. 35 (Ab)
+  - Décret n°2004-342 du 21 avril 2004 - art. 37 (Ab)
+  - Décret n°2004-569 du 18 juin 2004 - art. 29 (V)
+  - Décret n°2006-1499 du 29 novembre 2006 - art. 7 (VD)
+  - Décret  n°2007-243 du 23 février 2007 - art. 4 (V)
+  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
+  - Décret n°2007-243 du 23 février 2007 - art. 5 (V)
+  - Décret n°2009-527 du 12 mai 2009 - art. 7 (V)
+  - Décret n°2016-1781 du 19 décembre 2016 - art. 1
+  - Décret n°2017-1591 du 20 novembre 2017 - art. 15
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 6
+  - Code de l'environnement - art. R561-9 (V)
+  - Code de la mutualité - art. Annexe à l'article A223-6-1 (V)
+  - Code de la mutualité - art. R223-1 (VD)
+  - Code de la mutualité - art. R223-3 (V)
+  - Code de la santé publique - art. R3122-16 (MMN)
+  - Code de la sécurité sociale. - art. R932-3-1 (VD)
+  - Code des assurances - art. A132-6 (V)
+  - Code des assurances - art. A322-5 (Ab)
+  - Code des assurances - art. A331-2 (V)
+  - Code des assurances - art. A332-1 (Ab)
+  - Code des assurances - art. A332-1 bis (Ab)
+  - Code des assurances - art. A332-2 (Ab)
+  - Code des assurances - art. A332-3 (Ab)
+  - Code des assurances - art. A332-4 (M)
+  - Code des assurances - art. A332-7 (V)
+  - Code des assurances - art. A333-5 (Ab)
+  - Code des assurances - art. A344-15 (Ab)
+  - Code des assurances - art. A344-8 (M)
+  - Code des assurances - art. A431-5 (M)
+  - Code des assurances - art. A432-10 (Ab)
+  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
+  - Code des assurances - art. Annexe art. A132-4 (VD)
+  - Code des assurances - art. R*332-11 (M)
+  - Code des assurances - art. R*332-8 (M)
+  - Code des assurances - art. R*420-47 (T)
+  - Code des assurances - art. R*431-17 (M)
+  - Code des assurances - art. R*431-23 (M)
+  - Code des assurances - art. R*431-42 (Ab)
+  - Code des assurances - art. R131-1 (VD)
+  - Code des assurances - art. R131-3 (V)
+  - Code des assurances - art. R134-14 (V)
+  - Code des assurances - art. R142-14 (Ab)
+  - Code des assurances - art. R332-1 (M)
+  - Code des assurances - art. R332-10-3 (VT)
+  - Code des assurances - art. R332-12 (V)
+  - Code des assurances - art. R332-13 (V)
+  - Code des assurances - art. R332-14 (V)
+  - Code des assurances - art. R332-14-1 (V)
+  - Code des assurances - art. R332-14-2 (VD)
+  - Code des assurances - art. R332-15 (V)
+  - Code des assurances - art. R332-16 (V)
+  - Code des assurances - art. R332-17 (VD)
+  - Code des assurances - art. R332-19 (VT)
+  - Code des assurances - art. R332-2-1 (V)
+  - Code des assurances - art. R332-20 (V)
+  - Code des assurances - art. R332-20-1 (V)
+  - Code des assurances - art. R332-20-2 (VT)
+  - Code des assurances - art. R332-3 (VD)
+  - Code des assurances - art. R332-3-1 (VD)
+  - Code des assurances - art. R332-4 (M)
+  - Code des assurances - art. R332-46 (V)
+  - Code des assurances - art. R332-52 (V)
+  - Code des assurances - art. R332-53 (V)
+  - Code des assurances - art. R332-56 (V)
+  - Code des assurances - art. R332-57 (V)
+  - Code des assurances - art. R332-7 (M)
+  - Code des assurances - art. R332-7-1 (M)
+  - Code des assurances - art. R334-11 (VD)
+  - Code des assurances - art. R334-3 (VD)
+  - Code des assurances - art. R342-4 (V)
+  - Code des assurances - art. R343-11 (VD)
+  - Code des assurances - art. R343-12 (V)
+  - Code des assurances - art. R343-2 (Ab)
+  - Code des assurances - art. R343-9 (VD)
+  - Code des assurances - art. R370-3 (V)
+  - Code des assurances - art. R385-1 (VD)
+  - Code des assurances - art. R385-5 (V)
+  - Code des assurances - art. R421-47 (V)
+  - Code des assurances - art. R422-5 (V)
+  - Code des assurances - art. R424-6 (V)
+  - Code des assurances - art. R427-5 (V)
+  - Code des assurances - art. R431-35 (V)
+  - Code des assurances - art. R431-57 (V)
+  - Code des assurances - art. R441-7-1 (V)
+  - Code rural - art. D361-3 (V)
+  - Code rural - art. R*361-3 (T)
+  - Code rural et de la pêche maritime - art. D361-5 (V)
+
+_Modifié par_:
+
+  - Décret n°80-759 du 22 septembre 1980 - art. 1 () JORF 28 septembre 1980
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°80-759 du 22 septembre 1980 - art. 3 (V)
+  - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
+  - TXT_ASSOCIE: Code des assurances - art. A332-3 (M)
+  - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
+  - TXT_ASSOCIE: Code des assurances - art. A332-4 (M)
+  - TXT_ASSOCIE: Code des assurances - art. R332-16 (M)
+
+
+###### Article R332-3
+
+Les actifs mentionnés à l'article R. 332-2 doivent satisfaire aux conditions suivantes :
+
+1° Les valeurs mentionnées du 4° au 16° de l'article R. 332-2 ne peuvent représenter plus des deux tiers du montant au bilan
+des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
+
+2° Les immeubles et les valeurs assimilées mentionnées au 7° de l'article R. 332-2 ne peuvent représenter plus de 40 p. 100
+du montant au bilan des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
+
+3° Les prêts mentionnés aux 9°, 10° et 11° de l'article R. 332-2 ne peuvent représenter plus de 35 p. 100 du montant au bilan
+des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
+
+4° Les liquidités mentionnées au 16° de l'article R. 332-2 ne peuvent représenter plus de 15 p. 100 du montant au bilan des
+valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
+
+5° Sauf dérogation accordée par le ministre de l'économie et des finances :
+
+- un même immeuble ou les parts ou actions d'une même société immobilière ne peuvent représenter plus de 10 p. 100 du montant
+au bilan des valeurs énumérées à l'article R. 332-2 et affectées à la représentation des provisions techniques ;
+
+- les valeurs émises ou les prêts obtenus par un même emprunteur, à l'exception des valeurs émises par l'Etat ou jouissant de
+sa garantie, ne peuvent représenter plus de 5 p. 100 du montant au bilan des valeurs énumérées à l'article R. 332-2 et
+affectées à la représentation des provisions techniques ;
+
+Les actions, parts et autres valeurs mobilières inscrites au compartiment spécial du marché hors cote des bourses françaises
+de valeurs ne peuvent représenter plus de 5 p. 100 de l'ensemble des valeurs mentionnées au 4° de l'article R. 332-2.
+
+6° L'ensemble des parts ou actions d'entreprises étrangères d'assurance ou de capitalisation mentionnées à l'article R.
+332-2, 13°, ne peut dépasser 5 p. 100 du montant au bilan des valeurs énumérées au même article et affectées à la
+représentation des provisions techniques ;
+
+7° Une entreprise d'assurance ou de capitalisation ne peut détenir au titre des valeurs énumérées à l'article R. 332-2 et
+affectées à la représentation des provisions techniques, plus de 5 p. 100 des titres inscrits à la cote officielle des
+bourses françaises de valeurs d'une même entreprise d'assurance, de réassurance ou de capitalisation, sauf dérogation
+accordée par le ministre de l'économie et des finances ;
+
+8° Les titres de rente et les obligations non cotées émises par l'Etat français ou jouissant de sa garantie et les
+obligations non cotées émises par le Crédit foncier et communal d'Alsace et de Lorraine, antérieurement au 15 décembre 1972,
+sont assimilés à des obligations cotées pour l'application des dispositions de l'article R. 332-2, 12° et du 1° du présent
+article.
+
+9° Les provisions techniques des entreprises opérant à la fois sur le territoire français et sur le territoire monégasque
+doivent être représentées dans les conditions prévues par la réglementation française ; toutefois, les actifs admis en
+représentation desdites provisions peuvent comprendre, à concurrence de 5 p. 100 du montant de celles-ci, des placements
+mobiliers ou immobiliers monégasques, sur autorisation donnée conjointement, pour chaque entreprise ou pour chaque cas, par
+le ministre de l'économie et des finances de la République française et par le ministre d'Etat de la Principauté de Monaco ;
+
+10° En ce qui concerne les opérations réalisées dans les départements d'outre-mer et dans les territoires de la Nouvelle-
+Calédonie, de la Polynésie française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de
+Wallis et Futuna, le ministre de l'économie et des finances peut, sur proposition du préfet ou du chef de territoire,
+augmenter les proportions maximales suivant lesquelles les placements dans lesdits départements et territoires sont admis en
+représentation des provisions techniques afférentes aux opérations précitées.
+
+Il peut de même, à titre exceptionnel, accorder aux entreprises des dérogations à la réglementation de contrôle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°80-759 du 22 septembre 1980 - art. 2 () JORF 28 septembre 1980
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°80-759 du 22 septembre 1980 - art. 3 (V)
+  - TXT_ASSOCIE: Code des assurances - art. A332-1 (Ab)
+
+_Cité par_:
+
+  - Décret n°86-1111 du 15 octobre 1986 - art. 5 (Ab)
+  - Arrêté du 22 avril 2004 - art. 19 (Ab)
+  - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
+  - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
+  - Décret n°2007-243 du 23 février 2007 - art. 5 (V)
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 3
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 4
+  - Code de l'environnement - art. R561-9 (V)
+  - Code de la mutualité - art. R222-8 (V)
+  - Code des assurances - art. A134-3 (V)
+  - Code des assurances - art. A142-3 (VT)
+  - Code des assurances - art. A332-1 bis (Ab)
+  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
+  - Code des assurances - art. R*332-11 (M)
+  - Code des assurances - art. R*431-17 (M)
+  - Code des assurances - art. R*431-23 (M)
+  - Code des assurances - art. R*431-42 (Ab)
+  - Code des assurances - art. R134-14 (V)
+  - Code des assurances - art. R142-14 (V)
+  - Code des assurances - art. R332-17 (VD)
+  - Code des assurances - art. R332-3-1 (VD)
+  - Code des assurances - art. R332-3-2 (VD)
+  - Code des assurances - art. R332-3-3 (M)
+  - Code des assurances - art. R332-5 (V)
+  - Code des assurances - art. R332-51 (V)
+  - Code des assurances - art. R332-52 (V)
+  - Code des assurances - art. R332-55 (V)
+  - Code des assurances - art. R332-57 (V)
+  - Code des assurances - art. R332-60 (VT)
+  - Code des assurances - art. R332-65 (VD)
+  - Code des assurances - art. R332-7 (M)
+  - Code des assurances - art. R332-7-1 (V)
+  - Code des assurances - art. R342-2 (VT)
+  - Code des assurances - art. R370-3 (V)
+  - Code des assurances - art. R422-5 (V)
+  - Code des assurances - art. R424-6 (V)
+  - Code des assurances - art. R427-5 (V)
+  - Code des assurances - art. R431-35 (V)
+  - Code des assurances - art. R431-57 (V)
+  - Code des assurances - art. R441-7 (VD)
+
+_Cite_:
+
+  - Code des assurances - art. R*332-2 (M)
 
 
 ##### Section II : Réglementations particulières concernant certains éléments d'actif.<a id=257></a>
