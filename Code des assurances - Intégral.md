@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-10-01
+Version Consolidée au 1994-11-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -325,11 +325,11 @@ Version Consolidée au 1994-10-01
             - [Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages aux biens. (art. R421-18 à R421-20)](#322)
           - [Section II : Dispositions applicables aux accidents de chasse. (art. R421-21 à R421-24)](#323)
           - [Section III : Organisation, fonctionnement et contrôle du fonds de garantie. (art. R421-25 à R421-26)](#324)
-          - [Section IV : Régime financier du fonds de garantie (art. R*421-29 à R421-47)](#325)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents d'automobile. (art. R*421-29 à R421-37)](#326)
+          - [Section IV : Régime financier du fonds de garantie (art. R421-27 à R421-47)](#325)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents d'automobile. (art. R421-27 à R421-37)](#326)
             - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. R421-38 à R421-43)](#327)
             - [Paragraphe 3 : Dispositions communes aux accidents de la circulation et de chasse. (art. R421-44 à R421-47)](#328)
-          - [Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile. (art. R*421-48 à R421-54)](#329)
+          - [Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile. (art. R*421-50 à R421-54)](#329)
           - [Section VI : Dispositions particulières aux départements d'outre-mer. (art. R421-57)](#330)
           - [Section VII : Dispositions particulières aux territoires d'outre-mer et à la collectivité territoriale de Mayotte. (art. R421-58 à R421-63-1)](#331)
           - [Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger. (art. R421-64 à R421-70)](#332)
@@ -35584,10 +35584,10 @@ _Cite_:
 
 ###### Article R421-21
 
-Les indemnités dues en vertu des dispositions de l'article 366 ter du code rural aux victimes d'accidents qui donnent
-naissance à des dommages résultant d'une atteinte à la personne ou à leurs ayants droit sont prises en charge par le fonds de
-garantie conformément aux dispositions de la présente section et à la condition que ces accidents soient survenus sur le
-territoire de la France métropolitaine et des départements d'outre-mer, à l'exception du département de la Guyane.
+Les indemnités dues en vertu des dispositions de l'article L. 421-8 du code des assurances aux victimes d'accidents qui
+donnent naissance à des dommages résultant d'une atteinte à la personne ou à leurs ayants droit sont prises en charge par le
+fonds de garantie conformément aux dispositions de la présente section et à la condition que ces accidents soient survenus
+sur le territoire de la France métropolitaine et des départements d'outre-mer, à l'exception du département de la Guyane.
 
 **Liens relatifs à cet article**
 
@@ -35595,23 +35595,24 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 12 *champ d'application*
   - TXT_SOURCE: Code des assurances - art. L420-8 (T)
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+_Modifié par_:
+
+  - Décret n°94-1023 du 29 novembre 1994 - art. 1 () JORF 30 novembre 1994
+
+_Cite_:
+
+  - Code des assurances - art. L421-8 (M)
 
 _Anciens textes_:
 
   - Code des assurances - art. R*420-21 (T)
   - Code des assurances R420-21
-
-_Cite_:
-
-  - Code rural 366 ter
 
 
 ###### Article R421-22
@@ -35645,18 +35646,19 @@ _Anciens textes_:
 
 Tout auteur d'un accident qui donne naissance à des dommages résultant d'atteintes à la personne survenu au cours d'un acte
 de chasse ou de destruction des animaux nuisibles doit présenter, le cas échéant, son permis et faire connaître à l'agent de
-la force publique qui dresse le procès-verbal ou établit le rapport de l'accident la ou les assurances autres que celles
-prévues par l'article 366 ter du code rural qui serait de nature à couvrir les dommages causés. Il doit également préciser le
-nom et l'adresse de la ou des entreprises d'assurances ainsi que le numéro du ou des contrats. Toute omission volontaire de
-déclaration ou fausse déclaration faite de mauvaise foi sera punie d'une amende prévue pour les contraventions de troisième
-classe.
+la force publique qui dresse le procès-verbal ou établit le rapport relatif à l'accident la ou les assurances autres que
+celles prévues par l'article L. 421-8 du code des assurances qui seraient de nature à couvrir les dommages causés. Il doit
+également préciser le nom et l'adresse de la ou des entreprises d'assurances ainsi que le numéro du ou des contrats. Toute
+omission volontaire de déclaration ou fausse déclaration faite de mauvaise foi sera punie d'une amende prévue pour les
+contraventions de troisième classe *sanctions*.
 
 Les renseignements résultant soit des mentions figurant sur le permis de chasser en vertu des dispositions du dernier alinéa
-de l'article 366 ter du code rural, soit de la déclaration prévue ci-dessus, doivent être obligatoirement indiqués sur le
-procès-verbal ou le rapport relatif à l'accident. Si un ou plusieurs des renseignements faisant l'objet de la déclaration
-prévue à l'alinéa précédent sont ignorés de l'auteur de l'accident au moment de l'établissement du procès-verbal ou du
-rapport, cette circonstance est mentionnée ainsi que l'engagement qui doit avoir été pris par ledit auteur de faire parvenir
-ces renseignements sous huitaine. Dans ce cas, il est dressé ultérieurement un procès-verbal ou un rapport complémentaire.
+de l'article L. 421-8 du code des assurances, soit de la déclaration prévue ci-dessus, doivent être obligatoirement indiqués
+sur le procès-verbal ou le rapport relatif à l'accident. Si un ou plusieurs des renseignements faisant l'objet de la
+déclaration prévue à l'alinéa précédent sont ignorés de l'auteur de l'accident au moment de l'établissement du procès-verbal
+ou du rapport, cette circonstance est mentionnée ainsi que l'engagement qui doit avoir été pris par ledit auteur de faire
+parvenir ces renseignements sous huitaine. Dans ce cas, il est dressé ultérieurement un procès-verbal ou un rapport
+complémentaire.
 
 Si l'auteur d'un accident qui donne naissance à des dommages résultant d'atteintes à la personne est inconnu, le procès-
 verbal ou le rapport relatif à cet accident doit mentionner expressément cette circonstance.
@@ -35670,14 +35672,19 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 12 *champ d'application*
   - TXT_SOURCE: Code des assurances - art. L420-8 (T)
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+_Modifié par_:
+
+  - Décret n°94-1023 du 29 novembre 1994 - art. 1 () JORF 30 novembre 1994
+
+_Cite_:
+
+  - Code des assurances - art. L421-8 (M)
 
 _Anciens textes_:
 
@@ -35688,10 +35695,6 @@ _Cité par_:
 
   - Code des assurances - art. R421-24 (V)
 
-_Cite_:
-
-  - Code rural 366 ter
-
 
 ###### Article R421-24
 
@@ -35701,10 +35704,10 @@ l'auteur d'un accident résultant d'actes de chasse ou de destruction d'animaux 
 garantie.
 
 Les dispositions des articles R. 421-12 à R. 421-17 sont applicables à l'indemnisation par le fonds de garantie des dommages
-de chasse résultant d'atteintes à la personne mentionnés à l'article 366 ter du code rural, étant précisé qu'en matière
-d'accidents de chasse l'interdiction de citation en justice mentionnée par l'article R. 421-14 s'applique aux citations pour
-l'application de l'article 366 ter du code rural et que, dans la même matière, le rapport mentionné au 3e alinéa de l'article
-R. 421-15 est celui qui est prévu par l'article R. 421-23.
+de chasse résultant d'atteintes à la personne mentionnés à l'article L. 421-8 du code des assurances, étant précisé qu'en
+matière d'accidents de chasse l'interdiction de citation en justice mentionnée par l'article R. 421-14 s'applique aux
+citations pour l'application de l'article L. 421-8 du code des assurances et que, dans la même matière, le rapport mentionné
+au 3e alinéa de l'article R. 421-15 est celui qui est prévu par l'article R. 421-23.
 
 Toutefois, le bénéfice du fonds n'est donné que lorsqu'il est justifié que la victime a la nationalité française ou a sa
 résidence principale sur le territoire de la République française ou est ressortissant d'un Etat ayant conclu avec la France
@@ -35714,9 +35717,9 @@ La contribution que le fonds peut recouvrer, le cas échéant, sur le débiteur 
 prévue au 2° de l'article R. 421-38.
 
 Toute transaction ayant pour objet de fixer ou de régler les indemnités dues par les responsables non assurés d'accidents
-corporels de chasse ou de destruction des animaux nuisibles définis à l'article 366 ter du code rural doit être notifiée au
-fonds de garantie par le débiteur de l'indemnité dans un délai d'un mois par lettre recommandée avec demande d'avis de
-réception sous peine de l'amende prévue pour les contraventions de troisième classe.
+corporels de chasse ou de destruction des animaux nuisibles définis à l'article L. 421-8 du code des assurances doit être
+notifiée au fonds de garantie par le débiteur de l'indemnité dans un délai d'un mois par lettre recommandée avec demande
+d'avis de réception sous peine de l'amende prévue pour les contraventions de troisième classe.
 
 **Liens relatifs à cet article**
 
@@ -35724,28 +35727,23 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
+_Modifié par_:
 
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+  - Décret n°94-1023 du 29 novembre 1994 - art. 1 () JORF 30 novembre 1994
 
-**Liens**:
+_Cite_:
 
-  - TXT_SOURCE: Code des assurances - art. L420-8 (T)
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+  - Code des assurances - art. L421-8 (M)
+  - Code des assurances - art. R421-14 (M)
+  - Code des assurances - art. R421-15 (M)
+  - Code des assurances - art. R421-23 (M)
+  - Code des assurances - art. R421-38 (M)
+  - Code des assurances L421-8, R421-4 à R421-10, R421-12 à R421-17, R421-14, R421-15, R421-23, R421-38
 
 _Anciens textes_:
 
   - Code des assurances - art. R*420-24 (T)
   - Code des assurances R420-24
-
-_Cite_:
-
-  - Code des assurances - art. R421-14 (M)
-  - Code des assurances - art. R421-15 (M)
-  - Code des assurances - art. R421-23 (M)
-  - Code des assurances - art. R421-38 (M)
-  - Code des assurances R421-4 à R421-10, R421-12 à R421-17, R421-14, R421-15, R421-23, R421-38
-  - Code rural 366 ter
 
 
 ##### Section III : Organisation, fonctionnement et contrôle du fonds de garantie.<a id=324></a>
@@ -35847,236 +35845,36 @@ _Anciens textes_:
 
 ##### Paragraphe 1 : Dispositions spéciales aux accidents d'automobile.<a id=326></a>
 
-###### Article R*421-29
-
-Sur le montant des encaissements effectués par les services de la direction générale des impôts au titre des contributions
-mentionnées aux articles R. 420-27 et R. 420-28, il est opéré un prélèvement de 2 p. 100. Le produit de ce prélèvement est
-rattaché au budget du ministère de l'économie et des finances. Il sert à couvrir dans les limites et conditions déterminées
-par arrêté du ministre de l'économie et des finances les dépenses de matériel et de personnel résultant des recouvrements
-effectués pour le compte du fonds de garantie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
-  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-_Anciens textes_:
-
-  - Code des assurances - art. R420-29 (M)
-
-_Cite_:
-
-  - Code des assurances R420-27, R420-28
-
-
-###### Article R*421-32
-
-Sont considérés comme véhicules étrangers, pour l'application du dernier alinéa de l'article R. 420-27 :
-
-1° Lorsqu'ils sont soumis à immatriculation, les véhicules immatriculés autrement que dans l'une quelconque des séries
-prévues par la réglementation en vigueur sur le territoire de la République française ;
-
-2° Lorsqu'ils ne sont pas soumis à immatriculation, les véhicules que font circuler, sur le territoire de la République
-française, les personnes dont la résidence habituelle est située hors de ce territoire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-  - TXT_SOURCE: Code des assurances R420-27
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-_Cite_:
-
-  - Code des assurances R420-27
-
-_Anciens textes_:
-
-  - Code des assurances R420-32
-
-
-###### Article R*421-33
-
-Toute personne responsable d'un accident dans lequel est impliqué un véhicule à moteur étranger sur le territoire de la
-République française, et dont la responsabilité n'est pas garantie par une assurance dans les conditions définies aux
-articles R. 211-22, R. 211-23 et R. 211-25 à R. 211-27 est tenue au paiement de la contribution prévue au 2° de l'article R.
-420-27.
-
-Lorsque dans un accident est impliqué un véhicule appartenant à un Etat étranger pour lequel a été fournie l'attestation
-prévue à l'article R. 211-25, la contribution est fixée dans les mêmes conditions que pour les véhicules appartenant à l'Etat
-français.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-  - TXT_SOURCE: Code des assurances R420-27
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-_Cite_:
-
-  - Code des assurances R211-22, R211-23, R211-25 à R211-27
-
-_Anciens textes_:
-
-  - Code des assurances R420-33
-
-
-###### Article R*421-34
-
-Les contrats souscrits auprès des entreprises d'assurance mentionnées à l'article L. 421-2 pour l'assurance des risques de
-responsabilité civile résultant d'accidents dans lesquels sont impliqués des véhicules étrangers donnent lieu au versement de
-la contribution prévue au 3° de l'article R. 420-27.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-_Modifié par_:
-
-  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-  - TXT_SOURCE: Code des assurances R420-27
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-_Cite_:
-
-  - Code des assurances - art. L421-2 (M)
-  - Code des assurances L421-2, R420-27
-
-_Anciens textes_:
-
-  - Code des assurances R420-34
-
-
-###### Article R*421-35
-
-Les dispositions des articles R. 420-27 et R. 420-28 ne sont pas applicables aux véhicules couverts par l'assurance frontière
-mentionnée à l'article R. 211-23.
-
-L'adhésion à l'assurance frontière donne lieu au paiement d'une contribution au profit du fonds de garantie, qui est perçue
-en même temps et dans les mêmes conditions que la prime afférente à cette assurance.
-
-Cette contribution peut varier suivant le genre du véhicule utilisé et ne doit pas excéder 15 % de la prime susmentionnée.
-Son montant et les modalités de son recouvrement sont fixés par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
-  - TXT_SOURCE: Code des assurances R420-27
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-_Cite_:
-
-  - Code des assurances R211-23, R420-27, R420-28
-
-_Anciens textes_:
-
-  - Code des assurances R420-35
-
-
 ###### Article R421-27
 
 Pour l'application des dispositions de l'article L. 421-4, les contributions prévues pour l'alimentation du fonds de garantie
 sont assises et recouvrées dans les conditions suivantes :
 
 1° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
-et rappels compris et annulations déduites, relative à l'assurance des véhicules terrestres à moteur et des remorques ou
+et rappels compris et annulations déduites, relatives à l'assurance des véhicules terrestres à moteur et des remorques ou
 semi-remorques des véhicules lorsque le risque est situé sur le territoire de la République française. Elle est liquidée et
-recouvrée par le fonds de garantie.
+recouvrée par le fonds de garantie qui peut prévoir le versement d'acomptes.
 
 2° La contribution des responsables d'accidents causés par l'utilisation des véhicules définis au 1° ci-dessus, non
 bénéficiaires d'une assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des
 dommages résultant de ces accidents. Sont considérées comme bénéficiaires d'une assurance, au sens du présent article, les
 personnes dont la responsabilité civile est couverte par un contrat d'assurance dans les conditions prévues par l'article L.
-211-1 ; un tel bénéfice ne leur est toutefois acquis, au sens du présent article, que pour la part excédant la franchise
+211-1. Un tel bénéfice ne leur est toutefois acquis, au sens du présent article, que pour la part excédant la franchise
 prévue éventuellement par leur contrat en application de l'article L. 121-1.
 
-En cas d'instance judiciaire, la décision doit faire apparaître si le responsable est ou non bénéficiaire d'une assurance. La
-décision de justice ou la transaction doit opérer, le cas échéant, une ventilation entre les indemnités dues à titre de
-réparation des dommages résultant des dommages résultant d'atteintes à la personne et celles qui sont dues en réparation de
-dommages aux biens.
+En cas d'instance judiciaire, la décision doit faire apparaître si le responsable est ou non bénéficiaire d'une assurance.
 
-La contribution est liquidée et recouvrée par les services de la direction générale des impôts selon les mêmes règles, sous
+La contribution est liquidée et recouvrée par les services de la direction générale des impôts, selon les mêmes règles, sous
 les mêmes garanties et sous les mêmes sanctions qu'en matière de droits d'enregistrement. Elle est perçue sur la notification
 faite à la direction générale des impôts par le fonds de garantie.
 
 La contribution doit être acquittée dans le délai d'un mois à compter de la réclamation adressée par la direction générale
 des impôts.
 
-3° La contribution des assurés est assise sur toutes les primes ou cotisations qu'ils versent aux entreprises d'assurance
-mentionnées à l'article L. 421-2 pour l'assurance des risques de responsabilité civile résultant d'accidents causés par les
-véhicules définis au 1° ci-dessus. Elle est perçue par les entreprises d'assurance et recouvrée selon les modalités fixées
-par arrêté du ministre du budget.
-
-Un décret en Conseil d'Etat détermine les modalités d'assiette de la contribution exigée pour les véhicules étrangers.
+3° La contribution des assurés est assise sur toutes les primes ou cotisations nettes d'annulation qu'ils versent aux
+entreprises d'assurance pour l'assurance des risques de responsabilité civile résultant d'accidents causés par les véhicules
+définis au 1° ci-dessus. Elle est perçue par les entreprises d'assurance et recouvrée mensuellement par le fonds de garantie.
+Celui-ci peut prévoir le versement d'acomptes.
 
 **Liens relatifs à cet article**
 
@@ -36084,17 +35882,18 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Modifié par_:
-
-  - Décret n°94-847 du 26 septembre 1994 - art. 5 () JORF 1er octobre 1994
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
   - TXT_SOURCE: Arrêté du 29 novembre 1994
   - TXT_SOURCE: Arrêté du 29 novembre 1994 - art. 1 (V)
   - TXT_SOURCE: Arrêté du 29 novembre 1994 - art. 2 (V)
   - TXT_SOURCE: Code des assurances - art. L420-4 (T)
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16, R420-32 à R420-36
+
+_Modifié par_:
+
+  - Décret n°94-1023 du 29 novembre 1994 - art. 2 () JORF 30 novembre 1994
 
 _Cité par_:
 
@@ -36114,7 +35913,6 @@ _Cite_:
 
   - Code des assurances - art. L121-1 (V)
   - Code des assurances - art. L211-1 (M)
-  - Code des assurances - art. L421-2 (M)
   - Code des assurances - art. L421-4 (M)
 
 _Anciens textes_:
@@ -36124,18 +35922,20 @@ _Anciens textes_:
 
 ###### Article R421-28
 
-Les taux des contributions mentionnées à l'article R. 421-27 sont fixés par décret rendu sur la proposition du ministre de
-l'économie et du ministre du budget dans la limite des montants maximaux ci-après :
+Les taux des contributions mentionnées à l'article R. 421-27 sont fixés par arrêté du ministre chargé des assurances dans la
+limite des montants maximaux ci-après :
 
-Contribution des entreprises d'assurance : 12 % de la totalité des charges du fonds de garantie ;
+- contribution des entreprises d'assurance : 12 p. 100 de la totalité des charges du fonds de garantie ;
 
-Contribution des responsables d'accidents non assurés : 10 % des indemnités restant à leur charge. Toutefois ce taux est
-ramené à 5 % lorsque l'accident a été provoqué par un véhicule utilisé par l'Etat, une collectivité publique ou une
-entreprise bénéficiant de l'autorisation prévue à l'article 47, alinéa 4, du décret du 14 novembre 1949 relatif à la
-coordination et à l'harmonisation des transports ferroviaires et routiers ou d'une autorisation équivalente ; il est
-également ramené à 5 % des indemnités restant à leur propre charge pour les bénéficiaires d'une assurance avec franchise.
+- contribution des responsables d'accidents non assurés :
 
-Contribution des assurés : 2 % des primes mentionnées au 3° de l'article R. 421-27.
+10 p. 100 des indemnités restant à leur charge. Toutefois, ce taux est ramené à 5 p. 100 lorsque l'accident a été provoqué
+par un véhicule utilisé par l'Etat, un Etat étranger pour lequel a été fournie l'attestation prévue à l'article R. 211-25,
+une collectivité publique, une entreprise ou un organisme bénéficiant de la dérogation à l'obligation d'assurance en vertu de
+l'article L. 211-3 du code des assurances. Il est également ramené à 5 p. 100 des indemnités restant à leur propre charge
+pour les bénéficiaires d'une assurance avec franchise.
+
+- contribution des assurés : 2 p. 100 des primes mentionnées au 3° de l'article R. 421-27.
 
 **Liens relatifs à cet article**
 
@@ -36143,12 +35943,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
   - TXT_SOURCE: Arrêté du 29 novembre 1994
   - TXT_SOURCE: Arrêté du 29 novembre 1994 - art. 1 (V)
   - TXT_SOURCE: Arrêté du 29 novembre 1994 - art. 2 (V)
@@ -36156,6 +35953,10 @@ _Transféré par_:
   - TXT_ASSOCIE: Code des assurances - art. R420-30 (M)
   - TXT_ASSOCIE: Code des assurances - art. R420-31 (T)
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16, R420-30, R420-31
+
+_Modifié par_:
+
+  - Décret n°94-1023 du 29 novembre 1994 - art. 3 () JORF 30 novembre 1994
 
 _Cité par_:
 
@@ -36165,141 +35966,16 @@ _Cité par_:
   - Code des assurances - art. A421-3 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 322 A (P)
 
+_Cite_:
+
+  - Code des assurances - art. L211-3 (Ab)
+  - Code des assurances - art. R421-27 (M)
+  - Code des assurances L211-3, R211-25, R421-27
+
 _Anciens textes_:
 
   - Code des assurances - art. R*420-28 (T)
   - Code des assurances R420-28
-
-_Cite_:
-
-  - Code des assurances - art. R421-27 (M)
-  - Décret n°1949-11-14 art. 47
-
-
-###### Article R421-30
-
-Les taux des contributions prévues pour l'alimentation du fonds de garantie en application de l'article L. 421-4 sont fixés
-comme suit :
-
-Contribution des entreprises d'assurance : 10 % de la totalité des charges du fonds de garantie.
-
-Contribution des responsables d'accidents non assurés :
-
-- taux normal : 10 % des indemnités restant à leur charge ;
-
-- taux réduit : 5 % ;
-
-Contribution des assurés : 1,9 % des primes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-_Modifié par_:
-
-  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
-  - TXT_SOURCE: Code des assurances - art. L420-4 (T)
-  - TXT_SOURCE: Code des assurances L420-4, R420-28
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-_Cite_:
-
-  - Code des assurances - art. L421-4 (M)
-
-_Anciens textes_:
-
-  - Code des assurances - art. R420-30 (M)
-  - Code des assurances - art. R420-30 (T)
-
-
-###### Article R421-31
-
-Pour l'application de l'article R. 420-30, le versement d'acomptes sur leur contribution peut être demandé aux entreprises
-d'assurance par le fonds de garantie.
-
-La contribution des assurés est perçue sur les primes émises nettes d'annulations.
-
-Le recouvrement en est effectué pour le compte du fonds de garantie par les entreprises d'assurance et sous leur
-responsabilité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
-  - TXT_SOURCE: Code des assurances - art. R420-30 (M)
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-  - TXT_SOURCE: Code des assurances R420-28, R420-30
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-_Cite_:
-
-  - Code des assurances - art. R420-30 (M)
-
-_Anciens textes_:
-
-  - Code des assurances - art. R420-31 (T)
-
-
-###### Article R421-36
-
-Sont dispensés des contributions prévues aux articles R. 420-27 à R. 420-35 les véhicules étrangers pour lesquels il a été
-produit une carte internationale d'assurance, en état de validité, délivrée par un bureau constitué pour l'émission de
-certificats d'assurance suivant la formule adoptée par le sous-comité des transports routiers du comité des transports
-intérieurs de la commission économique pour l'Europe.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-  - TXT_SOURCE: Code des assurances R420-27
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-_Anciens textes_:
-
-  - Code des assurances - art. R420-36 (T)
-
-_Cite_:
-
-  - Code des assurances R420-27 à R420-35
 
 
 ###### Article R421-37
@@ -36309,10 +35985,7 @@ amendes, la majoration de 50 p. 100 instituée au profit du fonds de garantie pa
 les sommes dues par l'assureur en cas d'offre manifestement insuffisante constatée par le juge en application de l'article L.
 211-14.
 
-Les encaissements ainsi effectués sont versés trimestriellement au fonds de garantie sous déduction d'un prélèvement de 2 p.
-100. Le produit de ce prélèvement est rattaché au budget du ministère de l'économie et des finances et sert à couvrir, dans
-les limites et conditions déterminées par arrêté du ministre de l'économie et des finances, les dépenses de matériel et de
-personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
+Les encaissements ainsi effectués sont versés trimestriellement au fonds de garantie.
 
 **Liens relatifs à cet article**
 
@@ -36320,15 +35993,15 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Modifié par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
   - TXT_SOURCE: Code des assurances - art. L211-1 (M)
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+_Modifié par_:
+
+  - Décret n°94-1023 du 29 novembre 1994 - art. 4 () JORF 30 novembre 1994
 
 _Cite_:
 
@@ -36338,7 +36011,6 @@ _Cite_:
 _Anciens textes_:
 
   - Code des assurances - art. R*420-37 (T)
-  - Code des assurances R420-37 (2ème version)
 
 
 ##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.<a id=327></a>
@@ -36407,8 +36079,8 @@ _Anciens textes_:
 
 ###### Article R421-39
 
-Les taux et quotité des contributions mentionnées à l'article R. 421-38 sont fixés par décret rendu sur le rapport du
-ministre de l'économie et des finances, dans la limite des montants maximaux ci-après :
+Les taux et quotité des contributions mentionnées à l'article R. 421-38 sont fixés par arrêté du ministre chargé des
+assurances, dans la limite des montants maximaux ci-après :
 
 Contribution des entreprises d'assurance : 12 % de la totalité des charges des opérations du fonds de garantie afférentes à
 la chasse et à la destruction des animaux nuisibles ;
@@ -36421,16 +36093,18 @@ Contribution des assurés : somme forfaitaire maximale de 2,50 F par personne ga
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural 393 à 395
+  - Code des assurances - art. R421-38 (M)
+
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 12 *champ d'application*
   - TXT_SOURCE: Arrêté du 29 novembre 1994
   - TXT_SOURCE: Arrêté du 29 novembre 1994 - art. 1 (V)
   - TXT_SOURCE: Arrêté du 29 novembre 1994 - art. 2 (V)
@@ -36438,188 +36112,83 @@ _Transféré par_:
   - TXT_ASSOCIE: Code des assurances - art. R420-41 (T)
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16, R420-40, R420-41
 
+_Modifié par_:
+
+  - Décret n°94-1023 du 29 novembre 1994 - art. 7 () JORF 30 novembre 1994
+
 _Cité par_:
 
   - Arrêté du 29 novembre 1994 - art. 2 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 A (P)
 
-_Cite_:
-
-  - Code rural 393 à 395
-  - Code des assurances - art. R421-38 (M)
-
 _Anciens textes_:
 
   - Code des assurances - art. R*420-39 (T)
-  - Code des assurances R420-39
-
-
-###### Article R421-40
-
-Les taux des contributions destinées à l'alimentation du fonds de garantie pour l'indemnisation des victimes d'accidents
-corporels de chasse sont les suivants :
-
-Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie, à compter du 1er janvier
-1977.
-
-- taux normal : 10 % des indemnités restant à leur charge ;
-
-- taux réduit lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des articles
-393 à 395 du code rural : 5 %.
-
-Contribution forfaitaire des assurés : 1,50 F par personne garantie.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 393, 394, 395
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 12 *champ d'application*
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-  - TXT_SOURCE: Code des assurances R420-39
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 9 (V) JORF 30 novembre 1994
-
-_Cité par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 9 (V)
-
-_Anciens textes_:
-
-  - Code des assurances - art. R420-40 (M)
-  - Code des assurances - art. R420-40 (T)
-
-
-###### Article R421-41
-
-Pour l'application des dispositions de l'article R. 420-40, le versement d'acomptes sur leur contribution peut être demandé
-aux entreprises d'assurance par le fonds de garantie.
-
-La contribution des assurés est perçue sur les primes émises nettes d'annulations.
-
-Le recouvrement en est effectué pour le compte du fonds de garantie par les entreprises d'assurance et sous leur
-responsabilité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 12 *champ d'application*
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-  - TXT_SOURCE: Code des assurances R420-39
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 9 (V) JORF 30 novembre 1994
-
-_Cité par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 9 (V)
-
-_Anciens textes_:
-
-  - Code des assurances - art. R420-41 (T)
-
-_Cite_:
-
-  - Code des assurances R420-46
 
 
 ###### Article R421-42
 
-Les comptables publics, consignataires des extraits de jugements et d'arrêts ainsi que des décisions de transaction
+Les comptables publics, consignataires des extraits des jugements et d'arrêts ainsi que des décisions de transaction
 intervenues conformément aux dispositions du décret n° 66-136 du 4 mars 1966 recouvrent, dans les mêmes conditions que les
-amendes, la majoration de 50 p. 100 instituée au profit du fonds de garantie par le deuxième alinéa de l'article 366 ter du
-code rural.
-
-Les encaissements effectués au titre de cette majoration sont versés trimestriellement au fonds de garantie sous déduction
-d'un prélèvement de 2 p. 100.
-
-Par ailleurs, sur le montant des encaissements effectués par les services de la direction générale des impôts au titre des
-contributions mentionnées à l'article R. 420-38, il est opéré un prélèvement analogue de 2 p. 100.
-
-Le produit des prélèvements mentionnés aux alinéas 2 et 3 ci-dessus du présent article est rattaché au budget du ministère de
-l'économie et des finances. Il sert à couvrir, dans les limites et conditions déterminées par arrêté du ministre de
-l'économie et des finances, les dépenses de matériel et de personnel résultant des recouvrements effectués pour le compte du
-fonds de garantie.
+amendes, la majoration de 50 p. 100 instituée au profit du fonds de garantie par le deuxième alinéa de l'article L. 421-8 du
+code des assurances. Les encaissements effectués au titre de cette majoration sont versés trimestriellement au fonds de
+garantie.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 366 ter
   - Décret n°66-136 1966-03-04
-  - Code des assurances R420-38
+  - Code des assurances - art. L421-8 (M)
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 12 *champ d'application*
   - TXT_SOURCE: Code des assurances - art. L420-8 (T)
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+_Modifié par_:
+
+  - Décret n°94-1023 du 29 novembre 1994 - art. 5 () JORF 30 novembre 1994
 
 _Anciens textes_:
 
   - Code des assurances - art. R*420-42 (T)
-  - Code des assurances R420-42
 
 
 ###### Article R421-43
 
 La comptabilité du fonds de garantie doit permettre de faire apparaître pour chaque exercice la totalité des recettes et des
-charges afférentes aux opérations effectuées en application de l'article 366 ter du code rural, afin que le résultat effectif
-de ces opérations puisse être dégagé et leur équilibre assuré.
+charges afférentes aux opérations effectuées en application de l'article L. 421-8 du code des assurances, afin que le
+résultat effectif de ces opérations puisse être dégagé et leur équilibre assuré.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 366 ter
 
 **Liens**:
 
   - TXT_ASSOCIE: Code rural R324-6, R325-16
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 12 *champ d'application*
   - TXT_SOURCE: Code des assurances - art. L420-8 (T)
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
+_Modifié par_:
 
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+  - Décret n°94-1023 du 29 novembre 1994 - art. 1 () JORF 30 novembre 1994
+
+_Cite_:
+
+  - Code des assurances - art. L421-8 (M)
 
 _Anciens textes_:
 
   - Code des assurances - art. R*420-43 (T)
-  - Code des assurances R420-43
 
 
 ##### Paragraphe 3 : Dispositions communes aux accidents de la circulation et de chasse.<a id=328></a>
@@ -36680,7 +36249,7 @@ _Cite_:
 ###### Article R421-45
 
 Il est ouvert dans les écritures de la Caisse des dépôts et consignations un compte de dépôt intitulé : fonds de garantie
-(art. L. 421-1 du code des assurances et art. 366 ter du code rural).
+(art. L. 421-1 et art. L. 421-8 du code des assurances).
 
 Toutes les opérations concernant ce compte sont ordonnées par le représentant qualifié du fonds.
 
@@ -36703,30 +36272,26 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-_Modifié par_:
-
-  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 12 *champ d'application*
   - TXT_SOURCE: Code des assurances - art. L420-6 (T)
   - TXT_SOURCE: Code des assurances - art. L420-8 (T)
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
+_Modifié par_:
+
+  - Décret n°94-1023 du 29 novembre 1994 - art. 1 () JORF 30 novembre 1994
+
 _Cite_:
 
   - Code des assurances - art. L421-1 (M)
+  - Code des assurances - art. L421-8 (M)
   - Code des assurances - art. R421-47 (M)
-  - Code rural 366 ter
 
 _Anciens textes_:
 
   - Code des assurances - art. R*420-45 (T)
-  - Code des assurances R420-45
 
 _Cité par_:
 
@@ -36819,103 +36384,6 @@ _Cité par_:
 
 
 ##### Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.<a id=329></a>
-
-###### Article R*421-48
-
-La liquidation des opérations réalisées par l'entreprise cédante antérieurement à la date de prise d'effet du transfert
-d'office mentionné à l'article L. 324-5 fait l'objet, de la part de l'entreprise cessionnaire, d'une comptabilité spéciale
-établie selon les règles applicables à la comptabilité des opérations d'assurance.
-
-Les sinistres survenus avant la date de prise d'effet du transfert entrent dans la liquidation des opérations de l'entreprise
-cédante. Les primes ou cotisations échues avant cette même date, déduction faite des commissions, sont affectées à la
-liquidation au prorata du temps écoulé entre la date d'échéance des primes ou cotisations et la date d'effet du transfert.
-
-Les rappels de prime ou cotisation décidés par l'entreprise cédante, dans les conditions prévues à l'article L. 323-6,
-entrent dans l'actif de la liquidation.
-
-Lorsque les comptes de la liquidation sont suffisamment avancés pour permettre d'apprécier le solde de celle-ci, le ministre
-de l'économie et des finances peut autoriser l'entreprise cessionnaire à cesser de tenir la comptabilité spéciale prévue au
-premier alinéa du présent article. Si, à cette date, la liquidation fait apparaître l'existence d'un solde excédentaire,
-après remboursement au fonds de garantie de la contribution financière éventuellement mise à sa charge, ce solde fait
-immédiatement l'objet d'une répartition entre les anciens actionnaires ou associés de l'entreprise cédante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
-  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-_Cite_:
-
-  - Code des assurances - art. L323-6 (Ab)
-  - Code des assurances - art. L324-5 (Ab)
-
-_Anciens textes_:
-
-  - Code des assurances R420-48
-
-
-###### Article R*421-49
-
-La contribution financière dont peut bénéficier l'entreprise cessionnaire dans les conditions prévues à l'avant-dernier
-alinéa de l'article L. 326-16 est fixée en proportion de l'insuffisance des ressources de l'entreprise cédante.
-
-Cette insuffisance est appréciée en comparant à la date d'effet du transfert, d'une part, le montant de la provision pour
-indemnités à payer à la suite des dommages mentionnés à l'article L. 211-1 et assurés par l'entreprise et, d'autre part, le
-montant des éléments d'actif qui peuvent être affectés à la couverture de cette provision.
-
-Le fonds de garantie s'acquitte de sa contribution par un ou plusieurs versements successifs dont le ministre de l'économie
-et des finances fixe le montant en fonction des éléments d'actif et de passif mentionnés à l'alinéa précédent et de
-l'évolution de ces éléments au cours de la liquidation de l'entreprise cédante.
-
-La contribution financière mise à la charge du fonds de garantie peut être égale à la totalité de l'insuffisance mentionnée
-au premier alinéa du présent article. Dans ce cas, l'entreprise cessionnaire est tenue de se conformer aux instructions du
-fonds de garantie pour le règlement des sinistres entrant dans la liquidation des opérations de l'entreprise cédante et
-concernant les dommages causés aux tiers par les véhicules terrestres à moteur qu'elle assurait.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
-  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-_Abrogé par_:
-
-  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
-
-_Cite_:
-
-  - Code des assurances - art. L211-1 (M)
-  - Code des assurances - art. L326-16 (M)
-
-_Anciens textes_:
-
-  - Code des assurances R420-49
-
 
 ###### Article R*421-50
 
@@ -37045,9 +36513,7 @@ _Anciens textes_:
 ###### Article R*421-55
 
 Le fonds de garantie met à la disposition du liquidateur les sommes nécessaires au paiement des indemnités et leur montant
-est inscrit au passif de la liquidation. Le fonds peut toutefois demander au liquidateur d'imputer, à due concurrence, le
-paiement des indemnités à sa charge sur les fonds que le liquidateur détient au titre du produit du rappel de prime ou
-cotisation.
+est inscrit au passif de la liquidation.
 
 **Liens relatifs à cet article**
 
@@ -37055,18 +36521,15 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
   - TXT_SOURCE: Code des assurances - art. L420-6 (T)
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des assurances R420-55
+  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
 
 
 ###### Article R*421-56
@@ -37075,18 +36538,21 @@ Il est ouvert dans les écritures du fonds de garantie une section spéciale int
 garantie" dans laquelle sont inscrites les dépenses et les recettes afférentes à l'intervention du fonds en application des
 dispositions de l'article L. 326-17.
 
-La contribution financière qui peut être imposée au fonds de garantie, dans le cas de transfert d'office, est inscrite à la
-même section.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
+**Liens**:
 
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
+  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+_Modifié par_:
+
+  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994
 
 _Cité par_:
 
@@ -37095,15 +36561,6 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L326-17 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
-
-_Anciens textes_:
-
-  - Code des assurances R420-56
 
 
 ###### Article R421-54
@@ -37372,11 +36829,13 @@ _Cite_:
 Les comptables publics, consignataires des extraits de jugements et d'arrêts, recouvrent, dans les mêmes conditions que les
 amendes, la majoration de 50 % instituée au profit du fonds de garantie par l'article L. 421-10, deuxième alinéa.
 
-Les encaissements au titre de cette majoration sont versés trimestriellement au fonds de garantie sous déduction d'un
-prélèvement de 3 %. Le produit de ce prélèvement est rattaché au budget du ministère de l'économie et des finances et sert à
-couvrir, dans les limites et conditions déterminées par arrêté du ministre de l'économie et des finances, les dépenses de
-matériel et de personnel résultant des recouvrements effectués pour le compte du fonds de garantie dans les territoires
-d'outre-mer mentionnés à l'article R. 421-58.
+Les encaissements au titre de cette majoration sont versés trimestriellement au fonds de garantie.
+
+**Nota:**
+
+- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
+la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
+territoriale " est remplacée par la référence à la " collectivité départementale ".
 
 **Liens relatifs à cet article**
 
@@ -37384,28 +36843,22 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
+**Liens**:
 
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
+  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
 _Modifié par_:
 
-  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-  - Décret n°94-182 du 1 mars 1994 - art. 8 () JORF 3 mars 1994
+  - Décret n°94-1023 du 29 novembre 1994 - art. 6 () JORF 30 novembre 1994
 
 _Cite_:
 
   - Code des assurances - art. L421-10 (M)
-  - Code des assurances - art. R421-58 (M)
 
 _Anciens textes_:
 
   - Code des assurances - art. R*420-62 (T)
-  - Code des assurances R420-62
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
 
 ###### Article R421-63
@@ -37454,15 +36907,20 @@ _Cite_:
 
 ###### Article R421-63-1
 
-Sont applicables dans la collectivité territoriale de Mayotte, à l'exception de l'article R. 421-9, les sections I et IV du
-présent chapitre, dans la mesure où elles concernent les accidents dans lesquels sont impliqués des véhicules définis à
-l'article L. 421-1, et sous réserve des adaptations suivantes :
+Sont applicables, dans la collectivité territoriale de Mayotte, à l'exception de l'article R. 421-9, les sections I, II, IV
+et V du présent chapitre, sous réserve des adaptations suivantes :
 
 1° Pour l'application de l'article R. 421-14, deuxième alinéa, les mots : "suivant le taux de la demande, le tribunal
 d'instance ou le tribunal de grande instance" sont remplacés par les mots : "le tribunal de première instance de Mamoudzou" ;
 
-2° Pour l'application des articles R. 421-27, alinéas 3 et 4, R. 421-29 et R. 421-46, les mots : "direction générale des
-impôts" sont remplacés par les mots : "direction des services fiscaux de Mayotte".
+2° Pour l'application des articles R. 421-27, alinéas 3 et 4, et R. 421-46, les mots : "direction générale des impôts" sont
+remplacés par les mots : "direction des services fiscaux de Mayotte".
+
+**Nota:**
+
+- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
+la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
+territoriale " est remplacée par la référence à la " collectivité départementale ".
 
 **Liens relatifs à cet article**
 
@@ -37470,18 +36928,20 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°94-182 du 1 mars 1994 - art. 9 () JORF 3 mars 1994
+  - SPEC_APPLI: Décret n°94-1023 1994-11-29 art. 11 *champ d'application*
+
+_Modifié par_:
+
+  - Décret n°94-1023 du 29 novembre 1994 - art. 10 () JORF 30 novembre 1994
 
 _Cite_:
 
-  - Code des assurances - art. L421-1 (M)
   - Code des assurances - art. R421-14 (M)
   - Code des assurances - art. R421-27 (M)
   - Code des assurances - art. R421-46 (M)
   - Code des assurances - art. R421-9 (M)
-  - Code des assurances L421-1, R421-9, R421-14, R421-27, R421-29, R421-46
 
 
 ##### Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.<a id=332></a>
