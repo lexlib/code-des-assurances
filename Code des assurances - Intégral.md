@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-06-19
+Version Consolidée au 2003-07-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -474,7 +474,7 @@ Version Consolidée au 2003-06-19
             - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-21 à Annexe 1.3 art. A331-22)](#471)
         - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-1 à A332-7)](#472)
           - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. A332-1)](#473)
-          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#474)
+          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-8)](#474)
           - [Section III : Estimation des éléments d'actif. (art. A332-7)](#475)
         - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#476)
         - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-5)](#477)
@@ -73371,6 +73371,35 @@ _Abrogé par_:
 
   - TXT_SOURCE: Code des assurances - art. R*332-20 (M)
   - TXT_ASSOCIE: Code des assurances - art. R332-20 (M)
+
+
+###### Article A332-8
+
+Les organismes dont les prévisions d'évolution de l'indice des prix constituent les références en matière de prévisions
+d'évolution de l'indice des prix sont :
+
+"La Commission européenne ;"
+
+"L'Organisation pour la coopération et le développement économique (OCDE)."
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrête 2003-06-24 art. 1 JORF 5 juillet 2003
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code des assurances - art. A332-12 (Ab)
+  - Code des assurances - art. A332-9 (Ab)
 
 
 ##### Section III : Estimation des éléments d'actif.<a id=475></a>
