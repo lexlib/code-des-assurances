@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-03-30
+Version Consolidée au 1995-04-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -19117,23 +19117,27 @@ _Cité par_:
 
 ###### Article R132-4
 
-Le contrat d'assurance sur la vie doit indiquer, outre les énonciations mentionnées dans l'article L. 112-4 :
+Le contrat d'assurance sur la vie doit indiquer, outre les énonciations mentionnées dans l'article L. 112-4 : 
 
-1° Les nom, prénoms et date de naissance du ou des assuré(s) ;
+1° Les nom, prénoms et date de naissance du ou des assuré (s) ; 
 
-2° L'événement ou le terme duquel dépend l'exigibilité du capital ou de la rente garantis ;
+2° L'événement ou le terme duquel dépend l'exigibilité du capital ou de la rente garantis ; 
 
-3° Les délais et les modalités de règlement du capital ou de la rente garantis.
+3° Les délais et les modalités de règlement du capital ou de la rente garantis. 
 
-Le contrat de capitalisation doit indiquer :
+Le contrat de capitalisation doit indiquer : 
 
-1° Le montant du capital remboursable à l'échéance ;
+1° Le montant du capital remboursable à l'échéance ; 
 
-2° La date de prise d'effet ainsi que la date d'échéance ;
+2° La date de prise d'effet ainsi que la date d'échéance ; 
 
-3° Le montant et la date d'exigibilité des primes versées ;
+3° Le montant et la date d'exigibilité des primes versées ; 
 
-4° Les délais et les modalités de règlement du capital.
+4° Les délais et les modalités de règlement du capital. 
+
+Outre les énonciations prévues aux alinéas précédents, les seules données numériques permettant une valorisation en euros du
+contrat, qui peuvent être indiquées dans ce contrat, sont celles qui sont nécessaires au calcul des valeurs de rachat
+mentionnées à l'article L. 132-5-1. 
 
 Lorsque les garanties d'un contrat d'assurance sur la vie ou de capitalisation sont référencées sur une ou plusieurs unités
 de compte, celles-ci doivent être également énoncées au contrat. Ledit contrat doit aussi préciser la date à laquelle les
@@ -19146,10 +19150,9 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-385 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
-  - Décret n°93-385 du 19 mars 1993 - art. 2 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+  - Décret n°95-390 du 12 avril 1995 - art. 1 () JORF 14 avril 1995
 
 _Cité par_:
 
@@ -19157,7 +19160,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L112-4 (M)
+  - Code des assurances - art. L112-4 (V)
+  - Code des assurances - art. L132-5-1 (V)
 
 
 ### Titre V : Le contrat de capitalisation.<a id=193></a>
