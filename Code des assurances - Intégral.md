@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-12-29
+Version Consolidée au 2001-12-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -19918,15 +19918,32 @@ Les contrats d'assurance de biens ne peuvent stipuler, pour les dommages résult
 franchise ou de plafond autres que ceux qu'ils prévoient pour des dommages de même nature qui n'auraient pas pour origine un
 acte de terrorisme ou un attentat.
 
+Toutefois, lorsqu'ils concernent des grands risques définis à l'article L. 111-6, les contrats d'assurance de biens
+mentionnés à l'article R. 126-1 peuvent déroger aux dispositions du premier alinéa dans les limites fixées par arrêté du
+ministre chargé de l'économie et des finances. Ces dérogations ne peuvent en aucun cas conduire à réduire le montant de la
+garantie, net de franchise, pour les dommages résultant d'actes de terrorisme ou d'attentats, à un montant inférieur aux
+montants suivants :
+
+1. Pour les marchandises transportées, 20 % du montant de garantie, net de franchise, prévu par le contrat pour des dommages
+de même nature qui n'auraient pas pour origine un acte de terrorisme ou un attentat ;
+
+2. Pour les autres risques, 20 % du montant de garantie, net de franchise, prévu par le contrat pour des dommages de même
+nature qui n'auraient pas pour origine un acte de terrorisme ou un attentat et, en tout état de cause, 20 millions d'euros.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°88-261 1988-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-261 du 18 mars 1988 - art. 1 () JORF 20 mars 1988
+  - Décret n°2001-1337 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
+
+_Cite_:
+
+  - Code des assurances - art. L111-6 (V)
+  - Code des assurances L111-6, R126-1
 
 
 #### Chapitre VII : L'assurance de protection juridique.<a id=195></a>
@@ -44664,13 +44681,17 @@ cotisations afférentes aux garanties vol et incendie, ou, à défaut, 0,5 % des
 dommages ;
 
 - contrats garantissant des risques appartenant à la catégorie d'opérations 24 de l'article A. 344-2 : 12 % de l'ensemble des
-primes ou cotisations afférentes au contrat, à l'exception des primes ou cotisations afférentes aux garanties de
-responsabilité civile générale, de protection juridique, d'assistance et de dommages corporels ;
+primes ou cotisations afférentes au contrat, à l'exception des primes ou cotisations afférentes aux garanties des dommages
+aux biens résultant d'actes de terrorisme ou d'attentats, lorsque ces primes ou cotisations sont individualisées dans l'avis
+d'échéance du contrat, des primes ou cotisations afférentes aux garanties de responsabilité civile générale, de protection
+juridique, d'assistance et de dommages corporels ;
 
 - contrats garantissant des risques appartenant aux catégories d'opérations 25 ou 26 de l'article A. 344-2 ou garantissant
 des risques mentionnés à l'article L. 125-1 (deuxième alinéa) : 12 % de l'ensemble des primes ou cotisations afférentes au
-contrat, à l'exception des primes ou cotisations afférentes aux garanties de responsabilité civile générale, de protection
-juridique, d'assistance et de dommages corporels et aux garanties couvrant les dommages mentionnés à l'article L. 125-5.
+contrat, à l'exception des primes ou cotisations afférentes aux garanties des dommages aux biens résultant d'actes de
+terrorisme ou d'attentats, lorsque ces primes ou cotisations sont individualisées dans l'avis d'échéance du contrat, des
+primes ou cotisations afférentes aux garanties de responsabilité civile générale, de protection juridique, d'assistance et de
+dommages corporels et aux garanties couvrant les dommages mentionnés à l'article L. 125-5.
 
 Toutefois, les taux annuels fixés aux deux alinéas précédents s'appliquent aux primes et cotisations afférentes aux garanties
 de la responsabilité civile contractuelle de l'assuré en qualité de propriétaire, locataire ou occupant des biens désignés
@@ -44679,7 +44700,7 @@ explosion ou d'un dégât des eaux :
 
 - garanties de dommages aux biens visés à l'article L. 125-1 du code des assurances attachées à des contrats appartenant à
 des catégories d'opérations autres que celles visées aux quatre alinéas précédents : 12 % des primes ou cotisations
-afférentes à ces garanties.
+afférentes à ces garanties. 
 
 Les taux ci-dessus sont calculés sur les primes ou cotisations nettes de toutes taxes afférentes aux contrats susvisés.
 
@@ -44689,20 +44710,19 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1999-08-03 art. 2 (modalités d'application - date d'effet)
-  - SPEC_APPLI: Arrêté 2000-09-05 art. 2 (modalités d'application - date d'effet)
-
 _Modifié par_:
 
-  - Arrêté 2000-09-05 art. 1 JORF 12 septembre 2000
+  - Arrêté 2001-12-27 art. 1 JORF 30 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 2001-12-27 art. 2 (modalités d'application - date d'effet)
 
 _Cite_:
 
-  - Code des assurances - art. A344-2 (M)
-  - Code des assurances - art. L125-1 (M)
-  - Code des assurances - art. L242-1 (M)
+  - Code des assurances - art. A125-1 (V)
+  - Code des assurances - art. A125-5 (Ab)
+  - Code des assurances - art. A344-2 (V)
 
 
 ###### Article A125-3
