@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-05-29
+Version Consolidée au 1993-06-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -231,13 +231,13 @@ Version Consolidée au 1993-05-29
           - [Section III : Conditions des agréments. (art. R*321-6-1 à R321-16)](#228)
           - [Section V : Publicité, suspension et caducité de l'agrément administratif. (art. R*321-19 à R*321-20)](#229)
           - [Section VII : Dispositions spéciales concernant les entreprises pratiquant l'assurance de protection juridique. (art. R321-22 à R321-24)](#230)
-        - [Chapitre II : Règles de constitution et de fonctionnement (art. R*322-1 à R332-139)](#231)
-          - [Section I : Dispositions communes. (art. R*322-1 à R*322-4)](#232)
-          - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. R*322-6 à R322-11-1)](#233)
+        - [Chapitre II : Règles de constitution et de fonctionnement (art. R*322-2 à R332-139)](#231)
+          - [Section I : Dispositions communes. (art. R*322-2 à R*322-4)](#232)
+          - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. R*322-5 à R322-11-1)](#233)
           - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. R322-20 à R322-26)](#234)
             - [Paragraphe 2 : Administration. (art. R322-20 à R322-26)](#235)
-          - [Section IV : Sociétés d'assurance mutuelles (art. R*322-45 à R332-105)](#236)
-            - [Paragraphe 1 : Constitution. (art. R*322-45 à R322-52)](#237)
+          - [Section IV : Sociétés d'assurance mutuelles (art. R*322-44 à R332-105)](#236)
+            - [Paragraphe 1 : Constitution. (art. R*322-44 à R322-52)](#237)
             - [Paragraphe 2 : Administration. (art. R*322-53 à R322-66)](#238)
             - [Sous-section 2 : Direction et administration (art. Annexe I art. R*322-58)](#239)
               - [Paragraphe 4 : L'assemblée générale des sociétés d'assurance mutuelles (art. Annexe I art. R*322-58)](#240)
@@ -266,7 +266,7 @@ Version Consolidée au 1993-05-29
       - [Titre III : Régime financier. (art. R331-1 à R334-38)](#263)
         - [Chapitre Ier : Les engagements réglementés. (art. R331-1 à R331-35)](#264)
           - [Section I : Dispositions générales. (art. R331-1 à R331-2)](#265)
-          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. R*331-5 à R331-4)](#266)
+          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. R331-3 à R331-4)](#266)
           - [Section III : Provisions techniques des autres opérations d'assurance. (art. R331-6 à R331-35)](#267)
             - [Paragraphe 1 : Provision mathématique des rentes (art. R331-7)](#268)
             - [Paragraphe 2 : Provision pour risques en cours. (art. R*331-9 à R*331-14)](#269)
@@ -21384,9 +21384,7 @@ cessation ou de réduction d'activités.
 
 Toute opération à caractère collectif définie à la section I du chapitre Ier du titre IV du livre IV.
 
-27. Acquisition d'immeubles :
-
-Toute opération ayant pour objet l'acquisition d'immeubles au moyen de la constitution de rentes viagères.
+27. (mention abrogée).
 
 28. Epargne :
 
@@ -21394,25 +21392,17 @@ Toute opération d'appel à l'épargne dans le but de réunir des sommes versée
 des comptes de dépôt portant intérêt, soit en vue de la capitalisation en commun, avec participation aux bénéfices d'autres
 sociétés, gérées ou administrées directement ou indirectement.
 
-30. Réassurance :
-
-Toute opération d'acceptation en réassurance pratiquée par les entreprises dont l'activité s'étend à d'autres branches.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-  - TXT_SOURCE: Code des assurances - art. L321-1 (M)
-  - TXT_ASSOCIE: Code des assurances R322-3
-
 _Modifié par_:
 
-  - Décret n°88-456 du 27 avril 1988 - art. 1 () JORF 29 avril 1988
+  - Décret n°90-815 du 14 septembre 1990 - art. 1 () JORF 15 septembre 1990
+  - Décret n°90-815 du 14 septembre 1990 - art. 2 () JORF 15 septembre 1990
+  - Décret n°93-866 du 25 juin 1993 - art. 1 () JORF 27 juin 1993
 
 _Cité par_:
 
@@ -21492,6 +21482,11 @@ _Cite_:
 
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L321-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L321-1 (M)
+  - TXT_ASSOCIE: Code des assurances R322-3
 
 
 ###### Article R*321-2
@@ -22362,44 +22357,6 @@ _Nouveaux textes_:
 
 ##### Section I : Dispositions communes.<a id=232></a>
 
-###### Article R*322-1
-
-Les entreprises françaises mentionnées aux 3° et 4° de l'article L. 310-1 ne peuvent se constituer que sous la forme de
-société anonyme.
-
-Les sociétés d'assurance mutuelles constituées pour pratiquer les opérations mentionnées au 1° de l'article L. 310-1 peuvent
-recevoir l'agrément administratif pour pratiquer les opérations mentionnées aux 3° et 4° du même article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-  - TXT_SOURCE: Code des assurances - art. L310-1 (M)
-  - TXT_ASSOCIE: Code des assurances R322-5
-
-_Modifié par_:
-
-  - Décret n°91-603 du 27 juin 1991 - art. 7 () JORF 28 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°93-866 du 25 juin 1993 - art. 2 (V) JORF 27 juin 1993
-
-_Cité par_:
-
-  - Décret n°93-866 du 25 juin 1993 - art. 2 (V)
-  - Code des assurances - art. R322-1-1 (V)
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-
-
 ###### Article R*322-2
 
 Les entreprises soumises au contrôle de l'Etat par l'article L. 310-1 ne peuvent avoir d'autre objet que celui de pratiquer
@@ -22481,6 +22438,52 @@ _Cite_:
 
 
 ##### Section II : Sociétés anonymes d'assurance et de capitalisation.<a id=233></a>
+
+###### Article R*322-5
+
+Les entreprises françaises soumises au contrôle de l'Etat par l'article L. 310-1 et constituées sous la forme de société
+anonyme doivent avoir un capital social, non compris les apports en nature, au moins égal à cinq millions de francs pour
+pratiquer les opérations entrant dans les branches mentionnées aux 10 à 15 et aux 20, 21, 22, 24, 25 et 28 de l'article R.
+321-1 ainsi que les opérations de réassurance.
+
+Les mêmes entreprises doivent, pour pratiquer des opérations entrant dans d'autres branches que celles énumérées à l'alinéa
+précédent, avoir un capital social, non compris les apports en nature, au moins égal à trois millions de francs.
+
+Chaque actionnaire doit verser, avant la constitution définitive, la moitié au moins du montant des actions en numéraire
+souscrites par lui.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+  - TXT_SOURCE: Code des assurances R322-5
+
+_Transféré par_:
+
+  - Décret n°91-603 du 27 juin 1991 - art. 9 () JORF 28 juin 1991
+
+_Modifié par_:
+
+  - Décret n°93-866 du 25 juin 1993 - art. 3 () JORF 27 juin 1993
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances L310-1, R321-1
+
+_Cité par_:
+
+  - Code des assurances - art. R322-8 (VD)
+
+_Anciens textes_:
+
+  - Code des assurances R322-6
+
 
 ###### Article R*322-6
 
@@ -22710,6 +22713,41 @@ _Cité par_:
 ##### Section IV : Sociétés d'assurance mutuelles<a id=236></a>
 
 ##### Paragraphe 1 : Constitution.<a id=237></a>
+
+###### Article R*322-44
+
+Sous réserve des dispositions des articles R. 322-99 et R. 322-158, les sociétés d'assurance mutuelles doivent avoir un fonds
+d'établissement au moins égal à :
+
+- 2.500.000 F pour pratiquer les opérations mentionnées aux 10 à 15, 20, 21, 22, 24, 25 et 28 de l'article R. 321-1 ainsi que
+les opérations de réassurance ;
+
+- 1.500.000 F pour pratiquer les opérations entrant dans d'autres branches que celles énumérées ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°91-1050 du 30 septembre 1991 - art. 1 () JORF 15 octobre 1991
+  - Décret n°91-1050 du 30 septembre 1991 - art. 4 () JORF 15 octobre 1991
+  - Décret n°93-866 du 25 juin 1993 - art. 3 () JORF 27 juin 1993
+
+_Cité par_:
+
+  - Code des assurances - art. R322-80 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances R322-42
+
+_Cite_:
+
+  - Code des assurances R322-99, R322-158, R321-1
+
 
 ###### Article R*322-45
 
@@ -27406,45 +27444,6 @@ _Modifié par_:
 
 
 ##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=266></a>
-
-###### Article R*331-5
-
-Les opérations d'acquisition d'immeubles au moyen de versements de rentes viagères donnent lieu à la constitution de
-provisions mathématiques, dont le montant est déterminé dans les conditions fixées par arrêté du ministre de l'économie et
-des finances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
-  - TXT_ASSOCIE: Code des assurances - art. A331-9 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R*331-1 (M)
-
-_Modifié par_:
-
-  - Décret n°91-603 du 27 juin 1991 - art. 17 () JORF 28 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°93-866 du 25 juin 1993 - art. 2 (V) JORF 27 juin 1993
-
-_Cité par_:
-
-  - Décret n°93-866 du 25 juin 1993 - art. 2 (V)
-  - Code des assurances - art. A132-8 (M)
-  - Code des assurances - art. D132-7 (V)
-  - Code des assurances - art. R134-8 (VD)
-  - Code des assurances - art. R142-10 (Ab)
-  - Code des assurances - art. R142-8 (Ab)
-  - Code des assurances - art. R144-27 (VD)
-  - Code des assurances - art. R332-2 (M)
-  - Code des assurances - art. R332-39 (V)
-
 
 ###### Article R331-3
 
