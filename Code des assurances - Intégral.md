@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-11-20
+Version Consolidée au 1985-11-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -493,19 +493,17 @@ Version Consolidée au 1985-11-20
         - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-10)](#490)
           - [Section III : Risques garantis. (art. A432-1 à A432-9)](#491)
             - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#492)
-          - [Section III : Risques garantis (art. A432-2)](#493)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-2)](#494)
-          - [Section IV : Dispositions diverses. (art. A432-10)](#495)
-        - [Chapitre III : La caisse nationale de prévoyance (art. A433-1 à A433-7)](#496)
-          - [Section I : Dispositions générales. (art. A433-1)](#497)
-          - [Section V : Tarifs. (art. A433-2 à A433-7)](#498)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#499)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#500)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#501)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#502)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#503)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#504)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#505)
+          - [Section IV : Dispositions diverses. (art. A432-10)](#493)
+        - [Chapitre III : La caisse nationale de prévoyance (art. A433-1 à A433-7)](#494)
+          - [Section I : Dispositions générales. (art. A433-1)](#495)
+          - [Section V : Tarifs. (art. A433-2 à A433-7)](#496)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#497)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#498)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#499)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#500)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#501)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#502)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#503)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -37981,9 +37979,9 @@ cet effet, elle assure, dans les conditions définies par décret en Conseil d'E
 
 a) Les exportateurs et les importateurs pour leurs opérations de commerce extérieur ;
 
-b) Les banques et établissements financiers installés en France pour les prêts ou crédits qu'ils consentent soit à des
-personnes étrangères, physiques ou morales, de droit public ou de droit privé, soit à des banques ou établissements
-financiers étrangers, pour le financement d'opérations d'exportation ou connexes à des exportations ;
+b) Les banques et établissements financiers pour les prêts ou crédits qu'ils consentent soit à des personnes étrangères,
+physiques ou morales, de droit public ou de droit privé, soit à des banques ou établissements financiers étrangers, pour le
+financement d'opérations d'exportation ou connexes à des exportations ;
 
 c) Les entreprises installées en France, pour les investissements à l'étranger connexes à des opérations d'exportation.
 
@@ -38000,13 +37998,13 @@ l'exportateur ou de l'importateur qui sont afférents à des opérations de comm
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°46-1332 1946-06-01 art. 5, art. 7
-
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-1209 1985-11-20 art. 1 JORF 21 novembre 1985
 
 
 ###### Article R*432-2
@@ -38385,20 +38383,17 @@ Cette comptabilité fait apparaître notamment en un compte distinct l'ensemble 
 compte dit "Compte du Trésor", conformément aux dispositions de la présente section et aux instructions du ministre de
 l'économie et des finances, toutes les opérations prévues à l'article R. 432-13 et aux articles R. 432-15 à R. 432-17, ainsi
 que les versements effectués par l'Etat au titre de la garantie prévue à l'article R. 432-13 et les sommes reversées à l'Etat
-en application de l'article R. 432-18.    Les fonds qui sont provisoirement laissés à la disposition de la compagnie en
-application du deuxième alinéa de l'article R. 432-18 doivent être déposés soit à la banque française du commerce extérieur,
-soit aux chèques postaux, soit, au-delà d'un montant fixé par le ministre de l'économie et des finances, à un compte ouvert
-au nom de la compagnie dans les écritures du Trésor.
+en application de l'article R. 432-18.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-318 1957-03-16 art. 5
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-1209 1985-11-20 art. 2 JORF 21 novembre 1985
 
 _Cite_:
 
@@ -48186,6 +48181,34 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
+###### Article A432-2
+
+La garantie peut être accordée :
+
+Aux personnes physiques ou morales françaises ou étrangères pour les opérations d'exportation ou d'importation qu'elles
+réalisent en provenance ou à destination de la France ou des départements ou territoires d'outre-mer ;
+
+Aux banques et établissements français ou étrangers pour les prêts ou crédits qu'ils consentent soit à des personnes
+étrangères physiques ou morales de droit public ou de droit privé, soit à des banques ou établissements financiers étrangers
+pour le financement d'opérations d'exportation ou connexes à des exportations ;
+
+Aux entreprises installées en France pour les investissements à l'étranger connexes à des opérations d'exportation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 1985-11-20 art. 1 JORF 21 novembre 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances R432-4, R432-47
+
+
 ###### Article A432-3
 
 Les droits résultant de la garantie peuvent être transférés par l'assuré à un tiers, sous réserve de l'autorisation de la
@@ -48375,39 +48398,7 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-##### Section III : Risques garantis<a id=493></a>
-
-##### Paragraphe 6 : Dispositions communes.<a id=494></a>
-
-###### Article A432-2
-
-La garantie peut être accordée :
-
-Aux personnes physiques ou morales françaises ou étrangères pour les opérations d'exportation ou d'importation qu'elles
-réalisent en provenance ou à destination de la France ou des départements ou territoires d'outre-mer ;
-
-Aux banques et établissements français ou étrangers exerçant leur activité en France pour les prêts ou crédits qu'ils
-consentent soit à des personnes étrangères physiques ou morales de droit public ou de droit privé, soit à des banques ou
-établissements financiers étrangers pour le financement d'opérations d'exportation ou connexes à des exportations.
-
-Aux entreprises installées en France pour les investissements à l'étranger connexes à des opérations d'exportation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1948-04-16 art. 2
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R432-4, R432-47
-
-
-##### Section IV : Dispositions diverses.<a id=495></a>
+##### Section IV : Dispositions diverses.<a id=493></a>
 
 ###### Article A432-10
 
@@ -48446,9 +48437,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-#### Chapitre III : La caisse nationale de prévoyance<a id=496></a>
+#### Chapitre III : La caisse nationale de prévoyance<a id=494></a>
 
-##### Section I : Dispositions générales.<a id=497></a>
+##### Section I : Dispositions générales.<a id=495></a>
 
 ###### Article A433-1
 
@@ -48490,7 +48481,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-##### Section V : Tarifs.<a id=498></a>
+##### Section V : Tarifs.<a id=496></a>
 
 ###### Article A433-2
 
@@ -48762,11 +48753,11 @@ _Cite_:
   - Code des assurances - art. A433-2 (Ab)
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=499></a>
+### Titre IV : Régimes particuliers d'assurance<a id=497></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=500></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=498></a>
 
-##### Section II : Règles techniques et comptables.<a id=501></a>
+##### Section II : Règles techniques et comptables.<a id=499></a>
 
 ###### Article A441-1
 
@@ -48828,11 +48819,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=502></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=500></a>
 
-### Titre Ier : Présentation des opérations.<a id=503></a>
+### Titre Ier : Présentation des opérations.<a id=501></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=504></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=502></a>
 
 ###### Article A513-1
 
@@ -49105,7 +49096,7 @@ _Cité par_:
   - Arrêté du 31 mars 1992 - art. 1 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=505></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=503></a>
 
 ###### Article A516-2
 
