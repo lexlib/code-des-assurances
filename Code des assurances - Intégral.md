@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-03-02
+Version Consolidée au 2003-03-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -270,7 +270,7 @@ Version Consolidée au 2003-03-02
             - [Paragraphe 2 : Organismes soumis à l'agrément administratif. (art. R*322-126 à R322-131)](#267)
             - [Paragraphe 3 : Organismes dispensés de l'agrément administratif. (art. R*322-133 à R322-138)](#268)
           - [Section VII : Tontines. (art. R*322-145 à R322-159)](#269)
-          - [Section VIII : Les sociétés de groupe d'assurance mutuelle et les conventions d'affiliation (art. R322-160 à R322-166)](#270)
+          - [Section VIII : Les sociétés de groupe d'assurance mutuelle et les conventions d'affiliation (art. R*322-161 à R322-166)](#270)
         - [Chapitre III : Procédures de redressement et de sauvegarde (art. R323-10 à R323-9)](#271)
           - [Section I : Règles générales. (art. R*323-6 à R323-9)](#272)
         - [Chapitre IV : Transfert de portefeuille (art. R*324-4 à R*324-5)](#273)
@@ -26381,21 +26381,19 @@ _Cite_:
 
 ###### Article R322-54-1
 
-I. - Une même personne ne peut appartenir simultanément à plus de cinq conseils d'administration de sociétés d'assurance
-mutuelles, d'unions de sociétés d'assurance mutuelles, de sociétés de réassurance mutuelle et de sociétés de groupe
-d'assurance mutuelle.
+I. - Un administrateur de société d'assurance mutuelle, d'union de sociétés d'assurance mutuelles, de société de réassurance
+mutuelle ou de société de groupe d'assurance mutuelle ne peut appartenir simultanément à plus de cinq conseils
+d'administration de sociétés d'assurance mutuelles, d'unions de sociétés d'assurance mutuelles, de sociétés de réassurance
+mutuelles, de sociétés de groupe d'assurance mutuelles ou de sociétés anonymes ayant leur siège sur le territoire français.
 
-II. - Le président du conseil d'administration ne peut exercer simultanément, en plus de son mandat de président, que quatre
-mandats d'administrateur, dont au plus deux mandats de président du conseil d'administration d'une société d'assurance
-mutuelle, d'une union, d'une société de réassurance mutuelle ou d'une société de groupe d'assurance mutuelle.
+II. - Dans le décompte des mandats mentionnés au I ne sont pris en compte que pour un seul mandat ceux détenus dans des
+sociétés faisant partie d'un ensemble soumis à l'obligation d'établir des comptes consolidés ou combinés dans les conditions
+prévues à l'article L. 345-2.
 
-III. - Dans le décompte des mandats mentionnés aux I et II ne sont pris en compte que pour un seul ceux détenus dans les
-sociétés appartenant à un même groupe d'assurance tel que défini au 6° de l'article L. 334-2 du présent code.
-
-IV. - Toute personne qui, lorsqu'elle accède à un nouveau mandat, se trouve en infraction avec les dispositions des I et II
-doit, dans les trois mois de sa nomination, se démettre de l'un de ses mandats. A défaut de démission expresse à l'expiration
-de ce délai, elle est réputée s'être démise de son mandat le plus récent, sans que soit, de ce fait, remise en cause la
-validité des délibérations auxquelles elle a pris part.
+III. - Toute personne qui se trouve en infraction avec les dispositions du présent article doit, dans les trois mois suivant
+sa nomination, se démettre de l'un de ses mandats. A l'expiration de ce délai et à défaut de démission expresse, elle est
+réputée s'être démise de son mandat le plus récent et doit restituer les indemnités perçues sans que soit, de ce fait, remise
+en cause la validité des délibérations auxquelles elle a pris part.
 
 **Liens relatifs à cet article**
 
@@ -26403,9 +26401,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-942 du 26 juin 2002 - art. 2 () JORF 28 juin 2002
+  - Décret n°2003-311 du 31 mars 2003 - art. 1 () JORF 5 avril 2003
+
+_Abrogé par_:
+
+  - Décret n°2005-7 2005-01-03 art. 3 9° JORF 7 janvier 2005
 
 _Cite_:
 
@@ -26550,6 +26552,42 @@ Les dispositions précédentes ne font pas obstacle à l'institution d'un intér
 dans les conditions prévues par l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée relative à l'intéressement et à la
 participation des salariés aux résultats de l'entreprise et à l'actionnariat.
 
+IV. - Une personne physique ne peut pas exercer simultanément plus d'un mandat de directeur général d'une société d'assurance
+mutuelle, d'une union de sociétés d'assurance mutuelles, d'une société de réassurance mutuelle, d'une société de groupe
+d'assurance mutuelle ou d'une société anonyme ayant son siège sur le territoire français.
+
+Par dérogation aux dispositions du précédent alinéa :
+
+1° Un deuxième mandat peut être exercé dans une société ou union faisant partie d'un même ensemble soumis à l'obligation
+d'établir des comptes consolidés ou combinés en application de l'article L. 345-2 ;
+
+2° Une personne physique exerçant un mandat de directeur général dans une société d'assurance mutuelle, une union de sociétés
+d'assurance mutuelles, une société de réassurance mutuelle ou une société de groupe d'assurance mutuelle peut également
+exercer un mandat de directeur général, de membre du directoire ou de directeur général unique dans une autre société ou
+union dès lors que les titres de celles-ci ne sont pas admis aux négociations sur un marché réglementé ;
+
+3° Une personne physique exerçant un mandat de directeur général dans une société d'assurance mutuelle, une union de sociétés
+d'assurance mutuelles, une société de réassurance mutuelle ou une société de groupe d'assurance mutuelle peut également
+exercer un mandat de directeur général dans une autre société d'assurance mutuelle, union de sociétés d'assurance mutuelles,
+société de réassurance mutuelle ou société de groupe d'assurance mutuelle dès lors que lesdites sociétés ou unions décident,
+par un vote de leurs conseils d'administration respectifs, d'établir entre elles la convention mentionnée à l'article R.
+345-1-2. Cette dérogation n'est valable que durant deux ans à compter de la plus récente de ces délibérations. Elle n'est pas
+renouvelable pour ces sociétés ou unions.
+
+V. - Sans préjudice des dispositions des articles L. 322-4-2 et R. 322-54-1 ainsi que de celles du IV du présent article, une
+personne physique exerçant un mandat au sein d'une société d'assurance mutuelle, d'une union de sociétés d'assurance
+mutuelles, d'une société de réassurance mutuelle ou d'une société de groupe d'assurance mutuelle ne peut exercer plus de cinq
+mandats de directeur général, de membre du directoire, de directeur général unique, d'administrateur ou de membre du conseil
+de surveillance de sociétés d'assurance mutuelles, d'unions de sociétés d'assurance mutuelles, de sociétés de réassurance
+mutuelles, de sociétés de groupe d'assurance mutuelles ou de sociétés anonymes ayant leur siège sur le territoire français.
+Pour l'application de ces dispositions, l'exercice de la direction générale par un administrateur est décompté pour un seul
+mandat.
+
+VI. - Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un
+de ses mandats dans les trois mois de sa nomination. A l'expiration de ce délai et à défaut de démission expresse, elle est
+réputée s'être démise de son mandat le plus récent et doit restituer les rémunérations et indemnités qu'elle a perçues au
+titre de ce mandat, sans que soit, de ce fait, remise en cause la validité des délibérations auxquelles elle a pris part.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -26559,10 +26597,18 @@ _Codifié par_:
 _Cite_:
 
   - Ordonnance 86-1134 1986-10-21
+  - Code des assurances - art. L322-4-2 (V)
+  - Code des assurances - art. L345-2 (M)
+  - Code des assurances - art. R322-54-1 (M)
+  - Code des assurances - art. R345-1-2 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-942 du 26 juin 2002 - art. 3 () JORF 28 juin 2002
+  - Décret n°2003-311 du 31 mars 2003 - art. 1 () JORF 5 avril 2003
+
+_Abrogé par_:
+
+  - Décret n°2005-7 2005-01-03 art. 3 9° JORF 7 janvier 2005
 
 _Cité par_:
 
@@ -26649,9 +26695,10 @@ IV. - L'assemblée générale est, chaque année, appelée à statuer sur :
 2° Un rapport spécial des commissaires aux comptes concernant les contrats d'assurance de toute nature souscrits auprès de la
 société par ses administrateurs, ses dirigeants salariés et leurs conjoints, ascendants et descendants. Le président du
 conseil d'administration communique ces contrats aux commissaires aux comptes en indiquant ceux qui ont été souscrits à des
-conditions préférentielles par rapport à celles pratiquées pour les autres sociétaires. Pour l'établissement de leur rapport,
-les commissaires aux comptes analysent les caractéristiques des contrats souscrits, notamment, pour l'assurance vie, les
-sommes versées par la société dans l'année par bénéficiaire ainsi que les conditions de rémunération obtenues par lui.
+conditions préférentielles par rapport à celles pratiquées pour les autres sociétaires. Pour l'établissement de leur rapport
+qui doit notamment préciser ces conditions préférentielles, les commissaires aux comptes analysent les caractéristiques des
+contrats souscrits, notamment, pour l'assurance vie, les sommes versées par la société dans l'année par bénéficiaire ainsi
+que les conditions de rémunération obtenues par lui.
 
 V. - Les conventions autorisées par le conseil d'administration, qu'elles aient été ou non approuvées par l'assemblée
 générale, produisent leurs effets à l'égard des tiers, sauf lorsqu'elles sont annulées dans le cas de fraude.
@@ -26687,7 +26734,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-942 du 26 juin 2002 - art. 4 () JORF 28 juin 2002
+  - Décret n°2003-311 du 31 mars 2003 - art. 2 () JORF 5 avril 2003
+
+_Abrogé par_:
+
+  - Décret n°2005-7 2005-01-03 art. 3 9° JORF 7 janvier 2005
 
 _Cité par_:
 
@@ -29863,48 +29914,7 @@ _Cité par_:
 
 ##### Section VIII : Les sociétés de groupe d'assurance mutuelle et les conventions d'affiliation<a id=270></a>
 
-###### Article R322-160
-
-I.-La constitution des sociétés de groupe d'assurance mutuelle mentionnées au troisième alinéa de l'article L. 322-1-3 est
-soumise aux dispositions des articles R. 322-46 et R. 322-52 du présent code. 
-
-II.-Les signataires de l'acte de constitution de la société mentionné à l'article R. 322-46 ou leurs fondés de pouvoirs
-constatent sa création par une déclaration devant notaire. A cette déclaration sont annexés : 
-
-a) La liste dûment certifiée des entreprises signataires mentionnant, pour chacune d'elles, leur dénomination, leur siège
-social, le montant de leurs engagements techniques et leurs chiffres d'affaires par branche ; 
-
-b) Un exemplaire des statuts ; 
-
-c) Les documents prévus aux 2,4 et 5 de l'article R. 322-51. 
-
-III.-Les dispositions des articles R. 322-85 à R. 322-89 relatives à la publicité sont applicables aux sociétés régies par la
-présente section.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
-
-_Cite_:
-
-  - Code des assurances - art. L322-1-3 (V)
-  - Code des assurances - art. R*322-46 (V)
-  - Code des assurances - art. R*322-51 (V)
-  - Code des assurances - art. R322-52 (V)
-  - Code des assurances - art. R322-85 (V)
-
-_Cité par_:
-
-  - Code des assurances - art. R322-164 (V)
-
-
-###### Article R322-161
+###### Article R*322-161
 
 I. - 1° Les statuts des sociétés de groupe d'assurance mutuelle doivent fixer les conditions d'admission de retrait ou
 d'exclusion des entreprises affiliées par convention à la société de groupe d'assurance.
@@ -29944,7 +29954,7 @@ mutuelle modifie au préalable ses propres statuts afin de reconnaître à la so
 demander la convocation de l'assemblée générale de ladite entreprise et de proposer lors de celle-ci l'élection de nouveaux
 candidats au poste d'administrateur.
 
-III. - Les dispositions du 4° de l'article R. 332-47 et de l'article R. 332-48 sont applicables aux statuts des sociétés de
+III. - Les dispositions du 4° de l'article R. 322-47 et de l'article R. 322-48 sont applicables aux statuts des sociétés de
 groupe d'assurance mutuelle.
 
 **Liens relatifs à cet article**
@@ -29953,14 +29963,14 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
-
-  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 23 octobre 2002
   - TXT_SOURCE: Arrêté du 23 octobre 2002 - art. 1 ()
+
+_Modifié par_:
+
+  - Décret n°2003-311 du 31 mars 2003 - art. 2 () JORF 5 avril 2003
 
 _Cité par_:
 
@@ -29973,8 +29983,49 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L411-4 (M)
-  - Code des assurances - art. R332-47 (V)
-  - Code des assurances - art. R332-48 (M)
+  - Code des assurances - art. R*322-47 (M)
+  - Code des assurances L411-4, R322-47, R322-48
+
+
+###### Article R322-160
+
+I.-La constitution des sociétés de groupe d'assurance mutuelle mentionnées au troisième alinéa de l'article L. 322-1-3 est
+soumise aux dispositions des articles R. 322-46 et R. 322-52 du présent code. 
+
+II.-Les signataires de l'acte de constitution de la société mentionné à l'article R. 322-46 ou leurs fondés de pouvoirs
+constatent sa création par une déclaration devant notaire. A cette déclaration sont annexés : 
+
+a) La liste dûment certifiée des entreprises signataires mentionnant, pour chacune d'elles, leur dénomination, leur siège
+social, le montant de leurs engagements techniques et leurs chiffres d'affaires par branche ; 
+
+b) Un exemplaire des statuts ; 
+
+c) Les documents prévus aux 2,4 et 5 de l'article R. 322-51. 
+
+III.-Les dispositions des articles R. 322-85 à R. 322-89 relatives à la publicité sont applicables aux sociétés régies par la
+présente section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+
+_Cite_:
+
+  - Code des assurances - art. L322-1-3 (V)
+  - Code des assurances - art. R*322-46 (V)
+  - Code des assurances - art. R*322-51 (V)
+  - Code des assurances - art. R322-52 (V)
+  - Code des assurances - art. R322-85 (V)
+
+_Cité par_:
+
+  - Code des assurances - art. R322-164 (V)
 
 
 ###### Article R322-162
