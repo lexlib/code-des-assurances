@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-08-08
+Version Consolidée au 1994-08-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -9225,8 +9225,8 @@ un capital en cas de mariage ou de naissance d'enfants, ou font appel à l'épar
 
 Les entreprises ayant exclusivement pour objet la réassurance ne sont pas soumises au contrôle de l'Etat.
 
-Les mutuelles régies par le code de la mutualité, les institutions de retraite et de prévoyance mentionnées à l'article L.
-732-1 du code de la sécurité sociale et à l'article 1050 du code rural ne sont pas soumises aux dispositions du présent code.
+Les mutuelles régies par le code de la mutualité, les institutions régies par le livre IX du code de la sécurité sociale et à
+l'article 1050 du code rural ne sont pas soumises aux dispositions du présent code.
 
 Sont également soumises au contrôle de l'Etat les entreprises agréées à la date du 1er janvier 1993 qui font appel à
 l'épargne en vue de la capitalisation sans souscrire d'engagements déterminés.
@@ -9508,22 +9508,21 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Modifié par_:
+
+  - Loi n°94-678 du 8 août 1994 - art. 14 () JORF 10 août 1994
+
+_Cite_:
+
+  - Code de la sécurité sociale
+  - Code rural 1050
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
   - TXT_ASSOCIE: Code des assurances - art. L328-10 (M)
   - TXT_ASSOCIE: Code des assurances - art. L328-11 (Ab)
   - TXT_SOURCE: Code des assurances - art. R*310-1 (T)
   - TXT_SOURCE: Code des assurances - art. R*322-1 (Ab)
-
-_Modifié par_:
-
-  - Loi n°94-5 du 4 janvier 1994 - art. 8 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. L732-1 (T)
-  - Code rural 1050
 
 _Anciens textes_:
 
@@ -10411,19 +10410,18 @@ _Anciens textes_:
 Le contrôle des entreprises d'assurance est effectué sur pièces et sur place. La commission l'organise et en définit les
 modalités. Le corps des commissaires contrôleurs des assurances est mis à sa disposition à cette fin.
 
+Sont également mis à la disposition de la commission, en tant que de besoin, les membres de l'inspection générale des
+affaires sociales dans des conditions définies par décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+  - Loi n°94-678 du 8 août 1994 - art. 14 () JORF 10 août 1994
 
 _Cité par_:
 
