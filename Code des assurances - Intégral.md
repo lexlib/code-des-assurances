@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1977-06-08
+Version Consolidée au 1977-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -402,8 +402,8 @@ Version Consolidée au 1977-06-08
           - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-11 à A331-25)](#399)
             - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-11 à A331-15)](#400)
             - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-23 à A331-25)](#401)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-3 à A332-13)](#402)
-          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. A332-3 à A332-4)](#403)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-1 bis à A332-13)](#402)
+          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. A332-1 bis à A332-4)](#403)
           - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#404)
           - [Section IV : Commissions et frais d'acquisition à amortir. (art. A332-7 à A332-13)](#405)
         - [Chapitre III : Revenu des placements. (art. A333-1 à A333-10)](#406)
@@ -39184,6 +39184,33 @@ _Cite_:
 #### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=402></a>
 
 ##### Section I : Eléments d'actif admis en représentation des engagements réglementés.<a id=403></a>
+
+###### Article A332-1 bis
+
+En application des dispositions du 5° de l'article R. 332-3, les actions d'une même société d'investissement à capital
+variable dont l'objet est limité à la gestion d'un portefeuille de valeurs mentionnées aux 1° et 2° de l'article R. 332-2
+peuvent représenter jusqu'à 10 p. 100 du montant du bilan des valeurs énumérées à l'article précité et affectées à la
+représentation des provisions techniques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1977-06-15 art. 1 JORF 30 juin 1977
+
+_Abrogé par_:
+
+  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
+
+_Cite_:
+
+  - Code des assurances - art. R*332-2 (M)
+  - Code des assurances - art. R*332-3 (M)
+
 
 ###### Article A332-3
 
