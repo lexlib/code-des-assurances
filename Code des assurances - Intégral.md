@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1987-02-20
+Version Consolidée au 1987-05-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -229,7 +229,7 @@ Version Consolidée au 1987-02-20
             - [Paragraphe 4 : Dispositions diverses. (art. R*322-37 à R*322-41)](#226)
           - [Section IV : Sociétés d'assurance à forme mutuelle (art. R*322-43 à R*322-92)](#227)
             - [Paragraphe 1 : Constitution. (art. R*322-43 à R322-49)](#228)
-            - [Paragraphe 2 : Administration. (art. R*322-53 à R*322-70)](#229)
+            - [Paragraphe 2 : Administration. (art. R*322-53 à R322-58)](#229)
             - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. R*322-71 à R322-74)](#230)
             - [Paragraphe 4 : Réassurance. (art. R*322-81 à R*322-84)](#231)
             - [Paragraphe 5 : Publicité. (art. R*322-85 à R*322-89)](#232)
@@ -21296,58 +21296,6 @@ _Cité par_:
   - Code des assurances - art. R322-162 (M)
 
 
-###### Article R*322-58
-
-Les statuts déterminent la composition des assemblées générales. Ils fixent à cet effet et, s'il y a lieu, pour chaque
-branche : soit le montant minimal de cotisations nécessaire pour en faire partie, soit le nombre des sociétaires, titulaires
-de contrats comportant les cotisations les plus élevées, qui doivent les composer, ou celui des sociétaires, titulaires dans
-chaque groupement professionnel ou régional des contrats comportant les cotisations les plus élevées, lorsque la société a
-admis dans ses statuts ce mode de groupement. Le nombre des sociétaires pouvant faire partie des assemblées générales ne peut
-être fixé à moins de cinquante.
-
-Ne peuvent faire partie de l'assemblée que les sociétaires à jour de leurs cotisations.
-
-La liste des sociétaires pouvant prendre part à une assemblée générale est arrêtée au quinzième jour précédant cette
-assemblée par les soins du conseil d'administration. Tout sociétaire peut, par lui-même ou par un mandataire, prendre
-connaissance de cette liste au siège social.
-
-Tout membre de l'assemblée générale peut s'y faire représenter par un autre sociétaire ou, si les statuts le permettent, par
-un tiers. Les statuts peuvent interdire de confier ce mandat à une personne employée par la société ; ils doivent fixer le
-nombre maximal de pouvoirs susceptibles d'être confiés à un même mandataire, sans que ce nombre puisse être supérieur à cinq.
-
-Toutefois, ce nombre peut être augmenté dans la mesure nécessaire, pour que la réalisation du quorum réglementaire le plus
-faible ne nécessite pas la présence effective de plus de cent mandataires.
-
-Les sociétaires qui ne remplissent pas individuellement les conditions prévues par les statuts pour prendre part à
-l'assemblée générale peuvent, de leur propre initiative, se réunir pour former des groupements satisfaisant auxdites
-conditions et se faire représenter par un sociétaire.
-
-Le sociétaire ou le tiers porteur de pouvoirs doit les déposer au siège de la société et les y faire enregistrer cinq jours
-au moins avant la réunion de l'assemblée générale, faute de quoi ces pouvoirs sont nuls et de nul effet.
-
-Tout sociétaire présent ou représenté ou tout groupement de sociétaires formé en vertu des dispositions du sixième alinéa du
-présent article ne peut avoir droit qu'à une voix, sans qu'il puisse être dérogé à cette règle par les statuts.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 28
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Loi n°85-703 du 12 juillet 1985 - art. 14 (V)
-  - Décret n°91-1050 du 30 septembre 1991 - art. Annexe I (V)
-  - Code des assurances - art. Annexe I art. R*322-58 (V)
-  - Code des assurances - art. R*322-65 (M)
-  - Code des assurances - art. R322-119-2 (V)
-  - Code des assurances - art. R322-156 (V)
-
-
 ###### Article R*322-59
 
 Les statuts indiquent les conditions dans lesquelles est faite la convocation aux assemblées générales : cette convocation
@@ -21725,6 +21673,63 @@ _Codifié par_:
 _Anciens textes_:
 
   - Décret n°1938-12-30 art. 37 quater
+
+
+###### Article R322-58
+
+Les statuts déterminent la composition de l'assemblée générale. Ils peuvent fixer le montant minimal de cotisation nécessaire
+pour en faire partie qui peut varier selon la nature du contrat souscrit.
+
+Ils peuvent également fixer le nombre de sociétaires titulaires des contrats comportant les cotisations les plus élevées qui
+la composent ou prévoir l'élection de ses membres par les sociétaires, la participation à ces élections pouvant être
+subordonnée à un montant minimal de cotisation.
+
+Les statuts peuvent prévoir que pour l'application de l'alinéa précédent les sociétaires sont répartis en groupements suivant
+la nature du contrat qu'ils ont souscrits ou selon des critères régionaux ou professionnels.
+
+Le nombre de sociétaires faisant partie de l'assemblée générale ne peut être fixé à moins de cinquante.
+
+Ne peuvent faire partie de l'assemblée que les sociétaires à jour de leurs cotisations.
+
+La liste des sociétaires pouvant prendre part à une assemblée générale est arrêtée au quinzième jour précédant cette
+assemblée par les soins du conseil d'administration. Tout sociétaire peut, par lui-même ou par un mandataire, prendre
+connaissance de cette liste au siège social.
+
+Tout membre de l'assemblée générale peut s'y faire représenter par un autre sociétaire ou, si les statuts le permettent, par
+un tiers. Les statuts peuvent interdire de confier ce mandat à une personne employée par la société ; ils doivent fixer le
+nombre maximal de pouvoirs susceptibles d'être confiés à un même mandataire, sans que ce nombre puisse être supérieur à cinq.
+
+Toutefois, ce nombre peut être augmenté dans la mesure nécessaire, pour que la réalisation du quorum réglementaire le plus
+faible ne nécessite pas la présence effective de plus de cent mandataires.
+
+Les sociétaires qui ne remplissent pas individuellement les conditions prévues par les statuts pour prendre part à
+l'assemblée générale peuvent, de leur propre initiative, se réunir pour former des groupements satisfaisant auxdites
+conditions et se faire représenter par un sociétaire.
+
+Le sociétaire ou le tiers porteur de pouvoirs doit les déposer au siège de la société et les y faire enregistrer cinq jours
+au moins avant la réunion de l'assemblée générale, faute de quoi ces pouvoirs sont nuls et de nul effet.
+
+Tout sociétaire présent ou représenté ou tout groupement de sociétaires formé en vertu des dispositions du neuvième alinéa du
+présent article ne peut avoir droit qu'à une voix, sans qu'il puisse être dérogé à cette règle par les statuts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Cité par_:
+
+  - Loi n°85-703 du 12 juillet 1985 - art. 14 (V)
+  - Décret n°91-1050 du 30 septembre 1991 - art. Annexe I (V)
+  - Code des assurances - art. Annexe I art. R*322-58 (V)
+  - Code des assurances - art. R*322-65 (M)
+  - Code des assurances - art. R322-119-2 (V)
+  - Code des assurances - art. R322-156 (V)
+
+_Modifié par_:
+
+  - Décret n°87-332 1987-05-13 art. 1, art. 2 JORF 20 mai 1987
 
 
 ##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=230></a>
