@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-04-05
+Version Consolidée au 2002-04-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -378,7 +378,7 @@ Version Consolidée au 2002-04-05
         - [Chapitre II : Autres régimes particuliers d'assurance (art. R442-1 à R442-11)](#375)
           - [Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux (art. R442-1 à R442-11)](#376)
             - [Paragraphe 1 : Dispositions générales. (art. R442-1 à R442-7-2)](#377)
-            - [Paragraphe 2 : Opérations d'exportation. (art. R442-8-1 à R442-8-6)](#378)
+            - [Paragraphe 2 : Opérations d'exportation. (art. R442-8-1 à R442-8-7)](#378)
             - [Paragraphe 3 : Opérations d'investissement. (art. R442-9-1 à R442-9-3)](#379)
             - [Paragraphe 4 : Opérations d'importation. (art. R442-10-1 à R442-10-5)](#380)
             - [Paragraphe 5 : Dispositions communes. (art. R442-11)](#381)
@@ -42298,24 +42298,25 @@ relative à diverses dispositions d'ordre économique et financier, garantis et 
 contrôle, par la société anonyme dénommée Compagnie française d'assurance pour le commerce extérieur (Coface) dans les
 conditions fixées par les articles R. 442-2 à R. 442-10-5.
 
+La Compagnie française d'assurance pour le commerce extérieur (COFACE) peut également délivrer, pour le compte de l'Etat et
+sous son contrôle, les garanties spécifiques mentionnées au b du 1° de l'article L. 432-2 du présent code, dans les
+conditions fixées aux articles R. 442-2 à R. 442-7-2 et R. 442-8-7.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°49-874 1949-07-05
-  - Code des assurances R442-2 à R442-10-5
+  - Code des assurances - art. L432-2 (M)
+  - Code des assurances R442-2 à R442-10-5, L432-2, R442-2 à R442-7-2, R442-8-7
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-_Créé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+  - Décret n°2002-526 du 15 avril 2002 - art. 1 () JORF 18 avril 2002
 
 _Cité par_:
 
@@ -42734,6 +42735,37 @@ _Abrogé par_:
 _Cite_:
 
   - Code des assurances - art. R442-8-2
+
+
+###### Article R442-8-7
+
+Les garanties spécifiques mentionnées au deuxième alinéa de l'article R. 442-1 du présent code sont délivrées pour le
+financement d'opérations d'exportation d'avions appartenant à la catégorie des gros porteurs conclues avec des
+administrations publiques ou des sociétés du secteur public ou privé. Le risque qu'elles couvrent est réalisé dès lors que le
+débiteur ne s'est pas acquitté de sa dette. Le ministre chargé de l'économie définit, après avis de la commission des
+garanties et du crédit au commerce extérieur, les conditions d'octroi de ces garanties, les modalités de leur mise en oeuvre
+et, le cas échéant, du transfert de leur bénéfice au profit des cessionnaires des créances qu'elles couvrent. Il peut, après
+avis de la même commission, adapter ces conditions et ces modalités au cas par cas et exclure certains risques du champ
+d'application des garanties y afférentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Décret n°2002-526 du 15 avril 2002 - art. 2 () JORF 18 avril 2002
+
+_Cité par_:
+
+  - Décret n°2013-425 du 24 mai 2013 (V)
+  - Code des assurances - art. R442-1 (M)
+
+_Nouveaux textes_:
+
+  - Code des assurances - art. R442-3 (V)
 
 
 ##### Paragraphe 3 : Opérations d'investissement.<a id=379></a>
