@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1998-09-11
+Version Consolidée au 1998-12-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -69122,7 +69122,7 @@ _Abrogé par_:
 
 Lors de l'entrée en portefeuille des titres soumis à la réserve de capitalisation, leur taux actuariel de rendement est
 calculé en tenant compte du prix d'acquisition, des probabilités, dates d'échéances et montants, nets de tous impôts, des
-coupons, des lots et autres avantages accessoires attachés à ces titres, et des valeurs de remboursement.
+coupons, des lots et autres avantages accessoires attachés à ces titres, et des valeurs de remboursement. 
 
 Pour les obligations visées au II de l'article R. 332-19, le calcul s'effectue en prenant pour valeur de remboursement la
 valeur de remboursement initiale multipliée par le rapport entre l'indice de référence à la date considérée et ce même indice
@@ -69140,20 +69140,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1998-09-09 art. 1 I JORF 11 septembre 1998
+  - Arrêté 1998-12-08 art. 2 I JORF 10 décembre 1998
 
 _Cité par_:
 
   - Code des assurances - art. A333-3 (V)
   - Code des assurances - art. A333-4 (V)
 
-_Cite_:
-
-  - Code des assurances - art. R*332-19 (M)
-
 **Liens**:
 
   - TXT_SOURCE: Code des assurances - art. R*333-1 (M)
+
+_Cite_:
+
+  - Code des assurances - art. R332-19 (V)
 
 
 ###### Article A333-3
@@ -69162,6 +69162,9 @@ Lors de la vente ou de la conversion d'une obligation, l'opération est appliqu�
 
 En cas de vente ou de conversion d'un titre, on se réfère à la date d'acquisition de ce titre, pour calculer, en fonction de
 son taux actuariel mentionné à l'article A. 333-2, sa valeur actuelle au jour de la vente ou de la conversion.
+
+Pour les obligations visées au paragraphe II de l'article R. 332-19, la valeur actuelle ainsi calculée est multipliée par le
+rapport entre l'indice de référence à la date de la vente ou de la conversion et ce même indice à la date d'acquisition.
 
 Pour les obligations visées au II de l'article R. 332-19, la valeur actuelle ainsi calculée est multipliée par le rapport
 entre l'indice de référence à la date de la vente ou de la conversion et ce même indice à la date d'acquisition.
@@ -69182,7 +69185,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1998-09-09 art. 1 II JORF 11 septembre 1998
+  - Arrêté 1998-12-08 art. 2 II JORF 10 décembre 1998
 
 _Cité par_:
 
