@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1977-06-30
+Version Consolidée au 1978-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -40721,24 +40721,24 @@ _Cité par_:
 
 ###### Article A335-20
 
-Les montants maximaux des commissions et rétributions mentionnées à l'article A. 335-19 sont déterminés, en ce qui concerne
-les assurances autres que celles garantissant les pertes d'exploitation, en appliquant, par établissement assuré, les
+Le montant maximal des commissions et rétributions mentionnées à l'article A. 335-19 est déterminé en ce qui concerne les
+assurances autres que celles garantissant les pertes d'exploitation, en appliquant, par établissement assuré, les
 pourcentages suivants à l'ensemble des primes ou cotisations qui s'y rapportent, accessoires compris, et nettes de tous
 impôts et taxes :
 
-- 16,5 p. 100 lorsque le montant des primes ou cotisations de l'établissement n'excède pas 15.000 F ;
+16,5 p. 100 lorsque le montant des primes ou cotisations de l'établissement n'excède pas 30.000 F ;
 
-- 14,5 p. 100 lorsque le montant des primes ou cotisations de l'établissement est supérieur à 15.000 F sans excéder 60.000 F,
-le montant maximal des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 2.475 F ;
+14,5 p. 100 lorsque le montant des primes ou cotisations de l'établissement est supérieur à 30.000 F sans excéder 120.000 F,
+le montant maximal des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 4.950 F ;
 
-- 13,5 p. 100 lorsque le montant des primes ou cotisations de l'établissement est supérieur à 60.000 F sans excéder 360.000
-F, le montant maximal des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 8.700 F ;
+13,5 p. 100 lorsque le montant des primes ou cotisations de l'établissement est supérieur à 120.000 F sans excéder 720.000 F,
+le montant maximal des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 17.400 F ;
 
-- 11,5 p. 100 lorsque le montant des primes ou cotisations de l'établissement est supérieur à 360.000 F sans excéder
-1.200.000 F, le montant maximal des commissions et rétributions ne pouvant toutefois pas être inférieur à 48.600 F ;
+11,5 p. 100 lorsque le montant des primes ou cotisations de l'établissement est supérieur à 720.000 F sans excéder 2.400.000
+F, le montant maximal des commissions et rétributions ne pouvant toutefois pas être inférieur à 97.200 F ;
 
-- 9 p. 100 lorsque le montant des primes ou cotisations de l'établissement est supérieur à 1.200.000 F, le montant maximal
-des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 138.000 F.
+9 p. 100 lorsque le montant des primes ou cotisations de l'établissement est supérieur à 2.400.000 F, le montant maximal des
+commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 276.000 F.
 
 **Liens relatifs à cet article**
 
@@ -40746,9 +40746,13 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Arrêté 1978-02-06 art. 1
+  - Arrêté 1978-02-06 art. 1 JONC 28 février 1978 en vigueur le 1er avril 1978
+
+_Abrogé par_:
+
+  - Arrêté 1985-09-10 art. 2 JORF 9 octobre 1985
 
 _Cité par_:
 
@@ -40762,23 +40766,23 @@ _Cité par_:
 
 ###### Article A335-21
 
-Les montants maximaux des commissions et rétributions mentionnées à l'article A. 335-19 sont déterminés, en ce qui concerne
-les assurances de pertes d'exploitation, en appliquant, par police, les pourcentages suivants à l'ensemble des primes ou
+Le montant maximal des commissions et rétributions mentionnées à l'article A. 335-19 est déterminé, en ce qui concerne les
+assurances de pertes d'exploitation, en appliquant, par police, les pourcentages suivants à l'ensemble des primes ou
 cotisations qui s'y rapportent, accessoires compris, et nettes de tous impôts et taxes :
 
-- 16,5 p. 100 lorsque le montant de ces primes ou cotisations n'excède pas 15.000 F ;
+16,5 p. 100 lorsque le montant de ces primes ou cotisations n'excède pas 30.000 F ;
 
-- 14,5 p. 100 lorsque le montant de ces primes ou cotisations est supérieur à 15.000 F sans excéder 60.000 F, le montant
-maximal des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 2.475 F ;
+14,5 p. 100 lorsque le montant de ces primes ou cotisations est supérieur à 30.000 F sans excéder 120.000 F, le montant
+maximal des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 4.950 F ;
 
-- 13,5 p. 100 lorsque le montant de ces primes ou cotisations est supérieur à 60.000 F sans excéder 360.000 F, le montant
-maximal des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 8.700 F ;
+13,5 p. 100 lorsque le montant de ces primes ou cotisations est supérieur à 120.000 F sans excéder 720.000 F, le montant
+maximal des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 17.400 F ;
 
-- 11,5 p. 100 lorsque le montant de ces primes ou cotisations est supérieur à 360.000 F sans excéder 1.200.000 F, le montant
-maximal des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 48.600 F ;
+11,5 p. 100 lorsque le montant de ces primes ou cotisations est supérieur à 720.000 F sans excéder 2.400.000 F, le montant
+maximal des commissions et rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 97.200 F ;
 
-- 9 p. 100 lorsque le montant de ces primes ou cotisations est supérieur à 1.200.000 F, le montant maximal des commissions et
-rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 138.000 F.
+9 p. 100 lorsque le montant de ces primes ou cotisations est supérieur à 2.400.000 F, le montant maximal des commissions et
+rétributions ainsi déterminé ne pouvant toutefois pas être inférieur à 276.000 F.
 
 **Liens relatifs à cet article**
 
@@ -40786,9 +40790,13 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Arrêté 1978-02-06 art. 2
+  - Arrêté 1978-02-06 art. 2 JONC 28 février 1978 en vigueur le 1er avril 1978
+
+_Abrogé par_:
+
+  - Arrêté 1985-09-10 art. 2 JORF 9 octobre 1985
 
 _Cite_:
 
