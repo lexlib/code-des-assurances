@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1984-05-18
+Version Consolidée au 1984-06-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -479,9 +479,9 @@ Version Consolidée au 1984-05-18
         - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-9)](#476)
           - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#477)
           - [Section III : Règles relatives à l'agrément particulier. (art. A441-7 à A441-9)](#478)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-5 à A516-2)](#479)
-      - [Titre Ier : Présentation des opérations. (art. A513-5 à A516-2)](#480)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-5 à A513-8)](#481)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-2 à A516-2)](#479)
+      - [Titre Ier : Présentation des opérations. (art. A513-2 à A516-2)](#480)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-2 à A513-8)](#481)
         - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#482)
 # Partie législative<a id=1></a>
 
@@ -46316,6 +46316,49 @@ _Cite_:
 ### Titre Ier : Présentation des opérations.<a id=480></a>
 
 #### Chapitre III : Conditions de capacité professionnelle.<a id=481></a>
+
+###### Article A513-2
+
+Sont considérées comme justifiant de la possession d'un diplôme mentionné au a de l'article R. 513-2 les personnes qui
+produisent l'un des titres suivants :
+
+Diplôme mentionné à l'article A. 513-1 ;
+
+Brevet d'études professionnelles, professions de l'assurance, de la banque et de la bourse, option assurance ;
+
+Certificat d'aptitude professionnelle d'employé d'assurance ;
+
+Certificat de scolarité de l'institut libre des finances et des assurances ;
+
+Certificat de scolarité de l'école polytechnique d'assurance ;
+
+Certificat de fin d'études de l'école privée de législation professionnelle.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1966-02-23 art. 1 annexe II
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 1980-08-28 art. 2 JORF 10 septembre 1980
+  - Arrêté 1984-05-29 art. 2 JORF 13 juin 1984
+
+_Cite_:
+
+  - Code des assurances - art. A513-1 (M)
+  - Code des assurances - art. R513-2 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des assurances - art. R513-2 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R513-2 (M)
+
 
 ###### Article A513-5
 
