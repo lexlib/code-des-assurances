@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2000-03-01
+Version Consolidée au 2000-09-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -44332,12 +44332,15 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1985-09-10 art. 1 JORF 9 octobre 1985
+  - Arrêté 1995-07-17 art. 1 JORF 19 juillet 1995
+  - Arrêté 2000-09-05 art. 1 JORF 12 septembre 2000
+  - Arrêté 2000-09-05 art. 1 et art. 2 JORF 12 septembre 2000
 
 **Liens**:
 
+  - SPEC_APPLI: Arrêté 2000-09-05 art. 3 (modalités d'application - dates de constatation de l'état de catastrophe)
   - TXT_SOURCE: Arrêté du 5 septembre 2000
   - TXT_SOURCE: Arrêté du 5 septembre 2000 - art. 1 ()
   - TXT_SOURCE: Arrêté du 5 septembre 2000 - art. 2 ()
@@ -44365,19 +44368,28 @@ Le taux annuel de la prime ou cotisation relative à la garantie contre les effe
 suit :
 
 - contrats garantissant des risques appartenant à la catégorie d'opérations 23 de l'article A. 344-2 : 6 % des primes ou
-cotisations afférentes aux garanties vol et incendie ou, à défaut, 0,5 % des primes ou cotisations afférentes aux garanties
+cotisations afférentes aux garanties vol et incendie, ou, à défaut, 0,5 % des primes ou cotisations afférentes aux garanties
 dommages ;
 
-- contrats garantissant des risques appartenant à la catégorie d'opérations 24 de l'article A. 344-2 : 12 % des primes ou
-cotisations afférentes au contrat ;
+- contrats garantissant des risques appartenant à la catégorie d'opérations 24 de l'article A. 344-2 : 12 % de l'ensemble des
+primes ou cotisations afférentes au contrat, à l'exception des primes ou cotisations afférentes aux garanties de
+responsabilité civile générale, de protection juridique, d'assistance et de dommages corporels ;
 
 - contrats garantissant des risques appartenant aux catégories d'opérations 25 ou 26 de l'article A. 344-2 ou garantissant
-des risques mentionnés à l'article L. 125-1 (deuxième alinéa) : 12 % des primes ou cotisations afférentes au contrat ;
+des risques mentionnés à l'article L. 125-1 (deuxième alinéa) : 12 % de l'ensemble des primes ou cotisations afférentes au
+contrat, à l'exception des primes ou cotisations afférentes aux garanties de responsabilité civile générale, de protection
+juridique, d'assistance et de dommages corporels et aux garanties couvrant les dommages mentionnés à l'article L. 125-5.
 
-- contrats garantissant des risques appartenant à la catégorie d'opérations 35 de l'article A. 344-2, autres que ceux
-mentionnés à l'article L. 242-1 : 12 % des primes ou cotisations afférentes au contrat.
+Toutefois, les taux annuels fixés aux deux alinéas précédents s'appliquent aux primes et cotisations afférentes aux garanties
+de la responsabilité civile contractuelle de l'assuré en qualité de propriétaire, locataire ou occupant des biens désignés
+aux contrats et de la responsabilité civile qu'il encourt en cette qualité, à l'égard des tiers du fait d'un incendie, d'une
+explosion ou d'un dégât des eaux :
 
-Les taux ci-dessus sont calculés sur la prime ou cotisation nette de toutes taxes afférentes aux contrats susvisés.
+- garanties de dommages aux biens visés à l'article L. 125-1 du code des assurances attachées à des contrats appartenant à
+des catégories d'opérations autres que celles visées aux quatre alinéas précédents : 12 % des primes ou cotisations
+afférentes à ces garanties.
+
+Les taux ci-dessus sont calculés sur les primes ou cotisations nettes de toutes taxes afférentes aux contrats susvisés.
 
 **Liens relatifs à cet article**
 
@@ -44385,13 +44397,14 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Modifié par_:
-
-  - Arrêté 1999-08-03 art. 1 JORF 13 août 1999
-
 **Liens**:
 
   - SPEC_APPLI: Arrêté 1999-08-03 art. 2 (modalités d'application - date d'effet)
+  - SPEC_APPLI: Arrêté 2000-09-05 art. 2 (modalités d'application - date d'effet)
+
+_Modifié par_:
+
+  - Arrêté 2000-09-05 art. 1 JORF 12 septembre 2000
 
 _Cite_:
 
@@ -44402,19 +44415,9 @@ _Cite_:
 
 ###### Article A125-3
 
-Le bureau central de tarification institué par l'article L. 125-6, saisi d'une proposition pour la garantie des risques de
-catastrophes naturelles, peut, conformément aux dispositions du septième alinéa dudit article, décider l'application
-d'abattements spéciaux dont les montants maximaux sont fixés comme suit :
-
-Contrats garantissant les biens à usage d'habitation, les véhicules terrestres à moteur et les autres biens à usage non
-professionnel : vingt-cinq fois le montant de la franchise prévue par l'annexe I de l'article A. 125-1 ;
-
-Contrats garantissant les biens à usage professionnel : 30 p. 100 du montant des dommages matériels directs subis par
-l'assuré, par établissement et par événement, sans pouvoir être inférieur à vingt-cinq fois le minimum exprimé en francs
-prévu par l'annexe I de l'article A. 125-1 pour les mêmes biens ;
-
-Contrats garantissant les risques mentionnés à l'article L. 125-1 (2ème alinéa) : trente jours ouvrés avec un minimum de
-vingt-cinq fois le montant de la franchise prévue par l'annexe II de l'article A. 125-1.
+Dans les communes non dotées d'un plan de prévention des risques naturels prévisibles pour le risque concerné, l'arrêté
+interministériel portant constatation de l'état de catastrophe naturelle prévu à l'article L. 125-1 précise le nombre
+d'arrêtés relatifs au même risque pris depuis le 2 février 1995.
 
 **Liens relatifs à cet article**
 
@@ -44424,22 +44427,17 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Arrêté 1985-09-10 art. 1 JORF 9 octobre 1985
+  - Arrêté 2000-09-05 art. 2 JORF 12 septembre 2000
 
 **Liens**:
 
+  - SPEC_APPLI: Arrêté 2000-09-05 art. 3 (modalités d'application - date d'effet)
   - TXT_SOURCE: Arrêté du 10 septembre 2003
   - TXT_SOURCE: Arrêté du 10 septembre 2003 - art. 1 ()
-
-_Nouveaux textes_:
-
-  - Code des assurances - art. A250-1 (V)
 
 _Cite_:
 
   - Code des assurances - art. L125-1 (M)
-  - Code des assurances - art. L125-6 (M)
-  - Code des assurances L125-1, L125-6, A125-1 annexe I, annexe II
 
 
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=396></a>
