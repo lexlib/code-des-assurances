@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2003-08-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -407,9 +407,9 @@ Version Consolidée au 2003-08-02
     - [Livre Ier : Le contrat (art. A113-1 à A160-4)](#404)
       - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#405)
         - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#406)
-      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-3)](#407)
+      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à Annexe II art. A125-1)](#407)
         - [Chapitre Ier : Dispositions générales. (art. A121-1 à A121-2)](#408)
-        - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-3)](#409)
+        - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à Annexe II art. A125-1)](#409)
       - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A131-2 à A132-12)](#410)
         - [Chapitre Ier : Dispositions générales. (art. A131-2 à A131-3)](#411)
           - [Section I : Valeur de référence au contrat. (art. A131-2 à A131-4)](#412)
@@ -47113,24 +47113,16 @@ _Cite_:
 ###### Article A125-1
 
 Les contrats d'assurance mentionnés à l'article L. 125-1 (premier alinéa) sont réputés comporter des clauses conformes à
-celles figurant à l'annexe I du présent article.
+celles figurant à l'annexe I du présent article. 
 
 Les contrats d'assurance mentionnés à l'article L. 125-1 (deuxième alinéa) sont réputés comporter des clauses conformes à
 celles figurant à l'annexe II du présent article.
-
-(annexes non reproduites, voir au Journal officiel).
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1976-07-16
-
-_Modifié par_:
-
-  - Arrêté 1995-07-17 art. 1 JORF 19 juillet 1995
-  - Arrêté 2000-09-05 art. 1 JORF 12 septembre 2000
-  - Arrêté 2000-09-05 art. 1 et art. 2 JORF 12 septembre 2000
 
 **Liens**:
 
@@ -47145,6 +47137,11 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 4 août 2003 - art. 3 (V)
   - TXT_SOURCE: Code des assurances - art. L121-5 (V)
 
+_Modifié par_:
+
+  - Arrêté 2001-09-03 art. 1 A JORF 11 septembre 2001 en vigueur le 1er janvier 2002
+  - Arrêté 2003-08-04 art. 1, 2 et 3 JORF 29 août 2003
+
 _Cité par_:
 
   - Code des assurances - art. A125-2 (V)
@@ -47153,7 +47150,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L125-1 (M)
+  - Code des assurances - art. L125-1 (V)
 
 
 ###### Article A125-2
@@ -47235,6 +47232,166 @@ _Créé par_:
 _Cite_:
 
   - Code des assurances - art. L125-1 (M)
+
+
+###### Article Annexe I art. A125-1
+
+**Clauses types applicables aux contrats d'assurance mentionnés à l'article L. 125-1 (premier alinéa) du code des assurances
+**
+
+a) Objet de la garantie : 
+
+La présente assurance a pour objet de garantir à l'assuré la réparation pécuniaire des dommages matériels directs non
+assurables à l'ensemble des biens garantis par le contrat ayant eu pour cause déterminante l'intensité anormale d'un agent
+naturel, lorsque les mesures habituelles à prendre pour prévenir ces dommages n'ont pu empêcher leur survenance ou n'ont pu
+être prises. 
+
+b) Mise en jeu de la garantie : 
+
+La garantie ne peut être mise en jeu qu'après publication au Journal officiel de la République française d'un arrêté
+interministériel ayant constaté l'état de catastrophe naturelle. 
+
+c) Étendue de la garantie : 
+
+La garantie couvre le coût des dommages matériels directs non assurables subis par les biens, à concurrence de leur valeur
+fixée au contrat et dans les limites et conditions prévues par le contrat lors de la première manifestation du risque. 
+
+d) Franchise : 
+
+Nonobstant toute disposition contraire, l'assuré conserve à sa charge une partie de l'indemnité due après sinistre. Il
+s'interdit de contracter une assurance pour la portion du risque constituée par la franchise. 
+
+Pour les véhicules terrestres à moteur, quel que soit leur usage, le montant de la franchise est de 380 € pour chaque
+véhicule endommagé. Toutefois, pour les véhicules terrestres à moteur à usage professionnel, sera appliquée la franchise
+prévue par le contrat, si celle-ci est supérieure. 
+
+Pour les biens à usage d'habitation et les autres biens à usage non professionnel, le montant de la franchise est fixé à 380
+euros, sauf en ce qui concerne les dommages imputables aux mouvements de terrain différentiels consécutifs à la sécheresse
+et/ ou à la réhydratation des sols, pour lesquels le montant de la franchise est fixé à 1 520 euros. 
+
+Pour les biens à usage professionnel, le montant de la franchise est égal à 10 % du montant des dommages matériels directs
+non assurables subis par l'assuré, par établissement et par événement, sans pouvoir être inférieur à un minimum de 1 140
+euros ; sauf en ce qui concerne les dommages imputables aux mouvements de terrain différentiels consécutifs à la sécheresse
+et/ ou à la réhydratation brutale des sols, pour lesquels ce minimum est fixé à 3 050 euros. Toutefois, sera appliquée la
+franchise prévue par le contrat, si celle-ci est supérieure à ces montants. 
+
+Pour les biens autres que les véhicules terrestres à moteur, dans une commune non dotée d'un plan de prévention des risques
+naturels prévisibles pour le risque faisant l'objet d'un arrêté portant constatations de l'état de catastrophe naturelle, la
+franchise est modulée en fonction du nombre de constatations de l'état de catastrophe naturelle intervenues pour le même
+risque au cours des cinq années précédant la date de la nouvelle constatation, selon les modalités suivantes :
+
+- première et deuxième constatation : application de la franchise ;
+
+- troisième constatation : doublement de la franchise applicable ;
+
+- quatrième constatation : triplement de la franchise applicable ;
+
+- cinquième constatation et constatations suivantes : quadruplement de la franchise applicable. 
+
+Les dispositions de l'alinéa précédent cessent de s'appliquer à compter de la prescription d'un plan de prévention des
+risques naturels prévisibles pour le risque faisant l'objet de la constatation de l'état de catastrophe naturelle dans la
+commune concernée. Elles reprennent leurs effets en l'absence d'approbation du plan précité dans le délai de quatre ans à
+compter de la date de l'arrêté de prescription du plan de prévention des risques naturels. 
+
+e) Obligation de l'assuré : 
+
+L'assuré doit déclarer à l'assureur ou à son représentant local tout sinistre susceptible de faire jouer la garantie dès
+qu'il en a connaissance et au plus tard dans les dix jours suivant la publication de l'arrêté interministériel constatant
+l'état de catastrophe naturelle. 
+
+Quand plusieurs assurances contractées par l'assuré peuvent permettre la réparation des dommages matériels directs non
+assurables résultant de l'intensité anormale d'un agent naturel, l'assuré doit, en cas de sinistre et dans le délai mentionné
+au précédent alinéa, déclarer l'existence de ces assurances aux assureurs intéressés. Dans le même délai, il déclare le
+sinistre à l'assureur de son choix. 
+
+f) Obligation de l'assureur : 
+
+L'assureur doit verser l'indemnité due au titre de la garantie dans un délai de trois mois à compter de la date de remise par
+l'assuré de l'état estimatif des biens endommagés ou de la date de publication de l'arrêté interministériel constatant l'état
+de catastrophe naturelle lorsque celle-ci est postérieure. À défaut, et sauf cas fortuit ou de force majeure, l'indemnité due
+par l'assureur porte, à compter de l'expiration de ce délai, intérêt au taux de l'intérêt légal
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des assurances - art. L125-1 (V)
+
+
+###### Article Annexe II art. A125-1
+
+**Clauses types applicables aux contrats d'assurance mentionnés à l'article L. 125-1 (deuxième alinéa) du code des assurances
+**
+
+a) Objet de la garantie : 
+
+La présente assurance a pour objet de garantir à l'assuré le paiement d'une indemnité correspondant à la perte du bénéfice
+brut et aux frais supplémentaires d'exploitation résultant, pendant la période d'indemnisation prévue par le contrat, de
+l'interruption ou de la réduction de l'activité de son entreprise ayant eu pour cause déterminante l'intensité anormale d'un
+agent naturel affectant les biens de cette entreprise, lorsque les mesures habituelles à prendre pour prévenir ces dommages
+n'ont pu empêcher leur survenance ou n'ont pu être prises. 
+
+b) Mise en jeu de la garantie : 
+
+La garantie ne peut être mise en jeu qu'après publication au Journal officiel de la République française d'un arrêté
+interministériel ayant constaté l'état de catastrophe naturelle. 
+
+c) Étendue de la garantie : 
+
+La garantie couvre, sans possibilité d'abattement spécial sur le montant des éléments du risque servant à la détermination de
+la prime ou cotisation, les conséquences pécuniaires de l'interruption ou de la réduction de l'activité de l'entreprise, dans
+les limites et aux conditions fixées par le contrat pour le risque principal, telles qu'elles existaient lors de la première
+manifestation du risque. 
+
+d) Franchise : 
+
+L'assuré conserve à sa charge une partie de l'indemnité due après sinistre correspondant à une interruption ou à une
+réduction de l'activité de l'entreprise pendant trois jours ouvrés, avec un minimum de 1 140 euros. 
+
+Toutefois, sera appliquée la franchise éventuellement prévue par le contrat, si celle-ci est supérieure à ces montants. 
+
+L'assuré s'interdit de contracter une assurance pour la portion du risque constituée par la franchise. 
+
+Dans une commune non dotée d'un plan de prévention des risques naturels prévisibles pour le risque faisant l'objet d'un
+arrêté portant constatation de l'état de catastrophe naturelle, la franchise est modulée en fonction du nombre de
+constatations de l'état de catastrophe naturelle intervenues pour le même risque au cours des cinq années précédant la date
+de la nouvelle constatation, selon les modalités suivantes :
+
+- première et deuxième constatation : application de la franchise ;
+
+- troisième constatation : doublement de la franchise applicable ;
+
+- quatrième constatation : triplement de la franchise applicable ;
+
+- cinquième constatation et constatation suivantes : quadruplement de la franchise applicable. 
+
+Les dispositions de l'alinéa précédent cessent de s'appliquer à compter de la prescription d'un plan de prévention des
+risques naturels prévisibles pour le risque faisant l'objet de la constatation de l'état de catastrophe naturelle dans la
+commune concernée. Elles reprennent leurs effets en l'absence d'approbation du plan précité dans le délai de quatre ans à
+compter de la date de l'arrêté de prescription du plan de prévention des risques naturels. 
+
+e) Obligation de l'assuré : 
+
+L'assuré doit déclarer à l'assureur ou à son représentant local tout sinistre susceptible de faire jouer la garantie dès
+qu'il en a connaissance et au plus tard dans les trente jours suivant la publication de l'arrêté interministériel constatant
+l'état de catastrophe naturelle. 
+
+Quand plusieurs assurances contractées par l'assuré peuvent permettre la mise en jeu de cette même garantie, l'assuré doit,
+en cas de sinistre et dans le délai mentionné au précédent alinéa, déclarer l'existence de ces assurances aux assureurs
+intéressés. Il déclare, dans le même délai, le sinistre à l'assureur de son choix. 
+
+f) Obligation de l'assureur : 
+
+L'assureur doit verser l'indemnité due au titre de la garantie dans un délai de trois mois à compter de la date de remise par
+l'assuré de l'état estimatif des pertes subies ou de la date de la publication de l'arrêté interministériel constatant l'état
+de catastrophe naturelle lorsque celle-ci est postérieure. À défaut et sauf cas fortuit ou de force majeure, l'indemnité due
+par l'assureur porte, à compter de l'expiration de ce délai, intérêt au taux de l'intérêt légal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des assurances - art. L125-1 (V)
 
 
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=410></a>
