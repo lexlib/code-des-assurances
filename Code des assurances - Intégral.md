@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1980-05-25
+Version Consolidée au 1980-07-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -461,9 +461,10 @@ Version Consolidée au 1980-05-25
         - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-9)](#458)
           - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#459)
           - [Section III : Règles relatives à l'agrément particulier. (art. A441-7 à A441-9)](#460)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A516-2)](#461)
-      - [Titre Ier : Présentation des opérations. (art. A516-2)](#462)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#463)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-5 à A516-2)](#461)
+      - [Titre Ier : Présentation des opérations. (art. A513-5 à A516-2)](#462)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-5 à A513-8)](#463)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#464)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -43826,7 +43827,107 @@ _Cite_:
 
 ### Titre Ier : Présentation des opérations.<a id=462></a>
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=463></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=463></a>
+
+###### Article A513-5
+
+Chaque affaire soumise à l'examen de la commission fait l'objet d'un rapport présenté par un commissaire contrôleur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
+
+_Abrogé par_:
+
+  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
+
+_Cité par_:
+
+  - Arrêté du 31 mars 1992 - art. 1 (V)
+
+
+###### Article A513-6
+
+Si elle le juge utile, la commission peut autoriser un représentant de l'entreprise ou du centre de formation intéressé à
+présenter verbalement ses observations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
+
+_Abrogé par_:
+
+  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
+
+_Cité par_:
+
+  - Arrêté du 31 mars 1992 - art. 1 (V)
+
+
+###### Article A513-7
+
+Les avis de la commission sont émis à la majorité des voix des membres présents. En cas de partage égal des voix, celle du
+président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
+
+_Abrogé par_:
+
+  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
+
+_Cité par_:
+
+  - Arrêté du 31 mars 1992 - art. 1 (V)
+
+
+###### Article A513-8
+
+Le secrétariat de chaque séance de la commission est assuré par un administrateur civil du ministère de l'économie, désigné
+par le directeur des assurances.
+
+Le secrétaire établit procès-verbal de la séance. Ce document est soumis à l'approbation des membres de la commission et
+conservé dans les archives de la direction des assurances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
+
+_Abrogé par_:
+
+  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
+
+_Cité par_:
+
+  - Arrêté du 31 mars 1992 - art. 1 (V)
+
+
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=464></a>
 
 ###### Article A516-2
 
