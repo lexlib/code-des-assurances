@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2000-02-22
+Version Consolidée au 2000-03-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -44895,32 +44895,14 @@ _Cite_:
 
 ###### Article A132-5
 
-Pour l'établissement du compte défini à l'article A. 132-4 :
+Pour les contrats qui relèvent des catégories 8 et 9 définies à l'article A. 344-2, l'information sur les valeurs de rachat
+au titre des garanties exprimées en unités de compte prévue par l'article L. 132-5-1 est donnée en nombre d'unités de compte.
+Ce nombre doit tenir compte des prélèvements effectués à quelque titre que ce soit sur la provision mathématique du contrat.
 
-I. - La part des produits financiers à inscrire en recettes de ce compte est égale au produit du taux de rendement des
-placements de l'entreprise réalisés sur le territoire de la République française par le montant moyen au cours de l'exercice
-des provisions techniques brutes de cessions en réassurance des contrats considérés.
+Cette information est complétée par l'indication en caractères très apparents que l'assureur ne s'engage que sur le nombre
+d'unités de compte, mais pas sur leur valeur, et que celle-ci est sujette à des fluctuations à la hausse ou à la baisse.
 
-Ce taux de rendement est égal au rapport :
-
-- du produit des placements net de charges au sens de l'état A1 de l'article A. 344-6, augmenté des plus-values sur cessions
-d'éléments d'actifs, nettes des moins-values, ainsi que du montant des réévaluations d'actif effectuées dans le cadre de
-l'article R. 332-23, net des amortissements éventuels prévus audit article ;
-
-- au montant moyen, au cours de l'exercice, de l'ensemble des placements, ainsi que des autres éléments d'actif pouvant être
-admis en représentation des provisions techniques, à l'exception des valeurs remises par les réassureurs.
-
-Toutefois, les produits financiers afférents à des actifs transférés avec un portefeuille de contrats par une entreprise
-d'assurance vie ou de capitalisation et affectés du code T dans l'état A5 Liste détaillée des placements sont pris en compte
-pour leur montant total.
-
-II. - La part des prélèvements sur la réserve de capitalisation et des dotations à celle-ci, ainsi que des plus-values ou
-moins-values par estimation de valeurs, est obtenue en appliquant au montant global de ces divers éléments le rapport
-existant entre les provisions techniques mentionnées au I, premier alinéa, et le montant des placements mentionnés au I
-(deuxième alinéa, deuxième tiret).
-
-III. - Les plus-values par estimation de valeurs sont celles provenant de l'annulation des moins-values comptabilisées
-postérieurement au 31 décembre 1974.
+Elle est également complétée par l'indication des modalités de calcul du montant en francs de la valeur de rachat.
 
 **Liens relatifs à cet article**
 
@@ -44928,12 +44910,9 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Modifié par_:
+_Créé par_:
 
-  - Arrêté 1982-07-23 art. 5 JORF 7 septembre 1982
-  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
-  - Arrêté 1991-01-30 art. 2 JORF 31 janvier 1991
-  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+  - Arrêté 1999-11-23 art. 1 JORF 26 novembre 1999 en vigueur le 1er mars 2000
 
 _Cité par_:
 
@@ -44942,16 +44921,14 @@ _Cité par_:
   - Code des assurances - art. A132-9 (T)
   - Code des assurances - art. A150-3 (Ab)
 
-_Cite_:
-
-  - Code des assurances - art. A132-4 (M)
-  - Code des assurances - art. A344-6 (Ab)
-  - Code des assurances A132-4, A332-23, A344-6
-
 _Nouveaux textes_:
 
-  - Code des assurances - art. A331-7 (Ab)
   - Code des assurances - art. A331-7 (V)
+
+_Cite_:
+
+  - Code des assurances - art. A344-2 (M)
+  - Code des assurances - art. L132-5-1 (M)
 
 
 ###### Article A132-6
