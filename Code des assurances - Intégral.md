@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-06-11 00:00:10 +0200
+Version Consolidée au 1994-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -375,11 +375,11 @@ Version Consolidée au 1994-06-11 00:00:10 +0200
       - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-3)](#372)
         - [Chapitre Ier : Dispositions générales. (art. A121-1 à A121-2)](#373)
         - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-3)](#374)
-      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A131-1 à A132-11)](#375)
+      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A131-1 à A132-12)](#375)
         - [Chapitre Ier : Dispositions générales. (art. A131-1 à A131-2)](#376)
           - [Section I : Valeur de référence au contrat. (art. A131-1 à A131-2)](#377)
-        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. A132-5 à A132-11)](#378)
-          - [Section III : Participation aux bénéfices techniques et financiers. (art. A132-5 à A132-11)](#379)
+        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. A132-5 à A132-12)](#378)
+          - [Section III : Participation aux bénéfices techniques et financiers. (art. A132-5 à A132-12)](#379)
       - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. A160-1 à A160-4)](#380)
         - [Chapitre unique (art. A160-1 à A160-4)](#381)
           - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. A160-1 à Annexe à l'article A160-1)](#382)
@@ -41313,6 +41313,32 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code des assurances - art. A331-9-1 (T)
+
+
+###### Article A132-12
+
+La note d'information visée à l'article L. 132-5-1 du code des assurances contient les informations prévues par le modèle ci-
+annexé.
+
+(Annexe non reproduite, voir au Journal officiel).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1994-06-21 art. 1 JORF 30 juin 1994
+
+_Nouveaux textes_:
+
+  - Code des assurances - art. A132-4 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L132-5-1 (M)
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=380></a>
