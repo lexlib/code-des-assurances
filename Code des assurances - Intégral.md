@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-11-06
+Version Consolidée au 1990-11-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L181-3)](#2)
@@ -35242,21 +35242,20 @@ _Abrogé par_:
 
 ###### Article R*411-10
 
-La commission des entreprises d'assurance instituée par l'article L. 411-3 est présidée par le ministre chargé de l'économie
-et des finances ou, en son absence, par le directeur des assurances qui en est membre de droit.
+La commission des entreprises d'assurance, instituée par l'article L. 411-3, est présidée par le ministre chargé de
+l'économie et des finances ou, en son absence, par le directeur chargé des assurances qui en est membre de droit ou par le
+représentant de ce dernier.
 
 La commission comprend en outre :
 
-Le directeur du Trésor ;
+1° Le président de la commission de contrôle des assurances ;
 
-Le président de la commission de contrôle des assurances ;
+2° Une personnalité choisie en raison de sa compétence ;
 
-Une personnalité choisie en raison de sa compétence ;
+3° Un représentant des assurés.
 
-Un représentant des assurés.
-
-Hormis le président et le directeur des assurances, les membres de la commission des entreprises d'assurance sont nommés par
-arrêté du ministre chargé de l'économie et des finances.
+Les membres de la commission visés aux 2° et 3° du présent article sont nommés par arrêté du ministre chargé de l'économie et
+des finances.
 
 En cas de partage égal des voix, la voix du président est prépondérante.
 
@@ -35268,7 +35267,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+  - Décret n°90-993 du 7 novembre 1990 - art. 1 () JORF 8 novembre 1990
 
 _Cite_:
 
@@ -35278,24 +35277,25 @@ _Cite_:
 ###### Article R*411-11
 
 La commission de la réglementation, instituée par l'article L. 411-3, est présidée par le ministre chargé de l'économie et
-des finances ou, en son absence, par le directeur des assurances qui en est membre de droit.
+des finances ou, en son absence, par le directeur chargé des assurances qui en est membre de droit ou par le représentant de
+ce dernier.
 
 La commission comprend en outre :
 
-Le conseiller d'Etat, membre du Conseil national des assurances ;
+1° Le conseiller d'Etat, membre du Conseil national des assurances ;
 
-Le directeur des affaires civiles et du sceau au ministère de la justice ;
+2° Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
 
-Une personnalité choisie en raison de sa compétence ;
+3° Une personnalité choisie en raison de sa compétence ;
 
-Trois représentants des entreprises d'assurance ;
+4° Trois représentants des entreprises d'assurance ;
 
-Un représentant des agents généraux d'assurances ou des courtiers d'assurances ;
+5° Un représentant des agents généraux d'assurances ou des courtiers d'assurances ;
 
-Un représentant des assurés.
+6° Un représentant des assurés.
 
-Hormis le président et le directeur des assurances, les membres de la commission de la réglementation sont nommés par arrêté
-du ministre chargé de l'économie et des finances.
+Les membres de la commission visés aux 3°, 4°, 5° et 6° du présent article sont nommés par arrêté du ministre chargé de
+l'économie et des finances.
 
 En cas de partage égal des voix, la voix du président est prépondérante.
 
@@ -35307,7 +35307,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+  - Décret n°90-993 du 7 novembre 1990 - art. 1 () JORF 8 novembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
 
 _Cite_:
 
@@ -35333,7 +35337,7 @@ Deux représentants du personnel des entreprises d'assurance mentionnées à l'a
 
 Six représentants des assurés.
 
-L'ordre du jour est communiqué au ministre chargé de l'économie et des finances et au directeur des assurances.
+L'ordre du jour est communiqué au ministre chargé de l'économie et des finances et au directeur chargé des assurances.
 
 La commission consultative de l'assurance élabore un rapport annuel qui est transmis au Conseil national des assurances. Le
 ministre chargé de l'économie et des finances peut le rendre public.
@@ -35346,7 +35350,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+  - Décret n°90-993 du 7 novembre 1990 - art. 1 () JORF 8 novembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2004-850 du 23 août 2004 - art. 4 () JORF 25 août 2004
 
 _Cite_:
 
@@ -35439,7 +35447,7 @@ comme suit :
 
 1° Les cinq membres représentant l'Etat sont :
 
-Le directeur du Trésor ou son représentant ;
+Le chef du service de la législation fiscale ou son représentant ;
 
 Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
@@ -35470,6 +35478,8 @@ Les représentants des assurés ne peuvent être choisis parmi les professionnel
 II. - Les membres du Conseil national des assurances mentionnés aux 3°, 4° et 5° du I ci-dessus sont nommés par arrêté du
 ministre chargé de l'économie et des finances.
 
+III. - En cas d'empêchement, le directeur chargé des assurances est représenté.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -35478,7 +35488,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
+  - Décret n°90-993 du 7 novembre 1990 - art. 1 () JORF 8 novembre 1990
 
 **Liens**:
 
