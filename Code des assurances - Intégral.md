@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-01-19
+Version Consolidée au 2001-02-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -39250,11 +39250,11 @@ _Modifié par_:
 ###### Article R422-4
 
 Le fonds de garantie est alimenté par une contribution assise sur les primes ou cotisations des contrats d'assurance de biens
-souscrits auprès d'une entreprise ayant obtenu l'agrément prévu par l'article L. 321-1.
+souscrits auprès d'une entreprise visée à l'article L. 310-2.
 
-Cette contribution est recouvrée par les entreprises d'assurance suivant les mêmes règles, sous les mêmes garanties et
-sanctions que la taxe sur les conventions d'assurance. Elle est versée à la recette des impôts suivant les modalités prévues
-pour ladite taxe et reversée au fonds de garantie, déduction faite de 2 p. 100 pour frais d'assiette et de perception.
+Cette contribution est perçue par les entreprises d'assurance suivant les mêmes règles et sous les mêmes garanties et
+sanctions que la taxe sur les conventions d'assurance. Elle est recouvrée mensuellement par le fonds de garantie qui peut
+prévoir le versement d'acomptes.
 
 Le taux de la contribution est fixé, chaque année, par arrêté du ministre chargé des assurances.
 
@@ -39263,6 +39263,7 @@ Le taux de la contribution est fixé, chaque année, par arrêté du ministre ch
 **Liens**:
 
   - SPEC_APPLI: Arrêté 1998-10-12 art. 1 (contribution au Fonds de garantie pour 1999)
+  - SPEC_APPLI: Décret n°2001-3 2001-01-03 art. 3 *date d'effet*
 
 _Codifié par_:
 
@@ -39270,9 +39271,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990 en vigueur le 1er janvier 1991
-  - Loi n°90-589 du 6 juillet 1990 - art. 18 (V) JORF 11 juillet 1990 en vigueur le 1er janvier 1991
-  - Loi n°90-1211 1990-12-21 art. 12 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+  - Décret n°2001-3 du 3 janvier 2001 - art. 1 () JORF 4 janvier 2001 en vigueur le 1er février 2001
 
 _Cité par_:
 
@@ -39282,7 +39281,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L321-1 (M)
+  - Code des assurances - art. L310-2 (M)
 
 
 ###### Article R422-5
