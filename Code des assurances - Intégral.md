@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-07-31
+Version Consolidée au 1985-08-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -256,8 +256,8 @@ Version Consolidée au 1985-07-31
             - [Paragraphe 4 : Dispositions particulières au Lloyd's de Londres. (art. R*331-29 à R*331-30)](#253)
             - [Paragraphe 5 : Dispositions supplémentaires concernant la coassurance communautaire. (art. R331-31)](#254)
             - [Paragraphe 6 : Dispositions particulières relatives à l'assurance de la construction : responsabilité civile décennale. (art. R*331-32)](#255)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. R*332-2 à R*332-45)](#256)
-          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. R*332-2 à R332-13)](#257)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. R*332-6 à R*332-45)](#256)
+          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. R*332-6 à R332-13)](#257)
           - [Section II : Réglementations particulières concernant certains éléments d'actif. (art. R*332-18 à R332-17)](#258)
           - [Section III : Estimation des éléments d'actif. (art. R*332-21 à R332-29)](#259)
           - [Section IV : Commissions et frais d'acquisition à amortir. (art. R332-33 à R332-34)](#260)
@@ -25568,7 +25568,80 @@ _Cite_:
 
 ##### Section I : Eléments d'actif admis en représentation des engagements réglementés.<a id=257></a>
 
-###### Article R*332-2
+###### Article R*332-6
+
+La provision pour risques en cours des entreprises pratiquant les opérations mentionnées au 5° de l'article L. 310-1 peut
+être représentée jusqu'à concurrence de 30 p. 100 de son montant, par des primes ou cotisations nettes d'impôts, de taxes et
+de commissions, et de trois mois de date au plus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Cité par_:
+
+  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
+  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
+  - Code des assurances - art. R332-7 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+
+_Anciens textes_:
+
+  - Décret n°1938-12-30 art. 160
+
+
+###### Article R332-1
+
+Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
+équivalents.
+
+Les engagements pris dans une monnaie doivent être couverts par des actifs libellés ou réalisables dans cette même monnaie.
+
+Toutefois, les engagements peuvent également être couverts dans les conditions prévues à l'article R. 332-2, 5°, à l'article
+R. 332-16, dernier alinéa.
+
+Toutefois, les engagements pris dans le cadre de la coassurance communautaire par un coassureur, en exécution des
+dispositions de l'article L. 321-4, peuvent être couverts par des actifs répondant aux conditions énumérées au deuxième
+alinéa du présent article et localisés dans le pays de ce coassureur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-647 1983-07-08 art. 1 JORF 17 juillet 1983
+
+_Cité par_:
+
+  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
+  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 4
+  - Code des assurances - art. R*332-11 (M)
+  - Code des assurances - art. R328-1 (VD)
+  - Code des assurances - art. R332-1-1 (V)
+  - Code des assurances - art. R332-2 (V)
+  - Code des assurances - art. R332-9 (M)
+
+_Cite_:
+
+  - Code des assurances - art. L321-4 (Ab)
+  - Code des assurances - art. R*331-1 (M)
+  - Code des assurances - art. R332-16 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+
+
+###### Article R332-2
 
 Sous réserve des dispositions de l'article R. 332-1 et des dérogations prévues aux articles R. 332-3-3 à R. 332-10, les
 engagements réglementés mentionnés à l'article R. 331-1 sont représentés par les actifs suivants :
@@ -25582,9 +25655,10 @@ d'inscription ;
 foncier et communal d'Alsace et de Lorraine avant le 15 décembre 1972 ;
 
 3° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement dont l'objet est limité à
-la gestion d'un portefeuille de valeurs mentionnées au 1° ci-dessus ;    4° Actions et autres valeurs mobilières inscrites à
-la cote officielle ou à la cote du second marché des bourses françaises de valeurs, autres que celles mentionnées aux 7° et
-8° ;
+la gestion d'un portefeuille de valeurs mentionnées au 1° ci-dessus :
+
+4° Actions et autres valeurs mobilières inscrites à la cote officielle ou à la cote du second marché des bourses françaises
+de valeurs, autres que celles mentionnées aux 7° et 8° ;
 
 5° Actions, parts et droits émis par des sociétés commerciales françaises, à l'exception des valeurs mentionnées aux 4° et
 7° ;
@@ -25612,11 +25686,12 @@ autorisation donnée cas par cas par le ministre chargé de l'économie et des f
 13° Parts ou actions de sociétés immobilières non inscrites à la cote officielle ou à la cote du second marché des bourses
 françaises de valeurs, dans les conditions déterminées dans chaque cas par le ministre chargé de l'économie et des finances.
 
-C. - Prêts, bons et dépôts.
+C. - Prêts, bons et dépôts
 
 14° Prêts aux collectivités territoriales et à leurs établissements publics administratifs ;
 
-15° Prêts aux établissements publics de l'Etat, à l'exception des établissements de crédit ;
+15° Prêts aux établissements publics de l'Etat. Toutefois, les prêts aux établissements de crédit sont autorisés cas par cas
+par le ministre de l'économie et des finances.
 
 16° Prêts aux organismes d'habitation à loyer modéré, aux coopératives de construction et aux sociétés d'économie mixte de
 construction de logements, dans les conditions déterminées à l'article R. 332-12 ;
@@ -25624,8 +25699,8 @@ construction de logements, dans les conditions déterminées à l'article R. 332
 17° Prêts consentis à des sociétés d'assurance à forme mutuelle, dans les conditions prévues à l'article R. 332-74 et sur
 autorisation donnée cas par cas par le ministre chargé de l'économie et des finances ;
 
-18° Dans les conditions déterminées à l'article R. 332-13, prêts aux entreprises industrielles et commerciales, à l'exclusion
-des établissements de crédit ;
+18° Dans les conditions déterminées à l'article R. 332-13, prêts aux entreprises industrielles et commerciales. Toutefois,
+les prêts aux établissements de crédit sont autorisés cas par cas par le ministre chargé de l'économie et des finances.
 
 19° Prêts aux constructeurs de navires ou aux armateurs dans les conditions fixées à l'article R. 332-14 ;
 
@@ -25633,12 +25708,12 @@ des établissements de crédit ;
 
 21° Billets négociables sur le marché hypothécaire ;
 
-22° bons figurant sur une liste établie par le ministre chargé de l'économie et des finances ;
+22° Bons figurant sur une liste établie par le ministre chargé de l'économie et des finances ;
 
 23° Bons du Trésor ;
 
-24° Dépôts auprès des comptables du Trésor, des centres de chèques postaux de la Banque de France, de la Caisse des dépôts et
-consignations et des établissements de crédit.
+24° Dépôts auprès des comptables du Trésor, des centres de chèques postaux, de la Banque de France, de la Caisse des dépôts
+et consignations et des établissements de crédit.
 
 Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits placements.
 
@@ -25752,11 +25827,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 1 JORF 23 novembre 1984
+  - Décret n°85-847 1985-08-08 art. 1, art. 2 JORF 11 août 1985
 
 **Liens**:
 
-  - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
+  - TXT_ASSOCIE: Code des assurances - art. A332-2 (Ab)
   - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
   - TXT_ASSOCIE: Code des assurances - art. A332-3 (M)
   - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
@@ -25767,79 +25842,6 @@ _Cite_:
 
   - Code des assurances - art. R*331-1 (M)
   - Code des assurances R332-1, R332-3-3 à R332-10, R331-1, R332-12, R332-74, R332-13, R332-14, R332-15
-
-
-###### Article R*332-6
-
-La provision pour risques en cours des entreprises pratiquant les opérations mentionnées au 5° de l'article L. 310-1 peut
-être représentée jusqu'à concurrence de 30 p. 100 de son montant, par des primes ou cotisations nettes d'impôts, de taxes et
-de commissions, et de trois mois de date au plus.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C5 (V)
-  - Code des assurances - art. R332-7 (V)
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 160
-
-
-###### Article R332-1
-
-Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
-équivalents.
-
-Les engagements pris dans une monnaie doivent être couverts par des actifs libellés ou réalisables dans cette même monnaie.
-
-Toutefois, les engagements peuvent également être couverts dans les conditions prévues à l'article R. 332-2, 5°, à l'article
-R. 332-16, dernier alinéa.
-
-Toutefois, les engagements pris dans le cadre de la coassurance communautaire par un coassureur, en exécution des
-dispositions de l'article L. 321-4, peuvent être couverts par des actifs répondant aux conditions énumérées au deuxième
-alinéa du présent article et localisés dans le pays de ce coassureur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°83-647 1983-07-08 art. 1 JORF 17 juillet 1983
-
-_Cité par_:
-
-  - Décret n°2004-342 du 21 avril 2004 - art. 34 (Ab)
-  - Décret n°2009-1621 du 23 décembre 2009 - art. (V)
-  - Décret n°2017-1765 du 26 décembre 2017 - art. 4
-  - Code des assurances - art. R*332-11 (M)
-  - Code des assurances - art. R328-1 (VD)
-  - Code des assurances - art. R332-1-1 (V)
-  - Code des assurances - art. R332-2 (V)
-  - Code des assurances - art. R332-9 (M)
-
-_Cite_:
-
-  - Code des assurances - art. L321-4 (Ab)
-  - Code des assurances - art. R*331-1 (M)
-  - Code des assurances - art. R332-16 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
 
 
 ###### Article R332-3
