@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-04-06
+Version Consolidée au 1985-04-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -291,7 +291,7 @@ Version Consolidée au 1985-04-06
         - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation (art. R343-1 à R343-5)](#288)
           - [Section I : Le cadre comptable. (art. R343-1)](#289)
           - [Section II : Liste des comptes (art. R343-2)](#290)
-            - [Classe 8. (art. R343-2)](#291)
+            - [Classe 5. (art. R343-2)](#291)
           - [Section III : Modèles de comptes de résultats et de bilan (art. R343-3)](#292)
             - [Compte 80. (art. R343-3)](#293)
             - [Compte 87. (art. R343-3)](#294)
@@ -30089,12 +30089,10 @@ B 2 Détail des primes par combinaisons ou sous-catégories.
 
 B 3 Primes et résultats des acceptations et des cessions en réassurance.
 
-B 4 Eléments d'actif représentant les provisions techniques et les cautionnements et montant de ces provisions et
-cautionnements.
+B 4 Eléments d'actif représentant les engagements réglementés et les cautionnements et montant de ces engagements et
+cautionnements.    A 5 Liste détaillée des placements.
 
-A 5 Liste détaillée des placements.
-
-B 6 Récapitulations des placements.
+B 6 Récapitulation des placements.
 
 B 7 Avoirs et engagements en France.
 
@@ -30116,10 +30114,8 @@ B 23 Détail des provisions mathématiques pour risques en cours.    B 24 Détai
 risques en cours.
 
 A 25 Participation des assurés sur la vie ou des porteurs de contrats de capitalisation aux résultats techniques et
-financiers.
-
-B 26 Etat justificatif de la participation des assurés sur la vie ou des porteurs de contrats de capitalisation aux résultats
-techniques et financiers.
+financiers.    B 26 Etat justificatif de la participation des assurés sur la vie ou des porteurs de contrats de
+capitalisation aux résultats techniques et financiers.
 
 B 27 Etat concernant les opérations de coassurance communautaire.    Les entreprises doivent ajouter des rubriques à celles
 des tableaux modèles chaque fois qu'une telle addition est utile à la sincérité des comptes rendus ; elles ont la faculté de
@@ -30137,21 +30133,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°82-617 du 16 juillet 1982 - art. 3 () JORF 20 juillet 1982
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°82-617 du 16 juillet 1982 - art. 4 (V)
-  - SPEC_APPLI: Décret n°82-617 du 16 juillet 1982 - art. 5 (V)
-  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
+  - Décret n°85-460 1985-04-25 art. 1 JORF 30 avril 1985
 
 _Cité par_:
 
@@ -30166,6 +30148,18 @@ _Cité par_:
   - Code des assurances - art. R342-24 (Ab)
   - Code des assurances - art. R342-7 (Ab)
   - Code des assurances - art. R344-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
+  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
+  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
+  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
+  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
 
 
 ###### Article R342-18
@@ -30577,163 +30571,108 @@ _Cité par_:
 
 ##### Section II : Liste des comptes<a id=290></a>
 
-##### Classe 8.<a id=291></a>
+##### Classe 5.<a id=291></a>
 
 ###### Article R343-2
 
-Comptes de résultats.
+Comptes financiers.
 
-80. Exploitation générale.
+50. Emprunts à moins d'un an.
 
-82. Pertes et profits sur exercices antérieurs.
+502. Emprunts pour cautionnements.
 
-820. Pertes sur exercices antérieurs.
+5020. En France.
 
-8202. Rappels d'impôts.
+5029. En France.
 
-8206. Charges diverses imputables à l'exploitation des exercices antérieurs.
+503. Autres emprunts.
 
-822. Profits sur exercices antérieurs.
+5030. En France.
 
-8220. Rentrées sur créances amorties.
+5039. A l'étranger.
 
-8222. Dégrèvements d'impôts.
+509. Avances de l'Etat.
 
-8227. Produits divers imputables à l'exploitation des exercices antérieurs.
+51. Prêts non affectables à la représentation des engagements réglementés.
 
-828. Reprises sur provisions antérieures.
+513. Prêts aux coopératives ou sociétés d'économie mixte de construction de logements non garantis en totalité par les
+départements et communes.
 
-829. Utilisation des provisions précédemment constituées pour couvrir des pertes sur exercices antérieurs et des pertes
-exceptionnelles.
+516. Prêts aux Etats étrangers, organismes étrangers ou internationaux.
 
-83. Dotations de l'exercice aux comptes de provisions hors exploitation ou exceptionnelles et de réserves réglementaires.
+517. Prêts à l'étranger.
 
-831. Dotations aux réserves diverses.
+518. Autres prêts.
 
-833. Dotations aux réserves réglementaires.
+519. Provision pour dépréciation des prêts.
 
-8330. Réserve pour remboursement de l'emprunt pour fonds d'établissement.
+52. Effets à payer.
 
-8331. Fonds d'établissement constitué.
+53. Effets à recevoir.
 
-8332. Réserve de garantie.
+54. Chèques et coupons à encaisser.
 
-8334. Réserve pour fluctuations de change.
+540. Chèques.
 
-8335. Réserve de capitalisation.
+545. Coupons et intérêts échus et non recouvrés.
 
-8336. Provisions pour investissements.
+55. Titres de placement non émunérés aux articles R. 332-2 et R. 332-9.
 
-835. Dotations aux provisions pour pertes.
+550. Titres cotés, partie libérée, en France.
 
-8356. Provision pour participation des salariés aux fruits de l'expansion.
+552. Titres non cotés, partie libérée, en France.
 
-839. Dotations aux provisions pour dépréciation.
+553. Parts de SARL en France.
 
-8391. Sur immeubles en France.
+554. Titres émis par la société et rachetés par elle.
 
-8392. Sur obligations en France.
+556. Titres cotés, partie non libérée, en France.
 
-8393. Sur actions en France.
+557. Titres non cotés, partie non libérée, en France.
 
-8396. Sur créances diverses en France.
+558. Valeurs à l'étranger.
 
-8399. Etranger.
+559. Provision pour dépréciation des titres de placement.
 
-84. Pertes et profits exceptionnels.
+56. Banques et chèques postaux.
 
-840. Moins-values sur cessions d'éléments d'actif.
+560. Banque de France.
 
-8400. France.
+562. Autres banques en France.
 
-8409. Etranger.
+564. Comptes du Trésor en France.
 
-841. Pertes de change.
+565. Chèques postaux en France.
 
-8411. Pertes sur cessions de monnaies étrangères.
+566. Comptes dans les caisses des établissements publics en France.
 
-8414. Pertes sur conversion de monnaies étrangères.
+567. Autres établissements en France.
 
-842. Calcul des résultats sur cessions d'éléments d'actif.
+568. Banques à l'étranger.
 
-8421. Immobilisations en France.
+569. Autres établissements à l'étranger.
 
-8422. Immobilisations en cours en France.
+57. Caisse.
 
-8423. Valeurs mobilières détenues en France.
+570. Siège social.
 
-84232. Obligations.
+571. Succursales (France).
 
-84233. Actions.
+578. Succursales (étranger).
 
-8425. Titres de participation en France.
+59. Virements internes.
 
-8427. Valeurs garantissant les engagements envers des institutions de prévoyance ou couvrant les fonds de placements gérés
-par l'entreprise en France.
-
-8428. Valeurs immobilisées à l'étranger.
-
-8429. Titres de placements non énumérés aux articles R. 332-2 et R. 332-9.
-
-843. Subventions exceptionnelles accordées.
-
-844. Autres pertes exceptionnelles.
-
-8440. Créances irrecouvrables.
-
-8441. Droits d'entrée.
-
-8449. Etranger.
-
-845. Plus-values sur cessions d'éléments d'actif.
-
-8450. France.
-
-8459. Etranger.
-
-846. Profits de change.
-
-8461. Profits sur cessions de monnaies étrangères.
-
-8464. Profits sur conversion de monnaies étrangères.
-
-847. Profits résultant de subventions d'équipement.
-
-848. Subventions d'équilibre reçues.
-
-849. Autres profits exceptionnels.
-
-8490. Droits d'adhésion et droits d'entrée en France.
-
-8499. Etranger.
-
-85. Impôts sur les bénéfices.
-
-86. Produits et prestations de services échangés entre établissements.
-
-87. Compte général de pertes et profits.
-
-870. Résultat avant participation.
-
-871. Participation des salariés aux fruits de l'expansion.
-
-88. Résultats en instance d'affectation.
-
-89. Bilan.
-
-890. Bilan d'ouverture.
-
-891. Bilan de clôture.
+590. Virements de fonds.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 annexe
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-460 1985-04-25 art. 1 à art. 10 JORF 30 avril 1985
 
 _Cite_:
 
@@ -30747,121 +30686,23 @@ _Cite_:
 
 ###### Article R343-3
 
-Exploitation générale.
-
-(Entreprises d'assurance de toute nature mentionnées au 5° de l'article L. 310-1).
-
-DEBIT.
-
-Opérations brutes.
-
-Cessions et rétrocessions.
-
-Opérations nettes.
-
-Charges de sinistres nettes de recours :
-
-- Prestations et frais payés.
-
-- A ajouter : provisions de sinistres à la clôture de l'exercice.
-
-- A déduire : provisions de sinistres à l'ouverture de l'exercice.
-
-- Prestations et frais de l'exercice.
-
-Charges de commissions :
-
-- Commissions payées ou dues.
-
-- A déduire : frais d'acquisition précomptés portés à l'actif.
-
-- A ajouter : amortissement, au cours de l'exercice, des frais d'acquisition précomptés.
-
-- Commissions de l'exercice.
-
-Autres charges.
-
-- Frais de personnel.
-
-- Impôts et taxes.
-
-- Travaux, fournitures et services extérieurs, transports et déplacements.
-
-- Frais divers de gestion.
-
-- Dotations aux amortissements (autres que celles afférentes aux déplacements).
-
-- Dotations aux provisions (autres que celles afférentes aux provisions techniques et aux placements).
-
-- Autres charges de l'exercice.
-
-- Commissions et autres charges.
-
-Charges des placements :
-
-- Frais financiers :
-
-Sur titres.
-
-Sur immeubles de placement.
-
-Autres frais.
-
-- Dotation aux amortissements des valeurs de placements.
-
-Solde créditeur.
-
-Total.
-
-CREDIT.
-
-Opérations brutes.
-
-Cessions et rétrocessions.
-
-Opérations nettes.
-
-Primes :
-
-- Primes et accessoires (nets d'annulations).
-
-- A ajouter : provisions de primes à l'ouverture de l'exercice.
-
-- A déduire : provisions de primes à la clôture de l'exercice.
-
-- Primes de l'exercice.
-
-Produits des placements :
-
-- Produits financiers :
-
-Sur titres.
-
-Sur immeubles de placement.
-
-Autres produits financiers.
-
-Autres produits :
-
-- Subventions d'exploitation.
-
-- Produits accessoires.
-
-Travaux faits par l'entreprise pour elle-même - Charges non imputables à l'exploitation de l'exercice.
-
-Solde débiteur.
-
-Total.
-
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 annexe
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-460 1985-04-25 art. 9 à art. 11 JORF 30 avril 1985
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 _Cite_:
 
@@ -30886,19 +30727,13 @@ Provisions pour moins-values, à la clôture de l'exercice :
 
 - Pour dépréciation des immobilisations et titres : 19.
 
-- Pour dépréciation des valeurs déposées chez les cédants : 26301 et 286301.
-
-Dotation de l'exercice aux réserves diverses (à détailler) :
-
-831.
+Dotation de l'exercice aux réserves diverses à l'étranger (à détailler) : 831.
 
 Dotation de l'exercice aux réserves réglementaires :
 
 - Réserve pour remboursement de l'emprunt pour fonds d'établissement : 8330.
 
 - Fonds d'établissement constitué : 8331.
-
-- Réserve de garantie : 8332.
 
 - Réserve pour fluctuations de change : 8334.
 
@@ -30920,7 +30755,7 @@ Pertes exceptionnelles :
 
 - Moins-values sur cessions d'éléments d'actif : 840.
 
-- Pertes de change :
+Pertes de change :
 
 - Sur cessions de monnaies étrangères : 8411.
 
@@ -30929,6 +30764,8 @@ Pertes exceptionnelles :
 Subventions exceptionnelles accordées : 843.
 
 Autres pertes : 844.
+
+Impôts sur les bénéfices : 85.
 
 Participation des salariés aux fruits de l'expansion : 871.
 
@@ -30944,11 +30781,9 @@ Profits sur exercices antérieurs : 822.
 
 Provisions pour moins-values, à l'ouverture de l'exercice :
 
-- Pour garantie des moins-values sur titres gérés : 150.
+Pour garantie des moins-values sur titres gérés : 150.
 
-- Pour dépréciation des immobilisations et titres : 19.
-
-- Pour dépréciation des valeurs déposées chez les cédants : 26301 et 286301.
+Pour dépréciation des immobilisations et titres : 19.
 
 Reprise sur provisions antérieures : 828.
 
@@ -30959,19 +30794,19 @@ exceptionnelles :
 
 Profits exceptionnels :
 
-- Plus-values sur cessions d'éléments d'actifs : 845.
+Plus-values sur cessions d'éléments d'actif : 845.
 
-- Profits de change :
+Profits de change :
 
-Sur cessions de monnaies étrangères : 8461.
+- Sur cession de monnaies étrangères : 8461.
 
-Sur conversion de monnaies étrangères : 8464.
+- Sur conversion de monnaies étrangères : 8464.
 
-- Profits résultant de subventions d'équipement : 847.
+Profits résultant de subventions d'équipement : 847.
 
-- Subventions d'équilibre reçues : 848.
+Subventions d'équilibre reçues : 848.
 
-- Autres profits : 849.
+Autres profits : 849.
 
 Perte ou insuffisance nette totale (solde débiteur).
 
@@ -30979,13 +30814,21 @@ Total.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 annexe
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-460 1985-04-25 art. 9 à art. 11 JORF 30 avril 1985
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 
 ##### Compte 88.<a id=295></a>
@@ -31057,9 +30900,7 @@ Montant net.
 
 20. Frais d'établissement et de développement en France :
 
-- Frais d'établissement proprement dits (200 à 203 et 206).
-
-- Frais d'acquisition des contrats (205).
+- Frais d'établissement (200 à 203, 205 et 206).
 
 - Frais d'acquisition des immobilisations (204 et 209).
 
@@ -31079,7 +30920,7 @@ Total des frais d'établissement en France.
 
 - Valeurs mobilières admises en représentation des provisions techniques (autres que les titres de participation) (23).
 
-Prêts et effets assimilés admis en représentation des provisions techniques (24) ....
+Prêts et effets assimilés admis en représentation des provisions techniques (24).
 
 Titres de participation (25).
 
@@ -31090,19 +30931,17 @@ l'entreprise (27).
 
 28. Valeurs immobilisées à l'étranger.
 
-29. Valeurs remises par les réassureurs.
+A déduire : versements à effectuer sur titres non libérés (4611 à 4618).
 
-- A déduire : versements à effectuer sur titres non libérés (4611 à 4618).
+Provision pour dépréciation des immobilisations et titres (192 et 197).
 
-- Provision pour dépréciation des immobilisations et titres (192 et 197).
-
-Total des valeurs immobilisées nettes ....
+Total des valeurs immobilisées nettes.
 
 39. Part des cessionnaires et rétrocessionnaires dans les provisions techniques :
 
-- Primes (3910, 3920, 3930, 3940, 3950, 3960, 39810, 39820, 39840, 39850).
+Primes (3910, 3920, 3930, 3940, 3950, 3960, 39810, 39820, 39840, 39850).
 
-- Sinistres (3915, 3925, 3935, 3945, 3955, 3965, 39815, 39825, 39845, 39855).
+Sinistres (3915, 3925, 3935, 3945, 3955, 3965, 39815, 39825, 39845, 39855).
 
 Total de la part des cessionnaires dans les provisions techniques.
 
@@ -31150,20 +30989,31 @@ Total des comptes de tiers et des comptes financiers.
 
 Total général.
 
-07. Valeurs déposées par les tiers, à restituer.
+06. Valeurs reçues en nantissement des cessionnaires et rétrocessionnaires.
 
-09. Valeurs appartenant à des institutions de prévoyance régies par l'article L. 4 du code général de sécurité sociale, à
-restituer.
+07. Valeurs appartenant à des institutions de prévoyance régies par l'article L. 4 du code de la sécurité sociale.
+
+08. Valeurs remises par des organismes réassurés avec caution solidaire ou avec substitution.
+
+09. Autres valeurs détenues par l'entreprise.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 annexe
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-460 1985-04-25 art. 9 à art. 11 JORF 30 avril 1985
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 _Cite_:
 
@@ -31190,8 +31040,6 @@ Part restant à rembourser de l'emprunt (1016) (1).
 
 - Fonds social complémentaire (102) (1).
 
-(1) Emprunts mentionnés à l'article R. 334-2.
-
 11. Réserves :
 
 - Primes d'émission (110).
@@ -31213,8 +31061,6 @@ Part restant à rembourser de l'emprunt (1016) (1).
 13. Réserves réglementées :
 
 - Réserve pour remboursement de l'emprunt pour fonds d'établissement (130).
-
-- Réserve de garantie (132).
 
 - Réserve pour fluctuations de change (134).
 
@@ -31238,15 +31084,15 @@ Total des capitaux propres et réserves.
 
 - Emprunts et autres dettes à plus d'un an (16).
 
-- Dettes pour valeurs et espèces remises par les cessionnaires et rétrocessionnaires (18).
+- Dettes pour espèces remises par les cessionnaires et rétrocessionnaires (18).
 
 Total des subventions, provisions pour pertes et charges et dettes à long et moyen terme.
 
 31 à 38. Provisions techniques :
 
-- Primes (310, 320, 330, 340, 360, 3810, 3820, 3840, 3850).
+- Primes (310, 320, 330, 340, 350, 360, 3810, 3820, 3840, 3850).
 
-- Sinistres (315, 3250 à 3258, 335, 345, 355, 365, 3815, 3825, 3845, 3855).
+- Sinistres (315, 3250 à 3258, 335, 345, 355, 365, 3825, 3845, 3855).
 
 - Moins : prévision de recours à encaisser (3259).
 
@@ -31256,11 +31102,13 @@ Total des provisions techniques.
 
 4 et 5. Dettes à court terme :
 
-Comptes courants des cessionnaires et rétrocessionnaires créditeurs (4001).
+- Comptes courants des cessionnaires et rétrocessionnaires créditeurs (4001).
 
-Comptes courants des cédants et rétrocédants créditeurs (4041).
+- Comptes courants des cédants et rétrocédants créditeurs (4041).
 
-Comptes courants des coassureurs créditeurs (4081).
+- Comptes courants des coassureurs créditeurs (4081).
+
+(1) Emprunts mentionnés à l'article R. 334-2.
 
 Comptes des agents et assurés créditeurs (41) (1).
 
@@ -31286,28 +31134,44 @@ Total des dettes à court terme.
 
 17. Compte avec le siège social (dettes).
 
-87. Résultats (excédent avant affectation).
+57. Résultats (excédent avant affectation).
 
 Total général.
 
-07. Engagements de restitution de valeurs détenues appartenant à des tiers.
+06. Engagements de restitution des valeurs reçues en nantissement des cessionnaires et rétrocessionnaires.
 
-09. Engagements de restitution de valeurs détenues appartenant à des institutions de prévoyance régies par l'article L. 4 du
-code général de sécurité sociale.
+07. Engagements de restitution des valeurs détenues appartenant à des institutions de prévoyance régies par l'article L. 4 du
+code de la sécurité sociale.
 
-[*(1) Total des comptes divisionnaires ou sous-comptes dont le solde est créditeur. Certains comptes figurant à la fois à
-l'actif et au passif, leurs soldes pouvant être soit débiteurs, soit créditeurs (418, 428, 436, 438, 445, 446, 450, 455, 462
-à 468). D'autres comptes se balancent et n'ont pas figurer au bilan (59...)*].
+08. Engagements de restitution des autres valeurs remises par des organismes réassurés avec caution solidaire ou avec
+substitution.
+
+09. Engagements de restitution des autres valeurs détenues appartenant à des tiers.
+
+**Nota:**
+
+(1) Total des comptes divisionnaires ou sous-comptes dont le solde est créditeur. Certains comptes figurant à la fois à
+l'actif et au passif, leurs soldes pouvant être soit débiteurs, soit créditeurs (418,428,438,445,446,450,455,462 à 468). 
+
+D'autres comptes se balancent et n'ont pas figurer au bilan (59...).
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 annexe
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-460 1985-04-25 art. 9 à art. 11 JORF 30 avril 1985
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-482 du 8 juin 1994 - art. 2 (V)
 
 _Cite_:
 
@@ -31322,19 +31186,20 @@ _Cite_:
 Les entreprises de capitalisation tiennent les mêmes comptes que les entreprises d'assurance sur la vie, en apportant à leurs
 libellés les modifications éventuellement nécessaires.
 
-Classe 1.
+Classe I.
 
-Comptes de capitaux permanents.
+Comptes de capitaux permanents. 
 
 Capitaux permanents : Moyens de financement utilisés par l'entreprise de façon permanente et durable, constitués en
-particulier par le capital, les primes d'émission, les bénéfices mis en réserve et les emprunts pour fonds d'établissement.
+particulier par le capital, les primes d'émission, les bénéfices mis en réserve et les emprunts à long ou moyen terme, les
+réserves ou emprunts pour fonds d'établissement.
 
-10. Capital.
+10 Capital.
 
 La fraction du capital restant à appeler est portée au crédit du compte 1001 par le débit du compte 441 (actionnaires,
 capital non appelé).
 
-Dans le cas d'appel de capital non libéré, le compte 1001 est débité du montant appelé par le crédit du compte 1000, et
+En cas d'appel de capital non libéré, le compte 1001 est débité du montant appelé par le crédit du compte 1000, et
 corrélativement le compte 441 est crédité du même montant par le débit du compte 442, ou s'il y a libération totale et
 immédiate par le débit du compte intéressé de la classe 4 ou de la classe 5.
 
@@ -31344,59 +31209,54 @@ constitué) est crédité par le débit du compte 8331 d'un montant égal à la 
 Dans les autres cas (remboursement inférieur à l'amortissement de l'année) le compte 1016 (part restant à rembourser de
 l'emprunt) est débité par le crédit du compte 56 (banque), le compte 1010 (fonds d'établissement constitué) est crédité par
 le débit du compte 8331 d'un montant égal à la somme remboursée et le compte 130 (réserve pour remboursement de l'emprunt)
-est crédité par le débit du compte 8330 d'un montant égal à la somme qui, dans l'année, a été amortie sans être remboursée.
+est crédité par le débit du compte 8330 d'un montant égal à la somme qui, dans l'année, à été amortie sans être remboursée.
 Au terme de l'emprunt le compte 1010 est crédité par le débit du compte 130 tandis que le compte 1016 est soldé par le compte
 56.
 
-11. Réserves.
+11 Réserves.
 
 Le compte 110 est utilisé pour enregistrer les primes d'apports et les primes de fusion.
 
 Lorsque l'exploitation à l'étranger des entreprises françaises est subordonnée à un cautionnement, la réserve imposée à ce
 titre figure au compte 119 ; de même, quand il est exigé des entreprises un dépôt qui dépasse leurs engagements techniques,
-l'excédent est, en principe, crédité à ce compte. S'il apparaît que les actifs correspondants à ces suppléments de garantie
+l'excédent est, en principe, crédité à ce compte. S'il apparaît que les actifs correspondants à ces suppléments de garanties
 exigés à l'étranger deviennent irrécupérables, il est constitué une provision pour perte de cautionnement (1599), par le
 débit du compte 835.
 
-12. Report à nouveau.
+12 Report à nouveau.
 
 Ce compte fonctionne après décision sur l'affectation des bénéfices ou sur le sort des pertes laissées jusque-là en instance
 au compte 88.
 
-14. Subventions d'équipement reçues.
+14 Subventions d'équipement reçues.
 
-Le compte 141 est crédité du montant de la subvention par le débit du compte intéressé de la caisse 4 ou de la classe 5.
+Le compte 141 est crédité du montant de la subvention par le débit du compte intéressé de la classe 4 ou de la classe 5.
 
-15. Provisions pour pertes et charges.
+15 Provisions pour pertes et charges.
 
 Le compte 150 (provision pour garantie des moins-values sur titres gérés et figurant en classe zéro) concerne les entreprises
 d'assurance qui gèrent pour le compte de tiers (en particulier des institutions de prévoyance mentionnées au chapitre Ier du
-titre IV du livre IV des titres appartenant à ceux-ci et qui se sont engagées à répondre de tout ou partie de la dépréciation
-éventuellement subie par ces titres ; dans la mesure où cette garantie entre en jeu, les entreprises d'assurance constituent
-la provision dont il s'agit par le débit du compte 87.
+titre IV du livre IV) des titres appartenant à ceux-ci et qui se sont engagées à répondre de tout ou partie de la
+dépréciation éventuellement subie par ces titres ; dans la mesure où cette garantie entre en jeu, les entreprises d'assurance
+constituent la provision dont il s'agit par le débit du compte 87.
 
 Les autres provisions pour pertes et charges sont créées ou rajustées par le jeu des comptes 68 et 698 lorsqu'elles
 concernent l'exploitation, par le débit du compte 835 lorsqu'elles ne concernent pas l'exploitation ou lorsqu'elles ont un
 caractère exceptionnel, enfin par le jeu des comptes 7850, 828 et 829 lorsque le montant de la provision doit être diminué ou
 annulé.
 
-16. Emprunts et dettes à plus d'un an.
+16 Emprunts et dettes à plus d'un an.
 
 Les titres reçus en cautionnement ne figurent pas dans les classes 2 ou 5 mais à la classe zéro ; ils ne font donc pas
 l'objet d'une contrepartie au compte 168.
 
-17. Comptes de liaison des établissements et succursales.
+17 Comptes de liaison des établissements et succursales.
 
 Pour les entreprises françaises, ce compte est normalement soldé en fin d'exercice.
 
 Pour les entreprises étrangères, il enregistre les écritures qui intéressent le siège social.
 
-18. Dettes pour valeurs et espèces remises par les cessionnaires et rétrocessionnaires en représentation d'engagements
-techniques.
-
-Le compte 182 est la contrepartie du compte 29.
-
-19. Provision pour dépréciation des immobilisations et titres.
+19 Provision pour dépréciation des immobilisations et titres.
 
 Les moins-values existant éventuellement à l'inventaire en application des règles d'estimation des placements appartenant aux
 entreprises et conservés par elles font l'objet d'une provision pour dépréciation ; à cet effet le compte 19 est crédité par
@@ -31406,7 +31266,7 @@ Classe 2.
 
 Comptes de valeurs immobilisées.
 
-Valeurs immobilisées : On entend par "valeurs immobilisées" tous les biens et valeurs destinés à rester durablement sous la
+Valeurs immobilisées : on entend par "valeurs immobilisées" tous les biens et valeurs destinées à rester durablement sous la
 même forme dans l'entreprise.
 
 20. Frais d'établissement et de développement en France.
@@ -31421,17 +31281,18 @@ notaire, les commissions éventuelles d'intermédiaire et les frais d'acte ; ils
 relatifs à la construction. Cette ventilation des immobilisations en frais d'acquisition et principal n'est obligatoire que
 pour les biens entrant dans le patrimoine à compter de l'entrée en vigueur du plan comptable particulier à l'assurance.
 
-Les comptes d'amortissement 2008, 2018, 2028, 2038, 2048 et 2068 sont crédités par le débit du compte 680. Lorsqu'un des
-éléments des comptes 2000, 2010 à 2013, 2020, 2030, 2040 à 2047 et 2060 a fait l'objet d'un amortissement intégral, la somme
-correspondante est compensée par le débit de celui des comptes d'amortissement ci-dessus énumérés qui est concerné.
+Les comptes d'amortissement 2008, 2018, 2028, 2038, 2048 et 2068 sont crédités par le débit du compte 680.
+
+Lorsqu'un des éléments des comptes 2000, 2010 à 2013, 2020, 2030, 2040 à 2047 et 2060 a fait l'objet d'un amortissement
+intégral, la somme correspondante est compensée par le débit de celui des comptes d'amortissement ci-dessus énumérés qui est
+concerné.
 
 Les frais d'acquisition des contrats précomptés (compte 205) sont régis par la réglementation en vigueur, et notamment
 l'article R. 332-33. Ce compte est débité par le crédit du compte 659.
 
 Le compte 2058 est crédité par le débit du compte 658 ; il enregistre le cumul des amortissements effectués sur les
 commissions des exercices n'ayant pas encore fait l'objet d'un amortissement intégral ; lorsque l'amortissement des
-commissions d'un exercice est achevé, la fraction correspondante du compte 2058 est compensée par celui des comptes d'actif
-intéressés (2050 à 2057).
+commissions d'un exercice est achevé, la fraction correspondante du compte 2058 est compensée par le compte 2050.
 
 Le compte 209 est, à la clôture de l'exercice, débité (2094) par le crédit du compte 204 et crédité (2098) par le débit de
 2048 ; ces écritures sont contrepassées à l'ouverture de l'exercice suivant.
@@ -31444,20 +31305,20 @@ au débit des comptes 212 ou 213.
 
 Les immobilisations corporelles (comptes 210 à 216 et 2190 à 2193) sont inscrites en comptabilité pour leur coût réel d'achat
 ou pour leur coût réel de production. Les droits de mutation, honoraires ou commissions et frais d'actes versés pour
-l'acquisition des immobilisations corporelles ne sont pas compris dans ce coût ; ils sont portés au compte 2040 ou 2042.
+l'acquisition des immobilisations corporelles ne sont pas compris dans le coût ; ils sont portés au compte 2040 ou 2042.
 
 Les parts ou actions non cotées des sociétés immobilières ou des sociétés d'investissements immobiliers sont portées au
-compte 213 (ou ou au compte 223). Lorsqu'elles sont cotées, elles doivent figurer aux comptes 23 ou 25 selon la proportion du
+compte 213 (ou au compte 223). Lorsqu'elles sont cotées, elles doivent figurer aux comptes 23 ou 25 selon la proportion du
 capital possédé. Le montant des versements restant à effectuer sur les titres non entièrement libérés est porté au débit du
 compte 2132 et au crédit du compte 4611.
 
 Le droit au bail fait l'objet du compte 2180 lorsque son acquisition comporte un prix spécifié dans l'acte.
 
 Les amortissements pratiqués sur les immobilisations du compte 21 en application des articles R. 332-30 et R. 332-31 sont
-inscrits dans les sous-comptes à quatre chiffres se terminant par 8. Les comptes d'amortissement 2128, 2138, 2148, 2158 et
-2168 sont crédités des amortissements effectués au cours de chaque exercice par le débit du compte 681.
+inscrits dans les sous-comptes à quatre chiffres se terminant par 8. Les comptes d'amortissement 2128, 2138, 2158 et 2168
+sont crédités des amortissements effectués au cours de chaque exercice par le débit du compte 681.
 
-Les provisions pour dépréciation (sous-comptes à quatre chiffres se terminant par un 9) sont créés par le débit du compte
+Les provisions pour dépréciation (sous-comptes à quatre chiffres se terminant par un 9) sont créées par le débit du compte
 839 ; elles sont ajustées par le crédit des comptes 828 et 829 lorsque le montant de la provision doit être diminué ou
 annulé.
 
@@ -31473,12 +31334,13 @@ de cession constitue un profit ou une perte par réalisation qui s'inscrit aux c
 
 Ce compte a pour objet de faire apparaître la valeur des immobilisations non terminées.
 
-23. Valeurs mobilières détenues en France et admises en représentation des provisions techniques, appartenant à l'entreprise
-(autres que les titres de participation).
+23. Valeurs mobilières et titres assimilés détenus en France et affectables à la représentation des engagements réglementés,
+appartenant à l'entreprise et conservés par elle (autres que les titres de participation).
 
-Les valeurs mobilières qui par leur nature peuvent servir à représenter les provisions techniques, en conformité avec la
-réglementation en vigueur, et qui ne sont pas inscrites aux comptes 25, 26 ou 28 sont comptabilisées en 23. Ces titres y
-figurent même si l'entreprise n'en a pas besoin en totalité pour représenter des provisions techniques.
+Les valeurs mobilières et les parts de fonds communs de placement qui par leur nature peuvent représenter les engagements
+réglementés, en conformité avec la réglementation en vigueur, et qui ne sont pas inscrites aux comptes 25, 26 ou 28, sont
+comptabilisées en 23. Ces titres y figurent même si l'entreprise n'en a pas besoin en totalité pour représenter ses
+engagements réglementés ou si leur montant excède les limitations prévues aux articles R. 332-3, et R. 332-3-1.
 
 Les frais accessoires d'achat (impôts, courtage et commissions) ne sont pas compris dans la valeur d'actif, mais portés au
 débit du compte 675.
@@ -31486,13 +31348,13 @@ débit du compte 675.
 Le montant versé sur le prix de souscription ou le prix d'achat d'un titre non entièrement libéré est seul porté au compte
 23.
 
-Dans chaque rubrique les titres sont classés dans l'ordre de la cote officielle de la Bourse.
+Dans chaque rubrique les titres sont classés dans l'ordre de la cote des sociétés de bourse.
 
-Le compte 239 "Provision pour dépréciation de valeurs mobilières" (de même que les comptes 259 et 289) enregistre toutes les
-différences entre le prix de revient et l'estimation inférieure retenue au titre de l'article R. 332-20, 1°, en particulier
-sur titres non cotés.
+Le compte 239 "Provisions pour dépréciation de valeurs mobilières" (de même que les comptes 259, 26309 et 289) enregistre
+toutes les différences entre le prix de revient et l'estimation inférieure retenue au titre de l'article R. 332-20, 1°, en
+particulier sur titres non cotés.
 
-25. Titres de participation détenus en France.
+25. Titres de participation détenus en France. 
 
 On considère qu'une entreprise détient une participation dans une autre lorsqu'elle en possède une fraction du capital au
 moins égale à 10 p. 100.
@@ -31501,12 +31363,10 @@ Le compte 254 enregistre les parts possédées par l'entreprise dans des organis
 restant à effectuer sur titres non entièrement libérés est porté simultanément au débit des comptes 256 et 257 et au crédit
 du compte 4615.
 
-26. Dépôts et cautionnements.
+26. Dépôts et cautionnement en France.
 
-Au compte 2630, la créance doit figurer pour la valeur boursière des titres déposés chez les cédants. A cet effet, lorsqu'ils
-présentent une plus-value, celle-ci est débitée au compte 26301 par le crédit de 476 "Différence d'estimation sur les valeurs
-déposées chez les cédants" ; lorsqu'ils présentent une moins-value, le compte 26301 est crédité par le débit du compte 87.
-Ces écritures sont contrepassées au début de l'exercice suivant.
+Sont inscrites aux comptes 26303, 26304 ou 26305 les valeurs qui, si elles étaient conservées par l'entreprise, figureraient
+respectivement aux comptes 23, 24 ou 25.
 
 27. Valeurs garantissant les engagements envers des institutions de prévoyance ou couvrant les fonds de placement gérés par
 l'entreprise.
@@ -31517,29 +31377,31 @@ concours, les fonds versés par les institutions en vue de l'achat de ces valeur
 les sommes reversées passent au débit de ce même compte. Le compte 27 enregistre les mouvements de ce portefeuille spécial de
 titres : il est débité du prix des titres y entrant et crédité du prix des titres qui en sortent.
 
-Classe 3.
+Classe 3. 
 
-Comptes de provisions techniques.
+Comptes de provisions techniques. 
 
 La classe 3 est, dans le présent plan, réservée aux provisions techniques, c'est-à-dire aux charges prévisibles qui
 concernent l'exécution des contrats passés entre l'entreprise et les assurés. Elle enregistre également les engagements
-envers les institutions de prévoyance ou ceux relatifs aux fonds de placements gérés par l'entreprise.
+envers les institutions de prévoyance ou ceux relatifs aux fonds de placements gérés par l'entreprise. 
 
-32. Provisions techniques des opérations d'assurance directe dommages, RC et risques divers en France.
+32 Provisions techniques des opérations d'assurance directe dommages, RC et risques divers en France. 
 
-Au compte 3200 sont enregistrées les primes émises relatives à des échéances appartenant à des exercices postérieurs.
+Au compte 3200 sont enregistrées les primes émises relatives à des échéances appartenant à des exercices postérieurs. 
 
-33. Provisions techniques des autres affaires en France.
+33 Provisions techniques des autres affaires en France. 
 
 L'expression "autres affaires" désigne les opérations non régies par l'article L. 310-1 et les textes subséquents, que les
 entreprises d'assurance sont autorisées à pratiquer par des lois spéciales. Entrent dans ces "autres affaires" les opérations
 mentionnées par l'article L. 441-3, pour lesquelles l'article R. 441-15 prescrit la tenue d'une comptabilité spéciale.
+Entrent dans ces "autres affaires" les opérations mentionnées par l'article L441-3, pour lesquelles l'article R. 441-12
+prescrit la tenue d'une comptabilité spéciale. 
 
-35. Provisions techniques des acceptations en France.
+35 Provisions techniques des acceptations en France. 
 
 Le compte 355 reçoit notamment les écritures d'attente prescrites par l'article R. 342-16 et destinées à compenser
 provisoirement les comptes des acceptations lorsque ceux-ci sont incomplets et à provisionner les pertes prévisibles lorsque
-le réassureur n'est pas en possession de tous les comptes.
+le réassureur n'est pas en possession de tous les comptes. 
 
 Classe 4.
 
@@ -31574,7 +31436,9 @@ Les comptes 413 et 414 enregistrent les opérations autres que les opérations c
 agents ...).
 
 Le compte 419 enregistre les provisions pour dépréciation autres que la provision pour annulations de primes qui figure en
-classe 3. 43 Etat.
+classe 3.
+
+43 Etat.
 
 Les opérations à inscrire au compte 43 sont celles faites avec l'Etat considéré en tant que puissance publique.
 
@@ -31593,12 +31457,12 @@ Les filiales proprement dites comprennent les sociétés dont l'entreprise déti
 
 46 Débiteurs et créditeurs divers.
 
-Lorsque la convention avec les institutions de prévoyance régies par l'article L 4 du code de sécurité sociale (art 18 de
-l'ordonnance du 4 octobre 1945) prévoit que les titres achetés sur les instructions de l'entreprise d'assurance seront
-immatriculés au nom des institutions (et appelés de ce fait à figurer en classe 0 et non en classe 2), le compte 462 est
-crédité notamment des sommes remises par les institutions, des intérêts perçus pour leur compte, et débité notamment des
-sommes reversées aux institutions, des sommes consacrées aux achats de valeurs effectués pour leur compte, de la
-participation allouée par les institutions à l'entreprise d'assurance.
+Lorsque la convention avec les institutions de prévoyance régies par l'article L. 732-1 du code de sécurité sociale prévoit
+que les titres achetés sur les instructions de l'entreprise d'assurance seront immatriculés au nom des institutions (et
+appelés de ce fait à figurer en classe 0 et non en classe 2), le compte 462 est crédité notamment des sommes remises par les
+institutions, des intérêts perçus pour leur compte, et débité notamment des sommes reversées aux institutions, des sommes
+consacrées aux achats de valeurs effectués pour leur compte, de la participation allouée par les institutions à l'entreprise
+d'assurance.
 
 Le compte "465 : Créances sur des organismes d'assurance en raison d'avances aux assurés" fonctionne de la manière suivante :
 
@@ -31636,33 +31500,36 @@ Sauf impossibilité, les opérations inscrites dans ce compte sont reclassées e
 modèle du bilan, et le compte 49 ne figure pas, en principe, au bilan. Si le reclassement ne peut pas être effectué, il n'est
 pas établi de compensation entre les soldes créditeurs et les soldes débiteurs des comptes, qui doivent apparaître au bilan.
 
-Classe 5.
+Classe 5. 
 
-Comptes financiers.
+Comptes financiers. 
 
 Les comptes financiers enregistrent les mouvements de valeurs en espèces, chèques, effets de commerce, coupons, les
-opérations faites avec les banques, agents de change, etc. Ils comprennent également les emprunts à court terme, ainsi que
+opérations faites avec les banques, sociétés de bourse, etc. Ils comprennent également les emprunts à court terme, ainsi que
 les titres de placement non susceptibles d'être admis en représentation des provisions techniques et qui, de ce fait, ne
 présentent pas en théorie cette permanence, cette stabilité, qui sont un des caractères des placements admis en
-représentation et constituant la classe 2.
+représentation et constituant la classe 2. 
 
-50. Emprunts à moins d'un an.
+50 Emprunts à moins d'un an. 
 
 Ces comptes enregistrent les emprunts contractés par l'entreprise dont on est sûr, à l'origine, qu'ils sont faits ou
-consentis pour une durée inférieure à un an.
+consentis pour une durée inférieure à un an. 
 
-55. Titres de placement non énumérés aux articles R. 332-2 et R. 332-9.
+51 Prêts non affectables à la représentation des engagements réglementés sont notamment affectés au compte 518 les prêts
+participatifs non garantis. 
+
+55 Titres de placement non énumérés aux articles R. 332-2 et R. 332-9. 
 
 Ces titres sont ceux qui ne peuvent être affectés ni aux comptes 25 ou 285 parce qu'ils ne sont pas des titres de
 participation, ni aux comptes 23 ou 283 parce qu'ils ne sont pas susceptibles d'être admis en représentation des provisions
-techniques.
+techniques. 
 
 Les règles à suivre pour leur comptabilisation et la constitution de la provision pour dépréciation (compte 559) sont
-analogues à celles déjà prévues pour les immobilisations faisant l'objet des comptes 21 à 28.
+analogues à celles déjà prévues pour les immobilisations faisant l'objet des comptes 21 à 28. 
 
-59. Virements internes.
+59 Virements internes. 
 
-Ce sont des comptes de passage utilisés pour comptabiliser commodément des opérations appelées à finalement se solder.
+Ce sont des comptes de passage utilisés pour comptabiliser commodément des opérations appelées à finalement se solder. 
 
 Classe 6.
 
@@ -31675,13 +31542,14 @@ nouvelles qui passent directement au compte d'exploitation 80).
 60.1 Prestations en France.
 
 Le compte 601 "prestations échues" est réservé aux entreprises pratiquant les opérations définies aux 1 à 4 de l'article L.
-310-1. (En capitalisation, les capitaux sortant aux tirages garantis sont comptabilisés au compte 6010). Les participations
+310-1. (en capitalisation, les capitaux sortant aux tirages garantis sont comptabilisés au compte 6010). Les participations
 attribuées avant détermination des résultats de l'exercice passent par le compte 6015, qu'elles soient à distribuer
 immédiatement, à incorporer à la provision mathématique ou à verser à la provision pour participation aux excédents (les
-participations éventuellement allouées sur les bénéfices du compte de pertes et profits apparaissent au compte 88). Le compte
-divisionnaire 602 "prestations et frais payés (affaires directes)" est réservé aux entreprises d'assurance dommages qui y
-portent les sommes ayant été effectivement payées, y compris les capitaux versés à la Caisse nationale de prévoyace et les
-arrérages avant constitution (6020). Lors de la constitution d'une rente dont l'entreprise assumera la gestion, le compte
+participations éventuellement allouées sur les bénéfices du compte de pertes et profits apparaissent au compte 88).
+
+Le compte divisionnaire 602 "prestations et frais payés (affaires directes)" est réservé aux entreprises d'assurance dommages
+qui y portent les sommes ayant été effectivement payées, y compris les capitaux versés à la Caisse nationale de prévoyace et
+les arrérages avant constitution (6020). Lors de la constitution d'une rente dont l'entreprise assumera la gestion, le compte
 6020 "sinistres" est débité par le crédit du compte 6021 "capitaux constitutifs de
 
 rentes" ; les arrérages payés à partir de ce moment viennent au débit du compte 6023 ; à l'inventaire on débite le compte
@@ -31798,8 +31666,10 @@ A l'ouverture de l'exercice suivant, les écritures passées à ces comptes 480 
 de la classe 6. Toutefois, les entreprises peuvent également débiter directement le compte 470 lors du règlement effectif des
 charges à payer et créditer le compte 480 à l'échéance des charges payées ou comptabilisées d'avance.
 
-Les entreprises qui le jugent opportun peuvent faire jouer les comptes 470 et 480 à la fin de chaque période comptable et non
-pas seulement en fin d'exercice.
+Le sous-compte 6771 est débité du montant des amortissements prévus au deuxième alinéa de l'article R. 332-19.
+
+Le sous-compte 6772 comprend notamment les charges d'intérêt résultant de la garantie donnée par les entreprises d'assurance
+aux institutions de prévoyance mentionnées au chapitre Ier du titre IV du livre IV.
 
 68 Dotation de l'exercice aux comptes d'amortissements et de provisions en France.
 
@@ -31854,7 +31724,7 @@ et soldé en fin d'année (en même temps que les produits accessoires 76) par l
 
 76 Produits accessoires en France.
 
-Le compte 765 comprend notamment la participation reçue des organismes régis par l'article L. 4 du code de la sécurité
+Le compte 765 comprend notamment la participation reçue des organismes régis par l'article L. 732-1 du code de la sécurité
 sociale, les remboursements de frais perçus au titre de la gestion du Gamex, du régime de garantie contre les calamités
 agricoles et des assurances maladie et maternité des travailleurs non salariés des professions non agricole régies par la loi
 n° 66-509 du 12 juillet 1966. Il reçoit également les commissions d'apérition reçues des coassureurs.
@@ -31891,7 +31761,7 @@ Classe 8.
 
 Comptes de résultats.
 
-80. Exploitation générale.
+80 Exploitation générale.
 
 Le compte 80 fait apparaître les résultats de l'exercice, c'est-à-dire ceux qui proviennent de la gestion des diverses
 activités de l'entreprise. Ce compte n'est utilisé qu'en fin d'exercice.
@@ -31902,7 +31772,7 @@ Le compte 80 est établi conformément au modèle prévu à la section III.
 
 Les comptes constituant les postes du compte 80 sont indiqués dans les listes ci-après.
 
-80. Exploitation générale (comptes spéciaux aux sociétés vie et capitalisation).
+80 Exploitation générale (comptes spéciaux aux sociétés vie et capitalisation).
 
 Sinistres survenus : 6010, 6030, 6040, 6060, 6901, 6904 et (cessions) 60910, 60930, 60940, 60960, 6909.
 
@@ -31910,11 +31780,11 @@ Capitaux échus : 6012, 6032, 6042, 6062 et (cessions) 60912, 60932, 60942, 6096
 
 Arrérages échus : 6013, 6033, 6043, 6063 et (cessions) 60913, 60933, 60943, 60963.
 
-Rachats : 6014, 6034, 6044, 6064 et (cessions) 60914, 60934, 60944, 60964.
+Rachats : 6014, 6034, 6044, 6044, 6064 et (cessions) 60914, 60934, 60944, 60964.
 
-Participations aux excédents : 6015, 6035, 6045, 6065 et (cessions) 60915, 60935, 60945, 60965.
+Participations aux excédents : 6015, 6035, 6045, 6065 et (cessions) 60915, 60935, 60965.
 
-Provisions mathématiques : 310, 330, 340, 360, 3810, 3840 et (cessions) 3910, 3930, 3940, 3960, 39810, 39840.
+Provisions mathématiques : 310, 330, 340, 360, 3810, 3840 et (cessions) 3910, 3930, 3940, 3960, 39810, 39840. 
 
 Ajustement des valeurs affectées aux assurances à capital variable (débit) : 679.
 
@@ -31922,10 +31792,11 @@ Intérêts servis à la provision pour participation aux excédents :
 
 676 et 6976.
 
-Primes : 701, 703, 704, 706, 7901, 7904 et (cessions) 709, 7909. Ajustement des valeurs affectées aux assurances à capital
-variable (crédit) : 779.
+Primes : 701, 703, 704, 706, 7901, 7904 et (cessions) 709, 7909.
 
-80. Exploitation générale (comptes spéciaux aux entreprises de toute nature mentionnées au 5 de l'article L. 310-1).
+Ajustement des valeurs affectées aux assurances à capital variable (crédit) : 779.
+
+80 Exploitation générale (comptes spéciaux aux entreprises de toute nature mentionnées au 5 de l'article L 310-1).
 
 Prestations et frais payés : 602, 604, 605, 606, 6902, 6904, 6905 et (cessions) 609, 6909.
 
@@ -31935,13 +31806,9 @@ Primes : 702, 704, 705, 706, 7902, 7904, 7905 et (cessions) 709, 7909.
 
 Provisions de primes : 320, 340, 350, 360, 3820, 3840, 3850 et (cessions) 3920, 3940, 3950, 3960, 39820, 39840, 39850.
 
-80. Exploitation générale (comptes communs à toutes les entreprises).
+80 Exploitation générale (comptes communs à toutes les entreprises).
 
-Commissions : 651, 652, 653, 654, 655, 656, 657, 6950, 6957.
-
-Frais d'acquisition précomptés portés à l'actif : 659 et 6959.
-
-Amortissement des frais d'acquisition précomptés : 658, 6958.
+Commissions : 65 et 695.
 
 Frais de personnel : 61 et 691.
 
@@ -31952,7 +31819,9 @@ Travaux, fournitures et services extérieurs, transports et déplacements : 63, 
 Frais divers de gestion : 66 et 696.
 
 Dotations aux amortissements (autres que celles afférentes aux placements) : 6800, 6801, 6802, 6809, 6814, 6815, 6816, 6819,
-6980. Dotations aux provisions (autres que celles afférentes aux placements) : 685, 689, 6985, 6989.
+6980.
+
+Dotations aux provisions (autres que celles afférentes aux placements) : 685, 689, 6985, 6989.
 
 Commissions et autres charges (cessions) : 75, 795.
 
@@ -31960,15 +31829,13 @@ Frais financiers sur titres : 6740, 675, 6974, 6975.
 
 Frais sur immeubles de placement : 678, 6804, 6978.
 
-Autres frais : 670, 671, 672, 673, 6741, 6745, 6745, 6746, 677, 6803, 6806, 6970, 6977.
+Autres frais : 670, 671, 672, 673, 6741, 6745, 6746, 677, 6803, 6806, 6970, 6977.
 
-Dotation aux amortissements des valeurs de placement :
-
-6812, 6813, 6981.
+Dotation aux amortissements des valeurs de placement : 6812, 6813, 6981.
 
 Produits financiers sur titres : 773, 775, 7973, 7975.
 
-Produits financiers sur immeubles de placement : 771, 7971.
+Produits financiers sur immeubles de placement : 771, 7971. 
 
 Autres produits financiers : 774, 776, 777, 778, 7974, 7976, 7977, 7978.
 
@@ -31978,7 +31845,7 @@ Produits accessoires : 74, 76, 794, 796.
 
 Travaux faits par l'entreprise pour elle-même - Charges non imputables à l'exploitation de l'exercice : 78, 798.
 
-82. Pertes et profits sur exercices antérieurs.
+82 Pertes et profits sur exercices antérieurs.
 
 Ce compte enregistre les pertes et profits au titre des exercices antérieurs sur les postes non techniques, c'est-à-dire les
 résultats acquis au cours de l'exercice, mais dont l'origine remonte à des exercices antérieurs.
@@ -31989,9 +31856,9 @@ antérieurs, provisions qui avaient été initialement passées par les comptes 
 Le compte 829 est destiné à recevoir à son crédit la contrepartie des pertes enregistrées aux comptes 82 et 84 et couvertes
 par des provisions pour pertes constituées au cours d'exercices antérieurs par le débit des comptes 835 et 839. Le compte 829
 est crédité par le débit du compte de la provision intéressée soit du montant de la provision si ce montant est inférieur ou
-égal aux pertes, soit d'une somme égale au moment de ces pertes si la provision est supérieure à cette somme.
+égal aux pertes, soit d'une somme égale au montant de ces pertes si la provision est supérieure à cette somme.
 
-83. Dotations de l'exercice aux comptes de provisions hors exploitation ou exceptionnelles et de réserves réglementaires.
+83 Dotations de l'exercice aux comptes de provisions hors exploitation ou exceptionnelles et de réserves réglementaires.
 
 Ne passent par le compte 831 que celles des dotations aux réserves du compte 11 qui (à la différence de celles s'effectuant
 par le débit du compte 88) ne sont pas de la compétence exclusive de l'assemblée générale.
@@ -32010,7 +31877,7 @@ le débit du compte 87.
 
 Le compte 839 concerne les dotations aux provisions pour dépréciation des éléments d'actif des classes 2, 4 et 5.
 
-84. Pertes et profits exceptionnels.
+84 Pertes et profits exceptionnels.
 
 Ce compte enregistre les résultats acquis au cours de l'exercice et qui proviennent d'événements ou de faits exceptionnels,
 tels que réalisations d'éléments d'actif, différences de change, créances dont le caractère irrecouvrable est apparu pendant
@@ -32028,16 +31895,20 @@ cessions. Il fonctionne de la façon suivante :
 - il est crédité, par le débit du compte "amortissements" ou "provisions pour dépréciation", du montant de l'amortissement ou
 de la provision relatif à l'élément cédé et, par le débit du compte de trésorerie concerné, du montant du prix de cession ;
 
-- il est débité (cas de plus-value) ou crédité (cas de moins-values), pour solde par le crédit de 845 ou le débit de 840. Le
-compte 843 enregistre à son débit, par le crédit des comptes intéressés des classes 4 ou 5, les subventions accordées par
-l'entreprise qui n'ont pas le caractère de charges d'exploitation. Les subventions d'équilibre reçues sont les subventions
-qui seraient accordées par l'Etat, les collectivités publiques ou des tiers, en fonction des résultats des entreprises qui en
-bénéficient. 86. Produits et prestations de services échangés entre établissements.
+- il est débité (cas de plus-value) ou crédité (cas de moins-values), pour solde par le crédit de 845 ou le débit de 840.
+
+Le compte 843 enregistre à son débit, par le crédit des comptes intéressés des classes 4 ou 5, les subventions accordées par
+l'entreprise qui n'ont pas le caractère de charges d'exploitation.
+
+Les subventions d'équilibre reçues sont les subventions qui seraient accordées par l'Etat, les collectivités publiques ou des
+tiers, en fonction des résultats des entreprises qui en bénéficient.
+
+86 Produits et prestations de services échangés entre établissements.
 
 Ce compte est en relation avec l'ouverture du compte 17 "compte de liaison des établissements et succursales". Son solde à la
 clôture de l'exercice est nul.
 
-87. Compte général de pertes et profits.
+87 Compte général de pertes et profits.
 
 Ce compte est établi conformément au modèle prévu à la section III.
 
@@ -32046,17 +31917,17 @@ Les éléments relatifs à la participation des salariés aux fruits de l'expans
 A la clôture de l'exercice, la participation est provisionnée au compte 156 par le débit du compte 8356.
 
 Lorsque le montant de la participation est devenu certain, la dette envers les salariés est constatée au compte 429 par le
-débit du compte "871. Participation des salariés aux fruits de l'expansion". Corrélativement, le compte 156 est soldé par le
+débit du compte "871 Participation des salariés aux fruits de l'expansion". Corrélativement, le compte 156 est soldé par le
 crédit du compte 829.
 
 Lors de l'utilisation des fonds, le compte 429 est débité par le crédit des comptes suivants, selon la nature des emplois :
 
 - création d'un fonds dans l'entreprise, compte 164 ;
 
-- attribution d'actions ou de coupures d'actions de l'entreprise par incorporation de réserves au capital, comptes "10.
-Capital" et "110. Primes d'émissions" ;
+- attribution d'actions ou de coupures d'actions de l'entreprise par incorporation de réserves au capital, comptes "10
+Capital" et "110 Primes d'émissions" ;
 
-- attribution d'actions rachetées par l'entreprise : compte "49. Compte d'attente et à régulariser", au débit duquel les
+- attribution d'actions rachetées par l'entreprise : compte "49 Compte d'attente et à régulariser", au débit duquel les
 actions ont été enregistrées lors du rachat, la différence entre le prix de rachat et la valeur à retenir au titre de la
 participation étant passée aux comptes 849 ou 844 ;
 
@@ -32069,135 +31940,152 @@ L'éventuel reliquat des fonds non attribué par suite de l'existence d'un plafo
 compte 429.
 
 Lorsque les fonds n'ont pu être utilisés par suite d'absence d'accord entre employeurs et salariés, ils sont virés au compte
-165. A la clôture de l'exercice précédant celui au cours duquel les fonds deviennent disponibles, la dette de l'entreprise
-est transférée des comptes 164 ou 165 au compte 429.
+165.
+
+A la clôture de l'exercice précédant celui au cours duquel les fonds deviennent disponibles, la dette de l'entreprise est
+transférée des comptes 164 ou 165 au compte 429.
 
 Lors de sa constitution, à la clôture de l'exercice au cours duquel les fonds sont utilisés, la provision pour investissement
 est débitée au compte 8336 par le crédit du compte 136.
 
 Cette écriture est contrepassée à la clôture soit de l'exercice au cours duquel la provision est définitivement libérée de
-l'impôt, soit de l'exercice dans lequel à expiré le délai d'utilisation.
+l'impôt, soit de l'exercice dans lequel a expiré le délai d'utilisation.
 
-88. Résultats en instance d'affectation.
+88 Résultats en instance d'affectation.
 
 Le compte 88 est établi conformément au modèle prévu à la section III.
 
 Lorsque l'exercice se solde par un profit, le compte 88 est crédité avant la répartition des bénéfices par le débit du compte
 87. Il est débité du montant des sommes distribuées ou affectées à un compte de réserves. Le solde, s'il en existe un, est
-viré au compte "12. Report à nouveau".
+viré au compte "12 Report à nouveau".
 
 Le compte 88 peut être utilisé en cas de pertes.
 
 Les sommes destinées par décision de l'assemblée générale à être ristournées aux sociétaires des sociétés à forme mutuelle,
-des sociétés mutuelles et de leurs unions, et des mutuelles agricoles, sont débitées au compte 88 lors de l'affectation des
+des sociétés mutuelles et de leur unions, et des mutuelles agricoles, sont débitées au compte 88 lors de l'affectation des
 résultats.
 
 Si les modalités de la ristourne, quantum et échéancier, sont fixées par la décision de l'assemblée générale, son montant est
-porté au crédit du compte "447. Sociétaires : excédents à répartir".
+porté au crédit du compte "447 Sociétaires : excédents à répartir."
 
 Si les modalités de la ristourne ne sont pas fixées, les sommes destinées à être ristournées sont portées au crédit du compte
-"115. Réserves facultatives." Lorsqu'une décision ultérieure de l'assemblée générale fixe les modalités de la ristourne, le
+"115 Réserves facultatives." Lorsqu'une décision ultérieure de l'assemblée générale fixe les modalités de la ristourne, le
 prélèvement nécessaire sur la réserve s'effectue en débitant le compte 115 par le crédit du compte 88.
 
 Lorsque l'assemblée générale a statué, le compte 88 devient le compte de répartition et d'affectation des résultats mentionné
 à l'article R. 342-18.
 
-89. Bilan.
+89 Bilan.
 
-890. Bilan d'ouverture.
+890 Bilan d'ouverture.
 
-891. Bilan de clôture.
+891 Bilan de clôture.
 
-Ce bilan est établi conformément au modèle prévu à la section III. Dispositions communes aux comptes 80, 87, 88, 89.
+Ce bilan est établi conformément au modèle prévu à la section III.
+
+Dispositions communes aux comptes 80, 87, 88, 89.
 
 Dans la publication du compte d'exploitation générale, du compte général de pertes et profits, du compte de répartition et
 d'affectation des résultats et du bilan, les numéros des comptes constituant les lignes ne sont pas reproduits.
 
-Classe 0.
+Classe 0. 
 
-Comptes spéciaux.
+Comptes spéciaux. 
 
 La classe 0 groupe tous les comptes spéciaux qui n'ont pas leur place dans les classes 1 à 8 du cadre comptable. Elle ne
 concerne donc pas les engagements techniques formant l'objet principal de l'assurance et dont la technique classique
-d'évaluation, notamment pour les provisions de la classe 3, repose sur la loi des compensations statistiques.
+d'évaluation, notamment pour les provisions de la classe 3, repose sur la loi des compensations statistiques. 
 
 Les comptes de la classe 0 sont tenus en partie double comme ceux de la comptabilité générale. Pour ce faire, on utilise, à
 l'intérieur de chaque compte principal, le compte divisionnaire dont le numéro se termine par 9 comme contrepartie de tous
-les autres comptes divisionnaires et sous-comptes. Par exemple, le compte 009 est la contrepartie des comptes 000 et 001.
+les autres comptes divisionnaires et sous-comptes. Par exemple, le compte 009 est la contrepartie des comptes 000 et 001. 
 
-00. Engagements en faveur de l'entreprise.
+00 Engagements en faveur de l'entreprise. 
 
-Ce compte exprime la situation de l'entreprise vis-à-vis des tiers susceptibles de devenir débiteurs.
+Ce compte exprime la situation de l'entreprise vis-à-vis des tiers susceptibles de devenir débiteurs. 
 
-01. Engagements à la charge de l'entreprise.
+01 Engagements à la charge de l'entreprise. 
 
 Le compte 01 exprime les différents aspects de l'entreprise à la suite des engagements pris envers les tiers ou résultant de
-dispositions légales. A cet effet chaque élément comporte trois colonnes :
+dispositions légales. A cet effet chaque élément comporte trois colonnes : 
 
 - dans la première figure la sortie maximale de trésorerie à laquelle l'entreprise est exposée (par exemple à la suite de la
-mise en jeu d'une garantie solidaire ne faisant pas supporter aux autres codébiteurs leur quote-part) ;
+mise en jeu d'une garantie solidaire ne faisant pas supporter aux autres codébiteurs leur quote-part) ; 
 
 - dans la seconde colonne est porté le montant probable de la sortie de trésorerie en cas de jeu de l'obligation (compte tenu
-des chances que cette obligation aurait de ne mettre en cause l'entreprise que pour une somme partielle) ;
+des chances que cette obligation aurait de ne mettre en cause l'entreprise que pour une somme partielle) ; 
 
 - enfin la troisième colonne indique l'estimation, non plus de la trésorerie à mobiliser, mais de la perte patrimoniale
-éventuelle la plus probable qu'entraînerait pour l'entreprise le fait d'avoir à honorer effectivement son engagement.
+éventuelle la plus probable qu'entraînerait pour l'entreprise le fait d'avoir à honorer effectivement son engagement. 
 
 Le compte 016 concerne notamment les traités de réassurance de soutien conclus avec une filiale ou une société dans laquelle
 l'entreprise détient une participation ; les charges de trésorerie (montant maximal et charges probables) et la perte
-probable sont chiffrées pour l'ensemble des trois prochains exercices.
+probable sont chiffrées pour l'ensemble des trois prochains exercices. 
 
-Le compte 0170 réservé aux sociétés mutuelles se réfère à l'article R. 322-106.
+Le compte 0170 réservé aux sociétés mutuelles se réfère à l'article R. 322-106. 
 
-03. Autres charges envers des tiers.
+03 Autres charges envers des tiers. 
 
 Ce compte enregistre les montants de trésorerie que l'entreprise, en dehors de tout engagement juridique mais à titre d'acte
 de bonne gestion, a décidé de consacrer à des tiers (tels les besoins de trésorerie indispensables au cours des trois
-prochaines années pour aider ou développer une filiale ou une société dans laquelle l'entreprise détient une participation).
+prochaines années pour aider ou développer une filiale ou une société dans laquelle l'entreprise détient une participation). 
 
-05. Plan d'investissement intéressant l'entreprise.
+05 Plan d'investissement intéressant l'entreprise. 
 
 Ce compte a le même objet que le compte 03 mais concerne l'entreprise elle-même, également au cours des trois prochaines
 années, pour les engagements souscrits ou les opérations ayant déjà reçu un commencement d'exécution (notamment les
 opérations immobilières en cours, l'équipement d'une succursale, la création, le développement ou la transformation du réseau
-commercial ...).
+commercial ...). 
 
-07. Biens détenus par l'entreprise.
+06 Valeurs reçues en nantissement des cessionnaires et rétrocessionnaires. 
 
-Ce compte enregistre la valeur des biens détenus par l'entreprise et qu'elle a l'engagement de restituer dans des conditions
-données. 09. Valeurs appartenant à des institutions de prévoyance régies par l'article L. 4 du code général de sécurité
-sociale.
+Ce compte reçoit les valeurs remises en nantissement par les réassureurs dans les conditions fixées par l'article R. 332-17. 
+
+07 Valeurs appartenant à des institutions de prévoyance régies par l'article L. 4 du code général de la sécurité sociale. 
 
 Ce compte est utilisé dans le cas où la convention avec les institutions, organismes, fédérations ou groupements de
 prévoyance prévoit que les titres achetés pour leur compte sur les instructions de l'entreprise d'assurance gérante seront
-immatriculés au nom de ces institutions.
+inscrites en compte au nom de ces institutions. 
+
+08 Valeurs remises par les organismes réassurés avec caution solidaire ou avec substitution. 
+
+Le compte 08 est utilisé : 
+
+- par les unions de sociétés mutuelles mentionnées à l'article R. 322-107, pour enregistrer les placements mis à leur
+disposition par les mutuelles réassurées, en vue de leur permettre de faire face aux obligations que leur impose l'article R.
+322-111 ; 
+
+- par les sociétés ou caisses d'assurance et de réassurance mutuelles agricoles agréées, pour enregistrer les placements mis
+à leur disposition par les organismes dispensés d'agrément qu'elles réassurent dans les conditions définies à l'article R.
+322-132. 
+
+Ce compte est subdivisé, selon les besoins, en comptes divisionnaires et sous-comptes structurés sur le modèle de la classe
+2. 
+
+Il est publié au pied du bilan dans les mêmes conditions que le compte 06. 
+
+09 Autres valeurs détenues par l'entreprise. 
+
+Ce compte enregistre le montant des valeurs détenues par l'entreprise et qu'elle a l'engagement de restituer dans des
+conditions données, lorsque leur provenance ne conduit pas à les inscrire aux comptes 06, 07 ou 08.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 annexe
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la sécurité sociale L4
-  - Code des assurances - art. R*332-20 (M)
-  - Code des assurances - art. R*332-30 (M)
-  - Code des assurances - art. R*332-33 (M)
-  - Code des assurances R332-33, R332-30, R332-31, R332-20
-  - Ordonnance 1945-10-04 art. 18
+  - Décret n°85-460 1985-04-25 art. 12 à art. 17 JORF 30 avril 1985
 
 
 ##### Section V : Règles spéciales aux mutuelles agricoles.<a id=299></a>
 
 ###### Article R343-5
 
-La comptabilité des sociétés ou caisses d'assurances et de réassurances mutuelles agricoles fait l'objet des règles spéciales
-suivantes.
+La comptabilité des sociétés ou caisses d'assurance et de réassurance mutuelles agricoles fait l'objet des règles spéciales
+suivantes :
 
 Opérations d'assurance directe par substitution.
 
@@ -32208,97 +32096,75 @@ Conservation des organismes dispensés d'agrément.
 
 La comptabilisation de la conservation des organismes dispensés d'agrément s'effectue au moyen des comptes suivants :
 
-707. Part des organismes dispensés d'agrément dans les cotisations.
+707 Part des organismes dispensés d'agrément dans les cotisations.    607 Part des organismes dispensés d'agrément dans les
+prestations.    37 Part des organismes dispensés d'agrément dans les provisions techniques :
 
-607. Part des organismes dispensés d'agrément dans les prestations.
+370 Cotisations.
 
-37. Part des organismes dispensés d'agrément dans les provisions techniques :
+375 Sinistres.
 
-370. Cotisations.
+Les valeurs mises à la disposition de la caisse par les organismes dispensés d'agrément sont enregistrées au compte 08.
+L'intitulé du compte 18 est ainsi adapté :
 
-375. Sinistres.
-
-27. Valeurs immatriculées au nom de l'entreprise et immeubles mis à sa disposition par les organismes dispensés d'agrément.
-
-Le compte 27 est subdivisé en comptes divisionnaires et sous-comptes analogues à ceux du compte 29.
-
-Lorsque les valeurs reçues en dépôt restent immatriculées au nom de l'organisme déposant, elles ne sont pas enregistrées au
-compte 27, mais en classe zéro, dans un compte spécial :
-
-071. Valeurs déposées par les organismes dispensés d'agrément.    La dénomination et les subdivisions du compte 18 sont ainsi
-adaptées.
-
-18. Dettes pour valeurs et espèces déposées par les cessionnaires, les rétrocessionnaires et les organismes dispensés
-d'agrément.
-
-182. Valeurs :
-
-1827. Organismes dispensés d'agrément ;
-
-1829. Cessionnaires et rétrocessionnaires.
-
-185. Espèces.
-
-Le compte 1827 est la contrepartie du compte 27 et le compte 29 a pour contrepartie le compte 1829.
+18 Dettes pour espèces remises par les cessionnaires, les rétrocessionnaires et les organismes dispensés d'agrément.
 
 Adaptations diverses de la liste des comptes.
 
 Il est fait usage des comptes suivants :
 
-437. Subventions à recevoir.
+437 Subventions à recevoir.
 
-650. Ristourne de gestion aux organismes dispensés d'agrément.
+650 Ristourne de gestion aux organismes dispensés d'agrément.       6712 Intérêts servis aux organismes dispensés d'agrément.
 
-6712. Intérêts servis aux organismes dispensés d'agrément.
-
-031. Organismes dispensés d'agrément.
+031 Organismes dispensés d'agrément.
 
 Le compte 437 concerne notamment les subventions prévues par le régime d'indemnisation des calamités agricoles.
 
-Compte 80 (Exploitation générale).
+Compte 80 (exploitation générale).
 
-Il est ajouté au tableau modèle du compte 80, entre les colonnes "Opérations brutes" et "Cessions et rétrocessions", une
-colonne intitulée "Conservation des organismes dispensés d'agrément". Cette colonne n'est remplie que pour les chapitres
-"Charges de sinistres nettes de recours" au débit et "Cotisations" au crédit. Les sommes qui y sont portées proviennent des
+Il est ajouté au tableau modèle du compte 80, entre les colonnes "opérations brutes" et "cessions et rétrocessions", une
+colonne intitulée "conservation des organismes dispensés d'agrément". Cette colonne n'est remplie que pour les chapitres
+"charges de sinistres nettes de recours" au débit et "cotisations" au crédit. Les sommes qui y sont portées proviennent des
 comptes 607 et 375 pour le débit, des comptes 707 et 370 pour le crédit.
 
 Bilan.
 
-A l'actif du bilan, le sous-titre "Autres valeurs immobilisées en France" a pour référence "23 à 26". La ligne "Valeurs
-garantissant les engagements vis-à-vis des institutions de prévoyance ou couvrant les fonds de placements gérés par
-l'entreprise (27)" est remplacée par une ligne ayant valeur de sous-titre, intitulée "27. Valeurs immatriculées au nom de
-l'entreprise et immeubles mis à sa disposition par les organismes dispensés d'agrément."
-
-Il est inséré à l'actif du bilan, entre les lignes "Total des valeurs immobilisées nettes" et "39. Part des cessionnaires et
+Il est inséré à l'actif du bilan, entre les lignes "total des valeurs immobilisées nettes" et "39 Part des cessionnaires et
 rétrocessionnaires dans les provisions techniques" un chapitre ainsi constitué :
 
-37. Part des organismes dispensés d'agrément dans les provisions techniques :
+37 Part des organismes dispensés d'agrément dans les provisions techniques :
 
-Cotisations (370) ;
+370 Cotisations.
 
-Sinistres (375).
+375 Sinistres.
 
 Total de la conservation des organismes dispensés d'agrément dans les provisions techniques.
 
 La première ligne a valeur de sous-titre et ne reçoit donc pas de somme. La deuxième colonne n'est pas utilisée pour ce
 chapitre.
 
-Il est inséré au passif du bilan, à la suite de la ligne "Emprunts et autres dettes à plus d'un an (16)", une ligne intitulée
-"Dettes pour valeurs remises par les organismes dispensés d'agrément (1827)", la ligne suivante devenant "Dettes pour valeurs
-et espèces remises par les cessionnaires et rétrocessionnaires (1829 et 185)."
-
-La ligne "Engagements envers les institutions de prévoyance ou relatifs aux fonds de placement gérés par l'entreprise (37)"
+La ligne "engagements envers les institutions de prévoyance ou relatifs aux fonds de placement gérés par l'entreprise (37)"
 est supprimée.
 
+Le compte 08 donne lieu, au pied du bilan, aux mêmes mentions que le compte 06.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 annexe
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-460 1985-04-25 art. 18 JORF 30 avril 1985
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 _Cite_:
 
