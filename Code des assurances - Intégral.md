@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1996-12-26
+Version Consolidée au 1997-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -55,7 +55,7 @@ Version Consolidée au 1996-12-26
     - [Livre II : Assurances obligatoires (art. L211-1 à L243-3)](#52)
       - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. L211-1 à L214-3)](#53)
         - [Chapitre Ier : L'obligation de s'assurer (art. L211-1 à L211-26)](#54)
-          - [Section I : Personnes assujetties. (art. L211-1 à L211-3)](#55)
+          - [Section I : Personnes assujetties. (art. L211-1 à L211-2)](#55)
           - [Section II : Etendue de l'obligation d'assurance. (art. L211-4 à L211-7)](#56)
           - [Section VI : Procédures d'indemnisation. (art. L211-8 à L211-25)](#57)
           - [Section VII : Pénalités. (art. L211-26)](#58)
@@ -370,8 +370,8 @@ Version Consolidée au 1996-12-26
         - [Chapitre II : Dérogations aux principes généraux (art. R*512-1 à R512-5)](#367)
           - [Section I : Dérogations permanentes. (art. R*512-1 à R512-5)](#368)
         - [Chapitre III : Conditions de capacité professionnelle. (art. R*513-6 à R513-4)](#369)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. R*514-1 à R*514-17)](#370)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R*514-1 à R514-3)](#371)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. R514-1 à R*514-17)](#370)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R514-1 à R514-3)](#371)
           - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-6 à R514-5)](#372)
           - [Section III : Modalités de contrôle spéciales aux conditions d'honorabilité. (art. R*514-8 à R*514-13)](#373)
           - [Section IV : Dispositions diverses et pénalités. (art. R*514-14 à R*514-17)](#374)
@@ -439,84 +439,85 @@ Version Consolidée au 1996-12-26
           - [Section IV : Sociétés d'assurance à forme mutuelle. (art. A322-6 à A322-7)](#436)
             - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. A322-6 à A322-7)](#437)
       - [Titre III : Régime financier. (art. A331-1 à A335-19)](#438)
-        - [Chapitre Ier : Les engagements réglementés. (art. A331-1 à A331-24)](#439)
+        - [Chapitre Ier : Les engagements réglementés. (art. A331-1 à Annexe 1.3 art. A331-22)](#439)
           - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1 à A331-9)](#440)
           - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1-1 à A331-9-1)](#441)
-          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-10 à A331-17)](#442)
+          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-10 à A331-22)](#442)
             - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-10)](#443)
             - [Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours. (art. A331-17)](#444)
-          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-12 à A331-24)](#445)
-            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-12)](#446)
-            - [Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours. (art. A331-16 à A331-20)](#447)
-            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-21 à A331-24)](#448)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-1 à A332-6)](#449)
-          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. A332-1)](#450)
-          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#451)
-        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#452)
-        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-3)](#453)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#454)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#455)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#456)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#457)
-        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#458)
-          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#459)
-            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#460)
-          - [Section I : Tarifs (art. A335-1)](#461)
-            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1)](#462)
-          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#463)
-            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#464)
-      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe A344-10 ETAT C31)](#465)
-        - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#466)
-        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-8)](#467)
-          - [Section I : Dispositions générales. (art. A342-1)](#468)
-          - [Section II : Documents et registres comptables. (art. A342-2 à A342-4)](#469)
-          - [Section II : Documents et registres comptables. (art. A342-3)](#470)
-          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-5 à A342-7)](#471)
-          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance. (art. A342-9)](#472)
-          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance. (art. A342-8)](#473)
-        - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation. (art. A343-1 à Annexe art A343-1 (al 3))](#474)
-        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#475)
-          - [Section I : Dispositions générales. (art. A344-1)](#476)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#477)
-          - [Section III : Etats à produire. (art. A344-3 à A344-13)](#478)
-          - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#479)
-            - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#480)
-      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#481)
-        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#482)
-          - [Section II : Conditions d'exercice (art. A353-1)](#483)
-      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. A362-1 à A362-2)](#484)
-        - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#485)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#486)
-      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#487)
-        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#488)
-          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#489)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#490)
-          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#491)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#492)
-          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#493)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#494)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#495)
-      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#496)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#497)
-          - [Section I : Dispositions générales. (art. A431-1)](#498)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#499)
-            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#500)
-          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#501)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#502)
-            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#503)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#504)
-          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#505)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#506)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#507)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#508)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#509)
-          - [Section II : Règles techniques et comptables. (art. A441-2 à A441-6)](#510)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#511)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#512)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#513)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#514)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#515)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#516)
+            - [Paragraphe 3 : Provision pour sinistres restant à payer (art. A331-22)](#445)
+          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-12 à Annexe 1.3 art. A331-22)](#446)
+            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-12)](#447)
+            - [Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours. (art. A331-16 à A331-20)](#448)
+            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-21 à Annexe 1.3 art. A331-22)](#449)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-1 à A332-6)](#450)
+          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. A332-1)](#451)
+          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#452)
+        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#453)
+        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-3)](#454)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#455)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#456)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#457)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#458)
+        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#459)
+          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#460)
+            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#461)
+          - [Section I : Tarifs (art. A335-1)](#462)
+            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1)](#463)
+          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#464)
+            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#465)
+      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe A344-10 ETAT C31)](#466)
+        - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#467)
+        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-8)](#468)
+          - [Section I : Dispositions générales. (art. A342-1)](#469)
+          - [Section II : Documents et registres comptables. (art. A342-2 à A342-4)](#470)
+          - [Section II : Documents et registres comptables. (art. A342-3)](#471)
+          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-5 à A342-7)](#472)
+          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance. (art. A342-9)](#473)
+          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance. (art. A342-8)](#474)
+        - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation. (art. A343-1 à Annexe art A343-1 (al 3))](#475)
+        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#476)
+          - [Section I : Dispositions générales. (art. A344-1)](#477)
+          - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#478)
+          - [Section III : Etats à produire. (art. A344-3 à A344-13)](#479)
+          - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#480)
+            - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#481)
+      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#482)
+        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#483)
+          - [Section II : Conditions d'exercice (art. A353-1)](#484)
+      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. A362-1 à A362-2)](#485)
+        - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#486)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#487)
+      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#488)
+        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#489)
+          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#490)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#491)
+          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#492)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#493)
+          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#494)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#495)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#496)
+      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#497)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#498)
+          - [Section I : Dispositions générales. (art. A431-1)](#499)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#500)
+            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#501)
+          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#502)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#503)
+            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#504)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#505)
+          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#506)
+            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#507)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#508)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#509)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#510)
+          - [Section II : Règles techniques et comptables. (art. A441-2 à A441-6)](#511)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#512)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#513)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#514)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#515)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#516)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#517)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -7458,66 +7459,6 @@ _Cite_:
   - Code des assurances - art. L211-1 (V)
 
 
-###### Article L211-3
-
-Des dérogations totales ou partielles à l'obligation d'assurance édictée à l'article L. 221-1 peuvent être accordées, par
-l'autorité administrative, aux collectivités publiques et aux entreprises ou organismes qui justifieront de garanties
-financières suffisantes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°58-208 1958-02-27 art. 3
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cité par_:
-
-  - Loi n°85-677 du 5 juillet 1985 - art. 24 (V)
-  - Loi n°85-677 du 5 juillet 1985 - art. 48 (V)
-  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 322 A (V)
-  - Code des assurances - art. A211-1 (Ab)
-  - Code des assurances - art. A211-4 (M)
-  - Code des assurances - art. L211-21 (M)
-  - Code des assurances - art. L213-1 (M)
-  - Code des assurances - art. R*211-1 (Ab)
-  - Code des assurances - art. R*213-5 (Ab)
-  - Code des assurances - art. R*420-18 (T)
-  - Code des assurances - art. R211-14 (M)
-  - Code des assurances - art. R211-18 (V)
-  - Code des assurances - art. R421-18 (M)
-  - Code des assurances - art. R421-28 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 23 février 1989
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 30 novembre 1990
-  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 3 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A211-1 (Ab)
-  - SPEC_APPLI: Code des assurances - art. L211-1 (M)
-  - TXT_SOURCE: Code des assurances - art. R*211-1 (Ab)
-  - SPEC_APPLI: Code des assurances - art. R211-2 (M)
-
-_Abrogé par_:
-
-  - Loi n°96-314 du 12 avril 1996 - art. 85 () JORF 13 avril 1996 en vigueur le 1er janvier 1997
-
-_Cite_:
-
-  - Code des assurances L221-1
-
-
 ##### Section II : Etendue de l'obligation d'assurance.<a id=56></a>
 
 ###### Article L211-4
@@ -8032,8 +7973,7 @@ _Cite_:
 ###### Article L211-21
 
 Pour l'application des articles L. 211-9 à L. 211-17, l'Etat ainsi que les collectivités publiques, les entreprises ou
-organismes bénéficiant d'une exonération en vertu de l'article L. 211-2 ou ayant obtenu une dérogation à l'obligation
-d'assurance en vertu de l'article L. 211-3 sont assimilés à un assureur.
+organismes bénéficiant d'une exonération en vertu de l'article L. 211-2 sont assimilés à un assureur.
 
 **Liens relatifs à cet article**
 
@@ -8041,15 +7981,14 @@ _Codifié par_:
 
   - Décret n°88-260 1988-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-260 du 18 mars 1988 - art. 2 () JORF 20 mars 1988
+  - Loi n°96-314 du 12 avril 1996 - art. 85 () JORF 13 avril 1996 en vigueur le 1er janvier 1997
 
 _Cite_:
 
   - Code des assurances - art. L211-2 (V)
-  - Code des assurances - art. L211-3 (Ab)
-  - Code des assurances L211-9 à L211-17, L211-2, L211-3
+  - Code des assurances - art. L211-9 (V)
 
 
 ###### Article L211-22
@@ -8327,9 +8266,6 @@ Cette cotisation est proportionnelle aux primes ou cotisations afférentes à l'
 de véhicules terrestres à moteur instituée par l'article L. 211-1. Elle est recouvrée par les entreprises d'assurance, dans
 les mêmes conditions et en même temps que ces primes.
 
-Les employeurs dispensés de l'obligation d'assurance en vertu de l'article L. 211-3 versent une cotisation forfaitaire
-calculée selon des modalités fixées par décret en Conseil d'Etat.
-
 Il appartient aux personnes physiques ou morales qui ne cotisent pas soit en qualité d'employeur, soit en qualité d'affilié à
 un régime obligatoire d'assurance maladie ou qui ne bénéficient pas d'un tel régime en qualité d'ayants droit, d'en apporter
 la preuve par tous moyens et notamment par une déclaration aux organismes d'assurance auprès desquels elles ont souscrit des
@@ -8342,7 +8278,6 @@ les modalités de répartition du produit des cotisations entre les divers régi
 
 _Anciens textes_:
 
-  - Ordonnance 67-706 1967-08-21 art. 14
   - Ordonnance n°67-706 du 21 août 1967 - art. 14 (Ab)
 
 _Codifié par_:
@@ -8386,10 +8321,13 @@ _Cité par_:
   - Code des assurances - art. R*213-1 (Ab)
   - Code des assurances - art. R*213-3 (Ab)
 
+_Modifié par_:
+
+  - Loi n°96-314 du 12 avril 1996 - art. 85 () JORF 13 avril 1996 en vigueur le 1er janvier 1997
+
 _Cite_:
 
   - Code des assurances - art. L211-1 (M)
-  - Code des assurances - art. L211-3 (Ab)
 
 
 ###### Article L213-2
@@ -40945,11 +40883,11 @@ Toute personne qui, dans une entreprise mentionnée à l'article L. 310-1 ou une
 a sous son autorité des personnes chargées de présenter des opérations d'assurance ou de capitalisation, est tenue de veiller
 à ce que celles-ci remplissent les conditions prévues aux articles R. 511-2 et R. 511-4.
 
-Toute personne qui, dans les entreprises mentionnées à l'article L. 310-1, remet à un agent général d'assurance ou à une
-personne chargée des fonctions d'agent général d'assurances le document prévu au b de l'article R. 514-1 doit préalablement
-avoir fait la déclaration au parquet prescrite à l'article R. 514-8 relative à cet agent général ou à celui qui est chargé
-des fonctions d'agent général et avoir vérifié qu'il ressort des pièces qui lui sont communiquées que celui-ci remplit les
-conditions requises par les dispositions du premier alinéa de l'article R. 511-4.
+Toute personne qui, dans les entreprises mentionnées à l'article L. 310-1, remet à une personne physique ou morale mentionnée
+au 2° de l'article R. 511-2 le document prévu au b de l'article R. 514-1 doit préalablement avoir fait au parquet la
+déclaration relative à cette personne prescrite à l'article R. 514-8 et avoir vérifié qu'il ressort des pièces qui lui sont
+communiquées que la ou les personnes physiques concernées remplissent les conditions requises par les dispositions du premier
+alinéa de l'article R. 511-4.
 
 **Liens relatifs à cet article**
 
@@ -40959,7 +40897,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+  - Décret n°96-901 du 15 octobre 1996 - art. 1 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cite_:
 
@@ -41019,8 +40961,10 @@ rapport du ministre de l'économie et des finances et du garde des sceaux, minis
 activité en libre prestation de services dans les conditions prévues à l'article R.* 515-9, ainsi que, dans ces sociétés, les
 associés et les tiers qui ont le pouvoir de gérer ou d'administrer.
 
-2° Les personnes physiques titulaires d'un mandat d'agent général d'assurances ou chargées à titre provisoire, pour une
-période de deux ans au plus non renouvelable, des fonctions d'agent général d'assurances ;
+2° Les personnes physiques et sociétés anonymes, sociétés en commandite par actions ou sociétés à responsabilité limitée,
+titulaires d'un mandat d'agent général d'assurances et, dans ces sociétés, les associés et les tiers qui ont le pouvoir de
+gérer ou d'administrer ; les mêmes personnes physiques ou morales peuvent être chargées à titre provisoire, pour une période
+de deux ans au plus non renouvelable, des fonctions d'agent général d'assurances ;
 
 3° Les personnes physiques salariées commises à cet effet :
 
@@ -41028,7 +40972,7 @@ a) Soit par une entreprise mentionnée à l'article L. 310-1 ;
 
 b) Soit par une personne ou société mentionnée au 1° ci-dessus ;
 
-c) Soit une personne mentionnée au 2° ci-dessus ;
+c) Soit une personne physique ou morale mentionnée au 2° ci-dessus ;
 
 4° Les personnes physiques non-salariées, autres que les agents généraux d'assurances, et mandatées à cet effet par une
 entreprise, société ou personne mentionnée aux a, b et c du 3° ci-dessus ; toutefois, l'activité de ces personnes en matière
@@ -41083,7 +41027,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°96-754 du 21 août 1996 - art. 2 () JORF 28 août 1996
+  - Décret n°96-901 1996-10-15 art. 1 I, II JORF 16 octobre 1996 en vigueur le 1er janvier 1997
+  - Décret n°96-901 du 15 octobre 1996 - art. 1 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
 
 _Cite_:
 
@@ -41094,7 +41039,7 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Code des assurances - art. R*512-6 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R*512-9 (Ab)
+  - TXT_ASSOCIE: Code des assurances - art. R*512-9 (Ab)
   - TXT_SOURCE: Code des assurances - art. R*513-6 (Ab)
   - TXT_SOURCE: Code des assurances - art. R512-1 (V)
   - TXT_SOURCE: Code des assurances - art. R512-2 (VT)
@@ -41382,9 +41327,9 @@ _Cité par_:
 
 ###### Article R*513-6
 
-Lorsque, dans une agence générale ou une agence d'assurance autorisée à revêtir la forme de société, un associé ou un tiers a
-le pouvoir de gérer ou d'administrer, il ne peut présenter d'opérations d'assurance que s'il remplit les conditions exigées
-des agents généraux.
+Lorsque, dans une agence d'assurances autorisée avant le 1er janvier 1997 à opérer sous forme de société en matière
+d'assurances maritimes, fluviales ou aériennes, un associé ou tiers a le pouvoir de gérer ou d'administrer, il ne peut
+présenter des opérations d'assurances que s'il remplit les conditions exigées des agents généraux.
 
 **Liens relatifs à cet article**
 
@@ -41392,9 +41337,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+  - Décret n°96-901 du 15 octobre 1996 - art. 2 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 **Liens**:
 
@@ -41403,19 +41352,19 @@ _Créé par_:
 
 ###### Article R513-1
 
-Les courtiers d'assurances, les associés ou tiers qui, dans une société de courtage d'assurances, ont le pouvoir de gérer ou
-d'administrer et les agents généraux d'assurances doivent justifier préalablement à leur entrée en fonctions :
+Les courtiers d'assurances, les agents généraux d'assurances et les associés ou tiers mentionnés au 1° et au 2° de l'article
+R. 511-2 doivent justifier préalablement à leur entrée en fonctions :
 
 a) Soit de la possession d'un diplôme mentionné sur une liste fixée par arrêté pris par le ministre de l'économie, des
 finances et du budget, le ministre de l'agriculture, le ministre de l'éducation nationale et le ministre de la formation
 professionnelle, ainsi que de l'accomplissement d'un stage professionnel ;
 
 b) Soit de l'exercice à temps complet, pendant deux ans au moins, dans les services intérieurs ou extérieurs d'une entreprise
-mentionnée à l'article L. 310-1, d'un courtier ou d'une société de courtage d'assurances ou d'un agent général d'assurances
-ou d'un agent d'assurances ou d'une société mentionnés au dernier alinéa du présent article, de fonctions relatives à la
-production ou à l'application de contrats d'assurance ou de capitalisation ainsi que de l'accomplissement d'un stage
-professionnel soit de l'exercice à temps complet pendant un an au moins, en qualité de cadre ou de dirigeant, dans ces mêmes
-entreprises.
+mentionnée à l'article L. 310-1, d'un courtier ou d'une société de courtage d'assurances d'une personne physique ou société
+titulaire d'un mandat d'agent général d'assurances ou d'un agent d'assurances ou d'une société mentionnés au dernier alinéa
+du présent article, de fonctions relatives à la production ou à l'application de contrats d'assurance ou de capitalisation
+ainsi que de l'accomplissement d'un stage professionnel soit de l'exercice à temps complet pendant un an au moins, en qualité
+de cadre ou de dirigeant, dans ces mêmes entreprises.
 
 c) Soit de l'exercice, pendant deux ans au moins, en qualité de cadre ou de chef d'entreprise, de fonctions de responsabilité
 dans une entreprise industrielle ou commerciale, ainsi que de l'accomplissement d'un stage professionnel ;
@@ -41451,7 +41400,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-309 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+  - Décret n°96-902 1996-10-15 art. 2 I, II JORF 16 octobre 1996 en vigueur le 1er janvier 1997
+  - Décret n°96-902 du 15 octobre 1996 - art. 2 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
 
 _Cité par_:
 
@@ -41467,6 +41417,7 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. R*511-2 (M)
   - Code des assurances - art. R*512-2 (M)
   - Code des assurances - art. R*514-5 (M)
 
@@ -41483,8 +41434,8 @@ professionnelle, ainsi que de l'accomplissement d'un stage professionnel ;
 
 b) Soit de l'exercice à temps complet pendant six mois au moins de fonctions relatives à la production ou à l'application de
 contrats d'assurances, dans les services intérieurs ou extérieurs d'une entreprise mentionnée à l'article L. 310-1, d'un
-courtier ou d'une société de courtage d'assurances, d'un agent général d'assurances, ainsi que de l'application d'un stage
-professionnel ;
+courtier ou d'une société de courtage d'assurances, d'une personne physique ou société titulaire d'un mandat d'agent général
+d'assurances, ainsi que de l'application d'un stage professionnel ;
 
 c) Soit de l'accomplissement d'un stage professionnel. Dans ce cas, il est vérifié au début du stage que les candidats ont un
 niveau suffisant de connaissances générales. Les résultats du contrôle de ces connaissances doivent être annexés au livret de
@@ -41502,7 +41453,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-309 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+  - Décret n°96-902 du 15 octobre 1996 - art. 2 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cité par_:
 
@@ -41541,10 +41496,10 @@ d'assurances ou de capitalisation. Elle peut notamment comporter des visites de 
 formellement interdit au stagiaire de présenter seul ou en son nom propre des opérations d'assurances ou de capitalisation.
 
 Les stages professionnels peuvent être effectués auprès d'une entreprise mentionnée à l'article L. 310-1, d'un courtier ou
-d'une société de courtage d'assurances, d'un agent général d'assurances, d'un agent d'assurances ou d'une société mentionnés
-au dernier alinéa de l'article R. 513-1 ou d'un centre de formation choisi par l'employeur ou le mandant pour les stages des
-intermédiaires mentionnés aux 2°, 3° et 4° de l'article R. 511-2 et par les intéressés eux-mêmes pour les stages des
-intermédiaires mentionnés au 1° de l'article R. 511-2.
+d'une société de courtage d'assurances, d'une personne physique ou société titulaire d'un mandat d'agent général
+d'assurances, d'un agent d'assurances ou d'une société mentionnés au dernier alinéa de l'article R. 513-1 ou d'un centre de
+formation choisi par l'employeur ou le mandant pour les stages des intermédiaires mentionnés aux 2°, 3° et 4° de l'article R.
+511-2 et par les intéressés eux-mêmes pour les stages des intermédiaires mentionnés au 1° de l'article R. 511-2.
 
 Les stages professionnels doivent avoir une durée raisonnable et suffisante sans pouvoir être inférieure à cent cinquante
 heures.
@@ -41564,7 +41519,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-309 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+  - Décret n°96-902 du 15 octobre 1996 - art. 2 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cité par_:
 
@@ -41625,7 +41584,7 @@ _Cite_:
 
 ##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=371></a>
 
-###### Article R*514-1
+###### Article R514-1
 
 Pour satisfaire aux obligations du deuxième alinéa de l'article R. 511-4, toute personne intéressée doit :
 
@@ -41633,9 +41592,8 @@ a) S'il s'agit d'un courtier d'assurances ou, dans une société de courtage d'a
 de gérer ou d'administrer, être en mesure de justifier d'une immatriculation au registre du commerce pour le courtage
 d'assurances, à son nom, dans le premier cas, à celui de cette société, dans le second ;
 
-b) S'il s'agit d'un agent général d'assurances ou d'une personne chargée des fonctions d'agent général d'assurances, être en
-mesure de produire un document délivré par l'entreprise mandante, établissant l'existence, l'étendue et, le cas échéant, la
-durée du mandat qui lui a été confié ;
+b) S'il s'agit d'une personne mentionnée au 2° de l'article R. 511-2, être en mesure de produire un document délivré par
+l'entreprise mandante établissant l'existence, l'étendue et, le cas échéant, la durée du mandat d'agent général ;
 
 c) S'il s'agit d'un intermédiaire mentionné au 3° ou au 4° de l'article R. 511-2, être en mesure de produire une carte
 professionnelle établie à son nom, valable pour les branches d'assurance qu'il peut présenter et délivrée dans les conditions
@@ -41651,6 +41609,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°96-901 du 15 octobre 1996 - art. 1 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
 
 _Cité par_:
 
@@ -41911,7 +41873,7 @@ L'obligation de souscrire la déclaration incombe :
 1° En ce qui concerne les courtiers d'assurances ou de réassurance et les associés ou tiers ayant pouvoir de gérer ou
 d'administrer dans une société de courtage d'assurances ou de réassurance, aux intéressés eux-mêmes ;
 
-2° En ce qui concerne les agents généraux d'assurances, aux entreprises qui se proposent de les mandater en cette qualité ;
+2° En ce qui concerne les personnes mentionnées au 2° de l'article R. 511-2, aux entreprises mandantes ;
 
 3° En ce qui concerne les intermédiaires mentionnés au 3° ou au 4° de l'article R. 511-2, à l'entreprise ou personne ayant la
 qualité d'employeur ou mandant.
@@ -41924,7 +41886,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+  - Décret n°96-901 du 15 octobre 1996 - art. 1 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cite_:
 
@@ -42032,7 +41998,7 @@ lorsqu'il constate une telle incapacité, de le notifier dans le plus bref déla
 le pouvoir de gérer ou d'administrer, au greffier compétent pour recevoir l'immatriculation au registre du commerce pour le
 courtage d'assurances ou de réassurance ;
 
-2° Si elle concerne un agent général d'assurances, à l'entreprise déclarante ;
+2° Si elle concerne les personnes mentionnées au 2° de l'article R. 511-2, à l'entreprise déclarante ;
 
 3° Si elle concerne un intermédiaire mentionné au 3° ou au 4° de l'article R. 511-2, au déclarant.
 
@@ -42044,8 +42010,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-310 1992-03-31 art. 2 XIII, XIV JORF 1er avril 1992
-  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+  - Décret n°96-901 du 15 octobre 1996 - art. 1 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cite_:
 
@@ -42094,25 +42063,24 @@ _Cite_:
 
 Toute correspondance ou publicité émanant d'une personne ou société mentionnée au 1° de l'article R. 511-2, agissant en cette
 qualité, doit comporter, dans son en-tête, le nom de cette personne ou la raison sociale de cette société, suivi des mots
-"courtier d'assurances" ou "société de courtage d'assurances". Toute publicité, quelle qu'en soit la forme, émanant d'une
-telle personne ou société et concernant la souscription d'un contrat auprès d'une entreprise mentionnée à l'article L. 310-1
-ou l'adhésion à un tel contrat ou exposant, en vue de cette souscription ou adhésion, les conditions de garantie de ce
-contrat doit indiquer le nom de ladite entreprise.
+"courtier d'assurances" ou "société de courtage d'assurances".
 
-Toute correspondance ou publicité émanant de personnes autres que celles mentionnées au 1° de l'article R. 511-2 et tendant à
-proposer la souscription d'un contrat auprès d'une entreprise déterminée mentionnée à l'article L. 310-1 ou l'adhésion à un
-tel contrat ou à exposer, en vue de cette souscription ou adhésion, les conditions de garantie de ce contrat doit indiquer le
-nom et la qualité de la personne qui fait cette proposition ainsi que le nom ou la raison sociale de ladite entreprise.
+Toute correspondance ou publicité, quelle qu'en soit la forme, émanant d'une personne ou d'une société habilitée à présenter
+des opérations d'assurances et concernant la souscription d'un contrat auprès d'une entreprise mentionnée à l'article L.
+310-1 ou l'adhésion à un tel contrat ou exposant, en vue de cette souscription ou adhésion, les conditions de garantie de ce
+contrat doit indiquer le nom de la personne ou la dénomination sociale de la société qui fait cette présentation, la qualité
+en vertu de laquelle elle présente des opérations d'assurances ainsi que le nom ou la raison sociale de l'entreprise
+d'assurances concernée.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-119 1966-02-23 art. 15
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°96-901 du 15 octobre 1996 - art. 1 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
 
 _Cite_:
 
@@ -46870,9 +46838,64 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
 
 
-##### Section III : Provisions techniques des autres opérations d'assurance<a id=445></a>
+##### Paragraphe 3 : Provision pour sinistres restant à payer<a id=445></a>
 
-##### Paragraphe 1 : Provision mathématique des rentes.<a id=446></a>
+###### Article A331-22
+
+Les provisions techniques des prestations d'incapacité et d'invalidité sont la somme :
+
+1° Des provisions correspondant aux prestations d'incapacité de travail à verser après le 31 décembre de l'exercice au titre
+des sinistres en cours à cette date majorées des provisions dites pour rentes en attente relatives aux rentes d'invalidité
+susceptibles d'intervenir ultérieurement au titre des sinistres d'incapacité en cours au 31 décembre de l'exercice ;
+
+2° Des provisions correspondant aux prestations d'invalidité à verser après le 31 décembre de l'exercice au titre des
+sinistres d'invalidité en cours à cette date.
+
+Le calcul des provisions techniques de prestations d'incapacité de travail et d'invalidité est effectué à partir des éléments
+suivants :
+
+1° Les lois de maintien en incapacité de travail et en invalidité indiquées en annexe.
+
+Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi de maintien établie par ses soins et certifiée
+par un actuaire indépendant de cette entreprise, agréé à cet effet par l'une des associations d'actuaires reconnues par la
+commission de contrôle des assurances ;
+
+2° Un taux d'actualisation qui ne peut excéder 75 p. 100 du taux moyen des emprunts de l'Etat français calculé sur base
+semestrielle, sans pouvoir dépasser 4,5 p. 100.
+
+Ces dispositions ne s'appliquent pas aux prestations issues de contrats d'assurance de groupe souscrits par un établissement
+de crédit, ayant pour objet la garantie du remboursement d'un emprunt ni à celles issues de contrats d'assurance couvrant des
+risques visés au 3° du premier alinéa de l'article L. 310-1 du code des assurances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1996-03-28 art. 1 JORF 30 avril 1996 en vigueur le 1er janvier 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1996-03-28 art. 4
+  - TXT_SOURCE: Code des assurances R331-22
+
+_Cité par_:
+
+  - Arrêté du 24 décembre 2010 (V)
+  - Arrêté du 24 décembre 2010 - art. 1 (V)
+  - Code des assurances - art. A331-21 (Ab)
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+
+
+##### Section III : Provisions techniques des autres opérations d'assurance<a id=446></a>
+
+##### Paragraphe 1 : Provision mathématique des rentes.<a id=447></a>
 
 ###### Article A331-12
 
@@ -46899,7 +46922,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
 
 
-##### Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours.<a id=447></a>
+##### Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours.<a id=448></a>
 
 ###### Article A331-16
 
@@ -47010,7 +47033,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
 
 
-##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=448></a>
+##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=449></a>
 
 ###### Article A331-21
 
@@ -47107,9 +47130,21968 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R*331-26 (M)
 
 
-#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=449></a>
+###### Article Annexe 1.1 art. A331-22
 
-##### Section I : Eléments d'actif admis en représentation des engagements réglementés.<a id=450></a>
+Lois de maintien en invalidité (définition sécurité sociale) 
+
+Sur la première colonne figure l'âge de l'assuré à l'entrée en invalidité : sur la première ligne, le nombre d'années
+écoulées depuis l'entrée en invalidité
+
+<table border="1">
+  <thead>
+    <tr>
+      <td nowrap="nowrap" valign="bottom">
+
+Age
+
+</td>
+      <td colspan="21">
+
+Années
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+      </td><td valign="top">
+
+0
+
+</td>
+      <td valign="top">
+
+1
+
+</td>
+      <td valign="top">
+
+2
+
+</td>
+      <td valign="top">
+
+3
+
+</td>
+      <td valign="top">
+
+4
+
+</td>
+      <td valign="top">
+
+5
+
+</td>
+      <td valign="top">
+
+6
+
+</td>
+      <td valign="top">
+
+7
+
+</td>
+      <td valign="top">
+
+8
+
+</td>
+      <td valign="top">
+
+9
+
+</td>
+      <td valign="top">
+
+10
+
+</td>
+      <td valign="top">
+
+11
+
+</td>
+      <td valign="top">
+
+12
+
+</td>
+      <td valign="top">
+
+13
+
+</td>
+      <td valign="top">
+
+14
+
+</td>
+      <td valign="top">
+
+15
+
+</td>
+      <td valign="top">
+
+16
+
+</td>
+      <td valign="top">
+
+17
+
+</td>
+      <td valign="top">
+
+18
+
+</td>
+      <td valign="top">
+
+19
+
+</td>
+      <td valign="top">
+
+20
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+30 ans ou moins
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9859
+
+</td>
+      <td valign="top">
+
+9699
+
+</td>
+      <td valign="top">
+
+9534
+
+</td>
+      <td valign="top">
+
+9331
+
+</td>
+      <td valign="top">
+
+9163
+
+</td>
+      <td valign="top">
+
+8994
+
+</td>
+      <td valign="top">
+
+8874
+
+</td>
+      <td valign="top">
+
+8761
+
+</td>
+      <td valign="top">
+
+8696
+
+</td>
+      <td valign="top">
+
+8619
+
+</td>
+      <td valign="top">
+
+8571
+
+</td>
+      <td valign="top">
+
+8429
+
+</td>
+      <td valign="top">
+
+8321
+
+</td>
+      <td valign="top">
+
+8305
+
+</td>
+      <td valign="top">
+
+8283
+
+</td>
+      <td valign="top">
+
+8258
+
+</td>
+      <td valign="top">
+
+8088
+
+</td>
+      <td valign="top">
+
+8049
+
+</td>
+      <td valign="top">
+
+8006
+
+</td>
+      <td valign="top">
+
+7881
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+31
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9868
+
+</td>
+      <td valign="top">
+
+9731
+
+</td>
+      <td valign="top">
+
+9538
+
+</td>
+      <td valign="top">
+
+9364
+
+</td>
+      <td valign="top">
+
+9174
+
+</td>
+      <td valign="top">
+
+9013
+
+</td>
+      <td valign="top">
+
+8913
+
+</td>
+      <td valign="top">
+
+8815
+
+</td>
+      <td valign="top">
+
+8756
+
+</td>
+      <td valign="top">
+
+8687
+
+</td>
+      <td valign="top">
+
+8641
+
+</td>
+      <td valign="top">
+
+8506
+
+</td>
+      <td valign="top">
+
+8400
+
+</td>
+      <td valign="top">
+
+8372
+
+</td>
+      <td valign="top">
+
+8335
+
+</td>
+      <td valign="top">
+
+8293
+
+</td>
+      <td valign="top">
+
+8117
+
+</td>
+      <td valign="top">
+
+8057
+
+</td>
+      <td valign="top">
+
+7990
+
+</td>
+      <td valign="top">
+
+7848
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+32
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9843
+
+</td>
+      <td valign="top">
+
+9698
+
+</td>
+      <td valign="top">
+
+9537
+
+</td>
+      <td valign="top">
+
+9306
+
+</td>
+      <td valign="top">
+
+9120
+
+</td>
+      <td valign="top">
+
+8985
+
+</td>
+      <td valign="top">
+
+8846
+
+</td>
+      <td valign="top">
+
+8771
+
+</td>
+      <td valign="top">
+
+8685
+
+</td>
+      <td valign="top">
+
+8632
+
+</td>
+      <td valign="top">
+
+8542
+
+</td>
+      <td valign="top">
+
+8410
+
+</td>
+      <td valign="top">
+
+8325
+
+</td>
+      <td valign="top">
+
+8297
+
+</td>
+      <td valign="top">
+
+8222
+
+</td>
+      <td valign="top">
+
+8100
+
+</td>
+      <td valign="top">
+
+7957
+
+</td>
+      <td valign="top">
+
+7851
+
+</td>
+      <td valign="top">
+
+7785
+
+</td>
+      <td valign="top">
+
+7662
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+33
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9844
+
+</td>
+      <td valign="top">
+
+9705
+
+</td>
+      <td valign="top">
+
+9562
+
+</td>
+      <td valign="top">
+
+9328
+
+</td>
+      <td valign="top">
+
+9131
+
+</td>
+      <td valign="top">
+
+8997
+
+</td>
+      <td valign="top">
+
+8872
+
+</td>
+      <td valign="top">
+
+8789
+
+</td>
+      <td valign="top">
+
+8695
+
+</td>
+      <td valign="top">
+
+8606
+
+</td>
+      <td valign="top">
+
+8527
+
+</td>
+      <td valign="top">
+
+8384
+
+</td>
+      <td valign="top">
+
+8307
+
+</td>
+      <td valign="top">
+
+8278
+
+</td>
+      <td valign="top">
+
+8172
+
+</td>
+      <td valign="top">
+
+8020
+
+</td>
+      <td valign="top">
+
+7885
+
+</td>
+      <td valign="top">
+
+7783
+
+</td>
+      <td valign="top">
+
+7716
+
+</td>
+      <td valign="top">
+
+7597
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+34
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9827
+
+</td>
+      <td valign="top">
+
+9669
+
+</td>
+      <td valign="top">
+
+9523
+
+</td>
+      <td valign="top">
+
+9301
+
+</td>
+      <td valign="top">
+
+9084
+
+</td>
+      <td valign="top">
+
+8908
+
+</td>
+      <td valign="top">
+
+8770
+
+</td>
+      <td valign="top">
+
+8665
+
+</td>
+      <td valign="top">
+
+8561
+
+</td>
+      <td valign="top">
+
+8461
+
+</td>
+      <td valign="top">
+
+8386
+
+</td>
+      <td valign="top">
+
+8231
+
+</td>
+      <td valign="top">
+
+8158
+
+</td>
+      <td valign="top">
+
+8129
+
+</td>
+      <td valign="top">
+
+7996
+
+</td>
+      <td valign="top">
+
+7852
+
+</td>
+      <td valign="top">
+
+7725
+
+</td>
+      <td valign="top">
+
+7627
+
+</td>
+      <td valign="top">
+
+7560
+
+</td>
+      <td valign="top">
+
+7446
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+35
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9818
+
+</td>
+      <td valign="top">
+
+9663
+
+</td>
+      <td valign="top">
+
+9509
+
+</td>
+      <td valign="top">
+
+9281
+
+</td>
+      <td valign="top">
+
+9039
+
+</td>
+      <td valign="top">
+
+8874
+
+</td>
+      <td valign="top">
+
+8734
+
+</td>
+      <td valign="top">
+
+8597
+
+</td>
+      <td valign="top">
+
+8455
+
+</td>
+      <td valign="top">
+
+8380
+
+</td>
+      <td valign="top">
+
+8311
+
+</td>
+      <td valign="top">
+
+8165
+
+</td>
+      <td valign="top">
+
+8071
+
+</td>
+      <td valign="top">
+
+8042
+
+</td>
+      <td valign="top">
+
+7886
+
+</td>
+      <td valign="top">
+
+7719
+
+</td>
+      <td valign="top">
+
+7598
+
+</td>
+      <td valign="top">
+
+7469
+
+</td>
+      <td valign="top">
+
+7367
+
+</td>
+      <td valign="top">
+
+7253
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+36
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9805
+
+</td>
+      <td valign="top">
+
+9641
+
+</td>
+      <td valign="top">
+
+9495
+
+</td>
+      <td valign="top">
+
+9258
+
+</td>
+      <td valign="top">
+
+9038
+
+</td>
+      <td valign="top">
+
+8852
+
+</td>
+      <td valign="top">
+
+8724
+
+</td>
+      <td valign="top">
+
+8573
+
+</td>
+      <td valign="top">
+
+8456
+
+</td>
+      <td valign="top">
+
+8306
+
+</td>
+      <td valign="top">
+
+8222
+
+</td>
+      <td valign="top">
+
+8067
+
+</td>
+      <td valign="top">
+
+7978
+
+</td>
+      <td valign="top">
+
+7948
+
+</td>
+      <td valign="top">
+
+7778
+
+</td>
+      <td valign="top">
+
+7622
+
+</td>
+      <td valign="top">
+
+7538
+
+</td>
+      <td valign="top">
+
+7415
+
+</td>
+      <td valign="top">
+
+7310
+
+</td>
+      <td valign="top">
+
+7192
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+37
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9801
+
+</td>
+      <td valign="top">
+
+9640
+
+</td>
+      <td valign="top">
+
+9501
+
+</td>
+      <td valign="top">
+
+9269
+
+</td>
+      <td valign="top">
+
+9051
+
+</td>
+      <td valign="top">
+
+8861
+
+</td>
+      <td valign="top">
+
+8757
+
+</td>
+      <td valign="top">
+
+8601
+
+</td>
+      <td valign="top">
+
+8445
+
+</td>
+      <td valign="top">
+
+8280
+
+</td>
+      <td valign="top">
+
+8154
+
+</td>
+      <td valign="top">
+
+7995
+
+</td>
+      <td valign="top">
+
+7893
+
+</td>
+      <td valign="top">
+
+7864
+
+</td>
+      <td valign="top">
+
+7708
+
+</td>
+      <td valign="top">
+
+7514
+
+</td>
+      <td valign="top">
+
+7351
+
+</td>
+      <td valign="top">
+
+7225
+
+</td>
+      <td valign="top">
+
+7116
+
+</td>
+      <td valign="top">
+
+6995
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+38
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9787
+
+</td>
+      <td valign="top">
+
+9620
+
+</td>
+      <td valign="top">
+
+9462
+
+</td>
+      <td valign="top">
+
+9253
+
+</td>
+      <td valign="top">
+
+9050
+
+</td>
+      <td valign="top">
+
+8864
+
+</td>
+      <td valign="top">
+
+8761
+
+</td>
+      <td valign="top">
+
+8590
+
+</td>
+      <td valign="top">
+
+8416
+
+</td>
+      <td valign="top">
+
+8254
+
+</td>
+      <td valign="top">
+
+8141
+
+</td>
+      <td valign="top">
+
+7982
+
+</td>
+      <td valign="top">
+
+7890
+
+</td>
+      <td valign="top">
+
+7843
+
+</td>
+      <td valign="top">
+
+7679
+
+</td>
+      <td valign="top">
+
+7479
+
+</td>
+      <td valign="top">
+
+7317
+
+</td>
+      <td valign="top">
+
+7164
+
+</td>
+      <td valign="top">
+
+7052
+
+</td>
+      <td valign="top">
+
+6929
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+39
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9751
+
+</td>
+      <td valign="top">
+
+9566
+
+</td>
+      <td valign="top">
+
+9414
+
+</td>
+      <td valign="top">
+
+9214
+
+</td>
+      <td valign="top">
+
+9018
+
+</td>
+      <td valign="top">
+
+8861
+
+</td>
+      <td valign="top">
+
+8762
+
+</td>
+      <td valign="top">
+
+8586
+
+</td>
+      <td valign="top">
+
+8397
+
+</td>
+      <td valign="top">
+
+8218
+
+</td>
+      <td valign="top">
+
+8101
+
+</td>
+      <td valign="top">
+
+7936
+
+</td>
+      <td valign="top">
+
+7857
+
+</td>
+      <td valign="top">
+
+7805
+
+</td>
+      <td valign="top">
+
+7631
+
+</td>
+      <td valign="top">
+
+7414
+
+</td>
+      <td valign="top">
+
+7238
+
+</td>
+      <td valign="top">
+
+7072
+
+</td>
+      <td valign="top">
+
+6952
+
+</td>
+      <td valign="top">
+
+6854
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+40
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9751
+
+</td>
+      <td valign="top">
+
+9562
+
+</td>
+      <td valign="top">
+
+9424
+
+</td>
+      <td valign="top">
+
+9214
+
+</td>
+      <td valign="top">
+
+9012
+
+</td>
+      <td valign="top">
+
+8843
+
+</td>
+      <td valign="top">
+
+8730
+
+</td>
+      <td valign="top">
+
+8537
+
+</td>
+      <td valign="top">
+
+8359
+
+</td>
+      <td valign="top">
+
+8201
+
+</td>
+      <td valign="top">
+
+8085
+
+</td>
+      <td valign="top">
+
+7881
+
+</td>
+      <td valign="top">
+
+7778
+
+</td>
+      <td valign="top">
+
+7694
+
+</td>
+      <td valign="top">
+
+7515
+
+</td>
+      <td valign="top">
+
+7279
+
+</td>
+      <td valign="top">
+
+7105
+
+</td>
+      <td valign="top">
+
+6940
+
+</td>
+      <td valign="top">
+
+6819
+
+</td>
+      <td valign="top">
+
+6718
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+41
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9756
+
+</td>
+      <td valign="top">
+
+9543
+
+</td>
+      <td valign="top">
+
+9416
+
+</td>
+      <td valign="top">
+
+9210
+
+</td>
+      <td valign="top">
+
+8979
+
+</td>
+      <td valign="top">
+
+8800
+
+</td>
+      <td valign="top">
+
+8670
+
+</td>
+      <td valign="top">
+
+8474
+
+</td>
+      <td valign="top">
+
+8279
+
+</td>
+      <td valign="top">
+
+8107
+
+</td>
+      <td valign="top">
+
+7967
+
+</td>
+      <td valign="top">
+
+7784
+
+</td>
+      <td valign="top">
+
+7648
+
+</td>
+      <td valign="top">
+
+7554
+
+</td>
+      <td valign="top">
+
+7357
+
+</td>
+      <td valign="top">
+
+7126
+
+</td>
+      <td valign="top">
+
+6954
+
+</td>
+      <td valign="top">
+
+6789
+
+</td>
+      <td valign="top">
+
+6666
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+42
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9772
+
+</td>
+      <td valign="top">
+
+9580
+
+</td>
+      <td valign="top">
+
+9432
+
+</td>
+      <td valign="top">
+
+9243
+
+</td>
+      <td valign="top">
+
+9010
+
+</td>
+      <td valign="top">
+
+8817
+
+</td>
+      <td valign="top">
+
+8673
+
+</td>
+      <td valign="top">
+
+8444
+
+</td>
+      <td valign="top">
+
+8250
+
+</td>
+      <td valign="top">
+
+8085
+
+</td>
+      <td valign="top">
+
+7925
+
+</td>
+      <td valign="top">
+
+7718
+
+</td>
+      <td valign="top">
+
+7562
+
+</td>
+      <td valign="top">
+
+7448
+
+</td>
+      <td valign="top">
+
+7252
+
+</td>
+      <td valign="top">
+
+7064
+
+</td>
+      <td valign="top">
+
+6891
+
+</td>
+      <td valign="top">
+
+6748
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+43
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9769
+
+</td>
+      <td valign="top">
+
+9578
+
+</td>
+      <td valign="top">
+
+9417
+
+</td>
+      <td valign="top">
+
+9265
+
+</td>
+      <td valign="top">
+
+9014
+
+</td>
+      <td valign="top">
+
+8816
+
+</td>
+      <td valign="top">
+
+8686
+
+</td>
+      <td valign="top">
+
+8449
+
+</td>
+      <td valign="top">
+
+8265
+
+</td>
+      <td valign="top">
+
+8044
+
+</td>
+      <td valign="top">
+
+7904
+
+</td>
+      <td valign="top">
+
+7650
+
+</td>
+      <td valign="top">
+
+7487
+
+</td>
+      <td valign="top">
+
+7366
+
+</td>
+      <td valign="top">
+
+7183
+
+</td>
+      <td valign="top">
+
+6991
+
+</td>
+      <td valign="top">
+
+6815
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+44
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9751
+
+</td>
+      <td valign="top">
+
+9567
+
+</td>
+      <td valign="top">
+
+9394
+
+</td>
+      <td valign="top">
+
+9249
+
+</td>
+      <td valign="top">
+
+8990
+
+</td>
+      <td valign="top">
+
+8791
+
+</td>
+      <td valign="top">
+
+8665
+
+</td>
+      <td valign="top">
+
+8435
+
+</td>
+      <td valign="top">
+
+8245
+
+</td>
+      <td valign="top">
+
+8013
+
+</td>
+      <td valign="top">
+
+7856
+
+</td>
+      <td valign="top">
+
+7592
+
+</td>
+      <td valign="top">
+
+7405
+
+</td>
+      <td valign="top">
+
+7271
+
+</td>
+      <td valign="top">
+
+7084
+
+</td>
+      <td valign="top">
+
+6890
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+45
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9774
+
+</td>
+      <td valign="top">
+
+9619
+
+</td>
+      <td valign="top">
+
+9458
+
+</td>
+      <td valign="top">
+
+9303
+
+</td>
+      <td valign="top">
+
+9049
+
+</td>
+      <td valign="top">
+
+8835
+
+</td>
+      <td valign="top">
+
+8693
+
+</td>
+      <td valign="top">
+
+8471
+
+</td>
+      <td valign="top">
+
+8293
+
+</td>
+      <td valign="top">
+
+8049
+
+</td>
+      <td valign="top">
+
+7885
+
+</td>
+      <td valign="top">
+
+7583
+
+</td>
+      <td valign="top">
+
+7396
+
+</td>
+      <td valign="top">
+
+7250
+
+</td>
+      <td valign="top">
+
+7092
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+46
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9814
+
+</td>
+      <td valign="top">
+
+9656
+
+</td>
+      <td valign="top">
+
+9493
+
+</td>
+      <td valign="top">
+
+9332
+
+</td>
+      <td valign="top">
+
+9093
+
+</td>
+      <td valign="top">
+
+8874
+
+</td>
+      <td valign="top">
+
+8707
+
+</td>
+      <td valign="top">
+
+8486
+
+</td>
+      <td valign="top">
+
+8281
+
+</td>
+      <td valign="top">
+
+8059
+
+</td>
+      <td valign="top">
+
+7874
+
+</td>
+      <td valign="top">
+
+7586
+
+</td>
+      <td valign="top">
+
+7407
+
+</td>
+      <td valign="top">
+
+7250
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+47
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9832
+
+</td>
+      <td valign="top">
+
+9698
+
+</td>
+      <td valign="top">
+
+9529
+
+</td>
+      <td valign="top">
+
+9373
+
+</td>
+      <td valign="top">
+
+9119
+
+</td>
+      <td valign="top">
+
+8887
+
+</td>
+      <td valign="top">
+
+8712
+
+</td>
+      <td valign="top">
+
+8490
+
+</td>
+      <td valign="top">
+
+8320
+
+</td>
+      <td valign="top">
+
+8102
+
+</td>
+      <td valign="top">
+
+7930
+
+</td>
+      <td valign="top">
+
+7655
+
+</td>
+      <td valign="top">
+
+7469
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+48
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9846
+
+</td>
+      <td valign="top">
+
+9713
+
+</td>
+      <td valign="top">
+
+9534
+
+</td>
+      <td valign="top">
+
+9360
+
+</td>
+      <td valign="top">
+
+9138
+
+</td>
+      <td valign="top">
+
+8900
+
+</td>
+      <td valign="top">
+
+8709
+
+</td>
+      <td valign="top">
+
+8492
+
+</td>
+      <td valign="top">
+
+8317
+
+</td>
+      <td valign="top">
+
+8090
+
+</td>
+      <td valign="top">
+
+7897
+
+</td>
+      <td valign="top">
+
+7618
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+49
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9850
+
+</td>
+      <td valign="top">
+
+9709
+
+</td>
+      <td valign="top">
+
+9511
+
+</td>
+      <td valign="top">
+
+9328
+
+</td>
+      <td valign="top">
+
+9102
+
+</td>
+      <td valign="top">
+
+8839
+
+</td>
+      <td valign="top">
+
+8647
+
+</td>
+      <td valign="top">
+
+8432
+
+</td>
+      <td valign="top">
+
+8267
+
+</td>
+      <td valign="top">
+
+8024
+
+</td>
+      <td valign="top">
+
+7839
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+50
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9857
+
+</td>
+      <td valign="top">
+
+9721
+
+</td>
+      <td valign="top">
+
+9514
+
+</td>
+      <td valign="top">
+
+9316
+
+</td>
+      <td valign="top">
+
+9104
+
+</td>
+      <td valign="top">
+
+8843
+
+</td>
+      <td valign="top">
+
+8656
+
+</td>
+      <td valign="top">
+
+8463
+
+</td>
+      <td valign="top">
+
+8296
+
+</td>
+      <td valign="top">
+
+8018
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+51
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9869
+
+</td>
+      <td valign="top">
+
+9721
+
+</td>
+      <td valign="top">
+
+9526
+
+</td>
+      <td valign="top">
+
+9297
+
+</td>
+      <td valign="top">
+
+9056
+
+</td>
+      <td valign="top">
+
+8772
+
+</td>
+      <td valign="top">
+
+8565
+
+</td>
+      <td valign="top">
+
+8382
+
+</td>
+      <td valign="top">
+
+8202
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+52
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9903
+
+</td>
+      <td valign="top">
+
+9772
+
+</td>
+      <td valign="top">
+
+9571
+
+</td>
+      <td valign="top">
+
+9331
+
+</td>
+      <td valign="top">
+
+9084
+
+</td>
+      <td valign="top">
+
+8764
+
+</td>
+      <td valign="top">
+
+8559
+
+</td>
+      <td valign="top">
+
+8357
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+53
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9895
+
+</td>
+      <td valign="top">
+
+9735
+
+</td>
+      <td valign="top">
+
+9523
+
+</td>
+      <td valign="top">
+
+9242
+
+</td>
+      <td valign="top">
+
+8983
+
+</td>
+      <td valign="top">
+
+8651
+
+</td>
+      <td valign="top">
+
+8422
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+54
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9895
+
+</td>
+      <td valign="top">
+
+9752
+
+</td>
+      <td valign="top">
+
+9549
+
+</td>
+      <td valign="top">
+
+9268
+
+</td>
+      <td valign="top">
+
+8968
+
+</td>
+      <td valign="top">
+
+8650
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+55
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9881
+
+</td>
+      <td valign="top">
+
+9738
+
+</td>
+      <td valign="top">
+
+9533
+
+</td>
+      <td valign="top">
+
+9257
+
+</td>
+      <td valign="top">
+
+8977
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+56
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9864
+
+</td>
+      <td valign="top">
+
+9713
+
+</td>
+      <td valign="top">
+
+9502
+
+</td>
+      <td valign="top">
+
+9224
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+57
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9872
+
+</td>
+      <td valign="top">
+
+9721
+
+</td>
+      <td valign="top">
+
+9509
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+58
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9856
+
+</td>
+      <td valign="top">
+
+9672
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+59
+
+</td>
+      <td valign="top">
+
+10000
+
+</td>
+      <td valign="top">
+
+9840
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+.
+
+<table border="1">
+  <thead>
+    <tr>
+      <td width="63">
+
+Age
+
+</td>
+      <td colspan="20" valign="top" width="516">
+
+Années
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="63">
+      </td><td width="27" valign="top">
+
+21
+
+</td>
+      <td width="27" valign="top">
+
+22
+
+</td>
+      <td width="27" valign="top">
+
+23
+
+</td>
+      <td width="27" valign="top">
+
+24
+
+</td>
+      <td width="27" valign="top">
+
+25
+
+</td>
+      <td width="27" valign="top">
+
+26
+
+</td>
+      <td width="27" valign="top">
+
+27
+
+</td>
+      <td width="27" valign="top">
+
+28
+
+</td>
+      <td width="27" valign="top">
+
+29
+
+</td>
+      <td valign="top" width="24">
+
+30
+
+</td>
+      <td width="24" valign="top">
+
+31
+
+</td>
+      <td width="24" valign="top">
+
+32
+
+</td>
+      <td width="27" valign="top">
+
+33
+
+</td>
+      <td width="24" valign="top">
+
+34
+
+</td>
+      <td width="27" valign="top">
+
+35
+
+</td>
+      <td valign="top" width="27">
+
+36
+
+</td>
+      <td width="24" valign="top">
+
+37
+
+</td>
+      <td valign="top" width="24">
+
+38
+
+</td>
+      <td width="24" valign="top">
+
+39
+
+</td>
+      <td width="27" valign="top">
+
+40
+
+</td>
+    </tr>
+    <tr>
+      <td width="63" valign="top">
+
+30 ans ou moins
+
+</td>
+      <td width="27" valign="top">
+
+7748
+
+</td>
+      <td width="27" valign="top">
+
+7694
+
+</td>
+      <td valign="top" width="27">
+
+7550
+
+</td>
+      <td valign="top" width="27">
+
+7489
+
+</td>
+      <td valign="top" width="27">
+
+7426
+
+</td>
+      <td width="27" valign="top">
+
+7359
+
+</td>
+      <td width="27" valign="top">
+
+7291
+
+</td>
+      <td width="27" valign="top">
+
+6935
+
+</td>
+      <td valign="top" width="27">
+
+6860
+
+</td>
+      <td width="24" valign="top">
+
+6782
+
+</td>
+      <td width="24" valign="top">
+
+6607
+
+</td>
+      <td valign="top" width="24">
+
+6528
+
+</td>
+      <td valign="top" width="27">
+
+6449
+
+</td>
+      <td width="24" valign="top">
+
+6371
+
+</td>
+      <td valign="top" width="27">
+
+6292
+
+</td>
+      <td width="27" valign="top">
+
+6181
+
+</td>
+      <td valign="top" width="24">
+
+6113
+
+</td>
+      <td valign="top" width="24">
+
+6027
+
+</td>
+      <td width="24" valign="top">
+
+5939
+
+</td>
+      <td valign="top" width="27">
+
+5852
+
+</td>
+    </tr>
+    <tr>
+      <td width="63" valign="top">
+
+31
+
+</td>
+      <td width="27" valign="top">
+
+7629
+
+</td>
+      <td width="27" valign="top">
+
+7548
+
+</td>
+      <td valign="top" width="27">
+
+7387
+
+</td>
+      <td valign="top" width="27">
+
+7298
+
+</td>
+      <td valign="top" width="27">
+
+7202
+
+</td>
+      <td width="27" valign="top">
+
+7100
+
+</td>
+      <td valign="top" width="27">
+
+6997
+
+</td>
+      <td width="27" valign="top">
+
+6640
+
+</td>
+      <td valign="top" width="27">
+
+6528
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="63">
+
+32
+
+</td>
+      <td valign="top" width="27">
+
+7480
+
+</td>
+      <td valign="top" width="27">
+
+7401
+
+</td>
+      <td valign="top" width="27">
+
+7253
+
+</td>
+      <td valign="top" width="27">
+
+7157
+
+</td>
+      <td valign="top" width="27">
+
+7056
+
+</td>
+      <td valign="top" width="27">
+
+6950
+
+</td>
+      <td width="27" valign="top">
+
+6843
+
+</td>
+      <td width="27" valign="top">
+
+6546
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+    </tr>
+    <tr>
+      <td width="63" valign="top">
+
+33
+
+</td>
+      <td valign="top" width="27">
+
+7430
+
+</td>
+      <td width="27" valign="top">
+
+7345
+
+</td>
+      <td valign="top" width="27">
+
+7199
+
+</td>
+      <td valign="top" width="27">
+
+7100
+
+</td>
+      <td valign="top" width="27">
+
+6996
+
+</td>
+      <td width="27" valign="top">
+
+6887
+
+</td>
+      <td valign="top" width="27">
+
+6778
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+    </tr>
+    <tr>
+      <td width="63" valign="top">
+
+34
+
+</td>
+      <td valign="top" width="27">
+
+7279
+
+</td>
+      <td valign="top" width="27">
+
+7189
+
+</td>
+      <td width="27" valign="top">
+
+7044
+
+</td>
+      <td width="27" valign="top">
+
+6941
+
+</td>
+      <td width="27" valign="top">
+
+6834
+
+</td>
+      <td valign="top" width="27">
+
+6724
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="63">
+
+35
+
+</td>
+      <td valign="top" width="27">
+
+7087
+
+</td>
+      <td valign="top" width="27">
+
+6994
+
+</td>
+      <td width="27" valign="top">
+
+6850
+
+</td>
+      <td width="27" valign="top">
+
+6746
+
+</td>
+      <td valign="top" width="27">
+
+6638
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="63">
+
+36
+
+</td>
+      <td width="27" valign="top">
+
+7028
+
+</td>
+      <td valign="top" width="27">
+
+6931
+
+</td>
+      <td valign="top" width="27">
+
+6786
+
+</td>
+      <td width="27" valign="top">
+
+6679
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="63" valign="top">
+
+37
+
+</td>
+      <td valign="top" width="27">
+
+6829
+
+</td>
+      <td width="27" valign="top">
+
+6727
+
+</td>
+      <td width="27" valign="top">
+
+6581
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="63">
+
+38
+
+</td>
+      <td valign="top" width="27">
+
+6766
+
+</td>
+      <td valign="top" width="27">
+
+6661
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td width="24" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+      <td valign="top" width="27">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td valign="top" width="24">
+
+</td>
+      <td width="27" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="63">
+
+39
+
+</td>
+      <td valign="top" width="27">
+
+6683
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+40
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+41
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+42
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+43
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td width="63" valign="top">
+
+44
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+45
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td width="63" valign="top">
+
+46
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+47
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td width="63" valign="top">
+
+48
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td width="63" valign="top">
+
+49
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+50
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td width="63" valign="top">
+
+51
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+52
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td width="63" valign="top">
+
+53
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+54
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td width="63" valign="top">
+
+55
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td width="63" valign="top">
+
+56
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+57
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+58
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="27" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+</td>
+      <td width="27">
+    </td></tr>
+    <tr>
+      <td valign="top" width="63">
+
+59
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="27">
+
+</td>
+      <td nowrap="nowrap" width="27" valign="bottom">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td nowrap="nowrap" valign="bottom" width="24">
+
+</td>
+      <td valign="bottom" width="27" nowrap="nowrap">
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="27">
+
+</td>
+      <td width="27" valign="bottom" nowrap="nowrap">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+</td>
+      <td width="27">
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 28 mars 1996 -  Annexes (V)
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
+
+
+###### Article Annexe 1.2 art. A331-22
+
+Lois de maintien en incapacité temporaire (définition sécurité sociale)
+
+Sur la première colonne figure l'âge à l'arrêt de travail : sur la première ligne, le nombre de mois écoulés depuis l'arrêt
+de travail
+
+<table border="1">
+  <thead>
+    <tr>
+      <td>
+
+Age
+
+</td>
+      <td valign="bottom" nowrap="nowrap" colspan="19">
+
+Mois
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+      </td><td valign="bottom" nowrap="nowrap">
+
+0
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+1
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+2
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+3
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+4
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+5
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+6
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+7
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+8
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+9
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+10
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+11
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+12
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+13
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+14
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+15
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+16
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+17
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+18
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+23 ans ou moins
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+2842
+
+</td>
+      <td valign="top" width="31">
+
+1743
+
+</td>
+      <td width="31" valign="top">
+
+1144
+
+</td>
+      <td valign="top" width="31">
+
+838
+
+</td>
+      <td valign="top" width="31">
+
+625
+
+</td>
+      <td valign="top" width="31">
+
+455
+
+</td>
+      <td width="31" valign="top">
+
+339
+
+</td>
+      <td valign="top" width="31">
+
+291
+
+</td>
+      <td width="31" valign="top">
+
+253
+
+</td>
+      <td valign="top" width="31">
+
+215
+
+</td>
+      <td valign="top" width="31">
+
+187
+
+</td>
+      <td width="31" valign="top">
+
+173
+
+</td>
+      <td valign="top" width="31">
+
+152
+
+</td>
+      <td width="31" valign="top">
+
+138
+
+</td>
+      <td width="31" valign="top">
+
+129
+
+</td>
+      <td width="31" valign="top">
+
+123
+
+</td>
+      <td valign="top" width="31">
+
+114
+
+</td>
+      <td width="31" valign="top">
+
+102
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+24
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+2931
+
+</td>
+      <td valign="top" width="31">
+
+1848
+
+</td>
+      <td width="31" valign="top">
+
+1215
+
+</td>
+      <td valign="top" width="31">
+
+894
+
+</td>
+      <td valign="top" width="31">
+
+657
+
+</td>
+      <td valign="top" width="31">
+
+478
+
+</td>
+      <td valign="top" width="31">
+
+343
+
+</td>
+      <td valign="top" width="31">
+
+291
+
+</td>
+      <td valign="top" width="31">
+
+256
+
+</td>
+      <td width="31" valign="top">
+
+217
+
+</td>
+      <td width="31" valign="top">
+
+183
+
+</td>
+      <td valign="top" width="31">
+
+166
+
+</td>
+      <td width="31" valign="top">
+
+143
+
+</td>
+      <td valign="top" width="31">
+
+130
+
+</td>
+      <td width="31" valign="top">
+
+121
+
+</td>
+      <td valign="top" width="31">
+
+114
+
+</td>
+      <td valign="top" width="31">
+
+105
+
+</td>
+      <td valign="top" width="31">
+
+95
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+25
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+3080
+
+</td>
+      <td valign="top" width="31">
+
+2001
+
+</td>
+      <td valign="top" width="31">
+
+1345
+
+</td>
+      <td valign="top" width="31">
+
+997
+
+</td>
+      <td valign="top" width="31">
+
+739
+
+</td>
+      <td width="31" valign="top">
+
+536
+
+</td>
+      <td width="31" valign="top">
+
+382
+
+</td>
+      <td valign="top" width="31">
+
+327
+
+</td>
+      <td width="31" valign="top">
+
+289
+
+</td>
+      <td valign="top" width="31">
+
+251
+
+</td>
+      <td valign="top" width="31">
+
+216
+
+</td>
+      <td width="31" valign="top">
+
+195
+
+</td>
+      <td width="31" valign="top">
+
+172
+
+</td>
+      <td valign="top" width="31">
+
+159
+
+</td>
+      <td valign="top" width="31">
+
+149
+
+</td>
+      <td width="31" valign="top">
+
+140
+
+</td>
+      <td valign="top" width="31">
+
+129
+
+</td>
+      <td width="31" valign="top">
+
+116
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+26
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3177
+
+</td>
+      <td valign="top" width="31">
+
+2112
+
+</td>
+      <td width="31" valign="top">
+
+1461
+
+</td>
+      <td valign="top" width="31">
+
+1087
+
+</td>
+      <td valign="top" width="31">
+
+812
+
+</td>
+      <td width="31" valign="top">
+
+591
+
+</td>
+      <td valign="top" width="31">
+
+431
+
+</td>
+      <td valign="top" width="31">
+
+372
+
+</td>
+      <td width="31" valign="top">
+
+325
+
+</td>
+      <td valign="top" width="31">
+
+285
+
+</td>
+      <td width="31" valign="top">
+
+249
+
+</td>
+      <td width="31" valign="top">
+
+226
+
+</td>
+      <td width="31" valign="top">
+
+201
+
+</td>
+      <td valign="top" width="31">
+
+186
+
+</td>
+      <td valign="top" width="31">
+
+171
+
+</td>
+      <td valign="top" width="31">
+
+161
+
+</td>
+      <td width="31" valign="top">
+
+150
+
+</td>
+      <td width="31" valign="top">
+
+137
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+27
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+3251
+
+</td>
+      <td width="31" valign="top">
+
+2180
+
+</td>
+      <td valign="top" width="31">
+
+1540
+
+</td>
+      <td width="31" valign="top">
+
+1156
+
+</td>
+      <td valign="top" width="31">
+
+869
+
+</td>
+      <td width="31" valign="top">
+
+643
+
+</td>
+      <td valign="top" width="31">
+
+476
+
+</td>
+      <td valign="top" width="31">
+
+407
+
+</td>
+      <td valign="top" width="31">
+
+360
+
+</td>
+      <td valign="top" width="31">
+
+320
+
+</td>
+      <td width="31" valign="top">
+
+285
+
+</td>
+      <td valign="top" width="31">
+
+263
+
+</td>
+      <td width="31" valign="top">
+
+237
+
+</td>
+      <td width="31" valign="top">
+
+222
+
+</td>
+      <td valign="top" width="31">
+
+207
+
+</td>
+      <td width="31" valign="top">
+
+192
+
+</td>
+      <td valign="top" width="31">
+
+179
+
+</td>
+      <td width="31" valign="top">
+
+168
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+28
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3298
+
+</td>
+      <td valign="top" width="31">
+
+2243
+
+</td>
+      <td width="31" valign="top">
+
+1600
+
+</td>
+      <td width="31" valign="top">
+
+1209
+
+</td>
+      <td width="31" valign="top">
+
+915
+
+</td>
+      <td valign="top" width="31">
+
+688
+
+</td>
+      <td width="31" valign="top">
+
+524
+
+</td>
+      <td valign="top" width="31">
+
+448
+
+</td>
+      <td valign="top" width="31">
+
+400
+
+</td>
+      <td valign="top" width="31">
+
+359
+
+</td>
+      <td width="31" valign="top">
+
+322
+
+</td>
+      <td width="31" valign="top">
+
+297
+
+</td>
+      <td valign="top" width="31">
+
+270
+
+</td>
+      <td valign="top" width="31">
+
+255
+
+</td>
+      <td valign="top" width="31">
+
+238
+
+</td>
+      <td valign="top" width="31">
+
+222
+
+</td>
+      <td valign="top" width="31">
+
+210
+
+</td>
+      <td valign="top" width="31">
+
+199
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+29
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3348
+
+</td>
+      <td width="31" valign="top">
+
+2273
+
+</td>
+      <td width="31" valign="top">
+
+1640
+
+</td>
+      <td width="31" valign="top">
+
+1246
+
+</td>
+      <td valign="top" width="31">
+
+956
+
+</td>
+      <td valign="top" width="31">
+
+726
+
+</td>
+      <td width="31" valign="top">
+
+559
+
+</td>
+      <td valign="top" width="31">
+
+476
+
+</td>
+      <td width="31" valign="top">
+
+425
+
+</td>
+      <td width="31" valign="top">
+
+384
+
+</td>
+      <td valign="top" width="31">
+
+352
+
+</td>
+      <td valign="top" width="31">
+
+327
+
+</td>
+      <td valign="top" width="31">
+
+298
+
+</td>
+      <td valign="top" width="31">
+
+280
+
+</td>
+      <td width="31" valign="top">
+
+262
+
+</td>
+      <td width="31" valign="top">
+
+247
+
+</td>
+      <td valign="top" width="31">
+
+233
+
+</td>
+      <td width="31" valign="top">
+
+220
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+30
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3386
+
+</td>
+      <td valign="top" width="31">
+
+2275
+
+</td>
+      <td valign="top" width="31">
+
+1659
+
+</td>
+      <td valign="top" width="31">
+
+1264
+
+</td>
+      <td width="31" valign="top">
+
+964
+
+</td>
+      <td valign="top" width="31">
+
+744
+
+</td>
+      <td width="31" valign="top">
+
+583
+
+</td>
+      <td width="31" valign="top">
+
+494
+
+</td>
+      <td width="31" valign="top">
+
+439
+
+</td>
+      <td valign="top" width="31">
+
+396
+
+</td>
+      <td valign="top" width="31">
+
+363
+
+</td>
+      <td valign="top" width="31">
+
+338
+
+</td>
+      <td width="31" valign="top">
+
+308
+
+</td>
+      <td valign="top" width="31">
+
+287
+
+</td>
+      <td width="31" valign="top">
+
+267
+
+</td>
+      <td valign="top" width="31">
+
+252
+
+</td>
+      <td width="31" valign="top">
+
+240
+
+</td>
+      <td valign="top" width="31">
+
+227
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+31
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3388
+
+</td>
+      <td valign="top" width="31">
+
+2228
+
+</td>
+      <td valign="top" width="31">
+
+1618
+
+</td>
+      <td width="31" valign="top">
+
+1249
+
+</td>
+      <td valign="top" width="31">
+
+965
+
+</td>
+      <td width="31" valign="top">
+
+756
+
+</td>
+      <td width="31" valign="top">
+
+595
+
+</td>
+      <td width="31" valign="top">
+
+501
+
+</td>
+      <td valign="top" width="31">
+
+449
+
+</td>
+      <td valign="top" width="31">
+
+406
+
+</td>
+      <td valign="top" width="31">
+
+375
+
+</td>
+      <td valign="top" width="31">
+
+347
+
+</td>
+      <td width="31" valign="top">
+
+318
+
+</td>
+      <td width="31" valign="top">
+
+295
+
+</td>
+      <td valign="top" width="31">
+
+276
+
+</td>
+      <td valign="top" width="31">
+
+261
+
+</td>
+      <td valign="top" width="31">
+
+250
+
+</td>
+      <td valign="top" width="31">
+
+236
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+32
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3433
+
+</td>
+      <td valign="top" width="31">
+
+2238
+
+</td>
+      <td valign="top" width="31">
+
+1617
+
+</td>
+      <td valign="top" width="31">
+
+1254
+
+</td>
+      <td width="31" valign="top">
+
+975
+
+</td>
+      <td width="31" valign="top">
+
+772
+
+</td>
+      <td width="31" valign="top">
+
+612
+
+</td>
+      <td width="31" valign="top">
+
+522
+
+</td>
+      <td width="31" valign="top">
+
+468
+
+</td>
+      <td width="31" valign="top">
+
+421
+
+</td>
+      <td width="31" valign="top">
+
+388
+
+</td>
+      <td width="31" valign="top">
+
+357
+
+</td>
+      <td width="31" valign="top">
+
+325
+
+</td>
+      <td valign="top" width="31">
+
+302
+
+</td>
+      <td valign="top" width="31">
+
+279
+
+</td>
+      <td width="31" valign="top">
+
+264
+
+</td>
+      <td valign="top" width="31">
+
+252
+
+</td>
+      <td valign="top" width="31">
+
+235
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+33
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+3466
+
+</td>
+      <td width="31" valign="top">
+
+2235
+
+</td>
+      <td valign="top" width="31">
+
+1627
+
+</td>
+      <td valign="top" width="31">
+
+1260
+
+</td>
+      <td width="31" valign="top">
+
+983
+
+</td>
+      <td valign="top" width="31">
+
+782
+
+</td>
+      <td valign="top" width="31">
+
+628
+
+</td>
+      <td valign="top" width="31">
+
+540
+
+</td>
+      <td width="31" valign="top">
+
+484
+
+</td>
+      <td width="31" valign="top">
+
+431
+
+</td>
+      <td valign="top" width="31">
+
+395
+
+</td>
+      <td valign="top" width="31">
+
+364
+
+</td>
+      <td width="31" valign="top">
+
+332
+
+</td>
+      <td valign="top" width="31">
+
+310
+
+</td>
+      <td valign="top" width="31">
+
+286
+
+</td>
+      <td valign="top" width="31">
+
+270
+
+</td>
+      <td valign="top" width="31">
+
+256
+
+</td>
+      <td width="31" valign="top">
+
+238
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+34
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3567
+
+</td>
+      <td width="31" valign="top">
+
+2298
+
+</td>
+      <td valign="top" width="31">
+
+1684
+
+</td>
+      <td valign="top" width="31">
+
+1321
+
+</td>
+      <td valign="top" width="31">
+
+1033
+
+</td>
+      <td width="31" valign="top">
+
+828
+
+</td>
+      <td width="31" valign="top">
+
+684
+
+</td>
+      <td width="31" valign="top">
+
+597
+
+</td>
+      <td valign="top" width="31">
+
+535
+
+</td>
+      <td valign="top" width="31">
+
+477
+
+</td>
+      <td width="31" valign="top">
+
+436
+
+</td>
+      <td valign="top" width="31">
+
+401
+
+</td>
+      <td width="31" valign="top">
+
+366
+
+</td>
+      <td valign="top" width="31">
+
+344
+
+</td>
+      <td valign="top" width="31">
+
+319
+
+</td>
+      <td valign="top" width="31">
+
+298
+
+</td>
+      <td valign="top" width="31">
+
+282
+
+</td>
+      <td valign="top" width="31">
+
+265
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+35
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3645
+
+</td>
+      <td width="31" valign="top">
+
+2331
+
+</td>
+      <td width="31" valign="top">
+
+1705
+
+</td>
+      <td valign="top" width="31">
+
+1357
+
+</td>
+      <td valign="top" width="31">
+
+1082
+
+</td>
+      <td valign="top" width="31">
+
+876
+
+</td>
+      <td valign="top" width="31">
+
+732
+
+</td>
+      <td valign="top" width="31">
+
+647
+
+</td>
+      <td width="31" valign="top">
+
+586
+
+</td>
+      <td valign="top" width="31">
+
+528
+
+</td>
+      <td valign="top" width="31">
+
+481
+
+</td>
+      <td valign="top" width="31">
+
+443
+
+</td>
+      <td width="31" valign="top">
+
+402
+
+</td>
+      <td width="31" valign="top">
+
+377
+
+</td>
+      <td valign="top" width="31">
+
+351
+
+</td>
+      <td valign="top" width="31">
+
+331
+
+</td>
+      <td valign="top" width="31">
+
+309
+
+</td>
+      <td valign="top" width="31">
+
+294
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+36
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3701
+
+</td>
+      <td width="31" valign="top">
+
+2390
+
+</td>
+      <td valign="top" width="31">
+
+1747
+
+</td>
+      <td width="31" valign="top">
+
+1390
+
+</td>
+      <td valign="top" width="31">
+
+1106
+
+</td>
+      <td width="31" valign="top">
+
+905
+
+</td>
+      <td valign="top" width="31">
+
+771
+
+</td>
+      <td valign="top" width="31">
+
+682
+
+</td>
+      <td valign="top" width="31">
+
+617
+
+</td>
+      <td width="31" valign="top">
+
+560
+
+</td>
+      <td width="31" valign="top">
+
+508
+
+</td>
+      <td valign="top" width="31">
+
+469
+
+</td>
+      <td valign="top" width="31">
+
+428
+
+</td>
+      <td valign="top" width="31">
+
+397
+
+</td>
+      <td width="31" valign="top">
+
+370
+
+</td>
+      <td width="31" valign="top">
+
+347
+
+</td>
+      <td valign="top" width="31">
+
+323
+
+</td>
+      <td valign="top" width="31">
+
+308
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+37
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3822
+
+</td>
+      <td width="31" valign="top">
+
+2458
+
+</td>
+      <td valign="top" width="31">
+
+1804
+
+</td>
+      <td valign="top" width="31">
+
+1430
+
+</td>
+      <td valign="top" width="31">
+
+1148
+
+</td>
+      <td width="31" valign="top">
+
+932
+
+</td>
+      <td valign="top" width="31">
+
+801
+
+</td>
+      <td width="31" valign="top">
+
+704
+
+</td>
+      <td width="31" valign="top">
+
+635
+
+</td>
+      <td width="31" valign="top">
+
+579
+
+</td>
+      <td valign="top" width="31">
+
+526
+
+</td>
+      <td width="31" valign="top">
+
+487
+
+</td>
+      <td valign="top" width="31">
+
+443
+
+</td>
+      <td width="31" valign="top">
+
+406
+
+</td>
+      <td valign="top" width="31">
+
+379
+
+</td>
+      <td valign="top" width="31">
+
+357
+
+</td>
+      <td width="31" valign="top">
+
+335
+
+</td>
+      <td valign="top" width="31">
+
+319
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+38
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+3958
+
+</td>
+      <td valign="top" width="31">
+
+2526
+
+</td>
+      <td width="31" valign="top">
+
+1851
+
+</td>
+      <td width="31" valign="top">
+
+1479
+
+</td>
+      <td valign="top" width="31">
+
+1193
+
+</td>
+      <td valign="top" width="31">
+
+980
+
+</td>
+      <td valign="top" width="31">
+
+841
+
+</td>
+      <td valign="top" width="31">
+
+739
+
+</td>
+      <td valign="top" width="31">
+
+671
+
+</td>
+      <td valign="top" width="31">
+
+616
+
+</td>
+      <td width="31" valign="top">
+
+564
+
+</td>
+      <td width="31" valign="top">
+
+521
+
+</td>
+      <td valign="top" width="31">
+
+477
+
+</td>
+      <td width="31" valign="top">
+
+439
+
+</td>
+      <td valign="top" width="31">
+
+411
+
+</td>
+      <td valign="top" width="31">
+
+384
+
+</td>
+      <td valign="top" width="31">
+
+358
+
+</td>
+      <td valign="top" width="31">
+
+340
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+39
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+4035
+
+</td>
+      <td valign="top" width="31">
+
+2600
+
+</td>
+      <td width="31" valign="top">
+
+1923
+
+</td>
+      <td valign="top" width="31">
+
+1541
+
+</td>
+      <td valign="top" width="31">
+
+1266
+
+</td>
+      <td valign="top" width="31">
+
+1055
+
+</td>
+      <td width="31" valign="top">
+
+915
+
+</td>
+      <td valign="top" width="31">
+
+807
+
+</td>
+      <td valign="top" width="31">
+
+739
+
+</td>
+      <td valign="top" width="31">
+
+680
+
+</td>
+      <td valign="top" width="31">
+
+623
+
+</td>
+      <td valign="top" width="31">
+
+572
+
+</td>
+      <td width="31" valign="top">
+
+530
+
+</td>
+      <td valign="top" width="31">
+
+486
+
+</td>
+      <td width="31" valign="top">
+
+455
+
+</td>
+      <td width="31" valign="top">
+
+427
+
+</td>
+      <td valign="top" width="31">
+
+400
+
+</td>
+      <td width="31" valign="top">
+
+381
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+40
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+4073
+
+</td>
+      <td width="31" valign="top">
+
+2652
+
+</td>
+      <td valign="top" width="31">
+
+1973
+
+</td>
+      <td width="31" valign="top">
+
+1575
+
+</td>
+      <td width="31" valign="top">
+
+1303
+
+</td>
+      <td valign="top" width="31">
+
+1097
+
+</td>
+      <td valign="top" width="31">
+
+965
+
+</td>
+      <td width="31" valign="top">
+
+853
+
+</td>
+      <td valign="top" width="31">
+
+783
+
+</td>
+      <td width="31" valign="top">
+
+719
+
+</td>
+      <td valign="top" width="31">
+
+659
+
+</td>
+      <td width="31" valign="top">
+
+607
+
+</td>
+      <td valign="top" width="31">
+
+565
+
+</td>
+      <td valign="top" width="31">
+
+521
+
+</td>
+      <td width="31" valign="top">
+
+490
+
+</td>
+      <td valign="top" width="31">
+
+458
+
+</td>
+      <td width="31" valign="top">
+
+428
+
+</td>
+      <td valign="top" width="31">
+
+404
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+41
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+4214
+
+</td>
+      <td valign="top" width="31">
+
+2776
+
+</td>
+      <td valign="top" width="31">
+
+2096
+
+</td>
+      <td width="31" valign="top">
+
+1680
+
+</td>
+      <td width="31" valign="top">
+
+1408
+
+</td>
+      <td valign="top" width="31">
+
+1193
+
+</td>
+      <td width="31" valign="top">
+
+1054
+
+</td>
+      <td width="31" valign="top">
+
+937
+
+</td>
+      <td width="31" valign="top">
+
+866
+
+</td>
+      <td valign="top" width="31">
+
+798
+
+</td>
+      <td width="31" valign="top">
+
+731
+
+</td>
+      <td valign="top" width="31">
+
+676
+
+</td>
+      <td width="31" valign="top">
+
+626
+
+</td>
+      <td width="31" valign="top">
+
+582
+
+</td>
+      <td width="31" valign="top">
+
+552
+
+</td>
+      <td valign="top" width="31">
+
+519
+
+</td>
+      <td valign="top" width="31">
+
+483
+
+</td>
+      <td width="31" valign="top">
+
+455
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+42
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+4364
+
+</td>
+      <td width="31" valign="top">
+
+2930
+
+</td>
+      <td valign="top" width="31">
+
+2237
+
+</td>
+      <td valign="top" width="31">
+
+1814
+
+</td>
+      <td valign="top" width="31">
+
+1540
+
+</td>
+      <td valign="top" width="31">
+
+1314
+
+</td>
+      <td width="31" valign="top">
+
+1162
+
+</td>
+      <td width="31" valign="top">
+
+1039
+
+</td>
+      <td valign="top" width="31">
+
+971
+
+</td>
+      <td width="31" valign="top">
+
+895
+
+</td>
+      <td valign="top" width="31">
+
+825
+
+</td>
+      <td valign="top" width="31">
+
+764
+
+</td>
+      <td width="31" valign="top">
+
+710
+
+</td>
+      <td valign="top" width="31">
+
+666
+
+</td>
+      <td valign="top" width="31">
+
+630
+
+</td>
+      <td valign="top" width="31">
+
+593
+
+</td>
+      <td valign="top" width="31">
+
+553
+
+</td>
+      <td valign="top" width="31">
+
+521
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+43
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+4473
+
+</td>
+      <td width="31" valign="top">
+
+3046
+
+</td>
+      <td valign="top" width="31">
+
+2341
+
+</td>
+      <td valign="top" width="31">
+
+1907
+
+</td>
+      <td width="31" valign="top">
+
+1633
+
+</td>
+      <td width="31" valign="top">
+
+1400
+
+</td>
+      <td valign="top" width="31">
+
+1243
+
+</td>
+      <td width="31" valign="top">
+
+1120
+
+</td>
+      <td width="31" valign="top">
+
+1045
+
+</td>
+      <td width="31" valign="top">
+
+965
+
+</td>
+      <td width="31" valign="top">
+
+892
+
+</td>
+      <td valign="top" width="31">
+
+830
+
+</td>
+      <td valign="top" width="31">
+
+774
+
+</td>
+      <td width="31" valign="top">
+
+726
+
+</td>
+      <td valign="top" width="31">
+
+691
+
+</td>
+      <td valign="top" width="31">
+
+654
+
+</td>
+      <td valign="top" width="31">
+
+614
+
+</td>
+      <td width="31" valign="top">
+
+582
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+44
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+4621
+
+</td>
+      <td valign="top" width="31">
+
+3155
+
+</td>
+      <td valign="top" width="31">
+
+2417
+
+</td>
+      <td valign="top" width="31">
+
+1974
+
+</td>
+      <td valign="top" width="31">
+
+1676
+
+</td>
+      <td width="31" valign="top">
+
+1441
+
+</td>
+      <td width="31" valign="top">
+
+1282
+
+</td>
+      <td valign="top" width="31">
+
+1158
+
+</td>
+      <td width="31" valign="top">
+
+1077
+
+</td>
+      <td width="31" valign="top">
+
+1000
+
+</td>
+      <td width="31" valign="top">
+
+928
+
+</td>
+      <td valign="top" width="31">
+
+872
+
+</td>
+      <td width="31" valign="top">
+
+809
+
+</td>
+      <td width="31" valign="top">
+
+760
+
+</td>
+      <td width="31" valign="top">
+
+725
+
+</td>
+      <td width="31" valign="top">
+
+682
+
+</td>
+      <td width="31" valign="top">
+
+643
+
+</td>
+      <td width="31" valign="top">
+
+608
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+45
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+4780
+
+</td>
+      <td width="31" valign="top">
+
+3318
+
+</td>
+      <td valign="top" width="31">
+
+2557
+
+</td>
+      <td valign="top" width="31">
+
+2097
+
+</td>
+      <td width="31" valign="top">
+
+1776
+
+</td>
+      <td width="31" valign="top">
+
+1529
+
+</td>
+      <td width="31" valign="top">
+
+1361
+
+</td>
+      <td width="31" valign="top">
+
+1240
+
+</td>
+      <td valign="top" width="31">
+
+1148
+
+</td>
+      <td valign="top" width="31">
+
+1069
+
+</td>
+      <td width="31" valign="top">
+
+1001
+
+</td>
+      <td valign="top" width="31">
+
+938
+
+</td>
+      <td width="31" valign="top">
+
+872
+
+</td>
+      <td valign="top" width="31">
+
+825
+
+</td>
+      <td width="31" valign="top">
+
+791
+
+</td>
+      <td valign="top" width="31">
+
+745
+
+</td>
+      <td valign="top" width="31">
+
+705
+
+</td>
+      <td width="31" valign="top">
+
+675
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+46
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+4895
+
+</td>
+      <td valign="top" width="31">
+
+3392
+
+</td>
+      <td width="31" valign="top">
+
+2641
+
+</td>
+      <td valign="top" width="31">
+
+2190
+
+</td>
+      <td valign="top" width="31">
+
+1860
+
+</td>
+      <td width="31" valign="top">
+
+1609
+
+</td>
+      <td valign="top" width="31">
+
+1437
+
+</td>
+      <td width="31" valign="top">
+
+1319
+
+</td>
+      <td valign="top" width="31">
+
+1218
+
+</td>
+      <td valign="top" width="31">
+
+1132
+
+</td>
+      <td valign="top" width="31">
+
+1066
+
+</td>
+      <td width="31" valign="top">
+
+997
+
+</td>
+      <td valign="top" width="31">
+
+929
+
+</td>
+      <td width="31" valign="top">
+
+882
+
+</td>
+      <td width="31" valign="top">
+
+843
+
+</td>
+      <td valign="top" width="31">
+
+793
+
+</td>
+      <td valign="top" width="31">
+
+756
+
+</td>
+      <td valign="top" width="31">
+
+728
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+47
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5015
+
+</td>
+      <td valign="top" width="31">
+
+3486
+
+</td>
+      <td width="31" valign="top">
+
+2742
+
+</td>
+      <td valign="top" width="31">
+
+2284
+
+</td>
+      <td width="31" valign="top">
+
+1933
+
+</td>
+      <td valign="top" width="31">
+
+1696
+
+</td>
+      <td width="31" valign="top">
+
+1527
+
+</td>
+      <td width="31" valign="top">
+
+1403
+
+</td>
+      <td valign="top" width="31">
+
+1294
+
+</td>
+      <td width="31" valign="top">
+
+1207
+
+</td>
+      <td valign="top" width="31">
+
+1138
+
+</td>
+      <td width="31" valign="top">
+
+1067
+
+</td>
+      <td width="31" valign="top">
+
+994
+
+</td>
+      <td valign="top" width="31">
+
+947
+
+</td>
+      <td width="31" valign="top">
+
+904
+
+</td>
+      <td width="31" valign="top">
+
+854
+
+</td>
+      <td width="31" valign="top">
+
+818
+
+</td>
+      <td valign="top" width="31">
+
+786
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+48
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5161
+
+</td>
+      <td valign="top" width="31">
+
+3662
+
+</td>
+      <td width="31" valign="top">
+
+2911
+
+</td>
+      <td width="31" valign="top">
+
+2441
+
+</td>
+      <td width="31" valign="top">
+
+2076
+
+</td>
+      <td valign="top" width="31">
+
+1836
+
+</td>
+      <td width="31" valign="top">
+
+1659
+
+</td>
+      <td width="31" valign="top">
+
+1534
+
+</td>
+      <td valign="top" width="31">
+
+1418
+
+</td>
+      <td valign="top" width="31">
+
+1328
+
+</td>
+      <td valign="top" width="31">
+
+1259
+
+</td>
+      <td width="31" valign="top">
+
+1179
+
+</td>
+      <td width="31" valign="top">
+
+1099
+
+</td>
+      <td valign="top" width="31">
+
+1047
+
+</td>
+      <td valign="top" width="31">
+
+991
+
+</td>
+      <td valign="top" width="31">
+
+937
+
+</td>
+      <td width="31" valign="top">
+
+898
+
+</td>
+      <td valign="top" width="31">
+
+864
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+49
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5140
+
+</td>
+      <td valign="top" width="31">
+
+3702
+
+</td>
+      <td valign="top" width="31">
+
+2995
+
+</td>
+      <td valign="top" width="31">
+
+2536
+
+</td>
+      <td width="31" valign="top">
+
+2181
+
+</td>
+      <td valign="top" width="31">
+
+1939
+
+</td>
+      <td width="31" valign="top">
+
+1772
+
+</td>
+      <td width="31" valign="top">
+
+1642
+
+</td>
+      <td width="31" valign="top">
+
+1523
+
+</td>
+      <td width="31" valign="top">
+
+1423
+
+</td>
+      <td valign="top" width="31">
+
+1352
+
+</td>
+      <td valign="top" width="31">
+
+1271
+
+</td>
+      <td width="31" valign="top">
+
+1191
+
+</td>
+      <td width="31" valign="top">
+
+1137
+
+</td>
+      <td valign="top" width="31">
+
+1073
+
+</td>
+      <td valign="top" width="31">
+
+1018
+
+</td>
+      <td valign="top" width="31">
+
+968
+
+</td>
+      <td width="31" valign="top">
+
+929
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+50
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5245
+
+</td>
+      <td width="31" valign="top">
+
+3801
+
+</td>
+      <td width="31" valign="top">
+
+3093
+
+</td>
+      <td width="31" valign="top">
+
+2637
+
+</td>
+      <td width="31" valign="top">
+
+2305
+
+</td>
+      <td valign="top" width="31">
+
+2057
+
+</td>
+      <td valign="top" width="31">
+
+1875
+
+</td>
+      <td width="31" valign="top">
+
+1736
+
+</td>
+      <td valign="top" width="31">
+
+1618
+
+</td>
+      <td valign="top" width="31">
+
+1518
+
+</td>
+      <td width="31" valign="top">
+
+1440
+
+</td>
+      <td width="31" valign="top">
+
+1358
+
+</td>
+      <td width="31" valign="top">
+
+1285
+
+</td>
+      <td width="31" valign="top">
+
+1220
+
+</td>
+      <td valign="top" width="31">
+
+1148
+
+</td>
+      <td valign="top" width="31">
+
+1087
+
+</td>
+      <td valign="top" width="31">
+
+1037
+
+</td>
+      <td valign="top" width="31">
+
+988
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+51
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5310
+
+</td>
+      <td width="31" valign="top">
+
+3904
+
+</td>
+      <td width="31" valign="top">
+
+3198
+
+</td>
+      <td valign="top" width="31">
+
+2746
+
+</td>
+      <td valign="top" width="31">
+
+2414
+
+</td>
+      <td valign="top" width="31">
+
+2175
+
+</td>
+      <td valign="top" width="31">
+
+1984
+
+</td>
+      <td width="31" valign="top">
+
+1838
+
+</td>
+      <td valign="top" width="31">
+
+1715
+
+</td>
+      <td valign="top" width="31">
+
+1614
+
+</td>
+      <td valign="top" width="31">
+
+1527
+
+</td>
+      <td width="31" valign="top">
+
+1447
+
+</td>
+      <td valign="top" width="31">
+
+1374
+
+</td>
+      <td width="31" valign="top">
+
+1302
+
+</td>
+      <td valign="top" width="31">
+
+1226
+
+</td>
+      <td valign="top" width="31">
+
+1158
+
+</td>
+      <td valign="top" width="31">
+
+1096
+
+</td>
+      <td width="31" valign="top">
+
+1040
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+52
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+5297
+
+</td>
+      <td valign="top" width="31">
+
+3931
+
+</td>
+      <td valign="top" width="31">
+
+3260
+
+</td>
+      <td width="31" valign="top">
+
+2828
+
+</td>
+      <td width="31" valign="top">
+
+2506
+
+</td>
+      <td width="31" valign="top">
+
+2276
+
+</td>
+      <td valign="top" width="31">
+
+2082
+
+</td>
+      <td width="31" valign="top">
+
+1941
+
+</td>
+      <td valign="top" width="31">
+
+1815
+
+</td>
+      <td width="31" valign="top">
+
+1709
+
+</td>
+      <td valign="top" width="31">
+
+1623
+
+</td>
+      <td valign="top" width="31">
+
+1543
+
+</td>
+      <td valign="top" width="31">
+
+1467
+
+</td>
+      <td valign="top" width="31">
+
+1391
+
+</td>
+      <td width="31" valign="top">
+
+1318
+
+</td>
+      <td valign="top" width="31">
+
+1239
+
+</td>
+      <td valign="top" width="31">
+
+1165
+
+</td>
+      <td valign="top" width="31">
+
+1109
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+53
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+5336
+
+</td>
+      <td valign="top" width="31">
+
+3992
+
+</td>
+      <td width="31" valign="top">
+
+3361
+
+</td>
+      <td valign="top" width="31">
+
+2939
+
+</td>
+      <td width="31" valign="top">
+
+2618
+
+</td>
+      <td width="31" valign="top">
+
+2384
+
+</td>
+      <td width="31" valign="top">
+
+2198
+
+</td>
+      <td valign="top" width="31">
+
+2055
+
+</td>
+      <td width="31" valign="top">
+
+1920
+
+</td>
+      <td width="31" valign="top">
+
+1813
+
+</td>
+      <td width="31" valign="top">
+
+1724
+
+</td>
+      <td width="31" valign="top">
+
+1643
+
+</td>
+      <td width="31" valign="top">
+
+1568
+
+</td>
+      <td width="31" valign="top">
+
+1491
+
+</td>
+      <td valign="top" width="31">
+
+1407
+
+</td>
+      <td valign="top" width="31">
+
+1324
+
+</td>
+      <td width="31" valign="top">
+
+1241
+
+</td>
+      <td valign="top" width="31">
+
+1176
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+54
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+5316
+
+</td>
+      <td width="31" valign="top">
+
+3998
+
+</td>
+      <td width="31" valign="top">
+
+3395
+
+</td>
+      <td width="31" valign="top">
+
+2976
+
+</td>
+      <td valign="top" width="31">
+
+2673
+
+</td>
+      <td width="31" valign="top">
+
+2440
+
+</td>
+      <td valign="top" width="31">
+
+2252
+
+</td>
+      <td valign="top" width="31">
+
+2120
+
+</td>
+      <td valign="top" width="31">
+
+1987
+
+</td>
+      <td valign="top" width="31">
+
+1882
+
+</td>
+      <td valign="top" width="31">
+
+1793
+
+</td>
+      <td width="31" valign="top">
+
+1706
+
+</td>
+      <td valign="top" width="31">
+
+1631
+
+</td>
+      <td valign="top" width="31">
+
+1550
+
+</td>
+      <td valign="top" width="31">
+
+1457
+
+</td>
+      <td valign="top" width="31">
+
+1368
+
+</td>
+      <td width="31" valign="top">
+
+1282
+
+</td>
+      <td width="31" valign="top">
+
+1208
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+55
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5336
+
+</td>
+      <td valign="top" width="31">
+
+3875
+
+</td>
+      <td valign="top" width="31">
+
+3271
+
+</td>
+      <td valign="top" width="31">
+
+2878
+
+</td>
+      <td width="31" valign="top">
+
+2582
+
+</td>
+      <td width="31" valign="top">
+
+2367
+
+</td>
+      <td valign="top" width="31">
+
+2202
+
+</td>
+      <td width="31" valign="top">
+
+2075
+
+</td>
+      <td valign="top" width="31">
+
+1947
+
+</td>
+      <td width="31" valign="top">
+
+1842
+
+</td>
+      <td width="31" valign="top">
+
+1758
+
+</td>
+      <td width="31" valign="top">
+
+1671
+
+</td>
+      <td width="31" valign="top">
+
+1592
+
+</td>
+      <td valign="top" width="31">
+
+1514
+
+</td>
+      <td valign="top" width="31">
+
+1426
+
+</td>
+      <td valign="top" width="31">
+
+1332
+
+</td>
+      <td width="31" valign="top">
+
+1246
+
+</td>
+      <td valign="top" width="31">
+
+1175
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+56
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5375
+
+</td>
+      <td valign="top" width="31">
+
+3714
+
+</td>
+      <td width="31" valign="top">
+
+3123
+
+</td>
+      <td valign="top" width="31">
+
+2753
+
+</td>
+      <td valign="top" width="31">
+
+2474
+
+</td>
+      <td valign="top" width="31">
+
+2265
+
+</td>
+      <td valign="top" width="31">
+
+2115
+
+</td>
+      <td valign="top" width="31">
+
+2003
+
+</td>
+      <td valign="top" width="31">
+
+1890
+
+</td>
+      <td valign="top" width="31">
+
+1791
+
+</td>
+      <td width="31" valign="top">
+
+1710
+
+</td>
+      <td width="31" valign="top">
+
+1627
+
+</td>
+      <td width="31" valign="top">
+
+1546
+
+</td>
+      <td valign="top" width="31">
+
+1478
+
+</td>
+      <td width="31" valign="top">
+
+1396
+
+</td>
+      <td width="31" valign="top">
+
+1314
+
+</td>
+      <td valign="top" width="31">
+
+1236
+
+</td>
+      <td width="31" valign="top">
+
+1171
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+57
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+5422
+
+</td>
+      <td width="31" valign="top">
+
+3502
+
+</td>
+      <td valign="top" width="31">
+
+2930
+
+</td>
+      <td width="31" valign="top">
+
+2581
+
+</td>
+      <td width="31" valign="top">
+
+2322
+
+</td>
+      <td valign="top" width="31">
+
+2125
+
+</td>
+      <td valign="top" width="31">
+
+1991
+
+</td>
+      <td valign="top" width="31">
+
+1889
+
+</td>
+      <td width="31" valign="top">
+
+1788
+
+</td>
+      <td valign="top" width="31">
+
+1700
+
+</td>
+      <td valign="top" width="31">
+
+1623
+
+</td>
+      <td valign="top" width="31">
+
+1547
+
+</td>
+      <td valign="top" width="31">
+
+1469
+
+</td>
+      <td width="31" valign="top">
+
+1407
+
+</td>
+      <td valign="top" width="31">
+
+1330
+
+</td>
+      <td valign="top" width="31">
+
+1258
+
+</td>
+      <td valign="top" width="31">
+
+1187
+
+</td>
+      <td width="31" valign="top">
+
+1127
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+58
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5426
+
+</td>
+      <td valign="top" width="31">
+
+3437
+
+</td>
+      <td valign="top" width="31">
+
+2876
+
+</td>
+      <td valign="top" width="31">
+
+2544
+
+</td>
+      <td width="31" valign="top">
+
+2297
+
+</td>
+      <td width="31" valign="top">
+
+2108
+
+</td>
+      <td width="31" valign="top">
+
+1986
+
+</td>
+      <td width="31" valign="top">
+
+1894
+
+</td>
+      <td valign="top" width="31">
+
+1798
+
+</td>
+      <td valign="top" width="31">
+
+1710
+
+</td>
+      <td width="31" valign="top">
+
+1636
+
+</td>
+      <td width="31" valign="top">
+
+1558
+
+</td>
+      <td width="31" valign="top">
+
+1476
+
+</td>
+      <td width="31" valign="top">
+
+1416
+
+</td>
+      <td width="31" valign="top">
+
+1339
+
+</td>
+      <td valign="top" width="31">
+
+1263
+
+</td>
+      <td width="31" valign="top">
+
+1192
+
+</td>
+      <td width="31" valign="top">
+
+1131
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+59
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+5449
+
+</td>
+      <td valign="top" width="31">
+
+3311
+
+</td>
+      <td valign="top" width="31">
+
+2762
+
+</td>
+      <td valign="top" width="31">
+
+2450
+
+</td>
+      <td width="31" valign="top">
+
+2217
+
+</td>
+      <td valign="top" width="31">
+
+2039
+
+</td>
+      <td width="31" valign="top">
+
+1931
+
+</td>
+      <td valign="top" width="31">
+
+1849
+
+</td>
+      <td width="31" valign="top">
+
+1762
+
+</td>
+      <td width="31" valign="top">
+
+1679
+
+</td>
+      <td valign="top" width="31">
+
+1608
+
+</td>
+      <td valign="top" width="31">
+
+1530
+
+</td>
+      <td valign="top" width="31">
+
+1448
+
+</td>
+      <td width="31" valign="top">
+
+1392
+
+</td>
+      <td width="31" valign="top">
+
+1317
+
+</td>
+      <td valign="top" width="31">
+
+1245
+
+</td>
+      <td width="31" valign="top">
+
+1177
+
+</td>
+      <td width="31" valign="top">
+
+1117
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+60
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5472
+
+</td>
+      <td valign="top" width="31">
+
+3184
+
+</td>
+      <td valign="top" width="31">
+
+2649
+
+</td>
+      <td valign="top" width="31">
+
+2356
+
+</td>
+      <td width="31" valign="top">
+
+2138
+
+</td>
+      <td width="31" valign="top">
+
+1970
+
+</td>
+      <td valign="top" width="31">
+
+1876
+
+</td>
+      <td valign="top" width="31">
+
+1804
+
+</td>
+      <td width="31" valign="top">
+
+1726
+
+</td>
+      <td valign="top" width="31">
+
+1647
+
+</td>
+      <td valign="top" width="31">
+
+1579
+
+</td>
+      <td valign="top" width="31">
+
+1503
+
+</td>
+      <td width="31" valign="top">
+
+1420
+
+</td>
+      <td valign="top" width="31">
+
+1368
+
+</td>
+      <td valign="top" width="31">
+
+1296
+
+</td>
+      <td valign="top" width="31">
+
+1226
+
+</td>
+      <td valign="top" width="31">
+
+1161
+
+</td>
+      <td width="31" valign="top">
+
+1104
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+61
+
+</td>
+      <td valign="top" width="37">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+5496
+
+</td>
+      <td width="31" valign="top">
+
+3058
+
+</td>
+      <td width="31" valign="top">
+
+2536
+
+</td>
+      <td width="31" valign="top">
+
+2262
+
+</td>
+      <td width="31" valign="top">
+
+2059
+
+</td>
+      <td valign="top" width="31">
+
+1900
+
+</td>
+      <td width="31" valign="top">
+
+1821
+
+</td>
+      <td valign="top" width="31">
+
+1759
+
+</td>
+      <td width="31" valign="top">
+
+1690
+
+</td>
+      <td valign="top" width="31">
+
+1615
+
+</td>
+      <td valign="top" width="31">
+
+1551
+
+</td>
+      <td width="31" valign="top">
+
+1476
+
+</td>
+      <td width="31" valign="top">
+
+1391
+
+</td>
+      <td width="31" valign="top">
+
+1344
+
+</td>
+      <td width="31" valign="top">
+
+1274
+
+</td>
+      <td valign="top" width="31">
+
+1208
+
+</td>
+      <td valign="top" width="31">
+
+1146
+
+</td>
+      <td valign="top" width="31">
+
+1090
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+62
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5519
+
+</td>
+      <td valign="top" width="31">
+
+2931
+
+</td>
+      <td width="31" valign="top">
+
+2422
+
+</td>
+      <td valign="top" width="31">
+
+2168
+
+</td>
+      <td width="31" valign="top">
+
+1980
+
+</td>
+      <td valign="top" width="31">
+
+1831
+
+</td>
+      <td valign="top" width="31">
+
+1766
+
+</td>
+      <td valign="top" width="31">
+
+1714
+
+</td>
+      <td valign="top" width="31">
+
+1654
+
+</td>
+      <td width="31" valign="top">
+
+1584
+
+</td>
+      <td valign="top" width="31">
+
+1522
+
+</td>
+      <td width="31" valign="top">
+
+1449
+
+</td>
+      <td width="31" valign="top">
+
+1363
+
+</td>
+      <td valign="top" width="31">
+
+1320
+
+</td>
+      <td width="31" valign="top">
+
+1253
+
+</td>
+      <td width="31" valign="top">
+
+1189
+
+</td>
+      <td valign="top" width="31">
+
+1131
+
+</td>
+      <td valign="top" width="31">
+
+1077
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+63
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td valign="top" width="31">
+
+5542
+
+</td>
+      <td width="31" valign="top">
+
+2805
+
+</td>
+      <td width="31" valign="top">
+
+2309
+
+</td>
+      <td valign="top" width="31">
+
+2074
+
+</td>
+      <td width="31" valign="top">
+
+1901
+
+</td>
+      <td width="31" valign="top">
+
+1762
+
+</td>
+      <td width="31" valign="top">
+
+1711
+
+</td>
+      <td width="31" valign="top">
+
+1669
+
+</td>
+      <td width="31" valign="top">
+
+1618
+
+</td>
+      <td width="31" valign="top">
+
+1552
+
+</td>
+      <td width="31" valign="top">
+
+1494
+
+</td>
+      <td valign="top" width="31">
+
+1422
+
+</td>
+      <td width="31" valign="top">
+
+1335
+
+</td>
+      <td width="31" valign="top">
+
+1296
+
+</td>
+      <td valign="top" width="31">
+
+1231
+
+</td>
+      <td width="31" valign="top">
+
+1170
+
+</td>
+      <td width="31" valign="top">
+
+1115
+
+</td>
+      <td width="31" valign="top">
+
+1063
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+64
+
+</td>
+      <td width="37" valign="top">
+
+10000
+
+</td>
+      <td width="31" valign="top">
+
+5565
+
+</td>
+      <td width="31" valign="top">
+
+2679
+
+</td>
+      <td valign="top" width="31">
+
+2195
+
+</td>
+      <td valign="top" width="31">
+
+1980
+
+</td>
+      <td width="31" valign="top">
+
+1822
+
+</td>
+      <td valign="top" width="31">
+
+1693
+
+</td>
+      <td valign="top" width="31">
+
+1656
+
+</td>
+      <td valign="top" width="31">
+
+1624
+
+</td>
+      <td width="31" valign="top">
+
+1581
+
+</td>
+      <td valign="top" width="31">
+
+1520
+
+</td>
+      <td valign="top" width="31">
+
+1465
+
+</td>
+      <td valign="top" width="31">
+
+1395
+
+</td>
+      <td width="31" valign="top">
+
+1306
+
+</td>
+      <td valign="top" width="31">
+
+1272
+
+</td>
+      <td valign="top" width="31">
+
+1210
+
+</td>
+      <td valign="top" width="31">
+
+1152
+
+</td>
+      <td width="31" valign="top">
+
+1100
+
+</td>
+      <td width="31" valign="top">
+
+1050
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+.
+
+<table border="1">
+  <thead>
+    <tr>
+      <td>
+
+Age
+
+</td>
+      <td valign="bottom" nowrap="nowrap" colspan="18">
+
+Mois
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+      </td><td nowrap="nowrap" valign="bottom">
+
+19
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+20
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+21
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+22
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+23
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+24
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+25
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+26
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+27
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+28
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+29
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+30
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+31
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+32
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+33
+
+</td>
+      <td valign="bottom" nowrap="nowrap">
+
+34
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+35
+
+</td>
+      <td nowrap="nowrap" valign="bottom">
+
+36
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+23 ans ou moins
+
+</td>
+      <td width="31" valign="top">
+
+98
+
+</td>
+      <td width="31" valign="top">
+
+94
+
+</td>
+      <td valign="top" width="35">
+
+91
+
+</td>
+      <td valign="top" width="35">
+
+87
+
+</td>
+      <td valign="top" width="35">
+
+84
+
+</td>
+      <td width="35" valign="top">
+
+80
+
+</td>
+      <td valign="top" width="35">
+
+76
+
+</td>
+      <td width="35" valign="top">
+
+76
+
+</td>
+      <td valign="top" width="35">
+
+74
+
+</td>
+      <td valign="top" width="35">
+
+72
+
+</td>
+      <td valign="top" width="35">
+
+68
+
+</td>
+      <td width="35" valign="top">
+
+68
+
+</td>
+      <td valign="top" width="35">
+
+65
+
+</td>
+      <td width="35" valign="top">
+
+63
+
+</td>
+      <td valign="top" width="35">
+
+62
+
+</td>
+      <td valign="top" width="35">
+
+58
+
+</td>
+      <td valign="top" width="35">
+
+55
+
+</td>
+      <td valign="top" width="35">
+
+15
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+24
+
+</td>
+      <td valign="top" width="31">
+
+91
+
+</td>
+      <td valign="top" width="31">
+
+88
+
+</td>
+      <td valign="top" width="35">
+
+87
+
+</td>
+      <td valign="top" width="35">
+
+84
+
+</td>
+      <td valign="top" width="35">
+
+82
+
+</td>
+      <td width="35" valign="top">
+
+79
+
+</td>
+      <td width="35" valign="top">
+
+74
+
+</td>
+      <td width="35" valign="top">
+
+72
+
+</td>
+      <td valign="top" width="35">
+
+68
+
+</td>
+      <td width="35" valign="top">
+
+67
+
+</td>
+      <td width="35" valign="top">
+
+62
+
+</td>
+      <td width="35" valign="top">
+
+62
+
+</td>
+      <td width="35" valign="top">
+
+58
+
+</td>
+      <td valign="top" width="35">
+
+57
+
+</td>
+      <td valign="top" width="35">
+
+55
+
+</td>
+      <td width="35" valign="top">
+
+52
+
+</td>
+      <td valign="top" width="35">
+
+46
+
+</td>
+      <td width="35" valign="top">
+
+14
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+25
+
+</td>
+      <td valign="top" width="31">
+
+113
+
+</td>
+      <td valign="top" width="31">
+
+110
+
+</td>
+      <td valign="top" width="35">
+
+106
+
+</td>
+      <td width="35" valign="top">
+
+102
+
+</td>
+      <td width="35" valign="top">
+
+97
+
+</td>
+      <td width="35" valign="top">
+
+92
+
+</td>
+      <td width="35" valign="top">
+
+87
+
+</td>
+      <td valign="top" width="35">
+
+83
+
+</td>
+      <td valign="top" width="35">
+
+78
+
+</td>
+      <td width="35" valign="top">
+
+76
+
+</td>
+      <td width="35" valign="top">
+
+73
+
+</td>
+      <td width="35" valign="top">
+
+73
+
+</td>
+      <td width="35" valign="top">
+
+70
+
+</td>
+      <td width="35" valign="top">
+
+67
+
+</td>
+      <td valign="top" width="35">
+
+66
+
+</td>
+      <td valign="top" width="35">
+
+63
+
+</td>
+      <td valign="top" width="35">
+
+58
+
+</td>
+      <td width="35" valign="top">
+
+16
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+26
+
+</td>
+      <td width="31" valign="top">
+
+129
+
+</td>
+      <td valign="top" width="31">
+
+124
+
+</td>
+      <td valign="top" width="35">
+
+119
+
+</td>
+      <td width="35" valign="top">
+
+114
+
+</td>
+      <td width="35" valign="top">
+
+107
+
+</td>
+      <td valign="top" width="35">
+
+102
+
+</td>
+      <td width="35" valign="top">
+
+95
+
+</td>
+      <td valign="top" width="35">
+
+91
+
+</td>
+      <td width="35" valign="top">
+
+89
+
+</td>
+      <td width="35" valign="top">
+
+87
+
+</td>
+      <td width="35" valign="top">
+
+82
+
+</td>
+      <td width="35" valign="top">
+
+81
+
+</td>
+      <td width="35" valign="top">
+
+78
+
+</td>
+      <td valign="top" width="35">
+
+76
+
+</td>
+      <td width="35" valign="top">
+
+73
+
+</td>
+      <td valign="top" width="35">
+
+69
+
+</td>
+      <td width="35" valign="top">
+
+63
+
+</td>
+      <td valign="top" width="35">
+
+23
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+27
+
+</td>
+      <td width="31" valign="top">
+
+159
+
+</td>
+      <td width="31" valign="top">
+
+151
+
+</td>
+      <td width="35" valign="top">
+
+144
+
+</td>
+      <td valign="top" width="35">
+
+140
+
+</td>
+      <td width="35" valign="top">
+
+134
+
+</td>
+      <td valign="top" width="35">
+
+128
+
+</td>
+      <td width="35" valign="top">
+
+118
+
+</td>
+      <td width="35" valign="top">
+
+111
+
+</td>
+      <td valign="top" width="35">
+
+108
+
+</td>
+      <td valign="top" width="35">
+
+104
+
+</td>
+      <td width="35" valign="top">
+
+97
+
+</td>
+      <td width="35" valign="top">
+
+93
+
+</td>
+      <td valign="top" width="35">
+
+90
+
+</td>
+      <td valign="top" width="35">
+
+88
+
+</td>
+      <td width="35" valign="top">
+
+85
+
+</td>
+      <td valign="top" width="35">
+
+81
+
+</td>
+      <td width="35" valign="top">
+
+74
+
+</td>
+      <td valign="top" width="35">
+
+28
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+28
+
+</td>
+      <td width="31" valign="top">
+
+189
+
+</td>
+      <td width="31" valign="top">
+
+180
+
+</td>
+      <td width="35" valign="top">
+
+172
+
+</td>
+      <td valign="top" width="35">
+
+167
+
+</td>
+      <td width="35" valign="top">
+
+160
+
+</td>
+      <td width="35" valign="top">
+
+153
+
+</td>
+      <td valign="top" width="35">
+
+143
+
+</td>
+      <td width="35" valign="top">
+
+132
+
+</td>
+      <td valign="top" width="35">
+
+128
+
+</td>
+      <td width="35" valign="top">
+
+120
+
+</td>
+      <td width="35" valign="top">
+
+112
+
+</td>
+      <td width="35" valign="top">
+
+105
+
+</td>
+      <td width="35" valign="top">
+
+103
+
+</td>
+      <td valign="top" width="35">
+
+99
+
+</td>
+      <td width="35" valign="top">
+
+96
+
+</td>
+      <td width="35" valign="top">
+
+90
+
+</td>
+      <td valign="top" width="35">
+
+82
+
+</td>
+      <td valign="top" width="35">
+
+33
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+29
+
+</td>
+      <td width="31" valign="top">
+
+208
+
+</td>
+      <td valign="top" width="31">
+
+199
+
+</td>
+      <td width="35" valign="top">
+
+190
+
+</td>
+      <td valign="top" width="35">
+
+184
+
+</td>
+      <td valign="top" width="35">
+
+175
+
+</td>
+      <td valign="top" width="35">
+
+168
+
+</td>
+      <td valign="top" width="35">
+
+159
+
+</td>
+      <td width="35" valign="top">
+
+147
+
+</td>
+      <td width="35" valign="top">
+
+143
+
+</td>
+      <td width="35" valign="top">
+
+133
+
+</td>
+      <td width="35" valign="top">
+
+125
+
+</td>
+      <td valign="top" width="35">
+
+118
+
+</td>
+      <td valign="top" width="35">
+
+113
+
+</td>
+      <td width="35" valign="top">
+
+109
+
+</td>
+      <td valign="top" width="35">
+
+106
+
+</td>
+      <td width="35" valign="top">
+
+98
+
+</td>
+      <td width="35" valign="top">
+
+91
+
+</td>
+      <td width="35" valign="top">
+
+35
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+30
+
+</td>
+      <td valign="top" width="31">
+
+214
+
+</td>
+      <td width="31" valign="top">
+
+202
+
+</td>
+      <td valign="top" width="35">
+
+193
+
+</td>
+      <td valign="top" width="35">
+
+185
+
+</td>
+      <td width="35" valign="top">
+
+177
+
+</td>
+      <td valign="top" width="35">
+
+171
+
+</td>
+      <td width="35" valign="top">
+
+161
+
+</td>
+      <td valign="top" width="35">
+
+149
+
+</td>
+      <td valign="top" width="35">
+
+143
+
+</td>
+      <td valign="top" width="35">
+
+134
+
+</td>
+      <td valign="top" width="35">
+
+125
+
+</td>
+      <td valign="top" width="35">
+
+117
+
+</td>
+      <td valign="top" width="35">
+
+111
+
+</td>
+      <td width="35" valign="top">
+
+108
+
+</td>
+      <td valign="top" width="35">
+
+105
+
+</td>
+      <td valign="top" width="35">
+
+97
+
+</td>
+      <td width="35" valign="top">
+
+89
+
+</td>
+      <td width="35" valign="top">
+
+34
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+31
+
+</td>
+      <td valign="top" width="31">
+
+223
+
+</td>
+      <td width="31" valign="top">
+
+212
+
+</td>
+      <td valign="top" width="35">
+
+204
+
+</td>
+      <td width="35" valign="top">
+
+194
+
+</td>
+      <td valign="top" width="35">
+
+186
+
+</td>
+      <td valign="top" width="35">
+
+179
+
+</td>
+      <td width="35" valign="top">
+
+172
+
+</td>
+      <td width="35" valign="top">
+
+159
+
+</td>
+      <td width="35" valign="top">
+
+154
+
+</td>
+      <td valign="top" width="35">
+
+141
+
+</td>
+      <td width="35" valign="top">
+
+131
+
+</td>
+      <td width="35" valign="top">
+
+121
+
+</td>
+      <td valign="top" width="35">
+
+114
+
+</td>
+      <td valign="top" width="35">
+
+111
+
+</td>
+      <td valign="top" width="35">
+
+108
+
+</td>
+      <td valign="top" width="35">
+
+101
+
+</td>
+      <td width="35" valign="top">
+
+93
+
+</td>
+      <td valign="top" width="35">
+
+30
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+32
+
+</td>
+      <td width="31" valign="top">
+
+222
+
+</td>
+      <td valign="top" width="31">
+
+211
+
+</td>
+      <td width="35" valign="top">
+
+202
+
+</td>
+      <td valign="top" width="35">
+
+192
+
+</td>
+      <td width="35" valign="top">
+
+183
+
+</td>
+      <td valign="top" width="35">
+
+176
+
+</td>
+      <td width="35" valign="top">
+
+170
+
+</td>
+      <td valign="top" width="35">
+
+159
+
+</td>
+      <td valign="top" width="35">
+
+153
+
+</td>
+      <td width="35" valign="top">
+
+137
+
+</td>
+      <td valign="top" width="35">
+
+127
+
+</td>
+      <td valign="top" width="35">
+
+118
+
+</td>
+      <td valign="top" width="35">
+
+110
+
+</td>
+      <td valign="top" width="35">
+
+106
+
+</td>
+      <td valign="top" width="35">
+
+102
+
+</td>
+      <td width="35" valign="top">
+
+96
+
+</td>
+      <td valign="top" width="35">
+
+89
+
+</td>
+      <td width="35" valign="top">
+
+25
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+33
+
+</td>
+      <td width="31" valign="top">
+
+223
+
+</td>
+      <td width="31" valign="top">
+
+212
+
+</td>
+      <td width="35" valign="top">
+
+202
+
+</td>
+      <td width="35" valign="top">
+
+191
+
+</td>
+      <td valign="top" width="35">
+
+181
+
+</td>
+      <td valign="top" width="35">
+
+172
+
+</td>
+      <td valign="top" width="35">
+
+162
+
+</td>
+      <td valign="top" width="35">
+
+154
+
+</td>
+      <td width="35" valign="top">
+
+146
+
+</td>
+      <td valign="top" width="35">
+
+134
+
+</td>
+      <td valign="top" width="35">
+
+122
+
+</td>
+      <td valign="top" width="35">
+
+117
+
+</td>
+      <td valign="top" width="35">
+
+105
+
+</td>
+      <td valign="top" width="35">
+
+100
+
+</td>
+      <td width="35" valign="top">
+
+98
+
+</td>
+      <td valign="top" width="35">
+
+94
+
+</td>
+      <td valign="top" width="35">
+
+88
+
+</td>
+      <td width="35" valign="top">
+
+18
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+34
+
+</td>
+      <td width="31" valign="top">
+
+247
+
+</td>
+      <td width="31" valign="top">
+
+233
+
+</td>
+      <td valign="top" width="35">
+
+220
+
+</td>
+      <td width="35" valign="top">
+
+207
+
+</td>
+      <td valign="top" width="35">
+
+197
+
+</td>
+      <td valign="top" width="35">
+
+186
+
+</td>
+      <td width="35" valign="top">
+
+175
+
+</td>
+      <td valign="top" width="35">
+
+167
+
+</td>
+      <td valign="top" width="35">
+
+158
+
+</td>
+      <td valign="top" width="35">
+
+146
+
+</td>
+      <td valign="top" width="35">
+
+134
+
+</td>
+      <td width="35" valign="top">
+
+126
+
+</td>
+      <td valign="top" width="35">
+
+117
+
+</td>
+      <td width="35" valign="top">
+
+110
+
+</td>
+      <td width="35" valign="top">
+
+106
+
+</td>
+      <td valign="top" width="35">
+
+101
+
+</td>
+      <td width="35" valign="top">
+
+96
+
+</td>
+      <td width="35" valign="top">
+
+21
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+35
+
+</td>
+      <td width="31" valign="top">
+
+275
+
+</td>
+      <td valign="top" width="31">
+
+261
+
+</td>
+      <td valign="top" width="35">
+
+246
+
+</td>
+      <td valign="top" width="35">
+
+234
+
+</td>
+      <td width="35" valign="top">
+
+220
+
+</td>
+      <td valign="top" width="35">
+
+207
+
+</td>
+      <td width="35" valign="top">
+
+199
+
+</td>
+      <td valign="top" width="35">
+
+191
+
+</td>
+      <td width="35" valign="top">
+
+179
+
+</td>
+      <td width="35" valign="top">
+
+166
+
+</td>
+      <td valign="top" width="35">
+
+153
+
+</td>
+      <td width="35" valign="top">
+
+146
+
+</td>
+      <td width="35" valign="top">
+
+135
+
+</td>
+      <td width="35" valign="top">
+
+126
+
+</td>
+      <td valign="top" width="35">
+
+121
+
+</td>
+      <td width="35" valign="top">
+
+115
+
+</td>
+      <td valign="top" width="35">
+
+109
+
+</td>
+      <td valign="top" width="35">
+
+24
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+36
+
+</td>
+      <td valign="top" width="31">
+
+287
+
+</td>
+      <td width="31" valign="top">
+
+273
+
+</td>
+      <td width="35" valign="top">
+
+255
+
+</td>
+      <td valign="top" width="35">
+
+246
+
+</td>
+      <td valign="top" width="35">
+
+230
+
+</td>
+      <td valign="top" width="35">
+
+217
+
+</td>
+      <td valign="top" width="35">
+
+208
+
+</td>
+      <td width="35" valign="top">
+
+199
+
+</td>
+      <td valign="top" width="35">
+
+186
+
+</td>
+      <td width="35" valign="top">
+
+174
+
+</td>
+      <td valign="top" width="35">
+
+160
+
+</td>
+      <td width="35" valign="top">
+
+153
+
+</td>
+      <td width="35" valign="top">
+
+142
+
+</td>
+      <td valign="top" width="35">
+
+132
+
+</td>
+      <td valign="top" width="35">
+
+128
+
+</td>
+      <td valign="top" width="35">
+
+120
+
+</td>
+      <td width="35" valign="top">
+
+114
+
+</td>
+      <td valign="top" width="35">
+
+23
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+37
+
+</td>
+      <td valign="top" width="31">
+
+298
+
+</td>
+      <td valign="top" width="31">
+
+279
+
+</td>
+      <td valign="top" width="35">
+
+263
+
+</td>
+      <td valign="top" width="35">
+
+252
+
+</td>
+      <td width="35" valign="top">
+
+235
+
+</td>
+      <td valign="top" width="35">
+
+222
+
+</td>
+      <td width="35" valign="top">
+
+212
+
+</td>
+      <td width="35" valign="top">
+
+204
+
+</td>
+      <td width="35" valign="top">
+
+191
+
+</td>
+      <td width="35" valign="top">
+
+181
+
+</td>
+      <td width="35" valign="top">
+
+167
+
+</td>
+      <td valign="top" width="35">
+
+161
+
+</td>
+      <td width="35" valign="top">
+
+149
+
+</td>
+      <td valign="top" width="35">
+
+135
+
+</td>
+      <td valign="top" width="35">
+
+130
+
+</td>
+      <td width="35" valign="top">
+
+123
+
+</td>
+      <td valign="top" width="35">
+
+114
+
+</td>
+      <td valign="top" width="35">
+
+19
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+38
+
+</td>
+      <td valign="top" width="31">
+
+319
+
+</td>
+      <td valign="top" width="31">
+
+299
+
+</td>
+      <td valign="top" width="35">
+
+282
+
+</td>
+      <td valign="top" width="35">
+
+270
+
+</td>
+      <td width="35" valign="top">
+
+252
+
+</td>
+      <td valign="top" width="35">
+
+242
+
+</td>
+      <td valign="top" width="35">
+
+235
+
+</td>
+      <td width="35" valign="top">
+
+229
+
+</td>
+      <td valign="top" width="35">
+
+217
+
+</td>
+      <td valign="top" width="35">
+
+203
+
+</td>
+      <td width="35" valign="top">
+
+188
+
+</td>
+      <td valign="top" width="35">
+
+180
+
+</td>
+      <td valign="top" width="35">
+
+167
+
+</td>
+      <td valign="top" width="35">
+
+154
+
+</td>
+      <td width="35" valign="top">
+
+148
+
+</td>
+      <td width="35" valign="top">
+
+141
+
+</td>
+      <td width="35" valign="top">
+
+131
+
+</td>
+      <td valign="top" width="35">
+
+21
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+39
+
+</td>
+      <td width="31" valign="top">
+
+364
+
+</td>
+      <td width="31" valign="top">
+
+343
+
+</td>
+      <td width="35" valign="top">
+
+329
+
+</td>
+      <td width="35" valign="top">
+
+314
+
+</td>
+      <td width="35" valign="top">
+
+294
+
+</td>
+      <td width="35" valign="top">
+
+279
+
+</td>
+      <td width="35" valign="top">
+
+268
+
+</td>
+      <td valign="top" width="35">
+
+260
+
+</td>
+      <td valign="top" width="35">
+
+248
+
+</td>
+      <td valign="top" width="35">
+
+234
+
+</td>
+      <td width="35" valign="top">
+
+215
+
+</td>
+      <td width="35" valign="top">
+
+207
+
+</td>
+      <td width="35" valign="top">
+
+189
+
+</td>
+      <td valign="top" width="35">
+
+177
+
+</td>
+      <td valign="top" width="35">
+
+170
+
+</td>
+      <td width="35" valign="top">
+
+162
+
+</td>
+      <td valign="top" width="35">
+
+148
+
+</td>
+      <td width="35" valign="top">
+
+24
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+40
+
+</td>
+      <td valign="top" width="31">
+
+384
+
+</td>
+      <td valign="top" width="31">
+
+362
+
+</td>
+      <td width="35" valign="top">
+
+349
+
+</td>
+      <td valign="top" width="35">
+
+332
+
+</td>
+      <td valign="top" width="35">
+
+313
+
+</td>
+      <td width="35" valign="top">
+
+295
+
+</td>
+      <td valign="top" width="35">
+
+281
+
+</td>
+      <td valign="top" width="35">
+
+272
+
+</td>
+      <td valign="top" width="35">
+
+263
+
+</td>
+      <td width="35" valign="top">
+
+246
+
+</td>
+      <td valign="top" width="35">
+
+228
+
+</td>
+      <td valign="top" width="35">
+
+214
+
+</td>
+      <td width="35" valign="top">
+
+195
+
+</td>
+      <td valign="top" width="35">
+
+184
+
+</td>
+      <td valign="top" width="35">
+
+178
+
+</td>
+      <td width="35" valign="top">
+
+171
+
+</td>
+      <td valign="top" width="35">
+
+156
+
+</td>
+      <td width="35" valign="top">
+
+21
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+41
+
+</td>
+      <td width="31" valign="top">
+
+433
+
+</td>
+      <td width="31" valign="top">
+
+407
+
+</td>
+      <td valign="top" width="35">
+
+393
+
+</td>
+      <td width="35" valign="top">
+
+372
+
+</td>
+      <td valign="top" width="35">
+
+352
+
+</td>
+      <td width="35" valign="top">
+
+330
+
+</td>
+      <td width="35" valign="top">
+
+314
+
+</td>
+      <td width="35" valign="top">
+
+304
+
+</td>
+      <td width="35" valign="top">
+
+295
+
+</td>
+      <td valign="top" width="35">
+
+276
+
+</td>
+      <td width="35" valign="top">
+
+260
+
+</td>
+      <td valign="top" width="35">
+
+244
+
+</td>
+      <td width="35" valign="top">
+
+224
+
+</td>
+      <td valign="top" width="35">
+
+213
+
+</td>
+      <td valign="top" width="35">
+
+205
+
+</td>
+      <td valign="top" width="35">
+
+194
+
+</td>
+      <td width="35" valign="top">
+
+182
+
+</td>
+      <td valign="top" width="35">
+
+19
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+42
+
+</td>
+      <td valign="top" width="31">
+
+499
+
+</td>
+      <td width="31" valign="top">
+
+476
+
+</td>
+      <td valign="top" width="35">
+
+457
+
+</td>
+      <td width="35" valign="top">
+
+432
+
+</td>
+      <td width="35" valign="top">
+
+411
+
+</td>
+      <td width="35" valign="top">
+
+381
+
+</td>
+      <td valign="top" width="35">
+
+364
+
+</td>
+      <td valign="top" width="35">
+
+353
+
+</td>
+      <td valign="top" width="35">
+
+340
+
+</td>
+      <td valign="top" width="35">
+
+322
+
+</td>
+      <td valign="top" width="35">
+
+300
+
+</td>
+      <td valign="top" width="35">
+
+280
+
+</td>
+      <td valign="top" width="35">
+
+257
+
+</td>
+      <td valign="top" width="35">
+
+247
+
+</td>
+      <td valign="top" width="35">
+
+236
+
+</td>
+      <td width="35" valign="top">
+
+223
+
+</td>
+      <td width="35" valign="top">
+
+213
+
+</td>
+      <td width="35" valign="top">
+
+26
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+43
+
+</td>
+      <td width="31" valign="top">
+
+558
+
+</td>
+      <td width="31" valign="top">
+
+532
+
+</td>
+      <td valign="top" width="35">
+
+513
+
+</td>
+      <td width="35" valign="top">
+
+488
+
+</td>
+      <td valign="top" width="35">
+
+464
+
+</td>
+      <td valign="top" width="35">
+
+432
+
+</td>
+      <td valign="top" width="35">
+
+409
+
+</td>
+      <td width="35" valign="top">
+
+396
+
+</td>
+      <td valign="top" width="35">
+
+378
+
+</td>
+      <td valign="top" width="35">
+
+362
+
+</td>
+      <td valign="top" width="35">
+
+337
+
+</td>
+      <td width="35" valign="top">
+
+311
+
+</td>
+      <td width="35" valign="top">
+
+290
+
+</td>
+      <td valign="top" width="35">
+
+278
+
+</td>
+      <td width="35" valign="top">
+
+263
+
+</td>
+      <td valign="top" width="35">
+
+244
+
+</td>
+      <td valign="top" width="35">
+
+231
+
+</td>
+      <td width="35" valign="top">
+
+35
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+44
+
+</td>
+      <td width="31" valign="top">
+
+581
+
+</td>
+      <td valign="top" width="31">
+
+555
+
+</td>
+      <td width="35" valign="top">
+
+531
+
+</td>
+      <td width="35" valign="top">
+
+503
+
+</td>
+      <td valign="top" width="35">
+
+479
+
+</td>
+      <td valign="top" width="35">
+
+453
+
+</td>
+      <td valign="top" width="35">
+
+431
+
+</td>
+      <td valign="top" width="35">
+
+417
+
+</td>
+      <td width="35" valign="top">
+
+396
+
+</td>
+      <td width="35" valign="top">
+
+379
+
+</td>
+      <td valign="top" width="35">
+
+353
+
+</td>
+      <td valign="top" width="35">
+
+323
+
+</td>
+      <td width="35" valign="top">
+
+302
+
+</td>
+      <td width="35" valign="top">
+
+287
+
+</td>
+      <td width="35" valign="top">
+
+273
+
+</td>
+      <td valign="top" width="35">
+
+254
+
+</td>
+      <td valign="top" width="35">
+
+241
+
+</td>
+      <td width="35" valign="top">
+
+26
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+45
+
+</td>
+      <td width="31" valign="top">
+
+642
+
+</td>
+      <td valign="top" width="31">
+
+614
+
+</td>
+      <td width="35" valign="top">
+
+588
+
+</td>
+      <td width="35" valign="top">
+
+559
+
+</td>
+      <td width="35" valign="top">
+
+536
+
+</td>
+      <td width="35" valign="top">
+
+509
+
+</td>
+      <td valign="top" width="35">
+
+488
+
+</td>
+      <td width="35" valign="top">
+
+466
+
+</td>
+      <td width="35" valign="top">
+
+442
+
+</td>
+      <td width="35" valign="top">
+
+421
+
+</td>
+      <td valign="top" width="35">
+
+393
+
+</td>
+      <td width="35" valign="top">
+
+363
+
+</td>
+      <td width="35" valign="top">
+
+344
+
+</td>
+      <td width="35" valign="top">
+
+328
+
+</td>
+      <td valign="top" width="35">
+
+310
+
+</td>
+      <td valign="top" width="35">
+
+286
+
+</td>
+      <td width="35" valign="top">
+
+264
+
+</td>
+      <td valign="top" width="35">
+
+33
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+46
+
+</td>
+      <td valign="top" width="31">
+
+690
+
+</td>
+      <td width="31" valign="top">
+
+658
+
+</td>
+      <td width="35" valign="top">
+
+632
+
+</td>
+      <td width="35" valign="top">
+
+602
+
+</td>
+      <td width="35" valign="top">
+
+573
+
+</td>
+      <td width="35" valign="top">
+
+547
+
+</td>
+      <td valign="top" width="35">
+
+520
+
+</td>
+      <td valign="top" width="35">
+
+492
+
+</td>
+      <td width="35" valign="top">
+
+463
+
+</td>
+      <td valign="top" width="35">
+
+441
+
+</td>
+      <td width="35" valign="top">
+
+412
+
+</td>
+      <td valign="top" width="35">
+
+380
+
+</td>
+      <td width="35" valign="top">
+
+360
+
+</td>
+      <td valign="top" width="35">
+
+343
+
+</td>
+      <td valign="top" width="35">
+
+320
+
+</td>
+      <td valign="top" width="35">
+
+297
+
+</td>
+      <td valign="top" width="35">
+
+273
+
+</td>
+      <td valign="top" width="35">
+
+45
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+47
+
+</td>
+      <td valign="top" width="31">
+
+741
+
+</td>
+      <td width="31" valign="top">
+
+705
+
+</td>
+      <td valign="top" width="35">
+
+675
+
+</td>
+      <td width="35" valign="top">
+
+636
+
+</td>
+      <td width="35" valign="top">
+
+601
+
+</td>
+      <td width="35" valign="top">
+
+574
+
+</td>
+      <td valign="top" width="35">
+
+543
+
+</td>
+      <td valign="top" width="35">
+
+509
+
+</td>
+      <td width="35" valign="top">
+
+483
+
+</td>
+      <td width="35" valign="top">
+
+462
+
+</td>
+      <td valign="top" width="35">
+
+435
+
+</td>
+      <td width="35" valign="top">
+
+404
+
+</td>
+      <td width="35" valign="top">
+
+387
+
+</td>
+      <td valign="top" width="35">
+
+369
+
+</td>
+      <td valign="top" width="35">
+
+347
+
+</td>
+      <td valign="top" width="35">
+
+321
+
+</td>
+      <td valign="top" width="35">
+
+292
+
+</td>
+      <td width="35" valign="top">
+
+46
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+48
+
+</td>
+      <td width="31" valign="top">
+
+813
+
+</td>
+      <td valign="top" width="31">
+
+779
+
+</td>
+      <td valign="top" width="35">
+
+744
+
+</td>
+      <td width="35" valign="top">
+
+697
+
+</td>
+      <td valign="top" width="35">
+
+655
+
+</td>
+      <td valign="top" width="35">
+
+623
+
+</td>
+      <td width="35" valign="top">
+
+588
+
+</td>
+      <td valign="top" width="35">
+
+549
+
+</td>
+      <td width="35" valign="top">
+
+520
+
+</td>
+      <td width="35" valign="top">
+
+494
+
+</td>
+      <td width="35" valign="top">
+
+470
+
+</td>
+      <td width="35" valign="top">
+
+438
+
+</td>
+      <td width="35" valign="top">
+
+414
+
+</td>
+      <td width="35" valign="top">
+
+389
+
+</td>
+      <td width="35" valign="top">
+
+359
+
+</td>
+      <td valign="top" width="35">
+
+338
+
+</td>
+      <td valign="top" width="35">
+
+311
+
+</td>
+      <td valign="top" width="35">
+
+45
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+49
+
+</td>
+      <td valign="top" width="31">
+
+881
+
+</td>
+      <td valign="top" width="31">
+
+837
+
+</td>
+      <td valign="top" width="35">
+
+798
+
+</td>
+      <td valign="top" width="35">
+
+749
+
+</td>
+      <td width="35" valign="top">
+
+699
+
+</td>
+      <td width="35" valign="top">
+
+667
+
+</td>
+      <td valign="top" width="35">
+
+629
+
+</td>
+      <td valign="top" width="35">
+
+586
+
+</td>
+      <td width="35" valign="top">
+
+557
+
+</td>
+      <td width="35" valign="top">
+
+525
+
+</td>
+      <td valign="top" width="35">
+
+497
+
+</td>
+      <td valign="top" width="35">
+
+470
+
+</td>
+      <td valign="top" width="35">
+
+448
+
+</td>
+      <td valign="top" width="35">
+
+419
+
+</td>
+      <td valign="top" width="35">
+
+384
+
+</td>
+      <td valign="top" width="35">
+
+358
+
+</td>
+      <td width="35" valign="top">
+
+334
+
+</td>
+      <td valign="top" width="35">
+
+51
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+50
+
+</td>
+      <td width="31" valign="top">
+
+945
+
+</td>
+      <td width="31" valign="top">
+
+898
+
+</td>
+      <td width="35" valign="top">
+
+847
+
+</td>
+      <td width="35" valign="top">
+
+794
+
+</td>
+      <td valign="top" width="35">
+
+739
+
+</td>
+      <td width="35" valign="top">
+
+697
+
+</td>
+      <td width="35" valign="top">
+
+649
+
+</td>
+      <td width="35" valign="top">
+
+609
+
+</td>
+      <td valign="top" width="35">
+
+567
+
+</td>
+      <td valign="top" width="35">
+
+538
+
+</td>
+      <td width="35" valign="top">
+
+505
+
+</td>
+      <td width="35" valign="top">
+
+483
+
+</td>
+      <td valign="top" width="35">
+
+455
+
+</td>
+      <td width="35" valign="top">
+
+427
+
+</td>
+      <td valign="top" width="35">
+
+391
+
+</td>
+      <td width="35" valign="top">
+
+367
+
+</td>
+      <td valign="top" width="35">
+
+345
+
+</td>
+      <td width="35" valign="top">
+
+51
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+51
+
+</td>
+      <td valign="top" width="31">
+
+995
+
+</td>
+      <td width="31" valign="top">
+
+943
+
+</td>
+      <td valign="top" width="35">
+
+883
+
+</td>
+      <td width="35" valign="top">
+
+827
+
+</td>
+      <td valign="top" width="35">
+
+776
+
+</td>
+      <td width="35" valign="top">
+
+732
+
+</td>
+      <td width="35" valign="top">
+
+685
+
+</td>
+      <td width="35" valign="top">
+
+646
+
+</td>
+      <td width="35" valign="top">
+
+607
+
+</td>
+      <td width="35" valign="top">
+
+572
+
+</td>
+      <td width="35" valign="top">
+
+536
+
+</td>
+      <td valign="top" width="35">
+
+514
+
+</td>
+      <td width="35" valign="top">
+
+482
+
+</td>
+      <td width="35" valign="top">
+
+451
+
+</td>
+      <td width="35" valign="top">
+
+414
+
+</td>
+      <td width="35" valign="top">
+
+389
+
+</td>
+      <td valign="top" width="35">
+
+366
+
+</td>
+      <td width="35" valign="top">
+
+42
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+52
+
+</td>
+      <td valign="top" width="31">
+
+1063
+
+</td>
+      <td width="31" valign="top">
+
+1009
+
+</td>
+      <td width="35" valign="top">
+
+950
+
+</td>
+      <td width="35" valign="top">
+
+895
+
+</td>
+      <td valign="top" width="35">
+
+843
+
+</td>
+      <td width="35" valign="top">
+
+796
+
+</td>
+      <td valign="top" width="35">
+
+741
+
+</td>
+      <td width="35" valign="top">
+
+705
+
+</td>
+      <td width="35" valign="top">
+
+652
+
+</td>
+      <td width="35" valign="top">
+
+615
+
+</td>
+      <td valign="top" width="35">
+
+572
+
+</td>
+      <td valign="top" width="35">
+
+543
+
+</td>
+      <td valign="top" width="35">
+
+512
+
+</td>
+      <td width="35" valign="top">
+
+480
+
+</td>
+      <td width="35" valign="top">
+
+432
+
+</td>
+      <td valign="top" width="35">
+
+404
+
+</td>
+      <td valign="top" width="35">
+
+383
+
+</td>
+      <td width="35" valign="top">
+
+49
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+53
+
+</td>
+      <td valign="top" width="31">
+
+1121
+
+</td>
+      <td valign="top" width="31">
+
+1058
+
+</td>
+      <td valign="top" width="35">
+
+994
+
+</td>
+      <td valign="top" width="35">
+
+932
+
+</td>
+      <td width="35" valign="top">
+
+879
+
+</td>
+      <td width="35" valign="top">
+
+829
+
+</td>
+      <td width="35" valign="top">
+
+771
+
+</td>
+      <td width="35" valign="top">
+
+735
+
+</td>
+      <td width="35" valign="top">
+
+672
+
+</td>
+      <td width="35" valign="top">
+
+632
+
+</td>
+      <td valign="top" width="35">
+
+582
+
+</td>
+      <td width="35" valign="top">
+
+556
+
+</td>
+      <td valign="top" width="35">
+
+521
+
+</td>
+      <td width="35" valign="top">
+
+490
+
+</td>
+      <td valign="top" width="35">
+
+443
+
+</td>
+      <td width="35" valign="top">
+
+412
+
+</td>
+      <td width="35" valign="top">
+
+387
+
+</td>
+      <td valign="top" width="35">
+
+48
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+54
+
+</td>
+      <td valign="top" width="31">
+
+1145
+
+</td>
+      <td valign="top" width="31">
+
+1090
+
+</td>
+      <td valign="top" width="35">
+
+1023
+
+</td>
+      <td width="35" valign="top">
+
+956
+
+</td>
+      <td valign="top" width="35">
+
+903
+
+</td>
+      <td valign="top" width="35">
+
+840
+
+</td>
+      <td valign="top" width="35">
+
+779
+
+</td>
+      <td valign="top" width="35">
+
+739
+
+</td>
+      <td valign="top" width="35">
+
+677
+
+</td>
+      <td width="35" valign="top">
+
+638
+
+</td>
+      <td valign="top" width="35">
+
+591
+
+</td>
+      <td width="35" valign="top">
+
+565
+
+</td>
+      <td width="35" valign="top">
+
+532
+
+</td>
+      <td width="35" valign="top">
+
+504
+
+</td>
+      <td valign="top" width="35">
+
+463
+
+</td>
+      <td width="35" valign="top">
+
+433
+
+</td>
+      <td valign="top" width="35">
+
+409
+
+</td>
+      <td width="35" valign="top">
+
+44
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+55
+
+</td>
+      <td valign="top" width="31">
+
+1111
+
+</td>
+      <td valign="top" width="31">
+
+1062
+
+</td>
+      <td valign="top" width="35">
+
+1001
+
+</td>
+      <td valign="top" width="35">
+
+939
+
+</td>
+      <td width="35" valign="top">
+
+885
+
+</td>
+      <td width="35" valign="top">
+
+830
+
+</td>
+      <td width="35" valign="top">
+
+776
+
+</td>
+      <td valign="top" width="35">
+
+737
+
+</td>
+      <td width="35" valign="top">
+
+685
+
+</td>
+      <td width="35" valign="top">
+
+637
+
+</td>
+      <td width="35" valign="top">
+
+589
+
+</td>
+      <td valign="top" width="35">
+
+564
+
+</td>
+      <td width="35" valign="top">
+
+535
+
+</td>
+      <td valign="top" width="35">
+
+506
+
+</td>
+      <td width="35" valign="top">
+
+470
+
+</td>
+      <td width="35" valign="top">
+
+439
+
+</td>
+      <td valign="top" width="35">
+
+414
+
+</td>
+      <td valign="top" width="35">
+
+59
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+56
+
+</td>
+      <td valign="top" width="31">
+
+1112
+
+</td>
+      <td width="31" valign="top">
+
+1071
+
+</td>
+      <td width="35" valign="top">
+
+1013
+
+</td>
+      <td width="35" valign="top">
+
+957
+
+</td>
+      <td width="35" valign="top">
+
+902
+
+</td>
+      <td valign="top" width="35">
+
+852
+
+</td>
+      <td width="35" valign="top">
+
+798
+
+</td>
+      <td width="35" valign="top">
+
+762
+
+</td>
+      <td valign="top" width="35">
+
+711
+
+</td>
+      <td valign="top" width="35">
+
+670
+
+</td>
+      <td valign="top" width="35">
+
+622
+
+</td>
+      <td width="35" valign="top">
+
+600
+
+</td>
+      <td valign="top" width="35">
+
+569
+
+</td>
+      <td width="35" valign="top">
+
+540
+
+</td>
+      <td valign="top" width="35">
+
+508
+
+</td>
+      <td valign="top" width="35">
+
+475
+
+</td>
+      <td width="35" valign="top">
+
+450
+
+</td>
+      <td width="35" valign="top">
+
+107
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+57
+
+</td>
+      <td valign="top" width="31">
+
+1070
+
+</td>
+      <td valign="top" width="31">
+
+1032
+
+</td>
+      <td valign="top" width="35">
+
+979
+
+</td>
+      <td valign="top" width="35">
+
+930
+
+</td>
+      <td valign="top" width="35">
+
+882
+
+</td>
+      <td valign="top" width="35">
+
+839
+
+</td>
+      <td width="35" valign="top">
+
+795
+
+</td>
+      <td valign="top" width="35">
+
+762
+
+</td>
+      <td width="35" valign="top">
+
+722
+
+</td>
+      <td valign="top" width="35">
+
+682
+
+</td>
+      <td width="35" valign="top">
+
+642
+
+</td>
+      <td valign="top" width="35">
+
+624
+
+</td>
+      <td valign="top" width="35">
+
+595
+
+</td>
+      <td width="35" valign="top">
+
+571
+
+</td>
+      <td valign="top" width="35">
+
+547
+
+</td>
+      <td valign="top" width="35">
+
+520
+
+</td>
+      <td valign="top" width="35">
+
+496
+
+</td>
+      <td width="35" valign="top">
+
+174
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+58
+
+</td>
+      <td width="31" valign="top">
+
+1071
+
+</td>
+      <td width="31" valign="top">
+
+1041
+
+</td>
+      <td valign="top" width="35">
+
+990
+
+</td>
+      <td valign="top" width="35">
+
+942
+
+</td>
+      <td valign="top" width="35">
+
+892
+
+</td>
+      <td valign="top" width="35">
+
+848
+
+</td>
+      <td width="35" valign="top">
+
+804
+
+</td>
+      <td valign="top" width="35">
+
+770
+
+</td>
+      <td width="35" valign="top">
+
+734
+
+</td>
+      <td width="35" valign="top">
+
+691
+
+</td>
+      <td width="35" valign="top">
+
+650
+
+</td>
+      <td width="35" valign="top">
+
+633
+
+</td>
+      <td valign="top" width="35">
+
+606
+
+</td>
+      <td width="35" valign="top">
+
+582
+
+</td>
+      <td valign="top" width="35">
+
+562
+
+</td>
+      <td width="35" valign="top">
+
+533
+
+</td>
+      <td width="35" valign="top">
+
+509
+
+</td>
+      <td valign="top" width="35">
+
+181
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+59
+
+</td>
+      <td width="31" valign="top">
+
+1058
+
+</td>
+      <td width="31" valign="top">
+
+1034
+
+</td>
+      <td width="35" valign="top">
+
+986
+
+</td>
+      <td width="35" valign="top">
+
+942
+
+</td>
+      <td valign="top" width="35">
+
+892
+
+</td>
+      <td valign="top" width="35">
+
+851
+
+</td>
+      <td width="35" valign="top">
+
+811
+
+</td>
+      <td valign="top" width="35">
+
+778
+
+</td>
+      <td width="35" valign="top">
+
+747
+
+</td>
+      <td valign="top" width="35">
+
+705
+
+</td>
+      <td valign="top" width="35">
+
+666
+
+</td>
+      <td valign="top" width="35">
+
+650
+
+</td>
+      <td width="35" valign="top">
+
+624
+
+</td>
+      <td width="35" valign="top">
+
+601
+
+</td>
+      <td valign="top" width="35">
+
+587
+
+</td>
+      <td valign="top" width="35">
+
+559
+
+</td>
+      <td valign="top" width="35">
+
+535
+
+</td>
+      <td width="35" valign="top">
+
+212
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+60
+
+</td>
+      <td valign="top" width="31">
+
+1044
+
+</td>
+      <td valign="top" width="31">
+
+1027
+
+</td>
+      <td valign="top" width="35">
+
+982
+
+</td>
+      <td width="35" valign="top">
+
+941
+
+</td>
+      <td valign="top" width="35">
+
+893
+
+</td>
+      <td width="35" valign="top">
+
+854
+
+</td>
+      <td width="35" valign="top">
+
+817
+
+</td>
+      <td width="35" valign="top">
+
+785
+
+</td>
+      <td width="35" valign="top">
+
+760
+
+</td>
+      <td valign="top" width="35">
+
+718
+
+</td>
+      <td valign="top" width="35">
+
+681
+
+</td>
+      <td valign="top" width="35">
+
+667
+
+</td>
+      <td valign="top" width="35">
+
+643
+
+</td>
+      <td valign="top" width="35">
+
+621
+
+</td>
+      <td valign="top" width="35">
+
+613
+
+</td>
+      <td width="35" valign="top">
+
+585
+
+</td>
+      <td valign="top" width="35">
+
+561
+
+</td>
+      <td valign="top" width="35">
+
+244
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+61
+
+</td>
+      <td width="31" valign="top">
+
+1031
+
+</td>
+      <td valign="top" width="31">
+
+1020
+
+</td>
+      <td valign="top" width="35">
+
+978
+
+</td>
+      <td width="35" valign="top">
+
+941
+
+</td>
+      <td width="35" valign="top">
+
+893
+
+</td>
+      <td width="35" valign="top">
+
+857
+
+</td>
+      <td valign="top" width="35">
+
+824
+
+</td>
+      <td width="35" valign="top">
+
+793
+
+</td>
+      <td valign="top" width="35">
+
+774
+
+</td>
+      <td width="35" valign="top">
+
+731
+
+</td>
+      <td valign="top" width="35">
+
+696
+
+</td>
+      <td width="35" valign="top">
+
+684
+
+</td>
+      <td width="35" valign="top">
+
+661
+
+</td>
+      <td valign="top" width="35">
+
+641
+
+</td>
+      <td width="35" valign="top">
+
+638
+
+</td>
+      <td valign="top" width="35">
+
+611
+
+</td>
+      <td width="35" valign="top">
+
+587
+
+</td>
+      <td width="35" valign="top">
+
+275
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+62
+
+</td>
+      <td valign="top" width="31">
+
+1017
+
+</td>
+      <td width="31" valign="top">
+
+1013
+
+</td>
+      <td width="35" valign="top">
+
+974
+
+</td>
+      <td width="35" valign="top">
+
+941
+
+</td>
+      <td width="35" valign="top">
+
+894
+
+</td>
+      <td width="35" valign="top">
+
+860
+
+</td>
+      <td valign="top" width="35">
+
+831
+
+</td>
+      <td valign="top" width="35">
+
+801
+
+</td>
+      <td width="35" valign="top">
+
+787
+
+</td>
+      <td width="35" valign="top">
+
+744
+
+</td>
+      <td width="35" valign="top">
+
+711
+
+</td>
+      <td width="35" valign="top">
+
+701
+
+</td>
+      <td width="35" valign="top">
+
+680
+
+</td>
+      <td valign="top" width="35">
+
+661
+
+</td>
+      <td width="35" valign="top">
+
+663
+
+</td>
+      <td valign="top" width="35">
+
+636
+
+</td>
+      <td width="35" valign="top">
+
+612
+
+</td>
+      <td width="35" valign="top">
+
+307
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+63
+
+</td>
+      <td width="31" valign="top">
+
+1004
+
+</td>
+      <td valign="top" width="31">
+
+1006
+
+</td>
+      <td width="35" valign="top">
+
+970
+
+</td>
+      <td valign="top" width="35">
+
+940
+
+</td>
+      <td width="35" valign="top">
+
+894
+
+</td>
+      <td valign="top" width="35">
+
+864
+
+</td>
+      <td width="35" valign="top">
+
+837
+
+</td>
+      <td width="35" valign="top">
+
+809
+
+</td>
+      <td valign="top" width="35">
+
+801
+
+</td>
+      <td valign="top" width="35">
+
+757
+
+</td>
+      <td width="35" valign="top">
+
+726
+
+</td>
+      <td valign="top" width="35">
+
+719
+
+</td>
+      <td width="35" valign="top">
+
+698
+
+</td>
+      <td width="35" valign="top">
+
+681
+
+</td>
+      <td width="35" valign="top">
+
+689
+
+</td>
+      <td width="35" valign="top">
+
+662
+
+</td>
+      <td valign="top" width="35">
+
+638
+
+</td>
+      <td width="35" valign="top">
+
+338
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+64
+
+</td>
+      <td valign="top" width="31">
+
+990
+
+</td>
+      <td width="31" valign="top">
+
+999
+
+</td>
+      <td valign="top" width="35">
+
+966
+
+</td>
+      <td valign="top" width="35">
+
+940
+
+</td>
+      <td valign="top" width="35">
+
+895
+
+</td>
+      <td valign="top" width="35">
+
+867
+
+</td>
+      <td width="35" valign="top">
+
+844
+
+</td>
+      <td valign="top" width="35">
+
+816
+
+</td>
+      <td width="35" valign="top">
+
+814
+
+</td>
+      <td valign="top" width="35">
+
+771
+
+</td>
+      <td valign="top" width="35">
+
+741
+
+</td>
+      <td valign="top" width="35">
+
+736
+
+</td>
+      <td width="35" valign="top">
+
+717
+
+</td>
+      <td width="35" valign="top">
+
+700
+
+</td>
+      <td valign="top" width="35">
+
+714
+
+</td>
+      <td valign="top" width="35">
+
+688
+
+</td>
+      <td valign="top" width="35">
+
+664
+
+</td>
+      <td valign="top" width="35">
+
+370
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 28 mars 1996 -  Annexes (V)
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
+
+
+###### Article Annexe 1.3 art. A331-22
+
+**Probabilités de passage d'incapacité temporaire en invalidité**
+
+Sur la première colonne figure l'âge à l'arrêt de travail; sur la première ligne, le nombre de mois écoulés depuis l'arrêt de
+travail.
+
+Chaque ligne donne, pour un âge à l'arrêt de travail donné, le nombre d'incapables reconnus invalides par la sécurité sociale
+au cours d'un mois fixé, ce nombre étant rapporté à un effectif originel de 10 000.
+
+<table width="519" border="1" align="center" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td>
+
+Age
+
+</td>
+      <td nowrap="nowrap" valign="bottom" colspan="18" width="432">
+
+Mois
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+0
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+1
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+2
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+3
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+4
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+5
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+6
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+7
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+8
+
+</td>
+      <td valign="bottom" width="24" nowrap="nowrap">
+
+9
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+10
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+11
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+12
+
+</td>
+      <td nowrap="nowrap" width="24" valign="bottom">
+
+13
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+14
+
+</td>
+      <td width="24" nowrap="nowrap" valign="bottom">
+
+15
+
+</td>
+      <td width="24" valign="bottom" nowrap="nowrap">
+
+16
+
+</td>
+      <td valign="bottom" nowrap="nowrap" width="24">
+
+17
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+20 ans ou moins
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+23
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+24
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+25
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+27
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+28
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+29
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+30
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+31
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+32
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+33
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+34
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+35
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+36
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+37
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+38
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+39
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+40
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+41
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+9
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+42
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+43
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+13
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+44
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+13
+
+</td>
+      <td width="24" valign="top">
+
+9
+
+</td>
+      <td width="24" valign="top">
+
+13
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+45
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+46
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+10
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+      <td width="24" valign="top">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+47
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+13
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td width="24" valign="top">
+
+10
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+      <td width="24" valign="top">
+
+10
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+48
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td width="24" valign="top">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+13
+
+</td>
+      <td width="24" valign="top">
+
+10
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+49
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+10
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+10
+
+</td>
+      <td width="24" valign="top">
+
+10
+
+</td>
+      <td width="24" valign="top">
+
+16
+
+</td>
+      <td width="24" valign="top">
+
+13
+
+</td>
+      <td width="24" valign="top">
+
+20
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td valign="top" width="24">
+
+11
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+50
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td valign="top" width="24">
+
+16
+
+</td>
+      <td valign="top" width="24">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+25
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td width="24" valign="top">
+
+17
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+51
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+17
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+17
+
+</td>
+      <td valign="top" width="24">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+28
+
+</td>
+      <td width="24" valign="top">
+
+28
+
+</td>
+      <td width="24" valign="top">
+
+24
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+52
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td valign="top" width="24">
+
+16
+
+</td>
+      <td width="24" valign="top">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+25
+
+</td>
+      <td width="24" valign="top">
+
+40
+
+</td>
+      <td valign="top" width="24">
+
+36
+
+</td>
+      <td width="24" valign="top">
+
+27
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+53
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td width="24" valign="top">
+
+20
+
+</td>
+      <td width="24" valign="top">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td valign="top" width="24">
+
+25
+
+</td>
+      <td valign="top" width="24">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+31
+
+</td>
+      <td width="24" valign="top">
+
+44
+
+</td>
+      <td width="24" valign="top">
+
+43
+
+</td>
+      <td valign="top" width="24">
+
+33
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+54
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+16
+
+</td>
+      <td width="24" valign="top">
+
+22
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td valign="top" width="24">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+28
+
+</td>
+      <td width="24" valign="top">
+
+25
+
+</td>
+      <td width="24" valign="top">
+
+20
+
+</td>
+      <td valign="top" width="24">
+
+38
+
+</td>
+      <td width="24" valign="top">
+
+48
+
+</td>
+      <td width="24" valign="top">
+
+49
+
+</td>
+      <td width="24" valign="top">
+
+39
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+55
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td width="24" valign="top">
+
+16
+
+</td>
+      <td valign="top" width="24">
+
+25
+
+</td>
+      <td valign="top" width="24">
+
+16
+
+</td>
+      <td width="24" valign="top">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+27
+
+</td>
+      <td width="24" valign="top">
+
+28
+
+</td>
+      <td width="24" valign="top">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+39
+
+</td>
+      <td width="24" valign="top">
+
+57
+
+</td>
+      <td valign="top" width="24">
+
+53
+
+</td>
+      <td width="24" valign="top">
+
+41
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+56
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td width="24" valign="top">
+
+16
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td width="24" valign="top">
+
+23
+
+</td>
+      <td width="24" valign="top">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+24
+
+</td>
+      <td width="24" valign="top">
+
+30
+
+</td>
+      <td width="24" valign="top">
+
+28
+
+</td>
+      <td width="24" valign="top">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+40
+
+</td>
+      <td width="24" valign="top">
+
+57
+
+</td>
+      <td valign="top" width="24">
+
+56
+
+</td>
+      <td width="24" valign="top">
+
+41
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+57
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td width="24" valign="top">
+
+9
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+25
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td width="24" valign="top">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+32
+
+</td>
+      <td width="24" valign="top">
+
+30
+
+</td>
+      <td valign="top" width="24">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+42
+
+</td>
+      <td width="24" valign="top">
+
+63
+
+</td>
+      <td width="24" valign="top">
+
+61
+
+</td>
+      <td valign="top" width="24">
+
+46
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+58
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+19
+
+</td>
+      <td width="24" valign="top">
+
+27
+
+</td>
+      <td valign="top" width="24">
+
+33
+
+</td>
+      <td valign="top" width="24">
+
+32
+
+</td>
+      <td width="24" valign="top">
+
+23
+
+</td>
+      <td width="24" valign="top">
+
+45
+
+</td>
+      <td width="24" valign="top">
+
+68
+
+</td>
+      <td width="24" valign="top">
+
+65
+
+</td>
+      <td valign="top" width="24">
+
+48
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+59
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+11
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td width="24" valign="top">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+27
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+29
+
+</td>
+      <td width="24" valign="top">
+
+35
+
+</td>
+      <td valign="top" width="24">
+
+34
+
+</td>
+      <td width="24" valign="top">
+
+24
+
+</td>
+      <td valign="top" width="24">
+
+46
+
+</td>
+      <td valign="top" width="24">
+
+72
+
+</td>
+      <td width="24" valign="top">
+
+69
+
+</td>
+      <td valign="top" width="24">
+
+50
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="525" cellspacing="0" align="center" border="1" cellpadding="0">
+  <tbody>
+    <tr>
+      <td>
+
+Age
+
+</td>
+      <td width="439" nowrap="nowrap" colspan="18">
+
+Mois
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td nowrap="nowrap" width="24">
+
+18
+
+</td>
+      <td nowrap="nowrap">
+
+19
+
+</td>
+      <td width="24" nowrap="nowrap">
+
+20
+
+</td>
+      <td nowrap="nowrap" width="24">
+
+21
+
+</td>
+      <td width="24" nowrap="nowrap">
+
+22
+
+</td>
+      <td nowrap="nowrap" width="24">
+
+23
+
+</td>
+      <td nowrap="nowrap" width="24">
+
+24
+
+</td>
+      <td width="24" nowrap="nowrap">
+
+25
+
+</td>
+      <td width="24" nowrap="nowrap">
+
+26
+
+</td>
+      <td nowrap="nowrap" width="24">
+
+27
+
+</td>
+      <td nowrap="nowrap" width="24">
+
+28
+
+</td>
+      <td nowrap="nowrap" width="24">
+
+29
+
+</td>
+      <td width="24" nowrap="nowrap">
+
+30
+
+</td>
+      <td width="24" nowrap="nowrap">
+
+31
+
+</td>
+      <td nowrap="nowrap" width="24">
+
+32
+
+</td>
+      <td width="24" nowrap="nowrap">
+
+33
+
+</td>
+      <td width="24" nowrap="nowrap">
+
+34
+
+</td>
+      <td width="24" nowrap="nowrap">
+
+35
+
+</td>
+    </tr>
+    <tr>
+      <td width="87">
+
+20 ans ou moins
+
+</td>
+      <td width="24">
+
+2
+
+</td>
+      <td width="31">
+
+5
+
+</td>
+      <td width="24">
+
+4
+
+</td>
+      <td width="24">
+
+0
+
+</td>
+      <td width="24">
+
+3
+
+</td>
+      <td width="24">
+
+1
+
+</td>
+      <td width="24">
+
+2
+
+</td>
+      <td width="24">
+
+1
+
+</td>
+      <td width="24">
+
+6
+
+</td>
+      <td width="24">
+
+1
+
+</td>
+      <td width="24">
+
+2
+
+</td>
+      <td width="24">
+
+1
+
+</td>
+      <td width="24">
+
+4
+
+</td>
+      <td width="24">
+
+2
+
+</td>
+      <td width="24">
+
+1
+
+</td>
+      <td width="24">
+
+2
+
+</td>
+      <td width="24">
+
+2
+
+</td>
+      <td width="24">
+
+97
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="31" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+97
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+22
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="31">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+97
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+23
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="31">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+39
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+24
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="31" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+28
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+25
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="31" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+39
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+26
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="31" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+37
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+27
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="31" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td width="24" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+43
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+28
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="31" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+45
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+29
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="31">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+51
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+30
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="31">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+50
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+31
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="31">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+57
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+32
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="31" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+55
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+33
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="31">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+59
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+34
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="31">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+64
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+35
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="31">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+69
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+36
+
+</td>
+      <td valign="top" width="24">
+
+0
+
+</td>
+      <td valign="top" width="31">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+68
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+37
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="31">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+76
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+38
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="31">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+9
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+9
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+93
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+39
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="31" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td width="24" valign="top">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+1
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+      <td width="24" valign="top">
+
+9
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+103
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+40
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td valign="top" width="31">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+1
+
+</td>
+      <td width="24" valign="top">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+      <td valign="top" width="24">
+
+114
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+41
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="31">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+137
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+42
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td width="31" valign="top">
+
+3
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+3
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+153
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+43
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td valign="top" width="31">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td width="24" valign="top">
+
+14
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td width="24" valign="top">
+
+2
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+13
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+155
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+44
+
+</td>
+      <td valign="top" width="24">
+
+5
+
+</td>
+      <td valign="top" width="31">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+4
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+5
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+4
+
+</td>
+      <td width="24" valign="top">
+
+169
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+45
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td width="31" valign="top">
+
+10
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td valign="top" width="24">
+
+11
+
+</td>
+      <td width="24" valign="top">
+
+6
+
+</td>
+      <td valign="top" width="24">
+
+10
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td valign="top" width="24">
+
+11
+
+</td>
+      <td width="24" valign="top">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+179
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+46
+
+</td>
+      <td valign="top" width="24">
+
+19
+
+</td>
+      <td width="31" valign="top">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+8
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+11
+
+</td>
+      <td valign="top" width="24">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+16
+
+</td>
+      <td valign="top" width="24">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+7
+
+</td>
+      <td width="24" valign="top">
+
+14
+
+</td>
+      <td width="24" valign="top">
+
+14
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+182
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+47
+
+</td>
+      <td valign="top" width="24">
+
+24
+
+</td>
+      <td width="31" valign="top">
+
+16
+
+</td>
+      <td width="24" valign="top">
+
+10
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+15
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td width="24" valign="top">
+
+16
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+9
+
+</td>
+      <td valign="top" width="24">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+196
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+48
+
+</td>
+      <td width="24" valign="top">
+
+23
+
+</td>
+      <td valign="top" width="31">
+
+15
+
+</td>
+      <td valign="top" width="24">
+
+13
+
+</td>
+      <td width="24" valign="top">
+
+20
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td valign="top" width="24">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+16
+
+</td>
+      <td width="24" valign="top">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+12
+
+</td>
+      <td width="24" valign="top">
+
+23
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td width="24" valign="top">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+18
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td width="24" valign="top">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+215
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+49
+
+</td>
+      <td valign="top" width="24">
+
+26
+
+</td>
+      <td valign="top" width="31">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+19
+
+</td>
+      <td valign="top" width="24">
+
+22
+
+</td>
+      <td width="24" valign="top">
+
+29
+
+</td>
+      <td valign="top" width="24">
+
+16
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td valign="top" width="24">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+20
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td width="24" valign="top">
+
+20
+
+</td>
+      <td width="24" valign="top">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+23
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+223
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+50
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td valign="top" width="31">
+
+26
+
+</td>
+      <td width="24" valign="top">
+
+23
+
+</td>
+      <td width="24" valign="top">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+32
+
+</td>
+      <td width="24" valign="top">
+
+25
+
+</td>
+      <td width="24" valign="top">
+
+25
+
+</td>
+      <td valign="top" width="24">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+24
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td valign="top" width="24">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+22
+
+</td>
+      <td width="24" valign="top">
+
+13
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+243
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+51
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td width="31" valign="top">
+
+29
+
+</td>
+      <td valign="top" width="24">
+
+28
+
+</td>
+      <td width="24" valign="top">
+
+29
+
+</td>
+      <td valign="top" width="24">
+
+33
+
+</td>
+      <td width="24" valign="top">
+
+27
+
+</td>
+      <td width="24" valign="top">
+
+23
+
+</td>
+      <td width="24" valign="top">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+25
+
+</td>
+      <td valign="top" width="24">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+29
+
+</td>
+      <td width="24" valign="top">
+
+16
+
+</td>
+      <td width="24" valign="top">
+
+18
+
+</td>
+      <td valign="top" width="24">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+268
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+52
+
+</td>
+      <td valign="top" width="24">
+
+23
+
+</td>
+      <td valign="top" width="31">
+
+32
+
+</td>
+      <td width="24" valign="top">
+
+30
+
+</td>
+      <td width="24" valign="top">
+
+32
+
+</td>
+      <td width="24" valign="top">
+
+33
+
+</td>
+      <td valign="top" width="24">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+29
+
+</td>
+      <td valign="top" width="24">
+
+23
+
+</td>
+      <td valign="top" width="24">
+
+37
+
+</td>
+      <td valign="top" width="24">
+
+28
+
+</td>
+      <td valign="top" width="24">
+
+29
+
+</td>
+      <td valign="top" width="24">
+
+18
+
+</td>
+      <td width="24" valign="top">
+
+30
+
+</td>
+      <td width="24" valign="top">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+27
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td width="24" valign="top">
+
+18
+
+</td>
+      <td width="24" valign="top">
+
+283
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+53
+
+</td>
+      <td width="24" valign="top">
+
+29
+
+</td>
+      <td valign="top" width="31">
+
+40
+
+</td>
+      <td width="24" valign="top">
+
+28
+
+</td>
+      <td valign="top" width="24">
+
+41
+
+</td>
+      <td valign="top" width="24">
+
+33
+
+</td>
+      <td valign="top" width="24">
+
+31
+
+</td>
+      <td width="24" valign="top">
+
+31
+
+</td>
+      <td valign="top" width="24">
+
+25
+
+</td>
+      <td valign="top" width="24">
+
+38
+
+</td>
+      <td valign="top" width="24">
+
+34
+
+</td>
+      <td valign="top" width="24">
+
+37
+
+</td>
+      <td valign="top" width="24">
+
+16
+
+</td>
+      <td valign="top" width="24">
+
+27
+
+</td>
+      <td width="24" valign="top">
+
+20
+
+</td>
+      <td valign="top" width="24">
+
+28
+
+</td>
+      <td width="24" valign="top">
+
+20
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+286
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+54
+
+</td>
+      <td valign="top" width="24">
+
+38
+
+</td>
+      <td width="31" valign="top">
+
+31
+
+</td>
+      <td valign="top" width="24">
+
+31
+
+</td>
+      <td valign="top" width="24">
+
+46
+
+</td>
+      <td width="24" valign="top">
+
+33
+
+</td>
+      <td valign="top" width="24">
+
+40
+
+</td>
+      <td width="24" valign="top">
+
+36
+
+</td>
+      <td valign="top" width="24">
+
+29
+
+</td>
+      <td valign="top" width="24">
+
+39
+
+</td>
+      <td width="24" valign="top">
+
+30
+
+</td>
+      <td valign="top" width="24">
+
+34
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+25
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td valign="top" width="24">
+
+24
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+310
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+55
+
+</td>
+      <td width="24" valign="top">
+
+38
+
+</td>
+      <td valign="top" width="31">
+
+26
+
+</td>
+      <td width="24" valign="top">
+
+32
+
+</td>
+      <td valign="top" width="24">
+
+41
+
+</td>
+      <td valign="top" width="24">
+
+35
+
+</td>
+      <td valign="top" width="24">
+
+33
+
+</td>
+      <td width="24" valign="top">
+
+33
+
+</td>
+      <td width="24" valign="top">
+
+26
+
+</td>
+      <td valign="top" width="24">
+
+34
+
+</td>
+      <td width="24" valign="top">
+
+38
+
+</td>
+      <td width="24" valign="top">
+
+32
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+22
+
+</td>
+      <td width="24" valign="top">
+
+16
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td width="24" valign="top">
+
+16
+
+</td>
+      <td valign="top" width="24">
+
+292
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+56
+
+</td>
+      <td valign="top" width="24">
+
+37
+
+</td>
+      <td width="31" valign="top">
+
+29
+
+</td>
+      <td valign="top" width="24">
+
+32
+
+</td>
+      <td width="24" valign="top">
+
+44
+
+</td>
+      <td valign="top" width="24">
+
+34
+
+</td>
+      <td valign="top" width="24">
+
+36
+
+</td>
+      <td width="24" valign="top">
+
+36
+
+</td>
+      <td width="24" valign="top">
+
+24
+
+</td>
+      <td valign="top" width="24">
+
+38
+
+</td>
+      <td valign="top" width="24">
+
+36
+
+</td>
+      <td valign="top" width="24">
+
+35
+
+</td>
+      <td width="24" valign="top">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+16
+
+</td>
+      <td width="24" valign="top">
+
+23
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+17
+
+</td>
+      <td width="24" valign="top">
+
+298
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="87">
+
+57
+
+</td>
+      <td width="24" valign="top">
+
+39
+
+</td>
+      <td valign="top" width="31">
+
+29
+
+</td>
+      <td width="24" valign="top">
+
+33
+
+</td>
+      <td valign="top" width="24">
+
+47
+
+</td>
+      <td valign="top" width="24">
+
+35
+
+</td>
+      <td valign="top" width="24">
+
+38
+
+</td>
+      <td width="24" valign="top">
+
+38
+
+</td>
+      <td width="24" valign="top">
+
+24
+
+</td>
+      <td width="24" valign="top">
+
+40
+
+</td>
+      <td width="24" valign="top">
+
+38
+
+</td>
+      <td width="24" valign="top">
+
+38
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+22
+
+</td>
+      <td width="24" valign="top">
+
+16
+
+</td>
+      <td width="24" valign="top">
+
+23
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+17
+
+</td>
+      <td valign="top" width="24">
+
+306
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+58
+
+</td>
+      <td valign="top" width="24">
+
+42
+
+</td>
+      <td valign="top" width="31">
+
+24
+
+</td>
+      <td width="24" valign="top">
+
+34
+
+</td>
+      <td width="24" valign="top">
+
+47
+
+</td>
+      <td valign="top" width="24">
+
+35
+
+</td>
+      <td valign="top" width="24">
+
+39
+
+</td>
+      <td width="24" valign="top">
+
+39
+
+</td>
+      <td valign="top" width="24">
+
+23
+
+</td>
+      <td width="24" valign="top">
+
+39
+
+</td>
+      <td valign="top" width="24">
+
+39
+
+</td>
+      <td valign="top" width="24">
+
+36
+
+</td>
+      <td width="24" valign="top">
+
+12
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+20
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td width="24" valign="top">
+
+15
+
+</td>
+      <td width="24" valign="top">
+
+307
+
+</td>
+    </tr>
+    <tr>
+      <td width="87" valign="top">
+
+59
+
+</td>
+      <td width="24" valign="top">
+
+41
+
+</td>
+      <td width="31" valign="top">
+
+24
+
+</td>
+      <td valign="top" width="24">
+
+35
+
+</td>
+      <td width="24" valign="top">
+
+47
+
+</td>
+      <td valign="top" width="24">
+
+36
+
+</td>
+      <td width="24" valign="top">
+
+38
+
+</td>
+      <td width="24" valign="top">
+
+40
+
+</td>
+      <td valign="top" width="24">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+40
+
+</td>
+      <td valign="top" width="24">
+
+42
+
+</td>
+      <td valign="top" width="24">
+
+38
+
+</td>
+      <td width="24" valign="top">
+
+11
+
+</td>
+      <td width="24" valign="top">
+
+19
+
+</td>
+      <td width="24" valign="top">
+
+13
+
+</td>
+      <td width="24" valign="top">
+
+21
+
+</td>
+      <td valign="top" width="24">
+
+22
+
+</td>
+      <td valign="top" width="24">
+
+14
+
+</td>
+      <td valign="top" width="24">
+
+305
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 28 mars 1996 -  Annexes (V)
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
+
+
+#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=450></a>
+
+##### Section I : Eléments d'actif admis en représentation des engagements réglementés.<a id=451></a>
 
 ###### Article A332-1
 
@@ -47173,7 +69155,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code des assurances - art. R332-3 (M)
 
 
-##### Section III : Estimation des éléments d'actif.<a id=451></a>
+##### Section III : Estimation des éléments d'actif.<a id=452></a>
 
 ###### Article A332-5
 
@@ -47250,7 +69232,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code des assurances - art. R332-20 (M)
 
 
-#### Chapitre III : Revenu des placements.<a id=452></a>
+#### Chapitre III : Revenu des placements.<a id=453></a>
 
 ###### Article A333-2
 
@@ -47344,11 +69326,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*333-1 (M)
 
 
-#### Chapitre IV : Solvabilité des entreprises<a id=453></a>
+#### Chapitre IV : Solvabilité des entreprises<a id=454></a>
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=454></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=455></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=455></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=456></a>
 
 ###### Article A334-1
 
@@ -47387,9 +69369,9 @@ _Cite_:
   - Code des assurances - art. R334-11 (V)
 
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=456></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=457></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=457></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=458></a>
 
 ###### Article A334-2
 
@@ -47489,11 +69471,11 @@ _Cite_:
   - Code des assurances - art. R*334-3 (M)
 
 
-#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=458></a>
+#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=459></a>
 
-##### Section I : Tarifs.<a id=459></a>
+##### Section I : Tarifs.<a id=460></a>
 
-##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=460></a>
+##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=461></a>
 
 ###### Article A335-9-1
 
@@ -47609,9 +69591,9 @@ _Cite_:
   - Code des assurances - art. A335-9-3 (Ab)
 
 
-##### Section I : Tarifs<a id=461></a>
+##### Section I : Tarifs<a id=462></a>
 
-##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=462></a>
+##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=463></a>
 
 ###### Article A335-1
 
@@ -47687,9 +69669,9 @@ _Cite_:
   - Code des assurances - art. A132-1 (M)
 
 
-##### Section II : Frais d'acquisition et de gestion<a id=463></a>
+##### Section II : Frais d'acquisition et de gestion<a id=464></a>
 
-##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=464></a>
+##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=465></a>
 
 ###### Article A335-19
 
@@ -47722,9 +69704,9 @@ _Cité par_:
   - SPEC_APPLI: Code des assurances A335-20, A335-21 *fixation des commissions et rétributions*
 
 
-### Titre IV : Dispositions comptables et statistiques<a id=465></a>
+### Titre IV : Dispositions comptables et statistiques<a id=466></a>
 
-#### Chapitre Ier : Principes généraux.<a id=466></a>
+#### Chapitre Ier : Principes généraux.<a id=467></a>
 
 ###### Article A341-1
 
@@ -47805,9 +69787,9 @@ DANS L'ÉTAT MEMBRE SUIVANT DE LA CEE : PAYS DU RISQUE.
 
 
 
-#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=467></a>
+#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=468></a>
 
-##### Section I : Dispositions générales.<a id=468></a>
+##### Section I : Dispositions générales.<a id=469></a>
 
 ###### Article A342-1
 
@@ -47830,7 +69812,7 @@ _Cite_:
   - Code des assurances - art. L310-1 (V)
 
 
-##### Section II : Documents et registres comptables.<a id=469></a>
+##### Section II : Documents et registres comptables.<a id=470></a>
 
 ###### Article A342-2
 
@@ -47887,7 +69869,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 2 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-##### Section II : Documents et registres comptables.<a id=470></a>
+##### Section II : Documents et registres comptables.<a id=471></a>
 
 ###### Article A342-3
 
@@ -47955,7 +69937,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R*331-17 (Ab)
 
 
-##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=471></a>
+##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=472></a>
 
 ###### Article A342-5
 
@@ -48069,7 +70051,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 3 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance.<a id=472></a>
+##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance.<a id=473></a>
 
 ###### Article A342-9
 
@@ -48097,7 +70079,7 @@ _Cité par_:
   - Arrêté du 11 septembre 1995 - art. 6 (V)
 
 
-##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance.<a id=473></a>
+##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance.<a id=474></a>
 
 ###### Article A342-8
 
@@ -48126,7 +70108,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 4 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-#### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation.<a id=474></a>
+#### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation.<a id=475></a>
 
 ###### Article A343-1
 
@@ -49678,9 +71660,9 @@ _Cite_:
   - Code des assurances - art. R332-7-1 (V)
 
 
-#### Chapitre IV : Catégories d'assurance et états à produire<a id=475></a>
+#### Chapitre IV : Catégories d'assurance et états à produire<a id=476></a>
 
-##### Section I : Dispositions générales.<a id=476></a>
+##### Section I : Dispositions générales.<a id=477></a>
 
 ###### Article A344-1
 
@@ -49708,7 +71690,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section II : Définition des catégories et sous-catégories.<a id=477></a>
+##### Section II : Définition des catégories et sous-catégories.<a id=478></a>
 
 ###### Article A344-2
 
@@ -49838,7 +71820,7 @@ _Cite_:
   - Code des assurances - art. L441-1 (M)
 
 
-##### Section III : Etats à produire.<a id=478></a>
+##### Section III : Etats à produire.<a id=479></a>
 
 ###### Article A344-3
 
@@ -50200,7 +72182,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
-##### Section III : Etats à produire.<a id=479></a>
+##### Section III : Etats à produire.<a id=480></a>
 
 ###### Article A344-4
 
@@ -55460,7 +77442,7 @@ _Abrogé par_:
   - Arrêté du 28 décembre 2015 - art. 2
 
 
-##### Annexes A344-10  : ETATS<a id=480></a>
+##### Annexes A344-10  : ETATS<a id=481></a>
 
 ###### Article Annexe A344-10 ETAT C1
 
@@ -61196,11 +83178,11 @@ _Cite_:
   - Code des assurances - art. L310-1 (V)
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=481></a>
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=482></a>
 
-#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=482></a>
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=483></a>
 
-##### Section II : Conditions d'exercice<a id=483></a>
+##### Section II : Conditions d'exercice<a id=484></a>
 
 ###### Article A353-1
 
@@ -61236,9 +83218,9 @@ _Cite_:
   - Code des assurances - art. L353-4
 
 
-### Titre VI : Libre établissement et libre prestation de services communautaires<a id=484></a>
+### Titre VI : Libre établissement et libre prestation de services communautaires<a id=485></a>
 
-#### Chapitre II : Conditions d'exercice.<a id=485></a>
+#### Chapitre II : Conditions d'exercice.<a id=486></a>
 
 ###### Article A362-1
 
@@ -61346,15 +83328,15 @@ _Cite_:
   - Code des assurances - art. R321-1 (V)
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=486></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=487></a>
 
-### Titre II : Le fonds de garantie<a id=487></a>
+### Titre II : Le fonds de garantie<a id=488></a>
 
-#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=488></a>
+#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=489></a>
 
-##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=489></a>
+##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=490></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=490></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=491></a>
 
 ###### Article A421-1
 
@@ -61394,9 +83376,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R420-69
 
 
-##### Section IV : Régime financier du fonds de garantie<a id=491></a>
+##### Section IV : Régime financier du fonds de garantie<a id=492></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=492></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=493></a>
 
 ###### Article A421-2
 
@@ -61438,9 +83420,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances R420-35
 
 
-##### Section V : Régime financier du fonds de garantie<a id=493></a>
+##### Section V : Régime financier du fonds de garantie<a id=494></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=494></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=495></a>
 
 ###### Article A421-3
 
@@ -61510,7 +83492,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=495></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=496></a>
 
 ###### Article A422-1
 
@@ -61535,11 +83517,11 @@ _Cite_:
   - Code des assurances - art. R422-4 (V)
 
 
-### Titre III : Organismes particuliers d'assurance<a id=496></a>
+### Titre III : Organismes particuliers d'assurance<a id=497></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=497></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=498></a>
 
-##### Section I : Dispositions générales.<a id=498></a>
+##### Section I : Dispositions générales.<a id=499></a>
 
 ###### Article A431-1
 
@@ -61572,9 +83554,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R431-19
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=499></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=500></a>
 
-##### Paragraphe 4 : Risques d'attentat.<a id=500></a>
+##### Paragraphe 4 : Risques d'attentat.<a id=501></a>
 
 ###### Article A431-5
 
@@ -61625,9 +83607,9 @@ _Cite_:
   - Code des assurances - art. L431-10 (V)
 
 
-##### Section III : Opérations de gestion.<a id=501></a>
+##### Section III : Opérations de gestion.<a id=502></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=502></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=503></a>
 
 ###### Article A431-7
 
@@ -61773,7 +83755,7 @@ _Cite_:
   - Loi n°64-706 du 10 juillet 1964 - art. 5 (Ab)
 
 
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=503></a>
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=504></a>
 
 ###### Article A431-8
 
@@ -61934,11 +83916,11 @@ _Cite_:
   - Code des assurances - art. A335-1 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=504></a>
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=505></a>
 
-##### Section III : Risques garantis.<a id=505></a>
+##### Section III : Risques garantis.<a id=506></a>
 
-##### Paragraphe 6 : Dispositions communes.<a id=506></a>
+##### Paragraphe 6 : Dispositions communes.<a id=507></a>
 
 ###### Article A432-1
 
@@ -62183,11 +84165,11 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=507></a>
+### Titre IV : Régimes particuliers d'assurance<a id=508></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=508></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=509></a>
 
-##### Section II : Règles techniques et comptables.<a id=509></a>
+##### Section II : Règles techniques et comptables.<a id=510></a>
 
 ###### Article A441-1
 
@@ -62243,7 +84225,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
-##### Section II : Règles techniques et comptables.<a id=510></a>
+##### Section II : Règles techniques et comptables.<a id=511></a>
 
 ###### Article A441-2
 
@@ -62418,11 +84400,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=511></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=512></a>
 
-### Titre Ier : Présentation des opérations.<a id=512></a>
+### Titre Ier : Présentation des opérations.<a id=513></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=513></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=514></a>
 
 ###### Article A513-1
 
@@ -62597,9 +84579,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R513-2 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=514></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=515></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=515></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=516></a>
 
 ###### Article A514-1
 
@@ -62656,7 +84638,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=516></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=517></a>
 
 ###### Article A516-1
 
