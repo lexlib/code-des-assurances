@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-09-09
+Version Consolidée au 1992-09-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -32140,19 +32140,17 @@ c) Pour la branche 23 :
 
 Le montant minimal réglementaire de la marge est égal à 1 % des avoirs des associations tontinières.
 
-d) Pour les branches 24, 27 et 28 :
+d) Pour la branche 24, à l'exception des opérations de capitalisation exprimées en unités de compte, et les branches 27 et
+28 : le montant minimal réglementaire de la marge est égal au résultat obtenu en multipliant un nombre représentant 4 p. 100
+des provisions mathématiques relatives aux opérations d'assurances directes et aux acceptations brutes de réassurance par le
+rapport mentionné au "premier résultat" défini au a du présent article.
 
-Le montant minimal réglementaire de la marge est égal au résultat obtenu en multipliant un nombre représentant 4 % des
-provisions mathématiques relatives aux opérations d'assurances directes et aux acceptations brutes de réassurance par le
-rapport mentionné au "premier résultat" défini au a) du présent article.
+e) Pour la branche 22, à l'exception des assurances complémentaires, la branche 24 lorsqu'il s'agit des opérations de
+capitalisation exprimées en unités de compte, et la branche 25 : le montant minimal réglementaire de la marge est égal :
 
-e) Pour les branches 22, à l'exception des assurances complémentaires, et 25 :
-
-Le montant minimal réglementaire de la marge est égal :
-
-- lorsque l'entreprise assume un risque de placement, à un nombre représentant 4 % des provisions techniques relatives aux
-opérations d'assurances directes et d'acceptations brutes de réassurance multiplié par le rapport mentionné au "premier
-résultat" défini au a) du présent article ;
+- lorsque l'entreprise assume un risque de placement, à un nombre représentant 4 p. 100 des provisions techniques relatives
+aux opérations d'assurances directes et d'acceptations brutes de réassurance multiplié par le rapport mentionné au "premier
+résultat" défini au a du présent article.
 
 - lorsque l'entreprise n'assume pas de risque de placement, à un nombre représentant 1 % des provisions techniques des
 contrats multiplié par le rapport mentionné au premier résultat du a) du présent article, à la condition que la durée des
@@ -32178,7 +32176,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-349 du 9 mai 1984 - art. 28 () JORF 12 mai 1984
+  - Décret n°92-971 du 11 septembre 1992 - art. 2 () JORF 12 septembre 1992 rectificatif JORF 7 novembre 1992
 
 _Cité par_:
 
