@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-01-08
+Version Consolidée au 1986-02-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -33626,8 +33626,8 @@ Il est créé un conseil national des assurances, dont les attributions sont dé
 Ce conseil, placé sous la présidence du ministre de l'économie et des finances, comprend, indépendamment de son président :
 
 Un vice-président, désigné par le ministre de l'économie et des finances sur proposition du garde des sceaux, ministre de la
-justice, parmi les membres du Conseil d'Etat ayant au moins le rang de conseiller, en activité ou honoraire, et trente-neuf
-membres ainsi répartis :
+justice, parmi les membres du Conseil d'Etat ayant au moins le rang de conseiller, en activité ou honoraire, et quarante et
+un membres ainsi répartis :
 
 Un membre de la Cour de cassation ayant au moins le rang de conseiller, en activité ou honoraire, désigné par le ministre de
 l'économie et des finances sur proposition du garde des sceaux, ministre de la justice, et suppléant le vice-président en cas
@@ -33641,13 +33641,25 @@ Le président du conseil d'administration, directeur général de la caisse cent
 
 Un professeur d'une unité de droit d'une université de Paris, désigné par le ministre de l'économie et des finances ;
 
-Cinq fonctionnaires en activité ou en retraite, désignés à raison de :
+Au titre du ministère de l'économie, des finances et du budget :
 
-Trois par le ministre de l'économie et des finances ;
+- le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 
-Un par le ministre de l'intérieur ;
+- le directeur de la comptabilité publique ;
 
-Un par le ministre de l'agriculture ;
+- le chef du service de la législation fiscale ;
+
+Au titre du ministère de la justice :
+
+- le directeur des affaires civiles et du sceau ;
+
+Au titre du ministère de l'intérieur et de la décentralisation :
+
+- le directeur des libertés publiques et des affaires juridiques ;
+
+Au titre du ministère de l'agriculture :
+
+- le directeur des affaires sociales.
 
 Le délégué général du comité national pour la prévention et la protection ;
 
@@ -33691,7 +33703,7 @@ Aucun syndicat ou fédération ne peut désigner plus d'un représentant ;
 Trois représentants des agents généraux d'assurances, désignés par l'organisation syndicale la plus représentative des agents
 généraux d'assurances ;
 
-Un représentant des courtiers d'assurances, désigné par l'organisation syndicale la plus représentative des courtiers
+Deux représentants des courtiers d'assurances désignés par les organisations les plus représentatives des courtiers
 d'assurances ;
 
 Sept représentants des sociétés d'assurance opérant en France, désignés par l'organisation professionnelle la plus
@@ -33734,7 +33746,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-864 1985-08-02 art. 3 JORF 15 août 1985
+  - Décret n°86-209 1986-02-11 art. 1, art. 2, art. 3 JORF 16 février 1986
 
 **Liens**:
 
