@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-03-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -389,7 +389,7 @@ Version Consolidée au 1994-03-01
       - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#386)
         - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#387)
       - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-3)](#388)
-        - [Chapitre Ier : Dispositions générales. (art. A121-1)](#389)
+        - [Chapitre Ier : Dispositions générales. (art. A121-1 à A121-2)](#389)
         - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-3)](#390)
       - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A131-1 à A132-11)](#391)
         - [Chapitre Ier : Dispositions générales. (art. A131-1 à A131-2)](#392)
@@ -42899,6 +42899,47 @@ _Cite_:
 
   - Code des assurances R321-1
   - Code de la route R138, R231
+
+
+###### Article A121-2
+
+Par dérogation aux dispositions de l'article A. 121-1, les contrats garantissant les risques ci-après peuvent comporter une
+clause de réduction ou de majoration différente de celle mentionnée à cet article : 
+
+1° Contrats garantissant plus de trois véhicules automobiles appartenant à un même propriétaire et dont la conduite exige la
+possession d'un permis de catégorie B. Toutefois, les véhicules destinés à être loués pour une durée au moins égale à douze
+mois ou à être mis en crédit-bail demeurent soumis aux dispositions de l'article A. 121-1.
+
+2° Contrats garantissant les risques agricoles tels qu'ils sont définis par l'article 1001 (1°) du code général des impôts. 
+
+3° Contrats garantissant les véhicules de transport public de voyageurs ou de marchandises, ou tous véhicules dont le poids
+autorisé en charge est supérieur à 3,5 tonnes. 
+
+4° Contrats, souscrits par une personne morale, garantissant plus de trois véhicules automobiles appartenant à des salariés
+ou collaborateurs bénévoles de cette personne morale, à l'occasion de tout déplacement effectué pour les besoins du
+souscripteur du contrat et dans son intérêt exclusif. 
+
+(Annexe non reproduite)
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1979-05-23 art. 1 JORF 30 mai 1979
+
+_Modifié par_:
+
+  - Arrêté 1983-07-22 art. 2 JORF 2 septembre 1983
+  - Arrêté 1994-02-22 art. 1, art. 2 JORF 2 mars 1994
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1001 (VT)
+  - Code des assurances - art. A121-1 (V)
 
 
 #### Chapitre V : L'assurance des risques de catastrophes naturelles.<a id=390></a>
