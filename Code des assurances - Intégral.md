@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-05-07
+Version Consolidée au 1995-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -448,8 +448,8 @@ Version Consolidée au 1995-05-07
         - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#445)
           - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#446)
             - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#447)
-          - [Section I : Tarifs (art. A335-1-1)](#448)
-            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1-1)](#449)
+          - [Section I : Tarifs (art. A335-1)](#448)
+            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1)](#449)
           - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#450)
             - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#451)
       - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe à l'article A344-3)](#452)
@@ -46719,55 +46719,78 @@ _Cite_:
 
 ##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=449></a>
 
-###### Article A335-1-1
+###### Article A335-1
 
-Les tarifs pratiqués par les entreprises d'assurance sur la vie et sur la capitalisation doivent être établis d'après un taux
-au plus égal à 75 p. 100 du taux moyen des emprunts de l'Etat français calculé sur une base semestrielle sans pouvoir
-dépasser 4,5 p. 100 au-delà de huit ans. Pour les contrats à primes périodiques ou à capital variable, quelle que soit leur
-durée, le taux du tarif ne peut excéder 4,5 p. 100.
+Les tarifs pratiqués par les entreprises d'assurance sur la vie et de capitalisation comprennent la rémunération de
+l'entreprise et sont établis d'après les éléments suivants :
 
-En ce qui concerne les contrats libellés en devises étrangères, le taux d'intérêt technique ne sera pas supérieur à 75 p. 100
-du taux moyen des emprunts d'Etat à long terme du pays de la devise concernée calculé sur base semestrielle ou, à défaut, de
-la référence de taux à long terme pertinente pour la devise concernée et équivalente à la référence retenue pour le franc
-français.
+1° Un taux d'intérêt technique fixé dans les conditions prévues à l'article A. 132-1.
 
-Pour les contrats au-delà de huit ans, le taux du tarif ne pourra en outre être supérieur au plafond établi par les
-réglementations en vigueur dans le pays de chaque devise concernée, pour les garanties de même durée, sans pouvoir excéder 60
-p. 100 du taux moyen visé à l'alinéa précédent. Il en est de même pour les contrats à primes périodiques.
+2° Une des tables suivantes :
 
-Pour ce qui est des contrats libellés en ECU, le taux d'intérêt technique ne doit pas être supérieur à 75 p. 100 du taux
-moyen des emprunts de l'Etat français libellés dans cette référence monétaire et calculé sur base semestrielle. Le taux du
-tarif ne peut en outre excéder 4,5 p. 100 au-delà de huit ans, ainsi que pour les contrats à primes périodiques.
+- tables établies sur la base de données publiées par l'Institut national de la statistique et des études économiques, et
+homologuées par arrêté du ministre de l'économie et des finances ;
 
-Le taux moyen des emprunts d'Etat à retenir est le plus élevé des deux taux suivants : taux à l'émisson et taux de rendement
-sur le marché secondaire.
+- tables établies par l'entreprise d'assurance et certifiées par un actuaire indépendant de cette entreprise, agréé à cet
+effet par l'une des associations d'actuaires reconnues par la commission de contrôle des assurances.
 
-Les règles définies au présent article sont à appliquer en fonction des taux en vigueur au moment de la souscription et ne
-sont pas applicables aux opérations de prévoyance collective visées au chapitre Ier du titre IV du livre IV du code des
-assurances. Dans le cas de versements non programmés aux termes du contrat, ces règles sont à apprécier au moment de chaque
-versement.
+Pour les contrats de rentes viagères, le tarif déterminé en utilisant les tables visées au deuxième tiret du 2° ne peut être
+inférieur à celui qui résulterait de l'utilisation des tables visées au premier tiret du 2°.
+
+Pour les contrats collectifs en cas de décès résiliables annuellement, le tarif peut appliquer les tables visées au premier
+tiret du 2° avec une méthode forfaitaire si celle-ci est justifiable.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrête 1984-12-21 art. 1 JORF 26 décembre 1984
+  - Arrêté 1993-03-19 art. 9, art. 13 II JORF 20 mars 1993 en vigueur le 1er juillet 1993
+  - Arrêté 1995-03-28 art. 5 JORF 7 avril 1995 en vigueur le 1er juin 1995
 
 _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Modifié par_:
+**Liens**:
 
-  - Arrêté 1993-03-19 art. 10, art. 13 II JORF 20 mars 1993 en vigueur le 1er juillet 1993
-
-_Abrogé par_:
-
-  - Arrêté 1995-03-28 art. 6 JORF 7 avril 1995 en vigueur le 1er juin 1995
+  - SPEC_APPLI: Arrêté 1993-04-27 (table de mortalité TD 88-90 et TV 88-90)
+  - TXT_SOURCE: Arrêté du 27 avril 1993
+  - TXT_SOURCE: Arrêté du 27 avril 1993 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 27 avril 1993 - art. Annexe (V)
+  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 _Cité par_:
 
-  - Arrêté du 28 mars 1995 - art. 6 (V)
+  - Arrêté du 30 juillet 1987 - art. ANNEXE, 20 (Ab)
+  - Arrêté du 27 avril 1993 - art. 1 (V)
+  - Arrêté du 28 juillet 1993 - art. 1 (V)
+  - Arrêté du 22 avril 2004 - art. 15 (Ab)
+  - Arrêté du 22 avril 2004 - art. 7 (Ab)
+  - Arrêté du 20 décembre 2005 - art. 5 (V)
+  - Arrêté du 20 décembre 2005 - art. 6 (V)
+  - Décret n°2008-284 du 26 mars 2008 - art. 3 (M)
+  - Décret n°2008-284 du 26 mars 2008 - art. 7 (M)
+  - Arrêté du 10 juin 1987 - art. 2 (V)
+  - Code des assurances - art. A111-5 (M)
+  - Code des assurances - art. A134-1 (M)
+  - Code des assurances - art. A331-1 (T)
+  - Code des assurances - art. A331-1-1 (V)
+  - Code des assurances - art. A331-1-2 (V)
+  - Code des assurances - art. A335-1-1 (V)
+  - Code des assurances - art. A335-3 (Ab)
+  - Code des assurances - art. A335-5 (Ab)
+  - Code des assurances - art. A335-6 (Ab)
+  - Code des assurances - art. A431-3 (M)
+  - Code des assurances - art. A431-9 (M)
+  - Code des assurances - art. A433-2 (Ab)
+  - Code des assurances - art. A441-4 (M)
+  - Code des assurances - art. A441-4-1 (Ab)
+  - Code des assurances - art. Annexe art. A344-8 (Ab)
 
-**Liens**:
+_Cite_:
 
-  - TXT_SOURCE: Code des assurances - art. L310-7 (M)
+  - Code des assurances - art. A132-1 (M)
 
 
 ##### Section II : Frais d'acquisition et de gestion<a id=450></a>
