@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1989-01-01
+Version Consolidée au 1989-02-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -202,9 +202,9 @@ Version Consolidée au 1989-01-01
           - [Section I : Personnes assujetties. (art. R*211-1)](#199)
           - [Section II : Etendue de l'obligation d'assurance. (art. R211-2 à R211-8)](#200)
           - [Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur. (art. R211-9 à R211-13-1)](#201)
-          - [Section IV : Contrôle de l'obligation d'assurance. (art. R*211-18 à R211-21-6)](#202)
-            - [Paragraphe 1 : L'attestation d'assurance. (art. R*211-18 à R211-17)](#203)
-            - [Paragraphe 2 : Le certificat d'assurance. (art. R211-21-1 à R211-21-6)](#204)
+          - [Section IV : Contrôle de l'obligation d'assurance. (art. R*211-19 à R211-21-7)](#202)
+            - [Paragraphe 1 : L'attestation d'assurance. (art. R*211-19 à R211-18)](#203)
+            - [Paragraphe 2 : Le certificat d'assurance. (art. R211-21-1 à R211-21-7)](#204)
           - [Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules. (art. R*211-22 à R211-28)](#205)
           - [Section VI : Procédures d'indemnisation. (art. R211-29 à R211-44)](#206)
           - [Section VII : Pénalités. (art. R211-45)](#207)
@@ -16649,48 +16649,6 @@ _Cité par_:
 
 ##### Paragraphe 1 : L'attestation d'assurance.<a id=203></a>
 
-###### Article R*211-18
-
-Pour l'utilisation des véhicules appartenant à l'Etat, non couverts par un contrat d'assurance et n'ayant pas fait l'objet
-d'une immatriculation spéciale, il est établi une attestation de propriété par l'autorité administrative compétente.
-
-Pour les véhicules bénéficiant d'une dérogation intervenue dans les conditions fixées à l'article L. 211-3, les attestations
-nécessaires sont délivrées par le ministre de l'intérieur pour les collectivités publiques, départementales ou communales,
-par le ministre chargé des transports pour les entreprises de transports publics, par le ministre de l'économie et des
-finances dans les autres cas.
-
-Aucune attestation ne peut être délivrée par une autorité qui n'aurait pas reçu délégation à cet effet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°85-879 du 22 août 1985 - art. 1 () JORF 23 août 1985
-
-_Cité par_:
-
-  - Code des assurances - art. A211-4 (V)
-  - Code des assurances - art. R*211-19 (V)
-  - Code des assurances - art. R*214-4 (V)
-  - Code des assurances - art. R211-14 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-_Cite_:
-
-  - Code des assurances - art. L211-3 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°59-135 1959-01-07 art. 20
-
-
 ###### Article R*211-19
 
 Un arrêté conjoint du ministre de l'économie et des finances, du garde des sceaux, ministre de la justice, du ministre de
@@ -16790,8 +16748,9 @@ d'Etat prévu à l'article L. 211-1.
 A défaut d'un de ces documents, la justification est fournie aux autorités judiciaires par tous moyens.
 
 Sera puni de la peine d'amende prévue pour les contraventions de deuxième classe tout conducteur d'un véhicule mentionné à
-l'article L. 211-1 qui ne sera pas en mesure de présenter un des documents justificatifs prévus aux articles R. 211-15 à R.
-211-18.
+l'article L. 211-1 et non soumis à l'obligation prévue à l'article R. 211-21-1 qui ne sera pas en mesure de présenter un des
+documents justificatifs prévus aux articles R. 211-15, R. 211-17 et au deuxième alinéa de l'article R. 211-18. Toutefois, ces
+dispositions ne sont pas applicables lorsque ce conducteur est passible de la sanction prévue à l'alinéa suivant.
 
 Sera punie de la peine d'amende prévue pour les contraventions de la 4e classe toute personne qui, invitée à justifier dans
 un délai de cinq jours de la possession d'un des documents mentionnés à l'alinéa précédent, n'aura pas présenté ce document
@@ -16812,7 +16771,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°86-1043 1986-09-18 art. 26 JORF 19 septembre 1986 en vigueur le 1er octobre 1986
+  - Décret n°89-111 1989-02-21 art. 1 JORF 23 février 1989
 
 _Cité par_:
 
@@ -16838,7 +16797,8 @@ _Cite_:
   - Code des assurances - art. L211-1 (M)
   - Code des assurances - art. L211-3 (Ab)
   - Code des assurances - art. L211-4 (M)
-  - Code des assurances L211-1, L211-3, L211-4, R211-15 à R211-18
+  - Code des assurances - art. R*211-17 (M)
+  - Code des assurances - art. R*211-18 (M)
 
 
 ###### Article R211-15
@@ -16936,13 +16896,14 @@ _Cité par_:
 ###### Article R211-17
 
 Le document justificatif mentionné à l'article R. 211-15 est délivré dans un délai maximal de quinze jours à compter de la
-souscription du contrat et renouvelé lors du paiement des primes ou portions de prime subséquentes.
+souscription du contrat et renouvelé lors du paiement des primes ou portions de prime subséquentes. 
 
-Faute d'établissement immédiat de ce document, l'entreprise d'assurance délivre sans frais, à la souscription du contrat, une
-attestation provisoire qui établit la présomption d'assurance pendant un délai d'un mois.
+Faute d'établissement immédiat de ce document, l'entreprise d'assurance délivre sans frais, à la souscription du contrat ou
+en cours de contrat, une attestation provisoire qui établit la présomption d'assurance pendant la période qu'elle détermine,
+dont la durée ne peut excéder un mois. 
 
-Sera puni de la peine d'amende [*sanction*] prévue pour les contraventions de deuxième classe tout assureur qui aura refusé
-de délivrer un des documents justificatifs mentionnés au présent article.
+Sera puni de la peine d'amende prévue pour les contraventions de deuxième classe tout assureur qui aura refusé de délivrer un
+des documents justificatifs mentionnés au présent article. 
 
 Cette attestation, qui est éventuellement établie en autant d'exemplaires que le document justificatif correspondant, doit
 mentionner :
@@ -16954,12 +16915,15 @@ mentionner :
 - la nature et le type du véhicule ou, en ce qui concerne les contrats d'assurance mentionnés à l'article R. 211-3, la
 profession du souscripteur ;
 
-- la période pendant laquelle elle est valable.
+- la période pendant laquelle elle est valable. 
 
-La carte internationale d'assurance, dite "carte verte", délivrée par le bureau central français des sociétés d'assurances
+La carte internationale d'assurance, dite " carte verte ", délivrée par le bureau central français des sociétés d'assurances
 contre les accidents d'automobile, vaut comme document justificatif pendant sa période de validité. La présomption qu'il a
 été satisfait à l'obligation d'assurance, établie par la carte internationale d'assurance, subsiste un mois à compter de
-l'expiration de cette période.
+l'expiration de cette période. 
+
+La prolongation d'un mois de la présomption mentionnée à l'article R. 211-16 ne s'applique pas à l'attestation provisoire
+mentionnée au deuxième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -16967,16 +16931,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Modifié par_:
-
-  - Décret n°85-879 du 22 août 1985 - art. 1 () JORF 23 août 1985 en vigueur le 1er juillet 1986
-  - Décret n°85-879 du 22 août 1985 - art. 5 () JORF 23 août 1985 en vigueur le 1er juillet 1986
-  - Décret n°85-879 du 22 août 1985 - art. 6 () JORF 23 août 1985 en vigueur le 1er juillet 1986
-  - Décret n°85-879 du 22 août 1985 - art. 7 () JORF 23 août 1985 en vigueur le 1er juillet 1986
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°85-879 du 22 août 1985 - art. 11 (V)
+
+_Modifié par_:
+
+  - Décret n°89-111 1989-02-21 art. 2, art. 3 JORF 23 février 1989
 
 _Cité par_:
 
@@ -16988,26 +16949,23 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. R*211-3 (M)
-  - Code des assurances - art. R211-15 (M)
+  - Code des assurances - art. R211-15 (VT)
+  - Code des assurances - art. R211-16 (V)
+  - Code des assurances - art. R211-3 (V)
 
 
-##### Paragraphe 2 : Le certificat d'assurance.<a id=204></a>
+###### Article R211-18
 
-###### Article R211-21-1
+Pour l'utilisation des véhicules appartenant à l'Etat ou mis à sa disposition, non couverts par un contrat d'assurance et
+n'ayant pas fait l'objet d'une immatriculation spéciale, il est établi une attestation de propriété par l'autorité
+administrative compétente.
 
-Tout souscripteur d'un contrat d'assurance prévu par l'article L. 211-1 doit apposer sur le véhicule automoteur assuré, dans
-les conditions fixées par un arrêté du ministre de l'économie, des finances et du budget, un document justificatif de la
-souscription de ce contrat ou de son renouvellement.
+Pour les véhicules bénéficiant d'une dérogation intervenue dans les conditions fixées à l'article L. 211-3, les attestations
+nécessaires sont délivrées par le ministre de l'intérieur pour les collectivités publiques, départementales ou communales,
+par le ministre chargé des transports pour les entreprises de transports publics, par le ministre de l'économie et des
+finances dans les autres cas.
 
-Ce document est le certificat décrit à l'article R. 211-21-2.
-
-L'apposition du certificat vaut présentation du document prévu à l'article R. 211-14.
-
-Les dispositions de l'alinéa 1er sont applicables aux véhicules mentionnés au titre II du livre Ier du code de la route, dès
-lors que leur poids total autorisé en charge est inférieur à 3,5 tonnes, ainsi qu'aux véhicules mentionnés aux titres IV et V
-du même livre. Elles ne sont pas applicables aux véhicules circulant avec un certificat et un numéro W définis à l'article R.
-111-1 du code de la route.
+Aucune attestation ne peut être délivrée par une autorité qui n'aurait pas reçu délégation à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -17015,9 +16973,48 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°85-879 du 22 août 1985 - art. 8 () JORF 23 août 1985
+  - Décret n°89-111 1989-02-21 art. 4 JORF 23 février 1989
+
+_Cité par_:
+
+  - Code des assurances - art. A211-4 (V)
+  - Code des assurances - art. R*211-19 (V)
+  - Code des assurances - art. R*214-4 (V)
+  - Code des assurances - art. R211-14 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+_Cite_:
+
+  - Code des assurances - art. L211-3 (Ab)
+
+
+##### Paragraphe 2 : Le certificat d'assurance.<a id=204></a>
+
+###### Article R211-21-1
+
+Tout souscripteur d'un contrat d'assurance prévu par l'article L. 211-1 doit apposer sur le véhicule automoteur assuré, dans
+les conditions fixées par un arrêté du ministre chargé de l'économie, le certificat d'assurance décrit aux articles R.
+211-21-2 et R. 211-21-3, alinéa 2.
+
+Les dispositions de l'alinéa 1er sont applicables aux véhicules mentionnés au titre II du livre Ier du code de la route, dès
+lors que leur poids total autorisé en charge est inférieur ou égal à 3,5 tonnes, ainsi qu'aux véhicules mentionnés aux titres
+IV et V du même livre. Elles ne sont pas applicables aux véhicules circulant avec un certificat et un numéro W définis à
+l'article R. 111-1 du code de la route.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°89-111 1989-02-21 art. 5 JORF 23 février 1989
 
 _Cité par_:
 
@@ -17039,6 +17036,7 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L211-1 (M)
+  - Code des assurances - art. R211-21-3 (M)
   - Code de la route R111-1
 
 
@@ -17055,9 +17053,9 @@ b) Un numéro permettant l'identification du souscripteur ;
 
 c) Le numéro d'immatriculation du véhicule ;
 
-d) Le nom du souscripteur lorsque le véhicule n'est pas soumis à immatriculation ;
+d) Le numéro de moteur lorsque le véhicule n'est pas soumis à immatriculation ;
 
-e) Sa date de fin de validité ou, pour le certificat provisoire, sa date de délivrance.
+e) Les dates de début et de fin de validité.
 
 Par dérogation au deuxième alinéa, le certificat délivré aux personnes mentionnées à l'alinéa 1er de l'article R. 211-3 ne
 doit comporter que les indications a, b et e ainsi qu'en termes apparents le mot "Garage".
@@ -17071,10 +17069,6 @@ une des personnes mentionnées à l'alinéa 1er de l'article R. 211-3.
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°85-879 du 22 août 1985 - art. 8 () JORF 23 août 1985
 
 **Liens**:
 
@@ -17094,6 +17088,10 @@ _Cité par_:
   - Code des assurances - art. R211-21-3 (V)
   - Code des assurances - art. R211-21-5 (V)
 
+_Modifié par_:
+
+  - Décret n°89-111 1989-02-21 art. 6 JORF 23 février 1989
+
 _Cite_:
 
   - Code des assurances - art. R*211-3 (M)
@@ -17102,26 +17100,26 @@ _Cite_:
 ###### Article R211-21-3
 
 Le certificat mentionné à l'article R. 211-21-2 est délivré par l'entreprise d'assurance dans un délai maximal de quinze
-jours à compter de la prise d'effet du contrat et renouvelé à l'occasion des échéances contractuelles suivantes.
+jours à compter de la souscription du contrat et renouvelé lors du paiement des primes ou portions de primes subséquentes. 
 
-Faute d'établissement immédiat de ce document, l'entreprise d'assurance ou son mandataire délivre, sans frais, à la
-souscription du contrat un certificat provisoire valable un mois.
+Faute d'établissement immédiat de ce document, l'entreprise d'assurance délivre, sans frais, à la souscription du contrat ou
+en cours de contrat, un certificat provisoire. 
 
-En cas de perte ou de vol du certificat, l'assureur en délivre un double sur la demande justifiée du souscripteur du contrat.
+Les dates de validité portées sur le certificat et le certificat provisoire sont les mêmes que celles portées sur
+l'attestation et l'attestation provisoire. 
 
-Sera puni de la peine d'amende [*sanctions*] prévue pour les contraventions de deuxième classe tout assureur qui aura refusé
-de délivrer un certificat ou qui aura délivré un certificat non conforme aux dispositions fixées par le ministre de
-l'économie, des finances et du budget.
+En cas de perte ou de vol du certificat, l'assureur en délivre un double sur la demande justifiée du souscripteur du
+contrat. 
+
+Sera puni de la peine d'amende prévue pour les contraventions de deuxième classe tout assureur qui aura refusé de délivrer un
+certificat ou qui aura délivré un certificat non conforme aux dispositions fixées par le ministre de l'économie, des finances
+et du budget.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°85-879 du 22 août 1985 - art. 8 () JORF 23 août 1985
 
 **Liens**:
 
@@ -17134,9 +17132,13 @@ _Cité par_:
   - Décret n°85-879 du 22 août 1985 - art. 9 (V)
   - Code des assurances - art. R211-21-1 (M)
 
+_Modifié par_:
+
+  - Décret n°89-111 1989-02-21 art. 7 JORF 23 février 1989
+
 _Cite_:
 
-  - Code des assurances - art. R211-21-2 (M)
+  - Code des assurances - art. R211-21-2 (V)
 
 
 ###### Article R211-21-4
@@ -17231,6 +17233,32 @@ _Cite_:
   - Code des assurances - art. R*211-22 (V)
   - Code des assurances - art. R211-14 (V)
   - Code des assurances - art. R211-21-1 (V)
+
+
+###### Article R211-21-7
+
+Les véhicules visés au deuxième alinéa de l'article R. 211-21-1 utilisés par l'Etat ainsi que les véhicules appartenant à une
+collectivité bénéficiaire d'une dérogation à l'obligation d'assurance doivent être équipés, lorsqu'ils ne font pas l'objet
+d'une immatriculation spéciale, d'un certificat d'assurance spécifique dont les caractéristiques sont fixées par le ministre
+chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°89-111 1989-02-21 art. 8 JORF 23 février 1989
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+_Cite_:
+
+  - Code des assurances - art. R211-21-1 (M)
 
 
 ##### Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules.<a id=205></a>
