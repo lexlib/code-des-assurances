@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-12-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -2283,15 +2283,18 @@ _Anciens textes_:
 
 ###### Article L122-7
 
-Les contrats d'assurance garantissant les dommages d'incendie à des biens situés en France ainsi qu'aux corps de véhicules
-terrestres à moteur ouvrent droit à la garantie de l'assuré contre les effets du vent dû aux tempêtes, ouragans ou cyclones,
-sur les biens faisant l'objet de tels contrats.
+Les contrats d'assurance garantissant les dommages d'incendie ou tous autres dommages à des biens situés en France, ainsi que
+les dommages aux corps de véhicules terrestres à moteur, ouvrent droit à la garantie de l'assuré contre les effets du vent dû
+aux tempêtes, ouragans et cyclones, sur les biens faisant l'objet de tels contrats, sauf en ce qui concerne les effets du
+vent dû à un événement cyclonique pour lequel les vents maximaux de surface enregistrés ou estimés sur la zone sinistrée ont
+atteint ou dépassé 145 km/h en moyenne sur dix minutes ou 215 km/h en rafales, qui relèvent des dispositions des articles L.
+125-1 et suivants du présent code.
 
 Sont exclus les contrats garantissant les dommages d'incendie causés aux récoltes non engrangées, aux cultures et au cheptel
 vif hors bâtiments.
 
-En outre, si l'assuré est couvert contre les pertes d'exploitation après incendie, cette garantie est étendue aux effets du
-vent dû aux tempêtes, ouragans ou cyclones.
+En outre, si l'assuré est couvert contre les pertes d'exploitation, cette garantie est étendue aux effets des tempêtes,
+ouragans ou cyclones, dans les conditions du contrat correspondant.
 
 **Liens relatifs à cet article**
 
@@ -2301,7 +2304,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-5 du 3 janvier 1991 - art. 34 () JORF 6 janvier 1991
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 13
 
 _Cité par_:
 
@@ -2327,6 +2330,10 @@ _Cité par_:
   - Code des assurances - art. L111-5 (Ab)
   - Code des assurances - art. L193-2 (V)
   - Code des assurances - art. L194-1 (VD)
+
+_Cite_:
+
+  - Code des assurances - art. L125-1 (M)
 
 
 #### Chapitre III : Les assurances contre la grêle et la mortalité du bétail.<a id=11></a>
