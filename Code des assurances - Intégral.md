@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1983-04-22
+Version Consolidée au 1983-06-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -11038,7 +11038,18 @@ La caisse nationale de prévoyance a pour objet de pratiquer, sous la garantie d
 vie, d'assurance complémentaire aux assurances sur la vie, d'assurance invalidité et d'assurance contre les accidents du
 travail.
 
+Ces opérations font l'objet de deux gestions distinctes selon qu'elles relèvent des 1°, 2°, 3° et 4° d'une part, ou du 5°,
+d'autre part, de l'article L. 310-1.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°83-453 du 7 juin 1983 - art. 4 () JORF 8 juin 1983
 
 **Liens**:
 
@@ -11046,19 +11057,9 @@ travail.
   - TXT_ASSOCIE: Code des assurances - art. L160-17 (Ab)
   - TXT_ASSOCIE: Code des assurances L111-1, L160-17, L441-1 à L441-11
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°1938-05-02 art. 3
-  - Loi n°1868-07-11 art. 1, art. 7
-  - Loi n°1886-07-20 art. 1
-  - Loi n°1897-07-17 art. 1
-  - Loi n°1899-05-24 art. 1
-  - Loi n°1910-03-09 art. 1
-  - Loi n°1928-03-08 art. 1
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
+  - Code des assurances - art. L310-1 (M)
 
 
 ###### Article L433-2
