@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-03-03
+Version Consolidée au 1994-05-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -323,7 +323,7 @@ Version Consolidée au 1994-03-03
         - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. R353-1 à R353-6)](#320)
           - [Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française. (art. R353-1 à R353-4)](#321)
           - [Section II : Règles relatives aux entreprises établies en France et prenant des engagements dans un ou plusieurs autres Etats membres des communautés européennes. (art. R353-5 à R353-6)](#322)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R*411-4 à R*441-30)](#323)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R*411-4 à R442-11)](#323)
       - [Titre Ier : Organisations générales d'assurance. (art. R*411-4 à R*412-2)](#324)
         - [Chapitre I : Le conseil national des assurances (art. R*411-4 à R411-3)](#325)
         - [Chapitre II : L'école nationale d'assurances. (art. R*412-1 à R*412-2)](#326)
@@ -346,7 +346,7 @@ Version Consolidée au 1994-03-03
         - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-2 à R422-9)](#343)
       - [Titre II : Les fonds de garantie (art. R422-1)](#344)
         - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-1)](#345)
-      - [Titre III : Organismes particuliers d'assurance (art. R*431-6 à R*432-48)](#346)
+      - [Titre III : Organismes particuliers d'assurance (art. R*431-6 à R431-59)](#346)
         - [Chapitre Ier : La caisse centrale de réassurance. (art. R*431-6 à R431-59)](#347)
           - [Section I : Dispositions générales. (art. R*431-6 à R431-6-2)](#348)
           - [Section II : Opérations effectuées avec la garantie de l'Etat (art. R431-16-1 à R431-31)](#349)
@@ -356,145 +356,142 @@ Version Consolidée au 1994-03-03
           - [Section III : Opérations de gestion (art. R431-33 à R431-59)](#353)
             - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. R431-33 à R431-38)](#354)
             - [Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction. (art. R*431-55 à R431-59)](#355)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur "coface" (art. R*432-1 à R*432-48)](#356)
-          - [Section I : Dispositions générales. (art. R*432-1 à R432-5)](#357)
-          - [Section II : Administration et fonctionnement. (art. R*432-7 à R*432-20)](#358)
-          - [Section III : Risques garantis (art. R*432-21 à R*432-48)](#359)
-            - [Paragraphe 1 : Dispositions générales. (art. R*432-21 à R*432-23)](#360)
-            - [Paragraphe 2 : Opérations d'exportation. (art. R*432-24 à R*432-31)](#361)
-            - [Paragraphe 3 : Prêts ou crédits bancaires. (art. R*432-32 à R*432-37)](#362)
-            - [Paragraphe 4 : Investissements. (art. R*432-38 à R*432-40)](#363)
-            - [Paragraphe 5 : Opérations d'importation. (art. R*432-41 à R*432-45)](#364)
-            - [Paragraphe 6 : Dispositions communes. (art. R*432-46 à R*432-48)](#365)
-      - [Titre IV : Régimes particuliers d'assurance (art. R*441-2 à R*441-30)](#366)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. R*441-2 à R*441-30)](#367)
-          - [Section I : Dispositions générales. (art. R*441-2 à R441-1)](#368)
-          - [Section II : Règles techniques et comptables. (art. R*441-4 à R441-21)](#369)
-          - [Section III : Règles relatives au retrait de l'agrément. (art. R*441-29 à R441-28)](#370)
-          - [Section IV : Dispositions transitoires. (art. R*441-30)](#371)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. R*511-1 à R530-11)](#372)
-      - [Titre I : Présentation des opérations (art. R*511-1 à R*516-1)](#373)
-        - [Chapitre I : Principes généraux. (art. R*511-1 à R511-6)](#374)
-        - [Chapitre II : Dérogations aux principes généraux (art. R*512-1 à R512-5)](#375)
-          - [Section I : Dérogations permanentes. (art. R*512-1 à R512-5)](#376)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. R*513-6 à R513-4)](#377)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. R*514-1 à R*514-17)](#378)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R*514-1 à R514-3)](#379)
-          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-6 à R514-5)](#380)
-          - [Section III : Modalités de contrôle spéciales aux conditions d'honorabilité. (art. R*514-8 à R*514-13)](#381)
-          - [Section IV : Dispositions diverses et pénalités. (art. R*514-14 à R*514-17)](#382)
-        - [Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France (art. R515-1 à R*515-7)](#383)
-          - [Section I : Conditions de capacité professionnelle. (art. R515-1 à R515-5)](#384)
-          - [Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité. (art. R*515-6 à R*515-7)](#385)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. R*516-1)](#386)
-      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. R530-1 à R530-11)](#387)
-        - [Chapitre unique. (art. R530-1 à R530-11)](#388)
-  - [Partie réglementaire - Arrêtés (art. A113-1 à A516-2)](#389)
-    - [Livre Ier : Le contrat (art. A113-1 à A160-4)](#390)
-      - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#391)
-        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#392)
-      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-3)](#393)
-        - [Chapitre Ier : Dispositions générales. (art. A121-1 à A121-2)](#394)
-        - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-3)](#395)
-      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A131-1 à A132-11)](#396)
-        - [Chapitre Ier : Dispositions générales. (art. A131-1 à A131-2)](#397)
-          - [Section I : Valeur de référence au contrat. (art. A131-1 à A131-2)](#398)
-        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. A132-5 à A132-11)](#399)
-          - [Section III : Participation aux bénéfices techniques et financiers. (art. A132-5 à A132-11)](#400)
-      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. A160-1 à A160-4)](#401)
-        - [Chapitre unique (art. A160-1 à A160-4)](#402)
-          - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. A160-1 à Annexe à l'article A160-1)](#403)
-          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-3)](#404)
-          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-2 à A160-4)](#405)
-    - [Livre II : Assurances obligatoires (art. A211-1 à A250-2)](#406)
-      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. A211-1 à A213-4)](#407)
-        - [Chapitre Ier : L'obligation de s'assurer (art. A211-1 à Annexe art. A211-11)](#408)
-          - [Section I : Personnes assujetties. (art. A211-1)](#409)
-          - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-1 à A211-1-2)](#410)
-          - [Section III : Franchises, exclusions de garantie et déchéances. (art. A211-3)](#411)
-          - [Section IV : Contrôle de l'obligation d'assurance (art. A211-4 à A211-10)](#412)
-            - [Paragraphe 1 : L'attestation d'assurance. (art. A211-4 à A211-8)](#413)
-            - [Paragraphe 2 : Le certificat d'assurance. (art. A211-9 à A211-10)](#414)
-          - [Section VI : Procédures d'indemnisation. (art. A211-11 à Annexe art. A211-11)](#415)
-        - [Chapitre III : Contribution au profit de la sécurité sociale. (art. A213-1 à A213-4)](#416)
-      - [Titre II : L'assurance des engins de remontée mécanique (art. A220-3 à Annexe art. A220-3)](#417)
-        - [Chapitre unique. (art. A220-3 à Annexe art. A220-3)](#418)
-      - [Titre III : L'assurance de la responsabilité civile des chasseurs (art. A230-5 à Annexe art A230-7)](#419)
-        - [Chapitre unique. (art. A230-5 à Annexe art A230-7)](#420)
-      - [Titre IV : L'assurance des travaux de bâtiment (art. A243-2)](#421)
-      - [Titre V : Dispositions relatives au bureau central de tarification. (art. A250-1 à A250-2)](#422)
-    - [Livre III : Les entreprises. (art. A310-1 à A353-1)](#423)
-      - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. A310-1 à A310-2)](#424)
-        - [Chapitre I (art. A310-1 à A310-3)](#425)
-          - [Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants. (art. A310-1 à A310-3)](#426)
-        - [Chapitre unique (art. A310-2)](#427)
-          - [Section I : Dispositions générales. (art. A310-2)](#428)
-      - [Titre II : Régime administratif (art. A322-6 à A322-7)](#429)
-        - [Chapitre II : Règles de constitution et de fonctionnement (art. A322-6 à A322-7)](#430)
-          - [Section IV : Sociétés d'assurance à forme mutuelle. (art. A322-6 à A322-7)](#431)
-            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. A322-6 à A322-7)](#432)
-      - [Titre III : Régime financier. (art. A331-1 à A335-19)](#433)
-        - [Chapitre Ier : Les engagements réglementés. (art. A331-1 à A331-24)](#434)
-          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1)](#435)
-          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1-1 à A331-2)](#436)
-          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-11 à A331-24)](#437)
-            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-11 à A331-12)](#438)
-            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-24)](#439)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-5 à A332-6)](#440)
-          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#441)
-        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#442)
-        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-3)](#443)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#444)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#445)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#446)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#447)
-        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#448)
-          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#449)
-            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#450)
-          - [Section I : Tarifs (art. A335-1-1)](#451)
-            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1-1)](#452)
-          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#453)
-            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#454)
-      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe à l'article A344-3)](#455)
-        - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#456)
-        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe à l'article A344-3)](#457)
-          - [Section I : Dispositions générales. (art. A344-1 à A344-3)](#458)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#459)
-          - [Section III : Etats à produire. (art. A344-6 à A344-8)](#460)
-          - [Section III : Etats à produire. (art. Annexe art. A344-3 (suite 1) à Annexe à l'article A344-3)](#461)
-      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#462)
-        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#463)
-          - [Section II : Conditions d'exercice (art. A353-1)](#464)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-2)](#465)
-      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#466)
-        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#467)
-          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#468)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#469)
-          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#470)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#471)
-          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#472)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#473)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#474)
-      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#475)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#476)
-          - [Section I : Dispositions générales. (art. A431-1)](#477)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#478)
-            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#479)
-          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#480)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#481)
-            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#482)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#483)
-          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#484)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#485)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#486)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#487)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#488)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#489)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#490)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#491)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#492)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#493)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#494)
+      - [Titre IV : Régimes particuliers d'assurance (art. R*441-2 à R442-11)](#356)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. R*441-2 à R*441-30)](#357)
+          - [Section I : Dispositions générales. (art. R*441-2 à R441-1)](#358)
+          - [Section II : Règles techniques et comptables. (art. R*441-4 à R441-21)](#359)
+          - [Section III : Règles relatives au retrait de l'agrément. (art. R*441-29 à R441-28)](#360)
+          - [Section IV : Dispositions transitoires. (art. R*441-30)](#361)
+        - [Chapitre II : Autres régimes particuliers d'assurance (art. R442-1 à R442-11)](#362)
+          - [Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux (art. R442-1 à R442-11)](#363)
+            - [Paragraphe 1 : Dispositions générales. (art. R442-1 à R442-7-2)](#364)
+            - [Paragraphe 2 : Opérations d'exportation. (art. R442-8-1 à R442-8-6)](#365)
+            - [Paragraphe 3 : Opérations d'investissement. (art. R442-9-1 à R442-9-3)](#366)
+            - [Paragraphe 4 : Opérations d'importation. (art. R442-10-1 à R442-10-5)](#367)
+            - [Paragraphe 5 : Dispositions communes. (art. R442-11)](#368)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. R*511-1 à R530-11)](#369)
+      - [Titre I : Présentation des opérations (art. R*511-1 à R*516-1)](#370)
+        - [Chapitre I : Principes généraux. (art. R*511-1 à R511-6)](#371)
+        - [Chapitre II : Dérogations aux principes généraux (art. R*512-1 à R512-5)](#372)
+          - [Section I : Dérogations permanentes. (art. R*512-1 à R512-5)](#373)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. R*513-6 à R513-4)](#374)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. R*514-1 à R*514-17)](#375)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R*514-1 à R514-3)](#376)
+          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-6 à R514-5)](#377)
+          - [Section III : Modalités de contrôle spéciales aux conditions d'honorabilité. (art. R*514-8 à R*514-13)](#378)
+          - [Section IV : Dispositions diverses et pénalités. (art. R*514-14 à R*514-17)](#379)
+        - [Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France (art. R515-1 à R*515-7)](#380)
+          - [Section I : Conditions de capacité professionnelle. (art. R515-1 à R515-5)](#381)
+          - [Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité. (art. R*515-6 à R*515-7)](#382)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. R*516-1)](#383)
+      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. R530-1 à R530-11)](#384)
+        - [Chapitre unique. (art. R530-1 à R530-11)](#385)
+  - [Partie réglementaire - Arrêtés (art. A113-1 à A516-2)](#386)
+    - [Livre Ier : Le contrat (art. A113-1 à A160-4)](#387)
+      - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#388)
+        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#389)
+      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-3)](#390)
+        - [Chapitre Ier : Dispositions générales. (art. A121-1 à A121-2)](#391)
+        - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-3)](#392)
+      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A131-1 à A132-11)](#393)
+        - [Chapitre Ier : Dispositions générales. (art. A131-1 à A131-2)](#394)
+          - [Section I : Valeur de référence au contrat. (art. A131-1 à A131-2)](#395)
+        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. A132-5 à A132-11)](#396)
+          - [Section III : Participation aux bénéfices techniques et financiers. (art. A132-5 à A132-11)](#397)
+      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. A160-1 à A160-4)](#398)
+        - [Chapitre unique (art. A160-1 à A160-4)](#399)
+          - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. A160-1 à Annexe à l'article A160-1)](#400)
+          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-3)](#401)
+          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-2 à A160-4)](#402)
+    - [Livre II : Assurances obligatoires (art. A211-1 à A250-2)](#403)
+      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. A211-1 à A213-4)](#404)
+        - [Chapitre Ier : L'obligation de s'assurer (art. A211-1 à Annexe art. A211-11)](#405)
+          - [Section I : Personnes assujetties. (art. A211-1)](#406)
+          - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-1 à A211-1-2)](#407)
+          - [Section III : Franchises, exclusions de garantie et déchéances. (art. A211-3)](#408)
+          - [Section IV : Contrôle de l'obligation d'assurance (art. A211-4 à A211-10)](#409)
+            - [Paragraphe 1 : L'attestation d'assurance. (art. A211-4 à A211-8)](#410)
+            - [Paragraphe 2 : Le certificat d'assurance. (art. A211-9 à A211-10)](#411)
+          - [Section VI : Procédures d'indemnisation. (art. A211-11 à Annexe art. A211-11)](#412)
+        - [Chapitre III : Contribution au profit de la sécurité sociale. (art. A213-1 à A213-4)](#413)
+      - [Titre II : L'assurance des engins de remontée mécanique (art. A220-3 à Annexe art. A220-3)](#414)
+        - [Chapitre unique. (art. A220-3 à Annexe art. A220-3)](#415)
+      - [Titre III : L'assurance de la responsabilité civile des chasseurs (art. A230-5 à Annexe art A230-7)](#416)
+        - [Chapitre unique. (art. A230-5 à Annexe art A230-7)](#417)
+      - [Titre IV : L'assurance des travaux de bâtiment (art. A243-2)](#418)
+      - [Titre V : Dispositions relatives au bureau central de tarification. (art. A250-1 à A250-2)](#419)
+    - [Livre III : Les entreprises. (art. A310-1 à A353-1)](#420)
+      - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. A310-1 à A310-2)](#421)
+        - [Chapitre I (art. A310-1 à A310-3)](#422)
+          - [Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants. (art. A310-1 à A310-3)](#423)
+        - [Chapitre unique (art. A310-2)](#424)
+          - [Section I : Dispositions générales. (art. A310-2)](#425)
+      - [Titre II : Régime administratif (art. A322-6 à A322-7)](#426)
+        - [Chapitre II : Règles de constitution et de fonctionnement (art. A322-6 à A322-7)](#427)
+          - [Section IV : Sociétés d'assurance à forme mutuelle. (art. A322-6 à A322-7)](#428)
+            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. A322-6 à A322-7)](#429)
+      - [Titre III : Régime financier. (art. A331-1 à A335-19)](#430)
+        - [Chapitre Ier : Les engagements réglementés. (art. A331-1 à A331-24)](#431)
+          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1)](#432)
+          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1-1 à A331-2)](#433)
+          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-11 à A331-24)](#434)
+            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-11 à A331-12)](#435)
+            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-24)](#436)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-5 à A332-6)](#437)
+          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#438)
+        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#439)
+        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-3)](#440)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#441)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#442)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#443)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#444)
+        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#445)
+          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#446)
+            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#447)
+          - [Section I : Tarifs (art. A335-1-1)](#448)
+            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1-1)](#449)
+          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#450)
+            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#451)
+      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe à l'article A344-3)](#452)
+        - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#453)
+        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe à l'article A344-3)](#454)
+          - [Section I : Dispositions générales. (art. A344-1 à A344-3)](#455)
+          - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#456)
+          - [Section III : Etats à produire. (art. A344-6 à A344-8)](#457)
+          - [Section III : Etats à produire. (art. Annexe art. A344-3 (suite 1) à Annexe à l'article A344-3)](#458)
+      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#459)
+        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#460)
+          - [Section II : Conditions d'exercice (art. A353-1)](#461)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-2)](#462)
+      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#463)
+        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#464)
+          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#465)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#466)
+          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#467)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#468)
+          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#469)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#470)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#471)
+      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#472)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#473)
+          - [Section I : Dispositions générales. (art. A431-1)](#474)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#475)
+            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#476)
+          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#477)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#478)
+            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#479)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#480)
+          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#481)
+            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#482)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#483)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#484)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#485)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#486)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#487)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#488)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#489)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#490)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#491)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -40392,1164 +40389,11 @@ _Cite_:
   - Code des assurances - art. L431-14 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur "coface"<a id=356></a>
+### Titre IV : Régimes particuliers d'assurance<a id=356></a>
 
-##### Section I : Dispositions générales.<a id=357></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=357></a>
 
-###### Article R*432-1
-
-La société nationale dénommée Compagnie française d'assurance pour le commerce extérieur (Coface) a pour objet, afin de
-servir, à titre principal, les intérêts du commerce extérieur :
-
-1° De garantir les risques d'assurance-crédit et la bonne fin des opérations commerciales et financières et, plus
-généralement, d'offrir tous services d'assurances connexes ou de nature à favoriser le développement de ces opérations ;
-
-2° De garantir, pour le compte de l'Etat et sous son contrôle, les risques liés aux échanges internationaux, risques
-commerciaux, politiques, monétaires, catastrophiques, ainsi que certains risques dits extraordinaires mentionnés à l'article
-L. 432-2 du code des assurances. Ces risques bénéficient de la garantie de l'Etat au titre de l'article L. 432-2 dudit code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-303 du 22 mars 1991 - art. 1 () JORF 24 mars 1991
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-_Cite_:
-
-  - Code des assurances - art. L432-2 (M)
-
-
-###### Article R*432-2
-
-Peuvent être actionnaires de la coface la caisse des dépôts et consignations et, sous réserve de l'accord du conseil
-d'administration et du ministre chargé de l'économie et des finances, les établissements de crédit et les compagnies
-financières visées par la loi n° 84-46 du 24 janvier 1984 ainsi que les entreprises régies par le code des assurances ou les
-sociétés qui détiennent la majorité du capital de ces établissements, compagnies ou entreprises.
-
-Ces établissements, compagnies ou entreprises peuvent se substituer, avec l'accord du conseil d'administration de la coface
-et du ministre chargé de l'économie et des finances, les filiales dont ils possèdent la majorité du capital.
-
-Le montant du capital ainsi que toute modification dans sa composition sont fixés, après accord de l'assemblée générale des
-actionnaires de la Coface et des établissements, compagnies ou entreprises intéressés, par délibération du conseil
-d'administration soumise à l'approbation du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cite_:
-
-  - Loi n°84-46 1984-01-24
-
-_Modifié par_:
-
-  - Décret n°91-303 du 22 mars 1991 - art. 2 () JORF 24 mars 1991
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-3
-
-Les risques mentionnés au 2° de l'article R. 432-1 sont définis par décret en Conseil d'Etat, pris sur le rapport du ministre
-de l'économie et des finances.
-
-Les garanties relatives à ces risques sont délivrées par la coface conformément à l'avis de la commission des garanties et du
-crédit au commerce extérieur mentionnée à l'article L. 432-3.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-303 du 22 mars 1991 - art. 3 () JORF 24 mars 1991
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-_Cite_:
-
-  - Code des assurances - art. L432-3 (M)
-  - Code des assurances L432-3, R432-1
-
-
-###### Article R*432-4
-
-Les mesures d'application des articles R. 432-1 à R. 432-3 sont fixées par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°46-1332 1946-06-01 art. 17
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances A432-1 à A432-9
-
-_Cite_:
-
-  - Code des assurances R432-1, R432-2, R432-3
-
-
-###### Article R*432-6
-
-La compagnie française d'assurance pour le commerce extérieur est soumise au contrôle économique et financier de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-639 du 22 mai 1957 - art. 1 (V)
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R432-5
-
-Le président de la compagnie française d'assurance pour le commerce extérieur adresse chaque année au président de la
-commission des garanties et du crédit au commerce extérieur un rapport sur les opérations effectuées par la compagnie avec la
-garantie de l'Etat.
-
-Le président de ladite commission transmet ce rapport avec ses observations au ministre de l'économie et des finances, qui le
-communique aux commissions des finances de l'Assemblée nationale et du Sénat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°49-1077 du 4 août 1949 - art. 4 (V)
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-##### Section II : Administration et fonctionnement.<a id=358></a>
-
-###### Article R*432-7
-
-La Compagnie française d'assurance pour le commerce extérieur est administrée par un conseil de dix-huit membres, à savoir :
-
-a) Six administrateurs désignés par l'assemblée générale des actionnaires.
-
-b) Six administrateurs nommés par décret pris sur le rapport du ministre de l'économie, des finances et du budget, parmi les
-personnes ayant une vaste expérience du commerce extérieur, dont trois parmi les personnes exerçant ou ayant exercé
-effectivement des professions industrielles, commerciales ou agricoles, après consultation des organisations professionnelles
-ou inter-professionnelles les plus représentatives, après avis du ministre chargé de l'agriculture pour l'une des trois et du
-ministre chargé de l'industrie pour les deux autres, et dont deux autres après avis du ministre chargé du commerce extérieur.
-
-c) Six administrateurs représentant les salariés, élus dans les conditions prévues au chapitre II de la loi n° 83-675 du 26
-juillet 1983.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cite_:
-
-  - Loi n°83-675 1983-07-26
-
-_Modifié par_:
-
-  - Décret n°91-303 du 22 mars 1991 - art. 4 () JORF 24 mars 1991
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-8
-
-Le président du conseil d'administration est nommé parmi les membres du conseil et sur proposition de celui-ci, par décret
-pris sur le rapport du ministre de l'économie, des finances et du budget. Il peut être révoqué par décret. Il peut exercer
-les fonctions de directeur général de l'établissement à la tête duquel il est placé.
-
-Le président peut proposer au conseil d'administration de lui adjoindre, pour l'assister, un directeur général. Celui-ci est
-alors désigné par arrêté du ministre de l'économie et des finances, pris sur la proposition du conseil d'administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°84-337 1984-05-07 art. 3 JORF 8 mai 1984
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-10 bis
-
-Le conseil d'administration se réunit dans les conditions fixées à l'article 8 de la loi n° 83-675 du 26 juillet 1983 et au
-moins une fois par trimestre.
-
-Il peut être convoqué à la requête des commissaires du Gouvernement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cite_:
-
-  - Loi n°83-675 du 26 juillet 1983 - art. 8 (V)
-
-_Créé par_:
-
-  - Décret n°84-337 1984-05-07 art. 2 JORF 8 mai 1984
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-11
-
-Le ministre de l'économie et des finances désigne auprès de la compagnie française d'assurance pour le commerce extérieur
-deux fonctionnaires de son département pour exercer les fonctions de commissaire du Gouvernement.
-
-Les commissaires du Gouvernement assistent à toutes les séances du conseil d'administration ou des comités qui pourraient
-être institués par lui. Ils peuvent prendre connaissance, à tout moment, de la comptabilité de l'établissement, ainsi que de
-la correspondance.
-
-Ils peuvent opposer leur veto à toute décision du conseil d'administration ou des comités institués par lui, qui serait
-contraire à l'intérêt national.
-
-La compagnie peut, dans un délai de huit jours, faire appel de la décision d'un commissaire du Gouvernement devant le
-ministre de l'économie et des finances, qui est tenu de se prononcer dans les dix jours.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°46-1332 1946-06-01 art. 15
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-12
-
-La Compagnie française d'assurance pour le commerce extérieur est soumise aux dispositions du code du commerce, des lois en
-vigueur sur les sociétés anonymes et de la loi relative à la démocratisation du secteur public, ainsi qu'aux lois et
-règlements concernant les entreprises d'assurance dans la mesure où il n'y est pas dérogé par le présent chapitre.
-
-Elle est dispensée des formalités légales de constitution, notamment des formalités de publicité.
-
-Ses statuts doivent être approuvés par décret en Conseil d'Etat, pris sur le rapport du ministre de l'économie et des
-finances.
-
-Toutefois, les modifications des statuts résultant seulement d'une modification du capital ne sont soumises qu'à
-l'approbation du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°84-337 1984-05-07 art. 5 JORF 8 mai 1984
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°84-776 1984-08-09 *approbation de la modification des statuts*
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-13
-
-Les polices d'assurance crédit délivrées par la compagnie aux exportateurs, aux importateurs, aux banques et établissements
-financiers couvrent ceux-ci contre les risques politiques, monétaires, catastrophiques et commerciaux extraordinaires pour
-lesquels l'Etat donne sa garantie ; pour l'établissement des polices et leur exécution, la compagnie se conforme aux
-décisions du ministre de l'économie et des finances qui lui sont transmises par l'intermédiaire de la commission des
-garanties et du crédit au commerce extérieur dans les conditions définies par les articles R. 432-21 à R. 432-48.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-318 1957-03-16 art. 2
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-_Cite_:
-
-  - Code des assurances R432-21 à R432-48
-
-
-###### Article R*432-14
-
-La compagnie tient sa comptabilité suivant la réglementation en vigueur.
-
-Cette comptabilité fait apparaître en un compte, dit "Compte du Trésor", les opérations mentionnées au 2° de l'article R.
-432-1 ainsi que les prélèvements ou versements effectués par application des dispositions des articles R. 432-13, R. 432-15,
-R. 432-16 et R. 432-18.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-303 du 22 mars 1991 - art. 5 () JORF 24 mars 1991
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-_Cite_:
-
-  - Code des assurances R432-1, R432-13, R432-15, R432-16, R432-18
-
-
-###### Article R*432-15
-
-En cas d'insuffisance de ses propres disponibilités, la compagnie est autorisée à faire, par le débit du compte du Trésor,
-des prélèvements temporaires destinés à lui fournir les ressources de trésorerie qui lui sont nécessaires.
-
-Ces opérations sont régularisées en fin d'exercice.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-318 1957-03-16 art. 6
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-16
-
-Afin de couvrir les frais exposés par la compagnie pour la gestion des opérations prévues à l'article R. 432-13, opérations
-garanties par l'Etat, des prélèvements forfaitaires sont portés par débit du compte du Trésor au crédit de la compagnie dans
-des conditions définies par convention entre le ministre de l'économie et des finances et la compagnie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-318 1957-03-16 art. 7
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-_Cite_:
-
-  - Code des assurances R432-13
-
-
-###### Article R*432-18
-
-Lorsque le compte du Trésor fait apparaître une insuffisance de disponibilité, la compagnie peut faire jouer la garantie
-prévue à l'article R. 432-13.
-
-Au-delà d'un montant fixé par le ministre de l'économie et des finances, la compagnie reverse à l'Etat les soldes
-bénéficiaires du compte du Trésor.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-318 1957-03-16 art. 9
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-_Cite_:
-
-  - Code des assurances R432-13
-
-
-###### Article R*432-19
-
-La compagnie adresse, au début de chaque mois, au ministre de l'économie et des finances :
-
-1° Une balance du compte du Trésor établie à la fin du mois précédent et faisant apparaître, s'il y a lieu, les prélèvements
-effectués par la compagnie, en exécution des dispositions prévues à l'article R. 432-15 ;
-
-2° Une estimation prévisionnelle des prélèvements pour le mois en cours et les cinq mois suivants.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-318 1957-03-16 art. 10
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-_Cite_:
-
-  - Code des assurances R432-15
-
-
-###### Article R*432-20
-
-Le ministre de l'économie et des finances est autorisé à conclure avec la compagnie toutes conventions nécessaires pour
-l'application de la présente section.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-318 1957-03-16 art. 11
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-##### Section III : Risques garantis<a id=359></a>
-
-##### Paragraphe 1 : Dispositions générales.<a id=360></a>
-
-###### Article R*432-21
-
-La compagnie française d'assurance pour le commerce extérieur, assumant pour le compte de l'Etat la gestion du service public
-de l'assurance crédit, assure notamment les importateurs et les exportateurs pour toutes leurs opérations de commerce
-extérieur, y compris celles portant sur des prestations en travaux ou en services, ainsi que sur des licences ou des brevets.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 1
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-22
-
-Les opérations mentionnées au 2° de l'article R. 432-1 ne portent en aucun cas sur les risques qui, en application de la
-législation en vigueur et compte tenu des usages courants du marché de l'assurance, peuvent être couverts par des sociétés,
-groupements ou organismes quelconques habilités à pratiquer en France l'assurance contre les risques ordinaires ou de guerre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-303 du 22 mars 1991 - art. 6 () JORF 24 mars 1991
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-_Cite_:
-
-  - Code des assurances R432-1
-
-
-###### Article R*432-23
-
-Les demandes de garanties sont adressées à la compagnie qui les instruit, les soumet à la commission des garanties et du
-crédit au commerce extérieur et conformément à l'avis émis par celle-ci, octroie ou refuse la garantie.
-
-La commission détermine quelles sont les affaires qui doivent lui être soumises par la compagnie avant la délivrance de la
-garantie et celles dont il doit lui être seulement rendu compte. A l'égard de ces dernières, elle fixe le cadre général des
-conditions dans lesquelles la garantie peut être accordée.
-
-La mise en jeu de la garantie a pour effet de subroger la compagnie par priorité dans les droits et actions de l'assuré.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 du 16 avril 1948 - art. 3, v. init.
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-##### Paragraphe 2 : Opérations d'exportation.<a id=361></a>
-
-###### Article R*432-24
-
-La garantie des risques politiques peut porter sur les deux catégories d'opérations ci-après :
-
-a) Opérations d'exportation traitées avec une administration publique ou avec une société chargée d'un service public ou
-donnant naissance à une obligation contractée par une administration publique ou par une société chargée d'un service
-public ;
-
-b) Opérations d'exportation autres que celles qui sont mentionnées au a.
-
-Le risque politique est réalisé :
-
-1° Pour les opérations prévues au a du présent article, lorsque l'acheteur ne s'est pas acquitté de sa dette et que le non-
-paiement n'est pas dû à l'inexécution des clauses et conditions du contrat ;
-
-2° Pour les opérations prévues au b du présent article, lorsque l'acheteur ne s'est pas acquitté de sa dette, pour autant que
-le non-paiement ne soit pas dû à l'inexécution des clauses et conditions du contrat et provienne de l'une des causes
-suivantes :
-
-- guerre civile ou étrangère, révolution, émeute ou autres faits analogues survenus dans le pays de résidence de l'acheteur ;
-
-- moratoire édicté par les autorités administratives de ce pays.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 4
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-25
-
-Le risque catastrophique est réalisé lorsque le débiteur est empêché de tenir ses engagements par suite d'un cataclysme tel
-que cyclone, inondation, raz de marée, tremblement de terre, éruption volcanique survenu dans le pays de résidence de ce
-débiteur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 5
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-26
-
-Les risques monétaires s'entendent du risque de transfert et du risque de change.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 6
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-27
-
-Le risque de transfert est réalisé lorsque des événements politiques, des difficultés économiques ou la législation du pays
-de résidence du débiteur empêchent ou retardent le transfert des fonds versés par ce dernier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 7
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-28
-
-Le risque de change est réalisé lorsque le cours de la monnaie étrangère prévue par le contrat de vente est, le jour de
-l'encaissement de la créance garantie, inférieur au cours sur la base duquel la garantie est accordée.
-
-Ce risque est garanti sur autorisation spéciale de la commission des garanties et du crédit au commerce extérieur ; cette
-autorisation ne peut être accordée que s'il n'existe pas d'autre moyen de le couvrir.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 8
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-29
-
-La définition des risques dits commerciaux extraordinaires est laissée, dans chaque cas d'espèce, à l'appréciation de la
-commission des garanties et du crédit au commerce extérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 9
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-31
-
-En cas de versement d'une indemnité au titre du risque commercial ordinaire :
-
-1° Si la police délivrée par la compagnie couvre, en même temps que le risque commercial ordinaire, d'autres risques pris en
-charge avec la garantie de l'Etat, les montants à récupérer éventuellement par la compagnie sur le débiteur défaillant
-continuent à être couverts contre ces risques, moyennant le versement d'une nouvelle prime calculée sur les mêmes bases que
-celles qui sont prévues par la police primitive, à virer du compte B au compte A ;
-
-2° Si la police délivrée par la compagnie ne couvre pas les risques susceptibles d'être pris en charge avec la garantie de
-l'Etat, la commission des garanties et du crédit au commerce extérieur a la faculté d'autoriser la compagnie, moyennant le
-versement d'une prime spéciale, à se garantir, par le jeu du compte A, contre les pertes qu'elle pourrait éventuellement
-subir, du fait de la réalisation de ces risques, sur les récupérations à effectuer au titre des créances sinistrées ; le
-pourcentage de garantie et le taux de la prime à virer du compte B au compte A sont fixés par la commission des garanties et
-du crédit au commerce extérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 11
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-##### Paragraphe 3 : Prêts ou crédits bancaires.<a id=362></a>
-
-###### Article R*432-32
-
-La garantie des risques politiques peut porter sur les deux catégories d'opérations ci-après :
-
-a) Contrats de prêts conclus avec une administration publique ou avec une société chargée d'un service public ou donnant
-naissance à une obligation contractée par une administration publique ou par une société chargée d'un service public ;
-
-b) Contrats de prêts conclus avec des emprunteurs autres que ceux qui sont mentionnés au a.
-
-Le risque politique est réalisé :
-
-1° Pour les contrats de prêts mentionnés au a du présent article, lorsque l'emprunteur ne s'est pas acquitté de sa dette et
-que le non-paiement n'est pas dû à l'inexécution des clauses et conditions du contrat par le prêteur ;
-
-2° Pour les contrats mentionnés au b du présent article, lorsque l'emprunteur ne s'est pas acquitté de sa dette, pour autant
-que le non-paiement ne soit pas dû à l'inexécution des clauses et conditions du contrat par le prêteur et qu'il provienne de
-l'une des causes suivantes : guerre civile ou étrangère, révolution, émeutes ou autres faits analogues survenus dans le pays
-de résidence de l'emprunteur, moratoire édicté par les autorités administratives de ce pays.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 12
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-33
-
-Le risque catastrophique est réalisé lorsque l'emprunteur est empêché de tenir ses engagements par suite d'un cataclysme tel
-que cyclone, inondation, raz de marée, tremblement de terre, éruption volcanique, survenu dans le pays de résidence de cet
-emprunteur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 13
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-34
-
-Les risques monétaires s'entendent du risque de transfert et du risque de change.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 14
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-35
-
-Le risque de transfert est réalisé lorsque des événements politiques, des difficultés économiques ou la législation du pays
-de résidence de l'emprunteur empêchent ou retardent le transfert des fonds versés par ce dernier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 15
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-36
-
-Le risque de change est réalisé lorsque le cours de la monnaie étrangère prévue par le contrat de prêt est, le jour de
-l'encaissement de la créance garantie, inférieur au cours sur la base duquel la garantie est accordée.
-
-Ce risque est garanti sur autorisation spéciale de la commission des garanties et du crédit au commerce extérieur ; cette
-autorisation ne peut être accordée que s'il n'existe pas d'autre moyen de le couvrir.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 16
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-37
-
-La définition des risques dits commerciaux extraordinaires est laissée, dans chaque cas d'espèce, à l'appréciation de la
-commission des garanties et du crédit au commerce extérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 17
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-##### Paragraphe 4 : Investissements.<a id=363></a>
-
-###### Article R*432-38
-
-La garantie des risques politiques et de transfert peut porter sur les investissements à l'étranger, lorsque ceux-ci
-présentent, pour le développement de l'économie française, l'intérêt certain prévu par l'article 26 de la loi n° 71-1025 du
-24 décembre 1971 portant loi de finances rectificative pour 1971, complété par l'article 14 de la loi n° 73-1128 du 21
-décembre 1973 portant loi de finances rectificative pour 1973, et auront été agréés dans les conditions prévues audit article
-26.
-
-Lorsque la législation du pays étranger concerné ne prévoit pas la délivrance d'un agrément, l'investisseur devra produire
-tous documents délivrés par l'autorité locale compétente permettant d'établir que l'investissement sera réalisé en conformité
-avec la législation du pays concerné.
-
-L'octroi de la garantie est subordonné à la conclusion préalable d'un accord sur la protection des investissements sous
-réserve des dérogations prévues par les dispositions de l'article 26 susmentionné.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°71-1025 du 24 décembre 1971 - art. 26, v. init.
-  - Loi n°73-1128 du 21 décembre 1973 - art. 14, v. init.
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°92-435 1992-05-18 art. 1, art. 2 JORF 19 mai 1992
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-39
-
-Le risque politique est réalisé lorsqu'il est porté atteinte aux droits de propriété de l'investisseur ou à ceux qui y sont
-attachés, ou encore aux droits et avantages particuliers qui lui auraient été reconnus par les autorités du pays dans lequel
-l'investissement a été effectué, en raison de l'une des causes suivantes : guerre civile ou étrangère, révolution, émeutes ou
-autres faits analogues survenus dans le pays dans lequel l'investissement a été effectué, acte ou décision des autorités de
-ce pays.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°92-435 1992-05-18 art. 1 JORF 19 mai 1992
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-40
-
-Le risque de transfert est réalisé lorsque des événements politiques, des difficultés économiques ou la législation du pays
-dans lequel l'investissement a été effectué empêchent ou retardent les transferts correspondant au rapatriement de cet
-investissement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°92-435 1992-05-18 art. 1 JORF 19 mai 1992
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-##### Paragraphe 5 : Opérations d'importation.<a id=364></a>
-
-###### Article R*432-41
-
-La garantie des risques inhérents aux opérations d'importation couvre les pertes pouvant être subies par l'importateur sur
-les sommes qu'il justifie avoir payées pour la stricte exécution de son contrat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 21
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-42
-
-Le risque politique est réalisé :
-
-1° Lorsque la marchandise ne peut être expédiée ou ne peut sortir du pays expéditeur ou ne parvient pas au pays de
-destination par suite de l'un des incidents suivants survenus dans le pays expéditeur ou en cours de transit :
-
-- interdiction d'exportation édictée par les autorités du pays expéditeur ;
-
-- coupure, arrêt, saisie, réquisition, contrainte, molestation ou détention par un gouvernement étranger ou une autorité
-étrangère ;
-
-- guerre civile ou étrangère, révolution, émeute ou autres faits analogues.
-
-2° Lorsque la marchandise, par suite d'un fait survenu dans le pays expéditeur ou en cours de transit et résultant
-directement de l'une des causes mentionnées au 1°, est détruite ou endommagée ou est grevée de frais supplémentaires non
-récupérables sur le vendeur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 22
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-43
-
-Le risque catastrophique est réalisé lorsque, par suite d'un cataclysme, tel que cyclone, inondation, raz de marée,
-tremblement de terre ou éruption volcanique, survenu dans le pays expéditeur ou en cours de transit, la marchandise ne peut
-être expédiée, est détruite ou endommagée ou est grevée de frais supplémentaires non récupérables sur le vendeur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 23
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-44
-
-Le risque monétaire de change est réalisé lorsque le cours de la monnaie étrangère prévue par le contrat d'achat est, le jour
-de l'achat des devises, supérieur au cours sur la base duquel la garantie est accordée.
-
-Ce risque est garanti sur autorisation spéciale de la commission des garanties et du crédit au commerce extérieur ; cette
-autorisation ne peut être accordée que s'il n'existe pas d'autre moyen de le couvrir.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 24
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-45
-
-La définition des risques dits commerciaux extraordinaires est laissée, dans chaque cas d'espèce, à l'appréciation de la
-commission des garanties et du crédit au commerce extérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 25
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-##### Paragraphe 6 : Dispositions communes.<a id=365></a>
-
-###### Article R*432-46
-
-Les garanties prévues à l'article R. 432-21 sont délivrées contre paiement de primes. Les taux de ces primes et les
-pourcentages de garantie sont fixés conformément à l'avis de la commission des garanties et du crédit au commerce extérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 26
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-_Cite_:
-
-  - Code des assurances R432-21
-
-
-###### Article R*432-47
-
-Les conditions et les modalités générales d'octroi et de fonctionnement des garanties portant sur les risques couverts avec
-la garantie de l'Etat en exécution de la présente section et relatives notamment aux obligations des assurés, à la perception
-des primes, aux frais générateurs de sinistres, aux délais de règlement des indemnités, à la répartition des sommes
-récupérées sur créances sinistrées, sont déterminées par arrêté pris par le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 27
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances A432-1 à A432-9
-
-
-###### Article R*432-48
-
-En cas de mise en jeu d'une garantie portant sur l'un des risques couverts avec la garantie de l'Etat, les droits de la
-compagnie sur les créances ou marchandises garanties peuvent être transférés à l'Etat afin que celui-ci fasse valoir ces
-droits au lieu et place de la compagnie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 28
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-### Titre IV : Régimes particuliers d'assurance<a id=366></a>
-
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=367></a>
-
-##### Section I : Dispositions générales.<a id=368></a>
+##### Section I : Dispositions générales.<a id=358></a>
 
 ###### Article R*441-2
 
@@ -41621,7 +40465,7 @@ _Cité par_:
   - Code des assurances - art. R*441-34 (Ab)
 
 
-##### Section II : Règles techniques et comptables.<a id=369></a>
+##### Section II : Règles techniques et comptables.<a id=359></a>
 
 ###### Article R*441-4
 
@@ -42210,7 +41054,7 @@ _Cité par_:
   - Code des assurances - art. R441-7-5 (VD)
 
 
-##### Section III : Règles relatives au retrait de l'agrément.<a id=370></a>
+##### Section III : Règles relatives au retrait de l'agrément.<a id=360></a>
 
 ###### Article R*441-29
 
@@ -42371,7 +41215,7 @@ _Cité par_:
   - Code des assurances - art. R441-26 (T)
 
 
-##### Section IV : Dispositions transitoires.<a id=371></a>
+##### Section IV : Dispositions transitoires.<a id=361></a>
 
 ###### Article R*441-30
 
@@ -42401,11 +41245,695 @@ _Cite_:
   - Code des assurances - art. D441-22 (V)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=372></a>
+#### Chapitre II : Autres régimes particuliers d'assurance<a id=362></a>
 
-### Titre I : Présentation des opérations<a id=373></a>
+##### Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux<a id=363></a>
 
-#### Chapitre I : Principes généraux.<a id=374></a>
+##### Paragraphe 1 : Dispositions générales.<a id=364></a>
+
+###### Article R442-1
+
+Dans l'intérêt du commerce extérieur de la France, les risques commerciaux, politiques, monétaires, catastrophiques, ainsi
+que certains risques dits extraordinaires, liés aux échanges internationaux, sont, en application de la loi du 5 juillet 1949
+relative à diverses dispositions d'ordre économique et financier, garantis et gérés, pour le compte de l'Etat et sous son
+contrôle, par la société anonyme dénommée Compagnie française d'assurance pour le commerce extérieur (Coface) dans les
+conditions fixées par les articles R. 442-2 à R. 442-10-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°49-874 1949-07-05
+  - Code des assurances R442-2 à R442-10-5
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cité par_:
+
+  - Arrêté du 15 novembre 2004 - art. 7 (Ab)
+  - Arrêté du 16 novembre 2004 - art. 12 (Ab)
+  - Arrêté du 21 avril 2009 - art. 6 (Ab)
+  - Arrêté du 8 octobre 2009 (V)
+  - Arrêté du 11 décembre 2015 - art. 6 (Ab)
+  - Code des assurances - art. R442-2 (VT)
+  - Code des assurances - art. R442-8-5 (Ab)
+  - Code des assurances - art. R442-8-7 (V)
+
+
+###### Article R442-2
+
+Les garanties relatives aux risques mentionnés à l'article R. 442-1 sont accordées par décision du ministre chargé de
+l'économie, prise après avis de la commission des garanties et du crédit au commerce extérieur visée à l'article L. 432-3 du
+présent code.
+
+La société délivre les polices d'assurance qui couvrent les risques définis à l'article R. 442-1 ; pour l'établissement des
+conditions des polices relatives, notamment, aux obligations des assurés, à la perception des primes, aux faits générateurs
+de sinistres, aux délais de règlement des indemnités, à la répartition des sommes récupérées sur créances sinistrées, et
+l'exécution de ces polices, la société se conforme aux décisions du ministre chargé de l'économie prises après avis de la
+commission des garanties et du crédit au commerce extérieur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cité par_:
+
+  - Décret n°2014-636 du 19 juin 2014 (V)
+  - Code des assurances - art. R442-1 (Ab)
+
+_Cite_:
+
+  - Code des assurances - art. L432-3 (M)
+
+
+###### Article R442-3
+
+La société est soumise au contrôle économique et financier de l'Etat, dans les conditions prévues par le décret n° 55-733 du
+26 mai 1955 portant codification et aménagement de textes relatifs au contrôle économique et financier de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°55-733 1955-05-26
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cité par_:
+
+  - Décret n°2014-636 du 19 juin 2014 (V)
+
+_Anciens textes_:
+
+  - Code des assurances - art. R442-8-7 (T)
+
+
+###### Article R442-4
+
+Le ministre chargé de l'économie désigne auprès de la société, pour exercer les fonctions de commissaire du Gouvernement,
+deux fonctionnaires de son département chargés de veiller à la mise en oeuvre de la garantie de l'Etat ainsi qu'à l'exercice
+des responsabilités qui lui sont confiées par l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cité par_:
+
+  - Décret n°2014-636 du 19 juin 2014 (V)
+
+
+###### Article R442-5
+
+Les commissaires du Gouvernement assistent à toutes les séances du conseil d'administration ou des comités qui pourraient
+être institués par ce conseil. Ils peuvent prendre connaissance, à tout moment, de la comptabilité de l'établissement, ainsi
+que de tout document ou information nécessaires à l'exécution de leur mission.
+
+Ils peuvent demander une deuxième délibération du conseil d'administration ou exercer un droit de veto :
+
+- sur la nomination du président du conseil d'administration de la société ;
+
+- sur la nomination du directeur général ayant dans ses compétences la gestion des activités pour le compte de l'Etat s'il en
+existe un ;
+
+- sur toute décision relative à la garantie de l'Etat ou de nature à compromettre l'exercice des responsabilités confiées par
+l'Etat à la société.
+
+Cette deuxième délibération a lieu au plus tôt quinze jours francs après la réunion du conseil d'administration.
+
+En cas de veto, la société dispose d'un délai de huit jours pour faire appel devant le ministre chargé de l'économie qui est
+tenu de se prononcer dans les dix jours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cité par_:
+
+  - Décret n°2014-636 du 19 juin 2014 (V)
+
+
+###### Article R442-6
+
+Le franchissement par une personne, agissant seule ou de concert, du seuil de 5 p. 100 du capital social ou des droits de
+vote de la société fait l'objet d'une délibération du conseil d'administration soumise à l'approbation du ministre chargé de
+l'économie. Cette approbation est réputée acquise, sauf opposition du ministre chargé de l'économie dans un délai de quinze
+jours suivant la délibération du conseil d'administration.
+
+Lorsque des prises de participation ont été effectuées en méconnaissance du présent article, le ou les détenteurs des
+participations concernées ne peuvent pas exercer le droit de vote correspondant et doivent céder ces titres dans un délai de
+trois mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cité par_:
+
+  - Décret n°2014-636 du 19 juin 2014 (V)
+
+
+###### Article R442-7-1
+
+La garantie délivrée pour le compte de l'Etat ne porte en aucun cas sur les risques qui, en application de la législation en
+vigueur et compte tenu des usages courants du marché de l'assurance, peuvent être couverts par des sociétés, groupements ou
+organismes quelconque habilités à pratiquer en France l'assurance contre les risques ordinaires ou de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+
+###### Article R442-7-2
+
+Les demandes de garanties sont adressées à la société qui les instruit et les soumet à la commission des garanties et du
+crédit au commerce extérieur ; le ministre chargé de l'économie, après avis de la commission, octroie ou refuse la garantie.
+
+Le ministre chargé de l'économie détermine, après avis de la commission des garanties et du crédit au commerce extérieur,
+quelles affaires doivent être soumises à la commission par la société avant la délivrance de la garantie et celles dont il
+doit lui être seulement rendu compte. Pour ces dernières, il fixe le cadre général des conditions dans lesquelles la garantie
+peut être accordée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cité par_:
+
+  - Décret n°2014-636 du 19 juin 2014 (V)
+
+
+##### Paragraphe 2 : Opérations d'exportation.<a id=365></a>
+
+###### Article R442-8-1
+
+La garantie des risques peut porter sur les catégories d'opérations définies aux articles R. 442-8-2 à R. 442-8-6 ci-après et
+au profit soit des fournisseurs, soit des établissements de crédit concernés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cite_:
+
+  - Code des assurances R442-8-2 à R442-8-6
+
+
+###### Article R442-8-2
+
+I. - La garantie des risques politiques peut porter sur les deux catégories d'opérations ci-après :
+
+1° Opérations d'exportation ou contrats de prêts traités avec une administration publique ou avec une société chargée d'un
+service public, ou donnant naissance à une obligation contractée par une administration publique ou par une société chargée
+d'un service public ;
+
+2° Opérations d'exportation autres que celles qui sont mentionnées au 1° ci-dessus et contrats de prêts conclus avec des
+emprunteurs autres que ceux mentionnés au 1° ci-dessus.
+
+II. - Le risque politique est réalisé :
+
+1° Pour les opérations prévues au 1° du I, lorsque le débiteur ne s'est pas acquitté de sa dette et que le non-paiement n'est
+pas dû à l'inexécution des clauses et conditions du contrat ;
+
+2° Pour les opérations prévues au 2° du I, lorsque le débiteur ne s'est pas acquitté de sa dette, pour autant que le non-
+paiement ne soit pas dû à l'inexécution des clauses et conditions du contrat et provienne de l'une des causes suivantes :
+
+a) Guerre civile ou étrangère, révolution, émeute ou autres faits analogues survenus dans le pays de résidence du débiteur ;
+
+b) Moratoire édicté par les autorités administratives de ce pays.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cité par_:
+
+  - Code des assurances - art. R442-5 (VD)
+  - Code des assurances - art. R442-5-1 (V)
+  - Code des assurances - art. R442-5-2 (Ab)
+  - Code des assurances - art. R442-6 (VT)
+  - Code des assurances - art. R442-8-1 (V)
+  - Code des assurances - art. R442-8-6 (Ab)
+
+
+###### Article R442-8-3
+
+Le risque catastrophique est réalisé lorsque le débiteur est empêché de tenir ses engagements par suite d'un cataclysme tel
+que cyclone, inondation, raz de marée, tremblement de terre, éruption volcanique, survenu dans le pays de résidence de ce
+débiteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+
+###### Article R442-8-4
+
+Les risques monétaires comprennent le risque de transfert et le risque de change.
+
+Le risque de transfert est réalisé lorsque des événements politiques, des difficultés économiques ou la législation du pays
+de résidence du débiteur empêchent ou retardent le transfert des fonds versés par ce dernier.
+
+Le risque de change est réalisé lorsque le cours de la monnaie étrangère prévue par le contrat est, le jour de l'encaissement
+de la créance garantie, inférieur au cours sur la base duquel la garantie est accordée. Ce risque ne peut être garanti que
+s'il n'existe pas d'autre moyen de le couvrir dans des conditions équivalentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cité par_:
+
+  - Arrêté du 16 février 2017 - art. 2 (V)
+  - Arrêté du 3 juin 2019 - art. 2 (V)
+
+
+###### Article R442-8-5
+
+Le caractère extraordinaire d'un risque, au sens de l'article R. 442-1 ci-dessus, est laissé, dans chaque cas d'espèce, à
+l'appréciation de la commission des garanties et du crédit au commerce extérieur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 du 16 juillet 1976
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Abrogé par_:
+
+  - Décret n°2016-1701 du 12 décembre 2016 - art. 3
+
+_Cite_:
+
+  - Code des assurances - art. R442-1
+
+
+###### Article R442-8-6
+
+En cas de versement d'une indemnité au titre d'un risque commercial ordinaire : 
+
+1° Si la police délivrée par la société couvre, en même temps que le risque commercial ordinaire, d'autres risques pris en
+charge avec la garantie de l'Etat, tels qu'énumérés aux articles R. 442-8-2 à R. 442-8-5, les montants à récupérer
+éventuellement par la société sur le débiteur défaillant peuvent être couverts contre ces autres risques avec la garantie de
+l'Etat, moyennant le versement d'une nouvelle prime, calculée sur les mêmes bases que celles qui sont prévues par la police
+initiale ; 
+
+2° Si la police délivrée par la société ne couvre aucun risque susceptible d'être pris en charge avec la garantie de l'Etat,
+la société peut demander à la commission des garanties et du crédit au commerce extérieur de l'autoriser à bénéficier de la
+garantie de l'Etat sur le montant des récupérations à effectuer sur le débiteur défaillant, au titre des risques mentionnés
+aux articles R. 442-8-2 à R. 442-8-5, moyennant le versement par la société d'une prime spéciale dont le taux et le
+pourcentage de garantie sont fixés par la commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 du 16 juillet 1976
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Abrogé par_:
+
+  - Décret n°2016-1701 du 12 décembre 2016 - art. 3
+
+_Cite_:
+
+  - Code des assurances - art. R442-8-2
+
+
+##### Paragraphe 3 : Opérations d'investissement.<a id=366></a>
+
+###### Article R442-9-1
+
+La garantie des risques politiques et de transfert peut porter sur des investissements à l'étranger, lorsque ceux-ci
+présentent, pour le développement de l'économie française, l'intérêt certain prévu par l'article 26 de la loi du 24 décembre
+1971 portant loi de finances rectificative pour 1971, complété par l'article 14 de la loi du 21 décembre 1973 portant loi de
+finances rectificative pour 1973, et ont été agréés dans les conditions prévues audit article 26.
+
+Lorsque la législation du pays étranger ne prévoit pas la délivrance d'un agrément, l'investisseur doit produire tous
+documents délivrés par l'autorité locale compétente permettant d'établir que l'investissement sera réalisé en conformité avec
+la législation du pays concerné.
+
+L'octroi de la garantie de l'Etat est subordonné à la conclusion préalable d'un accord sur la protection des investissements,
+sous réserve des dérogations prévues par les dispositions de l'article 26 susmentionné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Cite_:
+
+  - Code des assurances 26
+
+
+###### Article R442-9-2
+
+Le risque politique est réalisé lorsqu'il est porté atteinte aux droits de propriété de l'investisseur ou à ceux qui y sont
+attachés, ou encore aux droits et avantages particuliers qui lui auraient été reconnus par les autorités du pays dans lequel
+l'investissement a été effectué, en raison de l'une des causes suivantes : guerre civile ou étrangère, révolution, émeutes ou
+autres faits analogues survenus dans le pays dans lequel l'investissement a été effectué, acte ou décision des autorités de
+ce pays.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+
+###### Article R442-9-3
+
+Le risque de transfert est réalisé lorsque des événements politiques, des difficultés économiques ou la législation du pays
+dans lequel l'investissement a été effectué empêchent ou retardent les transferts correspondant au rapatriement de cet
+investissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+
+##### Paragraphe 4 : Opérations d'importation.<a id=367></a>
+
+###### Article R442-10-1
+
+La garantie des risques inhérents aux opérations d'importation couvre les pertes pouvant être subies par l'importateur sur
+les sommes qu'il justifie avoir payées pour la stricte exécution de son contrat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+
+###### Article R442-10-2
+
+Le risque politique est réalisé :
+
+1° Lorsque la marchandise ne peut être expédiée ou ne peut sortir du pays expéditeur ou ne parvient pas au pays de
+destination par suite de l'un des incidents suivants survenus dans le pays expéditeur ou en cours de transit :
+
+a) Interdiction d'exportation édictée par les autorités du pays expéditeur ;
+
+b) Capture, arrêt, saisie, réquisition, contrainte, molestation ou détention par un Gouvernement étranger ou une autorité
+étrangère ;
+
+c) Guerre civile ou étrangère, révolution, émeute ou autres faits analogues.
+
+2° Lorsque la marchandise, par suite d'un fait survenu dans le pays expéditeur ou en cours de transit et résultant
+directement de l'une des causes mentionnées au 1° ci-dessus, est détruite ou endommagée ou est grevée de frais
+supplémentaires non récupérables sur le vendeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+
+###### Article R442-10-3
+
+Le risque catastrophique est réalisé lorsque, par suite d'un cataclysme, tels que cyclone, inondation, raz de marée,
+tremblement de terre ou éruption volcanique, survenu dans le pays expéditeur ou en cours de transit, la marchandise ne peut
+être expédiée, est détruite ou endommagée ou est grevée de frais supplémentaires non récupérables sur le vendeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+
+###### Article R442-10-4
+
+Le risque de change est réalisé lorsque le cours de la monnaie étrangère prévue par le contrat d'achat est, le jour de
+l'achat de devises, supérieur au cours sur la base duquel la garantie est accordée.
+
+Ce risque ne peut être garanti que s'il n'existe pas d'autre moyen de le couvrir dans des conditions équivalentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+
+###### Article R442-10-5
+
+Le caractère extraordinaire d'un risque au sens de l'article R. 442-1 ci-dessus est laissé, dans chaque cas d'espèce, à
+l'appréciation de la commission des garanties et du crédit au commerce extérieur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+  - DEPLACE: Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Abrogé par_:
+
+  - Décret n°2016-1701 du 12 décembre 2016 - art. 5
+
+_Cite_:
+
+  - Code des assurances - art. R442-1 (Ab)
+
+
+##### Paragraphe 5 : Dispositions communes.<a id=368></a>
+
+###### Article R442-11
+
+Les mesures d'application de la présente section autres que celles qui sont prévues aux articles précédents font l'objet de
+conventions conclues entre le ministre chargé de l'économie et la société.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
+
+_Créé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+
+_Abrogé par_:
+
+  - Décret n°2016-1701 du 12 décembre 2016 - art. 1
+
+
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=369></a>
+
+### Titre I : Présentation des opérations<a id=370></a>
+
+#### Chapitre I : Principes généraux.<a id=371></a>
 
 ###### Article R*511-1
 
@@ -42714,9 +42242,9 @@ _Abrogé par_:
   - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 
-#### Chapitre II : Dérogations aux principes généraux<a id=375></a>
+#### Chapitre II : Dérogations aux principes généraux<a id=372></a>
 
-##### Section I : Dérogations permanentes.<a id=376></a>
+##### Section I : Dérogations permanentes.<a id=373></a>
 
 ###### Article R*512-1
 
@@ -42958,7 +42486,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
 
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=377></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=374></a>
 
 ###### Article R*513-6
 
@@ -43201,9 +42729,9 @@ _Cite_:
   - Code des assurances - art. R*514-5 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=378></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=375></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=379></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=376></a>
 
 ###### Article R*514-1
 
@@ -43345,7 +42873,7 @@ _Cite_:
   - Code des assurances R514-1, R514-13
 
 
-##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=380></a>
+##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=377></a>
 
 ###### Article R*514-6
 
@@ -43448,7 +42976,7 @@ _Cite_:
   - Code des assurances R511-4, R514-7
 
 
-##### Section III : Modalités de contrôle spéciales aux conditions d'honorabilité.<a id=381></a>
+##### Section III : Modalités de contrôle spéciales aux conditions d'honorabilité.<a id=378></a>
 
 ###### Article R*514-8
 
@@ -43639,7 +43167,7 @@ _Cite_:
   - SPEC_APPLI: Code des assurances R515-11
 
 
-##### Section IV : Dispositions diverses et pénalités.<a id=382></a>
+##### Section IV : Dispositions diverses et pénalités.<a id=379></a>
 
 ###### Article R*514-14
 
@@ -43728,9 +43256,9 @@ _Cite_:
   - Code des assurances R514-1, R514-3, R514-6, R514-8 à R514-10, R514-12, R514-14, R514-15, R515-1 à R515-7
 
 
-#### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France<a id=383></a>
+#### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France<a id=380></a>
 
-##### Section I : Conditions de capacité professionnelle.<a id=384></a>
+##### Section I : Conditions de capacité professionnelle.<a id=381></a>
 
 ###### Article R515-1
 
@@ -43900,7 +43428,7 @@ _Cite_:
   - Code des assurances R515-1, R515-3, R515-4, R515-6
 
 
-##### Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité.<a id=385></a>
+##### Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité.<a id=382></a>
 
 ###### Article R*515-6
 
@@ -43968,7 +43496,7 @@ _Cite_:
   - Code des assurances R515-6, L511-2, R515-3
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=386></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=383></a>
 
 ###### Article R*516-1
 
@@ -44001,9 +43529,9 @@ _Cite_:
   - Code des assurances - art. R515-3 (M)
 
 
-### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=387></a>
+### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=384></a>
 
-#### Chapitre unique.<a id=388></a>
+#### Chapitre unique.<a id=385></a>
 
 ###### Article R530-1
 
@@ -44300,13 +43828,13 @@ _Cite_:
   - Code des assurances - art. L530-2 (Ab)
 
 
-# Partie réglementaire - Arrêtés<a id=389></a>
+# Partie réglementaire - Arrêtés<a id=386></a>
 
-## Livre Ier : Le contrat<a id=390></a>
+## Livre Ier : Le contrat<a id=387></a>
 
-### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes<a id=391></a>
+### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes<a id=388></a>
 
-#### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=392></a>
+#### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=389></a>
 
 ###### Article A113-1
 
@@ -44338,9 +43866,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-### Titre II : Règles relatives aux assurances de dommages non maritimes<a id=393></a>
+### Titre II : Règles relatives aux assurances de dommages non maritimes<a id=390></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=394></a>
+#### Chapitre Ier : Dispositions générales.<a id=391></a>
 
 ###### Article A121-1
 
@@ -44432,7 +43960,7 @@ _Cite_:
   - Code des assurances - art. A121-1 (V)
 
 
-#### Chapitre V : L'assurance des risques de catastrophes naturelles.<a id=395></a>
+#### Chapitre V : L'assurance des risques de catastrophes naturelles.<a id=392></a>
 
 ###### Article A125-1
 
@@ -44558,11 +44086,11 @@ _Cite_:
   - Code des assurances L125-1, L125-6, A125-1 annexe I, annexe II
 
 
-### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=396></a>
+### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=393></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=397></a>
+#### Chapitre Ier : Dispositions générales.<a id=394></a>
 
-##### Section I : Valeur de référence au contrat.<a id=398></a>
+##### Section I : Valeur de référence au contrat.<a id=395></a>
 
 ###### Article A131-1
 
@@ -44615,9 +44143,9 @@ _Cite_:
   - Code des assurances - art. R131-2 (V)
 
 
-#### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=399></a>
+#### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=396></a>
 
-##### Section III : Participation aux bénéfices techniques et financiers.<a id=400></a>
+##### Section III : Participation aux bénéfices techniques et financiers.<a id=397></a>
 
 ###### Article A132-5
 
@@ -44887,11 +44415,11 @@ _Nouveaux textes_:
   - Code des assurances - art. A331-9-1 (T)
 
 
-### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=401></a>
+### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=398></a>
 
-#### Chapitre unique<a id=402></a>
+#### Chapitre unique<a id=399></a>
 
-##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.<a id=403></a>
+##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.<a id=400></a>
 
 ###### Article A160-1
 
@@ -45026,7 +44554,7 @@ De la délivrance du duplicata
 
 
 
-##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=404></a>
+##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=401></a>
 
 ###### Article A160-3
 
@@ -45054,7 +44582,7 @@ _Cite_:
   - Code des assurances - art. A331-1-1 (V)
 
 
-##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=405></a>
+##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=402></a>
 
 ###### Article A160-2
 
@@ -45108,13 +44636,13 @@ _Cité par_:
   - Code des assurances - art. A160-2 (V)
 
 
-## Livre II : Assurances obligatoires<a id=406></a>
+## Livre II : Assurances obligatoires<a id=403></a>
 
-### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques<a id=407></a>
+### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques<a id=404></a>
 
-#### Chapitre Ier : L'obligation de s'assurer<a id=408></a>
+#### Chapitre Ier : L'obligation de s'assurer<a id=405></a>
 
-##### Section I : Personnes assujetties.<a id=409></a>
+##### Section I : Personnes assujetties.<a id=406></a>
 
 ###### Article A211-1
 
@@ -45163,7 +44691,7 @@ _Cite_:
   - Code des assurances L211-3, R211-2 à R211-13
 
 
-##### Section II : Etendue de l'obligation d'assurance.<a id=410></a>
+##### Section II : Etendue de l'obligation d'assurance.<a id=407></a>
 
 ###### Article A211-1-1
 
@@ -45210,7 +44738,7 @@ _Créé par_:
   - Arrêté 1983-06-09 art. 2 JORF 14 juin 1983
 
 
-##### Section III : Franchises, exclusions de garantie et déchéances.<a id=411></a>
+##### Section III : Franchises, exclusions de garantie et déchéances.<a id=408></a>
 
 ###### Article A211-3
 
@@ -45258,9 +44786,9 @@ _Cite_:
   - Code des assurances - art. R211-10 (V)
 
 
-##### Section IV : Contrôle de l'obligation d'assurance<a id=412></a>
+##### Section IV : Contrôle de l'obligation d'assurance<a id=409></a>
 
-##### Paragraphe 1 : L'attestation d'assurance.<a id=413></a>
+##### Paragraphe 1 : L'attestation d'assurance.<a id=410></a>
 
 ###### Article A211-4
 
@@ -45418,7 +44946,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances R211-19
 
 
-##### Paragraphe 2 : Le certificat d'assurance.<a id=414></a>
+##### Paragraphe 2 : Le certificat d'assurance.<a id=411></a>
 
 ###### Article A211-9
 
@@ -45469,7 +44997,7 @@ _Anciens textes_:
   - Code des assurances - art. A211-8-2 (T)
 
 
-##### Section VI : Procédures d'indemnisation.<a id=415></a>
+##### Section VI : Procédures d'indemnisation.<a id=412></a>
 
 ###### Article A211-11
 
@@ -45789,7 +45317,7 @@ _Cite_:
   - Décret n°86-15 du 6 janvier 1986 (V)
 
 
-#### Chapitre III : Contribution au profit de la sécurité sociale.<a id=416></a>
+#### Chapitre III : Contribution au profit de la sécurité sociale.<a id=413></a>
 
 ###### Article A213-1
 
@@ -45922,9 +45450,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R213-3
 
 
-### Titre II : L'assurance des engins de remontée mécanique<a id=417></a>
+### Titre II : L'assurance des engins de remontée mécanique<a id=414></a>
 
-#### Chapitre unique.<a id=418></a>
+#### Chapitre unique.<a id=415></a>
 
 ###### Article A220-3
 
@@ -46128,9 +45656,9 @@ _Cite_:
   - Code des assurances - art. L220-1 (V)
 
 
-### Titre III : L'assurance de la responsabilité civile des chasseurs<a id=419></a>
+### Titre III : L'assurance de la responsabilité civile des chasseurs<a id=416></a>
 
-#### Chapitre unique.<a id=420></a>
+#### Chapitre unique.<a id=417></a>
 
 ###### Article A230-5
 
@@ -46266,7 +45794,7 @@ _Cite_:
   - Code rural - art. L223-13 (V)
 
 
-### Titre IV : L'assurance des travaux de bâtiment<a id=421></a>
+### Titre IV : L'assurance des travaux de bâtiment<a id=418></a>
 
 ###### Article A243-2
 
@@ -46306,7 +45834,7 @@ _Cite_:
   - Code des assurances - art. R241-9 (T)
 
 
-### Titre V : Dispositions relatives au bureau central de tarification.<a id=422></a>
+### Titre V : Dispositions relatives au bureau central de tarification.<a id=419></a>
 
 ###### Article A250-1
 
@@ -46371,13 +45899,13 @@ _Cite_:
   - Code des assurances - art. R250-2 (V)
 
 
-## Livre III : Les entreprises.<a id=423></a>
+## Livre III : Les entreprises.<a id=420></a>
 
-### Titre Ier : Dispositions générales et contrôle de l'Etat.<a id=424></a>
+### Titre Ier : Dispositions générales et contrôle de l'Etat.<a id=421></a>
 
-#### Chapitre I<a id=425></a>
+#### Chapitre I<a id=422></a>
 
-##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.<a id=426></a>
+##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.<a id=423></a>
 
 ###### Article A310-1
 
@@ -46447,9 +45975,9 @@ _Nouveaux textes_:
   - Code des assurances - art. A310-7 (V)
 
 
-#### Chapitre unique<a id=427></a>
+#### Chapitre unique<a id=424></a>
 
-##### Section I : Dispositions générales.<a id=428></a>
+##### Section I : Dispositions générales.<a id=425></a>
 
 ###### Article A310-2
 
@@ -46476,13 +46004,13 @@ _Nouveaux textes_:
   - Code des assurances - art. A310-6 (V)
 
 
-### Titre II : Régime administratif<a id=429></a>
+### Titre II : Régime administratif<a id=426></a>
 
-#### Chapitre II : Règles de constitution et de fonctionnement<a id=430></a>
+#### Chapitre II : Règles de constitution et de fonctionnement<a id=427></a>
 
-##### Section IV : Sociétés d'assurance à forme mutuelle.<a id=431></a>
+##### Section IV : Sociétés d'assurance à forme mutuelle.<a id=428></a>
 
-##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=432></a>
+##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=429></a>
 
 ###### Article A322-6
 
@@ -46560,11 +46088,11 @@ _Codifié par_:
   - Arrêté 1976-07-16
 
 
-### Titre III : Régime financier.<a id=433></a>
+### Titre III : Régime financier.<a id=430></a>
 
-#### Chapitre Ier : Les engagements réglementés.<a id=434></a>
+#### Chapitre Ier : Les engagements réglementés.<a id=431></a>
 
-##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=435></a>
+##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=432></a>
 
 ###### Article A331-1
 
@@ -46607,7 +46135,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
 
 
-##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=436></a>
+##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=433></a>
 
 ###### Article A331-1-1
 
@@ -46744,9 +46272,9 @@ _Cite_:
   - SPEC_APPLI: Code des assurances A331-3 *champ d'application*
 
 
-##### Section III : Provisions techniques des autres opérations d'assurance<a id=437></a>
+##### Section III : Provisions techniques des autres opérations d'assurance<a id=434></a>
 
-##### Paragraphe 1 : Provision mathématique des rentes.<a id=438></a>
+##### Paragraphe 1 : Provision mathématique des rentes.<a id=435></a>
 
 ###### Article A331-11
 
@@ -46858,7 +46386,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
 
 
-##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=439></a>
+##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=436></a>
 
 ###### Article A331-24
 
@@ -46885,9 +46413,9 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R*331-26 (M)
 
 
-#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=440></a>
+#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=437></a>
 
-##### Section III : Estimation des éléments d'actif.<a id=441></a>
+##### Section III : Estimation des éléments d'actif.<a id=438></a>
 
 ###### Article A332-5
 
@@ -46964,7 +46492,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code des assurances - art. R332-20 (M)
 
 
-#### Chapitre III : Revenu des placements.<a id=442></a>
+#### Chapitre III : Revenu des placements.<a id=439></a>
 
 ###### Article A333-2
 
@@ -47058,11 +46586,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*333-1 (M)
 
 
-#### Chapitre IV : Solvabilité des entreprises<a id=443></a>
+#### Chapitre IV : Solvabilité des entreprises<a id=440></a>
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=444></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=441></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=445></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=442></a>
 
 ###### Article A334-1
 
@@ -47101,9 +46629,9 @@ _Cite_:
   - Code des assurances - art. R334-11 (V)
 
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=446></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=443></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=447></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=444></a>
 
 ###### Article A334-2
 
@@ -47203,11 +46731,11 @@ _Cite_:
   - Code des assurances - art. R*334-3 (M)
 
 
-#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=448></a>
+#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=445></a>
 
-##### Section I : Tarifs.<a id=449></a>
+##### Section I : Tarifs.<a id=446></a>
 
-##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=450></a>
+##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=447></a>
 
 ###### Article A335-9-1
 
@@ -47323,9 +46851,9 @@ _Cite_:
   - Code des assurances - art. A335-9-3 (Ab)
 
 
-##### Section I : Tarifs<a id=451></a>
+##### Section I : Tarifs<a id=448></a>
 
-##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=452></a>
+##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=449></a>
 
 ###### Article A335-1-1
 
@@ -47378,9 +46906,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Section II : Frais d'acquisition et de gestion<a id=453></a>
+##### Section II : Frais d'acquisition et de gestion<a id=450></a>
 
-##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=454></a>
+##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=451></a>
 
 ###### Article A335-19
 
@@ -47413,9 +46941,9 @@ _Cité par_:
   - SPEC_APPLI: Code des assurances A335-20, A335-21 *fixation des commissions et rétributions*
 
 
-### Titre IV : Dispositions comptables et statistiques<a id=455></a>
+### Titre IV : Dispositions comptables et statistiques<a id=452></a>
 
-#### Chapitre Ier : Principes généraux.<a id=456></a>
+#### Chapitre Ier : Principes généraux.<a id=453></a>
 
 ###### Article A341-1
 
@@ -47496,9 +47024,9 @@ DANS L'ÉTAT MEMBRE SUIVANT DE LA CEE : PAYS DU RISQUE.
 
 
 
-#### Chapitre IV : Catégories d'assurance et états à produire<a id=457></a>
+#### Chapitre IV : Catégories d'assurance et états à produire<a id=454></a>
 
-##### Section I : Dispositions générales.<a id=458></a>
+##### Section I : Dispositions générales.<a id=455></a>
 
 ###### Article A344-1
 
@@ -47614,7 +47142,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section II : Définition des catégories et sous-catégories.<a id=459></a>
+##### Section II : Définition des catégories et sous-catégories.<a id=456></a>
 
 ###### Article A344-4
 
@@ -47811,7 +47339,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section III : Etats à produire.<a id=460></a>
+##### Section III : Etats à produire.<a id=457></a>
 
 ###### Article A344-6
 
@@ -48050,7 +47578,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
-##### Section III : Etats à produire.<a id=461></a>
+##### Section III : Etats à produire.<a id=458></a>
 
 ###### Article Annexe art. A344-3 (suite 1)
 
@@ -53249,11 +52777,11 @@ _Abrogé par_:
   - Arrêté du 28 décembre 2015 - art. 2
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=462></a>
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=459></a>
 
-#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=463></a>
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=460></a>
 
-##### Section II : Conditions d'exercice<a id=464></a>
+##### Section II : Conditions d'exercice<a id=461></a>
 
 ###### Article A353-1
 
@@ -53289,15 +52817,15 @@ _Cite_:
   - Code des assurances - art. L353-4
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=465></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=462></a>
 
-### Titre II : Le fonds de garantie<a id=466></a>
+### Titre II : Le fonds de garantie<a id=463></a>
 
-#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=467></a>
+#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=464></a>
 
-##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=468></a>
+##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=465></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=469></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=466></a>
 
 ###### Article A421-1
 
@@ -53337,9 +52865,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R420-69
 
 
-##### Section IV : Régime financier du fonds de garantie<a id=470></a>
+##### Section IV : Régime financier du fonds de garantie<a id=467></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=471></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=468></a>
 
 ###### Article A421-2
 
@@ -53381,9 +52909,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances R420-35
 
 
-##### Section V : Régime financier du fonds de garantie<a id=472></a>
+##### Section V : Régime financier du fonds de garantie<a id=469></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=473></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=470></a>
 
 ###### Article A421-3
 
@@ -53453,7 +52981,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=474></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=471></a>
 
 ###### Article A422-1
 
@@ -53478,11 +53006,11 @@ _Cite_:
   - Code des assurances - art. R422-4 (V)
 
 
-### Titre III : Organismes particuliers d'assurance<a id=475></a>
+### Titre III : Organismes particuliers d'assurance<a id=472></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=476></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=473></a>
 
-##### Section I : Dispositions générales.<a id=477></a>
+##### Section I : Dispositions générales.<a id=474></a>
 
 ###### Article A431-1
 
@@ -53515,9 +53043,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R431-19
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=478></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=475></a>
 
-##### Paragraphe 4 : Risques d'attentat.<a id=479></a>
+##### Paragraphe 4 : Risques d'attentat.<a id=476></a>
 
 ###### Article A431-5
 
@@ -53568,9 +53096,9 @@ _Cite_:
   - Code des assurances - art. L431-10 (V)
 
 
-##### Section III : Opérations de gestion.<a id=480></a>
+##### Section III : Opérations de gestion.<a id=477></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=481></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=478></a>
 
 ###### Article A431-7
 
@@ -53716,7 +53244,7 @@ _Cite_:
   - Loi n°64-706 du 10 juillet 1964 - art. 5 (Ab)
 
 
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=482></a>
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=479></a>
 
 ###### Article A431-8
 
@@ -53877,11 +53405,11 @@ _Cite_:
   - Code des assurances - art. A335-1 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=483></a>
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=480></a>
 
-##### Section III : Risques garantis.<a id=484></a>
+##### Section III : Risques garantis.<a id=481></a>
 
-##### Paragraphe 6 : Dispositions communes.<a id=485></a>
+##### Paragraphe 6 : Dispositions communes.<a id=482></a>
 
 ###### Article A432-1
 
@@ -54126,11 +53654,11 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=486></a>
+### Titre IV : Régimes particuliers d'assurance<a id=483></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=487></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=484></a>
 
-##### Section II : Règles techniques et comptables.<a id=488></a>
+##### Section II : Règles techniques et comptables.<a id=485></a>
 
 ###### Article A441-1
 
@@ -54192,11 +53720,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=489></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=486></a>
 
-### Titre Ier : Présentation des opérations.<a id=490></a>
+### Titre Ier : Présentation des opérations.<a id=487></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=491></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=488></a>
 
 ###### Article A513-1
 
@@ -54371,9 +53899,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R513-2 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=492></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=489></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=493></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=490></a>
 
 ###### Article A514-1
 
@@ -54430,7 +53958,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=494></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=491></a>
 
 ###### Article A516-2
 
