@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-07-30
+Version Consolidée au 1993-08-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -452,13 +452,13 @@ Version Consolidée au 1993-07-30
             - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1-1)](#449)
           - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#450)
             - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#451)
-      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe art. A344-8)](#452)
+      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe à l'article A344-3)](#452)
         - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#453)
-        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe art. A344-8)](#454)
-          - [Section I : Dispositions générales. (art. A344-1 à A344-2)](#455)
+        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe à l'article A344-3)](#454)
+          - [Section I : Dispositions générales. (art. A344-1 à A344-3)](#455)
           - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#456)
-          - [Section III : Etats à produire. (art. A344-7 à A344-8)](#457)
-          - [Section III : Etats à produire. (art. Annexe art. A344-8)](#458)
+          - [Section III : Etats à produire. (art. A344-6 à A344-8)](#457)
+          - [Section III : Etats à produire. (art. Annexe art. A344-3 (suite 1) à Annexe à l'article A344-3)](#458)
       - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#459)
         - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#460)
           - [Section II : Conditions d'exercice (art. A353-1)](#461)
@@ -46027,6 +46027,42 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
+###### Article A344-3
+
+Les entreprises de capitalisation et de dépôt établissent, sauf indication contraire, les mêmes états que les entreprises
+d'assurance sur la vie, en apportant aux libellés des lignes ou des colonnes les modifications éventuellement nécessaires.
+Les tontines peuvent, sur leur demande, être autorisées par le ministre de l'économie et des finances à présenter leurs
+résultats sous la forme de tableaux spéciaux dont elles auront fait agréer le modèle.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1969-09-01 annexe
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 1993-07-28 art. 1 JORF 5 août 1993
+
+_Cité par_:
+
+  - Arrêté du 11 septembre 1995 - art. 6 (V)
+  - Arrêté du 28 décembre 2007 - art.
+  - Arrêté du 28 mai 2008 - art. 2 (V)
+  - Code des assurances - art. A331-4 (V)
+  - Code des assurances - art. A331-7 (V)
+  - Code des assurances - art. A344-9 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+  - TXT_SOURCE: Code des assurances - art. R342-17 (M)
+
+
 ##### Section II : Définition des catégories et sous-catégories.<a id=456></a>
 
 ###### Article A344-4
@@ -46226,6 +46262,63 @@ _Abrogé par_:
 
 ##### Section III : Etats à produire.<a id=457></a>
 
+###### Article A344-6
+
+Les états à produire par les entreprises doivent être conformes aux états modèles ci-après.
+
+(modèles non reproduits, se reporter au Journal officiel).
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté  1983-07-27 art. 3 JORF 27 juillet 1983
+  - Arrêté 1981-11-23 art. 1 JORF 4 décembre 1981
+  - Arrêté 1982-06-01 art. 1 JORF 12 juin 1982
+  - Arrêté 1982-06-23 art. 3 JORF 7 septembre 1982
+  - Arrêté 1982-07-23 art. 8 JORF 7 septembre 1982
+  - Arrêté 1982-11-04 art. 2 JORF 16 novembre 1982 en vigueur le 31 décembre 1982
+  - Arrêté 1983-02-15 art. 1, art. 2 JORF 5 mars 1983 en vigueur le 31 décembre 1983
+  - Arrêté 1983-07-11 art. 2 JORF 27 juillet 1983 en vigueur le 1er janvier 1984
+  - Arrêté 1984-12-21 art. 2 JORF 26 décembre 1984
+  - Arrêté 1984-12-26 art. 9 JORF 26 décembre 1984
+  - Arrêté 1984-12-29 art. 2 JORF 4 janvier 1985
+  - Arrêté 1987-02-17 art. 2 JORF 20 février 1987
+  - Arrêté 1989-09-26 art. 1 JORF 5 octobre 1989
+  - Arrêté 1991-01-30 art. 1, art. 3 JORF 31 janvier 1991
+  - Arrêté 1991-05-14 art. 1, art. 2 JORF 17 mai 1991
+  - Arrêté 1991-12-28 art. 1 JORF 22 janvier 1992
+  - Arrêté 1993-03-19 art. 4 JORF 20 mars 1993
+  - Arrêté 1993-05-07 art. 3 JORF 29 mai 1993
+  - Arrêté 1993-07-28 art. 2, art. 3 JORF 5 août 1993
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Abrogé par_:
+
+  - Arrêté 1995-07-28 art. 1 JORF 27 août 1995
+
+_Cité par_:
+
+  - Arrêté du 28 juillet 1995 - art. 1 (V)
+  - Arrêté du 28 juillet 1995 - art. 4 (V)
+  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 159 quater A (P)
+  - Code des assurances - art. A132-5 (T)
+  - Code des assurances - art. A344-11 (Ab)
+  - Code des assurances - art. A344-12 (Ab)
+  - Code des assurances - art. A344-13 (Ab)
+  - Code des assurances - art. A344-7 (M)
+  - Code des assurances - art. A344-8 (V)
+  - Code des assurances - art. R342-25 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+  - TXT_SOURCE: Code des assurances - art. R342-17 (M)
+
+
 ###### Article A344-7
 
 Les états à produire par les sociétés ou caisses d'assurances et de réassurances mutuelles agricoles font l'objet des règles
@@ -46408,6 +46501,3793 @@ _Cite_:
 
 ##### Section III : Etats à produire.<a id=458></a>
 
+###### Article Annexe art. A344-3 (suite 1)
+
+Règles de raccordement des comptes au compte de résultat 
+
+<pre>
+┏━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ POSTE  │ COMPTES RACCORDÉS                                             │ COMMENTAIRE                                      ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 1 a  │ 702, 705, 7082, 7085 63297 (et sous-compte correspondant du   │                                                  ┃
+┃        │ c : 6392) 63597 (et sous-compte correspondant du c : 6395)    │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 1 b  │ 709                                                           │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 2    │ 7920                                                          │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 3    │ 722, 732, 742                                                 │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 4 a  │ 602, 605, 6092, 6095 63293 (et sous-compte correspondant du   │                                                  ┃
+┃        │ c : 6392) 63593 (et sous-compte correspondant du c : 6395)    │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 4 b  │ 612, 615, 6192, 6195 63294 (et sous-compte correspondant du   │                                                  ┃
+┃        │ c : 6392) 63594 (et sous-compte correspondant du c : 6395)    │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 5    │ 6212, 62912                                                   │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 6    │ 632, (sauf 6329), 635 (sauf 6359) 6392 (sauf sous-comptes     │                                                  ┃
+┃        │ raccordés au I 1 a, I 4 a et I 4 b) 6395 (sauf sous-comptes   │                                                  ┃
+┃        │ raccordés au I 1 a, I 4 a et I 4 b)                           │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 7 a  │ 6420                                                          │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 7 b  │ 6422                                                          │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 7 c  │ 6492 et 6495                                                  │ A porter dans la colonne Cessions et rétroces-   ┃
+┃        │                                                               │ sions.                                           ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 8    │ 645                                                           │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ I 9    │ 624, 6294                                                     │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 1   │ 700, 704, 7080, 7084                                          │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 2 a │ 760                                                           │ Pour les entreprises agréées pour les opérations ┃
+┃        │                                                               │ mentionnées au 1° de l'article L. 310-1.         ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 2 b │ 762, 767 » (1), 768, 769                                      │ Pour les entreprises agréées pour les opérations ┃
+┃        │                                                               │ mentionnées au 1° de l'article L. 310-1.         ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 2 c │ 764, 765                                                      │ Pour les entreprises agréées pour les opérations ┃
+┃        │                                                               │ mentionnées au 1° de l'article L. 310-1.         ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 3   │ 766                                                           │ Pour les entreprises agréées pour les opérations ┃
+┃        │                                                               │ mentionnées au 1° de l'article L. 310-1.         ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 4   │ 720, 730, 740, 79715, 7973 » (1)                              │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 5 a │ 600, 604, 6090, 6094, 79713 » (1) 63093 (et sous-compte cor-  │                                                  ┃
+┃        │ respondant du c : 6390) 63493 (et sous-compte correspondant   │                                                  ┃
+┃        │ du c : 6394)                                                  │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 5 b │ 610, 614, 6190, 6194 63094 (et sous-compte correspondant du   │                                                  ┃
+┃        │ c : 6390) 63494 (et sous-compte correspondant du c : 6394)    │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 6 a │ 620, 6290 63095 (et sous-compte correspondant du c : 6390)    │                                                  ┃
+┃        │ 63495 (et sous-compte correspondant du c : 6394)              │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 6 b │ 623, 6293                                                     │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 6 c │ 6210, 62910, 6217                                             │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 7   │ 630, (sauf 6309), 634 (sauf 6349) 6390 (sauf sous-comptes     │                                                  ┃
+┃        │ raccordés au I 5 a, I 5 b et I 6 a) 6394 (sauf sous-comptes   │                                                  ┃
+┃        │ raccordés au I 5 a, I 5 b et I 6 a)                           │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 8 a │ 6400, 79711 » (1)                                             │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 8 b │ 6402, 79712 » (1)                                             │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 8 c │ 6490 et 6494                                                  │ A porter dans la colonne Cessions et rétroces-   ┃
+┃        │                                                               │ sions.                                           ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 9 a │ 660, 662, 663, 79714 » (1)                                    │ Pour les entreprises agréées pour les opérations ┃
+┃        │                                                               │ mentionnées au 1° de l'article L. 310-1.         ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 9 b │ 667 » (1), 668, 669                                           │ Pour les entreprises agréées pour les opérations ┃
+┃        │                                                               │ mentionnées au 1° de l'article L. 310-1.         ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 9 c │ 664, 665                                                      │ Pour les entreprises agréées pour les opérations ┃
+┃        │                                                               │ mentionnées au 1° de l'article L. 310-1.         ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 10  │ 666                                                           │ Pour les entreprises agréées pour les opérations ┃
+┃        │                                                               │ mentionnées au 1° de l'article L. 310-1.         ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 11  │ 644, 79715, 7973 » (1)                                        │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ II 12  │ 7939                                                          │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 3  │ 760                                                           │ Pour les entreprises autres que les entreprises  ┃
+┃ a      │                                                               │ agréées pour les opérations mentionnées au 1° de ┃
+┃        │                                                               │ l'article L. 310-1.                              ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 3  │ 762, 767 » (1), 768, 769                                      │ Pour les entreprises autres que les entreprises  ┃
+┃ b      │                                                               │ agréées pour les opérations mentionnées au 1° de ┃
+┃        │                                                               │ l'article L. 310-1.                              ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 3  │ 764, 765                                                      │ Pour les entreprises autres que les entreprises  ┃
+┃ c      │                                                               │ agréées pour les opérations mentionnées au 1° de ┃
+┃        │                                                               │ l'article L. 310-1.                              ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 4  │ 7930                                                          │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 5  │ 660, 662, 663                                                 │ Pour les entreprises autres que les entreprises  ┃
+┃ a      │                                                               │ agréées pour les opérations mentionnées au 1° de ┃
+┃        │                                                               │ l'article L. 310-1.                              ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 5  │ 667 » (1), 668, 669                                           │ Pour les entreprises autres que les entreprises  ┃
+┃ b      │                                                               │ agréées pour les opérations mentionnées au 1° de ┃
+┃        │                                                               │ l'article L. 310-1.                              ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 5  │ 664, 665                                                      │ Pour les entreprises autres que les entreprises  ┃
+┃ c      │                                                               │ agréées pour les opérations mentionnées au 1° de ┃
+┃        │                                                               │ l'article L. 310-1.                              ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 6  │ 7929                                                          │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 7  │ 75                                                            │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 8  │ 65                                                            │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 9  │ 77                                                            │                                                  ┃
+┃ a      │                                                               │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 9  │ 67                                                            │                                                  ┃
+┃ b      │                                                               │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 10 │ 690                                                           │                                                  ┃
+┠┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ III 11 │ 695                                                           │                                                  ┃
+┠┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ (1) Inséré par arrêté du 15 décembre 2005, annexe 3-7.                                                                    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code des assurances - art. L310-1
+
+
+###### Article Annexe art. A344-3 (suite 2)
+
+2. MODÈLE DE BILAN 
+
+A.-Actif 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="449">
+
+</td>
+      <td width="84">
+
+N 
+
+</td>
+      <td width="81">
+
+(N-1) 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="449">
+
+1. Capital souscrit non appelé ou compte de liaison avec le siège 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+2. Actifs incorporels 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+3. Placements : 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+3 a Terrains et constructions 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+3 b Placements dans des entreprises liées et dans des entreprises avec lesquelles existe un lien de participation 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+3 c Autres placements 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+3 d Créances pour espèces déposées auprès des entreprises cédantes 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+4. Placements représentant les provisions techniques afférentes aux contrats en unités de compte 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5. Part des cessionnaires et rétrocessionnaires dans les provisions techniques : 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5 a Provisions pour primes non acquises (non-vie) (1) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5 b Provisions d'assurance-vie 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5 c Provisions pour sinistres (vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5 d Provisions pour primes non acquises (non-vie) (1) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5 e Provisions pour participation aux bénéfices et ristournes (vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5 f Provisions pour participation aux bénéfices et ristournes (non-vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5 g Provisions d'égalisation 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5 h Autres provisions techniques (vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5 i Autres provisions techniques (non-vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5 j Provisions techniques des contrats en unités de compte 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+6. Créances : 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+6 a Créances nées d'opérations d'assurance directe :
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- 6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre »
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- 6 ab Autres créances nées d'opérations d'assurance directe 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+6 b Créances nées d'opérations de réassurance 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+6 c Autres créances :
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- 6 ca Personnel
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- 6 cb Etat, organismes de sécurité sociale, collectivités publiques
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- 6 cc Débiteurs divers 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+6 d Capital appelé non versé 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+7. Autres actifs : 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+7 a Actifs corporels d'exploitation 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+7 b Comptes courants et caisse 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+7 c Actions propres 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+8. Comptes de régularisation-Actif : 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+8 a Intérêts et loyers acquis non échus 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+8 b Frais d'acquisition reportés 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+8 c Autres comptes de régularisation 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+9. (Ligne supprimée par arrêté du 28 décembre 2007, art. 4) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+Total de l'actif 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td colspan="3" valign="top" width="614">
+
+(1) Ainsi modifié par arrêtés du 19 avril 1995, article 3-III et du 28 juillet 1995, article 3-III (1°).
+
+N.B. 1 : (Arrêté du 28 juillet 1995, art. 3-I-2°) En tant que de besoin, le poste 5 est suivi d'un poste 5 bis, intitulé "
+Part des organismes dispensés d'agrément dans les provisions techniques, subdivisé en sous-postes 5 bis a " Provisions pour
+primes non acquises, 5 bis d " Provisions pour sinistres, 5 bis f " Provisions pour participation aux bénéfices et
+ristournes, 5 bis g " Provisions pour égalisation et 5 bis i " Autres provisions techniques. » 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+B.-Passif 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="449">
+
+</td>
+      <td width="84">
+
+N 
+
+</td>
+      <td width="84">
+
+(N-1) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="449">
+
+1. Capitaux propres : 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+1 a Capital social ou fonds d'établissement et fonds social complémentaire ou compte de liaison avec le siège 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+1 b Primes liées au capital social 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+1 c Ecarts de réévaluation (1) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+1 d Autres réserves 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+1 e Report à nouveau 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+1 f Résultat de l'exercice 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+2. Passifs subordonnés 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3. Provisions techniques brutes : 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3 a Provisions pour primes non acquises (non vie) (2) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3 b Provisions d'assurance vie 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3 c Provisions pour sinistres (vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3 d Provisions pour sinistres (non-vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3 e Provisions pour participation aux bénéfices et ristournes (vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3 f Provisions pour participation aux bénéfices et ristournes (non-vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3 g Provisions pour égalisation 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3 h Autres provisions techniques (vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3 i Autres provisions techniques (non-vie) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+4. Provisions techniques des contrats en unités de compte 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+5. Provisions (3) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+6. Dettes pour dépôts en espèces reçus des cessionnaires 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+7. Autres dettes : 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+7 a Dettes nées d'opérations d'assurance directe 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+7 b Dettes nées d'opérations de réassurance 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+7 c Emprunts obligataires (dont obligations convertibles) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+7 d Dettes envers des établissements de crédit 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+7 e Autres dettes :
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+- 7 ea Titres de créance négociables émis par l'entreprise
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+- 7 eb Autres emprunts, dépôts et cautionnements reçus
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+- 7 ec Personnel
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+- 7 ed Etat, organismes de sécurité sociale et collectivités publiques
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+- 7 ee Créanciers divers 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+8. Comptes de régularisation-Passif 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+9. (Ligne supprimée par arrêté du 28 décembre 2007, art. 4) 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+Total du passif 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td colspan="3" valign="top" width="617">
+
+(1) Ainsi modifié par arrêté du 15 décembre 2005, annexe 3-6. 
+
+(2) Ainsi modifié par arrêté du 19 avril 1995, article 3-6. 
+
+(3) Ainsi modifié par arrêté du 22 avril 2005, article 1er-II.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+C.-Tableau des engagements reçus et donnés 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="449">
+
+</td>
+      <td width="84">
+
+N 
+
+</td>
+      <td width="84">
+
+N-1 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="449">
+
+1. Engagements reçus 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+2. Engagements donnés : 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+2 a Avals, cautions et garanties de crédit donnés 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+2 b Titres et actifs acquis avec engagement de revente 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+2 c Autres engagements sur titres, actifs ou revenus 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+2 d Autres engagements donnés 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+3. Valeurs reçues en nantissement des cessionnaires et rétrocessionnaires 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+4. Valeurs remises par des organismes réassurés avec caution solidaire ou avec substitution 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+5. Valeurs appartenant à des institutions de prévoyance 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+6. Autres valeurs détenues pour compte de tiers 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+7. Encours d'instruments financiers à terme (1) : 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+7 a Ventilation de l'encours d'instruments financiers à terme par catégorie de stratégie :
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Stratégies d'investissement ou de désinvestissement
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Stratégies de rendement
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Autres opérations 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+7 b Ventilation de l'encours d'instruments financiers à terme par catégorie de marché :
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Opérations sur un marché de gré à gré
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Opérations sur des marchés réglementés ou assimilés 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+7 c Ventilation de l'encours d'instruments financiers à terme par nature de risque de marché et d'instrument, notamment :
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Risque de taux d'intérêt
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Risque de change
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Risque actions 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+7 d Ventilation de l'encours d'instruments financiers à terme par nature d'instrument, notamment :
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Contrats d'échange
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Contrats de garantie de taux d'intérêt
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Contrats à terme
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Options 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+7 e Ventilation de l'encours d'instruments financiers à terme par durées résiduelles des stratégies selon les tranches :
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- De 0 à 1 an
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- De 1 à 5 ans
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- Plus de 5 ans 
+
+</td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
+    </td></tr>
+    <tr>
+      <td colspan="3" width="617">
+
+(1) Points 7, 7 a, 7 b, 7 c, 7 d et 7 e insérés par arrêté du 15 décembre 2005, annexe 3-8. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Règles de raccordement des comptes au bilan (actif) 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="89">
+
+POSTE 
+
+</td>
+      <td width="276">
+
+COMPTES RACCORDÉS 
+
+</td>
+      <td width="249">
+
+COMMENTAIRE 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+1 
+
+</td>
+      <td width="276">
+
+109 ou 18 
+
+</td>
+      <td width="249">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+2 
+
+</td>
+      <td width="276">
+
+50 
+
+</td>
+      <td width="249">
+
+Net du compte 59. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+3 a 
+
+</td>
+      <td width="276">
+
+21 et 22 
+
+</td>
+      <td width="249">
+
+Nets des comptes 28 et 29. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+3 b 
+
+</td>
+      <td width="276">
+
+25 et 26 
+
+</td>
+      <td width="249">
+
+Nets des comptes 28 et 29. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+3 c 
+
+</td>
+      <td width="276">
+
+23 (sauf 235) 
+
+</td>
+      <td width="249">
+
+Net des comptes 28 et 29. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+3 d 
+
+</td>
+      <td width="276">
+
+235 
+
+</td>
+      <td width="249">
+
+Net des comptes 28 et 29. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+4 
+
+</td>
+      <td width="276">
+
+24 
+
+</td>
+      <td width="249">
+
+Net des comptes 28 et 29. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+5 a à 5 j 
+
+</td>
+      <td width="276">
+
+Respectivement 391, 390, 392, 393, 394, 395, 396, 3970, 3972, 398 
+
+</td>
+      <td width="249">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+6 aa 
+
+</td>
+      <td width="276">
+
+400 et 401 
+
+</td>
+      <td width="249">
+
+Valeur positive ou négative. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+6 ab 
+
+</td>
+      <td width="276">
+
+40 (sauf 400 et 401) 
+
+</td>
+      <td width="249">
+
+Soldes débiteurs, nets du compte 49. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+6 b 
+
+</td>
+      <td width="276">
+
+41 
+
+</td>
+      <td width="249">
+
+Soldes débiteurs, nets du compte 49. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+6 ca 
+
+</td>
+      <td width="276">
+
+42 
+
+</td>
+      <td width="249">
+
+Soldes débiteurs, nets du compte 49. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+6 cb 
+
+</td>
+      <td width="276">
+
+43 et 44 
+
+</td>
+      <td width="249">
+
+Soldes débiteurs, nets du compte 49. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+6 cc 
+
+</td>
+      <td width="276">
+
+46 et 45 (sauf 4562) 
+
+</td>
+      <td width="249">
+
+Soldes débiteurs, nets du compte 49. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+6 d 
+
+</td>
+      <td width="276">
+
+4562 
+
+</td>
+      <td width="249">
+
+Soldes débiteurs, nets du compte 49. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+7 a 
+
+</td>
+      <td width="276">
+
+51 
+
+</td>
+      <td width="249">
+
+Net du compte 59. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+7 b 
+
+</td>
+      <td width="276">
+
+52 
+
+</td>
+      <td width="249">
+
+Net du compte 59. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+7 c 
+
+</td>
+      <td width="276">
+
+53 
+
+</td>
+      <td width="249">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+8 a 
+
+</td>
+      <td width="276">
+
+480 
+
+</td>
+      <td width="249">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+8 b 
+
+</td>
+      <td width="276">
+
+481 
+
+</td>
+      <td width="249">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+8 c 
+
+</td>
+      <td width="276">
+
+482, 4830, 486 » (1), 487 et 489 » (2) 
+
+</td>
+      <td width="249">
+
+Soldes débiteurs. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+(3) 
+
+</td>
+      <td width="276">
+
+</td>
+      <td width="249">
+    </td></tr>
+    <tr>
+      <td colspan="3" valign="top" width="614">
+
+(1) Inséré par arrêté du 15 décembre 2005, annexe 3-9. 
+
+(2) Inséré par arrêté du 28 décembre 2007. 
+
+(3) Poste 9 supprimé par arrêté du 28 décembre 2007, article 4. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Règles de raccordement des comptes au bilan (passif) 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="89">
+
+POSTE 
+
+</td>
+      <td width="321">
+
+COMPTES RACCORDÉS 
+
+</td>
+      <td width="205">
+
+COMMENTAIRE 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+1 a 
+
+</td>
+      <td width="321">
+
+101, 102, 103 ou 18 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+1 b 
+
+</td>
+      <td width="321">
+
+104 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+1 c 
+
+</td>
+      <td width="321">
+
+105 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+1 d 
+
+</td>
+      <td width="321">
+
+106 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+1 e 
+
+</td>
+      <td width="321">
+
+11 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+1 f 
+
+</td>
+      <td width="321">
+
+12 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+2 
+
+</td>
+      <td width="321">
+
+160 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+3 a à 3 i 
+
+</td>
+      <td width="321">
+
+Respectivement 31, 30, 32, 33, 34, 35, 36, 370 
+
+et 374 et 377, 372 et 375 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+4 
+
+</td>
+      <td width="321">
+
+38 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+5 
+
+</td>
+      <td width="321">
+
+14 et 15 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+6 
+
+</td>
+      <td width="321">
+
+17 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+7 a 
+
+</td>
+      <td width="321">
+
+40 (sauf 400 et 401) 
+
+</td>
+      <td valign="top" width="205">
+
+Soldes créditeurs. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+7 b 
+
+</td>
+      <td width="321">
+
+41 
+
+</td>
+      <td valign="top" width="205">
+
+Soldes créditeurs. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+7 c 
+
+</td>
+      <td width="321">
+
+161 (dont 1610) 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+7 d 
+
+</td>
+      <td width="321">
+
+164 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+7 ea 
+
+</td>
+      <td width="321">
+
+163 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+7 eb 
+
+</td>
+      <td width="321">
+
+162, 165 et 168 
+
+</td>
+      <td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td width="89">
+
+7 ec 
+
+</td>
+      <td width="321">
+
+42 
+
+</td>
+      <td valign="top" width="205">
+
+Soldes créditeurs. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+7 ed 
+
+</td>
+      <td width="321">
+
+43 et 44 
+
+</td>
+      <td valign="top" width="205">
+
+Soldes créditeurs. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+7 ee 
+
+</td>
+      <td width="321">
+
+45 et 46 
+
+</td>
+      <td valign="top" width="205">
+
+Soldes créditeurs. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+8 
+
+</td>
+      <td width="321">
+
+484, 4850, 486 » (1), 487 et 489 » (2) 
+
+</td>
+      <td valign="top" width="205">
+
+Soldes créditeurs. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="89">
+
+(3) 
+
+</td>
+      <td valign="top" width="321">
+      </td><td valign="top" width="205">
+    </td></tr>
+    <tr>
+      <td colspan="3" valign="top" width="614">
+
+(1) Inséré par arrêté du 15 décembre 2005, annexe 3-9. 
+
+(2) Inséré par arrêté du 28 décembre 2007. 
+
+(3) Poste 9 supprimé par arrêté du 28 décembre 2007, article 4. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Règles de raccordement des comptes au bilan 
+
+(tableau des engagements reçus et donnés) 
+
+Postes 1, 2 a à 2 d, 3, 4, 5, (cf. note 38) 6 (arrêté du 15 décembre 2005, annexe 3-10) et 7 » : raccordement aux sous-
+comptes (arrêté du 15 décembre 2005, annexe 3-10) des comptes 80 et 81 ». 
+
+Commentaires particuliers : 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="65">
+
+POSTE 
+
+</td>
+      <td width="549">
+
+COMMENTAIRE 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="65">
+
+2 a 
+
+</td>
+      <td valign="top" width="549">
+
+Toutes opérations non inscrites au passif du bilan par lesquelles l'entreprise s'est engagée, de quelque manière que ce soit
+et quelle que soit la forme juridique, de manière ferme à se substituer à un débiteur. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="65">
+
+2 b 
+
+</td>
+      <td valign="top" width="549">
+
+Toutes opérations non inscrites au passif du bilan par lesquelles l'entreprise s'est engagée à revendre, à des conditions
+fixées par avance, un actif inscrit au bilan. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="65">
+
+2 c 
+
+</td>
+      <td valign="top" width="549">
+
+Toutes opérations autres que celles visées au 2 b (arrêté du 15 décembre 2005, annexe 3-10) et au 7 » par lesquelles
+l'entreprise a pris un engagement d'acheter ou de vendre un actif, ou de verser un revenu, et notamment :
+
+- les garanties d'acquisition d'immeuble ;
+
+- les garanties de rachat ou d'achat de titres (garanties de liquidité). 
+
+(Tirets supprimés par arrêté du 15 décembre 2005, annexe 3-10.) 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="65">
+
+2 d 
+
+</td>
+      <td valign="top" width="549">
+
+Tous autres engagements donnés, et notamment les engagements de financement fermes non exercés susceptibles de créer un
+risque de crédit. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="65">
+
+6* 
+
+</td>
+      <td valign="top" width="549">
+
+Y compris, notamment, valeur des OPCVM dont l'entreprise est dépositaire.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 15 décembre 2005 (V)
+
+
+###### Article Annexe art. A344-3 (suite 3)
+
+3. ANNEXE
+
+L'annexe est établie conformément aux dispositions de l'article 25 du décret n° 83-1020 du 29 novembre 1983 ; elle est
+constituée de toutes les informations d'importance significative permettant d'avoir une juste appréciation du patrimoine et
+de la situation financière de l'entreprise, des risques qu'elle assume et de ses résultats. Sans préjudice des obligations
+légales et réglementaires qui leur sont applicables (notamment la loi n° 66-537 du 24 juillet 1966 et les dispositions
+spécifiques aux entreprises dont les actions sont admises à la cote des bourses de valeurs), la production de ces
+informations par les entreprises n'est requise que pour autant qu'elles ont une importance significative. L'annexe comporte
+notamment les éléments prévus ci-après. A chaque fois que ceci est utile à la compréhension, et notamment lorsque l'annexe
+donne le détail d'un poste du bilan ou du compte de résultat, les chiffres correspondants relatifs à l'exercice précédent
+sont indiqués de manière à pouvoir être directement comparés à ceux de l'exercice sous revue.
+
+I. - Informations sur le choix des méthodes utilisées
+
+(Arrêté du 15 décembre 2005, annexe 3-11.) 1. » Les entreprises mentionnent les modes et méthodes d'évaluation appliqués aux
+divers postes du bilan, du compte de résultat et de l'annexe, ainsi que les méthodes utilisées pour le calcul des
+amortissements et des (arrêté du 15 décembre 2005, annexe 3-11) dépréciations ». Elles décrivent notamment les règles
+retenues pour l'imputation des charges par destination.
+
+(Arrêté du 15 décembre 2005, annexe 3-12.) 2. En ce qui concerne les instruments financiers à terme, les entreprises
+fournissent une description des principes et méthodes comptables retenus ainsi que des méthodes d'évaluation, et notamment
+des options retenues lorsque cela est applicable (enregistrement des primes d'options, mode de prise en compte des résultats
+sur stratégies de rendement,...).
+
+3. Pour les opérations d'assurance réalisées dans le cadre d'un patrimoine d'affectation, les entreprises fournissent les
+compléments d'information suivants dans l'annexe aux comptes annuels de l'organisme d'assurance gestionnaire, lorsque cela
+est applicable :
+
+3.1. La description des caractéristiques des opérations d'assurance réalisées dans le cadre d'un patrimoine d'affectation
+(contrats PERP/L. 441-1...) incluant notamment :
+
+a) Les spécificités comptables de ces opérations et plus particulièrement l'explicitation de la notion de patrimoine
+d'affectation et de son incidence :
+
+- modalités de tenue de la (ou des) comptabilité(s) auxiliaire(s) d'affectation ;
+
+- mode de constatation des résultats (différence entre valeur de marché et prix de revient) en cas de changement
+d'affectation d'actifs entre deux patrimoines d'affectation ou entre l'actif général et un patrimoine d'affectation ;
+
+- modalités particulières de calcul des dépréciations durables pour chaque patrimoine d'affectation ;
+
+- utilisation de la méthode "premier entré - premier sorti par patrimoine d'affectation pour le calcul des résultats de
+cession ;
+
+b) Les particularités des contrats PERP en "euro diversifié, et notamment :
+
+- description des principes de fonctionnement et de calcul de la provision technique de diversification ;
+
+- mention de l'évaluation en valeur de réalisation des actifs de placement.
+
+3.2. Le cas échéant, il sera fait mention des méthodes retenues pour l'arrêté des comptes de l'organisme d'assurance
+gestionnaire lorsqu'il est procédé à des estimations, notamment en matière de cotisations. Une information sera donnée sur le
+fait que les montants figurant dans les comptes annuels de l'organisme d'assurance gestionnaire peuvent, du fait du recours à
+ces estimations, différer de ceux figurant dans les comptes auxiliaires des PERP/patrimoines d'affectation des conventions,
+arrêtés ultérieurement, le seuil de signification étant alors apprécié au niveau du PERP/de la convention. »
+
+(Arrêté du 15 décembre 2005, annexe 3-13.) 4. » Les entreprises indiquent et expliquent, le cas échéant, les dérogations aux
+principes généraux qu'elles ont été conduites à pratiquer dans le cas exceptionnel où l'application d'une prescription
+comptable se révèle impropre à donner une image fidèle du patrimoine, de la situation financière ou du résultat ; elles
+précisent l'incidence de ces pratiques dérogatoires sur la détermination du patrimoine, de la situation financière et du
+résultat de l'exercice.
+
+Elles indiquent de manière exhaustive celles des options prévues dans des textes législatifs ou réglementaires qu'elles ont
+exercées.
+
+Tout changement de méthode et de présentation des comptes annuels doit être décrit et justifié dans l'annexe. Son incidence
+sur les comptes doit être indiquée.
+
+II. - Informations sur les postes du bilan et du compte de résultat
+
+1. Pour le bilan
+
+1.1. Les entreprises indiquent les mouvements ayant affecté les divers éléments de l'actif ci-après énumérés :
+
+- les actifs incorporels ;
+
+- les terrains et constructions ;
+
+- les titres de propriété sur des entreprises liées et des entreprises avec lesquelles l'entreprise d'assurance a un lien de
+participation (comptes 250 et 260) ;
+
+- les bons, obligations et créances de toutes natures sur ces mêmes entreprises (comptes 25 et 26, à l'exclusion des comptes
+250 et 260).
+
+Les entreprises indiquent, pour chacun de ces éléments d'actif, le montant brut en début et en fin d'exercice, les transferts
+et mouvements de l'exercice, le montant cumulé des amortissements et (arrêté du 15 décembre 2005, annexe 3-14)
+dépréciations » à la clôture et le montant net inscrit au bilan, ainsi que les dotations aux amortissements et (arrêté du 22
+avril 2005, article 2-VII) dépréciations » et les reprises de (arrêté du 15 décembre 2005, annexe 3-14) dépréciations »
+constatées au cours de l'exercice.
+
+1.2. En ce qui concerne les placements autres que ceux visés au 1.1, les entreprises indiquent les dotations aux
+amortissements (arrêté du 22 avril 2005, art. 2-VIII) et pour dépréciation » constatées au cours de l'exercice, par poste du
+bilan. Elles indiquent également par poste du bilan, le montant brut, le montant cumulé des amortissements et des (arrêté du
+22 avril 2005, art. 2-VIII) dépréciations » à la clôture et le montant net inscrit au bilan.
+
+(Arrêté du 15 décembre 2005, annexe 3-14.) 1.3. En ce qui concerne les instruments financiers à terme, les entreprises
+fournissent les informations suivantes dans l'annexe aux comptes annuels :
+
+a) La description des opérations et types de stratégies ainsi que les types d'instruments utilisés. Cette description
+implique notamment que soient fournies :
+
+- les positions en cours en fin de période par nature de stratégie et par type d'instruments financiers à terme, en
+distinguant marchés réglementés et marchés de gré à gré ;
+
+- une information sur la nature et les encours des éléments d'actif et de passif concernés par chaque nature de stratégie ;
+
+b) Le montant des primes, soultes, appels de marge et autres flux figurant en compte de régularisation actif et passif, et
+les durées résiduelles d'amortissement prévues pour chaque nature de flux ;
+
+c) Le montant des gains et pertes inscrits en résultat au titre des opérations dénouées au cours de l'exercice ;
+
+d) La description des ruptures de stratégie intervenues au cours de l'exercice et de leur motivation ;
+
+e) Le montant des gains ou pertes inscrits en résultat au titre des opérations rompues au cours de l'exercice ;
+
+f) La description des déqualifications de stratégies intervenues au cours de l'exercice ;
+
+g) Le montant des flux inscrits en compte de régularisation au titre des opérations déqualifiées, ainsi que, le cas échéant,
+des provisions constituées à ce titre. »
+
+1.4. (cf. note 39) (Arrêté du 11 septembre 1995, art. 5-1.) Les entreprises établissent un état récapitulatif et, pour les
+comptes sociaux, un état détaillé de l'ensemble des placements (arrêté du 15 décembre 2005, annexe 3-15) "et instruments
+financiers à terme inscrits à leur bilan. L'état récapitulatif figure obligatoirement dans l'annexe. »
+
+Lorsqu'une entreprise décide de ne pas le faire figurer dans l'annexe, l'état détaillé doit, dans les mêmes délais que les
+comptes annuels, être établi par l'entreprise et communiqué aux commissaires aux comptes, qui en vérifient la sincérité et la
+concordance avec les comptes annuels dans les conditions définies au troisième alinéa de l'article 228 de la loi n° 66-537 du
+24 juillet 1966 ; dans ce cas, l'état détaillé est délivré à toute personne qui en fait la demande et à la Commission de
+contrôle des assurances, dans les conditions définies à l'article R. 341-8 du code des assurances.
+
+A. - L'état détaillé comporte :
+
+A 1. - (Arrêté du 11 septembre 1995, art. 5-2.) Pour les entreprises soumises au contrôle de l'Etat en vertu de l'article L.
+310-1. »
+
+a) Un tableau pour les placements inscrits au bilan en classe 2 conformément à l'article R. 332-19 et affectables à la
+représentation des engagements réglementés (autres que ceux visés aux d, e, (arrêté du 15 décembre 2005, annexe 3-16) f et
+i », ci-dessous) ;
+
+b) Un tableau pour les placements inscrits au bilan en classe 2 conformément à l'article R. 332-20 et affectables à la
+représentation des engagements réglementés (autres que ceux visés aux d, e, (arrêté du 15 décembre 2005, annexe 3-16) f et
+i » ci-dessous) ;
+
+c) Un tableau pour les placements inscrits au bilan en classe 2 conformément à l'article R. 332-5 (arrêté du 15 décembre
+2005, annexe 3-16) (autres que ceux visés au i ci-dessous) » ;
+
+d) Un tableau pour les placements inscrits au bilan en classe 2 et garantissant les engagements envers des institutions de
+prévoyance ou couvrant des fonds de placement gérés par l'entreprise, avec, le cas échéant, un tableau séparé par méthode
+d'évaluation (R. 332-19 ou R. 332-20) (arrêté du 15 décembre 2005, annexe 3-16) (autres que ceux visés au i ci-dessous) » ;
+
+e) Un tableau pour les placements inscrits au bilan en classe 2 déposés ou donnés en nantissement en garantie des
+acceptations chez les cédantes dont l'entreprise se porte caution solidaire, avec, le cas échéant, un tableau séparé par
+méthode d'évaluation (R. 332-19 et R. 332-20) (arrêté du 15 décembre 2005, annexe 3-16) (autres que ceux visés au i ci-
+dessous) » ;
+
+f) Un tableau pour les placements inscrits au bilan en classe 2 déposés ou donnés en nantissement chez les autres cédantes en
+garantie des acceptations, avec, le cas échéant, un tableau séparé par méthode d'évaluation (R. 332-19 ou R. 332-20) (arrêté
+du 15 décembre 2005, annexe 3-16) (autres que ceux visés au i ci-dessous) » ;
+
+g) Un tableau pour les autres placements inscrits au bilan en classe 2 (arrêté du 15 décembre 2005, annexe 3-16) et pour les
+instruments financiers à terme non rattachés à des placements (autres que ceux visés au i ci-dessous) » ;
+
+h) Un tableau pour les actifs inscrits au bilan affectables à la représentation des engagements réglementés, autres que ceux
+inscrits en classe 2 (arrêté du 15 décembre 2005, annexe 3-17) (autres que ceux visés au i ci-dessous) » ;
+
+(Arrêté du 15 décembre 2005, annexe 3-17.) i) Un tableau pour les placements inscrits au bilan en classe 2 et appartenant à
+un patrimoine d'affectation ventilant pour chaque contrat ou convention le total des placements par méthode (R. 332-19, R.
+332-20, R. 332-5 et article 28 du décret n° 2004-342 du 21 avril 2004) ainsi que les actifs inscrits au bilan affectables à
+la représentation des engagements réglementés, autres que ceux inscrits en classe 2. Ce tableau est accompagné de tableaux
+séparés établis pour chaque contrat ou convention détaillant les placements visés aux a à h ci-dessus ; »
+
+j) (cf. note 40) Un tableau pour les valeurs reçues en nantissement des réassureurs (pour ces valeurs, les colonnes C et D ne
+sont pas servies ; la colonne E est, par convention, servie d'un montant égal à celui inscrit en colonne F) ;
+
+k) (cf. note 41) Des tableaux pour les valeurs gérées par l'entreprise et appartenant à des institutions de prévoyance, à
+raison d'un tableau par portefeuille géré (pour ces valeurs, les colonnes C et D ne sont pas servies ; la colonne E est
+servie par la valeur d'entrée).
+
+A 2. - (Arrêté du 11 septembre 1995, art. 5-3.) Pour les entreprises soumises au contrôle de l'Etat en vertu de l'article L.
+310-1-1 :
+
+a) Un tableau pour les placements inscrits au bilan en classe 2 conformément à l'article R. 332-19 (autres que ceux visés aux
+c, d et e ci-dessous) ;
+
+b) Un tableau pour les placements inscrits au bilan en classe 2 conformément à l'article R. 332-20 (autres que ceux visés aux
+c, d et e ci-dessous) ;
+
+c) Un tableau pour les placements inscrits au bilan en classe 2 conformément à l'article R. 332-5 ;
+
+d) Un tableau pour les placements inscrits au bilan en classe 2 déposés ou donnés en nantissement en garantie des
+acceptations chez les cédantes dont l'entreprise se porte caution solidaire, avec, le cas échéant, un tableau séparé par
+méthode d'évaluation (R. 332-19 et R. 332-20) ;
+
+e) Un tableau pour les placements inscrits au bilan en classe 2 déposés ou donnés en nantissement chez les autres cédantes en
+garantie des acceptations avec, le cas échéant, un tableau séparé par méthode d'évaluation (R. 332-19 ou R. 332-20) ; »
+
+(Arrêté du 15 décembre 2005, annexe 3-18.) f) Un tableau pour les instruments financiers à terme non rattachés à des
+placements. »
+
+(Arrêté du 11 septembre 1995, art. 5-4.) Dans chacun des tableaux prévus aux A 1 et A 2 ci-dessus », les valeurs et actifs
+sont groupés par rubrique correspondant à chaque compte divisionnaire (3 chiffres) ou, le cas échéant, sous-compte de la
+nomenclature des comptes (4 chiffres), présentés dans l'ordre du plan de comptes et comportant en clair l'intitulé du compte
+divisionnaire ou du sous-compte.
+
+(Arrêté du 15 décembre 2005, annexe 3-19.) L'état détaillé des placements comprend l'indication des instruments financiers à
+terme regroupés par stratégie et par contrepartie, à défaut d'indication plus détaillée. Les instruments financiers à terme
+liés à un placement sont rattachés aux placements concernés par la stratégie. Lorsqu'une stratégie concerne plusieurs natures
+de placements, les instruments financiers à terme de la stratégie seront soit rattachés aux placements de même nature, soit
+mentionnés dans le tableau g de l'état détaillé pour les entreprises soumises au contrôle de l'Etat en vertu de l'article L.
+310-1 ou dans le tableau f de l'état détaillé pour les entreprises soumises au contrôle de l'Etat en vertu de l'article L.
+310-1-1. Ce tableau contient en outre les instruments financiers à terme qui ne sont pas liés à des placements détenus
+(anticipations de placements notamment). »
+
+Dans chaque rubrique, les actifs sont groupés en sous-rubrique par devise. A la fin de chaque sous-rubrique sont portés, sur
+des lignes distinctes, les éléments à déduire (part non libérée des titres, intérêts courus non échus), la totalisation des
+valeurs en devises et la contre-valeur en (arrêté du 15 décembre 2005, annexe 3-20) euros » des totalisations au cours de
+change retenu pour l'établissement des comptes annuels (colonnes C, D, E, F, G). A la fin de chaque rubrique, figure une
+ligne de totalisation des valeurs ou contre-valeurs en (arrêté du 15 décembre 2005, annexe 3-20) euros » (colonnes C, D, E,
+F, G). Aucun actif ne peut figurer dans plus d'un seul tableau. Chacun des tableaux comporte une ligne de totalisation
+générale des valeurs ou contre-valeurs en (arrêté du 15 décembre 2005, annexe 3-20) euros » (C, D, E, F, G). Les entreprises
+agréées pour les opérations mentionnées au 1° de l'article L. 310-1 indiquent à la suite des tableaux la quote-part (%)
+définie à l'article R. 344-1.
+
+Les tableaux sont présentés selon le modèle ci-après.
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━┓
+┃ NOMBRE et désignation des valeurs ou des │ AFFEC- │ LOCA-  │ VALEUR INSCRITE    │ VALEUR  │ VALEUR   │ VALEUR de │ IDEN-  ┃
+┃ actifs avec, le cas échéant, mention de  │ TATION │ LISA-  │ au bilan           │ nette   │ de réa-  │ rembour-  │ TI-    ┃
+┃ la devise autre que l'euro » (*) dans    │        │ TION   ├┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┤         │ lisation │ sement    │ FIANT  ┃
+┃ laquelle » (*) elles sont libellées      │        │        │ Valeur  │ Correc-  │         │          │           │        ┃
+┃                                          │        │        │ brute   │ tions de │         │          │           │        ┃
+┃                                          │        │        │         │ valeur   │         │          │           │        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┨
+┃ (A)                                      │ (B)    │ (B 1)  │ (C)     │ (D)      │ (E)     │ (F)      │ (G)       │ (H)    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┨
+┃ (1)                                      │ (2)    │ (3)    │ (4)     │ (5)      │         │ (6)      │ (7)       │ (8)    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┨
+┃ (1) A l'intérieur de chaque sous-rubrique (voir ci-dessous B), les valeurs mobilières sont ins-                           ┃
+┃ crites dans l'ordre de la cote officielle de la principale place de cotation. L'intitulé de                               ┃
+┃ chaque valeur est précédé du numéro d'identification en usage sur la cote officielle de la prin-                          ┃
+┃ cipale place de cotation (arrêté du 15 décembre 2005, annexe 3-23) (code ISIN [international se-                          ┃
+┃ curities identification numbers]) ». Pour les valeurs et actifs garantis par un tiers autre que                           ┃
+┃ le débiteur ou par une garantie réelle, la nature de la garantie et la désignation du garant sont                         ┃
+┃ précisées. (2) L'indication de l'affectation est abrégée à l'aide du code suivant : - F : Provi-                          ┃
+┃ sions techniques en France sauf opérations en unités de compte (arrêté du 15 décembre 2005, an-                           ┃
+┃ nexe 3-24) et opérations réalisées dans le cadre d'un patrimoine d'affectation » ; - G : Provi-                           ┃
+┃ sions techniques dans (arrêté du 15 décembre 2005, annexe 3-24) l'Espace économique euro-                                 ┃
+┃ péen » (hors France) sauf opérations en unités de compte ; - A : Provisions techniques des (ar-                           ┃
+┃ rêté du 15 décembre 2005, annexe 3-24) opérations de branche 26 » ; - (Arrêté du 15 décembre                              ┃
+┃ 2005, annexe 3-24.) R : provisions techniques des plans d'épargne retraite populaires (PERP),                             ┃
+┃ sauf PERP en unités de rentes et PERP en "euro diversifié ; - RA : provisions techniques des                              ┃
+┃ plans d'épargne retraite populaires en unités de rentes ; - RE : provisions techniques des plans                          ┃
+┃ d'épargne retraite populaires en "euro diversifié ; - RX : provisions techniques des autres opé-                          ┃
+┃ rations réalisées dans le cadre d'un patrimoine d'affectation ; » - V : Provisions techniques des                         ┃
+┃ opérations en unités de compte en France (art. R. 332-5) ; - W : Provisions techniques des opéra-                         ┃
+┃ tions en unités de compte dans (arrêté du 15 décembre 2005, annexe 3-24) l'Espace économique eu-                          ┃
+┃ ropéen » hors France (art. R. 332-5) ; - P : Institutions de prévoyance ou fonds de placement gé-                         ┃
+┃ rés par l'entreprise ; - E : Provisions techniques hors (arrêté du 15 décembre 2005, annexe 3-24)                         ┃
+┃ Espace économique européen » ; - CF : Cautionnement en France ; - CC : Cautionnement (arrêté du                           ┃
+┃ 15 décembre 2005, annexe 3-24) Espace économique européen » (hors France) ; - CE : Cautionnement                          ┃
+┃ hors (arrêté du 15 décembre 2005, annexe 3-24) Espace économique européen » ; - L : Valeurs sans                          ┃
+┃ affectation : Les actifs transférés avec un portefeuille de contrats par une entreprise d'assu-                           ┃
+┃ rance vie ou de capitalisation sont affectés, en outre, du code T. (3) Etat de localisation du                            ┃
+┃ titre de propriété de l'actif (notamment Etat d'établissement du dépositaire pour les valeurs mo-                         ┃
+┃ bilières). (4) Les valeurs brutes, nettes et de réalisation ainsi que les corrections de valeur                           ┃
+┃ sont à inscrire dans la monnaie de comptabilisation, c'est-à-dire, notamment pour les titres dont                         ┃
+┃ l'acquisition a fait l'objet d'une opération en devise au sens de l'article A. 342-3, dans la de-                         ┃
+┃ vise de l'opération initiale. Pour chacun des titres non libérés, le montant non libéré doit fi-                          ┃
+┃ gurer dans la colonne Valeur inscrite au bilan » immédiatement au-dessous de la ligne du libellé                          ┃
+┃ de la valeur. A chaque sous-totalisation (voir ci-dessous) le total des parties non libérées des                          ┃
+┃ valeurs totalisées est retranché globalement de cette colonne. (Arrêté du 15 décembre 2005, an-                           ┃
+┃ nexe 3-25.) Pour les instruments financiers à terme, la valeur brute est le montant total des                             ┃
+┃ flux financiers reçus ou versés depuis la mise en place de la stratégie, à l'exception de ceux                            ┃
+┃ relatifs aux garanties reçues et données. » (5) La colonne Correction de valeur » inclut les                              ┃
+┃ amortissements et dépréciations » (Termes ainsi modifiés par arrêté du 22 avril 2005, art. 2-IX)                          ┃
+┃ ainsi que les amortissements et reprises de différences sur prix de remboursement constatés pour                          ┃
+┃ les titres évalués conformément à l'article R. 332-19 du présent code. (Arrêté du 15 décembre                             ┃
+┃ 2005, annexe 3-26.) Pour les instruments financiers, il s'agit de la partie des flux constatée en                         ┃
+┃ compte de résultat depuis la mise en place de la stratégie (amortissement des primes ou soultes,                          ┃
+┃ prise en compte de l'étalement du résultat...). » (6) (Arrêté du 15 décembre 2005, annexe 3-27.)                          ┃
+┃ Valeurs calculées » selon les règles fixées par (arrêté du 15 décembre 2005, annexe 3-27) les ar-                         ┃
+┃ ticles R. 332-20-1 et R. 332-20-2 ». (7) Valeur retenue pour le calcul de la différence sur prix                          ┃
+┃ de remboursement pour les valeurs évaluées conformément à l'article R. 332-19 du présent code.                            ┃
+┃ (Arrêté du 15 décembre 2005, annexe 3-21) (8) Un identifiant permettant de faire le lien entre la                         ┃
+┃ ou les lignes de placement concernés par la stratégie et le ou les instruments financiers à terme                         ┃
+┃ correspondants. » (*) Les termes le FF » et le mot lesquelles » ont été substitués par l'euro »                           ┃
+┃ et laquelle » par arrêté du 15 décembre 2005, annexe 3-22.                                                                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+B. - L'état récapitulatif est un tableau de synthèse comportant les colonnes C, E et F du modèle d'état détaillé et les
+lignes suivantes :
+
+I. - Placements (arrêté du 15 décembre 2005, annexe 3-28) et instruments financiers à terme » (détail des postes 3 et 4 de
+l'actif [arrêté du 15 décembre 2005, annexe 3-28] et des instruments financiers à terme »)
+
+1. Placements immobiliers et placements immobiliers en cours. (cf. note 42) 
+
+2. Actions et autres titres à revenu variable autres que les parts d'OPCVM. (cf. note 43) 
+
+3. Parts d'OPCVM (autres que celles visées en 4). (cf. note 44) 
+
+4. Parts d'OPCVM détenant exclusivement des titres à revenu fixe. (cf. note 45) 
+
+5. Obligations et autres titres à revenu fixe. (cf. note 46) 
+
+6. Prêts hypothécaires. (cf. note 47) 
+
+7. Autres prêts et effets assimilés. (cf. note 48) 
+
+8. Dépôts auprès des entreprises cédantes. (cf. note 49) 
+
+9. Dépôts (autres que ceux visés au 8) et cautionnements en espèces, et autres placements. (cf. note 50) 
+
+10. Actifs représentatifs de contrats en unités de compte :
+
+- placements immobiliers ;
+
+- titres à revenu variable autres que des parts d'OPCVM ;
+
+- OPCVM détenant exclusivement des titres à revenu fixe ;
+
+- autres OPCVM ;
+
+- obligations et autres titres à revenu fixe.
+
+(Arrêté du 15 décembre 2005, annexe 3-28.) 11. Autres instruments financiers à terme :
+
+- stratégies d'investissement ou de désinvestissement ;
+
+- stratégies de rendement ;
+
+- autres opérations. »
+
+12. (cf. note 51) Total des lignes 1 à (arrêté du 15 décembre 2005, annexe 3-28) 11 ».
+
+a) Dont :
+
+- placements évalués selon l'article R. 332-19 (arrêté du 15 décembre 2005, annexe 3-28) et instruments financiers à terme
+rattachés » ;
+
+- placements évalués selon l'article R. 332-20 (arrêté du 15 décembre 2005, annexe 3-28) et instruments financiers à terme
+rattachés » ;
+
+- placements évalués selon l'article R. 332-5 (arrêté du 15 décembre 2005, annexe 3-28) et instruments financiers à terme
+rattachés » ;
+
+- (arrêté du 15 décembre 2005, annexe 3-28) placements évalués conformément à l'article 28 du décret n° 2004-342 du 21 avril
+2004 ; »
+
+- (arrêté du 15 décembre 2005, annexe 3-28) autres instruments financiers à terme. »
+
+b) Dont (arrêté du 11 septembre 1995, art. 5-5) , pour les entreprises visées à l'article L. 310-1 » :
+
+- valeurs affectables à la représentation des provisions techniques autres que celles visées ci-dessous ;
+
+- valeurs garantissant les engagements envers les institutions de prévoyance ou couvrant les fonds de placement gérés ;
+
+- valeurs déposées chez les cédants (dont valeurs déposées chez les cédants dont l'entreprise s'est portée caution
+solidaire) ;
+
+- valeurs affectées aux provisions techniques des (arrêté du 15 décembre 2005, annexe 3-28) opérations réalisées dans le
+cadre d'un patrimoine d'affectation » en France ;
+
+- autres affectations ou sans affectation.
+
+(Arrêté du 15 décembre 2005, annexe 3-28.) Les valeurs affectées aux provisions techniques des opérations réalisées dans le
+cadre d'un patrimoine d'affectation en France sont détaillées par nature (A, R, RA, RE, RX). Elles font par ailleurs l'objet
+d'un tableau récapitulatif séparé, ventilant les placements par nature. »
+
+(Arrêté du 11 septembre 1995, art. 5-5.) Dont, pour les entreprises visées à l'article L. 310-1-1 :
+
+- valeurs déposées chez les cédants (dont valeurs déposées chez les cédants dont l'entreprise s'est portée caution
+solidaire) ;
+
+- autres valeurs. »
+
+(Arrêté du 15 décembre 2005, annexe 3-28.) c) Dont :
+
+- placements et instruments financiers à terme dans l'OCDE ;
+
+- placements et instruments financiers à terme hors OCDE. »
+
+II. - Actifs affectables à la représentation des provisions techniques (autres que les placements (arrêté du 15 décembre
+2005, annexe 3-29) , les instruments financiers à terme » et la part des réassureurs dans les provisions techniques).
+
+III. - Valeurs appartenant à des institutions de prévoyance
+
+(à raison d'une ligne par institution de prévoyance)
+
+(Arrêté du 15 décembre 2005, annexe 3-30.) Dans l'état récapitulatif, les instruments financiers à terme liés à des
+placements sont rattachés aux placements concernés par la stratégie de la même façon que dans l'état détaillé. Lorsqu'une
+stratégie concerne plusieurs natures de placements, les instruments financiers à terme de la stratégie, qui n'auront pas été
+rattachés aux placements de même nature, seront mentionnés à la rubrique 11 "autres instruments financiers à terme. »
+
+A la suite du tableau de synthèse sont fournies les informations suivantes :
+
+a) Le montant des acomptes inclus dans la valeur des actifs inscrits au poste Terrains et constructions » ;
+
+b) Le montant des terrains et constructions en faisant apparaître, en distinguant les droits réels et les parts de sociétés
+immobilières ou foncières non cotées :
+
+- les immobilisations utilisées pour l'exercice des activités propres de l'établissement ;
+
+- les autres immobilisations.
+
+c) Le solde non encore amorti ou non encore repris correspondant à la différence sur prix de remboursement des titres évalués
+conformément à l'article R. 332-19 ;
+
+1.5. (cf. note 52) Les entreprises indiquent la ventilation selon leur durée résiduelle, en distinguant les tranches jusqu'à
+un an, plus de un à cinq ans, plus de cinq ans, de leurs créances et dettes.
+
+1.6. (cf. note 53) Les entreprises indiquent :
+
+- le montant des participations et des parts dans des entreprises liées détenues dans des entreprises d'assurance ;
+
+- la liste des filiales et participations (notamment le nom et le siège), telle que celles-ci sont définies aux articles 354
+et 355 de la loi n° 66-537 du 24 juillet 1966, avec l'indication, pour chacune d'elles, de la part du capital détenu,
+directement ou par prête-nom, du montant des capitaux propres et du résultat du dernier exercice ;
+
+- le nom, le siège et la forme juridique de toute entreprise dont l'entreprise d'assurance est l'associé indéfiniment
+responsable.
+
+Certaines de ces indications peuvent être omises à la condition que l'entreprise soit en mesure de justifier le préjudice
+grave qui pourrait résulter de leur divulgation. Il est alors fait mention du caractère incomplet des informations figurant
+sur la liste.
+
+1.7. (cf. note 54) En ce qui concerne les opérations se rapportant à des entreprises liées et à des entreprises avec
+lesquelles existe un lien de participation, les entreprises indiquent, séparément pour chacune de ces deux catégories, le
+montant des parts détenues dans ces entreprises (actions et autres titres à revenu variable), et le montant des créances et
+des dettes sur ces entreprises détaillées par poste et sous-poste du bilan et, pour les créances et dettes nées d'opérations
+d'assurance directe, en distinguant les créances ou dettes sur les preneurs d'assurance et les créances ou dettes sur les
+intermédiaires d'assurance.
+
+1.8. (cf. note 55) En ce qui concerne les passifs subordonnés les entreprises mentionnent :
+
+a) Pour chaque dette, matérialisée ou non par un titre, représentant plus de 10 % du montant total des dettes subordonnées :
+
+- la nature juridique de la dette (emprunt, titre obligataire, titre participatif...) ;
+
+- le montant de la dette, la devise dans laquelle elle est libellée, le taux d'intérêt et l'échéance ou l'indication que la
+dette est perpétuelle ;
+
+- la possibilité et les conditions d'un éventuel remboursement anticipé ;
+
+- les conditions de la subordination, l'existence éventuelle de stipulations permettant de convertir le passif subordonné en
+capital ou en une autre forme de passif ainsi que les conditions prévues par ces stipulations.
+
+b) Pour les autres dettes subordonnées, les modalités qui les régissent de manière globale et leur répartition par nature de
+dette.
+
+1.9. (cf. note 56) En ce qui concerne les postes qui affectent ou sont susceptibles d'affecter la composition de
+l'actionnariat, les entreprises indiquent :
+
+a) Le nombre et la valeur nominale de chaque catégorie de titres composant le capital social et l'étendue des droits que
+confèrent à leur détenteur les titres de chaque catégorie avec l'indication de ceux qui ont été créés ou remboursés pendant
+l'exercice ;
+
+b) Le nombre et le montant des obligations convertibles, des parts bénéficiaires et des titres similaires, en précisant
+l'étendue des droits qu'ils confèrent ;
+
+c) La valeur nominale des différentes catégories de titres de l'entreprise détenus par elle-même (actions propres), ainsi que
+le nombre et la valeur nominale des titres de chaque catégorie achetés ou vendus pendant l'exercice.
+
+1.10. (cf. note 57) Les entreprises fournissent :
+
+a) La ventilation des réserves en distinguant les réserves statutaires et chacune des réserves réglementaires et des autres
+réserves, avec leur dénomination précise ;
+
+b) Le montant des éléments du bilan ayant fait l'objet d'une réévaluation au cours de l'exercice, en précisant, pour chaque
+catégorie, la méthode de réévaluation utilisée, le montant et le traitement fiscal de l'écart ;
+
+c) Le détail des mouvements ayant affecté la composition des fonds propres au cours de l'exercice notamment les réserves
+incorporées au capital social ou au fonds d'établissement et les augmentations de capital ou de fonds d'établissement.
+
+1.11. (cf. note 58) Les entreprises fournissent le montant des frais d'établissement, ventilés selon leur nature, des frais
+de recherche et de développement, de la valeur d'achat des fonds commerciaux et des autres actifs incorporels.
+
+1.12. (cf. note 59) (Arrêté du 19 avril 1995, art. 3-III.) Les entreprises doivent préciser, dès lors que ce montant est
+important, le montant des provisions pour risques en cours. L'appréciation de l'importance du montant s'effectue
+globalement. »
+
+1.13. (cf. note 60) a) Les entreprises précisent, dès lors que ce montant est significatif, le montant des recours à recevoir
+déduits des provisions pour sinistres à payer. L'appréciation du caractère significatif du montant s'effectue globalement.
+
+b) Les entreprises (Arrêté du 11 septembre 1995, art. 5-6) visées à l'article L. 310-1 » précisent, dès lors que cette
+différence est significative, la différence entre, d'une part, le montant des provisions pour sinistres inscrites au bilan
+d'ouverture, relatives aux sinistres survenus au cours d'exercices antérieurs et restant à régler, et, d'autre part, le
+montant total des prestations payées au cours de l'exercice au titre de sinistres survenus au cours d'exercices antérieurs
+ajouté aux provisions pour sinistres inscrites au bilan de clôture au titre de ces mêmes sinistres. Le caractère significatif
+de cette différence est apprécié globalement.
+
+(Arrêté du 11 septembre 1995, art. 5-6.) Les entreprises visées à l'article L. 310-1-1 précisent, dès lors que cette
+différence est significative, la différence entre, d'une part, le montant des provisions techniques inscrites au bilan
+d'ouverture relatives aux sinistres rattachés aux exercices antérieurs et, d'autre part, le montant total des prestations
+payées au cours de l'exercice au titre de sinistres rattachés aux exercices antérieurs ajouté aux provisions techniques
+inscrites au bilan de clôture au titre de ces mêmes sinistres. Le caractère significatif de cette différence est apprécié
+globalement.
+
+c) Les entreprises agréées pour les opérations mentionnées au 3° de l'article L. 310-1 établissent un état des règlements et
+des provisions pour sinistres à payer inscrites à leur bilan social au titre de l'ensemble de ces opérations, présenté selon
+le modèle ci-après.
+
+
+
+###### Article Annexe art. A344-3 (suite 4)
+
+Evolution au cours des trois derniers exercices des règlements de sinistres effectués depuis l'exercice de survenance et de
+la provision pour sinistres à régler
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2" width="245">
+
+ANNÉE D'INVENTAIRE
+
+</td>
+      <td colspan="5" width="372">
+
+EXERCICE DE SURVENANCE
+
+</td>
+    </tr>
+    <tr>
+      <td width="72">
+
+20.. (4)
+
+(n - 4)
+
+</td>
+      <td width="72">
+
+20.. (4)
+
+(n - 3)
+
+</td>
+      <td width="72">
+
+20.. (4)
+
+(n - 2)
+
+</td>
+      <td width="84">
+
+20.. (2)(4)
+
+(n - 1)
+
+</td>
+      <td width="72">
+
+20.. (3)(4)
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" valign="top" width="245">
+
+Inventaire X (1)
+
+Règlements
+
+Provisions
+
+Total sinistres
+
+Primes acquises
+
+Pourcentage sinistres/primes acquises
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="72">
+    </td></tr>
+    <tr>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="84">
+      </td><td valign="top" width="72">
+    </td></tr>
+    <tr>
+      <td colspan="6" valign="top" width="617">
+
+(1) Tableau à établir pour X = n - 2, X = n - 1, X = n.
+
+(2) Colonne vide pour X = n - 2.
+
+(3) Colonne vide pour X = n - 1 et X = n - 2.
+
+(4) Années ainsi modifiées par arrêté du 15 décembre 2005, annexe 3-32.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+1.14. (cf. note 61) Les entreprises visées à l'article L. 310-1 fournissent également :
+
+a) La ventilation des rubriques "provisions d'assurance vie, "provisions pour participation aux bénéfices et ristournes et
+"autres provisions techniques mettant en évidence les provisions techniques issues des opérations d'assurance réalisées dans
+le cadre d'un patrimoine d'affectation en distinguant les libellés suivants :
+
+- provisions mathématiques des rentes en cours de constitution - engagements libellés en euros ;
+
+- provisions mathématiques des rentes en cours de service - engagements libellés en euros ;
+
+- engagements d'assurance libellés en unités de compte ;
+
+- provision technique de diversification ;
+
+- provision pour participation aux bénéfices ;
+
+- réserve de capitalisation des PERP ;
+
+- provisions pour risque d'exigibilité ;
+
+- provisions techniques spéciales des opérations en unités de rentes PERP ;
+
+- provisions techniques spéciales des opérations en unités de rentes non PERP ;
+
+- provisions techniques spéciales complémentaires PERP ;
+
+- provisions techniques spéciales complémentaires non PERP ;
+
+b) Un état récapitulatif par nature d'actif des opérations de changements d'affectation d'actifs à destination ou à partir du
+patrimoine d'affectation et des plus ou moins-values réalisées dans ce cadre ;
+
+c) En cas d'accord de représentation des engagements, les principales caractéristiques de cet accord et l'engagement reçu par
+l'organisme d'assurance gestionnaire correspondant au montant résiduel des changements d'affectation d'actifs soumis à clause
+résolutoire de retour à meilleure fortune, ainsi qu'une information sur les chargements relatifs à la mise en oeuvre de
+l'accord de représentation des engagements. »
+
+1.15. (cf. note 62) Sont également mentionnés :
+
+a) Le montant des actifs ayant fait l'objet d'une clause de réserve de propriété ;
+
+b) Les informations prévues par le troisième et le quatrième alinéa de l'article 23 du décret n° 83-1020 du 29 novembre
+1983 ;
+
+c) Le solde non amorti correspondant à la différence entre le montant initialement reçu et le prix de remboursement des
+dettes représentées par un titre émis par l'entreprise ;
+
+d) Les provisions » (cf. note 63) ventilées selon l'objet de chacune en distinguant, au moins, les provisions pour retraites,
+les provisions pour impôts et les autres provisions ;
+
+e) Le montant global de la contre-valeur en (arrêté du 15 décembre 2005, annexe 3-33) euros » et la composition par devise de
+l'actif et du passif en devises, ainsi que le montant par devise des (arrêté du 28 décembre 2007, art. 4) écarts » de
+conversion.
+
+1.16. (cf. note 64) Les entreprises indiquent séparément, pour chacun des postes 2 a, 2 b, 2 c, 2 d, 5 et 6 du tableau des
+engagements reçus et donnés, le montant des engagements à l'égard des dirigeants, le montant des engagements à l'égard des
+entreprises liées et le montant des engagements à l'égard des entreprises avec lesquelles existe un lien de participation.
+
+2. Pour le compte de résultat
+
+2.1. (Arrêté du 11 septembre 1995, art. 5-7.) Les entreprises indiquent la ventilation des produits et des charges des
+placements inscrits au compte de résultat selon le modèle ci-après : »
+
+<table>
+  <tbody>
+    <tr>
+      <td width="209">
+
+</td>
+      <td width="168">
+
+REVENUS FINANCIERS et frais financiers concernant les placements dans des entreprises liées
+
+</td>
+      <td width="132">
+
+AUTRES REVENUS et frais financiers
+
+</td>
+      <td width="105">
+
+TOTAL
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="209">
+
+Revenus des participations (1)
+
+</td>
+      <td valign="top" width="168">
+      </td><td valign="top" width="132">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="209">
+
+Revenus des placements immobiliers
+
+</td>
+      <td valign="top" width="168">
+      </td><td valign="top" width="132">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="209">
+
+Revenus des autres placements
+
+</td>
+      <td valign="top" width="168">
+      </td><td valign="top" width="132">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="209">
+
+Autres revenus financiers (commission, honoraires)
+
+</td>
+      <td valign="top" width="168">
+      </td><td valign="top" width="132">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="209">
+
+Total (poste II-2 a ou III-1 a du compte de résultat)
+
+</td>
+      <td valign="top" width="168">
+      </td><td valign="top" width="132">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="209">
+
+Frais financiers (commission, honoraires, intérêts et agios...)
+
+</td>
+      <td valign="top" width="168">
+      </td><td valign="top" width="132">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td colspan="4" width="614">
+
+(1) Au sens de l'article 20 du décret du 29 novembre 1983.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+2.2. Les entreprises (Arrêté du 11 septembre 1995, art. 5-8) visées à l'article L. 310-1 » indiquent, dans l'annexe aux
+comptes sociaux, la ventilation de l'ensemble des produits et charges des opérations techniques par catégorie, selon la forme
+définie ci-dessous.
+
+Pour chacune des catégories définies à l'article A. 344-2 ainsi que pour le total des catégories 22 et 23 ( Total
+automobile ») et le total des catégories 24, 25 et 26 ( Total dommages aux biens ») est établi un compte technique conforme
+au modèle ci-après. Un compte technique totalisant l'ensemble de comptes techniques par catégorie est également établi ; le
+résultat technique de ce compte de totalisation est égal au résultat technique du compte de résultat. Les entreprises agréées
+à la fois pour les opérations mentionnées au 1° et au 2° de l'article L. 310-1 du code des assurances établissent deux
+comptes de totalisation séparés, correspondant, respectivement, au compte technique de l'assurance-vie et au compte technique
+de l'assurance Non-vie du compte de résultat.
+
+A. - Catégories 1 à 19
+
+<table>
+  <tbody>
+    <tr>
+      <td width="307">
+
+RUBRIQUE
+
+</td>
+      <td width="307">
+
+DÉFINITION
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+1. Primes.
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-1 du compte de résultat (CR) (1re colonne).
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+2. Charges des prestations.
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-5 du CR (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+3. Charges des provisions d'assurance vie et autres provisions techniques.
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-6 du CR (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+4. Ajustement ACAV.
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-3 diminué du poste II-10 (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+A. - Solde de souscription.
+
+</td>
+      <td valign="top" width="307">
+
+(1 - 2 - 3 + 4).
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+5. Frais d'acquisition.
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-8 a du CR (1re colonne).
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+6. Autres charges de gestion nettes.
+
+</td>
+      <td valign="top" width="307">
+
+Postes II-8 b et II-11 (1re colonne) du CR diminués du poste II-4 (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+B. - Charges d'acquisition et de gestion nettes.
+
+</td>
+      <td valign="top" width="307">
+
+(5 + 6).
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+7. Produit net des placements.
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-2 du CR diminué des postes II-9 et II-12 (1re colonne).
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+8. Participation aux résultats (1).
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-7 du CR (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+C. - Solde financier.
+
+</td>
+      <td valign="top" width="307">
+
+(7 - 8).
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+9. Primes cédées.
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-1 du CR (2e colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+10. Part des réassureurs dans les charges des prestations.
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-5 du CR (2e colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+11. Part des réassureurs dans les charges des provisions d'assurance vie et autres provisions techniques.
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-6 du CR (2e colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+12. Part des réassureurs dans la participation aux résultats.
+
+</td>
+      <td valign="top" width="307">
+
+Postes II-7 du CR (2e colonne).
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+13. Commissions reçues des réassureurs.
+
+</td>
+      <td valign="top" width="307">
+
+Poste II-8 c du CR non encore pris en compte. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+D. - Solde de réassurance.
+
+</td>
+      <td valign="top" width="307">
+
+(10 + 11 + 12 + 13 - 9). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Résultat technique
+
+</td>
+      <td valign="top" width="307">
+
+A - B + C + D
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Hors compte :
+
+</td>
+      <td valign="top" width="307">
+    </td></tr>
+    <tr>
+      <td valign="top" width="307">
+
+14. Montant des rachats.
+
+</td>
+      <td valign="top" width="307">
+    </td></tr>
+    <tr>
+      <td valign="top" width="307">
+
+15. Intérêts techniques bruts de l'exercice.
+
+</td>
+      <td valign="top" width="307">
+
+Comptes 6300, 6301, 6302, 6340, 6341 et 6342. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+16. Provisions techniques brutes à la clôture.
+
+</td>
+      <td valign="top" width="307">
+    </td></tr>
+    <tr>
+      <td valign="top" width="307">
+
+17. Provisions techniques brutes à l'ouverture.
+
+</td>
+      <td valign="top" width="307">
+
+Postes 3 b, 3 c, 3 e, 3 h et 4 du bilan (passif). 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="614">
+
+(1) Ainsi modifié par arrêté du 28 juillet 1995, article 3-II-1°.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+B. - Catégories 20 à 39 (1)
+
+<table>
+  <tbody>
+    <tr>
+      <td width="307">
+
+RUBRIQUE
+
+</td>
+      <td width="307">
+
+DÉFINITION
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+1. Primes acquises.
+
+</td>
+      <td valign="top" width="307">
+
+(1 a-1 b). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+1 a. Primes.
+
+</td>
+      <td valign="top" width="307">
+
+Poste I-1 a du CR (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+1 b. Variation des primes non acquises.
+
+</td>
+      <td valign="top" width="307">
+
+Poste I-1 b du CR (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+2. Charges des prestations.
+
+</td>
+      <td valign="top" width="307">
+
+(2 a + 2 b). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+2 a. Prestations et frais payés.
+
+</td>
+      <td valign="top" width="307">
+
+Poste I-4 a du CR (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+2 b. Charges des provisions pour prestations et diverses.
+
+</td>
+      <td valign="top" width="307">
+
+Postes I-4 b, I-5 et I-9 du CR (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+A. - Solde de souscription.
+
+</td>
+      <td valign="top" width="307">
+
+(1-2). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+5. Frais d'acquisition.
+
+</td>
+      <td valign="top" width="307">
+
+Poste I-7 a du CR (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+6. Autres charges de gestion nettes.
+
+</td>
+      <td valign="top" width="307">
+
+Postes I-7 b et I-8 (1re colonne) du CR diminués du poste I-3 (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+B. - Charges d'acquisition et de gestion nettes.
+
+</td>
+      <td valign="top" width="307">
+
+(5 + 6). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+7. Produits des placements.
+
+</td>
+      <td valign="top" width="307">
+
+Poste I-2 du CR (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+8. Participation aux résultats.
+
+</td>
+      <td valign="top" width="307">
+
+Poste I-6 du CR (1re colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+C. - Solde financier.
+
+</td>
+      <td valign="top" width="307">
+
+(7 - 8). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+9. Part des réassureurs dans les primes acquises.
+
+</td>
+      <td valign="top" width="307">
+
+Postes I a et I b du CR (2e colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+10. Part des réassureurs dans les prestations payées.
+
+</td>
+      <td valign="top" width="307">
+
+Poste I-4 a du CR (2e colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+11. Part des réassureurs dans les charges des provisions pour prestations.
+
+</td>
+      <td valign="top" width="307">
+
+Postes I-4 b, I-5 et I-9 du CR (2e colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+12. Part des réassureurs dans les participations aux résultats.
+
+</td>
+      <td valign="top" width="307">
+
+Poste I-6 du CR (2e colonne). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+13. Commissions reçues des réassureurs.
+
+</td>
+      <td valign="top" width="307">
+
+Poste I-7 d du CR 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+D. - Solde de réassurance.
+
+</td>
+      <td valign="top" width="307">
+
+(10 + 11 + 12 + 13 - 9). 
+
+</td>
+    </tr>
+    <tr>
+      <td width="307">
+
+Résultat technique
+
+</td>
+      <td width="307">
+
+A - B + C + D
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Hors compte :
+
+</td>
+      <td valign="top" width="307">
+    </td></tr>
+    <tr>
+      <td valign="top" width="307">
+
+14. Provisions pour primes non acquises (clôture).
+
+</td>
+      <td valign="top" width="307">
+
+Poste 3 a du bilan (passif). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+15. Provisions pour primes non acquises (ouverture).
+
+</td>
+      <td valign="top" width="307">
+    </td></tr>
+    <tr>
+      <td valign="top" width="307">
+
+16. Provisions pour sinistres à payer (clôture).
+
+</td>
+      <td valign="top" width="307">
+
+Poste 3 d du bilan (passif). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+17. Provisions pour sinistres à payer (ouverture).
+
+</td>
+      <td valign="top" width="307">
+    </td></tr>
+    <tr>
+      <td valign="top" width="307">
+
+18. Autres provisions techniques (clôture).
+
+</td>
+      <td valign="top" width="307">
+
+Postes 3 f, 3 g et 3 i du bilan (passif). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+19. Autres provisions techniques (ouverture).
+
+</td>
+      <td valign="top" width="307">
+    </td></tr>
+    <tr>
+      <td colspan="2" width="614">
+
+(1) Ainsi modifié par arrêté du 19 avril 1995, article 3-III eu du 28 juillet 1995, article 3-III (2°).
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Les données chiffrées sont fournies en valeur absolue ; toutefois les rubriques ou sous-rubriques intitulées charges de
+provisions » sont affectées du signe - en cas de diminution des provisions ; la sous-rubrique variation des primes non
+acquises (cf. note 65) » est affectée du signe - en cas de diminution des primes non acquises et risques en cours.
+
+La répartition par catégorie des charges figurant au poste I-7 ou II-8 du compte de résultat s'effectue en rapportant à
+chaque catégorie les frais qui lui sont directement applicables et en ventilant les autres frais généraux aussi exactement
+que possible suivant leur nature, compte tenu notamment du nombre de contrats, de l'importance des affaires, du nombre des
+sinistres...
+
+Les produits financiers nets sont, à défaut d'une étude plus poussée, ventilés par catégorie au prorata des provisions
+techniques nettes de réassurance ; toutefois, (arrêté du 15 décembre 2005, annexe 3-34) les catégories » 10 (contrats
+relevant de l'article L. 441-1) (arrêté du 15 décembre 2005, annexe 3-34) et 11 (plans d'épargne retraite populaire relevant
+de l'article 108 de la loi n° 2003-775 du 21 août 2003) reçoivent » exactement les intérêts des placements qui (arrêté du 15
+décembre 2005, annexe 3-34) leur » sont affectés.
+
+Lorsque les opérations d'une catégorie sont exclusivement relatives à des garanties accessoires au sens des articles R. 321-3
+et R. 321-5 du code des assurances, la mention garanties accessoires » est portée dans l'intitulé de la colonne relative à la
+catégorie concernée.
+
+Pour les sociétés ou caisses d'assurances et de réassurances mutuelles agricoles :
+
+1° Est insérée, après la ligne : Part des réassureurs dans les primes acquises », la ligne suivante : Part des organismes
+dispensés d'agrément dans les primes acquises. »
+
+2° Est insérée, après la ligne : Part des réassureurs dans les prestations payées », la ligne suivante : Part des organismes
+dispensés d'agrément dans les prestations payées. »
+
+3° Est insérée, après la ligne : Part des réassureurs dans les charges des provisions pour prestations à payer », la ligne
+suivante : Part des organismes dispensés d'agrément dans les charges des provisions pour prestations à payer. »
+
+2.3. Les entreprises fournissent également :
+
+a) La ventilation des charges de personnel selon le modèle suivant :
+
+- salaires ;
+
+- pensions de retraite ;
+
+- charges sociales ;
+
+- autres.
+
+b) (Arrêté du 11 septembre 1995, art. 5-9.) Pour les entreprises visées à l'article L. 310-1, le montant des commissions »
+afférent à l'assurance directe comptabilisé pendant l'exercice. Ce montant comprend les commissions de toute nature allouées
+aux courtiers, agents généraux et mandataires de l'entreprise, et notamment les commissions d'acquisition, de renouvellement,
+d'encaissement, de gestion et de service après vente.
+
+(Arrêté du 11 septembre 1995, art. 5-9.) Pour les entreprises visées à l'article L. 310-1-1, le montant des commissions
+afférent aux acceptations comptabilisé pendant l'exercice. Le montant de commissions relatif aux opérations relevant de la
+catégorie 19 définie à l'article A. 344-2, d'une part, et le montant de commissions relatif aux opérations relevant de la
+catégorie 39 définie à l'article A. 344-2, d'autre part, peuvent être respectivement portés en note au bas du compte
+technique de l'assurance non-vie et du compte technique de l'assurance-vie du compte de résultat. »
+
+c) La ventilation des primes brutes émises selon le modèle suivant :
+
+- primes d'assurance directe en France ;
+
+- primes d'assurance directe dans (arrêté du 15 décembre 2005, annexe 3-35) l'Espace économique européen » (hors France) ;
+
+- primes d'assurance directe hors (arrêté du 15 décembre 2005, annexe 3-35) Espace économique européen ».
+
+d) Le montant, d'une part, des entrées, d'autre part, des sorties de portefeuille.
+
+2.4. Les entreprises indiquent la proportion dans laquelle le résultat de l'exercice a été affecté par des dérogations aux
+principes généraux d'évaluation en application de la réglementation fiscale et l'écart qui en est résulté.
+
+2.5. Les entreprises indiquent la différence entre la charge fiscale imputée à l'exercice et aux exercices antérieurs et la
+charge fiscale déjà payée ou à payer au titre de ces exercices.
+
+2.6. Les entreprises indiquent la ventilation de l'impôt sur les bénéfices entre la partie afférente aux opérations
+ordinaires et la partie qui se rapporte aux opérations exceptionnelles.
+
+2.7. Les entreprises indiquent la ventilation des produits et des charges exceptionnels et des produits et charges non
+techniques.
+
+2.8. Les entreprises agréées pour les opérations mentionnées au 1° de l'article L. 310-1 :
+
+a) Indiquent le détail de la variation des provisions d'assurance-vie brutes de réassurance entre le bilan d'ouverture et le
+bilan de clôture, selon le modèle ci-dessous :
+
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="533">
+
+Charges des provisions d'assurance-vie (poste II-6 a du compte technique)
+
+</td>
+      <td valign="bottom" width="81">
+
+X 1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="533">
+
+Intérêts techniques (comptes 6302 et 6342) et (Arrêté du 28 juillet 1995, art. 3-II-2°) participations aux bénéfices »
+incorporées directement (comptes 6305 et 6345)
+
+</td>
+      <td valign="bottom" width="81">
+
+X 2, X 3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="533">
+
+Utilisation de la provision pour (Arrêté du 28 juillet 1995, art. 3-II-3°) participation aux bénéfices » (comptes 63095 et
+63945)
+
+</td>
+      <td valign="bottom" width="81">
+
+X 4
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="533">
+
+(Arrêté du 28 décembre 2007, art. 4.) Variation des cours de change » (+ OU)
+
+</td>
+      <td valign="bottom" width="81">
+
+X 5
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="533">
+
+(Arrêté du 15 décembre 2005, annexe 3-36.) Transferts de provisions
+
+</td>
+      <td valign="bottom" width="81">
+
+X 6 »
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="533">
+
+Ecart entre les provisions d'assurance-vie à l'ouverture et les provisions d'assurance-vie à la clôture (poste 3 b du passif
+du bilan)
+
+</td>
+      <td valign="bottom" width="81">
+
+TOTAL
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+b) Fournissent un tableau récapitulatif des éléments constitutifs de la participation des assurés aux résultats techniques et
+financiers :
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2" width="281">
+
+DÉSIGNATION
+
+</td>
+      <td colspan="5" width="336">
+
+EXERCICE (1)
+
+</td>
+    </tr>
+    <tr>
+      <td width="72">
+
+n-4
+
+</td>
+      <td width="72">
+
+n-3
+
+</td>
+      <td width="72">
+
+n-2
+
+</td>
+      <td width="60">
+
+n-1
+
+</td>
+      <td width="60">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="281">
+
+A. - Participation aux résultats totale (postes I-6 et II-7 du compte de résultat = A 1 + A 2) :
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+    </td></tr>
+    <tr>
+      <td valign="top" width="281">
+
+A 1 : Participation attribuée à des contrats (y compris intérêts techniques)
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+    </td></tr>
+    <tr>
+      <td valign="top" width="281">
+
+A 2 : (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise » de la provision pour participation aux bénéfices
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+    </td></tr>
+    <tr>
+      <td valign="top" width="281">
+
+B. - Participation aux résultats des contrats relevant des catégories visées à l'article A. 132-2 :
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+    </td></tr>
+    <tr>
+      <td valign="top" width="281">
+
+B 1 : Provisions mathématiques moyennes (2)
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+    </td></tr>
+    <tr>
+      <td valign="top" width="281">
+
+B 2 : Montant minimal de la participation aux résultats
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+    </td></tr>
+    <tr>
+      <td valign="top" width="281">
+
+B 3 : Montant effectif de la participation aux résultats (3) :
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+    </td></tr>
+    <tr>
+      <td valign="top" width="281">
+
+- B 3 a Participation attribuée à des contrats (y compris intérêts techniques)
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+    </td></tr>
+    <tr>
+      <td valign="top" width="281">
+
+- B 3 b (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise » de la provision pour participation aux
+bénéfices
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+    </td></tr>
+    <tr>
+      <td colspan="6" valign="top" width="617">
+
+(1) L'exercice n est l'exercice sous revue.
+
+(2) Demi-somme des provisions mathématiques à l'ouverture et à la clôture de l'exercice, correspondant aux contrats des
+catégories visées à l'article A. 331-3 (*).
+
+(3) Participation effective (charge de l'exercice, y compris intérêts techniques) correspondant aux contrats des catégories
+visées à l'article A. 331-3 (*).
+
+(*) Aux termes de l'arrêté du 28 juillet 1995, article 3-II (3°), les mots : article A. 132-2 », sont remplacés par les
+mots : article A. 331-3 ».
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+3. Autres informations
+
+3.1. Le cas échéant, l'entreprise doit indiquer :
+
+- le nom et le siège de l'entreprise mère qui établit les comptes consolidés, dans lesquels ses comptes sont inclus ;
+
+- la mention de l'exemption de l'obligation d'établir des comptes consolidés et un rapport consolidé de gestion.
+
+3.2. Les entreprises mentionnent :
+
+a) L'effectif moyen du personnel en activité au cours de l'exercice, ventilé par catégories professionnelles ;
+
+b) Le montant global des rémunérations allouées pendant l'exercice, respectivement à l'ensemble des membres des organes
+d'administration, à l'ensemble des membres des organes de direction ou de surveillance en raison de leurs fonctions ainsi que
+le montant des engagements nés ou contractés en matière de retraite à l'égard de l'ensemble des membres et anciens membres
+des organes précités.
+
+Ces indications doivent être données de telle manière qu'elles ne permettent pas d'identifier la situation d'un membre
+déterminé de ces organes ;
+
+c) Le montant global des avances et crédits accordés pendant l'exercice, respectivement à l'ensemble des membres des organes
+d'administration, à l'ensemble des membres des organes de direction ou de surveillance ainsi que le montant des engagements
+pris pour le compte de ces personnes au titre d'une garantie quelconque.
+
+
+
 ###### Article Annexe art. A344-8
 
 **I.-Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle des assurances et des
@@ -46553,6 +50433,1269 @@ _Cite_:
   - Code des assurances - art. L321-1 (V)
   - Code des assurances - art. L321-7 (V)
   - Code des assurances - art. L321-9 (V)
+
+
+###### Article Annexe à l'article A344-3
+
+Modèles types de comptes annuels
+
+1° Compte de résultat ;
+
+2° Bilan ;
+
+3° Annexe.
+
+Les sommes portées au bilan, au compte de résultat et à l'annexe sont arrondies au millier d'(arrêté du 15 décembre 2005,
+annexe 3-1) euros » le plus proche et exprimées en milliers d'(arrêté du 15 décembre 2005, annexe 3-1) euros ».
+
+L'ensemble des lignes du bilan et du compte de résultat sont servies de manière à faire ressortir clairement les sous-totaux
+par poste principal, d'une part et, le cas échéant, par sous-poste, d'autre part.
+
+1. MODÈLE DE COMPTE DE RÉSULTAT
+
+I. - Compte technique de l'assurance non-vie. 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="173">
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="108">
+
+OPÉRATIONS
+
+brutes
+
+</td>
+      <td width="96">
+
+CESSIONS
+
+et
+
+rétrocessions
+
+</td>
+      <td width="108">
+
+OPÉRATIONS
+
+nettes
+
+</td>
+      <td width="93">
+
+OPÉRATIONS
+
+nettes (N-1)
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+1. Primes acquises :
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+1 a Primes
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+1 b Variation des primes non acquises (1)
+
+</td>
+      <td width="36">
+
++ / -
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+2. Produits des placements alloués (2)
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+3. Autres produits techniques
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+4. Charges des sinistres :
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+4 a Prestations et frais payés
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+4 b Charges des provisions pour sinistres
+
+</td>
+      <td width="36">
+
++ / -
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+5. Charges des autres provisions techniques
+
+</td>
+      <td width="36">
+
++ / -
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+6. Participations aux résultats (3)
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+7. Frais d'acquisition et d'administration :
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+7 a Frais d'acquisition
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+7 b Frais d'administration
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+7 c Commissions reçues des réassureurs
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+8. Autres charges techniques
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+9. Variation de la provision pour égalisation
+
+</td>
+      <td width="36">
+
++ / -
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+Résultat technique de l'assurance non-vie
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="96">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="93">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6" width="614">
+
+(1) Ainsi modifié par arrêté du 19 avril 1995, article 3-III.
+
+(2) Ainsi modifié par arrêté du 15 décembre 2005, annexe 3-2.
+
+(3) Ainsi modifié par arrêté du 15 décembre 2005, annexe 3-2.
+
+(Arrêté du 15 décembre 2005, annexe 3-3.) Nota. - 1. En tant que de besoin, l'entreprise ajoute entre les colonnes
+"Opérations brutes et "Cessions et rétrocessions une colonne intitulée "Conservation des organismes dispensés d'agrément.
+Cette colonne n'est servie que pour les lignes I.1 a, I.1 b, I.4 a, I.4 b, I.5, I.6 et I.9. »
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+II. - Compte technique de l'assurance vie.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="197">
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="96">
+
+OPÉRATIONS
+
+brutes
+
+</td>
+      <td width="96">
+
+CESSIONS
+
+et
+
+rétrocessions
+
+</td>
+      <td width="96">
+
+OPÉRATIONS
+
+nettes
+
+</td>
+      <td width="93">
+
+OPÉRATIONS
+
+nettes (N-1)
+
+</td>
+    </tr>
+    <tr>
+      <td width="197">
+
+1. Primes
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+2. Produits des placements :
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+2 a Revenus des placements
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+2 b Autres produits des placements
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+2 c Profits provenant de la réalisation de placements (1)
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+3. Ajustements ACAV (plus-values)
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+4. Autres produits techniques
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+5. Charges des sinistres :
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+5 a Prestations et frais payés
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+5 b Charges des provisions pour sinistres
+
+</td>
+      <td width="36">
+
++ / -
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+6. Charges des provisions d'assurance-vie et autres provisions techniques :
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+6 a Provisions d'assurance-vie
+
+</td>
+      <td width="36">
+
++ / -
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+6 b Provisions sur contrats en unités de compte
+
+</td>
+      <td width="36">
+
++ / -
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+6 c Autres provisions techniques
+
+</td>
+      <td width="36">
+
++ / -
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+7. Participations aux résultats (1)
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+8. Frais d'acquisition et d'administration :
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+8 a Frais d'acquisition
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+8 b Frais d'administration
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+8 c Commissions reçues des réassureurs
+
+</td>
+      <td width="36">
+
++
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+9. Charges des placements :
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+9 a Frais internes et externes de gestion des placements et intérêts
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+9 b Autres charges des placements
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+9 c Pertes provenant de la réalisation de placements
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+10. Ajustement ACAV (moins-values)
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+11. Autres charges techniques
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+12. Produits des placements transférés
+
+</td>
+      <td width="36">
+
+-
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+Résultat technique de l'assurance vie
+
+</td>
+      <td width="36">
+
+</td>
+      <td width="96">
+      </td><td width="96">
+      </td><td width="96">
+      </td><td width="93">
+    </td></tr>
+    <tr>
+      <td colspan="6" width="614">
+
+(1) Ainsi modifié par arrêté du 15 décembre 2005, annexe 3-4.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+III. - Compte non technique.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="365">
+
+</td>
+      <td width="47">
+
+</td>
+      <td width="97">
+
+OPÉRATIONS
+
+N
+
+</td>
+      <td width="105">
+
+OPÉRATIONS
+
+(N-1)
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="365">
+
+1. Résultat technique de l'assurance non-vie
+
+</td>
+      <td width="47">
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+2. Résultat technique de l'assurance vie
+
+</td>
+      <td width="47">
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+3. Produits des placements :
+
+</td>
+      <td width="47">
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+3 a Revenu des placements
+
+</td>
+      <td width="47">
+
++
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+3 b Autres produits des placements
+
+</td>
+      <td width="47">
+
++
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+3 c Profits provenant de la réalisation des placements
+
+</td>
+      <td width="47">
+
++
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+4. Produits des placements alloués
+
+</td>
+      <td width="47">
+
++
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+5. Charges des placements :
+
+</td>
+      <td width="47">
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+5 a Frais de gestion interne et externe des placements et frais financiers
+
+</td>
+      <td width="47">
+
+-
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+5 b Autres charges des placements
+
+</td>
+      <td width="47">
+
+-
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+5 c Pertes provenant de la réalisation de placements (1)
+
+</td>
+      <td width="47">
+
+-
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+6. Produits des placements transférés
+
+</td>
+      <td width="47">
+
+-
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+7. Autres produits non techniques
+
+</td>
+      <td width="47">
+
++
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+8. Autres charges non techniques
+
+</td>
+      <td width="47">
+
+-
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+9. Résultat exceptionnel :
+
+</td>
+      <td width="47">
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+9 a Produits exceptionnels
+
+</td>
+      <td width="47">
+
++
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+9 b Charges exceptionnelles
+
+</td>
+      <td width="47">
+
+-
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+10. Participation des salariés
+
+</td>
+      <td width="47">
+
+-
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+11. Impôt sur les bénéfices
+
+</td>
+      <td width="47">
+
+-
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td valign="top" width="365">
+
+12. Résultat de l'exercice
+
+</td>
+      <td width="47">
+
+</td>
+      <td valign="top" width="97">
+      </td><td valign="top" width="105">
+    </td></tr>
+    <tr>
+      <td colspan="4" valign="top" width="614">
+
+(1) Ainsi modifié par arrêté du 15 décembre 2005, annexe 3-5.
+
+(Paragraphe N.B. 1 supprimé par arrêté du 15 décembre 2005, annexe 3-5.)
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
 
 
 ### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=459></a>
