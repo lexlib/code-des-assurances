@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1976-12-29
+Version Consolidée au 1977-06-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -6223,25 +6223,29 @@ _Cite_:
 
 ###### Article L322-12
 
-Il est créé, par le seul fait de la loi, dans chacun des groupes d'entreprises nationales Assurances générales de France,
-Groupe des assurances nationales et Union des assurances de Paris, une société centrale d'assurance ayant exclusivement pour
-objet de détenir la totalité des actions des entreprises constituant le groupe, d'exercer les droits attachés à ces actions
-et de faire bénéficier de ces droits ses propres actionnaires.
+Il est créé, par le seul fait de la loi, dans chacun des groupes d'entreprises nationales "Assurances générales de France",
+"Groupe des assurances nationales" et "Union des assurances de Paris", une société centrale d'assurance ayant exclusivement
+pour objet de détenir directement ou indirectement la totalité des actions des entreprises constituant le groupe, d'exercer
+les droits attachés à ces actions et de faire bénéficier de ces droits ses propres actionnaires.
 
 Les actions des entreprises nationales d'assurance dont l'Etat fait apport à ces sociétés ne peuvent être aliénées par elles.
 Les apports sont réalisés par le seul fait de la loi. Ils ne supportent aucun frais ou charge. Ils sont exonérés des droits
 d'enregistrement.
 
-Le capital social de chaque société centrale est égal au total des capitaux sociaux des entreprises de son groupe. Il est
-divisé en actions qui sont remises à l'Etat et peuvent faire l'objet des opérations mentionnées aux articles L. 322-22 à L.
-322-25.
+Une entreprise nationale d'assurance peut détenir une participation dans le capital d'une autre entreprise du même groupe.
+
+Le capital social de chaque société centrale est égal au total des capitaux sociaux des entreprises de son groupe, déduction
+faite des participations détenues dans les conditions prévues au précédent alinéa.
+
+Il est divisé en actions qui sont remises à l'Etat et peuvent faire l'objet des opérations mentionnées aux articles L. 322-22
+à L. 322-25.
 
 La société centrale répartit à ses actionnaires les dividendes qui lui ont été versés par les sociétés du groupe au cours de
 l'exercice de l'encaissement.
 
 Les sociétés centrales ont le même président-directeur général que les entreprises constituant le groupe.
 
-Les dispositions des articles 95, 111 et 278 de la loi n° 66-537 du 24 juillet 1966 ne sont pas applicables aux  sociétés
+Les dispositions des articles 95, 111 et 278 de la loi n° 66-537 du 24 juillet 1966 ne sont pas applicables aux sociétés
 centrales d'assurance. Les dispositions de la même loi ne font pas obstacle à l'application de la présente section.
 
 **Liens relatifs à cet article**
@@ -6258,6 +6262,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°77-574 1977-06-07 art. 37 III, IV, V JORF 8 juin 1977
 
 _Cité par_:
 
@@ -6463,24 +6471,22 @@ e) Un ou deux représentants des actionnaires autres que l'Etat, selon que la pa
 société ne dépasse pas ou dépasse 10 % ; l'un au moins de ces membres représente les personnes physiques détentrices
 d'actions ; ces représentants sont élus selon des modalités fixées par décret en Conseil d'Etat.
 
+f) Le président du conseil d'administration de la société centrale concernée.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°73-8 1973-01-04 art. 5
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Cité par_:
+_Modifié par_:
 
-  - Code des assurances - art. L322-20 (Ab)
-  - Code des assurances - art. R*322-25 (Ab)
-  - Code des assurances - art. R*322-29 (T)
+  - Loi n°77-574 1977-06-07 art. 37 II JORF 8 juin 1977
 
 **Liens**:
 
+  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations*, art. 8 *champ d'application - dérogations*
+  - SPEC_APPLI: Décret n°90-38 1990-01-11 art. 1 *date d'effet*
   - TXT_SOURCE: Code des assurances - art. R*322-22 (Ab)
   - TXT_SOURCE: Code des assurances - art. R*322-23 (Ab)
   - TXT_SOURCE: Code des assurances - art. R*322-24 (Ab)
@@ -6488,6 +6494,16 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*322-27 (T)
   - TXT_SOURCE: Code des assurances - art. R*322-28 (T)
   - SPEC_APPLI: Code des assurances R322-26, R322-27, R322-28
+
+_Abrogé par_:
+
+  - Loi n°89-1014 du 31 décembre 1989 - art. 35 (V) JORF 3 janvier 1990 en vigueur le 26 février 1990
+
+_Cité par_:
+
+  - Code des assurances - art. L322-20 (Ab)
+  - Code des assurances - art. R*322-25 (Ab)
+  - Code des assurances - art. R*322-29 (T)
 
 
 ###### Article L322-19
@@ -8995,20 +9011,17 @@ _Cite_:
 
 Il est institué un fonds de garantie chargé, dans le cas où le responsable des dommages demeure inconnu ou se révèle
 totalement ou partiellement insolvable, ainsi qu'éventuellement son assureur, de payer les indemnités allouées aux victimes
-d'accidents corporels ou à leurs ayants droit, lorsque ces accidents, ouvrant droit à réparation, ont été causés par des
-véhicules automobiles circulant sur le sol, y compris les cycles à moteur, ainsi que par les remorques ou semi-remorques de
-ces véhicules, mais à l'exclusion des chemins de fer et des tramways. Le fonds de garantie peut également prendre en charge,
-dans les conditions et limites fixées par décret en Conseil d'Etat, les dommages matériels, lorsque l'auteur identifié de ces
-dommages n'est pas assuré et se révèle totalement ou partiellement insolvable.
+d'accidents corporels résultant de la circulation sur le sol, ou à leurs ayants droit, lorsque ces accidents ouvrent droit à
+réparation.
+
+Le fonds de garantie peut également prendre en charge, dans les conditions et limites fixées par décret en Conseil d'Etat,
+les dommages matériels, lorsque l'auteur identifié de ces dommages n'est pas assuré et se révèle totalement ou partiellement
+insolvable.
 
 Les indemnités doivent résulter soit d'une décision judiciaire exécutoire, soit d'une transaction ayant reçu l'assentiment du
 fonds de garantie.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°51-1508 du 31 décembre 1951 - art. 15, v. init.
 
 _Cité par_:
 
@@ -9043,6 +9056,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°77-574 1977-06-07 art. 40 I, II JORF 8 juin 1977
 
 **Liens**:
 
