@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-03-14
+Version Consolidée au 2004-04-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -3709,16 +3709,16 @@ Toute personne physique qui a signé une proposition d'assurance ou un contrat a
 recommandée avec demande d'avis de réception pendant le délai de trente jours à compter du premier versement.
 
 La proposition d'assurance ou de contrat doit comprendre un projet de lettre destiné à faciliter l'exercice de cette faculté
-de renonciation. Elle doit indiquer notamment, pour les plans d'épargne individuelle pour la retraite créés à l'article 108
-de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, les valeurs de transfert ou pour les contrats qui en
-comportent, les valeurs de rachat au terme de chacune des huit premières années au moins. L'entreprise d'assurance ou de
-capitalisation doit, en outre, remettre, contre récépissé, une note d'information sur les dispositions essentielles du
-contrat, sur les conditions d'exercice de la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas
-d'exercice de cette faculté de renonciation. Le défaut de remise des documents et informations énumérés au présent alinéa
-entraîne de plein droit la prorogation du délai prévu au premier alinéa jusqu'au trentième jour suivant la date de remise
-effective de ces documents. Un nouveau délai de trente jours court à compter de la date de reception du contrat, lorsque
-celui-ci apporte des réserves ou des modifications essentielles à l'offre originelle, ou à compter de l'acceptation écrite,
-par le souscripteur, de ces réserves ou modifications.
+de renonciation. Elle doit indiquer notamment, pour les plans d'épargne retraite populaire créés à l'article 108 de la loi n°
+2003-775 du 21 août 2003 portant réforme des retraites, les valeurs de transfert ou pour les contrats qui en comportent, les
+valeurs de rachat au terme de chacune des huit premières années au moins. L'entreprise d'assurance ou de capitalisation doit,
+en outre, remettre, contre récépissé, une note d'information sur les dispositions essentielles du contrat, sur les conditions
+d'exercice de la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de
+renonciation. Le défaut de remise des documents et informations énumérés au présent alinéa entraîne de plein droit la
+prorogation du délai prévu au premier alinéa jusqu'au trentième jour suivant la date de remise effective de ces documents. Un
+nouveau délai de trente jours court à compter de la date de reception du contrat, lorsque celui-ci apporte des réserves ou
+des modifications essentielles à l'offre originelle, ou à compter de l'acceptation écrite, par le souscripteur, de ces
+réserves ou modifications.
 
 La renonciation entraîne la restitution par l'entreprise d'assurance ou de capitalisation de l'intégralité des sommes versées
 par le contractant, dans le délai maximal de trente jours à compter de la réception de la lettre recommandée. Au-delà de ce
@@ -3732,6 +3732,9 @@ tant que de besoin, par arrêté ministériel.
 
 Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L132-5-1 du présent code, les mots "
 plan d'épargne individuel pour la retraite " sont déclassés et ont dorénavant un caractère réglementaire.
+
+Décret 2004-346 2004-04-21 art. 2 : les mots " plans d'épargne individuelle pour la retraite " sont remplacés par les mots "
+plans d'épargne retraite populaire ".
 
 **Liens relatifs à cet article**
 
@@ -3768,7 +3771,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2003-775 2003-08-21 art. 108 XIV 1° JORF 22 août 2003 en vigueur le 1er janvier 2004
+  - Décret n°2004-346 du 21 avril 2004 - art. 2 () JORF 22 avril 2004
 
 
 ###### Article L132-6
@@ -4295,30 +4298,30 @@ _Cité par_:
 
 ###### Article L132-21
 
-Les modalités de calcul de la valeur de rachat du contrat ou de la valeur de transfert du plan d'épargne individuelle pour la
-retraite tel que défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée (1) et, le cas échéant, de la valeur
-de réduction sont déterminées par un règlement général mentionné dans la police et établi par l'entreprise d'assurance ou de
+Les modalités de calcul de la valeur de rachat du contrat ou de la valeur de transfert du plan d'épargne retraite populaire
+tel que défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée et, le cas échéant, de la valeur de réduction
+sont déterminées par un règlement général mentionné dans la police et établi par l'entreprise d'assurance ou de
 capitalisation.
 
 Dès la signature du contrat, l'entreprise d'assurance ou de capitalisation informe le contractant que ce règlement général
 est tenu à sa disposition sur sa demande. L'entreprise d'assurance ou de capitalisation doit communiquer au contractant, sur
 la demande de celui-ci, le texte du règlement général.
 
-Dans la limite de la valeur de rachat du contrat ou de la valeur de transfert du plan d'épargne individuelle pour la retraite
-tel que défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée, (1) l'assureur peut consentir des avances au
-contractant.
+Dans la limite de la valeur de rachat du contrat ou de la valeur de transfert du plan d'épargne retraite populaire tel que
+défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée, l'assureur peut consentir des avances au contractant.
 
 L'entreprise d'assurance ou de capitalisation doit, à la demande du contractant, verser à celui-ci la valeur de rachat du
-contrat ou la valeur de transfert du plan d'épargne individuelle pour la retraite (1) dans un délai qui ne peut excéder deux
-mois. Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal majoré de moitié durant
-deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux légal.
+contrat ou la valeur de transfert du plan d'épargne retraite populaire dans un délai qui ne peut excéder deux mois. Au-delà
+de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis,
+à l'expiration de ce délai de deux mois, au double du taux légal.
 
 **Nota:**
 
-(1) : Article 108 XVI de la loi n° 2003-775 du 21 août 2003 : Ces dispositions entrent en vigueur le 1er janvier 2004. 
-
 Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L132-21 du présent code, les mots "
-plan d'épargne individuel pour la retraite " sont déclassés et ont dorénavant un caractère réglementaire.
+plan d'épargne individuelle pour la retraite " sont déclassés et ont dorénavant un caractère réglementaire.
+
+Décret 2004-346 2004-04-21 art. 2 : Les mots " plan d'épargne individuelle pour la retraite " sont remplacés par les mots "
+plan d'épargne retraite populaire ".
 
 **Liens relatifs à cet article**
 
@@ -4339,7 +4342,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2003-775 2003-08-21 art. 108 XIV 1 JORF 22 août 2003 en vigueur le 1er janvier 2004
+  - Décret n°2004-346 du 21 avril 2004 - art. 2 () JORF 22 avril 2004
 
 **Liens**:
 
