@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-12-28
+Version Consolidée au 2002-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -72,7 +72,7 @@ Version Consolidée au 2002-12-28
       - [Titre IV : L'assurance des travaux du bâtiment (art. L242-1)](#69)
         - [Chapitre II : L'assurance de dommages obligatoire. (art. L242-1)](#70)
       - [Titre V : L'assurance de responsabilité civile médicale (art. L251-1 à L252-2)](#71)
-        - [Chapitre Ier : L'obligation de s'assurer. (art. L251-1)](#72)
+        - [Chapitre Ier : L'obligation de s'assurer. (art. L251-1 à L251-2)](#72)
         - [Chapitre II : L'obligation d'assurer. Le bureau central de tarification. (art. L252-1 à L252-2)](#73)
     - [Livre III : Les entreprises. (art. L310-1 à L364-1)](#74)
       - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. L310-1 à L310-28)](#75)
@@ -9090,29 +9090,32 @@ _Cite_:
 
 ###### Article L251-1
 
-Ainsi qu'il est dit à l'article L. 1142-2 du code de la santé publique ci-après reproduit :
+Ainsi qu'il est dit à l'article L. 1142-2 du code de la santé publique ci-après reproduit : 
 
-"Art. L. 1142-2. - Les professionnels de santé exerçant à titre libéral, les établissements de santé, services de santé et
+" Art.L. 1142-2-Les professionnels de santé exerçant à titre libéral, les établissements de santé, services de santé et
 organismes mentionnés à l'article L. 1142-1, et toute autre personne morale, autre que l'Etat, exerçant des activités de
 prévention, de diagnostic ou de soins ainsi que les producteurs, exploitants et fournisseurs de produits de santé, à l'état
-de produits finis, mentionnés à l'article L. 5311-1, à l'exclusion des 5°, sous réserve des dispositions de l'article L.
-1229-9, 11°, 14° et 15°, utilisés à l'occasion de ces activités, sont tenus de souscrire une assurance destinée à les
+de produits finis, mentionnés à l'article L. 5311-1 à l'exclusion du 5°, sous réserve des dispositions de l'article L.
+1222-9, et des 11°, 14° et 15°, utilisés à l'occasion de ces activités, sont tenus de souscrire une assurance destinée à les
 garantir pour leur responsabilité civile ou administrative susceptible d'être engagée en raison de dommages subis par des
-tiers et résultant d'atteintes à la personne survenant dans le cadre de cette activité de prévention, de diagnostic ou de
-soins.
+tiers et résultant d'atteintes à la personne survenant dans le cadre de l'ensemble de cette activité. 
 
-Les contrats d'assurance souscrits en application de l'alinéa précédent peuvent prévoir des plafonds de garantie. Les
-conditions dans lesquelles le montant de la garantie peut être plafonné pour les professionnels de santé exerçant à titre
-libéral sont fixées par décret en Conseil d'Etat.
+Une dérogation à l'obligation d'assurance prévue au premier alinéa peut être accordée par arrêté du ministre chargé de la
+santé aux établissements publics de santé disposant des ressources financières leur permettant d'indemniser les dommages dans
+des conditions équivalentes à celles qui résulteraient d'un contrat d'assurance. 
+
+Les contrats d'assurance souscrits en application du premier alinéa peuvent prévoir des plafonds de garantie. Les conditions
+dans lesquelles le montant de la garantie peut être plafonné pour les professionnels de santé exerçant à titre libéral sont
+fixées par décret en Conseil d'Etat.
 
 L'assurance des établissements, services et organismes mentionnés au premier alinéa couvre leurs salariés agissant dans la
-limite de la mission qui leur a été impartie, même si ceux-ci disposent d'une indépendance dans l'exercice de l'art médical.
+limite de la mission qui leur a été impartie, même si ceux-ci disposent d'une indépendance dans l'exercice de l'art médical. 
 
 Le crédit-bailleur de produits de santé ou le loueur assimilable au crédit-bailleur ne sont pas tenus à l'obligation
-d'assurance prévue au premier alinéa.
+d'assurance prévue au premier alinéa. 
 
 En cas de manquement à l'obligation d'assurance prévue au présent article, l'instance disciplinaire compétente peut prononcer
-des sanctions disciplinaires."
+des sanctions disciplinaires. "
 
 **Liens relatifs à cet article**
 
@@ -9120,13 +9123,13 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2002-303 du 4 mars 2002 - art. 100 () JORF 5 mars 2002
+  - Loi n°2002-1577 du 30 décembre 2002 - art. 1 () JORF 31 décembre 2002
 
-_Cite_:
+**Liens**:
 
-  - Code de la santé publique - art. L1142-2 (M)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1142-2 (V)
 
 _Cité par_:
 
@@ -9135,6 +9138,72 @@ _Cité par_:
   - Code des assurances - art. R250-4-1 (V)
   - Code des assurances - art. R250-4-2 (V)
   - Code des assurances - art. R427-12 (V)
+
+
+###### Article L251-2
+
+Constitue un sinistre, pour les risques mentionnés à l'article L. 1142-2 du code de la santé publique, tout dommage ou
+ensemble de dommages causés à des tiers, engageant la responsabilité de l'assuré, résultant d'un fait générateur ou d'un
+ensemble de faits générateurs ayant la même cause technique, imputable aux activités de l'assuré garanties par le contrat, et
+ayant donné lieu à une ou plusieurs réclamations.
+
+Constitue une réclamation toute demande en réparation amiable ou contentieuse formée par la victime d'un dommage ou ses
+ayants droit, et adressée à l'assuré ou à son assureur.
+
+Tout contrat d'assurance conclu en application de l'article L. 1142-2 du même code garantit l'assuré contre les conséquences
+pécuniaires des sinistres pour lesquels la première réclamation est formée pendant la période de validité du contrat, quelle
+que soit la date des autres éléments constitutifs du sinistre, dès lors que le fait générateur est survenu dans le cadre des
+activités de l'assuré garanties au moment de la première réclamation.
+
+Le contrat d'assurance garantit également les sinistres dont la première réclamation est formulée pendant un délai fixé par
+le contrat, à partir de la date d'expiration ou de résiliation de tout ou partie des garanties, si ces sinistres sont
+imputables aux activités garanties à cette date, et s'ils résultent d'un fait générateur survenu pendant la période de
+validité du contrat. Ce délai ne peut être inférieur à cinq ans.
+
+Le dernier contrat conclu, avant sa cessation d'activité professionnelle ou son décès, par un professionnel de santé
+mentionné à la quatrième partie du code de la santé publique exerçant à titre libéral, garantit également les sinistres pour
+lesquels la première réclamation est formulée pendant un délai fixé par le contrat, à partir de la date de résiliation ou
+d'expiration de tout ou partie des garanties, dès lors que le fait générateur est survenu pendant la période de validité du
+contrat ou antérieurement à cette période dans le cadre des activités de l'assuré garanties au moment de la première
+réclamation. Ce délai ne peut être inférieur à dix ans. Cette garantie ne couvre pas les sinistres dont la première
+réclamation est postérieure à une éventuelle reprise d'activité. Le contrat ne peut prévoir pour cette garantie un plafond
+inférieur à celui de l'année précédant la fin du contrat.
+
+Le contrat ne garantit pas les sinistres dont le fait générateur était connu de l'assuré à la date de la souscription.
+
+Lorsqu'un même sinistre est susceptible de mettre en jeu la garantie apportée par plusieurs contrats successifs, il est
+couvert en priorité par le contrat en vigueur au moment de la première réclamation, sans qu'il soit fait application des
+dispositions des troisième et quatrième alinéas de l'article L. 121-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2002-1577 2002-12-30 art. 5 (date d'effet - modalités d'application)
+
+_Créé par_:
+
+  - Loi n°2002-1577 du 30 décembre 2002 - art. 4 () JORF 31 décembre 2002
+
+_Cité par_:
+
+  - Loi n°2002-1577 du 30 décembre 2002 - art. 5 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 146 (V)
+  - Loi n°2014-201 du 24 février 2014 - art. 1 (V)
+  - Code de la santé publique - art. L1142-15 (V)
+  - Code de la santé publique - art. L1142-21 (V)
+  - Code de la santé publique - art. L1142-21-1 (Ab)
+  - Code des assurances - art. L426-1 (VD)
+  - Code des assurances - art. R427-12 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L1142-2 (M)
+  - Code des assurances - art. L121-4 (M)
 
 
 #### Chapitre II : L'obligation d'assurer. Le bureau central de tarification.<a id=73></a>
@@ -16995,17 +17064,18 @@ _Cite_:
 
 ###### Article L412-1
 
-Les frais de toute nature résultant du fonctionnement de l'école nationale d'assurances sont couverts au moyen :
+I. - Les frais de toute nature résultant du fonctionnement de l'Ecole nationale d'assurances sont couverts au moyen de
+versements directs ou indirects, émanant des entreprises d'assurance, de leurs organismes professionnels ainsi que des
+fédérations et syndicats nationaux groupant les entreprises, les agents et les courtiers d'assurances. Le Conservatoire
+national des arts et métiers reçoit ces versements pour le compte de l'Ecole nationale d'assurances.
 
-1° D'une contribution proportionnelle au montant des primes ou cotisations perçues par les entreprises soumises au contrôle
-de l'Etat en application de l'article L. 310-1, ces primes étant calculées comme il est dit à l'article L. 310-9 ;
+II. - Ces versements viennent en déduction de ceux qui sont dus au titre de la taxe d'apprentissage ou de la taxe de
+formation continue, en proportion des parts respectives de la formation initiale, de la formation continue et de
+l'apprentissage dans les activités de l'Ecole nationale d'assurances que financent ces versements.
 
-2° Des dons, legs et subventions faits au Conservatoire des arts et métiers en faveur de ladite école, notamment par les
-entreprises d'assurance ainsi que par les fédérations et syndicats nationaux groupant les entreprises, les agents et les
-courtiers d'assurance.
-
-Le montant de la contribution due par chaque entreprise d'assurance, en application du 1° ci-dessus, est fixé chaque année
-par arrêté du ministre de l'économie et des finances.
+III. - Le présent article entrera en vigueur à compter de la promulgation d'un arrêté ministériel relatif à l'extension d'un
+avenant à la convention collective nationale des sociétés d'assurance portant financement de l'Ecole nationale d'assurances,
+et, à défaut d'un tel avenant, à compter du 1er janvier 2004.
 
 **Liens relatifs à cet article**
 
@@ -17013,18 +17083,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
 _Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 50 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. L310-9 (M)
+  - Loi - art. 123 () JORF 31 décembre 2002
 
 
 ### Titre II : Le fonds de garantie<a id=143></a>
@@ -18558,8 +18619,8 @@ pour couvrir sa responsabilité dans les travaux de bâtiment.
 Les contrats couvrant les chantiers ouverts à compter du 1er janvier 1986 et comportant des garanties autres que celles
 visées à l'alinéa précédent doivent distinguer la partie de la prime ou cotisation afférente à ces dernières garanties.
 
-Le taux de la contribution est de 8,5 % en ce qui concerne les primes ou cotisations d'assurance payées par les entreprises
-artisanales et de 25,5 % en ce qui concerne les autres primes ou cotisations d'assurance.
+Le taux de la contribution est de 4 % en ce qui concerne les primes ou cotisations d'assurance payées par les entreprises
+artisanales et de 12,5 % en ce qui concerne les autres primes ou cotisations d'assurance.
 
 Pour une période allant du 1er janvier 1991 au 31 décembre 1996, le fonds est également alimenté par une contribution
 additionnelle due par toute personne ayant souscrit un contrat d'assurance de responsabilité décennale pour couvrir sa
@@ -18583,6 +18644,15 @@ réalisé ou perçu au cours de l'exercice concerné.
 Les ressources du fonds peuvent également provenir d'emprunts.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Nota:**
+
+1 : Les taux de 4 et 12,5 % sont applicables aux primes et, en cas de paiement fractionné, aux fractions de primes, échues à
+compter du 1er janvier 2003.
+
+2 : Loi 2003-1312 2003-12-30 Finances rectificative pour 2003 art. 84 II : Les dispositions du I sont applicables aux primes
+ou cotisations et, en cas de paiement fractionné, aux fractions de primes ou cotisations, échues à compter du 1er janvier
+2005.
 
 **Liens relatifs à cet article**
 
@@ -18608,13 +18678,9 @@ _Cité par_:
   - Code des assurances - art. R431-53 (V)
   - Code des assurances - art. R431-59 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60
-
 _Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 47 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - Loi - art. 124 (V) JORF 31 décembre 2002
 
 
 #### Chapitre II : La Compagnie française d'assurance pour le commerce extérieur "COFACE"<a id=163></a>
