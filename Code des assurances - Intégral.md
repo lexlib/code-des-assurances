@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-11-16
+Version Consolidée au 2004-11-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -201,7 +201,7 @@ Version Consolidée au 2004-11-16
         - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. R*113-4 à R113-6)](#198)
         - [Chapitre IV : Compétence et prescription. (art. R114-1)](#199)
       - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. R*124-1 à R127-1)](#200)
-        - [Chapitre IV : Les assurances de responsabilité. (art. R*124-1)](#201)
+        - [Chapitre IV : Les assurances de responsabilité. (art. R*124-1 à R124-3)](#201)
         - [Chapitre VI : L'assurance contre les actes de terrorisme (art. R126-1 à R126-2)](#202)
           - [Section II : Dommages matériels (art. R126-1 à R126-2)](#203)
         - [Chapitre VII : L'assurance de protection juridique. (art. R127-1)](#204)
@@ -22429,6 +22429,135 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+
+###### Article R*124-4
+
+Le plafond applicable à la garantie déclenchée dans le délai subséquent mentionné aux quatrième et cinquième alinéas de
+l'article L. 124-5 est unique pour l'ensemble de la période, sans préjudice des autres termes de la garantie ou de
+stipulations contractuelles plus favorables. Il est spécifique et ne couvre que les seuls sinistres dont la garantie est
+déclenchée pendant cette période. 
+
+Il ne peut être inférieur à celui de la garantie déclenchée pendant l'année précédant la date de sa réalisation ou de son
+expiration. Il peut être reconstitué au gré des parties. 
+
+Le contrat précise les conditions d'application du plafond de garantie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°2004-1284 du 26 novembre 2004 - art. 1 () JORF 28 novembre 2004
+
+_Cite_:
+
+  - Code des assurances - art. L124-5 (V)
+
+_Anciens textes_:
+
+  - Décret n°1938-12-30 art. 115
+
+
+###### Article R124-2
+
+Le délai subséquent des garanties déclenchées par la réclamation mentionnée aux quatrième et cinquième alinéas de l'article
+L. 124-5 ne peut être inférieur à dix ans lorsque l'assuré, personne physique ou morale : 
+
+I.-Exerce l'une des professions suivantes : 
+
+1° Administrateur de biens ; 
+
+2° Administrateur judiciaire et mandataire judiciaire au redressement et à la liquidation des entreprises ; 
+
+3° Avocat inscrit à un barreau français ; 
+
+4° Avocat au Conseil d'Etat et à la Cour de cassation ; 
+
+5° Avoué près les cours d'appel ; 
+
+6° Commissaire aux comptes ; 
+
+7° Commissaire-priseur judiciaire ; 
+
+8° Constructeur d'un ouvrage mentionné aux articles L. 231-1 du code de la construction et de l'habitation et
+1646-1,1792-1,1831-1 du code civil, ainsi que ses sous-traitants ; 
+
+9° Courtier d'assurance ; 
+
+10° Géomètre expert ; 
+
+11° Huissier de justice ; 
+
+12° Notaire ; 
+
+13° Syndic de copropriété ; 
+
+II.-Exerce l'une des activités suivantes : 
+
+1° Pratique du droit à titre accessoire par une personne pouvant se prévaloir de l'agrément prévu à l'article 54 de la loi du
+31 décembre 1971 précitée ; 
+
+2° Expertise comptable ; 
+
+3° Expertise judiciaire ; 
+
+4° Ventes volontaires de meubles aux enchères publiques.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1938-12-30 art. 115
+
+_Cite_:
+
+  - Loi n°71-1130 du 31 décembre 1971 - art. 54 (V)
+  - Code civil - art. 1646-1 (V)
+  - Code civil - art. 1792-1 (V)
+  - Code civil - art. 1831-1 (V)
+  - Code des assurances - art. L124-5 (V)
+  - Code de la construction et de l'habitation. - art. L231-1 (V)
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°2004-1284 du 26 novembre 2004 - art. 1 () JORF 28 novembre 2004
+
+
+###### Article R124-3
+
+Lorsque la garantie souscrite par une personne physique pour son activité professionnelle est la dernière garantie avant sa
+cessation d'activité professionnelle ou son décès, le délai prévu aux quatrième et cinquième alinéas de l'article L. 124-5 ne
+peut être inférieur à dix ans. 
+
+En cas de reprise de la même activité, ce délai est réduit à la durée comprise entre la date d'expiration ou de résiliation
+de la garantie et la date de reprise d'activité, sans que cette durée puisse être inférieure à cinq ans ou à la durée fixée
+contractuellement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°2004-1284 du 26 novembre 2004 - art. 1 () JORF 28 novembre 2004
+
+_Cite_:
+
+  - Code des assurances - art. L124-5 (V)
+
+_Anciens textes_:
+
+  - Décret n°1938-12-30 art. 115
 
 
 #### Chapitre VI : L'assurance contre les actes de terrorisme<a id=202></a>
