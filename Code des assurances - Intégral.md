@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-09-25
+Version Consolidée au 1990-11-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L181-3)](#2)
@@ -290,8 +290,8 @@ Version Consolidée au 1990-09-25
             - [Paragraphe 6 : Dispositions particulières relatives à l'assurance de la construction : responsabilité civile décennale. (art. R*331-32)](#287)
         - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. R*332-6 à R*332-45)](#288)
           - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. R*332-6 à R332-13)](#289)
-          - [Section II : Réglementations particulières concernant certains éléments d'actif. (art. R*332-18 à R332-17)](#290)
-          - [Section III : Estimation des éléments d'actif. (art. R*332-21 à R332-29)](#291)
+          - [Section II : Réglementations particulières concernant certains éléments d'actif. (art. R332-14 à R332-17)](#290)
+          - [Section III : Estimation des éléments d'actif. (art. R*332-22 à R332-30)](#291)
           - [Section IV : Commissions et frais d'acquisition à amortir. (art. R332-33 à R332-34)](#292)
           - [Section V : Règles particulières à certaines entreprises étrangères. (art. R332-37 à R332-44)](#293)
           - [Section VI : Dispositions particulières aux territoires d'outre-mer. (art. R*332-45)](#294)
@@ -466,68 +466,67 @@ Version Consolidée au 1990-09-25
           - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-11 à A331-25)](#463)
             - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-11 à A331-15)](#464)
             - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-23 à A331-25)](#465)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-1 à A332-6)](#466)
-          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. A332-1 à A332-4)](#467)
-          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#468)
-        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-10)](#469)
-        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-2)](#470)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#471)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#472)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2)](#473)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2)](#474)
-        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-2 à A335-19)](#475)
-          - [Section I : Tarifs. (art. A335-9-2 à A335-9-3)](#476)
-            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-2 à A335-9-3)](#477)
-          - [Section I : Tarifs (art. A335-1-1 à A335-9)](#478)
-            - [Paragraphe 1 : Assurances sur la vie. (art. A335-1-1 à A335-5-1)](#479)
-            - [Paragraphe 2 : Assurances nuptialité et natalité. (art. A335-6)](#480)
-            - [Paragraphe 3 : Opérations de capitalisation. (art. A335-7 à A335-9)](#481)
-          - [Section II : Frais d'acquisition et de gestion (art. A335-10 à A335-18)](#482)
-            - [Paragraphe 1 : Assurances sur la vie et nuptialité-natalité. (art. A335-10 à A335-11)](#483)
-            - [Paragraphe 2 : Assurances populaires. (art. A335-12 à A335-14)](#484)
-            - [Paragraphe 3 : Assurances des véhicules terrestres à moteur. (art. A335-15 à A335-18)](#485)
-          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#486)
-            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#487)
-      - [Titre IV : Dispositions comptables et statistiques (art. A342-1 à A344-7)](#488)
-        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-3)](#489)
-          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-1 à A342-3)](#490)
-        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à A344-7)](#491)
-          - [Section I : Dispositions générales. (art. A344-1 à A344-2)](#492)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#493)
-          - [Section III : Etats à produire. (art. A344-7)](#494)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-2)](#495)
-      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#496)
-        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#497)
-          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#498)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#499)
-          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#500)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#501)
-          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#502)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#503)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#504)
-      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A433-6)](#505)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#506)
-          - [Section I : Dispositions générales. (art. A431-1)](#507)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#508)
-            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#509)
-          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#510)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#511)
-            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#512)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#513)
-          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#514)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#515)
-        - [Chapitre III : La caisse nationale de prévoyance (art. A433-1 à A433-6)](#516)
-          - [Section I : Dispositions générales. (art. A433-1)](#517)
-          - [Section V : Tarifs. (art. A433-2 à A433-6)](#518)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#519)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#520)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#521)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#522)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#523)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#524)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-2)](#525)
-          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. A514-2)](#526)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#527)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-5 à A332-6)](#466)
+          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#467)
+        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-10)](#468)
+        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-2)](#469)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#470)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#471)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2)](#472)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2)](#473)
+        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-2 à A335-19)](#474)
+          - [Section I : Tarifs. (art. A335-9-2 à A335-9-3)](#475)
+            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-2 à A335-9-3)](#476)
+          - [Section I : Tarifs (art. A335-1-1 à A335-9)](#477)
+            - [Paragraphe 1 : Assurances sur la vie. (art. A335-1-1 à A335-5-1)](#478)
+            - [Paragraphe 2 : Assurances nuptialité et natalité. (art. A335-6)](#479)
+            - [Paragraphe 3 : Opérations de capitalisation. (art. A335-7 à A335-9)](#480)
+          - [Section II : Frais d'acquisition et de gestion (art. A335-10 à A335-18)](#481)
+            - [Paragraphe 1 : Assurances sur la vie et nuptialité-natalité. (art. A335-10 à A335-11)](#482)
+            - [Paragraphe 2 : Assurances populaires. (art. A335-12 à A335-14)](#483)
+            - [Paragraphe 3 : Assurances des véhicules terrestres à moteur. (art. A335-15 à A335-18)](#484)
+          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#485)
+            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#486)
+      - [Titre IV : Dispositions comptables et statistiques (art. A342-1 à A344-7)](#487)
+        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-3)](#488)
+          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-1 à A342-3)](#489)
+        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à A344-7)](#490)
+          - [Section I : Dispositions générales. (art. A344-1 à A344-2)](#491)
+          - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#492)
+          - [Section III : Etats à produire. (art. A344-7)](#493)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-2)](#494)
+      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#495)
+        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#496)
+          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#497)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#498)
+          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#499)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#500)
+          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#501)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#502)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#503)
+      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A433-6)](#504)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#505)
+          - [Section I : Dispositions générales. (art. A431-1)](#506)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#507)
+            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#508)
+          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#509)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#510)
+            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#511)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#512)
+          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#513)
+            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#514)
+        - [Chapitre III : La caisse nationale de prévoyance (art. A433-1 à A433-6)](#515)
+          - [Section I : Dispositions générales. (art. A433-1)](#516)
+          - [Section V : Tarifs. (art. A433-2 à A433-6)](#517)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#518)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#519)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#520)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#521)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#522)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#523)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-2)](#524)
+          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. A514-2)](#525)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#526)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -15238,13 +15237,13 @@ _Nouveaux textes_:
 
 ###### Article R131-1
 
-En matière d'assurance sur la vie, les unités de compte visées à l'article L. 131-1, sont constituées par :
+En matière d'assurance sur la vie, les unités de comptes visées à l'article L. 131-1 sont constituées par :
 
-1° Les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placement, mentionnées aux 3°
-et 9° de l'article R. 332-2 ;
+1° Les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placements visées aux 3° et
+8° de l'article R. 332-2 et régies par la loi n° 88-1201 du 23 décembre 1988 ;
 
-2° Les parts de sociétés civiles à objet foncier et les parts ou les actions de sociétés immobilières, mentionnées aux 11° et
-13° du même article.
+2° Les parts ou actions des sociétés à objet strictement immobilier, les parts des sociétés civiles à objet strictement
+foncier, mentionnées au 9° bis de l'article R. 332-2.
 
 **Liens relatifs à cet article**
 
@@ -15252,9 +15251,15 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°88-597 1988-05-06 art. 1 JORF 8 mai 1988
+  - Loi n°88-1201 1988-12-23
+  - Code des assurances - art. L131-1 (M)
+  - Code des assurances - art. R*332-2 (M)
+
+_Modifié par_:
+
+  - Décret n°90-981 du 5 novembre 1990 - art. 25 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -15275,11 +15280,6 @@ _Cité par_:
   - Code des assurances - art. R142-14 (Ab)
   - Code des assurances - art. R441-7-1 (V)
   - Code des assurances - art. R441-7-2 (VT)
-
-_Cite_:
-
-  - Code des assurances - art. L131-1 (M)
-  - Code des assurances - art. R*332-2 (M)
 
 **Liens**:
 
@@ -28587,83 +28587,68 @@ _Cite_:
 
 ###### Article R332-2
 
-Sous réserve des dispositions de l'article R. 332-1 et des dérogations prévues aux articles R. 332-3-3 à R. 332-10, les
-engagements réglementés mentionnés à l'article R. 331-1 sont représentés par les actifs suivants :
+En application des dispositions de l'article R. 332-1 et sous réserve des dérogations prévues à ce même article, à l'article
+R. 332-1-1 ainsi qu'aux articles R. 332-3-3 à R. 332-10, les engagements réglementés mentionnés à l'article R. 331-1 sont
+représentés par les actifs suivants :
 
-A. - Valeurs mobilières et titres assimilés.
+A. - Valeurs mobilières et titres assimilés :
 
-1° Obligations et titres participatifs inscrits à la cote officielle des bourses françaises de valeurs ou en instance
-d'inscription ;
+1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres de l'Organisation de coopération et de
+développement économique (O.C.D.E.) ; obligations émises ou garanties par un organisme international à caractère public dont
+un ou plusieurs Etats membres de la Communauté économique européenne font partie ; obligations émises ou garanties par les
+collectivités publiques territoriales d'un Etat membre de l'O.C.D.E. ;
 
-2° Obligations non cotées émises par l'Etat ou jouissant de sa garantie et obligations non cotées émises par le Crédit
-foncier et communal d'Alsace et de Lorraine avant le 15 décembre 1972 ;
+2° Obligations, parts de fonds communs de créance et titres participatifs inscrits à la cote d'une bourse de valeurs d'un
+Etat membre de l'O.C.D.E., autres que celles ou ceux visés au 1° ;
 
-3° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement dont l'objet est limité à
-la gestion d'un portefeuille de valeurs mentionnées au 1° ci-dessus :
+2° bis Titres de créances négociables (certificats de dépôt, billets de trésorerie, bons des institutions et des sociétés
+financières spécialisées) émis par des personnes morales autres que les Etats membres de l'O.C.D.E., ayant leur siège social
+sur le territoire de ces Etats, à condition que ces titres soient négociés sur un marché réglementé en fonctionnement
+régulier d'un Etat membre de l'O.C.D.E. ;
 
-4° Actions et autres valeurs mobilières inscrites à la cote officielle ou à la cote du second marché des bourses françaises
-de valeurs, autres que celles mentionnées aux 7° et 8° ;
+3° Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement dont l'objet est limité à
+la gestion d'un portefeuille de valeurs mentionnées aux 1°, 2° et 2° bis du présent article, dans les conditions fixées par
+l'article R. 332-14 ;
 
-5° Actions, parts et droits émis par des sociétés commerciales françaises, à l'exception des valeurs mentionnées aux 4° et
-7° ;
+4° Actions et autres valeurs mobilières, inscrites à la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E., autres
+que celles visées aux 3°, 5°, 5° bis, 8° et 9° bis ;
 
-6° Parts de fonds communs de placement à risques, dans les conditions fixées par arrêté du ministre chargé de l'économie et
-des finances ;
+5° Actions des entreprises d'assurance, de réassurance, de capitalisation ayant leur siège social sur le territoire de l'un
+des Etats membres de l'O.C.D.E. ;
 
-7° Actions d'entreprises françaises d'assurance, de réassurance ou de capitalisation ;
+5° bis Actions des entreprises d'assurance, de réassurance, de capitalisation autres que celles visées au 5° ;
 
-8° Actions d'entreprises étrangères d'assurance dans les conditions fixées dans chaque cas par le ministre chargé de
-l'économie et des finances ;
+6° Actions, parts et droits émis par des sociétés commerciales et titres participatifs émis par des sociétés d'assurance
+mutuelles, ayant leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., autres que les valeurs visées
+aux 2°, 2° bis, 3°, 4°, 5°, 5° bis, 8° et 9° bis ;
 
-9° Actions de sociétés d'investissement à capital variable et parts de fonds communs de placement, autres que celles
-mentionnées aux 3° et 6°, dans les conditions déterminées par arrêté du ministre chargé de l'économie et des finances.
+7° Parts des fonds communs de placement à risques du chapitre IV de la loi n° 88-1201 du 23 décembre 1988 ;
 
-B. - Actifs immobiliers.
+8° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
+mentionnées aux 3° et 7°, dans les conditions fixées par l'article R. 332-14.
 
-10° Immeubles bâtis situés sur le territoire de la République française ;
+B. - Actifs immobiliers :
 
-11° Immeubles non bâtis situés sur le territoire de la République française et parts de sociétés civiles à objet foncier, sur
-autorisation donnée cas par cas par le ministre chargé de l'économie et des finances ;
+9° Droits réels immobiliers afférents à des immeubles situés sur le territoire de l'un des Etats membres de l'O.C.D.E. ;
 
-12° Droits réels immobiliers ;
+9° bis Parts ou actions des sociétés à objet strictement immobilier, parts des sociétés civiles à objet strictement foncier,
+ayant leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., inscrites ou non inscrites à la cote d'une
+bourse de valeurs d'un Etat membre de l'O.C.D.E., dans les conditions fixées par l'article R. 332-15.
 
-13° Parts ou actions de sociétés immobilières non inscrites à la cote officielle ou à la cote du second marché des bourses
-françaises de valeurs, dans les conditions déterminées dans chaque cas par le ministre chargé de l'économie et des finances.
+C. - Prêts et dépôts :
 
-C. - Prêts, bons et dépôts.
+10° Prêts obtenus ou garantis par les Etats membres de l'O.C.D.E., par les collectivités publiques territoriales et les
+établissements publics des Etats membres de l'O.C.D.E. ;
 
-14° Prêts aux collectivités territoriales et à leurs établissements publics administratifs ;
+11° Prêts hypothécaires aux personnes physiques ou morales ayant leur domicile ou leur siège social sur le territoire de l'un
+des Etats membres de l'O.C.D.E., dans les conditions fixées par l'article R. 332-12 ;
 
-15° Prêts aux établissements publics de l'Etat. Toutefois, les prêts aux établissements de crédit sont autorisés cas par cas
-par le ministre de l'économie et des finances.
+12° Autres prêts ou créances représentatives de prêts consentis aux personnes physiques ou morales ayant leur domicile ou
+leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées par l'article R.
+332-13 ;
 
-16° Prêts aux organismes d'habitation à loyer modéré, aux coopératives de construction et aux sociétés d'économie mixte de
-construction de logements, dans les conditions déterminées à l'article R. 332-12 ;
-
-17° Prêts consentis à des sociétés d'assurance à forme mutuelle, dans les conditions prévues à l'article R. 332-74 et sur
-autorisation donnée cas par cas par le ministre chargé de l'économie et des finances ;
-
-18° Dans les conditions déterminées à l'article R. 332-13, prêts aux entreprises industrielles et commerciales. Toutefois,
-les prêts aux établissements de crédit sont autorisés cas par cas par le ministre chargé de l'économie et des finances.
-
-19° Prêts aux constructeurs de navires ou aux armateurs dans les conditions fixées à l'article R. 332-14 ;
-
-19° bis. - Créances représentatives des prêts de titres définis par la loi n° 87-416 du 17 juin 1987 sur l'épargne dans les
-conditions fixées à l'article R. 332-14-1..
-
-20° Prêts immobiliers aux personnes physiques, dans les conditions fixées à l'article R. 332-15 ;
-
-21° Billets négociables sur le marché hypothécaire, billets de trésorerie, certificats de dépôt ;
-
-22° Bons émis par les institutions financières  spécialisées et bons figurant sur une liste établie par le ministre chargé de
-l'économie et des finances ;
-
-23° Bons du Trésor ;
-
-24° Dépôts auprès des comptables du Trésor, des centres de chèques postaux, de la Banque de France, de la Caisse des dépôts
-et consignations et des établissements de crédit.
-
-Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits placements.
+13° Dépôts, dans les conditions fixées par l'article R. 332-16.    Les intérêts courus des placements énumérés ci-dessus sont
+assimilés auxdits placements.
 
 **Liens relatifs à cet article**
 
@@ -28781,43 +28766,37 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°87-416 1987-06-17
+  - Loi n°88-1201 1988-12-23
   - Code des assurances - art. R*331-1 (M)
-  - Code des assurances R322-14-1, R331-1, R332-1, R332-3-3 à R332-10,  R332-12, R332-13, R332-14, R332-15, R332-74
+  - Code des assurances - art. R332-1-1 (V)
+  - Code des assurances R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14, R332-15, R332-12, R332-13, R332-16
+
+_Modifié par_:
+
+  - Décret n°90-981 du 5 novembre 1990 - art. 1 () JORF 6 novembre 1990
 
 **Liens**:
 
   - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
   - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
-  - TXT_ASSOCIE: Code des assurances - art. A332-3 (M)
   - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
-  - TXT_ASSOCIE: Code des assurances - art. A332-4 (M)
   - TXT_SOURCE: Code des assurances - art. R332-16 (M)
-
-_Modifié par_:
-
-  - Décret n°89-351 1989-06-04 art. 4 JORF 4 juin 1989
 
 
 ###### Article R332-3
 
-Rapportée au montant des engagements réglementés mentionnés à l'article R. 331-1, diminué du montant des actifs mentionnés
-aux articles R. 332-3-4 à R. 332-10, la valeur au bilan de chacune des catégories d'actifs énumérées ci-après ne peut
-excéder :
+Rapportée au montant total des engagements réglementés mentionnés à l'article R. 331-1, toutes monnaies confondues, diminuée
+du montant total des actifs mentionnés aux articles R. 332-3-4 à R. 332-10, toutes monnaies confondues, la valeur au bilan de
+chacune des catégories d'actifs énumérées ci-après ne peut excéder, sauf dérogation accordée cas par cas par la commission de
+contrôle des assurances :
 
-1° 66 p. 100 pour l'ensemble des valeurs mentionnées du 4° au 24° de l'article R. 332-2 ;
+1° 65 p. 100 pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R. 332-2, dont 5 p. 100 au maximum pour
+l'ensemble formé par les actions d'entreprises étrangères d'assurance mentionnées au 5° bis de l'article R. 332-2 et par les
+actions et parts mentionnées aux 6° et 7° de l'article R. 332-2 ;
 
-2° 1 p. 100 pour les actions mentionnées au 5° de l'article R. 332-2 ;
+2° 40 p. 100 pour les actifs immobiliers mentionnés aux 9° et 9° bis de l'article R. 332-2 ;
 
-3° 0,5 p. 100 pour les parts mentionnées au 6° de l'article R. 332-2 ;
-
-4° 5 p. 100 pour les actions d'entreprises étrangères d'assurance mentionnées au 8° de l'article R. 332-2 ;
-
-5° 40 p. 100 pour les actifs immobiliers mentionnés du 10° au 13° de l'article R. 332-2 ;
-
-6° 35 p. 100 pour l'ensemble des créances mentionnées du 14° au 22° de l'article R. 332-2 ;
-
-7° 15 p. 100 pour les dépôts mentionnés au 24° de l'article R. 332-2.
+3° 10 p. 100 pour l'ensemble des valeurs mentionnées aux 10°, 11° et 12° de l'article R. 332-2.
 
 **Liens relatifs à cet article**
 
@@ -28829,10 +28808,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°84-1023 1984-11-14 art. 2 JORF 23 novembre 1984
 
 _Cité par_:
 
@@ -28877,53 +28852,49 @@ _Cité par_:
   - Code des assurances - art. R431-57 (V)
   - Code des assurances - art. R441-7 (VD)
 
+_Modifié par_:
+
+  - Décret n°90-981 du 5 novembre 1990 - art. 2 () JORF 6 novembre 1990
+
 **Liens**:
 
-  - TXT_ASSOCIE: Code des assurances - art. A332-1 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A332-1 (Ab)
 
 _Cite_:
 
   - Code des assurances - art. R*331-1 (M)
   - Code des assurances - art. R*332-2 (M)
-  - Code des assurances R331-1, R332-2, R332-3-4 à R332-10
+  - Code des assurances R331-1, R332-3-4 à R332-10, R332-2
 
 
 ###### Article R332-3-1
 
 Rapportée au montant défini à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut excéder, sauf
-dérogation accordée par le ministre chargé de l'économie et des finances :
+dérogation accordée cas par cas par la commission de contrôle des assurances :
 
 1° 5 p. 100 pour l'ensemble des valeurs émises et des prêts obtenus par un même organisme, à l'exception :
 
-- des valeurs émises ou garanties par l'Etat ;
+a) Des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de l'O.C.D.E. ;
 
-- des valeurs émises par des organismes figurant sur une liste établie par le ministre chargé de l'économie et des finances ;
+b) Des actions des sociétés d'investissement à capital variable et des parts des fonds communs de placement visées au 3° de
+l'article R. 332-2, dont le portefeuille est exclusivement composé des valeurs mentionnées ci-dessus.
 
-- des actions des sociétés d'investissement à capital variable et des parts des fonds communs de placement dont le
-portefeuille est exclusivement composé des valeurs mentionnées ci-dessus ;
+Le ratio de droit commun de 5 p. 100 peut atteindre 10 p. 100 pour les titres d'un même émetteur, à condition que la valeur
+des titres de l'ensemble des émetteurs dont les émissions sont admises au-delà du ratio de 5 p. 100 n'excède pas 40 p. 100 du
+montant défini à l'article R. 332-3.
 
-2° 10 p. 100 pour les valeurs mentionnées au 3° de l'article R. 332-2 émises par une même société ou par un même fonds ;
+2° 10 p. 100 pour un même immeuble ou pour les parts ou actions d'une même société immobilière ou foncière ;
 
-3° 0,25 p. 100 pour les valeurs mentionnées au 5° de l'article R. 332-2 émises par une même société ;
+3° 0,5 p. 100 pour les valeurs mentionnées aux 6° et 7° de l'article R. 332-2 émises par une même société ou un même fonds.
 
-4° 10 p. 100 pour un même immeuble ou pour les parts ou actions d'une même société immobilière ou foncière non cotée.
-
-Pour l'application des dispositions du 7° de l'article R. 332-2, une entreprise ne peut affecter à la représentation de ses
-engagements réglementés plus de 50 p. 100 des actions d'une même société.
+Pour l'application des dispositions du 5° de l'article R. 332-2, une entreprise ne peut affecter à la représentation de ses
+engagements réglementés plus de 50 p. 100 des actions émises par une même société.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1989-11-17 art. 2 *dispositions transitoires*
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-_Créé par_:
-
-  - Décret n°84-1023 1984-11-14 art. 2 JORF 23 novembre 1984
 
 _Cité par_:
 
@@ -28951,6 +28922,10 @@ _Cité par_:
   - Code des assurances - art. R422-5 (M)
   - Code des assurances - art. R427-5 (V)
 
+_Modifié par_:
+
+  - Décret n°90-981 du 5 novembre 1990 - art. 3 () JORF 6 novembre 1990
+
 _Cite_:
 
   - Code des assurances - art. R*332-2 (M)
@@ -28962,17 +28937,17 @@ _Cite_:
 1° Les provisions techniques des entreprises opérant à la fois sur le territoire français et sur le territoire monégasque
 doivent être représentées dans les conditions prévues par la réglementation française ; toutefois, les actifs admis en
 représentation desdites provisions peuvent comprendre à concurrence de 5 % du montant de celles-ci des placements mobiliers
-ou immobiliers monégasques sur autorisation donnée conjointement, pour chaque entreprise ou pour chaque cas, par le ministre
-chargé de l'économie et des finances de la République française et par le ministre d'Etat de la principauté de Monaco ;
+ou immobiliers monégasques sur autorisation donnée conjointement, pour chaque entreprise ou pour chaque cas, par la
+commission de contrôle des assurances de la République française et par le ministre d'Etat de la principauté de Monaco ;
 
 2° Pour ce qui concerne les opérations réalisées dans les départements et territoires d'outre-mer et dans la collectivité
-territoriale de Mayotte, le ministre chargé de l'économie et des finances peut, sur proposition du représentant de l'Etat
-dans la collectivité concernée, consentir des dérogations aux règles de l'article R. 332-3. Il peut de même, à titre
-exceptionnel, accorder aux entreprises des dérogations à la réglementation de contrôle.
+territoriale de Mayotte, la commission de contrôle des assurances peut, sur proposition du représentant de l'Etat dans la
+collectivité concernée, consentir des dérogations aux règles de l'article R. 332-3. Il peut de même, à titre exceptionnel,
+accorder aux entreprises des dérogations à la réglementation de contrôle ;
 
 3° La limitation prévue au 5° de l'article R. 332-3 pour les actifs immobiliers est ramenée à 10 % pour la représentation des
-provisions techniques afférentes aux opérations tontinières, sauf dérogation accordée par le ministre chargé de l'économie et
-des finances ; cette même limitation ne s'applique pas pour la représentation des provisions techniques afférentes aux
+provisions techniques afférentes aux opérations tontinières, sauf dérogation accordée par la commission de contrôle des
+assurances ; cette même limitation ne s'applique pas pour la représentation des provisions techniques afférentes aux
 opérations d'acquisition d'immeubles au moyen du versement de rentes viagères.
 
 **Liens relatifs à cet article**
@@ -28981,9 +28956,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 2 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29067,12 +29042,14 @@ _Cité par_:
 
 ###### Article R332-4
 
-Sont admises en représentation des provisions techniques correspondant aux branches mentionnées aux 20, 21, 22, 24, 25 de
+Sont admises en représentation des provisions techniques correspondant aux branches mentionnées aux 20, 21, 22, 24 et 25 de
 l'article R. 321-1 :
 
 - les avances sur contrats ;
 
-- les primes ou cotisations restant à recouvrer, de trois mois de date au plus, jusqu'à concurrence de 90 % de leur montant.
+- les primes ou cotisations restant à recouvrer, de trois mois de date au plus, dans la limite d'un plafond défini par arrêté
+du ministre chargé de l'économie et des finances. Ce plafond est fixé en fonction de l'incidence, aux termes de la
+réglementation, du non-recouvrement éventuel de ces primes ou cotisations sur le montant des engagements réglementés.
 
 **Liens relatifs à cet article**
 
@@ -29082,8 +29059,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-349 du 9 mai 1984 - art. 2 (V)
-  - Décret n°84-1023 1984-11-14 art. 5 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 4 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29144,7 +29120,7 @@ _Cite_:
 Pour la représentation des provisions techniques correspondant aux branches mentionnées aux 4 à 7, 11 et 12 de l'article R.
 321-1 :
 
-1° Les dépôts mentionnés au 24° de l'article R. 332-2 ne sont pas soumis à la limitation prévue au 7° de l'article R. 332-3 ;
+1° (Abrogé)
 
 2° Par dérogation aux dispositions de l'article R. 332-6, les primes ou cotisations sont admises dans les conditions fixées
 par arrêté du ministre chargé de l'économie et des finances ;
@@ -29160,7 +29136,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 7 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 26 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29168,22 +29144,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. R*332-2 (M)
-  - Code des assurances - art. R*332-3 (M)
   - Code des assurances - art. R*332-6 (M)
   - Code des assurances - art. R*332-8 (M)
   - Code des assurances - art. R332-3-3 (M)
-  - Code des assurances R321-1, R332-2, R332-3, R332-3-3, R332-6, R332-8
+  - Code des assurances R321-1, R332-6, R332-3-3, R332-8
 
 
 ###### Article R332-7-1
 
-Pour la représentation des provisions techniques correspondant à la branche mentionnée au 18 de l'article R. 321-1 :
-
-1. En ce qui concerne les dépôts mentionnés au 24° de l'article R. 332-2, la limitation prévue au 7° de l'article R. 332-3
-est portée à 30 p. 100 ;
-
-2. Les avances faites aux transporteurs sont admises dans la limite de 10 p. 100 du montant défini à l'article R. 332-3.
+Pour la représentation des provisions techniques correspondant à la branche mentionnée au 18° de l'article R. 321-1, les
+avances faites aux transporteurs sont admises dans la limite de 10 % du montant défini à l'article R. 332-3.
 
 **Liens relatifs à cet article**
 
@@ -29191,9 +29161,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-456 du 27 avril 1988 - art. 6 () JORF 29 avril 1988
+  - Décret n°90-981 du 5 novembre 1990 - art. 27 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29202,9 +29172,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. R*332-2 (M)
   - Code des assurances - art. R*332-3 (M)
-  - Code des assurances R321-1, R332-2, R332-3
+  - Code des assurances R321-1, R332-3
 
 
 ###### Article R332-8
@@ -29230,20 +29199,16 @@ _Cité par_:
 
 ###### Article R332-9
 
-Nonobstant les limitations prévues à la présente section, les entreprises mentionnées à l'article L. 310-1 peuvent employer
-les portions de leur actif correspondant aux engagements respectivement afférents aux opérations réalisées dans chacun des
-pays étrangers où elles opèrent, ainsi que tous cautionnements ou garanties qui pourraient être exigés par lesdits pays ou
-par les sociétés cédantes desdits pays, en immeubles situés dans ces pays, en prêts, avoirs en espèces ou valeurs mobilières
-admises par les législations des pays susmentionnés.
+Les entreprises mentionnées à l'article L. 310-1 peuvent représenter les engagements afférents aux opérations réalisées à
+l'étranger, par l'intermédiaire de succursales, par les éléments d'actif admis par les législations des pays où elles opèrent
+et localisés sur le territoire de ces pays.
 
-Un décret, pris après avis du conseil national des assurances, fixe les conditions d'application du premier alinéa du présent
-article, pour les opérations pratiquées dans les pays étrangers où aucune législation de contrôle n'est en vigueur.
+Il en est de même lorsque les engagements réglementés des entreprises établies en France résultent d'opérations réalisées en
+libre prestation de services au sens de l'article L. 351-1 et que le pays de situation du risque subordonne l'exercice de ces
+opérations à agrément.
 
-Dans le cas où des entreprises participent à des opérations de coassurance communautaire définies à l'article L. 321-4 sur le
-territoire couvert par le traité instituant la Communauté économique européenne des Etats membres de cette Communauté autres
-que la France, les actifs correspondant aux engagements résultant de ces opérations sont localisés soit sur le territoire de
-la République française, soit dans l'Etat membre où est établi l'apériteur. Ces actifs doivent répondre aux conditions
-énumérées au deuxième alinéa de l'article R. 332-1.
+Les cautionnements ou garanties qui pourraient être exigés par lesdits pays ou par les sociétés cédantes desdits pays peuvent
+être représentés dans les conditions énumérées au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -29253,11 +29218,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°81-443 du 7 mai 1981 - art. 4 () JORF 9 mai 1981
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°81-443 du 7 mai 1981 - art. 6, v. init.
+  - Décret n°90-981 du 5 novembre 1990 - art. 5 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29267,8 +29228,7 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. L321-4 (Ab)
-  - Code des assurances - art. R*332-1 (M)
+  - Code des assurances - art. L351-1 (M)
 
 
 ###### Article R332-10
@@ -29299,8 +29259,8 @@ _Cite_:
 ###### Article R332-11
 
 Les entreprises ne peuvent acquérir d'immeubles grevés de droits réels représentant plus de 65 p. 100 de leur valeur, ni
-consentir de droits réels sur leurs immeubles, sauf autorisation accordée à titre exceptionnel par le ministre chargé de
-l'économie et des finances.
+consentir de droits réels sur leurs immeubles, sauf autorisation accordée à titre exceptionnel par la commission de contrôle
+des assurances.
 
 **Liens relatifs à cet article**
 
@@ -29310,7 +29270,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 10, art. 11 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29323,9 +29283,10 @@ _Anciens textes_:
 
 ###### Article R332-12
 
-Les prêts aux organismes de construction mentionnés au 16° de l'article R. 332-2 doivent bénéficier de la garantie totale et
-inconditionnelle d'une collectivité locale. Cette garantie doit avoir pour effet de substituer, immédiatement et sans
-réserve, la collectivité garante au débiteur défaillant.
+Les prêts hypothécaires mentionnés au 11° de l'article R. 332-2 doivent être garantis par une hypothèque de premier rang
+prise sur un immeuble situé sur le territoire de l'un des Etats membres de l'O.C.D.E. ou sur un navire. L'ensemble des
+privilèges et hypothèques en premier rang ne doit pas excéder 65 % de la valeur vénale de l'immeuble ou du navire constituant
+la garantie du prêt, estimée au jour de la conclusion du contrat.
 
 **Liens relatifs à cet article**
 
@@ -29339,7 +29300,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 10, art. 12 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 6 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29348,17 +29309,21 @@ _Cité par_:
 
 ###### Article R332-13
 
-Les prêts mentionnés au 18° de l'article R. 332-2 doivent avoir une durée totale d'au moins deux ans.
+1° Les prêts mentionnés au 12° de l'article R. 332-2 doivent avoir une durée totale d'au moins deux ans et satisfaire aux
+conditions suivantes :
 
-Ils doivent être garantis soit par une caution donnée par un établissement de crédit soumis à la réglementation française,
-soit par une sûreté réelle répondant aux conditions fixées par l'article R. 332-15, soit par le nantissement d'obligations
-inscrites à la cote officielle d'une bourse française de valeurs ou de bons du Trésor dans la limite de 75 p. 100 de leur
-montant nominal.
+Ils doivent être garantis par une caution donnée par un établissement de crédit ou une entreprise d'assurances agréés par
+l'un des Etats membres de l'O.C.D.E., ou un nantissement de valeurs répondant aux conditions fixées par l'article R. 332-17,
+dans la limite de 75 p. 100 du montant nominal desdites valeurs.
 
-Toutefois, les prêts autres que participatifs peuvent ne pas être assortis de garantie, lorsque l'emprunteur est soit une
-société dont l'Etat ou un de ses établissements publics détient plus de la moitié du capital, soit une société dont les
-actions sont inscrites à la cote officielle ou à la cote du second marché d'une bourse française de valeurs et dont les fonds
-propres atteignent 100 millions de francs.
+Toutefois, les prêts peuvent ne pas être assortis de garantie, lorsque l'emprunteur est soit une société dont l'un des Etats
+membres de l'O.C.D.E. ou un de ses établissements publics détient plus de la moitié du capital, soit une société dont les
+actions sont inscrites à la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E.
+
+2° Les créances représentatives des prêts de titres sont admises en représentation des engagements réglementés si elles ont
+fait l'objet d'un cautionnement en espèces ou d'une caution donnée par un établissement de crédit ou une entreprise
+d'assurance agréés par l'un des Etats membres de la Communauté économique européenne, ou d'un nantissement de valeurs
+répondant aux conditions fixées par l'article R. 332-17.
 
 **Liens relatifs à cet article**
 
@@ -29368,7 +29333,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 10, art. 13 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 7 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29387,7 +29352,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. R*332-15 (M)
+  - Code des assurances - art. R332-17 (M)
 
 _Anciens textes_:
 
@@ -29396,74 +29361,28 @@ _Anciens textes_:
 
 ##### Section II : Réglementations particulières concernant certains éléments d'actif.<a id=290></a>
 
-###### Article R*332-18
-
-Le transfert à l'étranger d'éléments d'actif détenus par une entreprise est soumis à autorisation préalable du ministre de
-l'économie et des finances, afin qu'après transfert l'entreprise satisfasse intégralement à ses obligations concernant la
-représentation de ses engagements et la localisation de ses actifs sur le territoire de la République française.
-
-Toutefois, cette autorisation préalable n'est pas exigée d'une entreprise française ou d'une entreprise étrangère dont le
-siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne.
-
-L'entreprise intéressée doit néanmoins être en mesure de justifier qu'après transfert elle satisfait intégralement à ses
-obligations concernant la représentation de ses engagements et la localisation de ses actifs sur le territoire de la
-République française.
-
-Les dirigeants d'une entreprise qui procède sans autorisation préalable à un transfert mentionné au premier alinéa sont
-passibles des sanctions prévues à l'article R. 328-1.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°84-349 du 9 mai 1984 - art. 25 () JORF 12 mai 1984
-
-_Abrogé par_:
-
-  - Décret n°90-981 du 5 novembre 1990 - art. 13 (V) JORF 6 novembre 1990
-
-_Cité par_:
-
-  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
-  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
-  - Code des assurances - art. R*328-1 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
-
-
 ###### Article R332-14
 
-Les prêts mentionnés au 19° de l'article R. 332-2 ne peuvent concerner que les constructions de navires donnant lieu à
-l'attribution de l'allocation forfaitaire prévue par la loi n° 51-675 du 24 mai 1951 relative à la construction navale. Ils
-ne doivent pas être consentis pour une durée supérieure à dix ans ; cette durée peut être portée à quinze ans pour les prêts
-amortissables consentis à des armateurs français. Ces prêts doivent être garantis par des hypothèques maritimes en premier
-rang et assortis de délégations en faveur du prêteur portant sur les assurances, et éventuellement les chartes-parties
-d'affrètement.
-
-Pour chaque navire, le montant des prêts consentis ne peut excéder le tiers du prix d'acquisition du navire.
-
-Les prêts mentionnés au présent article et libellés en une monnaie déterminée peuvent, sur autorisation du ministre chargé de
-l'économie et des finances, couvrir des provisions techniques afférentes à des engagements souscrits dans une autre monnaie.
+En application des dispositions des 3° et 8° de l'article R. 332-2, les entreprises sont autorisées à détenir les actions des
+sociétés d'investissement à capital variable et les parts des fonds communs de placement de la loi n° 88-1201 du 23 décembre
+1988, à l'exclusion des organismes régis par les chapitres III, IV et V ; elles sont également autorisées à détenir les
+actions des sociétés d'investissement à capital variable et les parts des fonds communs de placement régis par les
+réglementations des autres Etats membres de la Communauté économique européenne, pour autant que ces règles soient conformes
+à la directive communautaire du 20 décembre 1985 relative aux organismes de placement collectif en valeurs mobilières.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°51-675 1951-05-24
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Cite_:
+
+  - Loi n°88-1201 1988-12-23
+
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 15 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 8 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29481,66 +29400,33 @@ _Anciens textes_:
   - Décret n°1938-12-30 art. 155
 
 
-###### Article R332-14-1
+###### Article R332-15
 
-Les créances mentionnées au 19° bis de l'article R. 332-2 sont admises en représentation des engagements réglementés si elles
-ont fait l'objet d'un cautionnement en espèces ou d'une caution donnée par un établissement de crédit ou d'un nantissement de
-valeurs répondant aux conditions fixées par l'article R. 332-17.
+En application des dispositions du 9° bis de l'article R. 332-2, les entreprises sont autorisées à détenir les parts ou
+actions de sociétés à objet strictement immobilier, à l'exclusion de sociétés ayant une activité de marchand de biens et de
+sociétés en nom collectif, sauf dérogations accordées antérieurement à l'entrée en vigueur du décret n° 90-981 du 5 novembre
+1990. Le patrimoine de ces sociétés ne peut être composé que d'immeubles bâtis ou de terrains situés sur le territoire de
+l'un des Etats membres de l'O. C. D. E., de parts ou actions des sociétés répondant à ces mêmes conditions. 
+
+Les entreprises sont également autorisées à détenir les parts des sociétés civiles à objet strictement foncier dont
+l'activité est limitée à la gestion directe de biens fonciers situés sur le territoire de l'un des Etats membres de l'O. C.
+D. E. ou les parts des groupements ayant pour seule activité la gestion de biens fonciers répondant à ces mêmes conditions.
+Les biens constitutifs du patrimoine doivent faire l'objet d'une exploitation. Les massifs forestiers doivent être assurés
+contre l'incendie.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-_Créé par_:
-
-  - Décret n°89-351 du 2 juin 1989 - art. 4 () JORF 4 juin 1989
-
-_Abrogé par_:
-
-  - Décret n°90-981 du 5 novembre 1990 - art. 9 (V) JORF 6 novembre 1990
-
-_Cité par_:
-
-  - Décret n°2000-142 du 18 février 2000 - art. 11 (V)
-  - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
-  - Code des assurances - art. R332-2 (V)
 
 _Cite_:
 
-  - Code des assurances - art. R332-17 (M)
-
-
-###### Article R332-15
-
-Les prêts immobiliers mentionnés au 20° de l'article R. 332-2 doivent être garantis soit par le privilège de prêteurs de
-deniers visé au 2° de l'article 2103 du code civil, soit par une hypothèque en premier rang. Les inscriptions peuvent être
-prises sur tous immeubles situés sur le territoire de la République française. L'ensemble des privilèges et hypothèques en
-premier rang ne doit pas excéder 65 p. 100 de la valeur vénale de l'immeuble constituant la garantie du prêt, estimée au jour
-de la conclusion du contrat.
-
-Cette valeur est déterminée par les entreprises par tous moyens appropriés en se référant notamment suivant les
-circonstances, soit au prix d'achat résultant de la dernière mutation, soit au prix de revient du sol et des constructions,
-soit au revenu net. En aucun cas, il n'est fait état des frais de mutation non plus que d'autres frais accessoires, tels que
-commissions aux intermédiaires ou intérêts intercalaires. Le revenu net, qui ne doit pas être capitalisé à un taux d'intérêt
-inférieur à 5 %, est le revenu brut diminué de toutes charges, y compris les charges d'entretien. La détermination de la
-valeur vénale par capitalisation du revenu net ne peut être utilisée que si le revenu brut pris en considération est effectif
-pour les deux tiers au moins.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
+  - Décret n°90-981 du 5 novembre 1990 (V)
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 14, art. 16 JORF 23 novembre 1984
-
-_Cite_:
-
-  - Code civil - art. 2103 (M)
+  - Décret n°90-981 du 5 novembre 1990 - art. 10 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29554,9 +29440,18 @@ _Anciens textes_:
 
 ###### Article R332-16
 
-Lorsqu'elles ne sont pas inscrites en compte, les valeurs mobilières détenues par les entreprises doivent être représentées
-soit par des certificats ou titres nominatifs, soit par des récépissés de la Banque de France ou de la Caisse des dépôts et
-consignations, soit par des justifications de dépôt auprès d'un intermédiaire habilité.
+Les valeurs mobilières et titres assimilés, les parts ou actions des sociétés immobilières ou foncières doivent faire l'objet
+soit d'une inscription en compte, ou d'un dépôt, auprès d'un établissement visé au dernier alinéa, soit d'une inscription
+nominative dans les comptes de l'organisme émetteur, à condition que celui-ci soit situé en France.
+
+Les actes de propriété des actifs immobiliers, les actes et les titres consacrant les prêts ou créances doivent être
+conservés sur le territoire de la République française.
+
+Les comptes de dépôt visés au 13° de l'article R. 332-2 doivent être ouverts auprès d'un établissement situé en France. La
+tenue des comptes est effectuée par les établissements de crédit, les comptables du Trésor, les centres de chèques postaux,
+la Banque de France, la Caisse des dépôts et consignations. Ils doivent être libellés au nom de l'entreprise ou de
+l'établissement situé en France et ne peuvent être débités qu'avec l'accord d'un dirigeant ou du mandataire général de
+l'établissement ou encore d'une personne désignée par eux à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -29566,7 +29461,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 17 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 11 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29594,11 +29489,8 @@ _Anciens textes_:
 
 ###### Article R332-17
 
-La garantie des créances sur les réassureurs mentionnée à l'article R. 332-3-3 est constituée par le nantissement de valeurs
-mobilières ou de parts de fonds communs de placement mentionnées aux 1°, 3°, 4° et 9° de l'article R. 332-2, ou, sur
-autorisation donnée cas par cas par le ministre chargé de l'économie et des finances, par le nantissement de parts ou
-d'actions visées au 11° ou 13° du même article. Les parts des sociétés civiles qui ne sont pas inscrites au registre du
-commerce et des sociétés ne peuvent être reçues en nantissement.
+La garantie des créances sur les réassureurs mentionnée à l'article R. 332-3-3 est constituée par le nantissement des valeurs
+visées aux 1°, 2°, 2° bis, 3°, 4°, 8° et 9° bis de l'article R. 332-2.
 
 Les valeurs reçues en nantissement sont évaluées conformément aux dispositions du 2° de l'article R. 332-20. Pour
 l'estimation des valeurs mentionnées au 1° de l'article R. 332-2, la fraction courue du coupon est prise en compte.
@@ -29611,7 +29503,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 18 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 12 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29637,192 +29529,35 @@ _Nouveaux textes_:
 
 ##### Section III : Estimation des éléments d'actif.<a id=291></a>
 
-###### Article R*332-21
-
-A l'exception des valeurs évaluées comme il est dit à l'article R. 332-19, les entreprises qui, à la date du dernier bilan,
-constataient valeur par valeur les moins-values éventuelles, continuent à faire application de cette méthode. Elles peuvent y
-renoncer à tout moment en le notifiant au ministre de l'économie et des finances et faire désormais application des règles
-d'estimation fixées par l'article R. 332-20. Cette renonciation est définitive.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
-  - Décret n°2004-342 du 21 avril 2004 - art. 30 (Ab)
-  - Décret n°2007-1883 du 26 décembre 2007 - art. 1
-  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
-  - Code des assurances - art. R342-2 (VT)
-  - Code des assurances - art. R343-2 (Ab)
-  - Code des assurances - art. R441-7 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R*332-19 (M)
-  - Code des assurances - art. R*332-20 (M)
-
-
 ###### Article R*332-22
 
-Le ministre de l'économie et des finances peut, à titre exceptionnel et en imposant toutes les conditions que comporte un tel
+La commission de contrôle des assurances peut, à titre exceptionnel et en imposant toutes les conditions que comporte un tel
 ajournement, accorder aux entreprises dont la gestion n'est entachée d'aucune faute lourde le délai strictement nécessaire
 pour constituer la provision pour dépréciation des immobilisations et titres prévue au 3° de l'article R. 332-20.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 177
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
+
+_Abrogé par_:
+
+  - Décret n°94-481 du 8 juin 1994 - art. 5 () JORF 11 juin 1994
 
 _Cite_:
 
   - Code des assurances - art. R*332-20 (M)
 
 
-###### Article R*332-23
-
-Le ministre de l'économie et des finances peut requérir la fixation par une expertise de la valeur de tout ou partie de
-l'actif des entreprises et notamment des immeubles et des parts et actions de sociétés immobilières leur appartenant ou sur
-lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire.
-
-Cette expertise peut être également demandée au ministre de l'économie et des finances par les entreprises.
-
-Si l'expertise fait apparaître une valeur inférieure à celle inscrite au bilan, la perte ainsi constatée est amortie dans
-l'exercice nonobstant les dispositions de l'article 4 du décret n° 65-968 du 28 octobre 1965. Les amortissements ainsi
-pratiqués devront être pris en considération lors de la cession ultérieure des immeubles pour déterminer dans quelle mesure
-la plus-value provenant de cette cession constituerait une plus-value à court terme.
-
-Si elle fait apparaître une valeur supérieure, cette valeur doit figurer dans l'évaluation de la valeur de réalisation des
-placements prévue à l'article R. 332-20, 2°. Elle peut également être inscrite à l'actif du bilan dans les limites et les
-conditions fixées, dans chaque cas, par le ministre de l'économie et des finances.
-
-Les conditions de l'expertise sont fixées par décret pris après avis du conseil national des assurances et les frais en sont
-à la charge des entreprises.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 176
-
-_Cite_:
-
-  - Décret n°65-968 1965-10-28 art. 4
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
-  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-  - Code des assurances - art. A131-4 (M)
-  - Code des assurances - art. A332-5 (Ab)
-  - Code des assurances - art. R332-20 (V)
-  - Code des assurances - art. R332-20-1 (V)
-  - Code des assurances - art. R343-2 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R332-25 (M)
-  - TXT_ASSOCIE: Code des assurances R332-24 à R332-29
-
-
-###### Article R*332-30
-
-Les dépenses de mobilier et de matériel, ainsi que les dépenses d'établissement effectuées à quelque époque que ce soit, à
-l'exclusion des commissions versées d'avance aux intermédiaires et dont l'amortissement est effectué conformément aux
-dispositions de l'article R. 332-33, doivent être amorties en dix ans au plus à compter de la date à laquelle elles ont été
-engagées et par fractions annuelles d'un dixième au moins.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Code des assurances - art. R*322-9 (Ab)
-  - Code des assurances - art. R343-4 (M)
-
-_Cite_:
-
-  - Code des assurances - art. R*332-33 (M)
-
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 7, art. 42
-
-
-###### Article R*332-31
-
-Les immeubles, ainsi que les parts et actions de sociétés immobilières non inscrites à la cote des bourses françaises de
-valeurs et définies à l'article 1655 ter du code général des impôts, font l'objet d'un amortissement annuel de 1 p. 100.
-
-Le ministre de l'économie et des finances peut fixer un taux d'amortissement plus élevé pour les immeubles faisant l'objet
-d'une dépréciation rapide. Dans ce cas, l'amortissement est calculé par application de ce taux au prix de revient des
-constructions proprement dites à l'exclusion des sols.
-
-Les dispositions des deux alinéas précédents ne s'appliquent pas aux immeubles, parts et actions entrés dans le patrimoine
-des entreprises d'assurance ou de capitalisation après le 31 décembre 1981.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1655 ter
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°81-591 du 15 mai 1981 - art. 7 () JORF 19 mai 1981
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°81-591 du 15 mai 1981 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Décret n°90-981 du 5 novembre 1990 - art. 18 (V) JORF 6 novembre 1990
-
-
-###### Article R*332-32
-
-Lors de l'inventaire, toutes les valeurs détenues par les entreprises pratiquant des opérations tontinières sont estimées au
-prix d'achat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Nouveaux textes_:
-
-  - Code des assurances R332-30 (2ème version)
-
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 167
-
-
 ###### Article R332-19
 
 Les valeurs mobilières amortissables énumérées aux 1° et 2° de l'article R. 332-2, autres que les obligations indexées ou
-participantes et les titres participatifs, sont évaluées à leur prix d'achat.
+participantes, les parts de fonds communs de créance et les titres participatifs, sont évaluées à leur prix d'achat.
 
 Lorsque le prix d'achat est supérieur à la valeur nette de remboursement, l'estimation est faite à cette valeur. Si cependant
 le cours de la bourse du jour de l'inventaire, évalué conformément au 2°, a, de l'article R. 332-20, est lui-même supérieur à
@@ -29837,7 +29572,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 19 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 14 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29875,40 +29610,37 @@ l'objet d'une double évaluation :
 
 a) Les valeurs mobilières et les parts de fonds communs de placement sont retenues pour leur prix d'achat ;
 
-b) Les immeubles et les parts ou actions de sociétés immobilières non inscrites à la cote officielle ou à la cote du second
-marché des bourses françaises de valeurs sont retenus pour leur prix d'achat ou de revient ou, dans les conditions fixées
-dans chaque cas par le ministre de l'économie et des finances, pour une valeur déterminée après expertise effectuée
-conformément à l'article R. 332-23. Ces valeurs sont diminuées des amortissements pratiqués. Le prix de revient des immeubles
-est celui qui ressort des travaux de construction et d'amélioration, à l'exclusion des travaux d'entretien proprement dits ;
+b) Les immeubles et les parts ou actions des sociétés immobilières ou foncières non inscrites à la cote d'une bourse de
+valeurs d'un Etat membre de l'O.C.D.E. sont retenus pour leur prix d'achat ou de revient ou, dans les conditions fixées dans
+chaque cas par la commission de contrôle des assurances, pour une valeur déterminée après expertise effectuée conformément à
+l'article R. 332-23. Les valeurs sont diminuées des amortissements pratiqués. Le prix de revient des immeubles est celui qui
+ressort des travaux de construction et d'amélioration, à l'exclusion des travaux d'entretien proprement dits.
 
 c) Les prêts sont évalués d'après les actes qui en font foi ;
 
-d) Les nues-propriétés et les usufruits sont évalués suivant les règles déterminées par arrêté du ministre de l'économie et
-des finances pris après avis du conseil national des assurances.
+d) Les nues-propriétés et les usufruits sont évalués suivant les règles déterminées par la commission de contrôle des
+assurances.
 
 Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les provisions pour dépréciation.
 
-2° Il est ensuite procédé à une évaluation de la valeur de réalisation des placements ;
+2° Il est ensuite procédé à une évaluation de la valeur de réalisation des placements :
 
-a) Les valeurs mobilières cotées sont retenues :
+a) Les valeurs mobilières cotées sont retenues pour le dernier cours coté au jour de l'inventaire ;
 
-- en ce qui concerne les valeurs inscrites à la cote officielle ou à la cote du second marché des bourses françaises de
-valeur, pour le cours le plus bas du jour de l'inventaire ;
+b) Les titres non cotés sont retenus pour leur valeur vénale correspondant au prix qui en serait obtenu dans des conditions
+normales de marché et en fonction de l'utilité du bien pour l'entreprise ;
 
-- en ce qui concerne les valeurs étrangères non inscrites à la cote officielle ou à la cote du second marché des bourses
-françaises de valeurs, pour le dernier cours connu au jour de l'inventaire ;
-
-b) Les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placement sont retenues pour
+c) Les actions de sociétés d'investissement à capital variable et les parts de fonds communs de placement sont retenues pour
 le dernier prix de rachat publié au jour de l'inventaire ;
 
-c) Les autres placements sont retenus pour leur valeur déterminée comme il est prévu au 1° ci-dessus, sauf dans le cas où une
-autre valeur résulte soit d'une expertise effectuée dans les conditions prévues à l'article R. 332-23, soit d'un accord entre
-le ministre chargé de l'économie et des finances et l'entreprise.
+d) La valeur de réalisation des immeubles et des parts ou actions des sociétés immobilières ou foncières non inscrites à la
+cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E. est déterminée sur la base d'une expertise quinquennale effectuée
+par un expert accepté par la commission de contrôle des assurances. Entre deux expertises, la valeur fait l'objet d'une
+estimation annuelle, certifiée par un expert accepté par la commission de contrôle des assurances.
 
-En ce qui concerne les prêts immobiliers, le montant à retenir pour la présente évaluation ne peut être réduit que s'il est
-reconnu que la valeur de l'immeuble, au moment de la réalisation du prêt, était inférieure à 1,54 fois le montant de la somme
-prêtée ou si, à une époque postérieure à la réalisation du prêt, la valeur de l'immeuble est tombée au-dessous du montant de
-la somme restant à rembourser ;
+e) Les autres placements sont retenus pour leur valeur déterminée comme il est prévu au 1° ci-dessus, sauf dans le cas où une
+autre valeur résulte soit d'une expertise effectuée dans les conditions prévues à l'article R. 332-23, soit d'un accord entre
+la commission de contrôle des assurances et l'entreprise.
 
 3° La valeur inscrite au bilan est celle qui résulte de l'application du 1° du présent article. Dans le cas où la valeur de
 réalisation de l'ensemble des placements estimée comme il est dit au 2° lui est inférieure, il est constitué une provision
@@ -29919,6 +29651,11 @@ pour dépréciation égale à la différence entre ces deux valeurs.
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°90-981 du 5 novembre 1990 - art. 15 () JORF 6 novembre 1990
+  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -29962,9 +29699,77 @@ _Cite_:
 
   - Code des assurances - art. R*332-2 (M)
 
+
+###### Article R332-21
+
+A l'exception des valeurs évaluées comme il est dit à l'article R. 332-19, les entreprises qui, à la date du dernier bilan,
+constataient valeur par valeur les moins-values éventuelles, continuent à faire application de cette méthode. Elles peuvent y
+renoncer à tout moment en le notifiant à la commission de contrôle des assurances et faire désormais application des règles
+d'estimation fixées par l'article R. 332-20. Cette renonciation est définitive.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-84 art. 20 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
+
+_Cité par_:
+
+  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+  - Décret n°2004-342 du 21 avril 2004 - art. 30 (Ab)
+  - Décret n°2007-1883 du 26 décembre 2007 - art. 1
+  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
+  - Code des assurances - art. R342-2 (VT)
+  - Code des assurances - art. R343-2 (Ab)
+  - Code des assurances - art. R441-7 (V)
+
+_Cite_:
+
+  - Code des assurances - art. R*332-19 (M)
+  - Code des assurances - art. R*332-20 (M)
+
+
+###### Article R332-23
+
+La commission de contrôle des assurances peut requérir la fixation par une expertise de la valeur de tout ou partie de
+l'actif des entreprises et notamment des immeubles et des parts et actions de sociétés immobilières leur appartenant ou sur
+lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire.
+
+Cette expertise peut être également demandée à la commission de contrôle des assurances par les entreprises.
+
+La valeur résultant de l'expertise doit figurer dans l'évaluation de la valeur de réalisation des placements prévue à
+l'article R. 332-20 (2°). Elle peut également être inscrite à l'actif du bilan dans les limites et les conditions fixées dans
+chaque cas par la commission de contrôle des assurances.
+
+Les conditions de l'expertise sont fixées par décret et les frais en sont à la charge des entreprises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°90-981 du 5 novembre 1990 - art. 16 () JORF 6 novembre 1990
+
+_Cité par_:
+
+  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+  - Code des assurances - art. A131-4 (M)
+  - Code des assurances - art. A332-5 (Ab)
+  - Code des assurances - art. R332-20 (V)
+  - Code des assurances - art. R332-20-1 (V)
+  - Code des assurances - art. R343-2 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R332-25 (M)
 
 
 ###### Article R332-24
@@ -29993,46 +29798,56 @@ _Anciens textes_:
 
 ###### Article R332-25
 
-Le ministre de l'économie et des finances notifie à l'entreprise, par lettre recommandée, la liste des éléments de l'actif
-dont la valeur est à expertiser et le nom de l'expert qu'il a choisi pour chacun d'eux.
+La commission de contrôle des assurances notifie à l'entreprise, par lettre recommandée, la liste des éléments de l'actif
+dont la valeur est à expertiser et le nom de l'expert qu'elle a choisi pour chacun d'eux.
 
-Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre, l'entreprise fait connaître au ministre, par lettre
-recommandée, pour chacun des éléments susmentionnés, si elle accepte l'expert désigné par le ministre comme expert unique,
-dont la conclusion liera les deux parties, ou si elle demande une expertise contradictoire, d'abord par deux experts, le
-premier désigné par le ministre, le second désigné par l'entreprise, puis, en cas de désaccord entre ces deux experts, par un
-tiers expert, dont la conclusion liera les deux parties.
+Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre, l'entreprise fait connaître à la commission, par
+lettre recommandée, pour chacun des éléments susmentionnés, si elle accepte l'expert désigné par la commission comme expert
+unique, dont la conclusion liera les deux parties, ou si elle demande une expertise contradictoire, d'abord par deux experts,
+le premier désigné par la commission, le second désigné par l'entreprise, puis, en cas de désaccord entre ces deux experts,
+par un tiers expert, dont la conclusion liera les deux parties.
 
 En cas d'option pour l'expertise contradictoire, l'entreprise indique dans sa réponse le nom, l'adresse et les qualités de
 son expert et joint à cette réponse une lettre de ce dernier acceptant la mission et se déclarant prêt à l'effectuer dans le
 délai ci-après fixé.
 
-Dès qu'il a reçu la réponse mentionnée aux deux alinéas précédents, le ministre invite l'expert unique ou les deux experts à
-procéder à l'expertise. Il donne communication de cet avis à l'entreprise.
+Dès qu'il a reçu la réponse mentionnée aux deux alinéas précédents, la commission invite l'expert unique ou les deux experts
+à procéder à l'expertise. Elle donne communication de cet avis à l'entreprise.
 
 L'expert unique ou les deux experts doivent déposer leurs conclusions et les notifier aux deux parties dans un délai maximal
-de trois mois à dater de l'avis du ministre, ci-dessus prévu.
+de trois mois à dater de l'avis de la commission, ci-dessus prévu.
 
 S'il y a désaccord entre les conclusions des deux experts, il est immédiatement procédé à la désignation du tiers expert,
-soit, après accord entre les parties, par le ministre, soit, à défaut d'accord entre les parties, dans les quinze jours du
+soit, après accord entre les parties, par la commission, soit, à défaut d'accord entre les parties, dans les quinze jours du
 dépôt des conclusions des deux experts, à la requête de la partie la plus diligente, par le président du tribunal de grande
-instance de la situation du siège social statuant en référé sur assignation.
+instance de la situation du siège social ou du siège spécial pour la France, ou, dans le cas des opérations visées par
+l'article L. 351-5, du lieu de situation des actifs immobiliers, statuant en référé sur assignation.
 
 Le tiers expert doit déposer ses conclusions et les notifier aux deux parties dans les deux mois de sa désignation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1941-08-02 art. 2
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°90-982 du 5 novembre 1990 - art. 1 () JORF 6 novembre 1990
+  - Décret n°90-982 du 5 novembre 1990 - art. 2 () JORF 6 novembre 1990
 
 _Cité par_:
 
   - Décret n°2007-243 du 23 février 2007 - art. 13 (V)
   - Code des assurances - art. R332-26 (VT)
+
+_Cite_:
+
+  - Code des assurances - art. L351-5 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*332-23 (M)
 
 
 ###### Article R332-26
@@ -30119,15 +29934,44 @@ _Codifié par_:
   - Décret n°76-667 1976-07-16
 
 
+###### Article R332-30
+
+Lors de l'inventaire, toutes les valeurs détenues par les entreprises pratiquant les branches 23 ou 28 sont estimées
+conformément aux dispositions du 2° de l'article R. 332-20.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°90-981 du 5 novembre 1990 - art. 19 () JORF 6 novembre 1990
+
+_Cité par_:
+
+  - Code des assurances - art. R*322-9 (Ab)
+  - Code des assurances - art. R343-4 (M)
+
+_Cite_:
+
+  - Code des assurances - art. R*332-20 (M)
+
+_Anciens textes_:
+
+  - Code des assurances R332-32
+
+
 ##### Section IV : Commissions et frais d'acquisition à amortir.<a id=292></a>
 
 ###### Article R332-33
 
 Les entreprises qui versent des commissions à leurs représentants ou à leurs intermédiaires sans les amortir dans l'exercice
 peuvent inscrire ces avances à l'actif de leur bilan, dans un compte "Commissions à amortir". Ce compte doit être établi dans
-les conditions déterminées par décret pris après avis du conseil national des assurances. Le compte correspondant à chaque
-exercice doit être amorti en cinq ans au plus. Les dispositions du présent décret ne sont applicables qu'aux entreprises
-pratiquant les opérations des branches 1 à 17 mentionnées à l'article R. 321-1.
+les conditions déterminées par décret. Le compte correspondant à chaque exercice doit être amorti en cinq ans au plus. Les
+dispositions du présent décret ne sont applicables qu'aux entreprises pratiquant les opérations des branches 1 à 17
+mentionnées à l'article R. 321-1.
 
 **Liens relatifs à cet article**
 
@@ -30140,12 +29984,12 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
   - TXT_SOURCE: Code des assurances - art. R332-34 (Ab)
   - TXT_ASSOCIE: Code des assurances - art. R332-34 (M)
-  - TXT_SOURCE: Code des assurances - art. R332-35 (Ab)
+  - TXT_ASSOCIE: Code des assurances - art. R332-35 (Ab)
   - TXT_SOURCE: Code des assurances - art. R332-36 (Ab)
 
 _Modifié par_:
 
-  - Décret n°88-456 du 27 avril 1988 - art. 2 () JORF 29 avril 1988
+  - Décret n°90-981 du 5 novembre 1990 - art. 17 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -30296,20 +30140,19 @@ _Cité par_:
 ###### Article R332-39
 
 Chaque année, avant le 30 juin, les entreprises mentionnées à l'article R. 332-37 doivent justifier, dans les conditions
-déterminées par le ministre chargé de l'économie et des finances du dépôt ou de l'inscription en compte à la Caisse des
+fixées par arrêté du ministre chargé de l'économie et des finances, du dépôt ou de l'inscription en compte à la Caisse des
 dépôts et consignations ou à la Banque de France d'actifs affectés à la représentation :
 
 1° Des provisions techniques au 31 décembre de l'exercice précédent, telles qu'elles sont prévues aux articles R. 331-3, R.
-331-5 et R. 331-6, à l'exclusion des provisions afférentes aux opérations mentionnées aux 4 à 7, 11, 12 et 30 de l'article R.
-321-1 ;
+331-5 et R. 331-6, à l'exclusion des provisions afférentes aux opérations mentionnées aux 4 à 7, 11 et 12 de l'article R.
+321-1 et aux opérations de réassurance.
 
 2° D'une majoration forfaitaire égale à 30 p. 100 de l'augmentation, constatée au cours de l'exercice précédent, des
-provisions techniques mentionnées au 1° ci-dessus. Toutefois, le ministre chargé de l'économie et des finances peut, sur
-demande de l'entreprise accompagnée de toutes justifications utiles, accorder dispense totale ou partielle de l'obligation de
-dépôt ou d'inscription en compte afférente à cette majoration.
+provisions techniques mentionnées au 1° ci-dessus. Toutefois, la commission de contrôle des assurances peut, sur demande de
+l'entreprise accompagnée de toutes justifications utiles, accorder dispense totale ou partielle de l'obligation de dépôt ou
+d'inscription en compte afférente à cette majoration.
 
-Le dépôt ou l'inscription en compte de ces actifs est soumis au visa préalable du ministre chargé de l'économie et des
-finances.
+Le dépôt ou l'inscription en compte de ces actifs est soumis au visa préalable de la commission de contrôle des assurances.
 
 **Liens relatifs à cet article**
 
@@ -30319,7 +30162,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 24 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 20 () JORF 6 novembre 1990
+  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -30333,7 +30177,7 @@ _Cite_:
   - Code des assurances - art. R*331-5 (M)
   - Code des assurances - art. R*331-6 (M)
   - Code des assurances - art. R*332-37 (M)
-  - Code des assurances R321-1, R331-3, R331-5, R331-6, R332-37
+  - Code des assurances R332-37, R331-3, R331-5, R331-6, R321-1
 
 **Liens**:
 
@@ -30379,8 +30223,8 @@ des dépôts et consignations ou à la Banque de France à cette date, sont pris
 bilan du même exercice ;
 
 2° Les titres acquis et déposés ou inscrits en compte à la Caisse des dépôts et consignations ou à la Banque de France après
-le 31 décembre de l'exercice précédent sont évalués au cours le plus bas de la dernière bourse précédant le jour du dépôt ou
-de l'inscription en compte ou, à défaut, au prix de souscription ou d'achat.
+le 31 décembre de l'exercice précédent sont évalués au dernier cours coté précédant le jour du dépôt ou de l'inscription en
+compte ou, à défaut, au prix de souscription ou d'achat.
 
 **Liens relatifs à cet article**
 
@@ -30390,7 +30234,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 26 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 21 () JORF 6 novembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 8
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
 
 
 ###### Article R332-42
@@ -30406,11 +30258,9 @@ l'établissement dépositaire ou teneur de compte ;
 lieu qu'à des intervalles supérieurs à trois mois et sur justification d'une réduction au moins équivalente desdites
 provisions.
 
-Les titres faisant l'objet d'un retrait ou d'un virement sont estimés au cours le plus bas de la dernière bourse précédant le
-jour de l'opération.
+Les titres faisant l'objet d'un retrait ou d'un virement sont estimés au dernier cours coté précédant le jour de l'opération.
 
-Tout retrait ou virement d'actifs ne peut être effectué que sur visa préalable du ministre chargé de l'économie et des
-finances.
+Tout retrait ou virement d'actifs ne peut être effectué que sur visa préalable de la commission de contrôle des assurances.
 
 **Liens relatifs à cet article**
 
@@ -30420,20 +30270,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 27 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 22 () JORF 6 novembre 1990
+  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
 
 _Cité par_:
 
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
   - Code des assurances - art. R332-37 (VT)
 
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
-
 _Cite_:
 
   - Code des assurances - art. R*332-38 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
 
 
 ###### Article R332-43
@@ -30467,8 +30318,8 @@ _Cité par_:
 
 ###### Article R332-44
 
-Le ministre chargé de l'économie et des finances arrête la valeur pour laquelle les actifs immobiliers et les prêts peuvent
-être affectés à la représentation des provisions techniques des entreprises mentionnées à l'article R. 332-37.
+Le transfert à l'étranger d'éléments d'actifs détenus par une entreprise est soumis à autorisation préalable de la commission
+de contrôle des assurances.
 
 **Liens relatifs à cet article**
 
@@ -30478,11 +30329,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 29, art. 30 JORF 23 novembre 1984
-
-_Cite_:
-
-  - Code des assurances - art. R*332-37 (M)
+  - Décret n°90-981 du 5 novembre 1990 - art. 23 () JORF 6 novembre 1990
 
 **Liens**:
 
@@ -30563,8 +30410,8 @@ comprend la fraction courue du coupon, des versements ou des prélèvements sont
 prévue aux articles R. 331-3 et R. 331-6.
 
 Le montant de ces versements ou prélèvements, calculé dans les conditions fixées par arrêté du ministre chargé de l'économie
-et des finances pris après avis du conseil national des assurances doit être tel que le rendement actuarial des titres soit,
-après prélèvement ou versement, égal à celui qui en était attendu lors de l'acquisition de ces mêmes titres.
+et des finances doit être tel que le rendement actuarial des titres soit, après prélèvement ou versement, égal à celui qui en
+était attendu lors de l'acquisition de ces mêmes titres.
 
 **Liens relatifs à cet article**
 
@@ -30574,7 +30421,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 32, art. 33 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 17 () JORF 6 novembre 1990
 
 _Cité par_:
 
@@ -30604,8 +30451,7 @@ _Cite_:
 Les entreprises d'assurance sur la vie, d'assurance nuptialité-natalité ou de capitalisation doivent maintenir le revenu net
 de leurs placements à un montant au moins égal à celui des intérêts dont sont créditées les provisions mathématiques.
 
-Un arrêté du ministre chargé de l'économie et des finances, pris après avis du conseil national des assurances, fixe les
-modalités d'application du présent article.
+Un arrêté du ministre chargé de l'économie et des finances fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -30615,7 +30461,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 33 JORF 23 novembre 1984
+  - Décret n°90-981 du 5 novembre 1990 - art. 17 () JORF 6 novembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 _Cité par_:
 
@@ -47998,201 +47848,7 @@ _Cite_:
 
 #### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=466></a>
 
-##### Section I : Eléments d'actif admis en représentation des engagements réglementés.<a id=467></a>
-
-###### Article A332-1
-
-En application des dispositions du 6° de l'article R. 332-2, les entreprises sont autorisées à détenir les parts des fonds
-communs de placement du titre II bis de la loi du 13 juillet 1979 dont le portefeuille est composé, à concurrence de 50 p.
-100 participation au moins, de valeurs françaises.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Modifié par_:
-
-  - Arrêté 1977-06-15 art. 1 JORF 30 juin 1977
-  - Arrêté 1981-02-05 art. 1 JORF 18 février 1981
-  - Arrêté 1982-06-01 art. 1 JORF 12 juin 1982
-  - Arrêté 1985-03-05 art. 1 JORF 31 mars 1985
-
-_Abrogé par_:
-
-  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
-
-_Cite_:
-
-  - Loi n°79-594 du 13 juillet 1979 - art. 39-1 (M)
-  - Loi n°79-594 du 13 juillet 1979 - art. 39-2 (M)
-  - Loi n°79-594 du 13 juillet 1979 - art. 39-3 (Ab)
-  - Code des assurances - art. R*332-2 (M)
-
-_Cité par_:
-
-  - Arrêté du 5 novembre 1990 - art. 1 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*332-3 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R332-3 (M)
-
-
-###### Article A332-1 bis
-
-En application des dispositions du 5° de l'article R. 332-3, les actions d'une même société d'investissement à capital
-variable dont l'objet est limité à la gestion d'un portefeuille de valeurs mentionnées aux 1° et 2° de l'article R. 332-2
-peuvent représenter jusqu'à 10 p. 100 du montant du bilan des valeurs énumérées à l'article précité et affectées à la
-représentation des provisions techniques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Créé par_:
-
-  - Arrêté 1977-06-15 art. 1 JORF 30 juin 1977
-
-_Abrogé par_:
-
-  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
-
-_Cite_:
-
-  - Code des assurances - art. R*332-2 (M)
-  - Code des assurances - art. R*332-3 (M)
-
-
-###### Article A332-2
-
-En application des dispositions du 9° de l'article R. 332-2, les entreprises sont autorisées à détenir les actions des
-sociétés d'investissement à capital variable et les parts des fonds communs de placement du titre 1er de la loi du 13 juillet
-1979 dont le portefeuille est composé, à concurrence de 50 p. 100 au moins, de valeurs françaises.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1972-12-06 art. 1
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Modifié par_:
-
-  - Arrêté 1981-02-05 art. 2 JORF 18 février 1981
-  - Arrêté 1985-03-05 art. 1 JORF 31 mars 1985
-
-_Abrogé par_:
-
-  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
-
-_Cite_:
-
-  - Loi n°79-594 1979-07-13
-  - Code des assurances - art. R*332-2 (M)
-
-_Cité par_:
-
-  - Arrêté du 5 novembre 1990 - art. 1 (V)
-  - Arrêté du 8 décembre 1998 - art. 1 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*332-2 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R332-2 (M)
-
-
-###### Article A332-3
-
-La liste mentionnée au 22° de l'article R. 332-2 est établie comme suit :
-
-Bons émis par la banque française du commerce extérieur, la caisse centrale de crédit coopératif, la caisse française des
-matières premières, la caisse nationale de crédit agricole, le crédit foncier de France, le crédit national et la société
-française de financement des télécommunications (Francetel).
-
-Billets de la société nationale des chemins de fer français.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Modifié par_:
-
-  - Arrêté 1985-03-05 art. 1 JORF 31 mars 1985
-
-_Abrogé par_:
-
-  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
-
-_Cité par_:
-
-  - Arrêté du 5 novembre 1990 - art. 1 (V)
-  - Arrêté du 8 décembre 1998 - art. 1 (V)
-  - Code des assurances - art. A332-4 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R*332-2 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*332-2 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R332-2 (M)
-
-
-###### Article A332-4
-
-La liste mentionnée au 1° de l'article R. 332-3-1 est établie comme suit :
-
-Aéroport de Paris, Banque française du commerce extérieur, Banque européenne d'investissement, Caisse d'aide à l'équipement
-des collectivités locales (valeurs émises ou gérées), Caisse centrale de coopération économique, Caisse nationale des
-autoroutes, Caisse nationale de crédit agricole, Caisse nationale de l'énergie, Caisse nationale des télécommunications,
-Charbonnages de France, Communauté européenne du charbon et de l'acier, Communauté européenne de l'énergie atomique
-(Euratom), Compagnie nationale Air France, Compagnie nationale du Rhône, Crédit foncier et communal d'Alsace et de Lorraine,
-Crédit foncier de France, Crédit national, Electricité de France, Eurodif S.A., Gaz de France, Régie autonome des transports
-parisiens, Société anonyme de gestion et de contrôle de participations (Sapar), Société française de financement des
-télécommunications (Francetel), Société nationale des chemins de fer français.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Modifié par_:
-
-  - Arrêté 1985-03-05 art. 1 JORF 31 mars 1985
-
-_Abrogé par_:
-
-  - Arrêté 1989-11-17 art. 1 JORF 28 novembre 1989
-  - Arrêté 1990-11-05 art. 1 JORF 6 novembre 1990
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1989-11-17 art. 2 *dispositions transitoires*
-  - TXT_SOURCE: Code des assurances - art. R*332-2 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R332-2 (M)
-
-_Cité par_:
-
-  - Arrêté du 17 novembre 1989 - art. 1 (V)
-  - Arrêté du 5 novembre 1990 - art. 1 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R332-3-1 (M)
-
-
-##### Section III : Estimation des éléments d'actif.<a id=468></a>
+##### Section III : Estimation des éléments d'actif.<a id=467></a>
 
 ###### Article A332-5
 
@@ -48269,7 +47925,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code des assurances - art. R332-20 (M)
 
 
-#### Chapitre III : Revenu des placements.<a id=469></a>
+#### Chapitre III : Revenu des placements.<a id=468></a>
 
 ###### Article A333-2
 
@@ -48551,11 +48207,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*333-2 (M)
 
 
-#### Chapitre IV : Solvabilité des entreprises<a id=470></a>
+#### Chapitre IV : Solvabilité des entreprises<a id=469></a>
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=471></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=470></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=472></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=471></a>
 
 ###### Article A334-1
 
@@ -48594,9 +48250,9 @@ _Cite_:
   - Code des assurances - art. R334-11 (V)
 
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=473></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=472></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=474></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=473></a>
 
 ###### Article A334-2
 
@@ -48626,11 +48282,11 @@ _Cite_:
   - Code des assurances - art. R*334-11 (M)
 
 
-#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=475></a>
+#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=474></a>
 
-##### Section I : Tarifs.<a id=476></a>
+##### Section I : Tarifs.<a id=475></a>
 
-##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=477></a>
+##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=476></a>
 
 ###### Article A335-9-2
 
@@ -48735,9 +48391,9 @@ _Cité par_:
   - Code des assurances - art. Annexe à l'article A121-1 (VD)
 
 
-##### Section I : Tarifs<a id=478></a>
+##### Section I : Tarifs<a id=477></a>
 
-##### Paragraphe 1 : Assurances sur la vie.<a id=479></a>
+##### Paragraphe 1 : Assurances sur la vie.<a id=478></a>
 
 ###### Article A335-1-1
 
@@ -48889,7 +48545,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Paragraphe 2 : Assurances nuptialité et natalité.<a id=480></a>
+##### Paragraphe 2 : Assurances nuptialité et natalité.<a id=479></a>
 
 ###### Article A335-6
 
@@ -48922,7 +48578,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Paragraphe 3 : Opérations de capitalisation.<a id=481></a>
+##### Paragraphe 3 : Opérations de capitalisation.<a id=480></a>
 
 ###### Article A335-7
 
@@ -49021,9 +48677,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Section II : Frais d'acquisition et de gestion<a id=482></a>
+##### Section II : Frais d'acquisition et de gestion<a id=481></a>
 
-##### Paragraphe 1 : Assurances sur la vie et nuptialité-natalité.<a id=483></a>
+##### Paragraphe 1 : Assurances sur la vie et nuptialité-natalité.<a id=482></a>
 
 ###### Article A335-10
 
@@ -49108,7 +48764,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Paragraphe 2 : Assurances populaires.<a id=484></a>
+##### Paragraphe 2 : Assurances populaires.<a id=483></a>
 
 ###### Article A335-12
 
@@ -49190,7 +48846,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Paragraphe 3 : Assurances des véhicules terrestres à moteur.<a id=485></a>
+##### Paragraphe 3 : Assurances des véhicules terrestres à moteur.<a id=484></a>
 
 ###### Article A335-15
 
@@ -49345,9 +49001,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Section II : Frais d'acquisition et de gestion<a id=486></a>
+##### Section II : Frais d'acquisition et de gestion<a id=485></a>
 
-##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=487></a>
+##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=486></a>
 
 ###### Article A335-19
 
@@ -49380,11 +49036,11 @@ _Cité par_:
   - SPEC_APPLI: Code des assurances A335-20, A335-21 *fixation des commissions et rétributions*
 
 
-### Titre IV : Dispositions comptables et statistiques<a id=488></a>
+### Titre IV : Dispositions comptables et statistiques<a id=487></a>
 
-#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=489></a>
+#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=488></a>
 
-##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=490></a>
+##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=489></a>
 
 ###### Article A342-1
 
@@ -49492,9 +49148,9 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R*331-17 (Ab)
 
 
-#### Chapitre IV : Catégories d'assurance et états à produire<a id=491></a>
+#### Chapitre IV : Catégories d'assurance et états à produire<a id=490></a>
 
-##### Section I : Dispositions générales.<a id=492></a>
+##### Section I : Dispositions générales.<a id=491></a>
 
 ###### Article A344-1
 
@@ -49574,7 +49230,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section II : Définition des catégories et sous-catégories.<a id=493></a>
+##### Section II : Définition des catégories et sous-catégories.<a id=492></a>
 
 ###### Article A344-4
 
@@ -49771,7 +49427,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section III : Etats à produire.<a id=494></a>
+##### Section III : Etats à produire.<a id=493></a>
 
 ###### Article A344-7
 
@@ -49839,15 +49495,15 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=495></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=494></a>
 
-### Titre II : Le fonds de garantie<a id=496></a>
+### Titre II : Le fonds de garantie<a id=495></a>
 
-#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=497></a>
+#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=496></a>
 
-##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=498></a>
+##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=497></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=499></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=498></a>
 
 ###### Article A421-1
 
@@ -49887,9 +49543,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R420-69
 
 
-##### Section IV : Régime financier du fonds de garantie<a id=500></a>
+##### Section IV : Régime financier du fonds de garantie<a id=499></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=501></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=500></a>
 
 ###### Article A421-2
 
@@ -49931,9 +49587,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances R420-35
 
 
-##### Section V : Régime financier du fonds de garantie<a id=502></a>
+##### Section V : Régime financier du fonds de garantie<a id=501></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=503></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=502></a>
 
 ###### Article A421-3
 
@@ -50003,7 +49659,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=504></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=503></a>
 
 ###### Article A422-1
 
@@ -50028,11 +49684,11 @@ _Cite_:
   - Code des assurances - art. R422-4 (V)
 
 
-### Titre III : Organismes particuliers d'assurance<a id=505></a>
+### Titre III : Organismes particuliers d'assurance<a id=504></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=506></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=505></a>
 
-##### Section I : Dispositions générales.<a id=507></a>
+##### Section I : Dispositions générales.<a id=506></a>
 
 ###### Article A431-1
 
@@ -50065,9 +49721,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R431-19
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=508></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=507></a>
 
-##### Paragraphe 4 : Risques d'attentat.<a id=509></a>
+##### Paragraphe 4 : Risques d'attentat.<a id=508></a>
 
 ###### Article A431-5
 
@@ -50118,9 +49774,9 @@ _Cite_:
   - Code des assurances - art. L431-10 (V)
 
 
-##### Section III : Opérations de gestion.<a id=510></a>
+##### Section III : Opérations de gestion.<a id=509></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=511></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=510></a>
 
 ###### Article A431-7
 
@@ -50266,7 +49922,7 @@ _Cite_:
   - Loi n°64-706 du 10 juillet 1964 - art. 5 (Ab)
 
 
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=512></a>
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=511></a>
 
 ###### Article A431-8
 
@@ -50427,11 +50083,11 @@ _Cite_:
   - Code des assurances - art. A335-1 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=513></a>
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=512></a>
 
-##### Section III : Risques garantis.<a id=514></a>
+##### Section III : Risques garantis.<a id=513></a>
 
-##### Paragraphe 6 : Dispositions communes.<a id=515></a>
+##### Paragraphe 6 : Dispositions communes.<a id=514></a>
 
 ###### Article A432-1
 
@@ -50676,9 +50332,9 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-#### Chapitre III : La caisse nationale de prévoyance<a id=516></a>
+#### Chapitre III : La caisse nationale de prévoyance<a id=515></a>
 
-##### Section I : Dispositions générales.<a id=517></a>
+##### Section I : Dispositions générales.<a id=516></a>
 
 ###### Article A433-1
 
@@ -50720,7 +50376,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-##### Section V : Tarifs.<a id=518></a>
+##### Section V : Tarifs.<a id=517></a>
 
 ###### Article A433-2
 
@@ -50962,11 +50618,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R433-2
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=519></a>
+### Titre IV : Régimes particuliers d'assurance<a id=518></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=520></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=519></a>
 
-##### Section II : Règles techniques et comptables.<a id=521></a>
+##### Section II : Règles techniques et comptables.<a id=520></a>
 
 ###### Article A441-1
 
@@ -51028,11 +50684,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=522></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=521></a>
 
-### Titre Ier : Présentation des opérations.<a id=523></a>
+### Titre Ier : Présentation des opérations.<a id=522></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=524></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=523></a>
 
 ###### Article A513-1
 
@@ -51404,9 +51060,9 @@ _Cité par_:
   - Arrêté du 31 mars 1992 - art. 1 (V)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=525></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=524></a>
 
-##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=526></a>
+##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=525></a>
 
 ###### Article A514-2
 
@@ -51472,7 +51128,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R514-6
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=527></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=526></a>
 
 ###### Article A516-2
 
