@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-04-23
+Version Consolidée au 2004-05-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -77185,7 +77185,7 @@ _Cite_:
 ###### Article A344-6
 
 I. - Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 et celles soumises au contrôle de l'Etat en application de
-l'article L. 310-1-1 remettent chaque année à la Commission de contrôle des assurances :
+l'article L. 310-1-1 remettent chaque année à la Commission de contrôle :
 
 1° Dans les cinq mois suivant la clôture de l'exercice, le compte rendu détaillé annuel défini à l'article A. 344-8 ci-
 après ;
@@ -77193,13 +77193,16 @@ après ;
 2° Dans les trente jours qui suivent leur approbation par l'assemblée générale, leurs comptes annuels dans les conditions
 définies à l'article A. 344-11 ci-après.
 
-II. - Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 remettent en outre chaque année à la Commission de
-contrôle des assurances avant le 15 mars suivant la clôture de l'exercice les états provisoires définis à l'article A.
+II. - 1° Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 remettent en outre chaque année à la Commission de
+contrôle avant le 15 mars suivant la clôture de l'exercice les états provisoires définis au premier alinéa de l'article A.
 344-12.
 
+2° Les mêmes entreprises remettent chaque année à la commission de contrôle avant le 15 mars suivant la clôture de l'exercice
+les états provisoires définis au deuxième alinéa de l'article A. 344-12.
+
 III. - Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 et celles soumises au contrôle de l'Etat en application
-de l'article L. 310-1-1 remettent à la Commission de contrôle des assurances, dans le mois suivant la fin de chaque
-trimestre, les états relatifs aux opérations réalisées au cours du trimestre définis à l'article A. 344-13.
+de l'article L. 310-1-1 remettent à la Commission de contrôle, dans le mois suivant la fin de chaque trimestre, les états
+relatifs aux opérations réalisées au cours du trimestre définis à l'article A. 344-13.
 
 **Liens relatifs à cet article**
 
@@ -77207,9 +77210,9 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1995-07-28 art. 2 JORF 27 août 1995
+  - Arrêté 2004-04-16 art. 3 JORF 11 mai 2004
 
 _Cité par_:
 
@@ -77228,6 +77231,11 @@ _Cite_:
   - Code des assurances - art. A344-11 (V)
   - Code des assurances - art. L310-1-1 (V)
   - Code des assurances - art. L310-2 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
 ###### Article A344-7
@@ -77308,98 +77316,19 @@ _Cite_:
   - Code des assurances - art. L310-28 (M)
 
 
-###### Article A344-10
-
-Les états d'analyse des comptes visés au 3° du premier alinéa de l'article A. 344-8 sont les suivants :
-
-C 1 Résultats techniques par contrats ;
-
-C 2 Engagements et résultats techniques par pays ;
-
-C 3 Acceptations et cessions en réassurance ;
-
-C 4 Primes par contrats et garanties ;
-
-C 5 Représentation des engagements privilégiés ;
-
-C 6 Marge de solvabilité ;
-
-C 7 Provisionnement des rentes en service ;
-
-C 10 Primes et résultats par année de survenance des sinistres ;
-
-C 11 Sinistres par année de survenance ;
-
-C 12 Sinistres et résultats par année de souscription ;
-
-C 13 Part des réassureurs dans les sinistres ;
-
-C 20 Mouvements des polices, capitaux et rentes ;
-
-C 21 Etat détaillé des provisions techniques ;
-
-C 30 Primes, sinistres et commissions des opérations non-vie dans l'Union européenne ;
-
-C 31 Primes des opérations vie dans l'Union européenne.
-
-Ces états sont établis annuellement d'après les comptes définis à l'article A. 344-9 et dans la forme fixée en annexe au
-présent article.
-
-Les opérations réalisées sur l'ensemble du territoire de la République française ainsi que sur le territoire monégasque sont
-considérées comme opérations en France.
-
-Les affaires directes à l'étranger, ainsi que les affaires acceptées, des catégories 20 à 31 de l'article A. 344-2 sont
-assimilées à des opérations pluriannuelles à prime unique ou non révisable lorsque les usages de marché conduisent à
-rattacher les sinistres par exercice de souscription.
-
-Le cas échéant, les états incluent la part des organismes dispensés d'agrément dans les cotisations ou les prestations.
-
-Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1-1 n'établissent que les états C 1, C 2, C
-3, C 4, C 10, C 11, C 12, C 13 et C 21.
-
-(annexe non reproduite, voir au Journal officiel).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Créé par_:
-
-  - Arrêté 1995-07-28 art. 2 JORF 27 août 1995
-
-_Cité par_:
-
-  - Arrêté du 28 juillet 1995 - art. 4 (V)
-  - Code de la mutualité - art. Annexe à l'article D114-11 (V)
-  - Code de la sécurité sociale. - art. Annexe à l'art. D931-37 (V)
-  - Code des assurances - art. A321-1 (V)
-  - Code des assurances - art. A322-1 (V)
-  - Code des assurances - art. A344-12 (Ab)
-  - Code des assurances - art. A344-15 (M)
-  - Code des assurances - art. A344-8 (Ab)
-  - Code des assurances - art. Annexe A344-10 ETAT C10 (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C11 (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C12 (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C13 (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C4 (V)
-  - Code des assurances - art. Annexe D344-5 (MMN)
-  - Code des assurances - art. Annexe art. A344-16 (Ab)
-  - Code des assurances - art. Annexe art. A344-8 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. A344-2 (M)
-  - Code des assurances - art. A344-9 (M)
-  - Code des assurances - art. L310-1-1 (V)
-
-
 ###### Article A344-12
 
-Les états provisoires mentionnés au II de l'article A. 344-6 sont établis, dans la forme des états C 10 et C 11 définie à
-l'annexe à l'article A. 344-10, pour les opérations réalisées par l'entreprise dans les branches 3, 10 ou 13 de l'article R.
-321-1 au cours de l'exercice écoulé.
+Les états provisoires mentionnés au 1° du II de l'article A. 344-6 sont établis, dans la forme des états C 10 et C 11 définie
+à l'annexe à l'article A. 344-10, pour les opérations réalisées par l'entreprise dans les branches 3, 10 ou 13 de l'article
+R. 321-1 au cours de l'exercice écoulé.
+
+Les états provisoires mentionnés au 2° de l'article A. 344-6 sont établis dans la forme de l'état C 8, défini à l'annexe de
+l'article A. 344-10, pour l'ensemble des risques souscrits en affaires directes par l'entreprise.
+
+**Nota:**
+
+Arrêté 2005-06-10 art. 8 : Ces dispositions sont applicables, pour la première fois, à l'élaboration et à la remise des états
+relatifs aux comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année.
 
 **Liens relatifs à cet article**
 
@@ -77407,18 +77336,27 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1995-07-28 art. 2 JORF 27 août 1995
+  - Arrêté 2004-04-16 art. 6 JORF 11 mai 2004
+
+_Abrogé par_:
+
+  - Arrêté 2005-06-10 art. 5 JORF 26 juin 2005
 
 _Cite_:
 
   - Code des assurances - art. A344-10 (M)
-  - Code des assurances R321-1, A344-6, A344-10
+  - Code des assurances A344-6, A344-10, R321-1
 
 _Cité par_:
 
   - Code des assurances - art. A344-6 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
 ###### Article A344-14
@@ -77639,7 +77577,7 @@ trois dernières années :
 
 - en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
 
-- en une baisse de 20 % du prix des transactions immobilières publié par la chambre des notaires de Paris.
+- en une baisse de 20 % du prix des transactions immobilières.
 
 Le test consiste à comparer l'ensemble des décaissements et des encaissements prévisibles de l'entreprise au cours des cinq
 exercices qui suivent le dernier arrêté comptable. Quatre simulations sont successivement réalisées. Les trois premières
@@ -77653,7 +77591,8 @@ partir des engagements comptabilisés. Les engagements pour sinistres à payer s
 majorées de 20 % et le taux des rachats exceptionnels pris en compte est égal au triple du taux annuel moyen des rachats
 constatés au cours des années passées.
 
-Les entreprises transmettent les résultats du test chaque année à la commission de contrôle avant le 31 mars.
+Les entreprises transmettent les résultats du test chaque année à la commission de contrôle avant le 31 mars dans la forme de
+l'état C 6 bis Test d'exigibilité défini dans l'annexe à l'article A. 344-10.
 
 **Liens relatifs à cet article**
 
@@ -77661,9 +77600,9 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2003-12-26 art. 2 JORF 31 décembre 2003
+  - Arrêté 2004-04-16 art. 1 II, III JORF 11 mai 2004
 
 _Cité par_:
 
@@ -77671,8 +77610,14 @@ _Cité par_:
 
 _Cite_:
 
+  - Code des assurances - art. A344-10 (M)
   - Code des assurances - art. R*332-2 (M)
   - Code des assurances - art. R344-4 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
 ##### Section III : Etats à produire.<a id=515></a>
@@ -77734,6 +77679,106 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. A344-3
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
+
+
+###### Article A344-10
+
+Les états d'analyse des comptes visés au 3° du premier alinéa de l'article A. 344-8 sont les suivants :
+
+C 1 Résultats techniques par contrats ;
+
+C 2 Engagements et résultats techniques par pays ;
+
+C 3 Acceptations et cessions en réassurance ;
+
+C 4 Primes par contrats et garanties ;
+
+C 5 Représentation des engagements privilégiés ;
+
+C 6 Marge de solvabilité ;
+
+C 6 bis Test d'exigibilité ;
+
+C 7 Provisionnement des rentes en service ;
+
+C 8 Description du plan de réassurance ;
+
+C 9 Dispersion des réassureurs et simulations d'événements ;
+
+C 10 Primes et résultats par année de survenance des sinistres ;
+
+C 11 Sinistres par année de survenance ;
+
+C 12 Sinistres et résultats par année de souscription ;
+
+C 13 Part des réassureurs dans les sinistres ;
+
+C 20 Mouvements des polices, capitaux et rentes ;
+
+C 21 Etat détaillé des provisions techniques ;
+
+C 30 Primes, sinistres et commissions des opérations non-vie dans l'Union européenne ;
+
+C 31 Primes des opérations vie dans l'Union européenne.
+
+Ces états sont établis annuellement d'après les comptes définis à l'article A. 344-9 et dans la forme fixée en annexe au
+présent article.
+
+Les opérations réalisées sur l'ensemble du territoire de la République française ainsi que sur le territoire monégasque sont
+considérées comme opérations en France.
+
+Les affaires directes à l'étranger, ainsi que les affaires acceptées, des catégories 20 à 31 de l'article A. 344-2 sont
+assimilées à des opérations pluriannuelles à prime unique ou non révisable lorsque les usages de marché conduisent à
+rattacher les sinistres par exercice de souscription.
+
+Le cas échéant, les états incluent la part des organismes dispensés d'agrément dans les cotisations ou les prestations.
+
+Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1-1 n'établissent que les états C 1, C 2, C
+3, C 4, C 10, C 11, C 12, C 13 et C 21.
+
+**Nota:**
+
+Annexe non reproduite, voir le fac-similé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 2004-04-16 art. 1 I, art. 4 JORF 11 mai 2004
+
+_Cité par_:
+
+  - Arrêté du 28 juillet 1995 - art. 4 (V)
+  - Code de la mutualité - art. Annexe à l'article D114-11 (V)
+  - Code de la sécurité sociale. - art. Annexe à l'art. D931-37 (V)
+  - Code des assurances - art. A321-1 (V)
+  - Code des assurances - art. A322-1 (V)
+  - Code des assurances - art. A344-12 (Ab)
+  - Code des assurances - art. A344-15 (M)
+  - Code des assurances - art. A344-8 (Ab)
+  - Code des assurances - art. Annexe A344-10 ETAT C10 (V)
+  - Code des assurances - art. Annexe A344-10 ETAT C11 (V)
+  - Code des assurances - art. Annexe A344-10 ETAT C12 (V)
+  - Code des assurances - art. Annexe A344-10 ETAT C13 (V)
+  - Code des assurances - art. Annexe A344-10 ETAT C4 (V)
+  - Code des assurances - art. Annexe D344-5 (MMN)
+  - Code des assurances - art. Annexe art. A344-16 (Ab)
+  - Code des assurances - art. Annexe art. A344-8 (Ab)
+
+_Cite_:
+
+  - Code des assurances - art. A344-2 (M)
+  - Code des assurances - art. A344-9 (M)
+  - Code des assurances - art. L310-1-1 (V)
 
 **Liens**:
 
