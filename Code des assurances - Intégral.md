@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-06-01
+Version Consolidée au 1997-12-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -145,7 +145,7 @@ Version Consolidée au 1997-06-01
           - [Section VI : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile. (art. L421-9)](#142)
           - [Section IX : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger. (art. L421-11 à L421-15)](#143)
         - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. L422-1 à L422-5)](#144)
-      - [Titre III : Organismes particuliers d'assurance (art. L431-4 à L432-3)](#145)
+      - [Titre III : Organismes particuliers d'assurance (art. L431-4 à L432-4)](#145)
         - [Chapitre Ier : La caisse centrale de réassurance (art. L431-4 à L431-14)](#146)
           - [Section II : Opérations effectuées avec la garantie de l'Etat (art. L431-4 à L431-10)](#147)
             - [Paragraphe 2 : Risques exceptionnels et nucléaires. (art. L431-4 à L431-7)](#148)
@@ -155,8 +155,8 @@ Version Consolidée au 1997-06-01
             - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. L431-11)](#152)
             - [Paragraphe 2 : Fonds de garantie des calamités agricoles dans les départements d'outre-mer. (art. L431-12)](#153)
             - [Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction. (art. L431-14)](#154)
-        - [Chapitre II : La Compagnie française d'assurance pour le commerce extérieur "COFACE" (art. L432-1 à L432-3)](#155)
-          - [Section I : Dispositions générales. (art. L432-1 à L432-3)](#156)
+        - [Chapitre II : La Compagnie française d'assurance pour le commerce extérieur "COFACE" (art. L432-1 à L432-4)](#155)
+          - [Section I : Dispositions générales. (art. L432-1 à L432-4)](#156)
       - [Titre IV : Régimes particuliers d'assurance (art. L441-1 à L442-6)](#157)
         - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. L441-1 à L441-10)](#158)
           - [Section I : Dispositions générales. (art. L441-1 à L441-7)](#159)
@@ -17545,7 +17545,8 @@ _Cité par_:
 La garantie de l'Etat peut être accordée en totalité ou en partie :
 
 1° A la compagnie française d'assurance pour le commerce extérieur, pour ses opérations d'assurances des risques commerciaux,
-politiques, monétaires, catastrophiques ainsi que de certains risques dits extraordinaires.
+politiques, monétaires, catastrophiques et de certains risques dits extraordinaires, ainsi que pour les opérations de gestion
+des droits et obligations y afférents.
 
 2° Aux exportateurs pour les opérations prévues à l'article 53 de la loi n° 48-1516 du 26 septembre 1948, fixant l'évaluation
 des voies et moyens du budget général pour l'exercice 1948 et relative à diverses dispositions d'ordre financier.
@@ -17616,21 +17617,18 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Modifié par_:
+
+  - Loi - art. 37 () JORF 30 décembre 1997
+
 
 ###### Article L432-3
 
 La garantie de l'Etat est accordée après avis de la commission des garanties et du crédit au commerce extérieur, instituée
-par l'article 15 de la loi n° 49-874 du 5 juillet 1949.
+par l'article 15 de la loi n° 49-874 du 5 juillet 1949, à l'exception de celle portant sur les opérations de gestion
+mentionnées au 1° de l'article L. 432-2 pour lesquelles elle est accordée par arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°49-874 du 5 juillet 1949 - art. 15, v. init.
-
-_Anciens textes_:
-
-  - Loi n°49-874 du 5 juillet 1949 - art. 15, v. init.
 
 **Liens**:
 
@@ -17640,12 +17638,58 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Modifié par_:
+
+  - Loi - art. 37 () JORF 30 décembre 1997
+
 _Cité par_:
 
   - Arrêté du 23 décembre 2003 - art. 1 (V)
   - Arrêté du 26 mars 2008 - art. 1 (V)
   - Code des assurances - art. R*432-3 (Ab)
   - Code des assurances - art. R442-2 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L432-2 (VT)
+
+
+###### Article L432-4
+
+La Compagnie française d'assurance pour le commerce extérieur établit, pour les opérations qu'elle effectue avec la garantie
+de l'Etat en application de l'article L. 432-2 du présent code, un enregistrement comptable distinct. Une convention entre
+l'Etat et la Compagnie française d'assurance pour le commerce extérieur précise les modalités selon lesquelles cet
+enregistrement est effectué ainsi que les conditions dans lesquelles il est contrôlé et certifié par un ou plusieurs
+commissaires aux comptes.
+
+Sans préjudice des droits des titulaires de créances nées des opérations effectuées avec la garantie de l'Etat, aucun
+créancier de la Compagnie française d'assurance pour le commerce extérieur autre que l'Etat ne peut se prévaloir d'un droit
+quelconque sur les biens et droits ressortant de l'enregistrement établi en application de l'alinéa précédent, même sur le
+fondement du livre VI, titre II du code de commerce, des articles L. 611-1 à L. 612-4 du code de commerce, ou des articles L.
+310-25 et L. 326-2 à L. 327-6 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi - art. 37 () JORF 30 décembre 1997
+
+_Cité par_:
+
+  - Décret n°2016-1091 du 11 août 2016 (VD)
+  - Décret n°2016-1091 du 11 août 2016 - art. 1 (VD)
+  - Code des assurances - art. R442-7-3 (VD)
+
+_Cite_:
+
+  - Code de commerce L611-1 à L612-4
+  - Code des assurances - art. L310-25 (M)
+  - Code des assurances - art. L432-2 (M)
+  - Code des assurances L432-2, L310-25, L326-2 à L327-6
 
 
 ### Titre IV : Régimes particuliers d'assurance<a id=157></a>
