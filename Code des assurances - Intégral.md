@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-01-07
+Version Consolidée au 2005-01-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -36938,8 +36938,7 @@ amortissements et majorée des produits mentionnés aux deuxième et troisième 
 titres correspondants évaluée conformément à l'article R. 332-20-1, ne font pas l'objet d'une provision.
 
 Néanmoins, lorsqu'il y a lieu de considérer que le débiteur ne sera pas en mesure de respecter ses engagements, soit pour le
-paiement des intérêts, soit pour le remboursement du principal, une provision pour dépréciation doit être constituée à
-l'inventaire.
+paiement des intérêts, soit pour le remboursement du principal, une dépréciation doit être constatée à l'inventaire.
 
 II. - Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix, avec garantie de
 remboursement au pair et émises ou garanties par un Etat, un organisme ou une collectivité publics mentionnés au 1° du A de
@@ -36953,12 +36952,11 @@ prix de référence à la date d'acquisition et ce même indice à la date d'ém
 A chaque arrêté comptable, le gain ou la perte lié à l'indexation depuis le dernier arrêté comptable ou, s'il est plus
 récent, depuis l'achat, est enregistré en produits ou en charges.
 
-Sans préjudice des dispositions du I, les obligations indexées sur le niveau général des prix donnent lieu à la constitution
-d'une provision pour dépréciation si une situation de déflation durable est envisagée. Pour la détermination du montant de
-cette provision, la valeur de réalisation de ces obligations, qui ne peut être inférieure à leur nominal, est la valeur la
-plus faible entre, d'une part, leur valeur de marché et, d'autre part, leur valeur calculée sur la base des prévisions
-d'évolution de l'indice des prix de référence publiées par un organisme figurant sur une liste fixée par arrêté du ministre
-chargé de l'économie.
+Sans préjudice des dispositions du I, les obligations indexées sur le niveau général des prix donnent lieu à la constatation
+d'une dépréciation si une situation de déflation durable est envisagée. Pour la détermination du montant de cette provision,
+la valeur de réalisation de ces obligations, qui ne peut être inférieure à leur nominal, est la valeur la plus faible entre,
+d'une part, leur valeur de marché et, d'autre part, leur valeur calculée sur la base des prévisions d'évolution de l'indice
+des prix de référence publiées par un organisme figurant sur une liste fixée par arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -36994,7 +36992,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1535 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002 rectificatif JORF 11 janvier 2003
+  - Décret n°2005-50 du 26 janvier 2005 - art. 1 () JORF 27 janvier 2005
 
 _Cite_:
 
@@ -37024,25 +37022,18 @@ c) Les prêts sont évalués d'après les actes qui en font foi ;
 d) Les nues-propriétés et les usufruits sont évalués suivant les règles déterminées par arrêté du ministre chargé de
 l'économie.
 
-Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les provisions pour dépréciation, lesquelles
-ne peuvent être constatées que lorsqu'il y a lieu de considérer que la dépréciation a un caractère durable. Toutefois, les
-entreprises qui, au bilan du dernier exercice clos avant le 1er janvier 1993, constataient les dépréciations, même lorsque
-celles-ci n'avaient pas un caractère durable, peuvent continuer à faire application de cette méthode jusqu'au dernier
-exercice clos avant le 1er janvier 1999 ; elles peuvent y renoncer à tout moment, en le notifiant préalablement à la
-commission de contrôle des assurances, cette renonciation étant alors définitive.
+Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les dépréciations, lesquelles ne peuvent être
+constatées que lorsqu'il y a lieu de considérer qu'elles ont un caractère durable. Toutefois, les entreprises qui, au bilan
+du dernier exercice clos avant le 1er janvier 1993, constataient les dépréciations, même lorsque celles-ci n'avaient pas un
+caractère durable, peuvent continuer à faire application de cette méthode jusqu'au dernier exercice clos avant le 1er janvier
+1999 ; elles peuvent y renoncer à tout moment, en le notifiant préalablement à la commission de contrôle des assurances,
+cette renonciation étant alors définitive.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
-  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
-  - TXT_SOURCE: Code des assurances - art. A332-5 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A332-6 (Ab)
 
 _Cité par_:
 
@@ -37079,7 +37070,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2002-970 du 4 juillet 2002 - art. 4 () JORF 11 juillet 2002
+  - Décret n°2005-50 du 26 janvier 2005 - art. 2 () JORF 27 janvier 2005
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. A332-5 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A332-6 (Ab)
 
 _Cite_:
 
@@ -45184,9 +45180,9 @@ _Modifié par_:
 
 ###### Article R423-18
 
-Une provision pour risques et charges est constituée dans la comptabilité du fonds de garantie des assurés pour enregistrer
-les cotisations versées par les entreprises adhérentes, les produits financiers générés par ces cotisations, et toutes autres
-ressources du fonds, sous déduction de ses frais de gestion.
+Une provision est constituée dans la comptabilité du fonds de garantie des assurés pour enregistrer les cotisations versées
+par les entreprises adhérentes, les produits financiers générés par ces cotisations, et toutes autres ressources du fonds,
+sous déduction de ses frais de gestion.
 
 Le montant de cette provision est investi dans :
 
@@ -45224,7 +45220,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 2005-01-05 art. 4 1° JORF 7 janvier 2005
+  - Décret n°2005-50 du 26 janvier 2005 - art. 3 () JORF 27 janvier 2005
 
 
 ### Titre III : Organismes particuliers d'assurance<a id=382></a>
