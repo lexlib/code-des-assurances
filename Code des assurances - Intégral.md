@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2000-12-14
+Version Consolidée au 2000-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -453,74 +453,75 @@ Version Consolidée au 2000-12-14
             - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-12)](#450)
             - [Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours. (art. A331-16 à A331-20)](#451)
             - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-21 à Annexe 1.3 art. A331-22)](#452)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-1 à A332-6)](#453)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-1 à A332-7)](#453)
           - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. A332-1)](#454)
           - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#455)
-        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#456)
-        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-3)](#457)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#458)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#459)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#460)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#461)
-        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#462)
-          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#463)
-            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#464)
-          - [Section I : Tarifs (art. A335-1)](#465)
-            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1)](#466)
-          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#467)
-            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#468)
-      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe A344-10 ETAT C31)](#469)
-        - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#470)
-        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-8)](#471)
-          - [Section I : Dispositions générales. (art. A342-1)](#472)
-          - [Section II : Documents et registres comptables. (art. A342-2 à A342-4)](#473)
-          - [Section II : Documents et registres comptables. (art. A342-3)](#474)
-          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-5 à A342-7)](#475)
-          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance. (art. A342-9)](#476)
-          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance. (art. A342-8)](#477)
-        - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation. (art. A343-1 à Annexe art A343-1 (al 3))](#478)
-        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#479)
-          - [Section I : Dispositions générales. (art. A344-1)](#480)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#481)
-          - [Section III : Etats à produire. (art. A344-3 à A344-14)](#482)
-          - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#483)
-            - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#484)
-      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#485)
-        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#486)
-          - [Section II : Conditions d'exercice (art. A353-1)](#487)
-      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. A362-1 à A362-2)](#488)
-        - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#489)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#490)
-      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#491)
-        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#492)
-          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#493)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#494)
-          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#495)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#496)
-          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#497)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#498)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#499)
-      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#500)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#501)
-          - [Section I : Dispositions générales. (art. A431-1)](#502)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#503)
-            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#504)
-          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#505)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#506)
-            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#507)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#508)
-          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#509)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#510)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#511)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#512)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#513)
-          - [Section II : Règles techniques et comptables. (art. A441-2 à A441-6)](#514)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#515)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#516)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#517)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#518)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#519)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#520)
+          - [Section III : Estimation des éléments d'actif. (art. A332-7)](#456)
+        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#457)
+        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-3)](#458)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#459)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#460)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#461)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#462)
+        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#463)
+          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#464)
+            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#465)
+          - [Section I : Tarifs (art. A335-1)](#466)
+            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1)](#467)
+          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#468)
+            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#469)
+      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe A344-10 ETAT C31)](#470)
+        - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#471)
+        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-8)](#472)
+          - [Section I : Dispositions générales. (art. A342-1)](#473)
+          - [Section II : Documents et registres comptables. (art. A342-2 à A342-4)](#474)
+          - [Section II : Documents et registres comptables. (art. A342-3)](#475)
+          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-5 à A342-7)](#476)
+          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance. (art. A342-9)](#477)
+          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance. (art. A342-8)](#478)
+        - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation. (art. A343-1 à Annexe art A343-1 (al 3))](#479)
+        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#480)
+          - [Section I : Dispositions générales. (art. A344-1)](#481)
+          - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#482)
+          - [Section III : Etats à produire. (art. A344-3 à A344-14)](#483)
+          - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#484)
+            - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#485)
+      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#486)
+        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#487)
+          - [Section II : Conditions d'exercice (art. A353-1)](#488)
+      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. A362-1 à A362-2)](#489)
+        - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#490)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#491)
+      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#492)
+        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#493)
+          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#494)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#495)
+          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#496)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#497)
+          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#498)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#499)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#500)
+      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#501)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#502)
+          - [Section I : Dispositions générales. (art. A431-1)](#503)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#504)
+            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#505)
+          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#506)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#507)
+            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#508)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#509)
+          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#510)
+            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#511)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#512)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#513)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#514)
+          - [Section II : Règles techniques et comptables. (art. A441-2 à A441-6)](#515)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#516)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#517)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#518)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#519)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#520)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#521)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -70783,7 +70784,126 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code des assurances - art. R332-20 (M)
 
 
-#### Chapitre III : Revenu des placements.<a id=456></a>
+##### Section III : Estimation des éléments d'actif.<a id=456></a>
+
+###### Article A332-7
+
+I. - Les entreprises mentionnées aux 1°, 3° et 4° de l'article L. 310-2 sont en mesure d'estimer à toute époque l'incidence,
+d'une part sur les engagements envers les assurés, d'autre part sur la valeur de réalisation de leurs actifs mentionnés aux
+1° à 13° de l'article R. 332-2 et à l'article R. 332-5 ainsi que de leurs instruments financiers à terme, de toute hypothèse
+d'évolution des taux d'intérêt et des marchés de valeurs mobilières, de biens immobiliers et de change.
+
+Ces hypothèses permettent de simuler les effets d'une augmentation immédiate et pérenne du taux des emprunts d'Etat à dix ans
+et de l'évolution correspondante de la courbe de taux, d'une diminution immédiate et pérenne du taux des emprunts d'Etat à
+dix ans et de l'évolution correspondante de la courbe de taux, ainsi que d'une diminution immédiate et pérenne de la valeur
+de réalisation des actions, parts ou droits émis par des sociétés commerciales ainsi que des droits réels immobiliers.
+
+Ces hypothèses figurent dans le modèle d'état T 3 annexé à l'article A. 344-13. La commission de contrôle peut néanmoins
+demander aux entreprises d'autres simulations sur le fondement d'autres valeurs.
+
+II. - Simulations sur l'actif
+
+L'incidence de chacune des hypothèses mentionnées au I sur les actifs énumérés aux 1° à 13° de l'article R. 332-2 est évaluée
+comme suit.
+
+Les actifs mentionnés aux 1°, 2°, 2° bis, 2° ter, 10°, 11°, 12° et 13° de l'article R. 332-2 ainsi que les titres émis par
+les sociétés d'assurance mutuelles mentionnés au 6° du même article sont évalués conformément à l'article R. 332-20-1 puis
+aux valeurs actuelles résultant des différentes courbes des taux simulées. Ces évaluations tiennent compte d'une prime liée
+aux risques de liquidité et de contrepartie. Cette prime est fonction de celle qui ressort de l'évaluation du titre effectuée
+conformément à l'article R. 332-20-1.
+
+Les actifs mentionnés aux 4°, 5°, 5° bis, 6°, à l'exception des titres mentionnés au précédent alinéa et 9° de l'article R.
+332-2 sont évalués conformément à l'article R. 332-20-1 puis estimés selon les hypothèses figurant dans l'état T 3.
+
+Pour les actifs mentionnés aux 3°, 7°, 7° bis, 8° et 9° bis de l'article R. 332-2, l'entreprise substitue aux parts ou
+actions de l'organisme détenu un pourcentage des actifs énumérés aux 1° à 13° du même article que détient cet organisme,
+évalués comme prévu à l'alinéa précédent et nets des dettes de l'organisme, égal au pourcentage d'intérêt détenu par
+l'entreprise dans cet organisme.
+
+Lorsqu'il n'est pas possible ou pas pertinent de procéder à cette évaluation, l'entreprise assimile les parts ou actions
+détenues à des actions, des obligations, des biens immobiliers ou une combinaison de ces différents types d'actifs.
+
+Les instruments financiers à terme sont évalués à leur coût de remplacement, résultant de chacune des valeurs de réalisation
+simulées sur les actifs sous-jacents.
+
+Les résultats des simulations décrites ci-dessus sont présentés en distinguant d'une part les valeurs négociées sur un marché
+reconnu au sens de l'article R. 332-2 et les parts ou actions d'organismes de placement collectif en valeurs mobilières
+investis exclusivement dans de telles valeurs d'autre part les titres de même nature non négociés sur un tel marché.
+
+III. - Simulations sur les provisions mathématiques
+
+vie et non-vie
+
+Les provisions techniques mentionnées aux 1° et 2° de l'article R. 331-3 et au 1° de l'article R. 331-6 sont évaluées comme
+suit :
+
+- la provision pour participation aux excédents est évaluée à sa dernière valeur comptable connue ;
+
+- les engagements d'assurance vie et engagements viagers d'assurance non-vie, à l'exception de ceux mentionnés à l'article R.
+332-5, sont évalués en actualisant, avec la courbe des taux d'intérêt à la date du calcul puis chacune des courbes des taux
+d'intérêt simulées, et avec application, au titre des charges de gestion, d'un abattement de 30 points de base à chacun des
+taux retenus, la différence entre les valeurs probables des engagements pris par l'entreprise et des engagements pris par les
+assurés en tenant notamment compte, lorsque c'est possible, des règles de participation aux bénéfices contractuelles et
+réglementaires. Les engagements liés à des contrats comportant une valeur de rachat font l'objet d'estimations distinctes ;
+
+- les engagements mentionnés à l'article R. 332-5 sont évalués en calculant, avec les différentes valeurs de l'unité de
+compte simulées, la différence entre les valeurs probables des engagements pris par l'entreprise et des engagements pris par
+les assurés.
+
+Pour l'évaluation des engagements relatifs aux contrats à capital variable, l'estimation du résultat probable lié au risque
+de placement est effectuée de manière distincte.
+
+IV. - Liquidation des autres provisions techniques non-vie
+
+L'entreprise indique également la dernière valeur comptable connue des provisions techniques mentionnées aux 2°, 2 bis, 4° et
+5° de l'article R. 331-6. Elle évalue, conformément aux cadences de liquidation passées ou à tout autre élément
+d'appréciation qu'elle est en mesure de justifier, la part de ces provisions liquidée aux 31 décembre de chacun des cinq
+exercices à venir, dans l'hypothèse d'une absence totale d'émission future de primes.
+
+V. - Dispersion des actifs
+
+L'entreprise évalue ses cinq plus importants encours d'actifs énumérés aux 1° à 13° de l'article R. 332-2 vis-à-vis de
+contreparties hors Etats membres de l'OCDE et organismes internationaux à caractère public dont un ou plusieurs Etats membres
+de l'Union européenne font partie, conformément à l'article R. 332-20-1. Elle indique également la valeur comptable de ces
+encours, en distinguant les produits de taux des autres actifs. Pour ces évaluations, une contrepartie est soit une société
+isolée, soit plusieurs sociétés appartenant au même groupe au sens du 1° de l'article R. 332-13. L'encours auprès d'une
+contrepartie est l'encours de l'ensemble des valeurs émises, prêts obtenus ou garantis par la contrepartie, ainsi que le
+montant des dépôts effectués ou positions à terme créditrices auprès de cette contrepartie, net de l'encours garanti par
+d'autres contreparties.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 2000-12-26 art. 1 JORF 29 décembre 2000
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 2000-12-26 art. 5 *modalités d'application - états trimestriels 2001*
+  - TXT_SOURCE: Code des assurances - art. R332-1-2 (M)
+
+_Cité par_:
+
+  - Code des assurances - art. A332-11 (Ab)
+  - Code des assurances - art. A332-9 (Ab)
+  - Code des assurances - art. A344-13 (Ab)
+
+_Cite_:
+
+  - Code des assurances - art. L310-2 (M)
+  - Code des assurances - art. R*331-3 (M)
+  - Code des assurances - art. R*331-6 (M)
+  - Code des assurances - art. R*332-13 (M)
+  - Code des assurances - art. R*332-2 (M)
+  - Code des assurances - art. R*332-5 (M)
+  - Code des assurances - art. R332-20-1 (M)
+
+
+#### Chapitre III : Revenu des placements.<a id=457></a>
 
 ###### Article A333-2
 
@@ -70899,11 +71019,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*333-1 (M)
 
 
-#### Chapitre IV : Solvabilité des entreprises<a id=457></a>
+#### Chapitre IV : Solvabilité des entreprises<a id=458></a>
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=458></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=459></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=459></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=460></a>
 
 ###### Article A334-1
 
@@ -70942,9 +71062,9 @@ _Cite_:
   - Code des assurances - art. R334-11 (V)
 
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=460></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=461></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=461></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=462></a>
 
 ###### Article A334-2
 
@@ -71044,11 +71164,11 @@ _Cite_:
   - Code des assurances - art. R*334-3 (M)
 
 
-#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=462></a>
+#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=463></a>
 
-##### Section I : Tarifs.<a id=463></a>
+##### Section I : Tarifs.<a id=464></a>
 
-##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=464></a>
+##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=465></a>
 
 ###### Article A335-9-1
 
@@ -71164,9 +71284,9 @@ _Cite_:
   - Code des assurances - art. A335-9-3 (Ab)
 
 
-##### Section I : Tarifs<a id=465></a>
+##### Section I : Tarifs<a id=466></a>
 
-##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=466></a>
+##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=467></a>
 
 ###### Article A335-1
 
@@ -71242,9 +71362,9 @@ _Cite_:
   - Code des assurances - art. A132-1 (M)
 
 
-##### Section II : Frais d'acquisition et de gestion<a id=467></a>
+##### Section II : Frais d'acquisition et de gestion<a id=468></a>
 
-##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=468></a>
+##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=469></a>
 
 ###### Article A335-19
 
@@ -71277,9 +71397,9 @@ _Cité par_:
   - SPEC_APPLI: Code des assurances A335-20, A335-21 *fixation des commissions et rétributions*
 
 
-### Titre IV : Dispositions comptables et statistiques<a id=469></a>
+### Titre IV : Dispositions comptables et statistiques<a id=470></a>
 
-#### Chapitre Ier : Principes généraux.<a id=470></a>
+#### Chapitre Ier : Principes généraux.<a id=471></a>
 
 ###### Article A341-1
 
@@ -71360,9 +71480,9 @@ DANS L'ÉTAT MEMBRE SUIVANT DE LA CEE : PAYS DU RISQUE.
 
 
 
-#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=471></a>
+#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=472></a>
 
-##### Section I : Dispositions générales.<a id=472></a>
+##### Section I : Dispositions générales.<a id=473></a>
 
 ###### Article A342-1
 
@@ -71385,7 +71505,7 @@ _Cite_:
   - Code des assurances - art. L310-1 (V)
 
 
-##### Section II : Documents et registres comptables.<a id=473></a>
+##### Section II : Documents et registres comptables.<a id=474></a>
 
 ###### Article A342-2
 
@@ -71442,7 +71562,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 2 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-##### Section II : Documents et registres comptables.<a id=474></a>
+##### Section II : Documents et registres comptables.<a id=475></a>
 
 ###### Article A342-3
 
@@ -71511,7 +71631,7 @@ _Cite_:
   - Code des assurances - art. R331-1-1 (V)
 
 
-##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=475></a>
+##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=476></a>
 
 ###### Article A342-5
 
@@ -71625,7 +71745,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 3 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance.<a id=476></a>
+##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance.<a id=477></a>
 
 ###### Article A342-9
 
@@ -71653,7 +71773,7 @@ _Cité par_:
   - Arrêté du 11 septembre 1995 - art. 6 (V)
 
 
-##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance.<a id=477></a>
+##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance.<a id=478></a>
 
 ###### Article A342-8
 
@@ -71682,7 +71802,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 4 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-#### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation.<a id=478></a>
+#### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation.<a id=479></a>
 
 ###### Article A343-1
 
@@ -73234,9 +73354,9 @@ _Cite_:
   - Code des assurances - art. R332-7-1 (V)
 
 
-#### Chapitre IV : Catégories d'assurance et états à produire<a id=479></a>
+#### Chapitre IV : Catégories d'assurance et états à produire<a id=480></a>
 
-##### Section I : Dispositions générales.<a id=480></a>
+##### Section I : Dispositions générales.<a id=481></a>
 
 ###### Article A344-1
 
@@ -73264,7 +73384,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section II : Définition des catégories et sous-catégories.<a id=481></a>
+##### Section II : Définition des catégories et sous-catégories.<a id=482></a>
 
 ###### Article A344-2
 
@@ -73394,7 +73514,7 @@ _Cite_:
   - Code des assurances - art. L441-1 (M)
 
 
-##### Section III : Etats à produire.<a id=482></a>
+##### Section III : Etats à produire.<a id=483></a>
 
 ###### Article A344-3
 
@@ -73725,40 +73845,6 @@ _Cité par_:
   - Code des assurances - art. A344-6 (M)
 
 
-###### Article A344-13
-
-Les états trimestriels mentionnés au III de l'article A. 344-6 sont les suivants :
-
-T 1 Flux trimestriels relatifs aux opérations en France ;
-
-T 2 Encours trimestriel des placements.
-
-Ces états sont établis dans la forme fixée en annexe au présent article.
-
-(annexe non reproduite, voir au Journal officiel).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Créé par_:
-
-  - Arrêté 1995-07-28 art. 2 JORF 27 août 1995
-
-_Cité par_:
-
-  - Code des assurances - art. A332-7 (M)
-  - Code des assurances - art. A344-6 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
-  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
-
-
 ###### Article A344-14
 
 En application de l'article R. 341-5, les entreprises d'assurance et de réassurance adressent à la Commission de contrôle des
@@ -73813,7 +73899,7 @@ _Cite_:
   - Code des assurances - art. R*341-5 (M)
 
 
-##### Section III : Etats à produire.<a id=483></a>
+##### Section III : Etats à produire.<a id=484></a>
 
 ###### Article A344-4
 
@@ -73873,6 +73959,45 @@ _Cite_:
 
 _Cité par_:
 
+  - Code des assurances - art. A344-6 (Ab)
+
+
+###### Article A344-13
+
+Les états trimestriels mentionnés à l'article A. 332-7 et au III de l'article A. 344-6 sont les suivants :
+
+T 1 Flux trimestriels relatifs aux opérations en France ;
+
+T 2 Encours trimestriel des placements ;
+
+T 3 Simulations actif - passif.
+
+Ces états sont établis dans la forme fixée en annexe au présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 2000-12-26 art. 2, art. 3 et art. 4 JORF 29 décembre 2000
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 2000-12-26 art. 5 *modalités d'application - états trimestriels 2001*
+  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
+  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code des assurances - art. A332-7 (M)
   - Code des assurances - art. A344-6 (Ab)
 
 
@@ -77810,6 +77935,2420 @@ _Cite_:
   - Code des assurances - art. L321-9 (V)
 
 
+###### Article Annexe art. A344-13
+
+Etats trimestriels
+
+Les montants sont arrondis au millier de francs le plus proche et exprimés en milliers de francs.
+
+ETAT T 1
+
+Flux trimestriels relatifs aux opérations en France
+
+Les entreprises établissent trimestriellement, selon le modèle fixé ci-après, un état relatif à leurs opérations réalisées en
+France au cours du trimestre écoulé.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="156">
+
+QUATRE TRIMESTRES PRÉCÉDENTS
+
+</td>
+      <td width="108">
+
+TRIMESTRE T-7
+
+</td>
+      <td width="108">
+
+TRIMESTRE T-6
+
+</td>
+      <td width="108">
+
+TRIMESTRE T-5
+
+</td>
+      <td width="108">
+
+TRIMESTRE T-4
+
+</td>
+      <td width="77">
+
+CUMUL
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Nombre de contrats souscrits
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Nombre de sinistres ouverts (1)
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Primes émises nettes d'annulations (2)
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Prestations payées (2)
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Frais d'acquisition et d'administration (2)
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Produits des placements (2)
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+QUATRE DERNIERS TRIMESTRES
+
+</td>
+      <td width="108">
+
+TRIMESTRE T-3
+
+</td>
+      <td width="108">
+
+TRIMESTRE T-2
+
+</td>
+      <td width="108">
+
+TRIMESTRE T-1
+
+</td>
+      <td width="108">
+
+TRIMESTRE courant
+
+</td>
+      <td width="77">
+
+CUMUL
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Nombre de contrats souscrits
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Nombre des sinistres ouverts (1)
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Primes émises nettes d'annulations (2)
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Prestations payées (2)
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Frais d'acquisition et d'administration (2)
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="156">
+
+Produits des placements (2)
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="108">
+
+</td>
+      <td width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6" width="665">
+
+(1) En vie et capitalisation, sinistres, sorties par tirage, échéances et rachats totaux.
+
+(2) Montants extraits du grand livre au dernier jour ouvrable de chaque trimestre civil avant toute opération d'inventaire.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+ÉTAT T 2 (cf. note 144)
+
+Encours trimestriel des placements
+
+Les entreprises établissent trimestriellement, selon le modèle fixé ci-après, un état détaillant l'encours en fin de
+trimestre de l'ensemble de leurs placements.
+
+<table>
+  <thead>
+    <tr>
+      <td rowspan="3" width="227">
+
+DÉSIGNATION
+
+</td>
+      <td colspan="6" width="215">
+
+ENCOURS
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="107">
+
+A la fin du trimestre inventorié
+
+</td>
+      <td colspan="3" width="107">
+
+A la fin du trimestre précédent
+
+</td>
+    </tr>
+    <tr>
+      <td width="31">
+
+Valeur brute
+
+</td>
+      <td width="31">
+
+Valeur nette
+
+</td>
+      <td width="44">
+
+Valeur de réalisation
+
+</td>
+      <td width="31">
+
+Valeur brute
+
+</td>
+      <td width="31">
+
+Valeur nette
+
+</td>
+      <td width="44">
+
+Valeur de réalisation
+
+</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
+A. - Placements mentionnés à l'article R. 332-2
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+1. Obligations et autres valeurs émises ou garanties par l'un des Etats membres de l'OCDE
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2. Obligations, parts de fonds communs de créance et titres participatifs négociés sur un marché reconnu, autres que celles
+ou ceux visés au 1
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3. Titres de créances négociables admissibles d'un an au plus
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4. Bons à moyen terme négociables admissibles
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5. Actions de SICAV et parts de FCP d'obligations et de titres de créances négociables
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total placements obligataires
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+dont titres mis en pension
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+6. Actions et titres assimilés cotés sur des marchés reconnus, à l'exclusion de ceux émis par des sociétés d'assurance
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+7. Titres non cotés sur des marchés reconnus, à l'exclusion de ceux émis par des sociétés d'assurance
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+8. Parts de FCP à risques (dont FCP dans l'innovation) et fonds communs de proximité
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+9. OPCVM contractuels, OPCVM à procédure allégée, FCP à risques allégés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+10. OPCVM à règles allégées, à l'exception des OPCVM de fonds alternatifs
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+11. OPCVM de fonds alternatifs
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+12. Actions de sociétés d'assurance, de réassurance ou de capitalisation ayant leur siège social dans l'OCDE
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+13. Actions de sociétés d'assurance, de réassurance ou de capitalisation ayant leur siège social hors de l'OCDE
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+14. Actions de SICAV et parts de FCP diversifiés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total des actions et titres assimilés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+15. Droits réels immobiliers
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+16. Parts de sociétés immobilières ou foncières non cotées (y compris les avances en compte courant)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total des placements immobiliers
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+17. Prêts obtenus ou garantis par les Etats membres de l'OCDE ou assimilés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+18. Prêts hypothécaires
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+19. Avances sur polices
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+20. Prêts de titres garantis par des espèces
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+21. Autres prêts de titres garantis
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+22. Autres prêts
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total des prêts
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+23. Fonds en dépôt
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+24. Placement immobiliers représentatifs de contrats en unités de compte
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+25. Autres placements représentatifs de contrats en unités de compte
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total A
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+B. - Autres placements
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+26. Valeurs mobilières
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+27. Immeubles et parts de sociétés immobilières non cotées
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+28. Prêts de titres non garantis
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+29. Autres prêts
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+30. Fonds en dépôt
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total B
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total A + B
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+dont titres mis en pension
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+dont titres empruntés ou achetés à réméré
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+C. - Instruments financiers à terme
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+31. Instruments financiers à terme liés à des produits de taux
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+32. Instruments financiers à terme liés à des actions et actifs assimilés
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+33. Autres instruments financiers à terme
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total C
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Engagements reçus (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Engagements donnés (1)
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="7">
+
+(1) Hors instruments financiers à terme et hors nantissements.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+ÉTAT T 3
+
+Simulations actif-passif
+
+Les entreprises établissent trimestriellement, selon le modèle fixé ci-après, un état retraçant l'incidence sur la valeur de
+réalisation de leurs placements ainsi que sur leurs provisions mathématiques, des hypothèses figurant ci-dessous.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="185">
+
+PRODUITS DE TAUX
+
+</td>
+      <td width="60">
+
+E(TEC 10) - 300 pb
+
+</td>
+      <td width="60">
+
+E(TEC 10) - 200 pb
+
+</td>
+      <td width="60">
+
+E(TEC 10) - 100 pb
+
+</td>
+      <td width="96">
+
+E(TEC 10) (1)
+
+</td>
+      <td width="72">
+
+TEC 10
+
+</td>
+      <td width="60">
+
+E(TEC 10) + 200 pb
+
+</td>
+      <td width="68">
+
+E(TEC 10) + 400 pb
+
+</td>
+    </tr>
+    <tr>
+      <td width="185">
+
+Cotés
+
+</td>
+      <td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="96">
+      </td><td width="72">
+      </td><td width="60">
+      </td><td width="68">
+    </td></tr>
+    <tr>
+      <td width="185">
+
+Non cotés
+
+</td>
+      <td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="96">
+      </td><td width="72">
+      </td><td width="60">
+      </td><td width="68">
+    </td></tr>
+    <tr>
+      <td width="185">
+
+Total
+
+</td>
+      <td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="96">
+      </td><td width="72">
+      </td><td width="60">
+      </td><td width="68">
+    </td></tr>
+    <tr>
+      <td width="185">
+
+Instruments à terme liés (2)
+
+</td>
+      <td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="96">
+      </td><td width="72">
+      </td><td width="60">
+      </td><td width="68">
+    </td></tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="209">
+
+ACTIONS ET ACTIFS ASSIMILÉS
+
+</td>
+      <td width="72">
+
+- 40 %
+
+</td>
+      <td width="72">
+
+- 30 %
+
+</td>
+      <td width="72">
+
+- 20 %
+
+</td>
+      <td width="72">
+
+- 10 %
+
+</td>
+      <td width="168">
+
+VALEUR DE RÉALISATION
+
+</td>
+    </tr>
+    <tr>
+      <td width="209">
+
+Cotés
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="168">
+
+</td>
+    </tr>
+    <tr>
+      <td width="209">
+
+Non cotés
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="168">
+
+</td>
+    </tr>
+    <tr>
+      <td width="209">
+
+Total
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="168">
+
+</td>
+    </tr>
+    <tr>
+      <td width="209">
+
+Instruments à terme liés (2)
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="168">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="149">
+
+ACTIFS IMMOBILIERS
+
+</td>
+      <td width="71">
+
+- 40 %
+
+</td>
+      <td width="73">
+
+- 30 %
+
+</td>
+      <td width="72">
+
+- 20 %
+
+</td>
+      <td width="60">
+
+- 10 %
+
+</td>
+      <td width="236">
+
+VALEUR DE RÉALISATION
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Cotés
+
+</td>
+      <td width="71">
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="60">
+
+</td>
+      <td width="236">
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Non cotés
+
+</td>
+      <td width="71">
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="60">
+
+</td>
+      <td width="236">
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Total
+
+</td>
+      <td width="71">
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="72">
+
+</td>
+      <td width="60">
+
+</td>
+      <td width="236">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="245">
+
+ENGAGEMENTS D'ASSURANCE VIE EN FRANCS Engagements viagers d'assurance non vie et PPE
+
+</td>
+      <td width="60">
+
+E(TEC 10) - 330 pb
+
+</td>
+      <td width="60">
+
+E(TEC 10) - 230 pb
+
+</td>
+      <td width="60">
+
+E(TEC 10) - 130 pb
+
+</td>
+      <td width="60">
+
+E(TEC 10) - 30 pb
+
+</td>
+      <td width="48">
+
+TEC 10 - 30 pb
+
+</td>
+      <td width="60">
+
+E(TEC 10) + 170 pb
+
+</td>
+      <td width="68">
+
+E(TEC 10) + 370 pb
+
+</td>
+    </tr>
+    <tr>
+      <td width="245">
+
+Provisions pour participation aux excédents (3)
+
+</td>
+      <td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="48">
+      </td><td width="60">
+      </td><td width="68">
+    </td></tr>
+    <tr>
+      <td width="245">
+
+Engagements en francs liés à des contrats rachetables (4)
+
+</td>
+      <td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="48">
+      </td><td width="60">
+      </td><td width="68">
+    </td></tr>
+    <tr>
+      <td width="245">
+
+Autres engagements en francs
+
+</td>
+      <td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="48">
+      </td><td width="60">
+      </td><td width="68">
+    </td></tr>
+    <tr>
+      <td width="245">
+
+Total
+
+</td>
+      <td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="60">
+      </td><td width="48">
+      </td><td width="60">
+      </td><td width="68">
+    </td></tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="281">
+
+ENGAGEMENTS EN UNITÉS DE COMPTE
+
+</td>
+      <td width="72">
+
+- 40 %
+
+</td>
+      <td width="72">
+
+- 30 %
+
+</td>
+      <td width="72">
+
+- 20 %
+
+</td>
+      <td width="60">
+
+- 10 %
+
+</td>
+      <td width="104">
+
+VALEUR DE RÉALISATION
+
+</td>
+    </tr>
+    <tr>
+      <td width="281">
+
+Actif représentatif
+
+</td>
+      <td width="72">
+      </td><td width="72">
+      </td><td width="72">
+      </td><td width="60">
+      </td><td width="104">
+    </td></tr>
+    <tr>
+      <td width="281">
+
+Engagements sans risque de placement
+
+</td>
+      <td width="72">
+      </td><td width="72">
+      </td><td width="72">
+      </td><td width="60">
+      </td><td width="104">
+    </td></tr>
+    <tr>
+      <td width="281">
+
+Résultat probable lié aux engagements avec risque de placement
+
+</td>
+      <td width="72">
+      </td><td width="72">
+      </td><td width="72">
+      </td><td width="60">
+      </td><td width="104">
+    </td></tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="197">
+
+AUTRES PROVISIONS TECHNIQUES
+
+</td>
+      <td width="72">
+
+N
+
+</td>
+      <td width="84">
+
+N + 1
+
+</td>
+      <td width="84">
+
+N + 2
+
+</td>
+      <td width="84">
+
+N + 3
+
+</td>
+      <td width="72">
+
+N + 4
+
+</td>
+      <td width="68">
+
+N + 5 et ultérieurs
+
+</td>
+    </tr>
+    <tr>
+      <td width="197">
+
+Provisions pour primes non acquises
+
+</td>
+      <td width="72">
+      </td><td width="84">
+      </td><td width="84">
+      </td><td width="84">
+      </td><td width="72">
+      </td><td width="68">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+Provisions pour risques en cours
+
+</td>
+      <td width="72">
+      </td><td width="84">
+      </td><td width="84">
+      </td><td width="84">
+      </td><td width="72">
+      </td><td width="68">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+Provisions pour sinistres à payer
+
+</td>
+      <td width="72">
+      </td><td width="84">
+      </td><td width="84">
+      </td><td width="84">
+      </td><td width="72">
+      </td><td width="68">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+Provisions pour risques croissants
+
+</td>
+      <td width="72">
+      </td><td width="84">
+      </td><td width="84">
+      </td><td width="84">
+      </td><td width="72">
+      </td><td width="68">
+    </td></tr>
+    <tr>
+      <td width="197">
+
+Total
+
+</td>
+      <td width="72">
+      </td><td width="84">
+      </td><td width="84">
+      </td><td width="84">
+      </td><td width="72">
+      </td><td width="68">
+    </td></tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2" width="185">
+
+PREMIÈRES CONTREPARTIES (5)
+
+</td>
+      <td colspan="2" width="252">
+
+VALEUR comptable
+
+</td>
+      <td colspan="2" width="224">
+
+VALEUR de réalisation
+
+</td>
+    </tr>
+    <tr>
+      <td width="132">
+
+Produits de taux
+
+</td>
+      <td width="120">
+
+Autres
+
+</td>
+      <td width="120">
+
+Produits de taux
+
+</td>
+      <td width="104">
+
+Autres
+
+</td>
+    </tr>
+    <tr>
+      <td width="185">
+
+1
+
+</td>
+      <td width="132">
+      </td><td width="120">
+      </td><td width="120">
+      </td><td width="104">
+    </td></tr>
+    <tr>
+      <td width="185">
+
+2
+
+</td>
+      <td width="132">
+      </td><td width="120">
+      </td><td width="120">
+      </td><td width="104">
+    </td></tr>
+    <tr>
+      <td width="185">
+
+3
+
+</td>
+      <td width="132">
+      </td><td width="120">
+      </td><td width="120">
+      </td><td width="104">
+    </td></tr>
+    <tr>
+      <td width="185">
+
+4
+
+</td>
+      <td width="132">
+      </td><td width="120">
+      </td><td width="120">
+      </td><td width="104">
+    </td></tr>
+    <tr>
+      <td width="185">
+
+5
+
+</td>
+      <td width="132">
+      </td><td width="120">
+      </td><td width="120">
+      </td><td width="104">
+    </td></tr>
+    <tr>
+      <td colspan="5" width="661">
+
+(1) E(TEC 10) est le nombre entier de centaines de points de base immédiatement inférieur à la valeur annuelle du TEC 10.
+
+(2) Les instruments à terme sont évalués à leurs coûts de remplacement déduits de chacune des valeurs de réalisation simulées
+sur les actifs sous-jacents.
+
+(3) La provision pour participation aux excédents est évaluée à sa dernière valeur comptable connue.
+
+(4) Les provisions mathématiques sont évaluées avec application, au titre des charges de gestion, d'un abattement de 30
+points de base à chacun des taux retenus.
+
+(5) Pour ces évaluations, une contrepartie est soit une société isolée, soit plusieurs sociétés appartenant au même groupe.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
+
+
 ###### Article Annexe à l'article A344-3
 
 Modèles types de comptes annuels
@@ -79073,7 +81612,7 @@ _Abrogé par_:
   - Arrêté du 28 décembre 2015 - art. 2
 
 
-##### Annexes A344-10  : ETATS<a id=484></a>
+##### Annexes A344-10  : ETATS<a id=485></a>
 
 ###### Article Annexe A344-10 ETAT C1
 
@@ -84801,11 +87340,11 @@ _Cite_:
   - Code des assurances - art. L310-1 (V)
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=485></a>
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=486></a>
 
-#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=486></a>
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=487></a>
 
-##### Section II : Conditions d'exercice<a id=487></a>
+##### Section II : Conditions d'exercice<a id=488></a>
 
 ###### Article A353-1
 
@@ -84841,9 +87380,9 @@ _Cite_:
   - Code des assurances - art. L353-4
 
 
-### Titre VI : Libre établissement et libre prestation de services communautaires<a id=488></a>
+### Titre VI : Libre établissement et libre prestation de services communautaires<a id=489></a>
 
-#### Chapitre II : Conditions d'exercice.<a id=489></a>
+#### Chapitre II : Conditions d'exercice.<a id=490></a>
 
 ###### Article A362-1
 
@@ -84951,15 +87490,15 @@ _Cite_:
   - Code des assurances - art. R321-1 (V)
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=490></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=491></a>
 
-### Titre II : Le fonds de garantie<a id=491></a>
+### Titre II : Le fonds de garantie<a id=492></a>
 
-#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=492></a>
+#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=493></a>
 
-##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=493></a>
+##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=494></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=494></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=495></a>
 
 ###### Article A421-1
 
@@ -84999,9 +87538,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R420-69
 
 
-##### Section IV : Régime financier du fonds de garantie<a id=495></a>
+##### Section IV : Régime financier du fonds de garantie<a id=496></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=496></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=497></a>
 
 ###### Article A421-2
 
@@ -85043,9 +87582,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances R420-35
 
 
-##### Section V : Régime financier du fonds de garantie<a id=497></a>
+##### Section V : Régime financier du fonds de garantie<a id=498></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=498></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=499></a>
 
 ###### Article A421-3
 
@@ -85115,7 +87654,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=499></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=500></a>
 
 ###### Article A422-1
 
@@ -85140,11 +87679,11 @@ _Cite_:
   - Code des assurances - art. R422-4 (V)
 
 
-### Titre III : Organismes particuliers d'assurance<a id=500></a>
+### Titre III : Organismes particuliers d'assurance<a id=501></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=501></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=502></a>
 
-##### Section I : Dispositions générales.<a id=502></a>
+##### Section I : Dispositions générales.<a id=503></a>
 
 ###### Article A431-1
 
@@ -85177,9 +87716,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R431-19
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=503></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=504></a>
 
-##### Paragraphe 4 : Risques d'attentat.<a id=504></a>
+##### Paragraphe 4 : Risques d'attentat.<a id=505></a>
 
 ###### Article A431-5
 
@@ -85230,9 +87769,9 @@ _Cite_:
   - Code des assurances - art. L431-10 (V)
 
 
-##### Section III : Opérations de gestion.<a id=505></a>
+##### Section III : Opérations de gestion.<a id=506></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=506></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=507></a>
 
 ###### Article A431-7
 
@@ -85378,7 +87917,7 @@ _Cite_:
   - Loi n°64-706 du 10 juillet 1964 - art. 5 (Ab)
 
 
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=507></a>
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=508></a>
 
 ###### Article A431-8
 
@@ -85539,11 +88078,11 @@ _Cite_:
   - Code des assurances - art. A335-1 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=508></a>
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=509></a>
 
-##### Section III : Risques garantis.<a id=509></a>
+##### Section III : Risques garantis.<a id=510></a>
 
-##### Paragraphe 6 : Dispositions communes.<a id=510></a>
+##### Paragraphe 6 : Dispositions communes.<a id=511></a>
 
 ###### Article A432-1
 
@@ -85788,11 +88327,11 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=511></a>
+### Titre IV : Régimes particuliers d'assurance<a id=512></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=512></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=513></a>
 
-##### Section II : Règles techniques et comptables.<a id=513></a>
+##### Section II : Règles techniques et comptables.<a id=514></a>
 
 ###### Article A441-1
 
@@ -85848,7 +88387,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
-##### Section II : Règles techniques et comptables.<a id=514></a>
+##### Section II : Règles techniques et comptables.<a id=515></a>
 
 ###### Article A441-2
 
@@ -86050,11 +88589,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=515></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=516></a>
 
-### Titre Ier : Présentation des opérations.<a id=516></a>
+### Titre Ier : Présentation des opérations.<a id=517></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=517></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=518></a>
 
 ###### Article A513-1
 
@@ -86229,9 +88768,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R513-2 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=518></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=519></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=519></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=520></a>
 
 ###### Article A514-1
 
@@ -86288,7 +88827,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=520></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=521></a>
 
 ###### Article A516-1
 
