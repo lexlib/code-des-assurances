@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-09-15
+Version Consolidée au 1994-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -212,7 +212,7 @@ Version Consolidée au 1994-09-15
           - [Section IV : Contrôle de l'obligation d'assurance. (art. R*211-19 à R211-21-7)](#209)
             - [Paragraphe 1 : L'attestation d'assurance. (art. R*211-19 à R211-21)](#210)
             - [Paragraphe 2 : Le certificat d'assurance. (art. R211-21-1 à R211-21-7)](#211)
-          - [Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules. (art. R*211-22 à R211-28)](#212)
+          - [Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules. (art. R*211-22 à R211-27)](#212)
           - [Section VI : Procédures d'indemnisation. (art. R211-29 à R211-44)](#213)
           - [Section VII : Pénalités. (art. R211-45)](#214)
         - [Chapitre III : Contribution au profit de la sécurité sociale. (art. R*213-1 à R*213-8)](#215)
@@ -10592,10 +10592,10 @@ _Cite_:
 
 ###### Article L310-25
 
-Le redressement judiciaire institué par la loi n° 85-98 du 25 janvier 1985 précitée ne peut être ouvert à l'égard d'une
-entreprise soumise aux dispositions du présent livre qu'à la requête de la commission de contrôle des assurances ; le
-tribunal peut également se saisir d'office ou être saisi par le procureur de la République d'une demande d'ouverture de cette
-procédure après avis conforme de la commission de contrôle des assurances.
+Le redressement ou la liquidation judiciaires institué par la loi n° 85-98 du 25 janvier 1985 précitée ne peut être ouvert à
+l'égard d'une entreprise soumise aux dispositions du présent livre qu'à la requête de la commission de contrôle des
+assurances ; le tribunal peut également se saisir d'office ou être saisi par le procureur de la République d'une demande
+d'ouverture de cette procédure après avis conforme de la commission de contrôle des assurances.
 
 Le président du tribunal ne peut être saisi d'une demande d'ouverture du règlement amiable institué par la loi n° 84-148 du
 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises à l'égard d'une entreprise
@@ -10612,13 +10612,9 @@ _Cite_:
   - Loi n°84-148 1984-03-01
   - Loi n°85-98 1985-01-25
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
-_Transféré par_:
-
-  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+  - Loi n°94-475 du 10 juin 1994 - art. 95 () JORF 11 juin 1994 en vigueur le 1er octobre 1994
 
 _Cité par_:
 
@@ -10634,10 +10630,6 @@ _Cité par_:
   - Code des assurances - art. L432-4 (V)
   - Code des assurances - art. R310-23 (VD)
   - Code des assurances - art. R322-1 (V)
-
-_Anciens textes_:
-
-  - Code des assurances - art. L326-1 (M)
 
 
 ##### Section IV : Sanctions.<a id=77></a>
@@ -19675,10 +19667,8 @@ avant l'expiration de ce délai.
 
 Les documents justificatifs prévus au présent article n'impliquent pas une obligation de garantie à la charge de l'assureur.
 
-Les dispositions du présent article ne sont pas applicables aux conducteurs de véhicules ayant leur stationnement habituel,
-au sens de l'article L. 211-4, sur le territoire d'un des Etats membres de la Communauté économique européenne autres que la
-France ou sur le territoire de l'un des Etats suivants : Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse
-et Liechtenstein.
+Les dispositions du présent article ne sont pas applicables aux conducteurs de véhicules ayant leur stationnement habituel au
+sens de l'article L. 211-4 sur le territoire d'un Etat, autre que la France et Monaco, visé au même article.
 
 **Liens relatifs à cet article**
 
@@ -19688,7 +19678,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-111 1989-02-21 art. 1 JORF 23 février 1989
+  - Décret n°94-847 du 26 septembre 1994 - art. 1 () JORF 1er octobre 1994
 
 _Cité par_:
 
@@ -20346,40 +20336,6 @@ _Anciens textes_:
   - Décret n°59-135 1959-01-07 art. 34
 
 
-###### Article R*211-27
-
-Les dispositions des articles R. 211-22 à R. 211-26 ne sont pas applicables aux personnes qui font pénétrer en France des
-véhicules ayant leur stationnement habituel sur le territoire d'un des Etats membres de la Communauté économique européenne
-autres que la France ou sur le territoire du Saint-Siège, de Saint-Marin ou de Monaco.
-
-Elles ne sont pas non plus applicables aux personnes faisant pénétrer en France des véhicules en provenance de ces Etats et
-ayant leur stationnement habituel sur le territoire d'un pays tiers.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°86-452 du 14 mars 1986 - art. 33 (V)
-  - Arrêté du 12 février 1987 - art. 1 (V)
-  - Code des assurances - art. R*420-33 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R*211-22 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R*211-23 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R*211-26 (V)
-  - TXT_ASSOCIE: Code des assurances - art. R211-24 (M)
-
-_Cite_:
-
-  - Code des assurances R211-22 à R211-26
-
-
 ###### Article R211-24
 
 L'assurance frontière est souscrite auprès du groupement de coassurance "Assurance Frontière" régi par les articles R. 342-13
@@ -20422,40 +20378,45 @@ _Cite_:
   - Code des assurances R342-13 à R342-15
 
 
-###### Article R211-28
+###### Article R211-27
 
-Les dispositions des articles R. 211-22 à R. 211-26 ne sont pas applicables aux personnes qui font pénétrer en France
-métropolitaine des véhicules ayant leur stationnement habituel sur le territoire de l'un des Etats suivants : Autriche,
-Finlande, Norvège, Suède, Suisse et Liechtenstein.
+Les dispositions des articles R. 211-23 à R. 211-26 ne sont pas applicables aux personnes qui font pénétrer en France des
+véhicules ayant leur stationnement habituel sur le territoire d'un Etat, autre que la France, visé à l'article L. 211-4.
+
+Elles ne sont pas non plus applicables aux personnes qui font pénétrer en France des véhicules en provenance de la Communauté
+européenne, du Saint-Siège, de Saint-Marin ou de Monaco et ayant leur stationnement habituel sur le territoire d'un pays
+tiers.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-847 du 26 septembre 1994 - art. 3 (V) JORF 1er octobre 1994
-
-_Cité par_:
-
-  - Décret n°94-847 du 26 septembre 1994 - art. 3 (V)
-
 **Liens**:
 
+  - SPEC_APPLI: Arrêté 1987-02-12 *pays tiers*
+  - SPEC_APPLI: Décret n°86-452 1986-03-14 art. 33 *Espagne - Portugal*
+  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
   - TXT_ASSOCIE: Code des assurances - art. R*211-22 (M)
   - TXT_ASSOCIE: Code des assurances - art. R*211-23 (M)
   - TXT_ASSOCIE: Code des assurances - art. R*211-26 (V)
   - TXT_ASSOCIE: Code des assurances - art. R211-24 (M)
 
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Cité par_:
+
+  - Décret n°86-452 du 14 mars 1986 - art. 33 (V)
+  - Arrêté du 12 février 1987 - art. 1 (V)
+  - Code des assurances - art. R*420-33 (M)
+
+_Modifié par_:
+
+  - Décret n°94-847 du 26 septembre 1994 - art. 2 () JORF 1er octobre 1994
+
 _Cite_:
 
-  - Code des assurances R211-22 à R211-26
-
-_Anciens textes_:
-
-  - Décret n°59-135 1959-01-07 art. 33 bis
+  - Code des assurances - art. L211-4 (V)
+  - Code des assurances - art. R*211-23 (V)
 
 
 ##### Section VI : Procédures d'indemnisation.<a id=213></a>
@@ -34314,12 +34275,10 @@ Sont prises en charge par le fonds de garantie, conformément aux dispositions d
 victimes d'accidents mentionnés à l'article L. 421-1 ou à leurs ayants droit à la condition que ces accidents soient survenus
 en France métropolitaine, dans la collectivité territoriale de Mayotte ou dans les départements d'outre-mer.
 
-Ne sont pas prises en charge par le fonds de garantie les indemnités dues aux victimes d'accidents dans lesquels sont
-impliqués des véhicules terrestres à moteur ainsi que par les remorques ou semi-remorques de ces véhicules, ayant leur
-stationnement habituel sur le territoire d'un des Etats membres de la Communauté économique européenne autres que la France
-ou sur le territoire d'un des Etats suivants : Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et
-Liechtenstein, sauf quand l'indemnisation de ces victimes n'incombe pas au bureau central français, pour leur totalité ou en
-partie.
+Ne sont prises en charge par le fonds de garantie les indemnités dues aux victimes d'accidents dans lesquels sont impliqués
+des véhicules terrestres à moteur ainsi que les remorques ou semi-remorques de ces véhicules, ayant leur stationnement
+habituel sur le territoire d'un Etat, autre que la France, visé à l'article L. 211-4, que lorsque l'indemnisation de ces
+victimes n'incombe pas au bureau central français pour leur totalité ou en partie.
 
 Le bureau central français est le bureau national d'assurance constitué en France dans les conditions mentionnées au deuxième
 alinéa de l'article R. 211-22.
@@ -34327,31 +34286,36 @@ alinéa de l'article R. 211-22.
 Les dispositions des articles R. 421-5 à R. 421-9 sont applicables aux refus de prise en charge opposés par le bureau central
 français.
 
+**Nota:**
+
+- Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à
+la " collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
+territoriale " est remplacée par la référence à la " collectivité départementale ".
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
-
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
 _Modifié par_:
 
-  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988
-  - Décret n°94-182 du 1 mars 1994 - art. 6 () JORF 3 mars 1994
-  - Décret n°94-182 du 1 mars 1994 - art. 7 () JORF 3 mars 1994
+  - Décret n°94-847 du 26 septembre 1994 - art. 4 () JORF 1er octobre 1994
 
 _Cite_:
 
+  - Code des assurances - art. L211-4 (M)
   - Code des assurances - art. L421-1 (M)
-  - Code des assurances L421-1, R211-22, R421-5 à R421-9
+  - Code des assurances L421-1, L211-4, R211-22, R421-5 à R421-9
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L420-6 (T)
+  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
 _Anciens textes_:
 
   - Code des assurances - art. R*420-1 (T)
-  - Code des assurances R420-1
 
 _Cité par_:
 
@@ -34359,10 +34323,6 @@ _Cité par_:
   - Code des assurances - art. R421-18 (V)
   - Code des assurances - art. R421-25-1 (V)
   - Code des assurances - art. R421-58 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
 
 ##### Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne.<a id=321></a>
@@ -35907,7 +35867,7 @@ bénéficiaires d'une assurance, est assise sur le montant total des indemnités
 dommages résultant de ces accidents. Sont considérées comme bénéficiaires d'une assurance, au sens du présent article, les
 personnes dont la responsabilité civile est couverte par un contrat d'assurance dans les conditions prévues par l'article L.
 211-1 ; un tel bénéfice ne leur est toutefois acquis, au sens du présent article, que pour la part excédant la franchise
-prévue éventuellement par leur contrat en application de l'article R. 211-9.
+prévue éventuellement par leur contrat en application de l'article L. 121-1.
 
 En cas d'instance judiciaire, la décision doit faire apparaître si le responsable est ou non bénéficiaire d'une assurance. La
 décision de justice ou la transaction doit opérer, le cas échéant, une ventilation entre les indemnités dues à titre de
@@ -35936,8 +35896,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-308 du 31 mars 1992 - art. 11 () JORF 1er avril 1992 en vigueur le 20 novembre 1992
-  - Décret n°92-308 du 31 mars 1992 - art. 13 (V) JORF 1er avril 1992 en vigueur le 20 novembre 1992
+  - Décret n°94-847 du 26 septembre 1994 - art. 5 () JORF 1er octobre 1994
 
 **Liens**:
 
@@ -35963,10 +35922,10 @@ _Cité par_:
 
 _Cite_:
 
+  - Code des assurances - art. L121-1 (V)
   - Code des assurances - art. L211-1 (M)
   - Code des assurances - art. L421-2 (M)
   - Code des assurances - art. L421-4 (M)
-  - Code des assurances - art. R211-9 (Ab)
 
 _Anciens textes_:
 
@@ -36196,20 +36155,20 @@ _Anciens textes_:
 
 ###### Article R421-38
 
-Pour l'application des dispositions de l'article 366 ter du code rural, les contributions prévues pour l'alimentation du
-fonds de garantie sont assises dans les conditions suivantes :
+Pour l'application des dispositions de l'article L. 421-8 du code des assurances, les contributions prévues pour
+l'alimentation du fonds de garantie sont assises dans les conditions suivantes :
 
 1° La contribution des entreprises d'assurance est proportionnelle aux sommes recouvrées par elles au titre de la
 contribution des assurés mentionnée au 3° ci-dessous.
 
-2° La contribution des responsables, non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
-personne non bénéficiaires d'une assurance, est assise sur le montant total des indemnités mises à leur charge à titre de
-réparation des dommages résultant de ces accidents. Sont considérées comme bénéficiaires d'une assurance au sens du présent
-article les personnes dont la responsabilité civile résultant d'accidents de chasse ou de destruction des animaux nuisibles
-est couverte par un contrat d'assurance. En cas d'instance judiciaire, la décision doit faire apparaître si le responsable
-est ou non bénéficiaire d'une assurance. La décision de justice ou la transaction doit opérer le cas échéant une ventilation
-entre les indemnités dues à titre de réparation des dommages résultant d'atteintes à la personne et celles qui sont dues à
-titre de réparation de dommages aux biens.
+2° La contribution des responsables, non bénéficiaires d'une assurance, d'accidents qui donnent naissance à des dommages
+résultant d'atteintes à la personne, est assise sur le montant total des indemnités mises à leur charge à titre de réparation
+des dommages résultant de ces accidents. Sont considérées comme bénéficiaires d'une assurance au sens du présent article les
+personnes dont la responsabilité civile résultant d'accidents de chasse ou de destruction des animaux nuisibles est couverte
+par un contrat d'assurance. En cas d'instance judiciaire, la décision doit faire apparaître si le responsable est ou non
+bénéficiaire d'une assurance. La décision de justice ou la transaction doit opérer le cas échéant une ventilation entre les
+indemnités dues à titre de réparation des dommages résultant d'atteintes à la personne et celles qui sont dues en réparation
+des dommages aux biens.
 
 3° La contribution des assurés est fixée à une somme forfaitaire par personne garantie pour sa responsabilité civile
 résultant d'accidents de chasse ou de destruction des animaux nuisibles.
@@ -36223,9 +36182,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Transféré par_:
+_Modifié par_:
 
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+  - Décret n°94-847 du 26 septembre 1994 - art. 6 () JORF 1er octobre 1994
 
 **Liens**:
 
@@ -36245,15 +36204,14 @@ _Cité par_:
   - Code des assurances - art. R421-44 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 323 (P)
 
+_Cite_:
+
+  - Code des assurances - art. L421-8 (M)
+  - Code des assurances - art. R421-27 (M)
+
 _Anciens textes_:
 
   - Code des assurances - art. R*420-38 (T)
-  - Code des assurances R420-38
-
-_Cite_:
-
-  - Code des assurances - art. R421-27 (M)
-  - Code rural 366 ter
 
 
 ###### Article R421-39
