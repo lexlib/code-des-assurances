@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1998-12-30
+Version Consolidée au 1999-01-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -42080,14 +42080,17 @@ _Cite_:
 
 Toute correspondance ou publicité émanant d'une personne ou société mentionnée au 1° de l'article R. 511-2, agissant en cette
 qualité, doit comporter, dans son en-tête, le nom de cette personne ou la raison sociale de cette société, suivi des mots
-"courtier d'assurances" ou "société de courtage d'assurances".
+"courtier d'assurances" ou "société de courtage d'assurances". Toute publicité, quelle qu'en soit la forme, émanant d'une
+telle personne ou société et concernant la souscription d'un contrat auprès d'une entreprise mentionnée à l'article L. 310-1
+ou l'adhésion à un tel contrat ou exposant, en vue de cette souscription ou adhésion, les conditions de garantie de ce
+contrat doit indiquer le nom ou la raison sociale de ladite entreprise. 
 
-Toute correspondance ou publicité, quelle qu'en soit la forme, émanant d'une personne ou d'une société habilitée à présenter
-des opérations d'assurances et concernant la souscription d'un contrat auprès d'une entreprise mentionnée à l'article L.
-310-1 ou l'adhésion à un tel contrat ou exposant, en vue de cette souscription ou adhésion, les conditions de garantie de ce
-contrat doit indiquer le nom de la personne ou la dénomination sociale de la société qui fait cette présentation, la qualité
-en vertu de laquelle elle présente des opérations d'assurances ainsi que le nom ou la raison sociale de l'entreprise
-d'assurances concernée.
+Toute correspondance ou publicité, quelle qu'en soit la forme, émanant d'une personne ou d'une société autre que celles
+mentionnées au 1° de l'article R. 511-2 et concernant la souscription d'un contrat auprès d'une entreprise mentionnée à
+l'article L. 310-1 ou l'adhésion à un tel contrat ou exposant, en vue de cette souscription ou adhésion, les conditions de
+garantie de ce contrat doit indiquer le nom de la personne ou la dénomination sociale de la société qui fait cette
+présentation, la qualité en vertu de laquelle elle présente des opérations d'assurances ainsi que le nom ou la raison sociale
+de l'entreprise d'assurances concernée.
 
 **Liens relatifs à cet article**
 
@@ -42097,7 +42100,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°96-901 du 15 octobre 1996 - art. 1 () JORF 16 octobre 1996 en vigueur le 1er janvier 1997
+  - Décret n°99-18 du 6 janvier 1999 - art. 1 () JORF 13 janvier 1999
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cite_:
 
