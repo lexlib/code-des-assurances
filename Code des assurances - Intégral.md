@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-03-17
+Version Consolidée au 2002-04-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -199,10 +199,10 @@ Version Consolidée au 2002-03-17
         - [Chapitre VI : L'assurance contre les actes de terrorisme (art. R126-1 à R126-2)](#196)
           - [Section II : Dommages matériels (art. R126-1 à R126-2)](#197)
         - [Chapitre VII : L'assurance de protection juridique. (art. R127-1)](#198)
-      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. R131-1 à R132-4)](#199)
+      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. R131-1 à R132-5)](#199)
         - [Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte. (art. R131-1 à R131-4)](#200)
-        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. R132-2 à R132-4)](#201)
-          - [Section I : Dispositions générales. (art. R132-2 à R132-4)](#202)
+        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. R132-2 à R132-5)](#201)
+          - [Section I : Dispositions générales. (art. R132-2 à R132-5)](#202)
       - [Titre V : Le contrat de capitalisation. (art. R*150-4 à R150-16)](#203)
         - [Chapitre unique (art. R*150-4 à R150-16)](#204)
           - [Section III : Tirages au sort. (art. R*150-4 à R150-16)](#205)
@@ -20379,6 +20379,25 @@ _Cite_:
 
   - Code des assurances - art. L112-4 (V)
   - Code des assurances - art. L132-5-1 (V)
+
+
+###### Article R132-5
+
+Le plafond mentionné au dernier alinéa de l'article L. 132-7 ne peut être inférieur à 120 000 Euros.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°2002-452 du 28 mars 2002 - art. 1 () JORF 5 avril 2002
+
+_Cite_:
+
+  - Code des assurances - art. L132-7 (V)
 
 
 ### Titre V : Le contrat de capitalisation.<a id=203></a>
