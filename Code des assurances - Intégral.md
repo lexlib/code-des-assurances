@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1979-01-01
+Version Consolidée au 1979-01-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -15150,20 +15150,20 @@ _Abrogé par_:
 
 ###### Article R*213-1
 
-Le taux de la cotisation d'assurance maladie instituée par l'article L. 213-1 est fixé à 3 % du montant des primes,
+Le taux de la cotisation d'assurance maladie instituée par l'article L. 213-1 est fixé à 6 % du montant des primes,
 cotisations ou fractions de prime ou de cotisation versées par les personnes mentionnées par le premier alinéa dudit article
 L. 213-1 à leurs assureurs pour la couverture des risques mentionnés par l'article L. 211-1 instituant une obligation
 d'assurance en matière de circulation des véhicules terrestres à moteur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°67-1211 1967-12-22 art. 1
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°79-84 1979-01-29 art. 1 JORF 31 janvier 1979
 
 _Cite_:
 
@@ -15181,17 +15181,17 @@ La cotisation est recouvrée par l'assureur et calculée sur la prime, cotisatio
 d'assurance et reversée par l'assureur à l'agence centrale des organismes de sécurité sociale sous déduction d'un prélèvement
 destiné à compenser les frais de recouvrement.
 
-Le taux du prélèvement prévu à l'alinéa ci-dessus est fixé à 3 %.
+Le taux du prélèvement prévu à l'alinéa ci-dessus est fixé à 1,5 p. 100.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-1211 1967-12-22 art. 2
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°79-84 1979-01-29 art. 2 JORF 31 janvier 1979
 
 **Liens**:
 
