@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-02-19
+Version Consolidée au 2002-02-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -2580,8 +2580,8 @@ _Cité par_:
 
 Les contrats d'assurance, souscrits par toute personne physique ou morale autre que l'Etat et garantissant les dommages
 d'incendie ou tous autres dommages à des biens situés en France, ainsi que les dommages aux corps de véhicules terrestres à
-moteur, ouvrent droit à la garantie de l'assuré contre les effets des catastrophes naturelles sur les biens faisant l'objet
-de tels contrats.
+moteur, ouvrent droit à la garantie de l'assuré contre les effets des catastrophes naturelles et des affaissements de terrain
+dus à des cavités souterraines et à des marnières sur les biens faisant l'objet de tels contrats.
 
 En outre, si l'assuré est couvert contre les pertes d'exploitation, cette garantie est étendue aux effets des catastrophes
 naturelles, dans les conditions prévues au contrat correspondant.
@@ -2594,15 +2594,14 @@ L'état de catastrophe naturelle est constaté par arrêté interministériel qu
 située la catastrophe ainsi que la nature des dommages résultant de celle-ci couverts par la garantie visée au premier alinéa
 du présent article.
 
+Les cavités souterraines considérées peuvent être naturelles ou d'origine humaine. Dans ce dernier cas, sont exclus de
+l'application du présent chapitre les dommages résultant de l'exploitation passée ou en cours d'une mine.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Loi n°92-665 du 16 juillet 1992 - art. 34 () JORF 17 juillet 1992
 
 _Cité par_:
 
@@ -2638,6 +2637,10 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2333-46-1 (V)
   - Code général des impôts, CGI. - art. 237 quater (V)
   - Code rural et de la pêche maritime - art. L151-37 (V)
+
+_Créé par_:
+
+  - Loi n°2002-276 du 27 février 2002 - art. 159 (Ab) JORF 28 février 2002
 
 
 ###### Article L125-2
