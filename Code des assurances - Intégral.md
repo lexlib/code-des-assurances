@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1998-12-10
+Version Consolidée au 1998-12-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -33991,11 +33991,11 @@ _Modifié par_:
 Les documents comptables relatifs aux opérations en devises doivent être tenus dans chacune des devises utilisées, dans les
 conditions fixées par arrêté du ministre chargé de l'économie, pris après avis du Conseil national de la comptabilité.
 Toutefois, les entreprises dont les opérations en devises ne sont pas significatives peuvent tenir leurs documents comptables
-uniquement en francs français.
+uniquement en francs français ou en unité euro.
 
-Les comptes annuels sont établis en francs français. Pour l'établissement des comptes annuels, les opérations en devises sont
-converties en francs français d'après les cours de change constatés à la date de la clôture des comptes ou, à défaut, à la
-date antérieure la plus proche.
+Les comptes annuels sont établis en francs français ou en unité euro. Pour l'établissement des comptes annuels, les
+opérations en devises sont converties en francs français ou en unité euro d'après les cours de change constatés à la date de
+la clôture des comptes ou, à défaut, à la date antérieure la plus proche.
 
 **Liens relatifs à cet article**
 
@@ -34005,8 +34005,9 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
-  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
+  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 (date d'effet - spécificités comptables)
+  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 (champ d'application territoriale - Mayotte)
+  - SPEC_APPLI: Décret n°98-1188 1998-12-24 art. 2 (modalités d'application - date d'effet)
   - SPEC_APPLI: Code des assurances - art. R*341-2 (M)
   - SPEC_APPLI: Code des assurances - art. R*341-3 (M)
   - SPEC_APPLI: Code des assurances - art. R*341-4 (M)
@@ -34015,7 +34016,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-481 du 8 juin 1994 - art. 15 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
+  - Décret n°98-1188 du 24 décembre 1998 - art. 1 () JORF 26 décembre 1998
 
 _Cité par_:
 
@@ -69968,11 +69969,11 @@ Pour l'application de l'article R. 341-7, sont considérés comme opérations en
 - les créances et prêts de toute nature libellés en devises ;
 
 - les acquisitions, cessions et autres opérations sur immeubles localisés dans des Etats où les transactions s'effectuent
-normalement dans une monnaie autre que le franc français, et sur parts de sociétés immobilières non cotées détenant de tels
-immeubles, à proportion de la valeur de ces immeubles ;
+normalement dans une monnaie autre que le franc français ou l'unité euro, et sur parts de sociétés immobilières non cotées
+détenant de tels immeubles, à proportion de la valeur de ces immeubles ;
 
 - les opérations sur titres de créance non amortissables, et titres de propriété ou assimilés autres que les titres de
-propriétés immobilières mentionnés ci-dessus lorsque la monnaie de négociation n'est pas le franc français ;
+propriétés immobilières mentionnés ci-dessus lorsque la monnaie de négociation n'est pas le franc français ou l'unité euro ;
 
 - les engagements pris ou reçus lorsque la réalisation de l'engagement constituerait une opération en devises au sens du
 présent article ;
@@ -69981,7 +69982,7 @@ présent article ;
 opérations en devises au sens du présent article.
 
 Les dispositions du précédent alinéa ne s'appliquent pas aux opérations sur éléments d'actif ou de passif inscrits en francs
-français au bilan du premier exercice ouvert à compter du 1er janvier 1994.
+français ou en unité euro au bilan du premier exercice ouvert à compter du 1er janvier 1994.
 
 Les opérations portant sur des titres représentatifs d'une participation au sens de l'article 20 du décret n° 83-1020 du 29
 novembre 1983 peuvent être considérées comme opérations en francs, même si la monnaie de négociation est une devise, lorsque
@@ -69989,12 +69990,12 @@ les titres ont vocation à être détenus de manière durable en raison de liens
 émettrice, et que la possession de ces titres permet d'exercer une influence notable sur la société émettrice ou d'en assurer
 le contrôle.
 
-Les dotations et reprises sur la réserve de capitalisation sont toujours des opérations en francs français y compris lorsque
-la cession qui donne lieu à la dotation ou à la reprise est une opération en devises. La conversion est effectuée d'après les
-cours de change au comptant constatés à la date de la clôture des comptes ou, à défaut, à la date antérieure la plus proche.
-La dotation et la reprise annuelle sur la provision pour exigibilité des engagements techniques sont toujours des opérations
-en francs. Pour le calcul de la provision pour perte de change, les situations par devise des différences de conversion actif
-et passif peuvent être compensées entre toutes devises.
+Les dotations et reprises sur la réserve de capitalisation sont toujours des opérations en francs français ou en unité euro y
+compris lorsque la cession qui donne lieu à la dotation ou à la reprise est une opération en devises. La conversion est
+effectuée d'après les cours de change au comptant constatés à la date de la clôture des comptes ou, à défaut, à la date
+antérieure la plus proche. La dotation et la reprise annuelle sur la provision pour exigibilité des engagements techniques
+sont toujours des opérations en francs ou en unité euro. Pour le calcul de la provision pour perte de change, les situations
+par devise des différences de conversion actif et passif peuvent être compensées entre toutes devises.
 
 **Liens relatifs à cet article**
 
@@ -70002,19 +70003,20 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1994-06-20 art. 2 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
+  - Arrêté 1998-12-24 art. 1 JORF 26 décembre 1998
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1998-12-24 art. 3 (modalités d'application - date d'effet)
+  - TXT_ASSOCIE: Code des assurances - art. R*331-17 (Ab)
 
 _Cite_:
 
   - Décret n°83-1020 du 29 novembre 1983 - art. 20 (Ab)
   - Code des assurances - art. R*341-7 (M)
   - Code des assurances - art. R331-1-1 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances - art. R*331-17 (Ab)
 
 
 ##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=469></a>
@@ -72040,6 +72042,8 @@ Le compte rendu détaillé annuel visé au 1° du I de l'article A. 344-6 compre
 
 3° Les états d'analyse des comptes énumérés à l'article A. 344-10.
 
+Il est établi dans la même monnaie que les comptes annuels mentionnés au 2° du I de l'article A. 344-6.
+
 Il est certifié par le président du conseil d'administration ou le président du directoire ou le directeur général unique
 dans les sociétés anonymes, par le directeur et par le président du conseil d'administration dans les sociétés d'assurance
 mutuelles et leurs unions, par le mandataire général ou son représentant légal dans les succursales d'entreprises étrangères,
@@ -72055,9 +72059,16 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+**Liens**:
 
-  - Arrêté 1995-07-28 art. 1, art. 2 JORF 27 août 1995
+  - SPEC_APPLI: Arrêté 1998-12-24 art. 2 (modalités d'application - date d'effet)
+  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+  - TXT_ASSOCIE: Code des assurances - art. R342-23 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
+
+_Modifié par_:
+
+  - Arrêté 1998-12-24 art. 2 JRF 26 décembre 1998
 
 _Cité par_:
 
@@ -72070,12 +72081,6 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L310-28 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R342-23 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
 ###### Article A344-9
