@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-08-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -112,15 +112,15 @@ Version Consolidée au 2001-07-13
           - [Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur. (art. L326-17 à L326-19)](#109)
         - [Chapitre VII : Privilèges. (art. L327-1 à L327-6)](#110)
         - [Chapitre VIII : Sanctions. (art. L328-1 à L328-16)](#111)
-      - [Titre III : Régime financier (art. L331-1 à L334-1)](#112)
+      - [Titre III : Régime financier (art. L331-1 à L334-3)](#112)
         - [Chapitre Ier : Les engagements réglementés. (art. L331-1 à L331-4)](#113)
           - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. L331-1 à L331-4)](#114)
-        - [Chapitre IV : Solvabilité des entreprises. (art. L334-1)](#115)
+        - [Chapitre IV : Solvabilité des entreprises. (art. L334-1 à L334-3)](#115)
       - [Titre IV : Dispositions comptables et statistiques (art. L341-1 à L345-2)](#116)
         - [Chapitre Ier : Principes généraux. (art. L341-1)](#117)
         - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation. (art. L342-1)](#118)
         - [Chapitre IV : Catégories d'assurance et états à produire. (art. L344-1)](#119)
-        - [Chapitre V : Comptes consolidés. (art. L345-1 à L345-2)](#120)
+        - [Chapitre V : Comptes consolidés. (art. L345-1-1 à L345-2)](#120)
       - [Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes (art. L351-1 à L354-2)](#121)
         - [Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages. (art. L351-1 à L351-10)](#122)
           - [Section I : Dispositions générales. (art. L351-1 à L351-2)](#123)
@@ -10128,20 +10128,14 @@ _Cite_:
 
 Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
 de l'article L. 310-1 et de l'article L. 310-1-1. Il précise les conditions dans lesquelles sont applicables auxdites
-entreprises les dispositions de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois
-régissant les sociétés anonymes. Des dispositions particulières tiennent compte du caractère non commercial des sociétés
-d'assurance mutuelles.
+entreprises les dispositions des articles L. 210-1 et suivants du code de commerce et des lois régissant les sociétés
+anonymes. Des dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance mutuelles.
 
 Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
 qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
-fonctionnement et de l'exercice du contrôle de l'Etat.
+fonctionnement, de leur contrôle interne et de l'exercice du contrôle de l'Etat.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24
-  - Code des assurances L310-1 et L310-1-1
 
 _Codifié par_:
 
@@ -10149,7 +10143,7 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 (date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001)
   - TXT_SOURCE: Code des assurances - art. A113-1 (V)
   - TXT_SOURCE: Code des assurances - art. A121-1 (M)
   - TXT_SOURCE: Code des assurances - art. A335-1 (V)
@@ -10175,11 +10169,10 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances - art. A335-7 (Ab)
   - TXT_SOURCE: Code des assurances - art. A335-8 (Ab)
   - TXT_SOURCE: Code des assurances - art. A335-9 (Ab)
-  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 1 () JORF 31 août 2001
 
 _Cité par_:
 
@@ -10194,6 +10187,12 @@ _Cité par_:
   - Code des assurances - art. L327-4 (VD)
   - Code des assurances - art. L328-14 (Ab)
   - Code des assurances - art. R*310-10 (M)
+
+_Cite_:
+
+  - Code de commerce. - art. L210-1 (V)
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L310-1-1 (V)
 
 _Anciens textes_:
 
@@ -10293,7 +10292,7 @@ _Abrogé par_:
 ###### Article L310-9-1
 
 Les dispositions de l'article L. 310-9 ne s'appliquent pas aux entreprises qui ne font pas l'objet des agréments prévus aux
-articles L. 321-1, L. 321-7 et L. 321-9.
+articles L. 321-1, L. 321-7 et L. 321-9 ou qui n'ont pas obtenu l'autorisation prévue à l'article L. 321-1-1.
 
 **Liens relatifs à cet article**
 
@@ -10301,13 +10300,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
-_Créé par_:
-
-  - Loi n°94-5 du 4 janvier 1994 - art. 12 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 1 () JORF 31 août 2001
 
 _Cité par_:
 
@@ -10317,8 +10312,13 @@ _Cite_:
 
   - Code des assurances - art. L310-9 (M)
   - Code des assurances - art. L321-1 (M)
+  - Code des assurances - art. L321-1-1 (M)
   - Code des assurances - art. L321-7 (V)
   - Code des assurances - art. L321-9 (M)
+
+**Liens**:
+
+  - HISTO: L> A(Loi 2003-706 2003-08-01 art. 30 VII JORF 2 août 2003)
 
 
 ###### Article L310-10
@@ -10467,10 +10467,11 @@ La commission peut décider de soumettre au contrôle toute personne physique ou
 d'assurance ou la présentation d'opérations d'assurance.
 
 La commission veille également au respect, par les entreprises soumises au contrôle de l'Etat en application de l'article L.
-310-1-1 et les sociétés de participations d'assurance définies à l'article L. 345-1, des dispositions législatives et
-réglementaires qui leur sont applicables en vertu du présent livre. Un arrêté du ministre chargé de l'économie détermine la
-nature, la périodicité et le contenu des informations et des documents que les entreprises mentionnées au présent alinéa sont
-tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui permettre d'exercer sa mission.
+310-1-1, les sociétés de groupe d'assurance et les sociétés de groupe mixtes d'assurance définies à l'article L. 322-1-2, des
+dispositions législatives et réglementaires qui leur sont applicables en vertu du présent livre. Un arrêté du ministre chargé
+de l'économie détermine la nature, la périodicité et le contenu des informations et des documents que les entreprises
+mentionnées au présent alinéa sont tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui
+permettre d'exercer sa mission.
 
 La commission s'assure également que les dispositions du titre VI du livre V du code monétaire et financier sont appliquées
 par les entreprises mentionnées à l'article L. 310-1 ainsi que par les personnes physiques ou morales mentionnées au
@@ -10540,11 +10541,15 @@ _Cite_:
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-1-1 (V)
   - Code des assurances - art. L310-2 (M)
-  - Code des assurances - art. L345-1 (M)
+  - Code des assurances - art. L322-1-2 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 42 () JORF 16 mai 2001
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 2 () JORF 31 août 2001
 
 
 ###### Article L310-12-1
@@ -10610,9 +10615,10 @@ _Anciens textes_:
 
 ###### Article L310-13
 
-Le contrôle des entreprises visées aux articles L. 310-1 et L. 310-1-1 et des sociétés de participations d'assurance est
-effectué sur pièces et sur place. La commission l'organise et en définit les modalités. Le corps des commissaires contrôleurs
-des assurances est mis à sa disposition à cette fin.
+Le contrôle des entreprises visées aux articles L. 310-1 et L. 310-1-1, des sociétés de groupe d'assurance et des sociétés de
+groupe mixtes d'assurance définies à l'article L. 322-1-2 ainsi que des personnes mentionnées au cinquième alinéa de l'
+article L. 310-12 est effectué sur pièces et sur place. La commission l'organise et en définit les modalités. Le corps des
+commissaires contrôleurs des assurances est mis à sa disposition à cette fin.
 
 Sont également mis à la disposition de la commission, en tant que de besoin, les membres de l'inspection générale des
 affaires sociales dans des conditions définies par décret.
@@ -10626,10 +10632,11 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
 
 _Modifié par_:
 
-  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 2 () JORF 31 août 2001
 
 _Cité par_:
 
@@ -10639,20 +10646,35 @@ _Cite_:
 
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-1-1 (V)
+  - Code des assurances L310-1, L310-1-1, L310-1-2, L310-12 al. 5
 
 
 ###### Article L310-14
 
-La commission peut demander aux entreprises visées aux articles L. 310-1 et L. 310-1-1 et aux sociétés de participations
-d'assurance toutes informations nécessaires à l'exercice de sa mission.
+La commission peut demander aux entreprises visées aux articles L. 310-1 et L. 310-1-1, aux sociétés de groupe d'assurance et
+aux sociétés de groupes mixtes d'assurance définies à l'article L. 322-1-2 ainsi qu'aux personnes mentionnées au cinquième
+alinéa de l'article L. 310-12, toutes informations nécessaires à l'exercice de sa mission.
 
 Elle peut également leur demander la communication des rapports des commissaires aux comptes et, d'une manière générale, de
 tous documents comptables dont elle peut, en tant que de besoin, demander la certification.
 
 Elle vérifie que les publications auxquelles sont astreintes les entreprises visées aux articles L. 310-1 et L. 310-1-1 et
-les sociétés de participations d'assurance sont régulièrement effectuées. Elle peut ordonner aux entreprises concernées de
-procéder à des publications rectificatives dans le cas où des inexactitudes ou des omissions auraient été relevées. Elle peut
-porter à la connaissance du public toutes informations qu'elle estime nécessaires.
+les sociétés de groupe d'assurance sont régulièrement effectuées. Elle peut ordonner aux entreprises concernées de procéder à
+des publications rectificatives dans le cas où des inexactitudes ou des omissions auraient été relevées. Elle peut porter à
+la connaissance du public toutes informations qu'elle estime nécessaires.
+
+La Commission de contrôle des assurances peut demander aux entreprises soumises à une surveillance complémentaire en
+application de l'article L. 334-3 les données ou informations qui, nécessaires à l'exercice de cette surveillance, sont
+détenues par leurs entreprises apparentées. Si ces dernières entreprises ne fournissent pas ces données et informations, la
+Commission de contrôle peut leur demander directement. Toutefois, s'agissant d'une institution de prévoyance ou union régie
+par le titre III du livre IX du code de la sécurité sociale ou d'une mutuelle ou union régie par le livre II du code de la
+mutualité, cette Commission de contrôle adresse sa demande à la commission mentionnée aux articles L. 951-1 du code de la
+sécurité sociale et L. 510-1 du code de la mutualité.
+
+Les entreprises soumises à une surveillance complémentaire et dont le siège social est situé en France transmettent les
+données ou informations nécessaires à leurs entreprises apparentées ayant leur siège social dans un Etat membre de la
+Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen pour l'exercice de la
+surveillance complémentaire par les autorités compétentes de cet Etat.
 
 **Liens relatifs à cet article**
 
@@ -10663,6 +10685,7 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
   - TXT_SOURCE: Arrêté du 16 mai 2002
   - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 1 ()
   - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 2 ()
@@ -10671,7 +10694,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 2 () JORF 31 août 2001
 
 _Cité par_:
 
@@ -10694,8 +10717,13 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de la sécurité sociale. - art. L951-1 (M)
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-1-1 (V)
+  - Code des assurances - art. L310-12 (M)
+  - Code des assurances - art. L322-1-2 (M)
+  - Code des assurances - art. L334-3 (M)
+  - Code de la mutualité - art. L510-1 (M)
 
 _Anciens textes_:
 
@@ -10705,39 +10733,41 @@ _Anciens textes_:
 ###### Article L310-15
 
 Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci, la commission peut décider d'étendre le
-contrôle sur place d'une entreprise mentionnée à l'article L. 310-1 ou à l'article L. 310-1-1, à toute société dans laquelle
-cette entreprise détient, directement ou indirectement, plus de la moitié du capital social ou des droits de vote, ainsi
-qu'aux organismes de toute nature ayant passé, directement ou indirectement, avec cette entreprise une convention de gestion,
-de réassurance ou de tout autre type susceptible d'altérer son autonomie de fonctionnement ou de décision concernant l'un
-quelconque de ses domaines d'activité. Cette extension du contrôle ne peut avoir d'autre objet que la vérification de la
-situation financière réelle de l'entreprise d'assurance contrôlée ainsi que le respect par cette entreprise des engagements
-qu'elle a contractés à l'égard des assurés ou bénéficiaires de contrats.
-
-Si cette entreprise fait l'objet de mesures de redressement et de sauvegarde, le contrôle sur place peut être également
-étendu aux personnes morales qui la contrôlent directement ou indirectement, au sens de l'article 355-1 de la loi n° 66-537
-du 24 juillet 1966 sur les sociétés commerciales, ou qui font partie d'un même ensemble au sens de l'article L. 345-1 du
-présent code, afin de vérifier si ces personnes morales ont la capacité de participer aux mesures de redressement et de
-sauvegarde.
+contrôle sur place d'une entreprise mentionnée à l'article L. 310-1 à ses entreprises apparentées au sens du 4° de l'article
+L. 334-2 ainsi qu'aux organismes de toute nature ayant passé, directement ou indirectement, avec cette entreprise une
+convention de gestion, de réassurance ou de tout autre type susceptible d'altérer son autonomie de fonctionnement ou de
+décision concernant l'un quelconque de ses domaines d'activité. Lorsque l'une des entreprises citées au présent article est
+une institution de prévoyance ou union régie par le titre III du livre IX du code de la sécurité sociale ou une mutuelle ou
+une union régie par le livre II du code de la mutualité, l'extension du contrôle de la commission consiste dans le recueil
+d'informations auprès de l'autorité chargée du contrôle de cette entreprise. Dans tous les cas, cette extension du contrôle
+ne peut avoir d'autre objet que la vérification de la situation financière réelle de l'entreprise d'assurance contrôlée ainsi
+que le respect par cette entreprise des engagements qu'elle a contractés à l'égard des assurés ou bénéficiaires de contrat ou
+de s'assurer que les personnes morales qui la contrôlent directement ou indirectement au sens de l'article L. 233-3 du code
+de commerce, ou qui font partie du même groupe d'assurance au sens du 6° de l'article L. 334-2 du présent code, ont la
+capacité de participer à d'éventuelles mesures de redressement et de sauvegarde de cette entreprise.
 
 Les contrôles sur place peuvent également, dans le cadre de conventions internationales, être étendus aux succursales ou
 filiales d'assurance implantées à l'étranger d'entreprises d'assurance de droit français.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 art. 355-1
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. L310-1-1 (V)
-  - Code des assurances - art. L345-1 (M)
-
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
+
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 2 () JORF 31 août 2001
+
+_Cite_:
+
+  - Code de commerce. - art. L233-3 (M)
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L334-2 (M)
 
 _Cité par_:
 
@@ -10928,9 +10958,9 @@ _Cite_:
 
 ###### Article L310-18-1
 
-Lorsqu' une société de participations d'assurance enfreint une disposition législative ou réglementaire qui lui est
-applicable en vertu du présent livre, la commission de contrôle des assurances peut, après avoir mis ses dirigeants en mesure
-de lui présenter leurs observations, lui adresser une mise en garde. Elle peut, dans les mêmes conditions, lui adresser une
+Lorsqu' une société de groupe d'assurance enfreint une disposition législative ou réglementaire qui lui est applicable en
+vertu du présent livre, la commission de contrôle des assurances peut, après avoir mis ses dirigeants en mesure de lui
+présenter leurs observations, lui adresser une mise en garde. Elle peut, dans les mêmes conditions, lui adresser une
 injonction à l'effet de prendre, dans un délai déterminé, toutes mesures destinées à se mettre en conformité avec les règles
 applicables.
 
@@ -10950,9 +10980,13 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
+
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 10 () JORF 31 août 2001
 
 _Cité par_:
 
@@ -11027,8 +11061,9 @@ _Cité par_:
 ###### Article L310-19
 
 La commission de contrôle des assurances peut demander aux commissaires aux comptes d'une entreprise visée à l'article L.
-310-1, d'une entreprise visée à l'article L. 310-1-1 ou d'une société de participations d'assurance tout renseignement sur
-l'activité de l'organisme contrôlé. Les commissaires aux comptes sont alors déliés, à son égard, du secret professionnel.
+310-1, d'une entreprise visée à l'article L. 310-1-1, d'une société de groupe d'assurance ou d'une société de groupe mixte
+d'assurance définies à l'article L. 322-1-2, tout renseignement sur l'activité de l'organisme contrôlé. Les commissaires aux
+comptes sont alors déliés, à son égard, du secret professionnel.
 
 Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à la Commission de contrôle des assurances tout
 fait concernant l'entreprise ou la société visée à l'alinéa précédent ou toute décision prise par ses dirigeants, dont ils
@@ -11043,7 +11078,8 @@ présent code, susceptible d'avoir des effets significatifs sur la situation fin
 
 La même obligation s'applique aux faits et aux décisions dont ils viendraient à avoir connaissance dans l'exercice de leur
 mission de commissaire aux comptes dans une entreprise mère ou filiale de l'entreprise visée à l'article L. 310-1 ou à
-l'article L. 310-1-1 ou de la société visée à l'article L. 345-1 dont ils certifient les comptes.
+l'article L. 310-1-1 ou des sociétés mentionnées à l'article L. 322-1-2 ou d'une société entrant dans le périmètre
+d'établissement des comptes combinés au sens de l'article L. 345-2 dont ils certifient les comptes.
 
 La responsabilité des commissaires aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
 ils procèdent en exécution des obligations imposées par le présent article.
@@ -11056,17 +11092,19 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
+  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 date d'effet, art. 8 champ d'application à Mayotte
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001
 
 _Modifié par_:
 
-  - Loi n°99-532 du 25 juin 1999 - art. 55 () JORF 29 juin 1999
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 2 () JORF 31 août 2001
 
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-1-1 (V)
-  - Code des assurances - art. L345-1 (M)
+  - Code des assurances - art. L322-1-2 (M)
+  - Code des assurances - art. L345-2 (M)
 
 _Cité par_:
 
@@ -11167,7 +11205,11 @@ demandée par une autorité étrangère à la Commission de contrôle des assura
 de la demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à
 l'ordre public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en France sur la base des mêmes faits et
 contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une décision définitive pour les mêmes
-faits.
+faits. Lorsque les autorités d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen souhaitent vérifier des informations utiles à l'exercice de leur surveillance concernant une entreprise
+située en France et qui est une entreprise apparentée d'une entreprise d'assurance soumise à leur surveillance
+complémentaire, la Commission de contrôle des assurances doit répondre à leur demande soit en procédant elle-même à cette
+vérification, soit en permettant à des représentants de ces autorités d'y procéder.
 
 **Liens relatifs à cet article**
 
@@ -11185,10 +11227,11 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
   - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
 
 _Modifié par_:
 
-  - Loi n°99-532 du 25 juin 1999 - art. 64 () JORF 29 juin 1999
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 2 () JORF 31 août 2001
 
 
 ###### Article L310-22
@@ -11385,14 +11428,14 @@ _Cite_:
 
 ###### Article L310-28
 
-Le fait, pour tout dirigeant d'une société de participations d'assurance ou d'une entreprise soumise au contrôle de l'Etat en
-vertu de l'article L. 310-1 ou L. 310-1-1, après mise en demeure, de ne pas répondre aux demandes d'information de la
-commission de contrôle des assurances, ou de mettre obstacle de quelque manière que ce soit à l'exercice par celle-ci de sa
-mission de contrôle, ou de lui communiquer sciemment des renseignements inexacts, est puni d'un emprisonnement de deux ans et
-d'une amende de 2 000 000 F *sanctions pénales*. Les entraves à l'action de la commission de contrôle exercée en application
-de l'article L. 323-1-1 sont punies des mêmes peines. Les mêmes dispositions s'appliquent aux dirigeants des personnes
-morales et aux personnes physiques que la Commission de contrôle des assurances aura décidé de soumettre à son contrôle en
-application du cinquième alinéa de l'article L. 310-12.
+Le fait, pour tout dirigeant d'une société de groupe d'assurance ou société de groupe mixte d'assurance définies à l'article
+L. 322-1-2 ou d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 ou L. 310-1-1, après mise en
+demeure, de ne pas répondre aux demandes d'information de la commission de contrôle des assurances, ou de mettre obstacle de
+quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui communiquer sciemment des
+renseignements inexacts, est puni d'un emprisonnement de deux ans et d'une amende de 2 000 000 F *sanctions pénales*. Les
+entraves à l'action de la commission de contrôle exercée en application de l'article L. 323-1-1 sont punies des mêmes peines.
+Les mêmes dispositions s'appliquent aux dirigeants des personnes morales et aux personnes physiques que la Commission de
+contrôle des assurances aura décidé de soumettre à son contrôle en application du cinquième alinéa de l'article L. 310-12.
 
 Le fait, pour les mêmes personnes, de faire des déclarations mensongères ou de procéder à des dissimulations frauduleuses
 dans tout document produit au ministre chargé de l'économie et des finances est puni des mêmes peines.
@@ -11414,18 +11457,19 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 (date d'effet), art. 8 (champ d'application à Mayotte)
   - SPEC_APPLI: Loi n°99-532 1999-06-25 art. 92 (dispositions transitoires)
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
 
 _Modifié par_:
 
-  - Loi n°99-532 du 25 juin 1999 - art. 44 () JORF 29 juin 1999
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 10 () JORF 31 août 2001
 
 _Cite_:
 
   - Code pénal - art. 121-2 (M)
   - Code pénal - art. 131-38 (M)
   - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. L310-1-1 (V)
   - Code des assurances - art. L310-12 (M)
+  - Code des assurances - art. L322-1-2 (M)
   - Code des assurances - art. L323-1-1 (M)
 
 _Cité par_:
@@ -12208,10 +12252,161 @@ _Créé par_:
   - Loi n°99-532 du 25 juin 1999 - art. 53 () JORF 29 juin 1999
 
 
+###### Article L322-1-2
+
+Dans le présent code :
+
+1° L'expression : "sociétés de groupe d'assurance" désigne les entreprises dont l'activité principale consiste à prendre et à
+gérer des participations au sens du 2° de l'article L. 334-2 dans des entreprises soumises au contrôle de l'Etat en
+application de l'article L. 310-1 ou de l'article L. 310-1-1, ou dans des entreprises d'assurance ou de réassurance dont le
+siège social est situé hors de France, ou à nouer et à gérer des liens de solidarité financière importants et durables avec
+des mutuelles ou unions régies par le livre II du code de la mutualité, des institutions de prévoyance ou unions régies par
+le titre III du livre IX du code de la sécurité sociale, des sociétés d'assurance mutuelle régies par le code des assurances,
+ou des entreprises d'assurance ou de réassurance à forme mutuelle ou coopérative ou à gestion paritaire ayant leur siège
+social dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique
+européen. L'un au moins de ces organismes est une entreprise soumise au contrôle de l'Etat en application de l'article L.
+310-1 et ayant son siège social en France ;
+
+2° L'expression : "sociétés de groupe mixtes d'assurance" désigne les entreprises mères au sens du 1° de l'article L. 334-2
+d'au moins une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1 et ayant son siège social en
+France, autres que les sociétés de groupe d'assurance définies au précédent alinéa, les entreprises soumises au contrôle de
+l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1, les mutuelles ou unions régies par le livre II du
+code de la mutualité, les institutions de prévoyance ou unions régies par le titre III du livre IX du code de la sécurité
+sociale ou les entreprises d'assurance ou de réassurance à forme mutuelle ou coopérative ou à gestion paritaire ayant leur
+siège social dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et
+que les entreprises d'assurance dont le siège social est situé hors de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
+
+_Créé par_:
+
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 3 () JORF 31 août 2001
+
+_Cité par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 16 (V)
+  - Arrêté du 3 novembre 2014 - art. 5 (VD)
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 2
+  - Code de commerce - art. L820-1 (V)
+  - Code de la mutualité - art. L111-4-2 (V)
+  - Code de la sécurité sociale. - art. D931-34 (Ab)
+  - Code de la sécurité sociale. - art. L931-2-2 (V)
+  - Code de la sécurité sociale. - art. L931-34 (V)
+  - Code des assurances - art. A334-4 (V)
+  - Code des assurances - art. L310-12 (V)
+  - Code des assurances - art. L310-13 (V)
+  - Code des assurances - art. L310-14 (M)
+  - Code des assurances - art. L310-18 (V)
+  - Code des assurances - art. L310-19 (Ab)
+  - Code des assurances - art. L310-28 (V)
+  - Code des assurances - art. L311-1 (V)
+  - Code des assurances - art. L322-1-3 (V)
+  - Code des assurances - art. L322-2 (V)
+  - Code des assurances - art. L334-2 (V)
+  - Code des assurances - art. L341-3 (VD)
+  - Code des assurances - art. L345-1-1 (VT)
+  - Code des assurances - art. L345-2 (V)
+  - Code des assurances - art. L356-2 (VD)
+  - Code des assurances - art. R321-17-1 (VT)
+  - Code des assurances - art. R322-11-1 (VD)
+  - Code des assurances - art. R345-1-1 (V)
+  - Code des assurances - art. R345-1-3 (V)
+  - Code des assurances - art. R345-1-4 (V)
+  - Code général des impôts, CGI. - art. 207 (V)
+  - Code monétaire et financier - art. D411-1 (V)
+  - Code monétaire et financier - art. D533-11 (VD)
+  - Code monétaire et financier - art. D533-13 (VD)
+  - Code monétaire et financier - art. L420-16 (VD)
+  - Code monétaire et financier - art. L511-21 (V)
+  - Code monétaire et financier - art. L511-34 (V)
+  - Code monétaire et financier - art. L517-2 (VD)
+  - Code monétaire et financier - art. L561-20 (VD)
+  - Code monétaire et financier - art. L561-33 (VD)
+  - Code monétaire et financier - art. L561-4-1 (V)
+  - Code monétaire et financier - art. L561-7 (V)
+  - Code monétaire et financier - art. L612-2 (VT)
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L310-1-1 (V)
+
+
+###### Article L322-1-3
+
+Lorsque la société de groupe d'assurance a, avec une entreprise affiliée au sens du 4° de l'article L. 334-2, des liens de
+solidarité financière importants et durables qui ne résultent pas de participations au sens du 2° de l'article L. 334-2, ces
+liens sont définis par une convention d'affiliation.
+
+Une société d'assurance mutuelle ne peut s'affilier à une société de groupe d'assurance que si ses statuts en prévoient
+expressément la possibilité.
+
+La société de groupe d'assurance peut décider de fonctionner sans capital social à condition de compter au moins deux
+entreprises affiliées et dont l'une au moins est une société d'assurance mutuelle. En outre, les entreprises affiliées ne
+peuvent être que des mutuelles ou unions relevant du livre II du code de la mutualité, des institutions de prévoyances ou
+unions relevant du titre III du livre IX du code de la sécurité sociale, des sociétés d'assurance mutuelle relevant du code
+des assurances ou des entreprises d'assurance ou de réassurance à forme mutuelle ou coopérative ou à gestion paritaire ayant
+leur siège social dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen. Si elle remplit ces conditions, la société de groupe d'assurance peut être dénommée "société de groupe d'assurance
+mutuelle". Les conditions de fonctionnement de cette société de groupe d'assurance mutuelle sont fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
+  - TXT_SOURCE: Décret n°2002-943 du 26 juin 2002
+  - TXT_SOURCE: Décret n°2002-943 du 26 juin 2002 - art. 1 ()
+  - TXT_SOURCE: Décret n°2002-943 du 26 juin 2002 - art. 2 ()
+
+_Créé par_:
+
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 4 () JORF 31 août 2001
+
+_Cité par_:
+
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 25 (V)
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 2
+  - Code de commerce - art. L820-1 (V)
+  - Code de la mutualité - art. L111-4-1 (V)
+  - Code de la mutualité - art. L111-4-2 (V)
+  - Code de la mutualité - art. L221-19 (V)
+  - Code de la sécurité sociale. - art. L931-15-1 (V)
+  - Code de la sécurité sociale. - art. L931-2-1 (V)
+  - Code de la sécurité sociale. - art. L931-2-2 (M)
+  - Code des assurances - art. A322-8 (Ab)
+  - Code des assurances - art. L322-1-5 (M)
+  - Code des assurances - art. L322-26-8 (V)
+  - Code des assurances - art. R322-160 (V)
+  - Code des assurances - art. R322-165 (VD)
+  - Code des assurances - art. R322-166 (VD)
+  - Code monétaire et financier - art. L561-20 (VD)
+  - Code monétaire et financier - art. L561-33 (VD)
+  - Code monétaire et financier - art. L561-4-1 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L334-2 (M)
+
+
 ###### Article L322-2
 
 Nul ne peut à un titre quelconque fonder, diriger, administrer une entreprise soumise au contrôle de l'Etat en vertu de
-l'article L. 310-1, ou de l'article L. 310-1-1, ni une société de participations d'assurance :
+l'article L. 310-1, ou de l'article L. 310-1-1, ni une société de groupe d'assurance définie à l'article L 322-1-2 :
 
 1° S'il a fait l'objet d'une condamnation :
 
@@ -12269,6 +12464,7 @@ d'établissement.
 
 _Cite_:
 
+  - Décret n°1935-10-30 art. 66
   - Loi n°66-537 1966-07-24
   - Loi n°66-1010 du 28 décembre 1966 - art. 15 (M)
   - Loi n°66-1010 du 28 décembre 1966 - art. 6 (M)
@@ -12291,7 +12487,11 @@ _Cite_:
   - Code des douanes - art. 415 (T)
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-1-1 (V)
-  - Décret n°1935-10-30 art. 66
+  - Code des assurances - art. L322-1-2 (M)
+
+_Anciens textes_:
+
+  - Décret n°1938-06-14 art. 29
 
 _Codifié par_:
 
@@ -12300,11 +12500,12 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 date d'effet, art. 8 champ d'application à Mayotte
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001
   - TXT_ASSOCIE: Code des assurances L328-1 sanctions pénales
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 12 () JORF 16 mai 2001
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 10 () JORF 31 août 2001
 
 _Cité par_:
 
@@ -12331,10 +12532,6 @@ _Cité par_:
   - Code des assurances - art. R322-167 (VD)
   - Code des assurances - art. R362-2 (VD)
   - Code des assurances - art. R514-1 (VD)
-
-_Anciens textes_:
-
-  - Décret n°1938-06-14 art. 29
 
 
 ###### Article L322-2-1
@@ -12568,10 +12765,8 @@ _Cité par_:
 Les prises, extensions ou cessions de participations directes ou indirectes dans les entreprises mentionnées au 1° de
 l'article L. 310-2 peuvent être soumises, afin de préserver les intérêts des assurés, à un régime de déclaration ou
 d'autorisation préalables, dans des conditions définies par décret en Conseil d'Etat. Ces dispositions s'appliquent également
-aux prises, extensions ou cessions de participations dans des entreprises ayant leur siège social en France dont l'activité
-principale consiste à prendre des participations dans des entreprises soumises au contrôle de l'Etat en application de
-l'article L. 310-1 et qui détiennent, directement ou indirectement, un pouvoir de contrôle effectif sur une ou plusieurs de
-ces entreprises.
+aux prises, extensions ou cessions de participations dans des sociétés de groupe d'assurance dont le siège social est situé
+en France.
 
 L'autorisation donnée à des opérations mentionnées au premier alinéa peut être subordonnée au respect d'engagements souscrits
 par une ou plusieurs des personnes ayant présenté une demande d'autorisation.
@@ -12600,6 +12795,7 @@ _Cite_:
 
   - SPEC_APPLI: Loi n°66-537 du 24 juillet 1966 - art. 148 (Ab)
   - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
 
 _Codifié par_:
 
@@ -12607,7 +12803,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 14
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 5 () JORF 31 août 2001
 
 _Cité par_:
 
@@ -14949,30 +15145,22 @@ _Anciens textes_:
 
 ###### Article L334-1
 
-Un arrêté du ministre chargé de l'économie détermine les règles de solvabilité que doivent respecter, sur la base de leurs
-comptes consolidés ou combinés, les entreprises visées aux articles L. 310-1 et L. 310-1-1 et les sociétés de participations
-d'assurance visées à l'article L. 345-1, qui sont soumises à l'obligation prévue à l'article L. 345-2.
-
-Lorsque les entreprises visées à l'alinéa précédent font usage de la dispense prévue à l'article 357-8-1 de la loi n° 66-537
-du 24 juillet 1966 sur les sociétés commerciales, ces règles de solvabilité sont déterminées à partir des éléments des
-comptes consolidés ou combinés que ces entreprises auraient présentés si elles n'avaient pas fait usage de la dispense.
+Les entreprises mentionnées à l'article L. 310-1 doivent à tout moment respecter une marge de solvabilité selon des modalités
+définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 art. 357-8-1
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. L310-1-1 (V)
-  - Code des assurances - art. L345-1 (M)
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
+
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 6 () JORF 31 août 2001
 
 _Cité par_:
 
@@ -14995,6 +15183,182 @@ _Cité par_:
   - Code monétaire et financier - art. R612-7 (V)
   - Code monétaire et financier - art. R746-2 (VD)
   - Code monétaire et financier - art. R756-2 (VD)
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+
+
+###### Article L334-2
+
+Pour l'application des dispositions législatives et réglementaires relatives à la solvabilité des entreprises :
+
+1° L'expression : "entreprise mère" désigne une entreprise qui contrôle de manière exclusive une entreprise au sens du II de
+l'article L. 233-16 du code de commerce ou qui exerce une influence dominante sur une entreprise en raison de l'existence de
+liens de solidarité importants et durables résultant d'engagements financiers, de dirigeants ou de services communs. Cette
+seconde entreprise est dénommée "entreprise filiale". Toute entreprise filiale d'une entreprise filiale est considérée comme
+filiale de l'entreprise mère ;
+
+2° L'expression : "participation" désigne le fait de détenir, directement ou indirectement, 20 % ou plus des droits de vote
+ou du capital d'une entreprise ;
+
+3° L'expression : "entreprise participante" désigne une entreprise mère ou une entreprise qui détient une participation dans
+une entreprise ;
+
+4° L'expression : "entreprise affiliée" désigne une entreprise qui est soit une filiale, soit une autre entreprise dans
+laquelle une participation est détenue ;
+
+5° L'expression : "entreprise apparentée" désigne toute entreprise affiliée, participante ou affiliée des entreprises
+participantes de l'entreprise d'assurance ;
+
+6° L'expression : "groupe d'assurance" désigne un ensemble constitué par :
+
+a) Au moins deux entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 et ayant leur siège social
+en France ;
+
+b) Ou, d'une part, au moins une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1 et ayant son
+siège social en France et, d'autre part, une société de groupe d'assurance, une entreprise soumise au contrôle de l'Etat en
+application de l'article L. 310-1-1, une institution de prévoyance ou union régie par le titre III du livre IX du code de la
+sécurité sociale, une mutuelle ou union régie par le livre II du code de la mutualité ou une entreprise d'assurance ou de
+réassurance dont le siège social est situé hors de France.
+
+Les entités désignées aux a et b doivent être liées entre elles par l'un des liens définis aux 1° à 5° ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
+
+_Créé par_:
+
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 7 () JORF 31 août 2001
+
+_Cité par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 16 (V)
+  - Décret n°2011-769 du 28 juin 2011 - art. 2
+  - Code de la mutualité - art. R212-20-3 (VT)
+  - Code des assurances - art. A310-8 (M)
+  - Code des assurances - art. A321-1 (V)
+  - Code des assurances - art. A321-11 (V)
+  - Code des assurances - art. A321-2 (V)
+  - Code des assurances - art. A322-1 (V)
+  - Code des assurances - art. A322-2 (Ab)
+  - Code des assurances - art. A322-3 (Ab)
+  - Code des assurances - art. A334-8 (Ab)
+  - Code des assurances - art. A344-14 (V)
+  - Code des assurances - art. A344-14-1 (Ab)
+  - Code des assurances - art. Annexe II art. A344-14 (Ab)
+  - Code des assurances - art. Annexe art. A344-14-1 (Ab)
+  - Code des assurances - art. L160-19 (V)
+  - Code des assurances - art. L310-13 (V)
+  - Code des assurances - art. L310-14 (M)
+  - Code des assurances - art. L310-15 (Ab)
+  - Code des assurances - art. L310-28 (V)
+  - Code des assurances - art. L321-2 (V)
+  - Code des assurances - art. L322-1-2 (V)
+  - Code des assurances - art. L322-1-3 (M)
+  - Code des assurances - art. L322-2 (V)
+  - Code des assurances - art. L322-26-8 (V)
+  - Code des assurances - art. L322-26-9 (V)
+  - Code des assurances - art. L322-3 (V)
+  - Code des assurances - art. L322-4-1 (VD)
+  - Code des assurances - art. L322-4-2 (V)
+  - Code des assurances - art. L334-3 (V)
+  - Code des assurances - art. L334-5 (V)
+  - Code des assurances - art. L334-7 (V)
+  - Code des assurances - art. L345-2 (V)
+  - Code des assurances - art. R*334-11 (V)
+  - Code des assurances - art. R321-17-1 (VT)
+  - Code des assurances - art. R321-2 (V)
+  - Code des assurances - art. R321-5-2 (VD)
+  - Code des assurances - art. R322-11-1 (M)
+  - Code des assurances - art. R322-4-1 (VD)
+  - Code des assurances - art. R322-54-1 (Ab)
+  - Code des assurances - art. R332-60 (VT)
+  - Code des assurances - art. R334-28 (VT)
+  - Code des assurances - art. R334-3 (V)
+  - Code des assurances - art. R334-40 (VT)
+  - Code des assurances - art. R334-50 (Ab)
+  - Code des assurances - art. R336-1 (V)
+  - Code des assurances - art. R370-2 (VT)
+  - Code monétaire et financier - art. D411-1 (M)
+  - Code monétaire et financier - art. L511-34 (V)
+  - Code monétaire et financier - art. L517-3 (V)
+  - Code monétaire et financier - art. L561-20 (V)
+  - Code monétaire et financier - art. L612-26 (V)
+  - Code monétaire et financier - art. L612-27 (V)
+  - Code monétaire et financier - art. L612-36 (V)
+  - Code monétaire et financier - art. R561-28 (V)
+  - Code monétaire et financier - art. R612-37 (V)
+  - Code monétaire et financier - art. R612-38 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L233-16 (M)
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L310-1-1 (V)
+
+
+###### Article L334-3
+
+Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1, ayant leur siège social en France et
+faisant partie d'un groupe d'assurance au sens du 6° de l'article L. 334-2 font l'objet d'une surveillance complémentaire de
+leur situation financière.
+
+Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1, ayant leur siège social en France et
+filiales d'une société de groupe mixte d'assurance, font également l'objet d'une surveillance complémentaire selon les
+modalités prévues au présent article et aux articles L. 310-12 à L. 310-15.
+
+La surveillance complémentaire tient compte des entreprises qui sont apparentées aux entreprises précitées. La Commission de
+contrôle des assurances peut décider d'exclure une entreprise apparentée de la surveillance complémentaire si elle estime que
+cette entreprise présente un intérêt négligeable ou contraire aux objectifs de cette surveillance.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
+  - TXT_SOURCE: Arrêté du 16 mai 2002
+  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 1 ()
+  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 2 ()
+  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 3 ()
+  - TXT_SOURCE: Arrêté du 16 mai 2002 - art. 4 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 8 () JORF 31 août 2001
+
+_Cité par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 12
+  - Code de la mutualité - art. L212-7-2-1 (VT)
+  - Code de la sécurité sociale. - art. L933-3-1 (VT)
+  - Code de la sécurité sociale. - art. L951-12 (Ab)
+  - Code des assurances - art. A344-14 (Ab)
+  - Code des assurances - art. L310-14 (M)
+  - Code des assurances - art. L310-15 (Ab)
+  - Code des assurances - art. L334-3-1 (V)
+  - Code des assurances - art. L345-2 (V)
+  - Code des assurances - art. R334-11 (V)
+  - Code des assurances - art. R334-3 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L334-2 (M)
+  - Code des assurances L310-1, L334-2, L310-12 à L310-15
 
 
 ### Titre IV : Dispositions comptables et statistiques<a id=116></a>
@@ -15107,90 +15471,54 @@ _Cité par_:
 
 #### Chapitre V : Comptes consolidés.<a id=120></a>
 
-###### Article L345-1
+###### Article L345-1-1
 
-Les entreprises dont l'activité principale consiste à prendre et à gérer des participations dans des entreprises soumises au
-contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1 et qui détiennent, directement ou
-indirectement, un pouvoir effectif de contrôle sur une ou plusieurs entreprises soumises au contrôle de l'Etat en application
-de l'article L. 310-1 et ayant leur siège social en France, ou sur une ou plusieurs institutions de prévoyance régies par le
-titre III du livre IX du code de la sécurité sociale, mutuelles ou unions régies par le livre II du code de la mutualité,
-sont dénommées "sociétés de participations d'assurance".
+L'administration centrale des sociétés de groupe d'assurance définies à l'article L. 322-1-2 doit être située sur le
+territoire de la République française.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
 
 _Modifié par_:
 
-  - Ordonnance 2001-350 2001-04-19 art. 6 XXIV JORF 22 avril 2001
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 10 () JORF 31 août 2001
 
 _Abrogé par_:
 
-  - Ordonnance n°2001-766 du 29 août 2001 - art. 12 () JORF 31 août 2001
-
-_Cité par_:
-
-  - Code des assurances - art. A310-3 (T)
-  - Code des assurances - art. A310-7 (V)
-  - Code des assurances - art. L310-12 (M)
-  - Code des assurances - art. L310-15 (M)
-  - Code des assurances - art. L310-19 (M)
-  - Code des assurances - art. L334-1 (M)
-  - Code des assurances - art. L345-2 (M)
-  - Code des assurances - art. R345-1 (M)
-  - Code des assurances - art. R345-1-1 (M)
-  - Code des assurances - art. R345-1-2 (M)
-  - Code des assurances - art. R345-1-3 (V)
-  - Code des assurances - art. R345-1-4 (Ab)
-  - Code des assurances - art. R345-11 (M)
-  - Code des assurances - art. R345-2-1 (M)
+  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 7
 
 _Cite_:
 
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. L310-1-1 (V)
-
-
-###### Article L345-1-1
-
-L'administration centrale des sociétés de participations d'assurance doit être située sur le territoire de la République
-française.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Créé par_:
-
-  - Loi n°99-532 du 25 juin 1999 - art. 53 () JORF 29 juin 1999
+  - Code des assurances - art. L322-1-2
 
 
 ###### Article L345-2
 
 Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 et ayant leur siège social en France, les
-entreprises visées à l'article L. 310-1-1 et les sociétés de participations d'assurance telles que définies à l'article L.
-345-1 doivent établir et publier des comptes consolidés dans des conditions définies par règlement du comité de la
-réglementation comptable. Les entreprises qui sont incluses par intégration globale dans les comptes consolidés d'une
-entreprise elle-même soumise à une obligation de consolidation en application du présent alinéa ne sont toutefois pas
-soumises à cette obligation.
+entreprises visées à l'article L. 310-1-1 et les sociétés de groupe d'assurance définies à l'article L. 322-1-2 doivent
+établir et publier des comptes consolidés dans des conditions définies par règlement du comité de la réglementation
+comptable. Les entreprises qui sont incluses par intégration globale dans les comptes consolidés d'une entreprise elle-même
+soumise à une obligation de consolidation en application du présent alinéa ne sont toutefois pas soumises à cette obligation.
 
-Lorsque la commission de contrôle des assurances considère que les comptes consolidés d'une société de participations
-d'assurance ne permettent pas de porter une appréciation pertinente sur le respect des règles de solvabilité posées à
-l'article L. 334-1, ladite commission dispense cette société de participations d'assurance de l'obligation définie au
-précédent alinéa.
+Lorsque la Commission de contrôle des assurances considère que les comptes consolidés d'une société de groupe d'assurance ne
+permettent pas de porter une appréciation pertinente sur le respect des règles de surveillance complémentaire posées à
+l'article L. 334-3, ladite commission dispense cette société de groupe d'assurance de l'obligation définie au précédent
+alinéa.
 
 Lorsque deux ou plusieurs entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L.
-310-1-1, sociétés de participations d'assurance mentionnées à l'article L. 345-1, ou institutions de prévoyance régies par le
-titre III du livre IX du code de la sécurité sociale ou une ou plusieurs mutuelles ou unions régies par le livre II du code
-de la mutualité, constituent un ensemble dont la cohésion ne résulte pas de liens en capital, l'une d'elles établit et publie
-des comptes combinés. Un décret détermine celle des entreprises ou institutions sur laquelle pèse cette obligation. Les
-comptes combinés sont constitués par agrégation de l'ensemble des comptes des entreprises ou institutions concernées, établis
-s'il y a lieu sur une base consolidée, dans des conditions définies par un règlement du Comité de la réglementation
-comptable.
+310-1-1, sociétés de groupe d'assurance définies à l'article L. 322-1-2, institutions de prévoyance ou unions régies par le
+titre III du livre IX du code de la sécurité sociale ou mutuelles ou unions régies par le livre II du code de la mutualité
+constituent un ensemble dont la cohérence ne résulte pas de liens en capital, l'une d'elles établit et publie des comptes
+combinés. Un décret détermine celui des organismes mentionnés au présent alinéa sur lequel pèse cette obligation. Les comptes
+combinés sont constitués par agrégation de l'ensemble des comptes des organismes concernés, établis s'il y a lieu sur une
+base consolidée, dans des conditions définies par un règlement du Comité de la réglementation comptable.
 
 **Liens relatifs à cet article**
 
@@ -15230,16 +15558,20 @@ _Cité par_:
   - Code du travail - art. L444-3 (AbD)
   - Code général des impôts, CGI. - art. 223 A (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2001-766 2001-08-29 art. 11 *date d'effet pour la surveillance des comptes des exercices ouverts à compter du 1er janvier 2001*
+
 _Modifié par_:
 
-  - Ordonnance 2001-350 2001-04-19 art. 6 XXIV JORF 22 avril 2001
+  - Ordonnance n°2001-766 du 29 août 2001 - art. 9 () JORF 31 août 2001
 
 _Cite_:
 
-  - Code de la sécurité sociale
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-1-1 (V)
-  - Code des assurances - art. L345-1 (M)
+  - Code des assurances - art. L322-1-2 (M)
+  - Code des assurances - art. L334-3 (M)
 
 
 ### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes<a id=121></a>
