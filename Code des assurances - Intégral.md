@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-07-17
+Version Consolidée au 1990-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L181-3)](#2)
@@ -666,8 +666,9 @@ _Cite_:
 
 ###### Article L111-5
 
-Les dispositions des titres Ier, II et III du présent livre, à l'exclusion des articles L. 124-4, L. 125-1 à L. 125-6, et L.
-132-29 à L. 132-31, sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+Les dispositions des titres Ier, II et III du présent livre sont applicables dans les territoires d'outre-mer, à l'exclusion
+des articles L. 122-7, L. 124-4, L. 125-1 à L. 125-6 et L. 132-29 à L. 132-31, et dans la collectivité territoriale de
+Mayotte, à l'exclusion des articles L. 124-4 et L. 132-29 à L. 132-31.
 
 Toutefois, dans l'hypothèse prévue par le dernier alinéa de l'article L. 132-22, le décret est remplacé par un arrêté du
 représentant du Gouvernement.
@@ -676,13 +677,14 @@ représentant du Gouvernement.
 
 _Modifié par_:
 
-  - Décret n°85-863 1985-08-02 art. 1 II JORF 15 août 1985
+  - Loi n°90-509 du 25 juin 1990 - art. 3 () JORF 27 juin 1990 en vigueur le 1er août 1990
 
 _Cite_:
 
+  - Code des assurances - art. L122-7 (M)
   - Code des assurances - art. L124-4 (V)
   - Code des assurances - art. L132-22 (M)
-  - Code des assurances L124-4, L125-1 à L125-6, L132-22
+  - Code des assurances L122-7, L124-4, L125-1 à L125-6, L132-29 à L132-31, L132-22
 
 
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.<a id=5></a>
@@ -2449,25 +2451,6 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L125-1 (V)
-
-
-###### Article L125-4
-
-Les dispositions du présent chapitre ne sont pas applicables aux départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Créé par_:
-
-  - Décret n°85-863 1985-08-02 art. 1 JORF 15 août 1985
-
-_Abrogé par_:
-
-  - Loi n°90-509 du 25 juin 1990 - art. 2 () JORF 27 juin 1990 en vigueur le 1er août 1990
 
 
 ###### Article L125-5
@@ -12505,10 +12488,8 @@ _Cité par_:
 
 ###### Article L431-9
 
-La caisse centrale de réassurance est habilitée à pratiquer des opérations de réassurance des risques résultant de
+La caisse centrale de réassurance est habilitée à pratiquer les opérations de réassurance des risques résultant de
 catastrophes naturelles, avec la garantie de l'Etat, dans des conditions fixées par décret en Conseil d'Etat.
-
-Les dispositions du présent article ne sont pas applicables aux départements d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -12518,7 +12499,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-863 1985-08-02 art. 4 JORF 15 août 1985
+  - Loi n°90-509 du 25 juin 1990 - art. 2 () JORF 27 juin 1990 en vigueur le 1er août 1990
 
 _Cité par_:
 
