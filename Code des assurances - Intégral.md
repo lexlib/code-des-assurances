@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-01-05
+Version Consolidée au 1994-03-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -2821,7 +2821,7 @@ _Cité par_:
 
 Les personnes qui ont à connaître des informations données par l'assuré pour les besoins de sa cause, dans le cadre d'un
 contrat d'assurance de protection juridique, sont tenues au secret professionnel, dans les conditions et sous les peines
-prévues à l'article 378 du code pénal.
+fixées par l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -2829,17 +2829,17 @@ _Codifié par_:
 
   - Décret n°88-260 1988-03-18
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-_Créé par_:
-
-  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
 
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (V)
 
 
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=18></a>
@@ -3081,7 +3081,7 @@ La nullité est prononcée sur la demande de l'assureur, du souscripteur de la p
 Les primes payées doivent être intégralement restituées.
 
 L'assureur et le souscripteur sont en outre passibles, pour chaque assurance conclue sciemment en violation de cette
-interdiction, d'une amende de 360 à 40.000 F. L'article 463 du code pénal est applicable.
+interdiction, d'une amende de 30.000 F.
 
 Ces dispositions ne mettent point obstacle dans l'assurance en cas de décès, au remboursement des primes payées en exécution
 d'un contrat d'assurance en cas de vie, souscrit sur la tête d'une des personnes mentionnées au premier alinéa ci-dessus.
@@ -3091,19 +3091,6 @@ d'un contrat d'assurance en cas de vie, souscrit sur la tête d'une des personne
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
-
-_Modifié par_:
-
-  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-
-_Cite_:
-
-  - Code pénal 463
 
 _Cité par_:
 
@@ -3115,6 +3102,16 @@ _Cité par_:
 _Anciens textes_:
 
   - Loi n°1930-07-13 art. 58
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 323 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article L132-4
@@ -8047,21 +8044,27 @@ _Cite_:
 ###### Article L213-2
 
 Quiconque, pour apporter la preuve prévue à l'alinéa 4 de l'article L. 213-1, se rendra coupable de fraude ou de fausse
-déclaration, sera puni d'une amende de 1.000 F à 15.000 F.
+déclaration, sera puni d'une amende de 25.000 F [*sanctions pénales*].
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance n°67-706 du 21 août 1967 - art. 4 (Ab)
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 **Liens**:
 
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
   - TXT_ASSOCIE: Code des assurances - art. L213-1 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°2001-1246 du 21 décembre 2001 - art. 13 () JORF 26 décembre 2001
 
 _Cite_:
 
@@ -8147,29 +8150,30 @@ _Cité par_:
 
 ###### Article L220-3
 
-Quiconque aura sciemment contrevenu aux dispositions de l'article L. 220-1 sera puni d'un emprisonnement de deux à six mois
-et d'une amende de 2.000 à 60.000 F ou de l'une de ces deux peines seulement.
+Quiconque aura sciemment contrevenu aux dispositions de l'article L. 220-1 sera puni d'un emprisonnement de six mois et d'une
+amende de 60.000 F ou de l'une de ces deux peines seulement [*sanctions pénales*].
 
 Dès la constatation du défaut d'assurance, le préfet suspendra l'autorisation d'exploitation, jusqu'à ce que la situation
 soit régularisée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°63-708 1963-07-18 art. 3
-
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Cite_:
+_Modifié par_:
 
-  - Code des assurances - art. L220-1 (V)
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 **Liens**:
 
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
   - TXT_ASSOCIE: Code des assurances - art. L220-1 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L220-1 (V)
 
 
 ###### Article L220-4
@@ -8799,8 +8803,8 @@ _Cite_:
 
 ###### Article L243-3
 
-Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du présent code sera puni d'un emprisonnement de dix
-jours à six mois et d'une amende de 2.000 F à 500.000 F ou de l'une de ces deux peines seulement.
+Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du présent code sera puni d'un emprisonnement de six
+mois et d'une amende de 500.000 F ou de l'une de ces deux peines seulement.
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne physique construisant un logement pour l'occuper
 elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
@@ -8820,13 +8824,14 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
   - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
   - TXT_ASSOCIE: Code des assurances - art. L241-1 (M)
   - TXT_ASSOCIE: Code des assurances - art. L241-2 (M)
   - TXT_ASSOCIE: Code des assurances - art. L242-1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cite_:
 
@@ -10113,9 +10118,9 @@ _Créé par_:
 ###### Article L310-21
 
 Les membres ainsi que les agents de la commission de contrôle des assurances sont tenus au secret professionnel sous les
-peines prévues à l'article 378 du code pénal. Ce secret n'est pas opposable à l'autorité judiciaire.
+peines fixées par les articles 226-13 et 226-14 du code pénal. Ce secret n'est pas opposable à l'autorité judiciaire.
 
-La commission de contrôle des assurances peut transmettre de s informations aux autorités chargées de la surveillance des
+La commission de contrôle des assurances peut transmettre des informations aux autorités chargées de la surveillance des
 entreprises d'assurance dans d'autres pays, sous réserve de réciprocité, et à condition que ces autorités soient elles-mêmes
 soumises au secret professionnel avec les mêmes garanties qu'en France.
 
@@ -10125,13 +10130,18 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
 
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
 
 
 ###### Article L310-22
@@ -12685,14 +12695,22 @@ _Cité par_:
 
 ###### Article L328-1
 
-Les infractions aux dispositions de l'article L. 322-2 seront punies d'un emprisonnement de six mois à deux ans et d'une
-amende de 3.000 à 40.000 F, ou de l'une de ces deux peines seulement [*sanctions*].
+Les infractions aux dispositions de l'article L. 322-2 seront punies d'un emprisonnement de deux ans et d'une amende de
+40.000 F, ou de l'une de ces deux peines seulement [*sanctions*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
 
 _Cite_:
 
@@ -12701,10 +12719,6 @@ _Cite_:
 _Cité par_:
 
   - Code des assurances - art. L328-2 (V)
-
-_Anciens textes_:
-
-  - Décret n°1938-06-14 art. 37
 
 
 ###### Article L328-3
@@ -12830,9 +12844,10 @@ Il est interdit au liquidateur et à tous ceux qui ont participé à l'administr
 personnellement, soit directement, soit indirectement, à l'amiable ou par vente de justice, tout ou partie de l'actif
 mobilier ou immobilier de l'entreprise en liquidation.
 
-Sera puni des peines [*sanctions*] prévues à l'article 408 (alinéa 2) du Code pénal tout liquidateur ou toute personne ayant
-participé à l'administration de la liquidation qui, en violation des dispositions de l'alinéa précédent, se sera rendu
-acquéreur pour son compte, directement ou indirectement, des biens de l'entreprise.
+Sera puni des peines encourues pour le délit d'abus de confiance aggravé prévu par les articles 314-3 et 314-10 du code pénal
+tout liquidateur ou toute personne ayant participé à l'administration de la liquidation qui, en violation des dispositions de
+l'alinéa précédent, se sera rendu acquéreur pour son compte, directement ou indirectement, des biens de l'entreprise
+[*sanctions*].
 
 Sera puni des mêmes peines tout liquidateur qui se sera rendu coupable de malversation dans sa gestion.
 
@@ -12842,22 +12857,28 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Cite_:
+_Modifié par_:
 
-  - Code pénal 408
+  - Loi n°92-1336 du 16 décembre 1992 - art. 145 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 **Liens**:
 
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
   - TXT_ASSOCIE: Code des assurances - art. L328-7 (Ab)
   - TXT_ASSOCIE: Code des assurances - art. L328-9 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+
+_Cite_:
+
+  - Code pénal - art. 314-10 (V)
+  - Code pénal - art. 314-3 (M)
 
 _Cité par_:
 
   - Code des assurances - art. L328-7 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°1938-06-14 art. 38 C
 
 
 ###### Article L328-7
@@ -13096,9 +13117,9 @@ _Cite_:
 
 ###### Article L328-14
 
-Toute infraction aux dispositions des articles L. 310-7, et L. 310-9 sera punie d'une amende de 300 à 15.000 F [*sanctions*].
-En ce qui concerne les infractions aux dispositions de l'article L. 310-7, l'amende sera prononcée pour chacune des
-infractions constatées sans que le total des amendes encourues puisse excéder 40.000 F.
+Toute infraction aux dispositions des articles L. 310-7, et L. 310-9 sera punie d'une amende de 25.000 F [*sanctions*]. En ce
+qui concerne les infractions aux dispositions de l'article L. 310-7, l'amende sera prononcée pour chacune des infractions
+constatées sans que le total des amendes encourues puisse excéder 40.000 F.
 
 **Liens relatifs à cet article**
 
@@ -13106,16 +13127,20 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
   - TXT_ASSOCIE: Code des assurances - art. L310-5 (M)
   - TXT_ASSOCIE: Code des assurances - art. L310-9 (Ab)
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-  - Loi n°89-1014 du 31 décembre 1989 - art. 49 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 _Cite_:
 
@@ -13125,15 +13150,30 @@ _Cite_:
 
 ###### Article L328-15
 
-Toute infraction aux dispositions des articles L. 310-2, L. 310-8, L. 321-1 et L. 323-1 est punie d'une peine
-d'emprisonnement de deux mois à deux ans et d'une amende de 2.000 à 40.000 F ou de l'une de ces deux peines seulement
-[*sanctions*].
+Toute infraction aux dispositions des articles L. 310-2, L. 310-8, L. 321-1 et L. 323-1 est punie [*sanctions*] d'une peine
+d'emprisonnement de deux ans et d'une amende de 40.000 F ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
+  - TXT_ASSOCIE: Code des assurances - art. L310-8 (V)
+  - TXT_ASSOCIE: Code des assurances - art. L321-1 (M)
+  - TXT_ASSOCIE: Code des assurances - art. L322-1 (T)
+  - TXT_ASSOCIE: Code des assurances - art. L323-1 (V)
+
+_Abrogé par_:
+
+  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 _Cite_:
 
@@ -13142,23 +13182,12 @@ _Cite_:
   - Code des assurances - art. L321-1 (M)
   - Code des assurances - art. L323-1 (M)
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances - art. L310-8 (V)
-  - TXT_ASSOCIE: Code des assurances - art. L321-1 (M)
-  - TXT_ASSOCIE: Code des assurances - art. L322-1 (T)
-  - TXT_ASSOCIE: Code des assurances - art. L323-1 (V)
-
-_Anciens textes_:
-
-  - Décret n°1938-06-14 art. 40
-
 
 ###### Article L328-15-1
 
 Tout obstacle mis à l'exercice des missions de la commission de contrôle des assurances ou des commissaires-contrôleurs des
-assurances est passible d'un emprisonnement de quinze jours à deux ans et d'une amende de 15 000 F à 2 000 000 F ou de l'une
-de ces deux peines seulement.
+assurances est passible d'un emprisonnement de deux ans et d'une amende de 2 000 000 F ou de l'une de ces deux peines
+seulement.
 
 **Liens relatifs à cet article**
 
@@ -13166,13 +13195,17 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 32 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 _Cite_:
 
@@ -16031,18 +16064,23 @@ _Abrogé par_:
 ###### Article L441-6
 
 Toute personne qui, même à titre d'intermédiaire, proposera la souscription de contrats ou conventions contrevenant aux
-dispositions du présent chapitre ou fera souscrire de tels contrats ou conventions sera punie d'une amende de 500 à 20.000 F
-et d'un emprisonnement d'un à six mois ou de l'une de ces deux peines seulement [*sanctions*].
+dispositions du présent chapitre ou fera souscrire de tels contrats ou conventions sera punie d'une amende de 25.000 F et
+d'un emprisonnement de six mois ou de l'une de ces deux peines seulement [*sanctions*].
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 59-75 1959-01-07 art. 8
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
 
 
 ###### Article L441-7
@@ -16417,14 +16455,22 @@ _Codifié par_:
 
 ###### Article L514-1
 
-Les infractions aux dispositions de l'article L. 511-2 sont punies d'un emprisonnement de six mois à deux ans et d'une amende
-de 3.000 à 40.000 F, ou de l'une de ces deux peines seulement.
+Les infractions aux dispositions de l'article L. 511-2 sont punies d'un emprisonnement de deux ans et d'une amende de 40.000
+F, ou de l'une de ces deux peines seulement [*sanctions*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
 
 _Cite_:
 
@@ -16443,8 +16489,8 @@ _Anciens textes_:
 
 Toute personne qui présentera en vue de leur souscription ou fera souscrire des contrats pour le compte d'une entreprise
 soumise au contrôle de l'Etat en application de l'article L. 310-1, et non agréée pour la branche dans laquelle entrent ces
-contrats, sera punie d'une amende de 300 à 15.000 F et, en cas de récidive, d'une amende de 1.500 à 20.000 F et d'un
-emprisonnement de un à six mois, ou de l'une de ces deux peines seulement.
+contrats, sera punie d'une amende de 25.000 F et, en cas de récidive, d'une amende de 50.000 F et d'un emprisonnement de six
+mois, ou de l'une de ces deux peines seulement.
 
 L'amende prévue au présent article sera prononcée pour chacun des contrats proposés ou souscrits, sans que le total des
 amendes encourues puisse excéder 15.000 F et, en cas de récidive, 40.000 F.
@@ -16465,7 +16511,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°81-5 du 7 janvier 1981 - art. 36 () JORF 8 janvier 1981
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
 
 _Cite_:
 
@@ -16475,8 +16526,8 @@ _Cite_:
 
 ###### Article L514-4
 
-Les infractions aux dispositions des articles L. 530-1 et L. 530-2 seront punies d'un emprisonnement d'un mois à un an et
-d'une amende de 2 000 F à 60 000 F ou de l'une de ces deux peines seulement.
+Les infractions aux dispositions des articles L. 530-1 et L. 530-2 seront punies d'un emprisonnement d'un an et d'une amende
+de 60 000 F ou de l'une de ces deux peines seulement [*sanctions*].
 
 **Liens relatifs à cet article**
 
@@ -16484,13 +16535,13 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-_Créé par_:
-
-  - Loi n°89-1014 du 31 décembre 1989 - art. 43 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
 
 _Cite_:
 
@@ -27041,13 +27092,14 @@ _Cite_:
 
 ###### Article R328-1
 
-Sont passibles d'un emprisonnement de dix jours à un mois et d'une amende de 3.000 à 6.000 F ou de l'une de ces deux peines
-seulement les dirigeants d'entreprise qui méconnaissent les obligations ou interdictions résultant des articles R. 310-2, R.
-310-5, R. 322-3, R. 322-8 (1er alinéa), R. 322-77 (1er alinéa), R. 323-1 (dernier alinéa), R. 323-2 (dernier alinéa), R.
-323-3 (dernier alinéa), R. 323-4 (dernier alinéa), R. 323-5 (dernier alinéa), R. 323-8 (dernier alinéa), R. 326-1, R. 331-1,
-R. 332-1, R. 332-38, R. 341-1 et R. 341-4.
+Sont passibles d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5ème classe les
+dirigeants d'entreprise qui méconnaissent les obligations ou interdictions résultant des articles R. 310-2, R. 310-5, R.
+322-3, R. 322-8 (1er alinéa), R. 322-77 (1er alinéa), R. 323-1 (dernier alinéa), R. 323-2 (dernier alinéa), R. 323-3 (dernier
+alinéa), R. 323-4 (dernier alinéa), R. 323-5 (dernier alinéa), R. 323-8 (dernier alinéa), R. 326-1, R. 331-1, R. 332-1, R.
+332-38, R. 341-1 et R. 341-4.
 
-En cas de récidive, la peine d'emprisonnement pourra être portée à deux mois et celle d'amende à 12.000 F.
+En cas de récidive, la peine d'amende sera celle prévue par le 5° de l'article 131-13 du code pénal pour les contraventions
+de la 5ème classe commises en récidive.
 
 **Liens relatifs à cet article**
 
@@ -27057,7 +27109,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-234 du 22 février 1993 - art. 2 () JORF 24 février 1993
+  - Décret n°93-726 1993-03-29 art. 1, art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+_Cite_:
+
+  - Code pénal - art. 131-13 (M)
+  - Code des assurances - art. R*322-77 (M)
+  - Code des assurances - art. R*326-1 (M)
+  - Code des assurances - art. R*331-1 (M)
+  - Code des assurances - art. R*332-1 (M)
+  - Code des assurances - art. R*332-38 (M)
+  - Code des assurances - art. R*341-1 (M)
+  - Code des assurances - art. R*341-4 (M)
+  - Code des assurances R310-2, R310-5, R322-3, R322-8, R322-77, R323-1, R323-2, R323-3, R323-4, R323-5, R323-8, R326-1, R331-1, R332-1, R332-38, R341-1, R341-4
 
 **Liens**:
 
@@ -27084,17 +27148,6 @@ _Cité par_:
   - Code des assurances - art. R323-4 (M)
   - Code des assurances - art. R323-5 (M)
   - Code des assurances - art. R323-8 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R*322-77 (M)
-  - Code des assurances - art. R*326-1 (M)
-  - Code des assurances - art. R*331-1 (M)
-  - Code des assurances - art. R*332-1 (M)
-  - Code des assurances - art. R*332-38 (M)
-  - Code des assurances - art. R*341-1 (M)
-  - Code des assurances - art. R*341-4 (M)
-  - Code des assurances R310-2, R310-5, R322-3, R322-8, R322-77, R323-1, R323-2, R323-3, R323-4, R323-5, R323-8, R326-1, R331-1, R332-1, R332-38, R341-1, R341-4
 
 
 ###### Article R328-2
@@ -40074,16 +40127,20 @@ _Abrogé par_:
 ###### Article R*441-3
 
 Toute personne qui, même à titre d'intermédiaire, proposera la souscription de contrats ou conventions contrevenant aux
-dispositions du présent chapitre, ou fera souscrire de tels contrats ou conventions, sera punie d'un emprisonnement de dix
-jours à un mois et d'une amende de 3.000 à 6.000 F ou de l'une de ces deux peines seulement.
+dispositions du présent chapitre, ou fera souscrire de tels contrats ou conventions, sera punie de la peine d'amende prévue
+pour les contraventions de la 5eme classe.
 
-En cas de récidive, la peine d'emprisonnement pourra être portée de un mois à deux mois et celle d'amende à 6.000 à 12.000 F.
+En cas de récidive, la peine d'amende sera celle prévue pour les contraventions de la 5eme classe en récidive.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°93-726 1993-03-29 art. 1, art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
 ###### Article R441-1
@@ -42200,8 +42257,8 @@ _Cite_:
 ###### Article R*514-17
 
 Toute infraction aux prescriptions des articles R. 514-1, R. 514-3, R. 514-6 (dernier alinéa), R. 514-8 à R. 514-10, R.
-514-12, R. 514-14, R. 514-15, R. 515-1 à R. 515-7, sera punie de l'amende prévue pour les contraventions de la cinquième
-classe.
+514-12, R. 514-14, R. 514-15, R. 515-1 à R. 515-7, sera punie de l'amende prévue par le 5° de l'article 131-13 du code pénal
+pour les contraventions de la cinquième classe.
 
 **Liens relatifs à cet article**
 
@@ -42211,10 +42268,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+  - Décret n°93-726 1993-03-29 art. 1, art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 _Cite_:
 
+  - Code pénal - art. 131-13 (M)
   - Code des assurances - art. R*514-1 (M)
   - Code des assurances - art. R*514-3 (M)
   - Code des assurances R514-1, R514-3, R514-6, R514-8 à R514-10, R514-12, R514-14, R514-15, R515-1 à R515-7
