@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-02-01
+Version Consolidée au 2001-02-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -185,7 +185,7 @@ Version Consolidée au 2001-02-01
   - [Partie réglementaire (art. R111-1 à R530-12)](#182)
     - [Livre Ier : Le contrat. (art. R111-1 à R172-6)](#183)
       - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes. (art. R111-1 à R114-1)](#184)
-        - [Chapitre Ier : Dispositions générales. (art. R111-1)](#185)
+        - [Chapitre Ier : Dispositions générales. (art. R111-1 à R111-2)](#185)
         - [Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices. (art. R112-1 à R112-3)](#186)
         - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. R*113-4 à R113-6)](#187)
         - [Chapitre IV : Compétence et prescription. (art. R114-1)](#188)
@@ -19329,6 +19329,25 @@ _Cite_:
 
   - Code des assurances - art. L111-6 (V)
   - Code des assurances - art. R321-1 (V)
+
+
+###### Article R111-2
+
+L'autorité administrative mentionnée à l'article L. 111-4 est le ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°2001-112 du 7 février 2001 - art. 1 () JORF 8 février 2001
+
+_Cite_:
+
+  - Code des assurances - art. L111-4 (V)
 
 
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.<a id=186></a>
