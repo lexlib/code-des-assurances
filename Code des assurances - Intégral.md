@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1984-07-20
+Version Consolidée au 1984-08-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -222,7 +222,7 @@ Version Consolidée au 1984-07-20
               - [Paragraphe 4 : L'assemblée générale des sociétés d'assurance mutuelles (art. Annexe I art. R*322-58)](#219)
             - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. R*322-76 à R*322-80)](#220)
           - [Section V : Sociétés mutuelles d'assurance et leurs unions (art. R*322-93 à R*322-117)](#221)
-            - [Paragraphe 1 : Sociétés mutuelles d'assurance. (art. R*322-93 à R*322-106)](#222)
+            - [Paragraphe 1 : Sociétés mutuelles d'assurance. (art. R*322-93 à R322-104)](#222)
             - [Paragraphe 2 : Unions de sociétés mutuelles d'assurance. (art. R*322-107 à R*322-116)](#223)
             - [Paragraphe 3 : Dispositions communes. (art. R*322-117)](#224)
           - [Section V : Unions de sociétés d'assurance mutuelles. (art. R*322-108 à R*322-115)](#225)
@@ -21089,35 +21089,6 @@ _Anciens textes_:
   - Décret n°1938-12-30 art. 74
 
 
-###### Article R*322-97
-
-Les sociétés mutuelles d'assurance à caractère régional doivent limiter leur circonscription territoriale au département de
-leur siège social et aux départements limitrophes, toute ville de plus de 100 000 habitants étant exclue d'une telle
-circonscription. Ces sociétés ne peuvent assurer que des risques situés dans ladite circonscription.
-
-Les sociétés mutuelles d'assurance à caractère professionnel ne peuvent grouper que des membres exerçant la même profession
-ou des professions connexes, lesquelles doivent être déterminées par leurs statuts ; elles ne peuvent assurer que des risques
-se rattachant à l'exercice de ces professions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Code des assurances - art. R*322-117 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances R322-117 *sanctions civiles*
-
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 70
-
-
 ###### Article R*322-98
 
 Les sociétés mutuelles d'assurance régies par la présente section doivent faire figurer dans leurs statuts et dans tous les
@@ -21257,56 +21228,6 @@ _Anciens textes_:
   - Décret n°1938-12-30 art. 73
 
 
-###### Article R*322-104
-
-Les frais de gestion des sociétés mutuelles d'assurance ne peuvent comprendre que les dépenses nécessaires à leur
-fonctionnement et, le cas échéant, les charges du service et de l'amortissement des emprunts.
-
-Le total des dépenses de fonctionnement ne peut dépasser, par rapport aux cotisations normales telles qu'elles sont définies
-au deuxième alinéa de l'article R. 322-71, les pourcentages suivants :
-
-1°) 25 % sur la tranche de cotisations inférieure ou égale à 300.000 F ;
-
-2°) 20 % sur la tranche de cotisations comprise entre 300.000 et 700.000 F ;
-
-3°) 15 % sur la tranche de cotisations excédant 700.000 F.
-
-Les gérants ou administrateurs ne peuvent recevoir que le remboursement, sur justifications, des débours effectivement
-exposés par eux pour le compte de la société.
-
-Les employés, quelles que soient leurs fonctions, ne peuvent être rémunérés que par un traitement fixe et par des avantages
-accessoires ayant le caractère, soit d'aide ou d'assistance à ces employés ou aux membres de leur famille, soit de
-contribution à la constitution de pensions de retraite en leur faveur. Ces avantages ne peuvent en aucun cas consister en
-allocations proportionnelles au montant des cotisations, ni au montant des valeurs assurées, ni au nombre des membres faisant
-partie de la société.
-
-Les avantages accessoires qui seraient accordés à l'un quelconque de ces employés ne peuvent représenter plus de 20 % du
-total des sommes affectées par la société à de tels avantages, ni plus de 25 % du montant du traitement de l'intéressé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Code des assurances - art. R*322-115 (Ab)
-  - Code des assurances - art. R*322-117 (M)
-
-_Cite_:
-
-  - Code des assurances - art. R*322-71 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances R322-117 *sanctions civiles*
-
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 69
-
-
 ###### Article R*322-105
 
 Les sociétés mutuelles d'assurance ne peuvent emprunter que pour constituer :
@@ -21361,6 +21282,81 @@ _Cité par_:
 
   - Code des assurances - art. R*322-77-1 (T)
   - Code des assurances - art. R322-74 (V)
+
+
+###### Article R322-97
+
+Les sociétés mutuelles d'assurance à caractère régional doivent limiter leur circonscription territoriale à la région de leur
+siège social ainsi qu'aux départements d'autres régions s'ils sont limitrophes du département du siège social. Ces sociétés
+ne peuvent assurer que des risques situés dans ladite circonscription.
+
+Les sociétés mutuelles d'assurance à caractère professionnel ne peuvent grouper que des membres exerçant la même profession
+ou des professions connexes, lesquelles doivent être déterminées par leurs statuts ; elles ne peuvent assurer que des risques
+se rattachant à l'exercice de ces professions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°84-787 1984-08-14 art. 1 JORF 21 août 1984
+
+_Cité par_:
+
+  - Code des assurances - art. R*322-117 (M)
+
+
+###### Article R322-104
+
+Les frais de gestion des sociétés mutuelles d'assurance ne peuvent comprendre que les dépenses nécessaires à leur
+fonctionnement et, le cas échéant, les charges du service et de l'amortissement des emprunts.
+
+Le total des dépenses de fonctionnement ne peut dépasser, par rapport aux cotisations normales telles qu'elles sont définies
+au deuxième alinéa de l'article R. 322-71, les pourcentages suivants :
+
+1°) 25 % sur la tranche de cotisations inférieure ou égale à 1.500.000 F ;
+
+2°) 20 % sur la tranche de cotisations excédant 1.500.000 F.
+
+3°) 15 % sur la tranche de cotisations excédant 700.000 F.
+
+Les gérants ou administrateurs ne peuvent recevoir que le remboursement, sur justifications, des débours effectivement
+exposés par eux pour le compte de la société.
+
+Les employés, quelles que soient leurs fonctions, ne peuvent être rémunérés que par un traitement fixe et par des avantages
+accessoires ayant le caractère, soit d'aide ou d'assistance à ces employés ou aux membres de leur famille, soit de
+contribution à la constitution de pensions de retraite en leur faveur. Ces avantages ne peuvent en aucun cas consister en
+allocations proportionnelles au montant des cotisations, ni au montant des valeurs assurées, ni au nombre des membres faisant
+partie de la société.
+
+Les avantages accessoires qui seraient accordés à l'un quelconque de ces employés ne peuvent représenter plus de 20 % du
+total des sommes affectées par la société à de tels avantages, ni plus de 25 % du montant du traitement de l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°84-787 1984-08-14 art. 2 JORF 21 août 1984
+
+_Cité par_:
+
+  - Code des assurances - art. R*322-115 (Ab)
+  - Code des assurances - art. R*322-117 (M)
+
+_Cite_:
+
+  - Code des assurances - art. R*322-71 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des assurances R322-117 *sanctions civiles*
 
 
 ##### Paragraphe 2 : Unions de sociétés mutuelles d'assurance.<a id=223></a>
