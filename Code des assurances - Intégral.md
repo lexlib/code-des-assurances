@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-06-20
+Version Consolidée au 2004-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -3733,14 +3733,15 @@ recommandée avec demande d'avis de réception pendant le délai de trente jours
 La proposition d'assurance ou de contrat doit comprendre un projet de lettre destiné à faciliter l'exercice de cette faculté
 de renonciation. Elle doit indiquer notamment, pour les plans d'épargne retraite populaire créés à l'article 108 de la loi n°
 2003-775 du 21 août 2003 portant réforme des retraites, les valeurs de transfert ou pour les contrats qui en comportent, les
-valeurs de rachat au terme de chacune des huit premières années au moins. L'entreprise d'assurance ou de capitalisation doit,
-en outre, remettre, contre récépissé, une note d'information sur les dispositions essentielles du contrat, sur les conditions
-d'exercice de la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de
-renonciation. Le défaut de remise des documents et informations énumérés au présent alinéa entraîne de plein droit la
-prorogation du délai prévu au premier alinéa jusqu'au trentième jour suivant la date de remise effective de ces documents. Un
-nouveau délai de trente jours court à compter de la date de reception du contrat, lorsque celui-ci apporte des réserves ou
-des modifications essentielles à l'offre originelle, ou à compter de l'acceptation écrite, par le souscripteur, de ces
-réserves ou modifications.
+valeurs de rachat ainsi que, dans le même tableau, la somme des primes ou cotisations versées au terme de chacune des huit
+premières années au moins. L'entreprise d'assurance ou de capitalisation doit, en outre, remettre, contre récépissé, une note
+d'information sur les dispositions essentielles du contrat incluant, lorsque le contrat comporte des garanties exprimées en
+unités de compte, les caractéristiques principales de ces unités de compte, sur les conditions d'exercice de la faculté de
+renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de renonciation. Le défaut de
+remise des documents et informations énumérés au présent alinéa entraîne de plein droit la prorogation du délai prévu au
+premier alinéa jusqu'au trentième jour suivant la date de remise effective de ces documents. Un nouveau délai de trente jours
+court à compter de la date de réception du contrat, lorsque celui-ci apporte des réserves ou des modifications essentielles à
+l'offre originelle, ou à compter de l'acceptation écrite, par le souscripteur, de ces réserves ou modifications.
 
 La renonciation entraîne la restitution par l'entreprise d'assurance ou de capitalisation de l'intégralité des sommes versées
 par le contractant, dans le délai maximal de trente jours à compter de la réception de la lettre recommandée. Au-delà de ce
@@ -3754,9 +3755,6 @@ tant que de besoin, par arrêté ministériel.
 
 Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L132-5-1 du présent code, les mots "
 plan d'épargne individuel pour la retraite " sont déclassés et ont dorénavant un caractère réglementaire.
-
-Décret 2004-346 2004-04-21 art. 2 : les mots " plans d'épargne individuelle pour la retraite " sont remplacés par les mots "
-plans d'épargne retraite populaire ".
 
 **Liens relatifs à cet article**
 
@@ -3787,13 +3785,14 @@ _Cité par_:
   - Code des assurances - art. R132-4 (V)
   - Code des assurances - art. R310-6 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
+  - Décret n°2004-346 du 21 avril 2004 - art. 2 () JORF 22 avril 2004
+
 _Cite_:
 
   - Loi n°2003-775 2003-08-21 art. 108
-
-_Modifié par_:
-
-  - Décret n°2004-346 du 21 avril 2004 - art. 2 () JORF 22 avril 2004
 
 
 ###### Article L132-6
@@ -4374,6 +4373,87 @@ _Modifié par_:
 **Liens**:
 
   - TXT_SOURCE: Code des assurances - art. A335-2 (Ab)
+
+
+###### Article L132-22
+
+Pour les contrats dont la provision mathématique est égale ou supérieure à un montant fixé par arrêté du ministre chargé de
+l'économie, l'entreprise d'assurance ou de capitalisation communique chaque année au contractant :
+
+- le montant de la valeur de rachat de son contrat ou la valeur de transfert de son plan d'épargne retraite populaire tel que
+défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ;
+
+- le cas échéant, le montant de la valeur de réduction de son contrat ;
+
+- le montant des capitaux garantis ;
+
+- la prime du contrat.
+
+Pour ces mêmes contrats, elle communique également chaque année au contractant dans des conditions précisées par arrêté du
+ministre chargé de l'économie :
+
+- le rendement garanti et la participation aux bénéfices techniques et financiers de son contrat ;
+
+- le taux moyen de rendement des actifs détenus en représentation des engagements au titre des contrats de même catégorie ;
+
+- et, pour les contrats dont les garanties sont exprimées en unités de compte, les valeurs de ces unités de compte, leur
+évolution annuelle à compter de la souscription du contrat et les modifications significatives affectant chaque unité de
+compte.
+
+Ces montants ne peuvent tenir compte de participations bénéficiaires qui ne seraient pas attribuées à titre définitif.
+
+L'entreprise d'assurance ou de capitalisation indique en termes précis et clairs dans cette communication ce que signifient
+les opérations de rachat, de transfert et de réduction et quelles sont leurs conséquences légales et contractuelles.
+
+Pour les contrats dont la provision mathématique est inférieure au montant défini au premier alinéa et pour les contrats ou
+bons de capitalisation au porteur, les informations définies au présent article sont communiquées pour une année donnée au
+contractant qui en fait la demande.
+
+Le contrat fait référence à l'obligation d'information prévue aux alinéas précédents.
+
+**Nota:**
+
+Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L132-22 du présent code, les mots "
+plan d'épargne individuelle pour la retraite " sont déclassés et ont dorénavant un caractère réglementaire.
+
+Décret 2004-346 2004-04-21 art. 2 : les mots " plan d'épargne individuelle pour la retraite " sont remplacés par les mots "
+plan d'épargne retraite populaire ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Cité par_:
+
+  - Loi n°81-5 du 7 janvier 1981 - art. 17 (V)
+  - Décret n°2004-342 du 21 avril 2004 - art. 57 (Ab)
+  - Arrêté du 27 juin 2019 - art. 4
+  - Code de la sécurité sociale. - art. A932-6 (V)
+  - Code de la sécurité sociale. - art. Annexe à l'article A931-11-15 (V)
+  - Code des assurances - art. A132-7 (V)
+  - Code des assurances - art. A132-7-1 (V)
+  - Code des assurances - art. Annexe art. A344-8 (Ab)
+  - Code des assurances - art. L111-5 (M)
+  - Code des assurances - art. L132-5-3 (V)
+  - Code des assurances - art. L433-3 (M)
+  - Code des assurances - art. R132-5-4 (V)
+  - Code général des collectivités territoriales - art. L2223-34-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
+  - Loi n°2003-775 2003-08-21 art. 108 XIV 1 JORF 22 août 2003 en vigueur le 1er janvier 2004
+  - Décret n°2004-346 du 21 avril 2004 - art. 2 () JORF 22 avril 2004
+
+_Cite_:
+
+  - Loi n°2003-775 2003-08-21 art. 108
+
+_Anciens textes_:
+
+  - Loi n°1930-07-13 art. 77
 
 
 ###### Article L132-22-1
@@ -48560,20 +48640,22 @@ _Cite_:
 
 ###### Article A132-6
 
-Pour l'application de l'article A. 132-2, il est prévu, dans le compte de participation aux résultats, une rubrique intitulée
-"Solde de réassurance cédée".
+Lorsque l'unité de compte est une part ou une action d'OPCVM, les caractéristiques principales mentionnées à l'article L.
+132-5-1 sont :
 
-Seule est prise en compte la réassurance de risque, c'est-à-dire celle dans laquelle l'engagement des cessionnaires porte
-exclusivement sur tout ou partie de la différence entre le montant des capitaux en cas de décès ou d'invalidité et celui des
-provisions mathématiques des contrats correspondants.
+1° Présentation succincte : la dénomination de l'organisme, sa forme juridique, le nom de la société de gestion et des
+éventuels délégataires de gestion ;
 
-Dans les traités limités à la réassurance de risque, le solde de réassurance cédée est égal à la différence entre le montant
-des sinistres à la charge des cessionnaires et celui des primes cédées. Il est inscrit, selon le cas, au débit ou au crédit
-du compte de participation aux résultats.
+2° Informations concernant les placements et la gestion : la classification de l'organisme, l'objectif de gestion, la
+stratégie d'investissement, le profil de risque, la garantie ou protection éventuelle, le profil type de l'investisseur ;
 
-Dans les autres traités, le solde de réassurance cédée est établi en isolant la réassurance de risque à l'intérieur des
-engagements des cessionnaires. Les modalités de calcul du solde sont précisées par circulaire, par référence aux conditions
-normales du marché de la réassurance de risque.
+3° Informations sur les frais et commissions de l'organisme ;
+
+4° Lorsque plus de 10 % des actifs sont constitués par des parts ou des actions d'un autre organisme de placement collectif,
+l'indication du niveau d'investissement.
+
+Les informations concernant les caractéristiques principales mentionnées ci-dessus doivent être au moins équivalentes à
+celles mentionnées dans le prospectus simplifié visé par l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -48581,15 +48663,9 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Modifié par_:
+_Créé par_:
 
-  - Arrêté 1982-07-23 art. 6 JORF 7 septembre 1982
-  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
-  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
-
-_Transféré par_:
-
-  - Arrêté 1994-08-08 art. 10 VI JORF 23 août 1994
+  - Arrêté 2004-06-21 art. 2 JORF 29 juin 2004 en vigueur le 1er juillet 2004
 
 _Cité par_:
 
@@ -48600,21 +48676,59 @@ _Cité par_:
   - Code des assurances - art. A132-8 (V)
   - Code des assurances - art. A150-3 (M)
 
-_Cite_:
-
-  - Code des assurances - art. A132-2 (M)
-
 _Nouveaux textes_:
 
   - Code des assurances - art. A331-8 (Ab)
 
+_Cite_:
+
+  - Code des assurances - art. L132-5-1 (M)
+
 
 ###### Article A132-7
 
-Le montant des participations aux bénéfices peut être affecté directement aux provisions mathématiques ou porté,
-partiellement ou totalement, à la provision pour participation aux excédents mentionnée à l'article R. 331-3. Les sommes
-portées à cette dernière provision sont affectées à la provision mathématique ou versées aux souscripteurs au cours des huit
-exercices suivant celui au titre duquel elles ont été portées à la provision pour participation aux excédents.
+I. - Le montant mentionné au premier alinéa de l'article L. 132-22 est de 2 000 euros.
+
+II. - Pour l'application du septième alinéa de l'article L. 132-22, les informations suivantes sont communiquées à l'assuré :
+
+- le taux d'intérêt garanti par le contrat et le taux d'intérêt correspondant au montant affecté aux provisions mathématiques
+du contrat provenant de la participation aux bénéfices ou des reprises de provision pour participation aux bénéfices ;
+
+- le taux des frais prélevés par l'entreprise ;
+
+- le taux des taxes et prélèvements sociaux ;
+
+- le taux d'intérêt servi à l'assuré, net de frais et, le cas échéant, des taxes et des prélèvements sociaux prélevés lors de
+l'inscription des intérêts au contrat.
+
+III. - Pour l'application du huitième alinéa de l'article L. 132-22, les informations communiquées à l'assuré sont les
+suivantes :
+
+1° Pour les contrats auxquels des actifs sont affectés en vertu de dispositions législatives, le taux de rendement de ces
+actifs ;
+
+2° Pour les contrats de groupe prévoyant que les engagements sont représentés par des actifs faisant l'objet d'une
+affectation comptable distincte propre au contrat, le taux de rendement de ces actifs ;
+
+3° Dans les autres cas, le taux de rendement des placements défini au 1 de l'article A. 331-7 et le taux moyen des montants,
+y compris ceux provenant de la participation aux bénéfices, affectés aux provisions mathématiques relatives à la catégorie
+d'opérations mentionnée à l'article A. 344-2, dont relève le contrat.
+
+IV. - Pour l'application du neuvième alinéa de l'article L. 132-22, l'information annuelle du souscripteur ou, en cas de
+contrat de groupe, de l'adhérent comporte :
+
+- la valeur des unités de compte sélectionnées ;
+
+- les frais prélevés par l'entreprise d'assurance au titre de chaque unité de compte ;
+
+- le total des frais supportés par l'unité de compte, au cours du dernier exercice connu ;
+
+- pour les unités de compte qui en comportent, les valeurs des indicateurs de référence ;
+
+- le cas échéant, le produit des droits attachés à la détention de l'unité de compte conservé par l'entreprise d'assurance.
+
+Les modifications significatives affectant chaque unité de compte sélectionnée, constituée sous la forme d'une part ou d'une
+action d'OPCVM, sont celles affectant ses caractéristiques principales, telles que définies à l'article A. 132-6.
 
 **Liens relatifs à cet article**
 
@@ -48622,24 +48736,24 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Modifié par_:
+_Créé par_:
 
-  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
-  - Arrêté 1993-03-19 art. 1, art. 2 II JORF 20 mars 1993 en vigueur le 1er juillet 1993
-  - Arrêté 1993-03-19 art. 2 JORF 20 mars 1993 en vigueur le 1er juillet 1993
-  - Arrêté 1994-08-08 art. 10 VII JORF 23 août 1994
+  - Arrêté 2004-06-21 art. 3 JORF 29 juin 2004 en vigueur le 1er juillet 2004
 
 _Cité par_:
 
   - Code des assurances - art. A132-5-3 (V)
 
+_Cite_:
+
+  - Code des assurances - art. A132-6 (T)
+  - Code des assurances - art. A331-7 (Ab)
+  - Code des assurances - art. A344-2 (M)
+  - Code des assurances - art. L132-22 (M)
+
 _Nouveaux textes_:
 
   - Code des assurances - art. A331-9 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. R*331-3 (M)
 
 
 ###### Article A132-8
