@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1982-09-27
+Version Consolidée au 1982-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -15753,21 +15753,25 @@ _Abrogé par_:
 Une majoration de 10 %, restant à la charge de l'assureur, est appliquée à tout versement qui n'a pas été opéré par une
 entreprise d'assurance aux échéances fixées par l'article R. 213-3.
 
-Une majoration supplémentaire de 3 % est due pour chaque trimestre de retard.
+Une majoration supplémentaire de 5 % est due pour chaque trimestre de retard.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-1211 1967-12-22 art. 4
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+_Modifié par_:
+
+  - Décret n°82-1082 1982-12-20 art. 1 JORF 22 décembre 1982
+
 _Cite_:
 
   - Code des assurances R213-3
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des assurances R213-8
 
 
 #### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer<a id=186></a>
