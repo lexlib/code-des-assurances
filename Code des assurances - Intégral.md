@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1983-09-24
+Version Consolidée au 1983-10-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -29241,7 +29241,7 @@ l'exercice écoulé. Ce dossier est produit en quatre exemplaires.
 
 Il est certifié par le président du conseil d'administration ou le président du directoire ou le directeur général unique
 dans les sociétés anonymes, par le directeur et par le président du conseil d'administration dans les sociétés mutuelles ou à
-forme mutuelle, les unions de mutuelles et les tontines, par le mandataire général ou son représentant légal dans les
+formule mutuelle, les unions de mutuelles et les tontines, par le mandataire général ou son représentant légal dans les
 entreprises étrangères, sous la formule suivante : "le présent document, comprenant x feuillets numérotés, est certifié, sous
 les sanctions prévues à l'article L. 328-10 du code des assurances, conforme aux écritures de l'entreprise et aux
 dispositions du chapitre II du titre IV du livre III du même code".
@@ -29252,24 +29252,30 @@ Il comprend :
 
 2° Les documents énumérés à l'article R. 342-17.
 
+Toutefois, les comptes suivants : bilan, compte d'exploitation générale, compte général de pertes et profits, compte des
+résultats en instance d'affectation, compte d'exploitation générale par catégories ou sous-catégories (état A1),
+récapitulation de l'état A5, figurant au dossier annuel, doivent être adressés au ministre de l'économie, des finances et du
+budget avant le 1er juillet de chaque année sauf dérogation accordée cas par cas par le ministre.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 20
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-917 du 18 octobre 1983 - art. 1 () JORF 22 octobre 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-917 du 18 octobre 1983 - art. 2 (V)
+  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
 
 _Cite_:
 
   - Code des assurances - art. L328-10 (M)
   - Code des assurances - art. R342-17 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
 
 
 ###### Article R342-21
