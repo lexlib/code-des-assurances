@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-03-20
+Version Consolidée au 1992-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L193-1)](#2)
@@ -391,150 +391,148 @@ Version Consolidée au 1992-03-20
     - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. R*511-1 à R530-11)](#388)
       - [Titre I : Présentation des opérations (art. R*511-1 à R*516-1)](#389)
         - [Chapitre I : Principes généraux. (art. R*511-1 à R511-6)](#390)
-        - [Chapitre II : Dérogations aux principes généraux (art. R*512-1 à R*512-9)](#391)
+        - [Chapitre II : Dérogations aux principes généraux (art. R*512-1 à R512-5)](#391)
           - [Section I : Dérogations permanentes. (art. R*512-1 à R512-5)](#392)
-          - [Section II : Dérogations transitoires. (art. R*512-7 à R*512-9)](#393)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. R513-1 à R513-5)](#394)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. R*514-1 à R*514-17)](#395)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R*514-1 à R*514-4)](#396)
-          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-5 à R*514-7)](#397)
-          - [Section III : Modalités de contrôle spéciales aux conditions d'honorabilité. (art. R*514-8 à R*514-13)](#398)
-          - [Section IV : Dispositions diverses et pénalités. (art. R*514-14 à R*514-17)](#399)
-        - [Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France (art. R515-1 à R*515-12)](#400)
-          - [Section I : Conditions de capacité professionnelle. (art. R515-1 à R515-5)](#401)
-          - [Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité. (art. R*515-6 à R*515-8)](#402)
-          - [Section III : Dispositions relatives à la libre prestation de services. (art. R*515-9 à R*515-12)](#403)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. R*516-1)](#404)
-      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. R530-1 à R530-11)](#405)
-        - [Chapitre unique. (art. R530-1 à R530-11)](#406)
-  - [Partie réglementaire - Arrêtés (art. A113-1 à A516-2)](#407)
-    - [Livre Ier : Le contrat (art. A113-1 à A160-5)](#408)
-      - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#409)
-        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#410)
-      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-5)](#411)
-        - [Chapitre Ier : Dispositions générales. (art. A121-1)](#412)
-        - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-5)](#413)
-      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A132-10)](#414)
-        - [Chapitre II : Les assurances sur la vie (art. A132-10)](#415)
-          - [Section III : Participation des assurés aux bénéfices techniques et financiers. (art. A132-10)](#416)
-      - [Titre V : Le contrat de capitalisation (art. A150-1 à A150-3)](#417)
-        - [Chapitre unique (art. A150-1 à A150-3)](#418)
-          - [Section II : Rachat. (art. A150-1 à A150-2)](#419)
-          - [Section V : Participation des porteurs de titres aux bénéfices. (art. A150-3)](#420)
-      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. A160-1 à A160-5)](#421)
-        - [Chapitre unique (art. A160-1 à A160-5)](#422)
-          - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. A160-1 à Annexe à l'article A160-1)](#423)
-          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-3)](#424)
-          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-2 à A160-4)](#425)
-          - [Section VI : Assurances sur la vie en temps de guerre. (art. A160-5)](#426)
-    - [Livre II : Assurances obligatoires (art. A211-1-1 à A243-2)](#427)
-      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. A211-1-1 à A213-4)](#428)
-        - [Chapitre Ier : L'obligation de s'assurer (art. A211-1-1 à Annexe art. A211-11)](#429)
-          - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-1 à A211-1-2)](#430)
-          - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-3)](#431)
-          - [Section III : Franchises, exclusions de garantie et déchéances. (art. A211-2)](#432)
-          - [Section III : Franchises, exclusions de garantie et déchéances. (art. A211-3)](#433)
-          - [Section IV : Contrôle de l'obligation d'assurance (art. A211-4 à A211-10)](#434)
-            - [Paragraphe 1 : L'attestation d'assurance. (art. A211-4 à A211-8)](#435)
-            - [Paragraphe 2 : Le certificat d'assurance. (art. A211-9 à A211-10)](#436)
-          - [Section VI : Procédures d'indemnisation. (art. A211-11 à Annexe art. A211-11)](#437)
-        - [Chapitre II : L'obligation d'assurer le bureau central de tarification. (art. A212-1 à A212-3)](#438)
-        - [Chapitre III : Contribution au profit de la sécurité sociale. (art. A213-1 à A213-4)](#439)
-      - [Titre II : L'assurance des engins de remontée mécanique (art. A220-1 à A220-6)](#440)
-        - [Chapitre unique. (art. A220-1 à A220-6)](#441)
-      - [Titre III : L'assurance de la responsabilité civile des chasseurs (art. A230-1 à A230-7)](#442)
-        - [Chapitre unique. (art. A230-1 à A230-7)](#443)
-      - [Titre IV : L'assurance des travaux de bâtiment (art. A243-2)](#444)
-    - [Livre III : Les entreprises. (art. A310-1 à Annexe art. A344-8)](#445)
-      - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. A310-1 à A310-2)](#446)
-        - [Chapitre I (art. A310-1 à A310-3)](#447)
-          - [Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants. (art. A310-1 à A310-3)](#448)
-        - [Chapitre unique (art. A310-2)](#449)
-          - [Section I : Dispositions générales. (art. A310-2)](#450)
-      - [Titre II : Régime administratif (art. A321-1 à A323-7)](#451)
-        - [Chapitre Ier : Les agréments. (art. A321-1)](#452)
-          - [Section VI : Dispositions spéciales concernant la coassurance communautaire. (art. A321-1)](#453)
-        - [Chapitre II : Règles de constitution et de fonctionnement (art. A322-1 à A322-7)](#454)
-          - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. A322-1 à A322-3)](#455)
-            - [Paragraphe 2 : Administration. (art. A322-1)](#456)
-            - [Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance. (art. A322-3)](#457)
-          - [Section IV : Sociétés d'assurance à forme mutuelle. (art. A322-6 à A322-7)](#458)
-            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. A322-6 à A322-7)](#459)
-        - [Chapitre III : Procédures de redressement et de sauvegarde (art. A323-1 à A323-7)](#460)
-          - [Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur. (art. A323-1 à A323-7)](#461)
-      - [Titre III : Régime financier. (art. A331-1 à A335-19)](#462)
-        - [Chapitre Ier : Les engagements réglementés. (art. A331-1 à A331-25)](#463)
-          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1 à A331-9)](#464)
-          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-12 à A331-19)](#465)
-            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-12)](#466)
-              - [A. - Rentes d'accidents du travail. (art. A331-12)](#467)
-            - [Paragraphe 3 : Provision pour sinistres restant à payer (art. A331-20 à A331-19)](#468)
-              - [A. - Dispositions particulières relatives aux assurances contre les accidents du travail. (art. A331-16 à A331-19)](#469)
-          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-11 à A331-25)](#470)
-            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-11 à A331-15)](#471)
-            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-23 à A331-25)](#472)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-5 à A332-6)](#473)
-          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#474)
-        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-10)](#475)
-        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-2)](#476)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#477)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#478)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2)](#479)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2)](#480)
-        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#481)
-          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#482)
-            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#483)
-          - [Section I : Tarifs (art. A335-1-1 à A335-9)](#484)
-            - [Paragraphe 1 : Assurances sur la vie. (art. A335-1-1 à A335-5-1)](#485)
-            - [Paragraphe 2 : Assurances nuptialité et natalité. (art. A335-6)](#486)
-            - [Paragraphe 3 : Opérations de capitalisation. (art. A335-7 à A335-9)](#487)
-          - [Section II : Frais d'acquisition et de gestion (art. A335-10 à A335-18)](#488)
-            - [Paragraphe 1 : Assurances sur la vie et nuptialité-natalité. (art. A335-10 à A335-11)](#489)
-            - [Paragraphe 2 : Assurances populaires. (art. A335-12 à A335-14)](#490)
-            - [Paragraphe 3 : Assurances des véhicules terrestres à moteur. (art. A335-15 à A335-18)](#491)
-          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#492)
-            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#493)
-      - [Titre IV : Dispositions comptables et statistiques (art. A342-1 à Annexe art. A344-8)](#494)
-        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-3)](#495)
-          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-1 à A342-3)](#496)
-        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe art. A344-8)](#497)
-          - [Section I : Dispositions générales. (art. A344-1 à A344-2)](#498)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#499)
-          - [Section III : Etats à produire. (art. A344-7 à A344-8)](#500)
-          - [Section III : Etats à produire. (art. Annexe art. A344-8)](#501)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-2)](#502)
-      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#503)
-        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#504)
-          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#505)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#506)
-          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#507)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#508)
-          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#509)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#510)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#511)
-      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A433-6)](#512)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#513)
-          - [Section I : Dispositions générales. (art. A431-1)](#514)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#515)
-            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#516)
-          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#517)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#518)
-            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#519)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#520)
-          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#521)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#522)
-        - [Chapitre III : La caisse nationale de prévoyance (art. A433-1 à A433-6)](#523)
-          - [Section I : Dispositions générales. (art. A433-1)](#524)
-          - [Section V : Tarifs. (art. A433-2 à A433-6)](#525)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#526)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#527)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#528)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#529)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#530)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#531)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-2)](#532)
-          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. A514-2)](#533)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#534)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. R*513-6 à R513-4)](#393)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. R*514-1 à R*514-17)](#394)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R*514-1 à R514-3)](#395)
+          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-6 à R514-5)](#396)
+          - [Section III : Modalités de contrôle spéciales aux conditions d'honorabilité. (art. R*514-8 à R*514-13)](#397)
+          - [Section IV : Dispositions diverses et pénalités. (art. R*514-14 à R*514-17)](#398)
+        - [Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France (art. R515-1 à R*515-7)](#399)
+          - [Section I : Conditions de capacité professionnelle. (art. R515-1 à R515-5)](#400)
+          - [Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité. (art. R*515-6 à R*515-7)](#401)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. R*516-1)](#402)
+      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. R530-1 à R530-11)](#403)
+        - [Chapitre unique. (art. R530-1 à R530-11)](#404)
+  - [Partie réglementaire - Arrêtés (art. A113-1 à A516-2)](#405)
+    - [Livre Ier : Le contrat (art. A113-1 à A160-5)](#406)
+      - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#407)
+        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#408)
+      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-5)](#409)
+        - [Chapitre Ier : Dispositions générales. (art. A121-1)](#410)
+        - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-5)](#411)
+      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A132-10)](#412)
+        - [Chapitre II : Les assurances sur la vie (art. A132-10)](#413)
+          - [Section III : Participation des assurés aux bénéfices techniques et financiers. (art. A132-10)](#414)
+      - [Titre V : Le contrat de capitalisation (art. A150-1 à A150-3)](#415)
+        - [Chapitre unique (art. A150-1 à A150-3)](#416)
+          - [Section II : Rachat. (art. A150-1 à A150-2)](#417)
+          - [Section V : Participation des porteurs de titres aux bénéfices. (art. A150-3)](#418)
+      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. A160-1 à A160-5)](#419)
+        - [Chapitre unique (art. A160-1 à A160-5)](#420)
+          - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. A160-1 à Annexe à l'article A160-1)](#421)
+          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-3)](#422)
+          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-2 à A160-4)](#423)
+          - [Section VI : Assurances sur la vie en temps de guerre. (art. A160-5)](#424)
+    - [Livre II : Assurances obligatoires (art. A211-1-1 à A243-2)](#425)
+      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. A211-1-1 à A213-4)](#426)
+        - [Chapitre Ier : L'obligation de s'assurer (art. A211-1-1 à Annexe art. A211-11)](#427)
+          - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-1 à A211-1-2)](#428)
+          - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-3)](#429)
+          - [Section III : Franchises, exclusions de garantie et déchéances. (art. A211-2)](#430)
+          - [Section III : Franchises, exclusions de garantie et déchéances. (art. A211-3)](#431)
+          - [Section IV : Contrôle de l'obligation d'assurance (art. A211-4 à A211-10)](#432)
+            - [Paragraphe 1 : L'attestation d'assurance. (art. A211-4 à A211-8)](#433)
+            - [Paragraphe 2 : Le certificat d'assurance. (art. A211-9 à A211-10)](#434)
+          - [Section VI : Procédures d'indemnisation. (art. A211-11 à Annexe art. A211-11)](#435)
+        - [Chapitre II : L'obligation d'assurer le bureau central de tarification. (art. A212-1 à A212-3)](#436)
+        - [Chapitre III : Contribution au profit de la sécurité sociale. (art. A213-1 à A213-4)](#437)
+      - [Titre II : L'assurance des engins de remontée mécanique (art. A220-1 à A220-6)](#438)
+        - [Chapitre unique. (art. A220-1 à A220-6)](#439)
+      - [Titre III : L'assurance de la responsabilité civile des chasseurs (art. A230-1 à A230-7)](#440)
+        - [Chapitre unique. (art. A230-1 à A230-7)](#441)
+      - [Titre IV : L'assurance des travaux de bâtiment (art. A243-2)](#442)
+    - [Livre III : Les entreprises. (art. A310-1 à Annexe art. A344-8)](#443)
+      - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. A310-1 à A310-2)](#444)
+        - [Chapitre I (art. A310-1 à A310-3)](#445)
+          - [Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants. (art. A310-1 à A310-3)](#446)
+        - [Chapitre unique (art. A310-2)](#447)
+          - [Section I : Dispositions générales. (art. A310-2)](#448)
+      - [Titre II : Régime administratif (art. A321-1 à A323-7)](#449)
+        - [Chapitre Ier : Les agréments. (art. A321-1)](#450)
+          - [Section VI : Dispositions spéciales concernant la coassurance communautaire. (art. A321-1)](#451)
+        - [Chapitre II : Règles de constitution et de fonctionnement (art. A322-1 à A322-7)](#452)
+          - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. A322-1 à A322-3)](#453)
+            - [Paragraphe 2 : Administration. (art. A322-1)](#454)
+            - [Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance. (art. A322-3)](#455)
+          - [Section IV : Sociétés d'assurance à forme mutuelle. (art. A322-6 à A322-7)](#456)
+            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. A322-6 à A322-7)](#457)
+        - [Chapitre III : Procédures de redressement et de sauvegarde (art. A323-1 à A323-7)](#458)
+          - [Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur. (art. A323-1 à A323-7)](#459)
+      - [Titre III : Régime financier. (art. A331-1 à A335-19)](#460)
+        - [Chapitre Ier : Les engagements réglementés. (art. A331-1 à A331-25)](#461)
+          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1 à A331-9)](#462)
+          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-12 à A331-19)](#463)
+            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-12)](#464)
+              - [A. - Rentes d'accidents du travail. (art. A331-12)](#465)
+            - [Paragraphe 3 : Provision pour sinistres restant à payer (art. A331-20 à A331-19)](#466)
+              - [A. - Dispositions particulières relatives aux assurances contre les accidents du travail. (art. A331-16 à A331-19)](#467)
+          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-11 à A331-25)](#468)
+            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-11 à A331-15)](#469)
+            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-23 à A331-25)](#470)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-5 à A332-6)](#471)
+          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#472)
+        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-10)](#473)
+        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-2)](#474)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#475)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#476)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2)](#477)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2)](#478)
+        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#479)
+          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#480)
+            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#481)
+          - [Section I : Tarifs (art. A335-1-1 à A335-9)](#482)
+            - [Paragraphe 1 : Assurances sur la vie. (art. A335-1-1 à A335-5-1)](#483)
+            - [Paragraphe 2 : Assurances nuptialité et natalité. (art. A335-6)](#484)
+            - [Paragraphe 3 : Opérations de capitalisation. (art. A335-7 à A335-9)](#485)
+          - [Section II : Frais d'acquisition et de gestion (art. A335-10 à A335-18)](#486)
+            - [Paragraphe 1 : Assurances sur la vie et nuptialité-natalité. (art. A335-10 à A335-11)](#487)
+            - [Paragraphe 2 : Assurances populaires. (art. A335-12 à A335-14)](#488)
+            - [Paragraphe 3 : Assurances des véhicules terrestres à moteur. (art. A335-15 à A335-18)](#489)
+          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#490)
+            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#491)
+      - [Titre IV : Dispositions comptables et statistiques (art. A342-1 à Annexe art. A344-8)](#492)
+        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-3)](#493)
+          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-1 à A342-3)](#494)
+        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe art. A344-8)](#495)
+          - [Section I : Dispositions générales. (art. A344-1 à A344-2)](#496)
+          - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#497)
+          - [Section III : Etats à produire. (art. A344-7 à A344-8)](#498)
+          - [Section III : Etats à produire. (art. Annexe art. A344-8)](#499)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-2)](#500)
+      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#501)
+        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#502)
+          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#503)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#504)
+          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#505)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#506)
+          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#507)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#508)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#509)
+      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A433-6)](#510)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#511)
+          - [Section I : Dispositions générales. (art. A431-1)](#512)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#513)
+            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#514)
+          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#515)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#516)
+            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#517)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#518)
+          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#519)
+            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#520)
+        - [Chapitre III : La caisse nationale de prévoyance (art. A433-1 à A433-6)](#521)
+          - [Section I : Dispositions générales. (art. A433-1)](#522)
+          - [Section V : Tarifs. (art. A433-2 à A433-6)](#523)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#524)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#525)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#526)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#527)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#528)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#529)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#530)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#531)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#532)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -18200,23 +18198,24 @@ _Cite_:
 
 ###### Article R211-21-2
 
-Pour l'application de l'article R. 211-21-1, toute entreprise d'assurance agréée en France doit délivrer sans frais un
-certificat pour chacun des véhicules couverts par le contrat, à l'exception toutefois des remorques.
+Pour l'application de l'article R. 211-21-1, toute entreprise d'assurance pratiquant sur le territoire de la République
+française doit délivrer sans frais un certificat pour chacun des véhicules couverts par le contrat, à l'exception toutefois
+des remorques. 
 
-Le certificat doit mentionner :
+Le certificat doit mentionner : 
 
-a) La dénomination de l'entreprise d'assurance ;
+a) La dénomination de l'entreprise d'assurance ; 
 
-b) Un numéro permettant l'identification du souscripteur ;
+b) Un numéro permettant l'identification du souscripteur ; 
 
-c) Le numéro d'immatriculation du véhicule ;
+c) Le numéro d'immatriculation du véhicule ; 
 
-d) Le numéro de moteur lorsque le véhicule n'est pas soumis à immatriculation ;
+d) Le numéro de moteur lorsque le véhicule n'est pas soumis à immatriculation ; 
 
-e) Les dates de début et de fin de validité.
+e) Les dates de début et de fin de validité. 
 
 Par dérogation au deuxième alinéa, le certificat délivré aux personnes mentionnées à l'alinéa 1er de l'article R. 211-3 ne
-doit comporter que les indications a, b et e ainsi qu'en termes apparents le mot "Garage".
+doit comporter que les indications a, b et e ainsi qu'en termes apparents le mot " Garage ". 
 
 Tout conducteur d'un véhicule sur lequel est apposé le certificat décrit à l'alinéa précédent doit en outre être en mesure de
 justifier aux autorités chargées du contrôle des documents justificatifs que la conduite du véhicule lui a été confiée par
@@ -18248,11 +18247,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°89-111 1989-02-21 art. 6 JORF 23 février 1989
+  - Décret n°92-308 du 31 mars 1992 - art. 1 () JORF 1er avril 1992
 
 _Cite_:
 
-  - Code des assurances - art. R*211-3 (M)
+  - Code des assurances - art. R211-3 (V)
 
 
 ###### Article R211-21-3
@@ -19241,7 +19240,7 @@ contrat déjà existant, lorsque cette proposition est faite pour satisfaire à 
 
 Lorsqu'il s'agit de la souscription d'un contrat nouveau, le silence de l'assureur pendant plus de quinze jours après
 réception de la proposition est considéré comme un refus implicite d'assurance ; lorsqu'il s'agit de la modification d'un
-contrat déjà existant, il est fait application des dispositions du deuxième alinéa de l'article L. 112-2.
+contrat déjà existant, il est fait application des dispositions du cinquième alinéa de l'article L. 112-2.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une proposition d'assurance en application de l'article L. 211-1, de
 subordonner son acceptation à la couverture de risques non mentionnés par cet article ou dont l'étendue excéderait les
@@ -19255,7 +19254,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°83-484 1983-06-09 art. 2 JORF 14 juin 1983
+  - Décret n°92-308 du 31 mars 1992 - art. 5 () JORF 1er avril 1992
+
+_Abrogé par_:
+
+  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 _Cite_:
 
@@ -19303,12 +19306,11 @@ _Cité par_:
 
 ###### Article R*212-8
 
-Toute entreprise d'assurance agréée pour pratiquer le opérations de responsabilité civile résultant de l'emploi de véhicules
-terrestres automoteurs doit tenir à la disposition de toute personne qui en fait la demande, des formules de proposition
-permettant de répondre aux prescriptions de l'article R. 212-5 ; elle doit, de plus, indiquer le montant de la prime
-applicable au risque proposé et fixé par son tarif de référence, tel qu'il a été communiqué au ministre de l'économie, des
-finances et du budget, conformément à l'article R. 310-6. Dans le cas d'une entreprise à cotisations variables, la
-possibilité réglementaire d'un rappel de cotisation doit être indiquée.
+Toute entreprise d'assurance pratiquant sur le territoire de la République française les opérations de responsabilité civile
+résultant de l'emploi de véhicules terrestres automoteurs doit tenir à la disposition de toute personne qui en fait la
+demande, des formules de proposition permettant de répondre aux prescriptions de l'article R. 212-5 ; elle doit, de plus,
+indiquer le montant de la prime applicable au risque proposé et fixé par son tarif de référence. Dans le cas d'une entreprise
+à cotisations variables, la possibilité réglementaire d'un rappel de cotisation doit être indiquée.
 
 En outre, et si la personne le sollicite, l'entreprise d'assurance doit fournir les éléments d'information relatifs au calcul
 de cette prime en distinguant la prime normale, la surprime pour circonstances aggravantes, ainsi que les réductions ou
@@ -19322,7 +19324,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°83-484 1983-06-09 art. 5 JORF 14 juin 1983
+  - Décret n°92-308 du 31 mars 1992 - art. 3 () JORF 1er avril 1992
+
+_Abrogé par_:
+
+  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 _Cité par_:
 
@@ -19335,7 +19341,6 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. R212-5 (Ab)
-  - Code des assurances R212-5, R310-6
 
 
 ###### Article R*212-9
@@ -19370,8 +19375,7 @@ _Anciens textes_:
 
 ###### Article R*212-10
 
-Le bureau central de tarification établit son règlement intérieur qui est soumis, avant application, à l'approbation du
-ministre de l'économie et des finances ; son secrétariat est assuré par le conseil national des assurances.
+Le bureau central de tarification établit son règlement intérieur.
 
 **Liens relatifs à cet article**
 
@@ -19379,9 +19383,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-484 1983-06-09 art. 4 JORF 14 juin 1983
+  - Décret n°92-308 du 31 mars 1992 - art. 4 () JORF 1er avril 1992
+
+_Abrogé par_:
+
+  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 _Anciens textes_:
 
@@ -19393,13 +19401,12 @@ _Anciens textes_:
 Le bureau central de tarification institué par l'article L. 212-1 comprend un président et douze membres qui sont nommés par
 arrêté du ministre de l'économie.
 
-1. Le président est choisi, sur proposition du conseil national des assurances, parmi les professeurs des disciplines
-juridiques des universités, les conseillers d'Etat, les conseillers à la Cour de cassation et les conseillers maîtres à la
-Cour des comptes.
+1. Le président est choisi parmi les professeurs des disciplines juridiques des universités, les conseillers d'Etat, les
+conseillers à la Cour de cassation et les conseillers maîtres à la Cour des comptes.
 
-2. Six membres représentent les entreprises d'assurances françaises et étrangères agréées pour pratiquer l'assurance
-automobile et sont nommés sur proposition des organismes professionnels ; un de ces membres représente les caisses
-d'assurance et de réassurance mutuelles agricoles pratiquant l'assurance automobile.
+2. Six membres représentent les entreprises d'assurances pratiquant l'assurance automobile sur le territoire de la République
+française et sont nommés sur proposition des organismes professionnels ; un de ces membres représente les caisses d'assurance
+et de réassurance mutuelles agricoles pratiquant l'assurance automobile.
 
 3. Six membres représentent les personnes assujetties à l'obligation d'assurance ; ils sont nommés sur proposition respective
 de l'assemblée des présidents de chambres françaises de commerce et d'industrie de France, de l'assemblée permanente des
@@ -19418,7 +19425,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-739 du 18 juillet 1991 - art. 47 (Ab) JORF 1er août 1991
+  - Décret n°92-308 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+_Abrogé par_:
+
+  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 **Liens**:
 
@@ -20115,7 +20126,7 @@ proposition est faite pour satisfaire à l'obligation d'assurance.
 Lorsqu'il s'agit de la souscription d'un contrat nouveau, le silence de l'assureur pendant plus de dix jours après réception
 de la proposition est considéré comme un refus implicite d'assurance.
 
-Lorsqu'il s'agit de la modification d'un contrat déjà existant, il est fait application des dispositions du deuxième alinéa
+Lorsqu'il s'agit de la modification d'un contrat déjà existant, il est fait application des dispositions du cinquième alinéa
 de l'article L. 112-2.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une proposition d'assurance en application de l'article L. 220-1, de
@@ -20124,13 +20135,17 @@ de l'obligation d'assurance.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°64-541 1964-06-09 art. 10
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°92-308 du 31 mars 1992 - art. 5 () JORF 1er avril 1992
+
+_Abrogé par_:
+
+  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 _Cité par_:
 
@@ -20530,7 +20545,7 @@ contrat déjà existant, lorsque cette proposition est faite pour satisfaire à 
 
 Lorsqu'il s'agit de la souscription d'un contrat nouveau, l'absence d'acceptation par l'assureur pendant plus de 90 jours
 après réception de la proposition initiale est considérée comme un refus implicite d'assurance. Lorsqu'il s'agit de la
-modification d'un contrat déjà existant, il est fait application des dispositions du 2e alinéa de l'article L. 112-2.
+modification d'un contrat déjà existant, il est fait application des dispositions du cinquième alinéa de l'article L. 112-2.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une proposition d'assurance en application du titre IV du livre II,
 de subordonner son acceptation à la couverture de risques non visés par ces dispositions ou dont l'étendue excéderait les
@@ -20538,9 +20553,13 @@ limites de l'obligation d'assurance.
 
 **Liens relatifs à cet article**
 
-_Transféré par_:
+_Modifié par_:
 
-  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
+  - Décret n°92-308 du 31 mars 1992 - art. 5 () JORF 1er avril 1992
+
+_Abrogé par_:
+
+  - Décret n°92-1241 du 27 novembre 1992 - art. 1 (V) JORF 28 novembre 1992
 
 _Cite_:
 
@@ -42090,12 +42109,165 @@ _Codifié par_:
   - Décret n°76-667 1976-07-16
 
 
-###### Article R*511-2
+###### Article R*511-3
+
+Les commissions allouées en rémunération de l'apport ou de la gestion d'une opération d'assurance ou de capitalisation ne
+peuvent être rétrocédées en totalité ou en partie à une personne physique ou morale que si celle-ci appartient à l'une des
+catégories habilitées à effectuer cette présentation conformément aux articles R. 511-2 et R. 511-4. Cette disposition ne
+fait pas obstacle à une rétribution des indicateurs dont le rôle se borne à mettre en relations l'assuré et l'assureur ou à
+signaler l'un à l'autre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Cite_:
+
+  - Code des assurances - art. R*511-2 (M)
+  - Code des assurances R511-2, R511-4
+
+_Cité par_:
+
+  - Code des assurances - art. R*511-7 (M)
+  - Code des assurances - art. R*511-8 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des assurances R511-7, R511-8
+
+_Anciens textes_:
+
+  - Décret n°1938-06-14 art. 33
+
+
+###### Article R*511-4
+
+Toute personne physique mentionnée sous l'un des numéros de l'article R. 511-2 doit, sous réserve des dérogations prévues au
+chapitre II du présent titre :
+
+1° Avoir la majorité légale ;
+
+2° Etre soit de nationalité française, soit ressortissante d'un Etat membre de la Communauté économique européenne, soit
+ressortissante d'un Etat dont la législation permet aux ressortissants français d'exercer sur son territoire une activité
+analogue, soit bénéficiant d'une convention internationale les assimilant aux ressortissants français ;
+
+3° Remplir les conditions de capacité professionnelle prévues, pour chaque catégorie, par décret pris sur le rapport du
+ministre de l'économie et des finances, du garde des sceaux, ministre de la justice, et du ministre de l'éducation ;
+
+4° Ne pas être frappée d'une des incapacités prévues à l'article L. 511-2.
+
+Pour exercer l'une des professions ou activités énumérées aux 1° à 4° de l'article R. 511-2, toute personne mentionnée au
+premier alinéa du présent article doit pouvoir, à tout moment, justifier qu'elle remplit les conditions exigées par ledit
+alinéa.
+
+Un décret pris sur le rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice,
+détermine les diverses mesures pouvant permettre de vérifier que les conditions ci-dessus définies sont remplies.
+
+Les contrats d'assurance ou de capitalisation souscrits en infraction aux dispositions de l'article R. 511-2 et du présent
+article et les adhésions à de tels contrats obtenues en infraction à ces dispositions peuvent, pendant une durée de deux ans
+à compter de cette souscription ou adhésion, être résiliés à toute époque par le souscripteur ou adhérent, moyennant préavis
+d'un mois au moins. Dans ce cas, l'assureur n'a droit qu'à la partie de la prime correspondant à la couverture du risque
+jusqu'à la résiliation et il doit restituer le surplus éventuellement perçu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°92-310 1992-03-31 art. 2 I, II JORF 1er avril 1992
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+_Cite_:
+
+  - Code des assurances - art. L511-2 (M)
+  - Code des assurances - art. R*511-2 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des assurances R511-8
+  - TXT_ASSOCIE: Code des assurances R513-1 à R513-4, R514-1 à R514-16
+
+
+###### Article R*511-7
+
+Toute personne qui, dans une entreprise mentionnée à l'article L. 310-1 ou une entreprise de courtage ou une agence générale,
+a sous son autorité des personnes chargées de présenter des opérations d'assurance ou de capitalisation, est tenue de veiller
+à ce que celles-ci remplissent les conditions prévues aux articles R. 511-2 et R. 511-4.
+
+Toute personne qui, dans les entreprises mentionnées à l'article L. 310-1, remet à un agent général d'assurance ou à une
+personne chargée des fonctions d'agent général d'assurances le document prévu au b de l'article R. 514-1 doit préalablement
+avoir fait la déclaration au parquet prescrite à l'article R. 514-8 relative à cet agent général ou à celui qui est chargé
+des fonctions d'agent général et avoir vérifié qu'il ressort des pièces qui lui sont communiquées que celui-ci remplit les
+conditions requises par les dispositions du premier alinéa de l'article R. 511-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. R*511-2 (M)
+  - Code des assurances - art. R*514-1 (M)
+  - Code des assurances L310-1, R511-2, R511-4, R514-1, R514-8
+
+**Liens**:
+
+  - SPEC_APPLI: Code des assurances R511-8
+
+
+###### Article R*511-8
+
+Toute personne qui présente des opérations définies à l'article R. 511-1 en méconnaissance des règles prévues aux articles R.
+511-2 et R. 511-4 est passible de l'amende prévue pour les contraventions de la 5e classe.
+
+Lorsqu'il y a récidive, l'amende applicable est celle prévue dans ce cas pour les contraventions de la 5e classe.
+
+Est passible des mêmes sanctions toute personne qui rétrocède des commissions en méconnaissance des règles prévues à
+l'article R. 511-3.
+
+Est également passible des sanctions prévues aux premier et deuxième alinéas du présent article la personne visée à l'article
+R. 511-7 qui a fait appel ou, par suite d'un défaut de surveillance, a laissé faire appel, pour une personne placée sous son
+autorité, à des personnes ne remplissant pas les conditions définies aux articles R. 511-2 et R. 511-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°84-1167 1984-12-21 art. 2 JORF 26 décembre 1984
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+_Cite_:
+
+  - Code des assurances - art. R*511-1 (M)
+  - Code des assurances - art. R*511-2 (M)
+  - Code des assurances - art. R*511-3 (M)
+  - Code des assurances R511-1, R511-2, R511-3, R511-4, R511-7
+
+
+###### Article R511-2
 
 Les opérations pratiquées par les entreprises mentionnées à l'article L. 310-1 ne peuvent être présentées que par les
 personnes suivantes, sauf dérogation dans des cas et conditions limitativement fixés par décret en Conseil d'Etat pris sur le
-rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice, après avis du Conseil
-national des assurances :
+rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice ;
 
 1° Les personnes physiques et sociétés immatriculées au registre du commerce pour le courtage d'assurances et, dans ces
 sociétés, les associés et les tiers qui ont le pouvoir de gérer ou d'administrer ;
@@ -42162,6 +42334,10 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
@@ -42170,167 +42346,17 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Code des assurances - art. R*512-6 (Ab)
-  - TXT_ASSOCIE: Code des assurances - art. R*512-9 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R*512-9 (Ab)
   - TXT_SOURCE: Code des assurances - art. R*513-6 (Ab)
   - TXT_SOURCE: Code des assurances - art. R512-1 (V)
   - TXT_SOURCE: Code des assurances - art. R512-2 (VT)
   - TXT_SOURCE: Code des assurances - art. R512-3 (V)
   - TXT_SOURCE: Code des assurances - art. R512-4 (V)
   - TXT_SOURCE: Code des assurances - art. R512-5 (V)
-  - SPEC_APPLI: Code des assurances R511-4, R511-7, R511-8
-  - TXT_ASSOCIE: Code des assurances R512-1 à R512-6, R512-9
 
 _Anciens textes_:
 
   - Décret n°1938-06-14 art. 31
-
-
-###### Article R*511-3
-
-Les commissions allouées en rémunération de l'apport ou de la gestion d'une opération d'assurance ou de capitalisation ne
-peuvent être rétrocédées en totalité ou en partie à une personne physique ou morale que si celle-ci appartient à l'une des
-catégories habilitées à effectuer cette présentation conformément aux articles R. 511-2 et R. 511-4. Cette disposition ne
-fait pas obstacle à une rétribution des indicateurs dont le rôle se borne à mettre en relations l'assuré et l'assureur ou à
-signaler l'un à l'autre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cite_:
-
-  - Code des assurances - art. R*511-2 (M)
-  - Code des assurances R511-2, R511-4
-
-_Cité par_:
-
-  - Code des assurances - art. R*511-7 (M)
-  - Code des assurances - art. R*511-8 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code des assurances R511-7, R511-8
-
-_Anciens textes_:
-
-  - Décret n°1938-06-14 art. 33
-
-
-###### Article R*511-4
-
-Toute personne physique mentionnée sous l'un des numéros de l'article R. 511-2 doit, sous réserve des dérogations prévues au
-chapitre II du présent titre :
-
-1° Etre âgée d'au moins vingt et un ans ;
-
-2° Etre soit de nationalité française, soit ressortissante d'un Etat membre de la Communauté économique européenne, soit
-ressortissante d'un Etat dont la législation permet aux ressortissants français d'exercer sur son territoire une activité
-analogue, soit bénéficiant d'une convention internationale les assimilant aux ressortissants français ;
-
-3° Remplir les conditions de capacité professionnelle prévues, pour chaque catégorie, par décret pris sur le rapport du
-ministre de l'économie et des finances, du garde des sceaux, ministre de la justice, et du ministre de l'éducation, après
-avis du conseil national des assurances ;
-
-4° Ne pas être frappée d'une des incapacités prévues à l'article L. 511-2.
-
-Pour exercer l'une des professions ou activités énumérées aux 1° à 4° de l'article R. 511-2, toute personne mentionnée au
-premier alinéa du présent article doit pouvoir, à tout moment, justifier qu'elle remplit les conditions exigées par ledit
-alinéa.
-
-Un décret pris sur le rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice, après
-avis du conseil national des assurances, détermine les diverses mesures pouvant permettre de vérifier que les conditions ci-
-dessus définies sont remplies.
-
-Les contrats d'assurance ou de capitalisation souscrits en infraction aux dispositions de l'article R. 511-2 et du présent
-article et les adhésions à de tels contrats obtenues en infraction à ces dispositions peuvent, pendant une durée de deux ans
-à compter de cette souscription ou adhésion, être résiliés à toute époque par le souscripteur ou adhérent, moyennant préavis
-d'un mois au moins. Dans ce cas, l'assureur n'a droit qu'à la partie de la prime correspondant à la couverture du risque
-jusqu'à la résiliation et il doit restituer le surplus éventuellement perçu.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cite_:
-
-  - Code des assurances - art. L511-2 (M)
-  - Code des assurances - art. R*511-2 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code des assurances R511-8
-  - TXT_ASSOCIE: Code des assurances R513-1 à R513-4, R514-1 à R514-16
-
-_Anciens textes_:
-
-  - Décret n°1938-06-14 art. 32
-
-
-###### Article R*511-7
-
-Toute personne qui, dans une entreprise mentionnée à l'article L. 310-1 ou une entreprise de courtage ou une agence générale,
-a sous son autorité des personnes chargées de présenter des opérations d'assurance ou de capitalisation, est tenue de veiller
-à ce que celles-ci remplissent les conditions prévues aux articles R. 511-2 et R. 511-4.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°84-1167 1984-12-21 art. 1 JORF 26 décembre 1984
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. R*511-2 (M)
-  - Code des assurances L310-1, R511-2, R511-4
-
-**Liens**:
-
-  - SPEC_APPLI: Code des assurances R511-8
-
-
-###### Article R*511-8
-
-Toute personne qui présente des opérations définies à l'article R. 511-1 en méconnaissance des règles prévues aux articles R.
-511-2 et R. 511-4 est passible de l'amende prévue pour les contraventions de la 5e classe.
-
-Lorsqu'il y a récidive, l'amende applicable est celle prévue dans ce cas pour les contraventions de la 5e classe.
-
-Est passible des mêmes sanctions toute personne qui rétrocède des commissions en méconnaissance des règles prévues à
-l'article R. 511-3.
-
-Est également passible des sanctions prévues aux premier et deuxième alinéas du présent article la personne visée à l'article
-R. 511-7 qui a fait appel ou, par suite d'un défaut de surveillance, a laissé faire appel, pour une personne placée sous son
-autorité, à des personnes ne remplissant pas les conditions définies aux articles R. 511-2 et R. 511-4.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°84-1167 1984-12-21 art. 2 JORF 26 décembre 1984
-
-_Abrogé par_:
-
-  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
-
-_Cite_:
-
-  - Code des assurances - art. R*511-1 (M)
-  - Code des assurances - art. R*511-2 (M)
-  - Code des assurances - art. R*511-3 (M)
-  - Code des assurances R511-1, R511-2, R511-3, R511-4, R511-7
 
 
 ###### Article R511-6
@@ -42455,10 +42481,9 @@ concourant à l'octroi de ce prêt ;
 expressément et exclusivement en vue de servir de garantie au vendeur dans une vente à crédit : le vendeur ou les personnes
 concourant à la réalisation de la vente.
 
-3° Assurances de perte par amortissement de valeurs mobilières au-dessous de leurs cours : les établissements financiers et
-de crédit, les sociétés de bourse, les intermédiaires mentionnés à l'article 13 de la loi modifiée du 14 juin 1941 et les
-préposés de ces établissements ou personnes, ainsi que les notaires et leurs préposés qu'ils auront mandatés spécialement à
-cet effet ;
+3° Assurances de perte par amortissement de valeurs mobilières au-dessous de leurs cours : les établissements de crédit, les
+sociétés de bourse, les intermédiaires mentionnés à l'article 65 de la loi n° 84-46 du 24 janvier 1984 et les préposés de ces
+établissements ou personnes, ainsi que les notaires et leurs préposés qu'ils auront mandatés spécialement à cet effet ;
 
 4° Assurances des risques "villégiatures", "camping", "sports d'hiver", "vacances", "voyages", souscrites pour trois mois au
 plus et non renouvelables : les dirigeants et le personnel des agences de voyages ou des agences de location ;
@@ -42479,6 +42504,12 @@ tiers : les dirigeants, le personnel des agences de voyages, des banques et éta
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code du domaine public fluvial 188
+  - Loi n°84-46 1984-01-24 art. 65
+  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
+
 _Anciens textes_:
 
   - Décret n°66-117 1966-02-23 art. 3
@@ -42489,14 +42520,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°80-788 1980-10-01 art. 1 JORF 5 octobre 1980
-  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
-
-_Cite_:
-
-  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
-  - Code du domaine public fluvial 188
-  - Loi n°1941-06-14 art. 13
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 _Cité par_:
 
@@ -42523,7 +42547,7 @@ Les opérations ci-après définies, relatives à des assurances collectives ouv
 les personnes ou catégories de personnes respectivement énoncées dans chaque cas, sous réserve que cette présentation ne
 donne lieu à l'attribution directe ou indirecte auxdites personnes d'aucune commission ou autre rétribution :
 
-1° Adhésion à des assurances de groupe définies à l'article R. 140-1 : le souscripteur, ses préposés ou mandataires ainsi que
+1° Adhésion à des assurances de groupe définies à l'article L. 140-1 : le souscripteur, ses préposés ou mandataires ainsi que
 les personnes physiques ou morales désignées expressément à cet effet dans le contrat d'assurance de groupe ;
 
 2° Adhésion d'étudiants, d'élèves ou de parents d'étudiants ou d'élèves à des assurances collectives couvrant essentiellement
@@ -42534,19 +42558,7 @@ eux pour recueillir ces adhésions ;
 afférents à ces activités respectives : les personnes ou organismes ayant souscrit ces assurances et les personnes mandatées
 par eux pour recueillir ces adhésions ;
 
-4° Adhésion de membres d'associations de tourisme reconnues d'utilité publique à des assurances collectives ouvertes
-souscrites par ces associations et couvrant exclusivement des risques directement différents à des activités touristiques, à
-l'exclusion de toutes assurances relatives à des véhicules terrestres à moteur :
-
-l'association ayant souscrit le contrat et les personnes mandatées par elle avant le 1er mars 1966 pour recueillir ces
-adhésions ;
-
-5° Adhésion de membres d'une société coopérative de consommation existant au 1er mars 1966 à des assurances collectives
-ouvertes non professionnelles de particuliers souscrites par cette société ou par un groupement de ces sociétés auprès d'une
-entreprise d'assurance ayant déjà reçu avant cette date la souscription d'assurances de ce genre par des sociétés
-coopératives de consommation ou des groupements de celle-ci : les personnes mandatées à cet effet par ladite société avant la
-même date, lorsqu'elles agissent au siège de la société ou dans une assemblée ou réunion convoquées par celle-ci et ne
-rassemblant que des membres de sociétés coopératives de consommation.
+4° et 5° *paragraphes abrogés*.
 
 6° Adhésion d'exposants à des assurances collectives ouvertes souscrites pour la durée de la manifestation et les périodes de
 montage et de démontage : les personnes morales responsables de l'organisation des foires et expositions.
@@ -42568,7 +42580,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°80-788 1980-10-01 art. 2 JORF 5 octobre 1980
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 _Cité par_:
 
@@ -42616,149 +42628,28 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
 
 
-##### Section II : Dérogations transitoires.<a id=393></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=393></a>
 
-###### Article R*512-7
+###### Article R*513-6
 
-Les personnes physiques qui, avant le 31 janvier 1965, présentaient des opérations d'assurance ou de capitalisation en
-qualité soit de courtier d'assurances, soit d'associé ou tiers ayant pouvoir d'administrer ou de gérer dans une société de
-courtage d'assurances, soit d'agent général d'assurances, soit de salarié ou mandataire non salarié d'une entreprise
-mentionnée à l'article L. 310-1, d'un courtier d'assurances, d'une société de courtage d'assurances ou d'un agent général
-d'assurances sont dispensées de justifier qu'elles remplissent les conditions d'âge, de nationalité et de capacité
-professionnelle prescrites à l'article R. 513-4.
+Lorsque, dans une agence générale ou une agence d'assurance autorisée à revêtir la forme de société, un associé ou un tiers a
+le pouvoir de gérer ou d'administrer, il ne peut présenter d'opérations d'assurance que s'il remplit les conditions exigées
+des agents généraux.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°65-71 1965-01-29 art. 3
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Abrogé par_:
+_Créé par_:
 
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-_Cité par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V)
-  - Code des assurances - art. R*512-8 (Ab)
-  - Code des assurances - art. R*512-9 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. R513-4 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code des assurances - art. R513-4 (Ab)
-
-
-###### Article R*512-8
-
-Les personnes physiques qui ont commencé à exercer une des activités mentionnées à l'article R. 512-7 au cours de la période
-allant du 31 janvier 1965 au 1er mars 1966, doivent justifier des conditions de capacité professionnelle définies aux
-articles R. 513-1 à R. 513-4.
-
-Toutefois, dans ce cas, les durées minimales de stage ou d'exercice professionnel fixées par ces derniers articles sont
-réduites de moitié.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°65-71 1965-01-29 art. 3
-  - Décret n°66-120 1966-02-23 art. 2
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-_Cité par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V)
-  - Code des assurances - art. R*512-9 (Ab)
-  - Code des assurances - art. R*514-16 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. R*512-7 (Ab)
-  - Code des assurances R512-7, R513-1 à R513-4
-
-
-###### Article R*512-9
-
-Les opérations d'assurance maritime et fluviale peuvent être présentées par les agences générales et agences d'assurances
-revêtant, avant le 1er mars 1966, la forme de sociétés, sous réserve que ces sociétés aient, contre récépissé, déclaré au
-ministre de l'économie et des finances, avant le 1er juillet 1966, leur existence et leur intention de bénéficier des
-dispositions du présent alinéa.
-
-Les autres opérations pratiquées par les entreprises mentionnées à l'article L. 310-1 peuvent être présentées par les agences
-générales d'assurances qui sont habilitées par un des statuts des agents généraux d'assurances à poursuivre leur activité
-sous la forme de sociétés. Ces agences auront dû déclarer contre récépissé, au ministre de l'économie et des finances, avant
-le 1er juillet 1966, leur existence et leur intention de bénéficier des dispositions du présent alinéa.
-
-Dans les départements d'outre-mer, les opérations d'assurance maritime et fluviale peuvent être présentées par des agences
-générales et agences d'assurances et les autres opérations pratiquées par des entreprises mentionnées à l'article L. 310-1
-peuvent être présentées par des agences générales d'assurances, même lorsque ces agences générales ou agences revêtent la
-forme de sociétés, sous réserve que lesdites sociétés aient déclaré, contre récépissé, au ministre de l'économie et des
-finances leur existence et leur intention de bénéficier des dispositions du présent alinéa. Cette déclaration aura dû, pour
-les sociétés ayant commencé à pratiquer ces opérations avant le 1er février 1967, être souscrite avant le 1er juillet 1967
-et, pour les autres sociétés, avant le début desdites opérations.
-
-Les opérations qui peuvent, aux termes du présent article, être présentées par une agence générale ou agence revêtant la
-forme de société ayant souscrit la déclaration prévue à l'un des alinéas précédents peuvent l'être également par tout associé
-ou tiers ayant le pouvoir de gérer ou d'administrer cette société, si cette personne remplit les conditions exigées des
-agents généraux d'assurances, en application de l'article R. 511-4. Les dispositions des articles R. 512-7 et R. 512-8 sont
-éventuellement applicables en ce cas.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-117 1966-02-23 art. 7
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-_Cité par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V)
-  - Arrêté du 23 juin 2008 - art. 1 (V)
-  - Arrêté du 23 juin 2008 - art. Annexe (V)
-  - Code des assurances - art. A512-6 (V)
-  - Code des assurances - art. R512-10 (V)
-  - Code des assurances - art. R512-11 (V)
-  - Code des assurances - art. R512-12 (VD)
-  - Code des assurances - art. R512-8 (VD)
-  - Code des assurances - art. R514-3 (VD)
-  - Code des assurances - art. R541-1 (V)
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. R*512-7 (Ab)
-  - Code des assurances L310-1, R511-4, R512-7, R512-8
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 **Liens**:
 
   - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R511-2 (V)
 
-
-#### Chapitre III : Conditions de capacité professionnelle.<a id=394></a>
 
 ###### Article R513-1
 
@@ -42767,23 +42658,21 @@ d'administrer et les agents généraux d'assurances doivent justifier préalable
 
 a) Soit de la possession d'un diplôme mentionné sur une liste fixée par arrêté pris par le ministre de l'économie, des
 finances et du budget, le ministre de l'agriculture, le ministre de l'éducation nationale et le ministre de la formation
-professionnelle, ainsi que de l'accomplissement d'un stage professionnel d'une durée minimale de deux cents heures, effectué
-en six semaines au moins et quatre mois au plus ;
+professionnelle, ainsi que de l'accomplissement d'un stage professionnel ;
 
 b) Soit de l'exercice à temps complet, pendant deux ans au moins, dans les services intérieurs ou extérieurs d'une entreprise
 mentionnée à l'article L. 310-1, d'un courtier ou d'une société de courtage d'assurances ou d'un agent général d'assurances
 ou d'un agent d'assurances ou d'une société mentionnés au dernier alinéa du présent article, de fonctions relatives à la
 production ou à l'application de contrats d'assurance ou de capitalisation ainsi que de l'accomplissement d'un stage
-professionnel d'une durée minimale de deux cents heures, effectué en six semaines au moins et quatre mois au plus.
+professionnel soit de l'exercice à temps complet pendant un an au moins, en qualité de cadre ou de dirigeant, dans ces mêmes
+entreprises.
 
 c) Soit de l'exercice, pendant deux ans au moins, en qualité de cadre ou de chef d'entreprise, de fonctions de responsabilité
-dans une entreprise industrielle ou commerciale, ainsi que de l'accomplissement d'un stage professionnel préliminaire d'une
-durée minimale de deux cents heures, effectué en six semaines au moins et quatre mois au plus ;
+dans une entreprise industrielle ou commerciale, ainsi que de l'accomplissement d'un stage professionnel ;
 
-d) Soit de l'accomplissement d'un stage professionnel d'une durée minimale de six cents heures, effectué en seize semaines au
-moins et un an au plus. Dans ce cas, il est vérifié au début du stage que les candidats ont un niveau suffisant de
-connaissances générales. Les résultats du contrôle de ces connaissances doivent être annexés au livret de stage mentionné à
-l'article R. 514-5.
+d) Soit de l'accomplissement d'un stage professionnel. Dans ce cas, il est vérifié au début du stage que les candidats ont un
+niveau suffisant de connaissances générales. Les résultats du contrôle de ces connaissances doivent être annexés au livret de
+stage mentionné à l'article R. 514-5.
 
 Les dispositions prévues aux a, b, c et d ci-dessus sont également applicables aux personnes physiques salariées lorsqu'elles
 exercent les fonctions de responsable de bureau de production ou ont la charge d'animer un réseau de production, aux
@@ -42803,16 +42692,16 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Modifié par_:
-
-  - Décret n°84-298 du 20 avril 1984 - art. 1 () JORF 25 avril 1984
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°84-298 du 20 avril 1984 - art. 3 (V)
   - TXT_SOURCE: Code des assurances - art. A513-1 (Ab)
   - TXT_ASSOCIE: Code des assurances - art. A513-1 (M)
   - SPEC_APPLI: Code des assurances - art. R515-1 (M)
+
+_Modifié par_:
+
+  - Décret n°92-309 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 _Cité par_:
 
@@ -42840,24 +42729,16 @@ justifier préalablement à leur entrée en fonctions :
 
 a) Soit de la possession d'un diplôme mentionné sur une liste fixée par arrêté pris par le ministre de l'économie, des
 finances et du budget, le ministre de l'agriculture, le ministre de l'éducation nationale et le ministre de la formation
-professionnelle, ainsi que de l'accomplissement d'un stage professionnel d'une durée minimale de cent heures, effectué en
-quatre semaines au moins et deux mois au plus ;
+professionnelle, ainsi que de l'accomplissement d'un stage professionnel ;
 
 b) Soit de l'exercice à temps complet pendant six mois au moins de fonctions relatives à la production ou à l'application de
 contrats d'assurances, dans les services intérieurs ou extérieurs d'une entreprise mentionnée à l'article L. 310-1, d'un
 courtier ou d'une société de courtage d'assurances, d'un agent général d'assurances, ainsi que de l'application d'un stage
-professionnel d'une durée minimale de cent heures, effectué en quatre semaines au moins et deux mois au plus ;
+professionnel ;
 
-c) Soit de l'accomplissement d'un stage professionnel d'une durée minimale de trois cents heures, effectué en huit semaines
-au moins et six mois au plus. Dans ce cas, il est vérifié au début du stage que les candidats ont un niveau suffisant de
-connaissances générales. Les résultats du contrôle de ces connaissances doivent être annexés au livret de stage mentionné à
-l'article R. 514-5.
-
-Ces durées de trois cents heures, huit semaines et six mois sont remplacées respectivement par :
-
-- cent cinquante heures, quatre semaines et trois mois pour les assurances sur la vie ;
-
-- cent heures, trois semaines et deux mois pour la capitalisation.
+c) Soit de l'accomplissement d'un stage professionnel. Dans ce cas, il est vérifié au début du stage que les candidats ont un
+niveau suffisant de connaissances générales. Les résultats du contrôle de ces connaissances doivent être annexés au livret de
+stage mentionné à l'article R. 514-5.
 
 Les dispositions prévues aux a, b et c ci-dessus sont également applicables aux personnes mentionnées au 3° de l'article R.
 512-2, ainsi qu'aux secrétaires trésoriers de sociétés ou caisses locales d'assurances mutuelles agricoles autres que ceux
@@ -42871,7 +42752,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1447 du 30 décembre 1985 - art. 1 () JORF 31 décembre 1985
+  - Décret n°92-309 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 _Cité par_:
 
@@ -42911,14 +42792,12 @@ formellement interdit au stagiaire de présenter seul ou en son nom propre des o
 
 Les stages professionnels peuvent être effectués auprès d'une entreprise mentionnée à l'article L. 310-1, d'un courtier ou
 d'une société de courtage d'assurances, d'un agent général d'assurances, d'un agent d'assurances ou d'une société mentionnés
-au dernier alinéa de l'article R. 513-1 ou d'un centre de formation institué sous réserve de l'obtention d'un agrément
-accordé par le ministre de l'économie, des finances et du budget, après avis d'une commission paritaire réunissant des
-représentants des professionnels et de l'administration et dont la composition est fixée par arrêté pris par le même
-ministre.
+au dernier alinéa de l'article R. 513-1 ou d'un centre de formation choisi par l'employeur ou le mandant pour les stages des
+intermédiaires mentionnés aux 2°, 3° et 4° de l'article R. 511-2 et par les intéressés eux-mêmes pour les stages des
+intermédiaires mentionnés au 1° de l'article R. 511-2.
 
-Les stages professionnels effectués ou les fonctions effectuées auprès d'une entreprise mentionnée à l'article L. 310-1
-doivent l'être entièrement soit auprès d'une seule de ces entreprises, soit auprès d'entreprises faisant partie d'un même
-groupe, soit auprès de deux entreprises pratiquant des branches d'assurances différentes.
+Les stages professionnels doivent avoir une durée raisonnable et suffisante sans pouvoir être inférieure à cent cinquante
+heures.
 
 **Liens relatifs à cet article**
 
@@ -42926,16 +42805,16 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Modifié par_:
-
-  - Décret n°84-298 du 20 avril 1984 - art. 1 () JORF 25 avril 1984
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°84-298 du 20 avril 1984 - art. 3 (V)
   - TXT_SOURCE: Code des assurances - art. A513-3 (Ab)
   - TXT_ASSOCIE: Code des assurances A513-3 à A513-8
   - TXT_SOURCE: Code des assurances R511-4
+
+_Modifié par_:
+
+  - Décret n°92-309 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 _Cité par_:
 
@@ -42945,6 +42824,7 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. R*511-2 (M)
   - Code des assurances - art. R513-1 (M)
   - Code des assurances - art. R513-2 (M)
 
@@ -42991,53 +42871,9 @@ _Cite_:
   - Code des assurances - art. R*514-5 (M)
 
 
-###### Article R513-5
+#### Chapitre IV : Contrôle des conditions de présentation<a id=394></a>
 
-Tout organisme, entreprise ou personne auprès duquel est effectué un stage professionnel au sens des articles R. 513-1 et R.
-513-2 doit, au plus tard dans les cinq jours du début du stage, adresser par lettre recommandée ou remettre contre récépissé
-à l'organisme professionnel désigné à cet effet par arrêté du ministre de l'économie, des finances et du budget une
-déclaration écrite comportant les nom, prénoms, domicile, date et lieu de naissance du stagiaire, ainsi que la date de prise
-d'effet du stage et la durée prévue de celui-ci.
-
-En cas d'inobservation du délai mentionné à l'alinéa précédent, les séances du stage éventuellement effectuées plus de cinq
-jours avant le jour d'envoi de la lettre recommandée ou le jour de la remise contre récépissé de la déclaration à l'organisme
-professionnel ne peuvent être prises en compte pour le calcul de la durée de ce stage.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-298 du 20 avril 1984 - art. 3 (V)
-  - TXT_ASSOCIE: Code des assurances - art. A514-1 (M)
-  - TXT_ASSOCIE: Code des assurances - art. A514-2 (Ab)
-  - TXT_SOURCE: Code des assurances R511-4
-
-_Modifié par_:
-
-  - Décret n°91-563 du 13 juin 1991 - art. 1 () JORF 19 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°92-309 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-_Cité par_:
-
-  - Décret n°92-309 du 31 mars 1992 - art. 1 (V)
-  - Code des assurances - art. A514-2 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. R513-1 (M)
-  - Code des assurances - art. R513-2 (M)
-
-
-#### Chapitre IV : Contrôle des conditions de présentation<a id=395></a>
-
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=396></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=395></a>
 
 ###### Article R*514-1
 
@@ -43092,21 +42928,28 @@ _Cite_:
   - SPEC_APPLI: Code des assurances R515-9
 
 
-###### Article R*514-2
+###### Article R514-2
 
-Les entreprises mentionnées à l'article L. 310-1 ne remettent à un agent général d'assurances ou à une personne chargée des
-fonctions d'agent général d'assurances le document prévu au b de l'article R. 514-1 qu'après avoir fait la déclaration au
-parquet prescrite à l'article R. 514-8 relative à l'intéressé et avoir vérifié qu'il ressort des pièces qui leur sont
-communiquées que celui-ci remplit les conditions d'âge, de nationalité et de capacité professionnelle requises par le premier
-alinéa de l'article R. 511-4.
+Sur demande motivée du procureur de la République, le mandat ou la carte professionnelle doivent être retirés. La décision du
+procureur de la République est immédiatement exécutoire et peut faire l'objet, par tout intéressé, d'un recours devant le
+tribunal de grande instance.
 
-Toute entreprise mentionnée à l'alinéa précité, qui a reçu du parquet dans les conditions prévues à l'article R. 514-13 une
-notification relative à l'un de ses agents généraux d'assurances, doit procéder, en ce qui concerne celui-ci, au refus ou au
-retrait du document mentionné audit alinéa.
+Toute modification aux conditions de capacité prévues à l'article R. 511-4, ainsi que tout retrait de mandat ou de carte
+professionnelle doivent être notifiés au procureur de la République.
 
-Le titulaire du document ou, en cas de décès du titulaire, le détenteur du document doit le restituer à l'entreprise qui
-demande cette restitution dans les dix jours suivant celui où il a connaissance de cette demande. Si l'entreprise n'a pas
-obtenu la restitution dans les vingt jours de la demande, elle doit en aviser le parquet compétent dans le plus bref délai.
+Lorsque soit de sa propre initiative, soit sur l'injonction du procureur de la République, la personne qui a délivré le
+mandat ou la carte professionnelle veut les retirer, elle notifie à son titulaire par lettre recommandée avec demande d'avis
+de réception la décision de retrait.
+
+Le titulaire doit restituer le mandat ou la carte professionnelle dans un délai d'un jour franc à compter de la réception de
+cette notification.
+
+Si la personne qui a délivré le mandat ou la carte professionnelle n'en a pas obtenu restitution dans les trois jours francs
+à compter de la date de l'avis de réception, elle doit aviser le procureur de la République par lettre recommandée, dans le
+délai de huit jours francs.
+
+Toute infraction aux dispositions du présent article sera punie des peines prévues pour les contraventions de la cinquième
+classe *sanctions pénales*.
 
 **Liens relatifs à cet article**
 
@@ -43118,29 +42961,24 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
 _Cite_:
 
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. R*514-1 (M)
-  - Code des assurances L310-1, R511-4, R514-1, R514-8, R514-13
+  - Code des assurances R511-4
 
 
-###### Article R*514-3
+###### Article R514-3
 
 La carte professionnelle mentionnée au c de l'article R. 514-1 est conforme à un modèle fixé par le ministre de l'économie et
 des finances.
 
-Elle est délivrée à l'intéressé par l'employeur ou mandant après visa par l'organisme professionnel habilité à cet effet,
-pour la catégorie à laquelle appartient le titulaire de la carte par arrêté du ministre de l'économie et des finances et
-après inscription dudit titulaire sur une liste tenue par cet organisme.
+Elle est délivrée à l'intéressé par l'employeur ou mandant.
 
-Le visa ne peut être accordé qu'après vérification par l'organisme professionnel qu'il ressort des pièces qui lui sont
-communiquées, ou éventuellement de celles qu'il détient déjà en application du deuxième alinéa de l'article R. 514-5, que
-l'intéressé a fait l'objet de la déclaration au parquet prévue à l'article R. 514-8 et remplit les conditions d'âge, de
-nationalité et de capacité professionnelle prescrites par le premier alinéa de l'article R. 511-4.
-
-L'organisme professionnel saisi d'une demande de visa de carte professionnelle doit, lorsqu'il a reçu une notification prévue
-à l'article R. 514-13 relative au titulaire de cette carte, refuser le visa.
+Les employeurs ou mandants adressent annuellement aux organisations professionnelles une liste des personnes auxquelles ont
+été délivrées ou retirées les cartes professionnelles.
 
 L'employeur ou mandant qui a reçu une notification prévue à l'article R. 514-13 doit s'abstenir de délivrer la carte
 professionnelle établie au nom de la personne qui fait l'objet de la notification.
@@ -43154,6 +42992,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 _Cité par_:
 
@@ -43170,66 +43012,77 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances R511-4, R514-1, R514-5, R514-8, R514-13
+  - Code des assurances R514-1, R514-13
 
 
-###### Article R*514-4
+##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=396></a>
 
-L'employeur ou mandant qui a délivré une carte professionnelle doit, par lettre recommandée, exiger du titulaire de la carte
-la restitution de celle-ci, en cas de cessation de fonctions de ce titulaire ou de réception de la notification prévue à
-l'article R. 514-13 et concernant l'intéressé. La demande de restitution doit être expédiée dans les dix jours suivant celui
-où l'employeur ou mandant a eu connaissance de la cessation des fonctions ou de la notification.
+###### Article R*514-6
 
-Le titulaire de la carte ou, en cas de décès du titulaire, le détenteur de la carte doit la restituer à l'entreprise qui
-demande cette restitution dans les dix jours suivant celui où il a connaissance de cette demande.
+Le livret de stage mentionné à l'article R. 514-5 est conforme à un modèle fixé par le ministre de l'économie et des
+finances.
 
-L'employeur ou mandant à qui a été restituée une carte professionnelle doit la faire parvenir dans les dix jours à
-l'organisme professionnel qui a visé la carte. A défaut de restitution de la carte dans les quinze jours de la demande qu'il
-a formulée, l'employeur ou mandant doit en aviser immédiatement le parquet compétent et l'organisme professionnel qui a visé
-la carte.    L'organisme professionnel qui a visé une carte professionnelle doit, lorsqu'il a reçu la notification prévue à
-l'article R. 514-13 relative au titulaire de cette carte, en informer l'employeur et, s'il n'a pas obtenu la restitution de
-la carte dans les quarante jours, en aviser le parquet compétent dans le plus bref délai.
+Les signatures apposées sur le livret par les personnes ou chefs des entreprises auprès de qui un stage a été effectué valent
+certification des indications du livret concernant ce stage.
+
+Le livret doit être remis dans les plus brefs délais à son titulaire.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-119 1966-02-23 art. 4
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
 _Abrogé par_:
 
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
-_Cité par_:
+**Liens**:
 
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V)
-  - Code des assurances - art. R512-11 (V)
-  - Code des assurances - art. R514-3 (VD)
+  - TXT_ASSOCIE: Code des assurances - art. A514-2 (Ab)
+  - TXT_SOURCE: Code des assurances R511-4
+
+_Cite_:
+
+  - Code des assurances - art. R*514-5 (M)
+
+
+###### Article R*514-7
+
+L'attestation de fonctions mentionnée à l'article R. 514-5 est établie, conformément à un modèle fixé par le ministre de
+l'économie et des finances, par la personne ou entreprise auprès de laquelle ont été exercées les fonctions requises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
+_Cite_:
+
+  - Code des assurances - art. R*514-5 (M)
 
 **Liens**:
 
   - TXT_SOURCE: Code des assurances R511-4
 
-_Cite_:
 
-  - Code des assurances R514-13
-
-
-##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=397></a>
-
-###### Article R*514-5
+###### Article R514-5
 
 Il est justifié de la capacité professionnelle prévue par l'article R. 511-4 par la présentation du diplôme requis, du livret
 de stage défini à l'article R. 514-6 ou de l'attestation de fonctions définie à l'article R. 514-7.
-
-Les organismes professionnels habilités, aux termes de l'article R. 514-3, à viser les cartes professionnelles peuvent
-exiger, lorsqu'il leur est remis pour justification un diplôme ou pour justification ou visa un livret de stage ou une
-attestation de fonctions, qu'il leur soit remis conjointement une fiche récapitulant les principales mentions du diplôme, du
-livret ou de l'attestation conformément à un modèle fixé par le ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
@@ -43240,6 +43093,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 _Cité par_:
 
@@ -43258,100 +43115,39 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances R511-4, R514-3, R514-6, R514-7
+  - Code des assurances R511-4, R514-7
 
 
-###### Article R*514-6
-
-Le livret de stage mentionné à l'article R. 514-5 est conforme à un modèle fixé par le ministre de l'économie et des
-finances.
-
-Les signatures apposées sur le livret par les personnes ou chefs des entreprises auprès de qui un stage a été effectué valent
-certification des indications du livret concernant ce stage.
-
-Ces personnes ou chefs d'entreprise, après achèvement du ou des stages, communiquent le livret pour visa à l'organisme
-professionnel habilité à cet effet, par arrêté du ministre de l'économie et des finances, pour la catégorie à laquelle
-appartient la personne ou entreprise auprès de laquelle est effectué le stage.
-
-Cet organisme n'accorde son visa qu'après s'être assuré de la conformité des indications du livret avec celle des
-déclarations de début de stage prescrites par le décret prévu au 3° du premier alinéa de l'article R. 511-4, en ce qui
-concerne la durée effective du stage. Le livret visé doit être ensuite remis dans le plus bref délai à son titulaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-119 1966-02-23 art. 6
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances - art. A514-2 (Ab)
-  - TXT_SOURCE: Code des assurances R511-4
-
-_Cite_:
-
-  - Code des assurances - art. R*514-5 (M)
-  - Code des assurances R511-4, R514-5
-
-
-###### Article R*514-7
-
-L'attestation de fonctions mentionnée à l'article R. 514-5 est établie, conformément à un modèle fixé par le ministre de
-l'économie et des finances, par la personne ou entreprise auprès de laquelle ont été exercées les fonctions requises.
-
-Elle est adressée, pour visa, par la personne ou entreprise qui l'a établie, à l'organisme professionnel habilité à cet effet
-par l'arrêté prévu au troisième alinéa de l'article R. 514-6. L'attestation doit être ensuite remise dans le plus bref délai
-à son titulaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-119 1966-02-23 art. 7
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cite_:
-
-  - Code des assurances - art. R*514-5 (M)
-  - Code des assurances R514-5, R514-6
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R511-4
-
-
-##### Section III : Modalités de contrôle spéciales aux conditions d'honorabilité.<a id=398></a>
+##### Section III : Modalités de contrôle spéciales aux conditions d'honorabilité.<a id=397></a>
 
 ###### Article R*514-8
 
-En vue de permettre de vérifier les conditions d'honorabilité telles qu'elles résultent des dispositions de l'article L.
-511-2, une déclaration doit être faite au parquet du procureur de la République dans les conditions prévues aux articles R.
-514-9 à R. 514-13, concernant toute personne physique entrant dans une des catégories définies aux 1° à 4° de l'article R.
-511-2, avant que cette personne ne présente des opérations mentionnées à l'article L. 310-1.
+En vue de permettre de vérifier si les conditions fixées à l'article L. 511-2 sont respectées, une déclaration doit être
+faite au procureur de la République dans les conditions prévues aux articles R. 514-9 à R. 514-13 concernant toute personne
+physique entrant dans l'une des catégories définies au 1° à 4° dudit article R. 511-2, avant que cette personne ne présente
+des opérations mentionnées à l'article L. 310-1, ou tout courtier de réassurance, associé ou tiers ayant pouvoir de gérer ou
+d'administrer dans un cabinet de courtage de réassurance.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-119 1966-02-23 art. 8
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L511-2 (M)
   - Code des assurances - art. R*511-2 (M)
-  - Code des assurances L310-1, L511-2, R511-2, R514-9 à R514-13
+  - Code des assurances L511-2, R514-9 à R514-13, R511-2, L310-1
 
 **Liens**:
 
@@ -43362,8 +43158,8 @@ _Cite_:
 
 L'obligation de souscrire la déclaration incombe :
 
-1° En ce qui concerne les courtiers d'assurances et les associés ou tiers ayant pouvoir de gérer ou d'administrer dans une
-société de courtage d'assurances, aux intéressés eux-mêmes ;
+1° En ce qui concerne les courtiers d'assurances ou de réassurance et les associés ou tiers ayant pouvoir de gérer ou
+d'administrer dans une société de courtage d'assurances ou de réassurance, aux intéressés eux-mêmes ;
 
 2° En ce qui concerne les agents généraux d'assurances, aux entreprises qui se proposent de les mandater en cette qualité ;
 
@@ -43372,13 +43168,13 @@ qualité d'employeur ou mandant.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°66-119 1966-02-23 art. 9
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 _Cite_:
 
@@ -43393,22 +43189,26 @@ _Cite_:
 
 La déclaration doit être souscrite :
 
-1° Pour le courtier d'assurances, auprès du parquet du lieu du principal établissement de ce courtier ;
+1° Pour le courtier d'assurances ou de réassurance, auprès du parquet du lieu du principal établissement de ce courtier ;
 
-2° Pour les sociétés de courtage d'assurances, auprès du parquet du lieu de leur siège social ou, à défaut de siège social en
-France, au parquet du lieu de leur principal établissement commercial en ce pays ;
+2° Pour les sociétés de courtage d'assurances ou de réassurance, auprès du parquet du lieu de leur siège social ou, à défaut
+de siège social en France, au parquet du lieu de leur principal établissement commercial en ce pays ;
 
 3° Dans tous les autres cas, au parquet du lieu du domicile ou du siège de la personne ou entreprise tenue de la déclaration.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°66-119 1966-02-23 art. 10
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 **Liens**:
 
@@ -43478,24 +43278,24 @@ Il incombe au parquet qui a reçu une déclaration prévue à l'article R. 514-8
 de cette déclaration n'est pas frappée ou ne vient pas à être frappée d'une des incapacités prévues à l'article L. 511-2 et,
 lorsqu'il constate une telle incapacité, de le notifier dans le plus bref délai :
 
-1° Si elle concerne un courtier ou un associé ou un tiers ayant, dans une société de courtage d'assurances, le pouvoir de
-gérer ou d'administrer, au greffier compétent pour recevoir l'immatriculation au registre du commerce pour le courtage
-d'assurances ;
+1° Si elle concerne un courtier ou un associé ou un tiers ayant, dans une société de courtage d'assurances ou de réassurance,
+le pouvoir de gérer ou d'administrer, au greffier compétent pour recevoir l'immatriculation au registre du commerce pour le
+courtage d'assurances ou de réassurance ;
 
 2° Si elle concerne un agent général d'assurances, à l'entreprise déclarante ;
 
-3° Si elle concerne un intermédiaire mentionné au 3° ou au 4° de l'article R. 511-2, au déclarant et à l'organisme habilité à
-viser la carte professionnelle.
+3° Si elle concerne un intermédiaire mentionné au 3° ou au 4° de l'article R. 511-2, au déclarant.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-119 1966-02-23 art. 13
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°92-310 1992-03-31 art. 2 XIII, XIV JORF 1er avril 1992
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 _Cite_:
 
@@ -43509,7 +43309,7 @@ _Cite_:
   - SPEC_APPLI: Code des assurances R515-11
 
 
-##### Section IV : Dispositions diverses et pénalités.<a id=399></a>
+##### Section IV : Dispositions diverses et pénalités.<a id=398></a>
 
 ###### Article R*514-14
 
@@ -43574,40 +43374,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R511-4
 
 
-###### Article R*514-16
-
-Le livret de stage prévu à l'article R. 514-6 peut, pour les stages accomplis en totalité ou en partie avant le 1er mars 1966
-par les personnes mentionnées à l'article R. 512-8, être remplacé par une attestation de stage établie dans les conditions
-prévues pour l'attestation de fonctions à l'article R. 514-7.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-119 1966-02-23 art. 16
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-_Cite_:
-
-  - Code des assurances - art. R*512-8 (Ab)
-  - Code des assurances R512-8, R514-6, R514-7
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R511-4
-
-
 ###### Article R*514-17
 
-Toute infraction aux prescriptions des articles R. 514-1 à R. 514-4, R. 514-6 (dernier alinéa), R. 514-8 à R. 514-10, R.
-514-12 et R. 514-14 à R. 514-16, sera punie d'une amende de 3.000 à 6.000 F.
+Toute infraction aux prescriptions des articles R. 514-1, R. 514-3, R. 514-6 (dernier alinéa), R. 514-8 à R. 514-10, R.
+514-12, R. 514-14, R. 514-15, R. 515-1 à R. 515-7, sera punie de l'amende prévue pour les contraventions de la cinquième
+classe.
 
 **Liens relatifs à cet article**
 
@@ -43615,14 +43386,20 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+_Modifié par_:
+
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
+
 _Cite_:
 
-  - Code des assurances R514-1 à R514-4, R514-6, R514-8 à R514-10, R514-12, R514-14 à R514-16
+  - Code des assurances - art. R*514-1 (M)
+  - Code des assurances - art. R*514-3 (M)
+  - Code des assurances R514-1, R514-3, R514-6, R514-8 à R514-10, R514-12, R514-14, R514-15, R515-1 à R515-7
 
 
-#### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France<a id=400></a>
+#### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France<a id=399></a>
 
-##### Section I : Conditions de capacité professionnelle.<a id=401></a>
+##### Section I : Conditions de capacité professionnelle.<a id=400></a>
 
 ###### Article R515-1
 
@@ -43792,7 +43569,7 @@ _Cite_:
   - Code des assurances R515-1, R515-3, R515-4, R515-6
 
 
-##### Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité.<a id=402></a>
+##### Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité.<a id=401></a>
 
 ###### Article R*515-6
 
@@ -43833,8 +43610,15 @@ déclaration solennelle fait devant une autorité judiciaire ou administrative c
 et délivrée par l'autorité ou le notaire qui a reçu la déclaration. La déclaration d'absence de faillite ou de réhabilitation
 après faillite peut se faire également devant un organisme professionnel qualifié de ce même Etat.
 
+S'il s'agit d'un agent ou d'une personne mentionnée à l'article R. 515-3 dont l'employeur ou le mandant, courtier ou agent,
+n'est pas établi en France, il doit être en mesure de produire un document établi par l'employeur ou le mandant attestant des
+opérations qu'il est dûment habilité à présenter. Ce document doit indiquer en outre le nom, l'adresse et la qualité de
+l'employeur et du mandataire.
+
 Les documents mentionnés ci-dessus ne doivent pas avoir, lors de leur production, plus de trois mois de date. Ils sont
 accompagnés, si besoin est, d'une traduction en langue française.
+
+Ces documents sont transmis au parquet du tribunal de grande instance de Paris.
 
 **Liens relatifs à cet article**
 
@@ -43842,160 +43626,18 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
+  - Décret n°92-310 du 31 mars 1992 - art. 2 () JORF 1er avril 1992
 
 _Cite_:
 
   - Code des assurances - art. L511-2 (M)
-  - Code des assurances L511-2, R515-6
-
-
-###### Article R*515-8
-
-Les personnes mentionnées à l'article R. 515-6 présentent les documents mentionnés aux articles R. 515-6 et R. 515-7, au
-ministre de l'économie, qui leur en délivre un récépissé établissant que ces documents lui ont été présentés.
-
-Les courtiers de réassurance présentent une demande analogue accompagnée du document mentionné à l'article R. 515-7.
-
-Les justifications qui précèdent ne dispensent pas, selon le cas, les intéressés, les employeurs ou les mandants, de faire
-les déclarations prévues aux articles R. 514-8 à R. 514-12.
-
-Un double du récépissé est transmis par le ministre de l'économie au parquet du procureur du Tribunal de grande instance de
-Paris.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979 rectificatif JORF 1er juillet 1979
-
-_Abrogé par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-_Cite_:
-
-  - Code des assurances R514-8 à R514-12, R515-6, R515-7
-
-
-##### Section III : Dispositions relatives à la libre prestation de services.<a id=403></a>
-
-###### Article R*515-9
-
-Lorsqu'un ressortissant d'un Etat membre de la Communauté économique européenne autre que la France veut présenter en libre
-prestation de services des opérations pratiquées par les entreprises mentionnées aux 1°, 2°, 4° et 5° de l'article L. 310-1,
-il doit, par dérogation aux dispositions de l'article R. 514-1 :
-
-a) S'il s'agit d'un courtier ou agent d'assurance, être en mesure de produire le récépissé prévu à l'article R. 515-8 ; 
-
-b) S'il s'agit d'une personne mentionnée à l'article R. 515-3 dont l'employeur ou le mandant, courtier ou agent, n'est pas
-établi en France, être en mesure de produire le récépissé prévu à l'article R. 515-8, ainsi qu'un document indiquant le nom,
-l'adresse et la qualité de l'employeur ou du mandataire, et les opérations qu'elle est habilitée à présenter. Ce document
-doit être, si besoin est, accompagné d'une traduction en langue française.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
-
-_Abrogé par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. R*514-1 (M)
   - Code des assurances - art. R515-3 (M)
-  - Code des assurances L310-1, R514-1, R515-3, R515-8
+  - Code des assurances R515-6, L511-2, R515-3
 
 
-###### Article R*515-10
-
-Par dérogation aux dispositions de l'article R. 514-10, la déclaration prévue par l'article R. 514-8 est souscrite par le
-ministre de l'économie auprès du parquet du procureur du Tribunal de grande instance de Paris.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
-
-_Abrogé par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-_Cite_:
-
-  - Code des assurances R514-8, R514-10
-
-
-###### Article R*515-11
-
-Par dérogation aux dispositions de l'article R. 514-13, les notifications prévues à cet article sont faites, dans les cas
-mentionnés à l'article R. 515-10, à l'autorité judiciaire compétente de l'Etat d'origine ou de provenance. Copie de cette
-notification est transmise au ministre de l'économie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
-
-_Abrogé par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-_Cite_:
-
-  - Code des assurances R514-13, R514-10
-
-
-###### Article R*515-12
-
-Toute personne qui, soumise aux dispositions des articles R. 515-1 à R. 515-11, présente une opération d'assurance avant
-d'avoir obtenu le récépissé prévu à l'article R. 515-8 et souscrit la déclaration prévue à l'article R. 514-8 dans les
-conditions fixées par l'article R. 515-10, sera punie d'une amende de 3.000 F à 6.000 F [*sanctions*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°79-484 1979-06-20 art. 1 JORF 23 juin 1979
-
-_Abrogé par_:
-
-  - Décret n°92-310 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
-
-_Cite_:
-
-  - Code des assurances R514-8, R515-1 à R515-8, R515-9, R514-10
-
-
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=404></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=402></a>
 
 ###### Article R*516-1
 
@@ -44028,9 +43670,9 @@ _Cite_:
   - Code des assurances - art. R515-3 (M)
 
 
-### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=405></a>
+### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=403></a>
 
-#### Chapitre unique.<a id=406></a>
+#### Chapitre unique.<a id=404></a>
 
 ###### Article R530-1
 
@@ -44327,13 +43969,13 @@ _Cite_:
   - Code des assurances - art. L530-2 (Ab)
 
 
-# Partie réglementaire - Arrêtés<a id=407></a>
+# Partie réglementaire - Arrêtés<a id=405></a>
 
-## Livre Ier : Le contrat<a id=408></a>
+## Livre Ier : Le contrat<a id=406></a>
 
-### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes<a id=409></a>
+### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes<a id=407></a>
 
-#### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=410></a>
+#### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=408></a>
 
 ###### Article A113-1
 
@@ -44365,9 +44007,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-### Titre II : Règles relatives aux assurances de dommages non maritimes<a id=411></a>
+### Titre II : Règles relatives aux assurances de dommages non maritimes<a id=409></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=412></a>
+#### Chapitre Ier : Dispositions générales.<a id=410></a>
 
 ###### Article A121-1
 
@@ -44418,7 +44060,7 @@ _Cite_:
   - Code de la route R138, R231
 
 
-#### Chapitre V : L'assurance des risques de catastrophes naturelles.<a id=413></a>
+#### Chapitre V : L'assurance des risques de catastrophes naturelles.<a id=411></a>
 
 ###### Article A125-1
 
@@ -44625,11 +44267,11 @@ _Cite_:
   - Code des assurances R125-7
 
 
-### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=414></a>
+### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=412></a>
 
-#### Chapitre II : Les assurances sur la vie<a id=415></a>
+#### Chapitre II : Les assurances sur la vie<a id=413></a>
 
-##### Section III : Participation des assurés aux bénéfices techniques et financiers.<a id=416></a>
+##### Section III : Participation des assurés aux bénéfices techniques et financiers.<a id=414></a>
 
 ###### Article A132-10
 
@@ -44657,11 +44299,11 @@ _Cite_:
   - Code des assurances - art. A132-8 (T)
 
 
-### Titre V : Le contrat de capitalisation<a id=417></a>
+### Titre V : Le contrat de capitalisation<a id=415></a>
 
-#### Chapitre unique<a id=418></a>
+#### Chapitre unique<a id=416></a>
 
-##### Section II : Rachat.<a id=419></a>
+##### Section II : Rachat.<a id=417></a>
 
 ###### Article A150-1
 
@@ -44709,7 +44351,7 @@ _Abrogé par_:
   - Arrêté 1993-03-19 art. 3 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 
-##### Section V : Participation des porteurs de titres aux bénéfices.<a id=420></a>
+##### Section V : Participation des porteurs de titres aux bénéfices.<a id=418></a>
 
 ###### Article A150-3
 
@@ -44761,11 +44403,11 @@ _Cité par_:
   - Code des assurances - art. R150-23 (Ab)
 
 
-### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=421></a>
+### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=419></a>
 
-#### Chapitre unique<a id=422></a>
+#### Chapitre unique<a id=420></a>
 
-##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.<a id=423></a>
+##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.<a id=421></a>
 
 ###### Article A160-1
 
@@ -44900,7 +44542,7 @@ De la délivrance du duplicata
 
 
 
-##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=424></a>
+##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=422></a>
 
 ###### Article A160-3
 
@@ -44928,7 +44570,7 @@ _Cite_:
   - Code des assurances - art. A331-1-1 (V)
 
 
-##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=425></a>
+##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=423></a>
 
 ###### Article A160-2
 
@@ -44982,7 +44624,7 @@ _Cité par_:
   - Code des assurances - art. A160-2 (V)
 
 
-##### Section VI : Assurances sur la vie en temps de guerre.<a id=426></a>
+##### Section VI : Assurances sur la vie en temps de guerre.<a id=424></a>
 
 ###### Article A160-5
 
@@ -45001,13 +44643,13 @@ _Abrogé par_:
   - Arrêté 1993-03-19 art. 5 JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 
-## Livre II : Assurances obligatoires<a id=427></a>
+## Livre II : Assurances obligatoires<a id=425></a>
 
-### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques<a id=428></a>
+### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques<a id=426></a>
 
-#### Chapitre Ier : L'obligation de s'assurer<a id=429></a>
+#### Chapitre Ier : L'obligation de s'assurer<a id=427></a>
 
-##### Section II : Etendue de l'obligation d'assurance.<a id=430></a>
+##### Section II : Etendue de l'obligation d'assurance.<a id=428></a>
 
 ###### Article A211-1-1
 
@@ -45054,7 +44696,7 @@ _Créé par_:
   - Arrêté 1983-06-09 art. 2 JORF 14 juin 1983
 
 
-##### Section II : Etendue de l'obligation d'assurance.<a id=431></a>
+##### Section II : Etendue de l'obligation d'assurance.<a id=429></a>
 
 ###### Article A211-1-3
 
@@ -45089,7 +44731,7 @@ _Cite_:
   - Code des assurances - art. R*211-4 (M)
 
 
-##### Section III : Franchises, exclusions de garantie et déchéances.<a id=432></a>
+##### Section III : Franchises, exclusions de garantie et déchéances.<a id=430></a>
 
 ###### Article A211-2
 
@@ -45124,7 +44766,7 @@ _Cite_:
   - Code des assurances - art. R211-9 (Ab)
 
 
-##### Section III : Franchises, exclusions de garantie et déchéances.<a id=433></a>
+##### Section III : Franchises, exclusions de garantie et déchéances.<a id=431></a>
 
 ###### Article A211-3
 
@@ -45172,9 +44814,9 @@ _Cite_:
   - Code des assurances - art. R211-10 (V)
 
 
-##### Section IV : Contrôle de l'obligation d'assurance<a id=434></a>
+##### Section IV : Contrôle de l'obligation d'assurance<a id=432></a>
 
-##### Paragraphe 1 : L'attestation d'assurance.<a id=435></a>
+##### Paragraphe 1 : L'attestation d'assurance.<a id=433></a>
 
 ###### Article A211-4
 
@@ -45332,7 +44974,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances R211-19
 
 
-##### Paragraphe 2 : Le certificat d'assurance.<a id=436></a>
+##### Paragraphe 2 : Le certificat d'assurance.<a id=434></a>
 
 ###### Article A211-9
 
@@ -45383,7 +45025,7 @@ _Anciens textes_:
   - Code des assurances - art. A211-8-2 (T)
 
 
-##### Section VI : Procédures d'indemnisation.<a id=437></a>
+##### Section VI : Procédures d'indemnisation.<a id=435></a>
 
 ###### Article A211-11
 
@@ -45703,7 +45345,7 @@ _Cite_:
   - Décret n°86-15 du 6 janvier 1986 (V)
 
 
-#### Chapitre II : L'obligation d'assurer le bureau central de tarification.<a id=438></a>
+#### Chapitre II : L'obligation d'assurer le bureau central de tarification.<a id=436></a>
 
 ###### Article A212-1
 
@@ -45820,7 +45462,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R211-19
 
 
-#### Chapitre III : Contribution au profit de la sécurité sociale.<a id=439></a>
+#### Chapitre III : Contribution au profit de la sécurité sociale.<a id=437></a>
 
 ###### Article A213-1
 
@@ -45953,9 +45595,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R213-3
 
 
-### Titre II : L'assurance des engins de remontée mécanique<a id=440></a>
+### Titre II : L'assurance des engins de remontée mécanique<a id=438></a>
 
-#### Chapitre unique.<a id=441></a>
+#### Chapitre unique.<a id=439></a>
 
 ###### Article A220-1
 
@@ -46215,9 +45857,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R220-11 (Ab)
 
 
-### Titre III : L'assurance de la responsabilité civile des chasseurs<a id=442></a>
+### Titre III : L'assurance de la responsabilité civile des chasseurs<a id=440></a>
 
-#### Chapitre unique.<a id=443></a>
+#### Chapitre unique.<a id=441></a>
 
 ###### Article A230-1
 
@@ -46438,7 +46080,7 @@ _Cite_:
   - Code rural 366 bis
 
 
-### Titre IV : L'assurance des travaux de bâtiment<a id=444></a>
+### Titre IV : L'assurance des travaux de bâtiment<a id=442></a>
 
 ###### Article A243-2
 
@@ -46478,13 +46120,13 @@ _Cite_:
   - Code des assurances - art. R241-9 (T)
 
 
-## Livre III : Les entreprises.<a id=445></a>
+## Livre III : Les entreprises.<a id=443></a>
 
-### Titre Ier : Dispositions générales et contrôle de l'Etat.<a id=446></a>
+### Titre Ier : Dispositions générales et contrôle de l'Etat.<a id=444></a>
 
-#### Chapitre I<a id=447></a>
+#### Chapitre I<a id=445></a>
 
-##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.<a id=448></a>
+##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.<a id=446></a>
 
 ###### Article A310-1
 
@@ -46554,9 +46196,9 @@ _Nouveaux textes_:
   - Code des assurances - art. A310-7 (V)
 
 
-#### Chapitre unique<a id=449></a>
+#### Chapitre unique<a id=447></a>
 
-##### Section I : Dispositions générales.<a id=450></a>
+##### Section I : Dispositions générales.<a id=448></a>
 
 ###### Article A310-2
 
@@ -46583,11 +46225,11 @@ _Nouveaux textes_:
   - Code des assurances - art. A310-6 (V)
 
 
-### Titre II : Régime administratif<a id=451></a>
+### Titre II : Régime administratif<a id=449></a>
 
-#### Chapitre Ier : Les agréments.<a id=452></a>
+#### Chapitre Ier : Les agréments.<a id=450></a>
 
-##### Section VI : Dispositions spéciales concernant la coassurance communautaire.<a id=453></a>
+##### Section VI : Dispositions spéciales concernant la coassurance communautaire.<a id=451></a>
 
 ###### Article A321-1
 
@@ -46634,11 +46276,11 @@ _Cite_:
   - Code des assurances R321-1
 
 
-#### Chapitre II : Règles de constitution et de fonctionnement<a id=454></a>
+#### Chapitre II : Règles de constitution et de fonctionnement<a id=452></a>
 
-##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance<a id=455></a>
+##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance<a id=453></a>
 
-##### Paragraphe 2 : Administration.<a id=456></a>
+##### Paragraphe 2 : Administration.<a id=454></a>
 
 ###### Article A322-1
 
@@ -46679,7 +46321,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances R322-25
 
 
-##### Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance.<a id=457></a>
+##### Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance.<a id=455></a>
 
 ###### Article A322-3
 
@@ -46712,9 +46354,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R322-33
 
 
-##### Section IV : Sociétés d'assurance à forme mutuelle.<a id=458></a>
+##### Section IV : Sociétés d'assurance à forme mutuelle.<a id=456></a>
 
-##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=459></a>
+##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=457></a>
 
 ###### Article A322-6
 
@@ -46792,9 +46434,9 @@ _Codifié par_:
   - Arrêté 1976-07-16
 
 
-#### Chapitre III : Procédures de redressement et de sauvegarde<a id=460></a>
+#### Chapitre III : Procédures de redressement et de sauvegarde<a id=458></a>
 
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.<a id=461></a>
+##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.<a id=459></a>
 
 ###### Article A323-1
 
@@ -47009,11 +46651,11 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances R323-11
 
 
-### Titre III : Régime financier.<a id=462></a>
+### Titre III : Régime financier.<a id=460></a>
 
-#### Chapitre Ier : Les engagements réglementés.<a id=463></a>
+#### Chapitre Ier : Les engagements réglementés.<a id=461></a>
 
-##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=464></a>
+##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=462></a>
 
 ###### Article A331-1
 
@@ -47456,11 +47098,11 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*331-5 (M)
 
 
-##### Section III : Provisions techniques des autres opérations d'assurance<a id=465></a>
+##### Section III : Provisions techniques des autres opérations d'assurance<a id=463></a>
 
-##### Paragraphe 1 : Provision mathématique des rentes.<a id=466></a>
+##### Paragraphe 1 : Provision mathématique des rentes.<a id=464></a>
 
-##### A. - Rentes d'accidents du travail.<a id=467></a>
+##### A. - Rentes d'accidents du travail.<a id=465></a>
 
 ###### Article A331-12
 
@@ -47484,7 +47126,7 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
 
 
-##### Paragraphe 3 : Provision pour sinistres restant à payer<a id=468></a>
+##### Paragraphe 3 : Provision pour sinistres restant à payer<a id=466></a>
 
 ###### Article A331-20
 
@@ -47613,7 +47255,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances R331-22
 
 
-##### A. - Dispositions particulières relatives aux assurances contre les accidents du travail.<a id=469></a>
+##### A. - Dispositions particulières relatives aux assurances contre les accidents du travail.<a id=467></a>
 
 ###### Article A331-16
 
@@ -47755,9 +47397,9 @@ _Cite_:
   - Code des assurances R331-19
 
 
-##### Section III : Provisions techniques des autres opérations d'assurance<a id=470></a>
+##### Section III : Provisions techniques des autres opérations d'assurance<a id=468></a>
 
-##### Paragraphe 1 : Provision mathématique des rentes.<a id=471></a>
+##### Paragraphe 1 : Provision mathématique des rentes.<a id=469></a>
 
 ###### Article A331-11
 
@@ -47939,7 +47581,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances R331-8
 
 
-##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=472></a>
+##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=470></a>
 
 ###### Article A331-23
 
@@ -48045,9 +47687,9 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R*331-26 (M)
 
 
-#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=473></a>
+#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=471></a>
 
-##### Section III : Estimation des éléments d'actif.<a id=474></a>
+##### Section III : Estimation des éléments d'actif.<a id=472></a>
 
 ###### Article A332-5
 
@@ -48124,7 +47766,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code des assurances - art. R332-20 (M)
 
 
-#### Chapitre III : Revenu des placements.<a id=475></a>
+#### Chapitre III : Revenu des placements.<a id=473></a>
 
 ###### Article A333-2
 
@@ -48406,11 +48048,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*333-2 (M)
 
 
-#### Chapitre IV : Solvabilité des entreprises<a id=476></a>
+#### Chapitre IV : Solvabilité des entreprises<a id=474></a>
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=477></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=475></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=478></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=476></a>
 
 ###### Article A334-1
 
@@ -48449,9 +48091,9 @@ _Cite_:
   - Code des assurances - art. R334-11 (V)
 
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=479></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=477></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=480></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=478></a>
 
 ###### Article A334-2
 
@@ -48481,11 +48123,11 @@ _Cite_:
   - Code des assurances - art. R*334-11 (M)
 
 
-#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=481></a>
+#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=479></a>
 
-##### Section I : Tarifs.<a id=482></a>
+##### Section I : Tarifs.<a id=480></a>
 
-##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=483></a>
+##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=481></a>
 
 ###### Article A335-9-1
 
@@ -48601,9 +48243,9 @@ _Cite_:
   - Code des assurances - art. A335-9-3 (Ab)
 
 
-##### Section I : Tarifs<a id=484></a>
+##### Section I : Tarifs<a id=482></a>
 
-##### Paragraphe 1 : Assurances sur la vie.<a id=485></a>
+##### Paragraphe 1 : Assurances sur la vie.<a id=483></a>
 
 ###### Article A335-1-1
 
@@ -48755,7 +48397,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Paragraphe 2 : Assurances nuptialité et natalité.<a id=486></a>
+##### Paragraphe 2 : Assurances nuptialité et natalité.<a id=484></a>
 
 ###### Article A335-6
 
@@ -48788,7 +48430,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Paragraphe 3 : Opérations de capitalisation.<a id=487></a>
+##### Paragraphe 3 : Opérations de capitalisation.<a id=485></a>
 
 ###### Article A335-7
 
@@ -48887,9 +48529,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Section II : Frais d'acquisition et de gestion<a id=488></a>
+##### Section II : Frais d'acquisition et de gestion<a id=486></a>
 
-##### Paragraphe 1 : Assurances sur la vie et nuptialité-natalité.<a id=489></a>
+##### Paragraphe 1 : Assurances sur la vie et nuptialité-natalité.<a id=487></a>
 
 ###### Article A335-10
 
@@ -48974,7 +48616,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Paragraphe 2 : Assurances populaires.<a id=490></a>
+##### Paragraphe 2 : Assurances populaires.<a id=488></a>
 
 ###### Article A335-12
 
@@ -49056,7 +48698,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Paragraphe 3 : Assurances des véhicules terrestres à moteur.<a id=491></a>
+##### Paragraphe 3 : Assurances des véhicules terrestres à moteur.<a id=489></a>
 
 ###### Article A335-15
 
@@ -49211,9 +48853,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Section II : Frais d'acquisition et de gestion<a id=492></a>
+##### Section II : Frais d'acquisition et de gestion<a id=490></a>
 
-##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=493></a>
+##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=491></a>
 
 ###### Article A335-19
 
@@ -49246,11 +48888,11 @@ _Cité par_:
   - SPEC_APPLI: Code des assurances A335-20, A335-21 *fixation des commissions et rétributions*
 
 
-### Titre IV : Dispositions comptables et statistiques<a id=494></a>
+### Titre IV : Dispositions comptables et statistiques<a id=492></a>
 
-#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=495></a>
+#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=493></a>
 
-##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=496></a>
+##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=494></a>
 
 ###### Article A342-1
 
@@ -49358,9 +49000,9 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R*331-17 (Ab)
 
 
-#### Chapitre IV : Catégories d'assurance et états à produire<a id=497></a>
+#### Chapitre IV : Catégories d'assurance et états à produire<a id=495></a>
 
-##### Section I : Dispositions générales.<a id=498></a>
+##### Section I : Dispositions générales.<a id=496></a>
 
 ###### Article A344-1
 
@@ -49440,7 +49082,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section II : Définition des catégories et sous-catégories.<a id=499></a>
+##### Section II : Définition des catégories et sous-catégories.<a id=497></a>
 
 ###### Article A344-4
 
@@ -49637,7 +49279,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section III : Etats à produire.<a id=500></a>
+##### Section III : Etats à produire.<a id=498></a>
 
 ###### Article A344-7
 
@@ -49819,7 +49461,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
-##### Section III : Etats à produire.<a id=501></a>
+##### Section III : Etats à produire.<a id=499></a>
 
 ###### Article Annexe art. A344-8
 
@@ -49968,15 +49610,15 @@ _Cite_:
   - Code des assurances - art. L321-9 (V)
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=502></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=500></a>
 
-### Titre II : Le fonds de garantie<a id=503></a>
+### Titre II : Le fonds de garantie<a id=501></a>
 
-#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=504></a>
+#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=502></a>
 
-##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=505></a>
+##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=503></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=506></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=504></a>
 
 ###### Article A421-1
 
@@ -50016,9 +49658,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R420-69
 
 
-##### Section IV : Régime financier du fonds de garantie<a id=507></a>
+##### Section IV : Régime financier du fonds de garantie<a id=505></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=508></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=506></a>
 
 ###### Article A421-2
 
@@ -50060,9 +49702,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances R420-35
 
 
-##### Section V : Régime financier du fonds de garantie<a id=509></a>
+##### Section V : Régime financier du fonds de garantie<a id=507></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=510></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=508></a>
 
 ###### Article A421-3
 
@@ -50132,7 +49774,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=511></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=509></a>
 
 ###### Article A422-1
 
@@ -50157,11 +49799,11 @@ _Cite_:
   - Code des assurances - art. R422-4 (V)
 
 
-### Titre III : Organismes particuliers d'assurance<a id=512></a>
+### Titre III : Organismes particuliers d'assurance<a id=510></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=513></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=511></a>
 
-##### Section I : Dispositions générales.<a id=514></a>
+##### Section I : Dispositions générales.<a id=512></a>
 
 ###### Article A431-1
 
@@ -50194,9 +49836,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R431-19
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=515></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=513></a>
 
-##### Paragraphe 4 : Risques d'attentat.<a id=516></a>
+##### Paragraphe 4 : Risques d'attentat.<a id=514></a>
 
 ###### Article A431-5
 
@@ -50247,9 +49889,9 @@ _Cite_:
   - Code des assurances - art. L431-10 (V)
 
 
-##### Section III : Opérations de gestion.<a id=517></a>
+##### Section III : Opérations de gestion.<a id=515></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=518></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=516></a>
 
 ###### Article A431-7
 
@@ -50395,7 +50037,7 @@ _Cite_:
   - Loi n°64-706 du 10 juillet 1964 - art. 5 (Ab)
 
 
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=519></a>
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=517></a>
 
 ###### Article A431-8
 
@@ -50556,11 +50198,11 @@ _Cite_:
   - Code des assurances - art. A335-1 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=520></a>
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=518></a>
 
-##### Section III : Risques garantis.<a id=521></a>
+##### Section III : Risques garantis.<a id=519></a>
 
-##### Paragraphe 6 : Dispositions communes.<a id=522></a>
+##### Paragraphe 6 : Dispositions communes.<a id=520></a>
 
 ###### Article A432-1
 
@@ -50805,9 +50447,9 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-#### Chapitre III : La caisse nationale de prévoyance<a id=523></a>
+#### Chapitre III : La caisse nationale de prévoyance<a id=521></a>
 
-##### Section I : Dispositions générales.<a id=524></a>
+##### Section I : Dispositions générales.<a id=522></a>
 
 ###### Article A433-1
 
@@ -50849,7 +50491,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-##### Section V : Tarifs.<a id=525></a>
+##### Section V : Tarifs.<a id=523></a>
 
 ###### Article A433-2
 
@@ -51091,11 +50733,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R433-2
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=526></a>
+### Titre IV : Régimes particuliers d'assurance<a id=524></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=527></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=525></a>
 
-##### Section II : Règles techniques et comptables.<a id=528></a>
+##### Section II : Règles techniques et comptables.<a id=526></a>
 
 ###### Article A441-1
 
@@ -51157,11 +50799,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=529></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=527></a>
 
-### Titre Ier : Présentation des opérations.<a id=530></a>
+### Titre Ier : Présentation des opérations.<a id=528></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=531></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=529></a>
 
 ###### Article A513-1
 
@@ -51336,236 +50978,36 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R513-2 (M)
 
 
-###### Article A513-3
+#### Chapitre IV : Contrôle des conditions de présentation<a id=530></a>
 
-La commission instituée par l'article R. 513-3 est présidée par le directeur des assurances au ministère de l'économie et des
-finances ou, en cas d'empêchement de celui-ci, par son représentant.
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=531></a>
 
-Outre son président, la commission comprend les six membres suivants :
+###### Article A514-1
 
-a) trois représentants de l'administration :
+Sont habilités à recevoir la liste prévue à l'article R. 514-3, les organismes professionnels suivants :
 
-- le directeur du personnel et des services généraux au ministère de l'économie et des finances ;
+1° La fédération française des sociétés d'assurances, pour les salariés et les mandataires d'entreprises mentionnées à
+l'article L. 310-1, autres que les organismes d'assurances mutuelles agricoles mentionnés à l'article 1235 du code rural et
+que les entreprises mentionnées au 2° ci-après ;
 
-- le sous-directeur de la direction des assurances au ministère de l'économie et des finances, chargé de la réglementation
-des conditions de capacité professionnelle des intermédiaires d'assurance ;
+2° Le groupement des sociétés d'assurances à caractère mutuel, pour les salariés et les mandataires des entreprises
+adhérentes de cet organisme, ainsi que pour les salariés et les mandataires d'entreprises mentionnées à l'article L. 310-1
+adhérentes de l'association de recherche et d'étude pour l'épargne et la retraite ;
 
-- le chef du service du contrôle des assurances.
+3° L'union des caisses centrales de la mutualité agricole, pour les salariés et les mandataires des organismes d'assurances
+mutuelles agricoles mentionnés à l'article 1235 du code rural ;
 
-b) trois représentants de la profession, choisis par le président en fonction de l'affaire traitée parmi les personnalités
-suivantes :
-
-- le président de la fédération française des sociétés d'assurances ;
-
-- le président de l'union syndicale des sociétés étrangères d'assurances ;
-
-- le président de la fédération nationale des syndicats d'agents généraux d'assurances ;
-
-- le président du syndicat national des courtiers d'assurances et de réassurance ;
-
-- le président du conseil d'administration de la caisse centrale des mutuelles agricoles ;
-
-- le président du groupement des entreprises mutuelles d'assurance.
-
-Chacun de ces six membres peut se faire représenter par un membre suppléant.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1966-02-23 art. 1 annexe II
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Créé par_:
-
-  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-_Modifié par_:
-
-  - Arrêté 1990-06-11 art. 1 JORF 23 juin 1990
-
-_Abrogé par_:
-
-  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-_Cité par_:
-
-  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R513-3 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R513-3 (M)
-
-
-###### Article A513-4
-
-La commission se réunit sur convocation de son président.
-
-A la convocation est annexé un ordre du jour.
-
-Chaque membre de la commission peut demander l'inscription du jour d'une affaire entrant dans la compétence de la commission.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Créé par_:
-
-  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-_Modifié par_:
-
-  - Arrêté 1990-06-11 art. 2 JORF 23 juin 1990
-
-_Abrogé par_:
-
-  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-_Cité par_:
-
-  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-
-###### Article A513-5
-
-Chaque affaire soumise à l'examen de la commission fait l'objet d'un rapport présenté par un commissaire contrôleur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Créé par_:
-
-  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-_Abrogé par_:
-
-  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-_Cité par_:
-
-  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-
-###### Article A513-6
-
-Si elle le juge utile, la commission peut autoriser un représentant de l'entreprise ou du centre de formation intéressé à
-présenter verbalement ses observations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Créé par_:
-
-  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-_Abrogé par_:
-
-  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-_Cité par_:
-
-  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-
-###### Article A513-7
-
-Les avis de la commission sont émis à la majorité des voix des membres présents. En cas de partage égal des voix, celle du
-président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Créé par_:
-
-  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-_Abrogé par_:
-
-  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-_Cité par_:
-
-  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-
-###### Article A513-8
-
-Le secrétariat de chaque séance de la commission est assuré par un administrateur civil du ministère de l'économie, désigné
-par le directeur des assurances.
-
-Le secrétaire établit procès-verbal de la séance. Ce document est soumis à l'approbation des membres de la commission et
-conservé dans les archives de la direction des assurances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Créé par_:
-
-  - Arrêté 1980-07-01 art. 1 JORF 11 juillet 1980
-
-_Abrogé par_:
-
-  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-_Cité par_:
-
-  - Arrêté du 31 mars 1992 - art. 1 (V)
-
-
-#### Chapitre IV : Contrôle des conditions de présentation<a id=532></a>
-
-##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=533></a>
-
-###### Article A514-2
-
-Sont seuls habilités à viser les livrets de stage et attestations de fonctions mentionnés aux articles R. 514-6 et R. 514-7
-et à recevoir les déclarations de début de stage prévues à l'article R. 513-5, les organismes professionnels suivants :
-
-1° La fédération française des sociétés d'assurances, pour les stages effectués et les fonctions exercées auprès
-d'entreprises d'assurances mentionnées à l'article L. 310-1, autres que les organismes d'assurances mutuelles agricoles
-mentionnés au 2° ci-après, ou pour le compte d'une telle entreprise auprès d'un agent général d'assurances ;
-
-2° Le groupement des sociétés d'assurances à caractère mutuel, pour les stages effectués et les fonctions exercées auprès
-d'entreprises adhérentes de cet organisme ainsi que pour les stages effectués et les fonctions exercées auprès d'entreprises
-mentionnées à l'article L. 310-1 adhérentes à l'association de recherche et d'étude pour l'épargne et la retraite .
-
-3° L'union des caisses centrales de la mutualité agricole, pour les stages effectués et les fonctions exercées auprès
-d'organismes d'assurances mutuelles agricoles mentionnés à l'article 1235 du code rural ;
-
-4° Le syndicat national des courtiers d'assurances, pour les stages effectués et les fonctions exercées auprès de courtiers
+4° La fédération française des courtiers d'assurances et de réassurances, pour les salariés et les mandataires de courtiers
 d'assurances ou de sociétés de courtage d'assurances ;
 
-5° La fédération nationale des syndicats d'agents généraux d'assurances, d'une part, pour les stages effectués et les
-fonctions exercées auprès d'agents généraux d'assurances, autrement que pour le compte d'une entreprise mentionnée à
-l'article L. 310-1, d'autre part, pour les stages théoriques et pratiques effectués dans le cadre de l'école supérieure
-d'assurances en vue de l'obtention du certificat délivré par cet établissement.
+5° La fédération nationale des syndicats d'agents généraux d'assurances, pour les salariés et les mandataires d'agents
+généraux d'assurances.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Arrêté 1966-02-24 art. 2
+  - Arrêté 1966-02-24 art. 1
 
 _Codifié par_:
 
@@ -51573,35 +51015,29 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1981-02-16 art. 2 JORF 22 février 1981
-  - Arrêté 1982-05-13 art. 1 JORF 25 mai 1982
-  - Arrêté 1984-05-29 art. 3 JORF 13 juin 1984
-  - Arrêté 1989-07-24 art. 2 JORF 5 août 1989
+  - Arrêté 1981-02-16 art. 1 JORF 16 février 1981
+  - Arrêté 1989-07-24 art. 1 JORF 5 août 1989
+  - Arrêté 1992-03-31 art. 2 JORF 1er avril 1992
 
 _Abrogé par_:
 
-  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
-
-_Cité par_:
-
-  - Arrêté du 31 mars 1992 - art. 1 (V)
+  - Arrêté du 3 novembre 2006 - art. 1, v. init.
 
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. R513-5 (M)
-  - Code des assurances L310-1, R513-5, R514-6, R514-7
+  - Code des assurances - art. R*514-3 (M)
   - Code rural 1235
 
 **Liens**:
 
-  - TXT_ASSOCIE: Code des assurances - art. R*514-6 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R*514-3 (M)
   - TXT_ASSOCIE: Code des assurances - art. R513-4 (Ab)
   - TXT_ASSOCIE: Code des assurances - art. R513-5 (Ab)
-  - TXT_SOURCE: Code des assurances R514-6
+  - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=534></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=532></a>
 
 ###### Article A516-2
 
