@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-04-22
+Version Consolidée au 2001-05-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -83,7 +83,7 @@ Version Consolidée au 2001-04-22
           - [Section I : Agrément administratif des entreprises françaises (art. L321-1 à L321-5)](#80)
           - [Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen. (art. L321-7 à L321-8)](#81)
           - [Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen. (art. L321-9)](#82)
-          - [Section IV : Condition des agréments. (art. L321-10)](#83)
+          - [Section IV : Condition des agréments. (art. L321-10 à L321-10-1)](#83)
           - [Section V : Dispositions particulières applicables aux territoires d'outre-mer et à Mayotte. (art. L321-11)](#84)
         - [Chapitre II : Règles de constitution et de fonctionnement (art. L322-1 à L322-27)](#85)
           - [Section I : Dispositions communes. (art. L322-1 à L322-3)](#86)
@@ -97,434 +97,436 @@ Version Consolidée au 2001-04-22
             - [Paragraphe 1 : Dispositions générales. (art. L322-27)](#94)
         - [Chapitre III : Procédures de redressement et de sauvegarde (art. L323-1 à L323-2)](#95)
           - [Section I : Règles générales. (art. L323-1 à L323-2)](#96)
-        - [Chapitre IV : Transfert de portefeuille (art. L324-1 à L324-7)](#97)
-          - [Section I : Règles générales. (art. L324-1 à L324-4)](#98)
-          - [Section II : Transfert d'office (art. L324-5)](#99)
-          - [Section III : Règles relatives à l'affectation comptable des actifs transférés avec un portefeuille de contrats. (art. L324-7)](#100)
-        - [Chapitre V : Retrait de l'agrément administratif (art. L325-1)](#101)
-          - [Section I : Règles générales. (art. L325-1)](#102)
-        - [Chapitre VI : Liquidation. (art. L326-1 à L326-19)](#103)
-          - [Section I : Règles générales. (art. L326-1 à L326-15)](#104)
-          - [Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur. (art. L326-17 à L326-19)](#105)
-        - [Chapitre VII : Privilèges. (art. L327-1 à L327-6)](#106)
-        - [Chapitre VIII : Sanctions. (art. L328-1 à L328-16)](#107)
-      - [Titre III : Régime financier (art. L331-1 à L334-1)](#108)
-        - [Chapitre Ier : Les engagements réglementés. (art. L331-1 à L331-4)](#109)
-          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. L331-1 à L331-4)](#110)
-        - [Chapitre IV : Solvabilité des entreprises. (art. L334-1)](#111)
-      - [Titre IV : Dispositions comptables et statistiques (art. L341-1 à L345-2)](#112)
-        - [Chapitre Ier : Principes généraux. (art. L341-1)](#113)
-        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation. (art. L342-1)](#114)
-        - [Chapitre IV : Catégories d'assurance et états à produire. (art. L344-1)](#115)
-        - [Chapitre V : Comptes consolidés. (art. L345-1 à L345-2)](#116)
-      - [Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes (art. L351-1 à L354-2)](#117)
-        - [Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages. (art. L351-1 à L351-10)](#118)
-          - [Section I : Dispositions générales. (art. L351-1 à L351-2)](#119)
-          - [Section II : Conditions d'exercice. (art. L351-4 à L351-6-1)](#120)
-          - [Section III : Sanctions administratives. (art. L351-7 à L351-10)](#121)
-        - [Chapitre II : Dispositions relatives à la coassurance. (art. L352-1)](#122)
-        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. L353-2 à L353-7)](#123)
-          - [Section I : Dispositions générales. (art. L353-2)](#124)
-          - [Section II : Conditions d'exercice. (art. L353-4 à L353-6)](#125)
-          - [Section III : Sanctions administratives. (art. L353-7)](#126)
-        - [Chapitre IV : Transferts de portefeuille. (art. L354-1 à L354-2)](#127)
-      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. L361-1 à L364-1)](#128)
-        - [Chapitre Ier : Définitions. (art. L361-1)](#129)
-        - [Chapitre II : Conditions d'exercice. (art. L362-1 à L362-4)](#130)
-        - [Chapitre III : Contrôle et sanctions. (art. L363-1 à L363-4)](#131)
-        - [Chapitre IV : Transferts de portefeuille. (art. L364-1)](#132)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. L411-1 à L442-6)](#133)
-      - [Titre Ier : Organisations générales d'assurance. (art. L411-1 à L412-1)](#134)
-        - [Chapitre I : Le conseil national des assurances (art. L411-1 à L411-6)](#135)
-          - [Section I : Organisation et attributions. (art. L411-1 à L411-6)](#136)
-        - [Chapitre II : L'école nationale d'assurances. (art. L412-1)](#137)
-      - [Titre II : Le fonds de garantie (art. L421-1 à L423-8)](#138)
-        - [Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse (art. L421-1 à L421-15)](#139)
-          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine et dans les départements d'outre-mer. (art. L421-1 à L421-7)](#140)
-          - [Section II : Dispositions spéciales aux accidents de chasse survenus en France métropolitaine. (art. L421-8)](#141)
-          - [Section V : Régime financier du fonds de garantie. (art. L421-8-1)](#142)
-          - [Section VI : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile. (art. L421-9)](#143)
-          - [Section IX : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger. (art. L421-11 à L421-15)](#144)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. L422-1 à L422-5)](#145)
-        - [Chapitre III : Le fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes. (art. L423-1 à L423-8)](#146)
-      - [Titre III : Organismes particuliers d'assurance (art. L431-4 à L432-4)](#147)
-        - [Chapitre Ier : La caisse centrale de réassurance (art. L431-4 à L431-14)](#148)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat (art. L431-4 à L431-10)](#149)
-            - [Paragraphe 2 : Risques exceptionnels et nucléaires. (art. L431-4 à L431-7)](#150)
-            - [Paragraphe 3 : Risques de catastrophes naturelles. (art. L431-9)](#151)
-            - [Paragraphe 4 : Risques d'attentats. (art. L431-10)](#152)
-          - [Section III : Opérations de gestion (art. L431-11 à L431-14)](#153)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. L431-11)](#154)
-            - [Paragraphe 2 : Fonds de garantie des calamités agricoles dans les départements d'outre-mer. (art. L431-12)](#155)
-            - [Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction. (art. L431-14)](#156)
-        - [Chapitre II : La Compagnie française d'assurance pour le commerce extérieur "COFACE" (art. L432-1 à L432-4)](#157)
-          - [Section I : Dispositions générales. (art. L432-1 à L432-4)](#158)
-      - [Titre IV : Régimes particuliers d'assurance (art. L441-1 à L442-6)](#159)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. L441-1 à L441-10)](#160)
-          - [Section I : Dispositions générales. (art. L441-1 à L441-7)](#161)
-          - [Section II : Règles techniques et comptables. (art. L441-8)](#162)
-          - [Section IV : Dispositions transitoires. (art. L441-10)](#163)
-        - [Chapitre II : Autres régimes particuliers d'assurance (art. L442-1 à L442-6)](#164)
-          - [Section I : Régime d'indemnisation des calamités agricoles. (art. L442-1 à L442-2)](#165)
-          - [Section II : Régime obligatoire d'assurance maladie, invalidité et maternité des exploitants agricoles et des membres non salariés de leur famille (AMEXA). (art. L442-3)](#166)
-          - [Section III : Assurance des exploitants agricoles contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles. (art. L442-4 à L442-5)](#167)
-          - [Section IV : Régime obligatoire d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles. (art. L442-6)](#168)
-    - [Livre V : Intermédiaires d'assurance (art. L514)](#169)
-      - [Titre Ier : Intermédiation en assurance. (art. L514)](#170)
-        - [Chapitre IV : Contrôle des conditions d'accès et d'exercice (art. L514)](#171)
-          - [Section IV : Dispositions diverses et pénalités. (art. L514)](#172)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. L511-1 à L530-3)](#173)
-      - [Titre I : Présentation des opérations (art. L511-1 à L514-4)](#174)
-        - [Chapitre I : Principes généraux. (art. L511-1 à L511-3)](#175)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. L514-1 à L514-4)](#176)
-          - [Section IV : Dispositions diverses et pénalités. (art. L514-1 à L514-4)](#177)
-      - [Titre II : Dispositions spéciales aux agents généraux d'assurances (art. L520-1 à L520-2)](#178)
-        - [Chapitre unique. (art. L520-1 à L520-2)](#179)
-      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. L530-1 à L530-3)](#180)
-        - [Chapitre unique. (art. L530-1 à L530-3)](#181)
-  - [Partie réglementaire (art. R111-1 à R530-12)](#182)
-    - [Livre Ier : Le contrat. (art. R111-1 à R172-6)](#183)
-      - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes. (art. R111-1 à R114-1)](#184)
-        - [Chapitre Ier : Dispositions générales. (art. R111-1 à R111-2)](#185)
-        - [Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices. (art. R112-1 à R112-3)](#186)
-        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. R*113-4 à R113-6)](#187)
-        - [Chapitre IV : Compétence et prescription. (art. R114-1)](#188)
-      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. R*124-1 à R127-1)](#189)
-        - [Chapitre IV : Les assurances de responsabilité. (art. R*124-1)](#190)
-        - [Chapitre VI : L'assurance contre les actes de terrorisme (art. R126-1 à R126-2)](#191)
-          - [Section II : Dommages matériels (art. R126-1 à R126-2)](#192)
-        - [Chapitre VII : L'assurance de protection juridique. (art. R127-1)](#193)
-      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. R131-1 à R132-4)](#194)
-        - [Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte. (art. R131-1 à R131-4)](#195)
-        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. R132-2 à R132-4)](#196)
-          - [Section I : Dispositions générales. (art. R132-2 à R132-4)](#197)
-      - [Titre V : Le contrat de capitalisation. (art. R*150-4 à R150-16)](#198)
-        - [Chapitre unique (art. R*150-4 à R150-16)](#199)
-          - [Section III : Tirages au sort. (art. R*150-4 à R150-16)](#200)
-      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. R*160-4 à R*160-11)](#201)
-        - [Chapitre unique (art. R*160-4 à R*160-11)](#202)
-          - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. R*160-4 à R*160-6)](#203)
-          - [Section V : Effet sur les contrats d'assurance de la réquisition des biens et services. (art. R*160-9 à R*160-11)](#204)
-      - [Titre VII : Le contrat d'assurance maritime (art. R171-1 à R172-6)](#205)
-        - [Chapitre Ier : Dispositions générales. (art. R171-1 à R171-2)](#206)
-        - [Chapitre II : Règles communes aux diverses assurances maritimes (art. R172-1 à R172-6)](#207)
-          - [Section I : Conclusion du contrat. (art. R172-1 à R172-3)](#208)
-          - [Section III : Règlement de l'indemnité. (art. R172-4 à R172-6)](#209)
-    - [Livre II : Assurances obligatoires (art. R211-2 à R250-6)](#210)
-      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. R211-2 à R*213-2)](#211)
-        - [Chapitre Ier : L'obligation de s'assurer. (art. R211-2 à R211-45)](#212)
-          - [Section II : Etendue de l'obligation d'assurance. (art. R211-2 à R211-8)](#213)
-          - [Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur. (art. R211-10 à R211-13)](#214)
-          - [Section IV : Contrôle de l'obligation d'assurance. (art. R*211-19 à R211-21-7)](#215)
-            - [Paragraphe 1 : L'attestation d'assurance. (art. R*211-19 à R211-21)](#216)
-            - [Paragraphe 2 : Le certificat d'assurance. (art. R211-21-1 à R211-21-7)](#217)
-          - [Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules. (art. R*211-22 à R211-27)](#218)
-          - [Section VI : Procédures d'indemnisation. (art. R211-29 à R211-44)](#219)
-          - [Section VII : Pénalités. (art. R211-45)](#220)
-        - [Chapitre III : Contribution au profit de la sécurité sociale. (art. R*213-1 à R*213-2)](#221)
-      - [Titre II : L'assurance des engins de remontée mécanique (art. R220-1 à R220-8)](#222)
-        - [Chapitre unique. (art. R220-1 à R220-8)](#223)
-      - [Titre IV : L'assurance des travaux de bâtiment. (art. R243-2)](#224)
-      - [Titre V : Dispositions relatives au Bureau central de tarification. (art. R250-1 à R250-6)](#225)
-    - [Livre III : Les entreprises (art. R*310-5 à R362-2)](#226)
-      - [Titre Ier : Dispositions générales et contrôle de l'Etat (art. R*310-5 à R310-22)](#227)
-        - [Chapitre unique (art. R*310-5 à R310-22)](#228)
-          - [Section I : Dispositions générales. (art. R*310-5 à R310-10-1)](#229)
-          - [Section II : Commission de contrôle des assurances. (art. R*310-21 à R310-20)](#230)
-          - [Section IV : Sanctions. (art. R310-22)](#231)
-      - [Titre II : Régime administratif (art. R*321-1 à R328-2)](#232)
-        - [Chapitre Ier : Les agréments (art. R*321-1 à R321-23)](#233)
-          - [Section I : Agrément administratif des entreprises françaises. (art. R*321-1 à R321-5)](#234)
-          - [Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen. (art. R321-6 à R321-9)](#235)
-          - [Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen. (art. R321-10 à R321-12)](#236)
-          - [Section IV : Conditions des agréments. (art. R*321-17 à R321-23)](#237)
-        - [Chapitre II : Règles de constitution et de fonctionnement (art. R*322-2 à R322-159)](#238)
-          - [Section I : Dispositions communes. (art. R*322-2 à R322-1-2)](#239)
-          - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. R*322-5 à R322-11-1)](#240)
-          - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. R322-20 à R322-26)](#241)
-            - [Paragraphe 2 : Administration. (art. R322-20 à R322-26)](#242)
-          - [Section IV : Sociétés d'assurance mutuelles (art. R*322-44 à R332-105)](#243)
-            - [Paragraphe 1 : Constitution. (art. R*322-44 à R322-52)](#244)
-            - [Paragraphe 2 : Administration. (art. R*322-53 à R322-66)](#245)
-            - [Sous-section 2 : Direction et administration (art. Annexe I art. R*322-58)](#246)
-              - [Paragraphe 4 : L'assemblée générale des sociétés d'assurance mutuelles (art. Annexe I art. R*322-58)](#247)
-            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. R322-71 à R322-74)](#248)
-            - [Paragraphe 3 bis : Emprunts. (art. R322-77 à R322-80-1)](#249)
-            - [Paragraphe 4 : Réassurance. (art. R322-81 à R322-84)](#250)
-            - [Paragraphe 5 : Publicité. (art. R*322-86 à R322-87)](#251)
-            - [Paragraphe 6 : Nullités. (art. R*322-91 à R322-90)](#252)
-            - [Paragraphe 7 : Sociétés mutuelles d'assurance. (art. R*322-99 à R332-105)](#253)
-          - [Section V : Unions de sociétés d'assurance mutuelles. (art. R*322-117-1 à R322-117)](#254)
-          - [Section VI : Sociétés ou caisses d'assurances et de réassurances mutuelles agricoles (art. R*322-121 à R322-138)](#255)
-            - [Paragraphe 1 : Dispositions générales. (art. R*322-121 à R322-124)](#256)
-            - [Paragraphe 2 : Organismes soumis à l'agrément administratif. (art. R*322-126 à R322-131)](#257)
-            - [Paragraphe 3 : Organismes dispensés de l'agrément administratif. (art. R*322-133 à R322-138)](#258)
-          - [Section VII : Tontines. (art. R*322-145 à R322-159)](#259)
-        - [Chapitre III : Procédures de redressement et de sauvegarde (art. R*323-6 à R323-9)](#260)
-          - [Section I : Règles générales. (art. R*323-6 à R323-9)](#261)
-        - [Chapitre IV : Transfert de portefeuille (art. R*324-4 à R*324-5)](#262)
-          - [Section II : Transfert d'office. (art. R*324-4 à R*324-5)](#263)
-        - [Chapitre V : Retrait de l'agrément administratif (art. R*325-9 à R325-14)](#264)
-          - [Section I : Règles générales. (art. R*325-9 à R325-14)](#265)
-        - [Chapitre VI : Liquidation (art. R*326-2 à R326-1)](#266)
-          - [Section I : Règles générales. (art. R*326-2 à R326-1)](#267)
-        - [Chapitre VII : Privilèges. (art. R*327-1)](#268)
-        - [Chapitre VIII : Sanctions. (art. R328-1 à R328-2)](#269)
-      - [Titre III : Régime financier. (art. R331-1 à R334-39)](#270)
-        - [Chapitre Ier : Les engagements réglementés. (art. R331-1 à R331-35)](#271)
-          - [Section I : Dispositions générales. (art. R331-1 à R331-2)](#272)
-          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. R331-3 à R331-5-2)](#273)
-          - [Section III : Provisions techniques des autres opérations d'assurance. (art. R331-6 à R331-35)](#274)
-            - [Paragraphe 1 : Provision mathématique des rentes (art. R331-7)](#275)
-            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. R331-15 à R331-26)](#276)
-            - [Paragraphe 5 : Dispositions supplémentaires concernant la coassurance communautaire. (art. R331-31)](#277)
-            - [Paragraphe 7 : Dispositions particulières relatives à l'assurance-crédit. (art. R331-33 à R331-35)](#278)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. R332-1 à R*332-45)](#279)
-          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. R332-1 à R332-13)](#280)
-          - [Section II : Réglementations particulières concernant certains éléments d'actif. (art. R332-14 à R332-18)](#281)
-          - [Section III : Estimation des éléments d'actif. (art. R332-19 à R332-30)](#282)
-          - [Section IV : Commissions et frais d'acquisition à amortir. (art. R332-33 à R332-35)](#283)
-          - [Section V : Règles particulières à certaines entreprises étrangères. (art. R332-37 à R332-44)](#284)
-          - [Section VI : Dispositions particulières aux territoires d'outre-mer. (art. R*332-45)](#285)
-        - [Chapitre III : Revenu des placements. (art. R*333-3 à R333-2)](#286)
-        - [Chapitre IV : Solvabilité des entreprises (art. R*334-2 à R334-39)](#287)
-          - [Section I : La marge de solvabilité (art. R*334-2 à R334-1)](#288)
-            - [Dispositions communes. (art. R*334-2 à R334-1)](#289)
-          - [Section II : La marge de solvabilité des entreprises d'assurance de dommages (art. R334-3 à R334-10)](#290)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. R334-3 à R334-4)](#291)
-            - [Paragraphe 2 : Montant réglementaire de la marge de solvabilité. (art. R334-5 à R334-6)](#292)
-            - [Paragraphe 3 : Le fonds de garantie. (art. R334-7 à R334-10)](#293)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. R334-11 à R334-16)](#294)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. R334-11 à R334-12)](#295)
-            - [Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité. (art. R334-13 à R334-14)](#296)
-            - [Paragraphe 3 : Le fonds de garantie. (art. R334-15 à R334-16)](#297)
-          - [Section IV : La marge de solvabilité des entreprises mixtes définies à l'article L. 341-1 (art. R334-17 à R334-21)](#298)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. R334-17 à R334-18)](#299)
-            - [Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité. (art. R334-19 à R334-20)](#300)
-            - [Paragraphe 3 : Le fonds de garantie. (art. R334-21)](#301)
-          - [Section V : Vérification de solvabilité globale. (art. R334-22 à R334-24)](#302)
-          - [Section VI : Dispositions transitoires relatives à la marge de solvabilité. (art. R334-30 à R334-38)](#303)
-          - [Section VII : Dispositions particulières aux territoires d'outre-mer. (art. R334-39)](#304)
-      - [Titre IV : Dispositions comptables et statistiques (art. R341-1 à R345-7)](#305)
-        - [Chapitre Ier : Principes généraux. (art. R341-1 à R341-8)](#306)
-        - [Chapitre IV : Catégories d'assurances et états à produire. (art. R344-1 à R344-3)](#307)
-        - [Chapitre V : Comptes consolidés. (art. R345-1 à R345-7)](#308)
-          - [Section I : Méthode de consolidation et méthode d'élaboration des comptes combinés (art. R345-4)](#309)
-          - [Section II : Présentation des comptes consolidés ou combinés (art. R345-7)](#310)
-      - [Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes (art. R351-1 à R353-6)](#311)
-        - [Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages. (art. R351-1 à R351-6)](#312)
-          - [Section I : Dispositions générales. (art. R351-1 à R351-4)](#313)
-          - [Section II : Conditions d'exercice. (art. R351-6)](#314)
-        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. R353-1 à R353-6)](#315)
-          - [Section I : Dispositions générales. (art. R353-1 à R353-3)](#316)
-          - [Section II : Conditions d'exercice. (art. R353-5 à R353-6)](#317)
-      - [Titre V : Régime prudentiel applicable aux entreprises relevant du régime dit “ Solvabilité II ” (art. R351-5-1)](#318)
-        - [Chapitre Ier : Valorisation du bilan prudentiel (art. R351-5-1)](#319)
-          - [Section II : Provisions techniques prudentielles (art. R351-5-1)](#320)
-            - [Sous-section 1 : Dispositions générales sur la valorisation des provisions techniques prudentielles (art. R351-5-1)](#321)
-      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. R362-1 à R362-2)](#322)
-        - [Chapitre II : Conditions d'exercice. (art. R362-1 à R362-2)](#323)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R*411-4 à R442-11)](#324)
-      - [Titre Ier : Organisations générales d'assurance. (art. R*411-4 à R*412-2)](#325)
-        - [Chapitre I : Le conseil national des assurances (art. R*411-4 à R411-3)](#326)
-        - [Chapitre II : L'école nationale d'assurances. (art. R*412-1 à R*412-2)](#327)
-      - [Titre II : Le fonds de garantie (art. R421-1 à R423-18)](#328)
-        - [Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse (art. R421-1 à R421-70)](#329)
-          - [Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. R421-1 à R421-20)](#330)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. R421-1)](#331)
-            - [Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne. (art. R421-2 à R421-17)](#332)
-            - [Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages aux biens. (art. R421-18 à R421-20)](#333)
-          - [Section II : Dispositions applicables aux accidents de chasse. (art. R421-21 à R421-24)](#334)
-          - [Section III : Organisation, fonctionnement et contrôle du fonds de garantie. (art. R421-25 à R421-26)](#335)
-          - [Section IV : Régime financier du fonds de garantie (art. R421-27 à R421-47)](#336)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents d'automobile. (art. R421-27 à R421-37)](#337)
-            - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. R421-38 à R421-43)](#338)
-            - [Paragraphe 3 : Dispositions communes aux accidents de la circulation et de chasse. (art. R421-44 à R421-47)](#339)
-          - [Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile. (art. R*421-50 à R421-54)](#340)
-          - [Section VI : Dispositions particulières aux départements d'outre-mer. (art. R421-57)](#341)
-          - [Section VII : Dispositions particulières aux territoires d'outre-mer et à la collectivité territoriale de Mayotte. (art. R421-58 à R421-63-1)](#342)
-          - [Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger. (art. R421-64 à R421-70)](#343)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-2 à R422-9)](#344)
-        - [Chapitre III : Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes. (art. R423-1 à R423-18)](#345)
-      - [Titre II : Les fonds de garantie (art. R422-1)](#346)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-1)](#347)
-      - [Titre III : Organismes particuliers d'assurance (art. R*431-6 à R431-59)](#348)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. R*431-6 à R431-59)](#349)
-          - [Section I : Dispositions générales. (art. R*431-6 à R*431-6-2)](#350)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat (art. R431-16-1 à R431-31)](#351)
-            - [Paragraphe 1 : Dispositions communes. (art. R431-16-1 à R431-16-4)](#352)
-            - [Paragraphe 2 : Risques exceptionnels et nucléaires. (art. R431-27 à R431-29)](#353)
-            - [Paragraphe 3 : Risques de catastrophes naturelles. (art. R431-30 à R431-31)](#354)
-          - [Section III : Opérations de gestion (art. R431-33 à R431-59)](#355)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. R431-33 à R431-38)](#356)
-            - [Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction. (art. R*431-55 à R431-59)](#357)
-      - [Titre IV : Régimes particuliers d'assurance (art. R*441-2 à R442-11)](#358)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. R*441-2 à R*441-30)](#359)
-          - [Section I : Dispositions générales. (art. R*441-2 à R441-1)](#360)
-          - [Section II : Règles techniques et comptables. (art. R*441-8 à R441-21)](#361)
-          - [Section III : Conversion de la convention. (art. R441-25 à R441-28)](#362)
-          - [Section IV : Dispositions transitoires. (art. R*441-30)](#363)
-        - [Chapitre II : Autres régimes particuliers d'assurance (art. R442-1 à R442-11)](#364)
-          - [Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux (art. R442-1 à R442-11)](#365)
-            - [Paragraphe 1 : Dispositions générales. (art. R442-1 à R442-7-2)](#366)
-            - [Paragraphe 2 : Opérations d'exportation. (art. R442-8-1 à R442-8-6)](#367)
-            - [Paragraphe 3 : Opérations d'investissement. (art. R442-9-1 à R442-9-3)](#368)
-            - [Paragraphe 4 : Opérations d'importation. (art. R442-10-1 à R442-10-5)](#369)
-            - [Paragraphe 5 : Dispositions communes. (art. R442-11)](#370)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. R*511-1 à R530-12)](#371)
-      - [Titre I : Présentation des opérations (art. R*511-1 à R*516-1)](#372)
-        - [Chapitre I : Principes généraux. (art. R*511-1 à R511-6)](#373)
-        - [Chapitre II : Dérogations aux principes généraux (art. R*512-1 à R512-5)](#374)
-          - [Section I : Dérogations permanentes. (art. R*512-1 à R512-5)](#375)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. R*513-6 à R513-4)](#376)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. R514-1 à R*514-17)](#377)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R514-1 à R514-3)](#378)
-          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-6 à R514-5)](#379)
-          - [Section III : Modalités de contrôle spéciales aux conditions d'honorabilité. (art. R*514-8 à R*514-13)](#380)
-          - [Section IV : Dispositions diverses et pénalités. (art. R*514-14 à R*514-17)](#381)
-        - [Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France (art. R515-1 à R*515-9)](#382)
-          - [Section I : Conditions de capacité professionnelle. (art. R515-1 à R515-5)](#383)
-          - [Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité. (art. R*515-6 à R*515-7)](#384)
-          - [Section III : Dispositions relatives à la libre prestation de services. (art. R*515-9)](#385)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. R*516-1)](#386)
-      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. R530-1 à R530-12)](#387)
-        - [Chapitre unique. (art. R530-1 à R530-12)](#388)
-  - [Partie réglementaire - Arrêtés (art. A113-1 à A516-2)](#389)
-    - [Livre Ier : Le contrat (art. A113-1 à A160-4)](#390)
-      - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#391)
-        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#392)
-      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-3)](#393)
-        - [Chapitre Ier : Dispositions générales. (art. A121-1 à A121-2)](#394)
-        - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-3)](#395)
-      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A131-2 à A132-12)](#396)
-        - [Chapitre Ier : Dispositions générales. (art. A131-2 à A131-3)](#397)
-          - [Section I : Valeur de référence au contrat. (art. A131-2 à A131-4)](#398)
-          - [Section I : Valeur de référence du contrat. (art. A131-1 à A131-3)](#399)
-        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. A132-1 à A132-12)](#400)
-          - [Section III : Participation aux bénéfices techniques et financiers. (art. A132-1 à A132-12)](#401)
-      - [Titre IV : Les assurances de groupe (art. A140-1)](#402)
-        - [Chapitre unique. (art. A140-1)](#403)
-      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. A160-1 à A160-4)](#404)
-        - [Chapitre unique (art. A160-1 à A160-4)](#405)
-          - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. A160-1 à Annexe à l'article A160-1)](#406)
-          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-3)](#407)
-          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-2 à A160-4)](#408)
-    - [Livre II : Assurances obligatoires (art. A211-1 à A250-2)](#409)
-      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. A211-1 à Annexe art. A211-11)](#410)
-        - [Chapitre Ier : L'obligation de s'assurer (art. A211-1 à Annexe art. A211-11)](#411)
-          - [Section I : Personnes assujetties. (art. A211-1)](#412)
-          - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-1 à A211-1-2)](#413)
-          - [Section III : Franchises, exclusions de garantie et déchéances. (art. A211-3)](#414)
-          - [Section IV : Contrôle de l'obligation d'assurance (art. A211-4 à A211-10)](#415)
-            - [Paragraphe 1 : L'attestation d'assurance. (art. A211-4 à A211-8)](#416)
-            - [Paragraphe 2 : Le certificat d'assurance. (art. A211-9 à A211-10)](#417)
-          - [Section VI : Procédures d'indemnisation. (art. A211-11 à Annexe art. A211-11)](#418)
-      - [Titre II : L'assurance des engins de remontée mécanique (art. A220-3 à Annexe art. A220-3)](#419)
-        - [Chapitre unique. (art. A220-3 à Annexe art. A220-3)](#420)
-      - [Titre III : L'assurance de la responsabilité civile des chasseurs (art. A230-5 à Annexe art A230-7)](#421)
-        - [Chapitre unique. (art. A230-5 à Annexe art A230-7)](#422)
-      - [Titre IV : L'assurance des travaux de bâtiment (art. A243-1 à Annexe II art A243-1)](#423)
-      - [Titre V : Dispositions relatives au bureau central de tarification. (art. A250-1 à A250-2)](#424)
-    - [Livre III : Les entreprises. (art. A310-3 à A362-2)](#425)
-      - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. A310-3 à A310-7)](#426)
-        - [Chapitre unique (art. A310-3 à A310-5)](#427)
-          - [Section II : Commission de contrôle des assurances. (art. A310-3 à A310-4)](#428)
-          - [Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants. (art. A310-5)](#429)
-        - [Chapitre unique (art. A310-1 à A310-7)](#430)
-          - [Section I : Dispositions générales. (art. A310-1 à A310-2)](#431)
-          - [Section I : Dispositions générales (art. A310-2-1)](#432)
-          - [Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants. (art. A310-6 à A310-7)](#433)
-      - [Titre II : Régime administratif (art. A321-1 à A322-7)](#434)
-        - [Chapitre Ier : Les agréments. (art. A321-1 à A321-9)](#435)
-          - [Section I : Agrément administratif des entreprises françaises. (art. A321-1 à Annexe art. A321-2)](#436)
-          - [Section I : Agrément administratif des entreprises françaises. (art. A321-2)](#437)
-          - [Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen. (art. A321-7)](#438)
-          - [Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen. (art. A321-8 à A321-9)](#439)
-        - [Chapitre II : Règles de constitution et de fonctionnement (art. A322-1 à A322-7)](#440)
-          - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. A322-1 à A322-3)](#441)
-          - [Section IV : Sociétés d'assurance à forme mutuelle. (art. A322-6 à A322-7)](#442)
-            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. A322-6 à A322-7)](#443)
-      - [Titre III : Régime financier. (art. A331-1 à A335-19)](#444)
-        - [Chapitre Ier : Les engagements réglementés. (art. A331-1 à Annexe 1.3 art. A331-22)](#445)
-          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1 à A331-9)](#446)
-          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1-1 à A331-9-1)](#447)
-          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-10 à A331-22)](#448)
-            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-10)](#449)
-            - [Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours. (art. A331-17)](#450)
-            - [Paragraphe 3 : Provision pour sinistres restant à payer (art. A331-22)](#451)
-          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-12 à Annexe 1.3 art. A331-22)](#452)
-            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-12)](#453)
-            - [Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours. (art. A331-16 à A331-20)](#454)
-            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-21 à Annexe 1.3 art. A331-22)](#455)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-1 à A332-7)](#456)
-          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. A332-1)](#457)
-          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#458)
-          - [Section III : Estimation des éléments d'actif. (art. A332-7)](#459)
-        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#460)
-        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-3)](#461)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#462)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#463)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#464)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#465)
-        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#466)
-          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#467)
-            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#468)
-          - [Section I : Tarifs (art. A335-1)](#469)
-            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1)](#470)
-          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#471)
-            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#472)
-      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe A344-10 ETAT C31)](#473)
-        - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#474)
-        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-8)](#475)
-          - [Section I : Dispositions générales. (art. A342-1)](#476)
-          - [Section II : Documents et registres comptables. (art. A342-2 à A342-4)](#477)
-          - [Section II : Documents et registres comptables. (art. A342-3)](#478)
-          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-5 à A342-7)](#479)
-          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance. (art. A342-9)](#480)
-          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance. (art. A342-8)](#481)
-        - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation. (art. A343-1 à Annexe art A343-1 (al 3))](#482)
-        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#483)
-          - [Section I : Dispositions générales. (art. A344-1)](#484)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#485)
-          - [Section III : Etats à produire. (art. A344-3 à A344-14)](#486)
-          - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#487)
-            - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#488)
-      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#489)
-        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#490)
-          - [Section II : Conditions d'exercice (art. A353-1)](#491)
-      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. A362-1 à A362-2)](#492)
-        - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#493)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#494)
-      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#495)
-        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#496)
-          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#497)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#498)
-          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#499)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#500)
-          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#501)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#502)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#503)
-      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#504)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#505)
-          - [Section I : Dispositions générales. (art. A431-1)](#506)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#507)
-            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#508)
-          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#509)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#510)
-            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#511)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#512)
-          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#513)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#514)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#515)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#516)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#517)
-          - [Section II : Règles techniques et comptables. (art. A441-2 à A441-6)](#518)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#519)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#520)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#521)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#522)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#523)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#524)
+        - [Chapitre III : Mesures de sauvegarde et d'assainissement (art. L323-1-2)](#97)
+          - [Section I : Règles générales. (art. L323-1-2)](#98)
+        - [Chapitre IV : Transfert de portefeuille (art. L324-1 à L324-7)](#99)
+          - [Section I : Règles générales. (art. L324-1 à L324-4)](#100)
+          - [Section II : Transfert d'office (art. L324-5)](#101)
+          - [Section III : Règles relatives à l'affectation comptable des actifs transférés avec un portefeuille de contrats. (art. L324-7)](#102)
+        - [Chapitre V : Retrait de l'agrément administratif (art. L325-1 à L325-1-1)](#103)
+          - [Section I : Règles générales. (art. L325-1 à L325-1-1)](#104)
+        - [Chapitre VI : Liquidation. (art. L326-1 à L326-19)](#105)
+          - [Section I : Règles générales. (art. L326-1 à L326-15)](#106)
+          - [Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur. (art. L326-17 à L326-19)](#107)
+        - [Chapitre VII : Privilèges. (art. L327-1 à L327-6)](#108)
+        - [Chapitre VIII : Sanctions. (art. L328-1 à L328-16)](#109)
+      - [Titre III : Régime financier (art. L331-1 à L334-1)](#110)
+        - [Chapitre Ier : Les engagements réglementés. (art. L331-1 à L331-4)](#111)
+          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. L331-1 à L331-4)](#112)
+        - [Chapitre IV : Solvabilité des entreprises. (art. L334-1)](#113)
+      - [Titre IV : Dispositions comptables et statistiques (art. L341-1 à L345-2)](#114)
+        - [Chapitre Ier : Principes généraux. (art. L341-1)](#115)
+        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation. (art. L342-1)](#116)
+        - [Chapitre IV : Catégories d'assurance et états à produire. (art. L344-1)](#117)
+        - [Chapitre V : Comptes consolidés. (art. L345-1 à L345-2)](#118)
+      - [Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes (art. L351-1 à L354-2)](#119)
+        - [Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages. (art. L351-1 à L351-10)](#120)
+          - [Section I : Dispositions générales. (art. L351-1 à L351-2)](#121)
+          - [Section II : Conditions d'exercice. (art. L351-4 à L351-6-1)](#122)
+          - [Section III : Sanctions administratives. (art. L351-7 à L351-10)](#123)
+        - [Chapitre II : Dispositions relatives à la coassurance. (art. L352-1)](#124)
+        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. L353-2 à L353-7)](#125)
+          - [Section I : Dispositions générales. (art. L353-2)](#126)
+          - [Section II : Conditions d'exercice. (art. L353-4 à L353-6)](#127)
+          - [Section III : Sanctions administratives. (art. L353-7)](#128)
+        - [Chapitre IV : Transferts de portefeuille. (art. L354-1 à L354-2)](#129)
+      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. L361-1 à L364-1)](#130)
+        - [Chapitre Ier : Définitions. (art. L361-1)](#131)
+        - [Chapitre II : Conditions d'exercice. (art. L362-1 à L362-4)](#132)
+        - [Chapitre III : Contrôle et sanctions. (art. L363-1 à L363-4)](#133)
+        - [Chapitre IV : Transferts de portefeuille. (art. L364-1)](#134)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. L411-1 à L442-6)](#135)
+      - [Titre Ier : Organisations générales d'assurance. (art. L411-1 à L412-1)](#136)
+        - [Chapitre I : Le conseil national des assurances (art. L411-1 à L411-6)](#137)
+          - [Section I : Organisation et attributions. (art. L411-1 à L411-6)](#138)
+        - [Chapitre II : L'école nationale d'assurances. (art. L412-1)](#139)
+      - [Titre II : Le fonds de garantie (art. L421-1 à L423-8)](#140)
+        - [Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse (art. L421-1 à L421-15)](#141)
+          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine et dans les départements d'outre-mer. (art. L421-1 à L421-7)](#142)
+          - [Section II : Dispositions spéciales aux accidents de chasse survenus en France métropolitaine. (art. L421-8)](#143)
+          - [Section V : Régime financier du fonds de garantie. (art. L421-8-1)](#144)
+          - [Section VI : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile. (art. L421-9)](#145)
+          - [Section IX : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger. (art. L421-11 à L421-15)](#146)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. L422-1 à L422-5)](#147)
+        - [Chapitre III : Le fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes. (art. L423-1 à L423-8)](#148)
+      - [Titre III : Organismes particuliers d'assurance (art. L431-4 à L432-4)](#149)
+        - [Chapitre Ier : La caisse centrale de réassurance (art. L431-4 à L431-14)](#150)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat (art. L431-4 à L431-10)](#151)
+            - [Paragraphe 2 : Risques exceptionnels et nucléaires. (art. L431-4 à L431-7)](#152)
+            - [Paragraphe 3 : Risques de catastrophes naturelles. (art. L431-9)](#153)
+            - [Paragraphe 4 : Risques d'attentats. (art. L431-10)](#154)
+          - [Section III : Opérations de gestion (art. L431-11 à L431-14)](#155)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. L431-11)](#156)
+            - [Paragraphe 2 : Fonds de garantie des calamités agricoles dans les départements d'outre-mer. (art. L431-12)](#157)
+            - [Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction. (art. L431-14)](#158)
+        - [Chapitre II : La Compagnie française d'assurance pour le commerce extérieur "COFACE" (art. L432-1 à L432-4)](#159)
+          - [Section I : Dispositions générales. (art. L432-1 à L432-4)](#160)
+      - [Titre IV : Régimes particuliers d'assurance (art. L441-1 à L442-6)](#161)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. L441-1 à L441-10)](#162)
+          - [Section I : Dispositions générales. (art. L441-1 à L441-7)](#163)
+          - [Section II : Règles techniques et comptables. (art. L441-8)](#164)
+          - [Section IV : Dispositions transitoires. (art. L441-10)](#165)
+        - [Chapitre II : Autres régimes particuliers d'assurance (art. L442-1 à L442-6)](#166)
+          - [Section I : Régime d'indemnisation des calamités agricoles. (art. L442-1 à L442-2)](#167)
+          - [Section II : Régime obligatoire d'assurance maladie, invalidité et maternité des exploitants agricoles et des membres non salariés de leur famille (AMEXA). (art. L442-3)](#168)
+          - [Section III : Assurance des exploitants agricoles contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles. (art. L442-4 à L442-5)](#169)
+          - [Section IV : Régime obligatoire d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles. (art. L442-6)](#170)
+    - [Livre V : Intermédiaires d'assurance (art. L514)](#171)
+      - [Titre Ier : Intermédiation en assurance. (art. L514)](#172)
+        - [Chapitre IV : Contrôle des conditions d'accès et d'exercice (art. L514)](#173)
+          - [Section IV : Dispositions diverses et pénalités. (art. L514)](#174)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. L511-1 à L530-3)](#175)
+      - [Titre I : Présentation des opérations (art. L511-1 à L514-4)](#176)
+        - [Chapitre I : Principes généraux. (art. L511-1 à L511-3)](#177)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. L514-1 à L514-4)](#178)
+          - [Section IV : Dispositions diverses et pénalités. (art. L514-1 à L514-4)](#179)
+      - [Titre II : Dispositions spéciales aux agents généraux d'assurances (art. L520-1 à L520-2)](#180)
+        - [Chapitre unique. (art. L520-1 à L520-2)](#181)
+      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. L530-1 à L530-3)](#182)
+        - [Chapitre unique. (art. L530-1 à L530-3)](#183)
+  - [Partie réglementaire (art. R111-1 à R530-12)](#184)
+    - [Livre Ier : Le contrat. (art. R111-1 à R172-6)](#185)
+      - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes. (art. R111-1 à R114-1)](#186)
+        - [Chapitre Ier : Dispositions générales. (art. R111-1 à R111-2)](#187)
+        - [Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices. (art. R112-1 à R112-3)](#188)
+        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. R*113-4 à R113-6)](#189)
+        - [Chapitre IV : Compétence et prescription. (art. R114-1)](#190)
+      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. R*124-1 à R127-1)](#191)
+        - [Chapitre IV : Les assurances de responsabilité. (art. R*124-1)](#192)
+        - [Chapitre VI : L'assurance contre les actes de terrorisme (art. R126-1 à R126-2)](#193)
+          - [Section II : Dommages matériels (art. R126-1 à R126-2)](#194)
+        - [Chapitre VII : L'assurance de protection juridique. (art. R127-1)](#195)
+      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. R131-1 à R132-4)](#196)
+        - [Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte. (art. R131-1 à R131-4)](#197)
+        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. R132-2 à R132-4)](#198)
+          - [Section I : Dispositions générales. (art. R132-2 à R132-4)](#199)
+      - [Titre V : Le contrat de capitalisation. (art. R*150-4 à R150-16)](#200)
+        - [Chapitre unique (art. R*150-4 à R150-16)](#201)
+          - [Section III : Tirages au sort. (art. R*150-4 à R150-16)](#202)
+      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. R*160-4 à R*160-11)](#203)
+        - [Chapitre unique (art. R*160-4 à R*160-11)](#204)
+          - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. R*160-4 à R*160-6)](#205)
+          - [Section V : Effet sur les contrats d'assurance de la réquisition des biens et services. (art. R*160-9 à R*160-11)](#206)
+      - [Titre VII : Le contrat d'assurance maritime (art. R171-1 à R172-6)](#207)
+        - [Chapitre Ier : Dispositions générales. (art. R171-1 à R171-2)](#208)
+        - [Chapitre II : Règles communes aux diverses assurances maritimes (art. R172-1 à R172-6)](#209)
+          - [Section I : Conclusion du contrat. (art. R172-1 à R172-3)](#210)
+          - [Section III : Règlement de l'indemnité. (art. R172-4 à R172-6)](#211)
+    - [Livre II : Assurances obligatoires (art. R211-2 à R250-6)](#212)
+      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. R211-2 à R*213-2)](#213)
+        - [Chapitre Ier : L'obligation de s'assurer. (art. R211-2 à R211-45)](#214)
+          - [Section II : Etendue de l'obligation d'assurance. (art. R211-2 à R211-8)](#215)
+          - [Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur. (art. R211-10 à R211-13)](#216)
+          - [Section IV : Contrôle de l'obligation d'assurance. (art. R*211-19 à R211-21-7)](#217)
+            - [Paragraphe 1 : L'attestation d'assurance. (art. R*211-19 à R211-21)](#218)
+            - [Paragraphe 2 : Le certificat d'assurance. (art. R211-21-1 à R211-21-7)](#219)
+          - [Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules. (art. R*211-22 à R211-27)](#220)
+          - [Section VI : Procédures d'indemnisation. (art. R211-29 à R211-44)](#221)
+          - [Section VII : Pénalités. (art. R211-45)](#222)
+        - [Chapitre III : Contribution au profit de la sécurité sociale. (art. R*213-1 à R*213-2)](#223)
+      - [Titre II : L'assurance des engins de remontée mécanique (art. R220-1 à R220-8)](#224)
+        - [Chapitre unique. (art. R220-1 à R220-8)](#225)
+      - [Titre IV : L'assurance des travaux de bâtiment. (art. R243-2)](#226)
+      - [Titre V : Dispositions relatives au Bureau central de tarification. (art. R250-1 à R250-6)](#227)
+    - [Livre III : Les entreprises (art. R*310-5 à R362-2)](#228)
+      - [Titre Ier : Dispositions générales et contrôle de l'Etat (art. R*310-5 à R310-22)](#229)
+        - [Chapitre unique (art. R*310-5 à R310-22)](#230)
+          - [Section I : Dispositions générales. (art. R*310-5 à R310-10-1)](#231)
+          - [Section II : Commission de contrôle des assurances. (art. R*310-21 à R310-20)](#232)
+          - [Section IV : Sanctions. (art. R310-22)](#233)
+      - [Titre II : Régime administratif (art. R*321-1 à R328-2)](#234)
+        - [Chapitre Ier : Les agréments (art. R*321-1 à R321-23)](#235)
+          - [Section I : Agrément administratif des entreprises françaises. (art. R*321-1 à R321-5)](#236)
+          - [Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen. (art. R321-6 à R321-9)](#237)
+          - [Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen. (art. R321-10 à R321-12)](#238)
+          - [Section IV : Conditions des agréments. (art. R*321-17 à R321-23)](#239)
+        - [Chapitre II : Règles de constitution et de fonctionnement (art. R*322-2 à R322-159)](#240)
+          - [Section I : Dispositions communes. (art. R*322-2 à R322-1-2)](#241)
+          - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. R*322-5 à R322-11-1)](#242)
+          - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. R322-20 à R322-26)](#243)
+            - [Paragraphe 2 : Administration. (art. R322-20 à R322-26)](#244)
+          - [Section IV : Sociétés d'assurance mutuelles (art. R*322-44 à R332-105)](#245)
+            - [Paragraphe 1 : Constitution. (art. R*322-44 à R322-52)](#246)
+            - [Paragraphe 2 : Administration. (art. R*322-53 à R322-66)](#247)
+            - [Sous-section 2 : Direction et administration (art. Annexe I art. R*322-58)](#248)
+              - [Paragraphe 4 : L'assemblée générale des sociétés d'assurance mutuelles (art. Annexe I art. R*322-58)](#249)
+            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. R322-71 à R322-74)](#250)
+            - [Paragraphe 3 bis : Emprunts. (art. R322-77 à R322-80-1)](#251)
+            - [Paragraphe 4 : Réassurance. (art. R322-81 à R322-84)](#252)
+            - [Paragraphe 5 : Publicité. (art. R*322-86 à R322-87)](#253)
+            - [Paragraphe 6 : Nullités. (art. R*322-91 à R322-90)](#254)
+            - [Paragraphe 7 : Sociétés mutuelles d'assurance. (art. R*322-99 à R332-105)](#255)
+          - [Section V : Unions de sociétés d'assurance mutuelles. (art. R*322-117-1 à R322-117)](#256)
+          - [Section VI : Sociétés ou caisses d'assurances et de réassurances mutuelles agricoles (art. R*322-121 à R322-138)](#257)
+            - [Paragraphe 1 : Dispositions générales. (art. R*322-121 à R322-124)](#258)
+            - [Paragraphe 2 : Organismes soumis à l'agrément administratif. (art. R*322-126 à R322-131)](#259)
+            - [Paragraphe 3 : Organismes dispensés de l'agrément administratif. (art. R*322-133 à R322-138)](#260)
+          - [Section VII : Tontines. (art. R*322-145 à R322-159)](#261)
+        - [Chapitre III : Procédures de redressement et de sauvegarde (art. R*323-6 à R323-9)](#262)
+          - [Section I : Règles générales. (art. R*323-6 à R323-9)](#263)
+        - [Chapitre IV : Transfert de portefeuille (art. R*324-4 à R*324-5)](#264)
+          - [Section II : Transfert d'office. (art. R*324-4 à R*324-5)](#265)
+        - [Chapitre V : Retrait de l'agrément administratif (art. R*325-9 à R325-14)](#266)
+          - [Section I : Règles générales. (art. R*325-9 à R325-14)](#267)
+        - [Chapitre VI : Liquidation (art. R*326-2 à R326-1)](#268)
+          - [Section I : Règles générales. (art. R*326-2 à R326-1)](#269)
+        - [Chapitre VII : Privilèges. (art. R*327-1)](#270)
+        - [Chapitre VIII : Sanctions. (art. R328-1 à R328-2)](#271)
+      - [Titre III : Régime financier. (art. R331-1 à R334-39)](#272)
+        - [Chapitre Ier : Les engagements réglementés. (art. R331-1 à R331-35)](#273)
+          - [Section I : Dispositions générales. (art. R331-1 à R331-2)](#274)
+          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. R331-3 à R331-5-2)](#275)
+          - [Section III : Provisions techniques des autres opérations d'assurance. (art. R331-6 à R331-35)](#276)
+            - [Paragraphe 1 : Provision mathématique des rentes (art. R331-7)](#277)
+            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. R331-15 à R331-26)](#278)
+            - [Paragraphe 5 : Dispositions supplémentaires concernant la coassurance communautaire. (art. R331-31)](#279)
+            - [Paragraphe 7 : Dispositions particulières relatives à l'assurance-crédit. (art. R331-33 à R331-35)](#280)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. R332-1 à R*332-45)](#281)
+          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. R332-1 à R332-13)](#282)
+          - [Section II : Réglementations particulières concernant certains éléments d'actif. (art. R332-14 à R332-18)](#283)
+          - [Section III : Estimation des éléments d'actif. (art. R332-19 à R332-30)](#284)
+          - [Section IV : Commissions et frais d'acquisition à amortir. (art. R332-33 à R332-35)](#285)
+          - [Section V : Règles particulières à certaines entreprises étrangères. (art. R332-37 à R332-44)](#286)
+          - [Section VI : Dispositions particulières aux territoires d'outre-mer. (art. R*332-45)](#287)
+        - [Chapitre III : Revenu des placements. (art. R*333-3 à R333-2)](#288)
+        - [Chapitre IV : Solvabilité des entreprises (art. R*334-2 à R334-39)](#289)
+          - [Section I : La marge de solvabilité (art. R*334-2 à R334-1)](#290)
+            - [Dispositions communes. (art. R*334-2 à R334-1)](#291)
+          - [Section II : La marge de solvabilité des entreprises d'assurance de dommages (art. R334-3 à R334-10)](#292)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. R334-3 à R334-4)](#293)
+            - [Paragraphe 2 : Montant réglementaire de la marge de solvabilité. (art. R334-5 à R334-6)](#294)
+            - [Paragraphe 3 : Le fonds de garantie. (art. R334-7 à R334-10)](#295)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. R334-11 à R334-16)](#296)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. R334-11 à R334-12)](#297)
+            - [Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité. (art. R334-13 à R334-14)](#298)
+            - [Paragraphe 3 : Le fonds de garantie. (art. R334-15 à R334-16)](#299)
+          - [Section IV : La marge de solvabilité des entreprises mixtes définies à l'article L. 341-1 (art. R334-17 à R334-21)](#300)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. R334-17 à R334-18)](#301)
+            - [Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité. (art. R334-19 à R334-20)](#302)
+            - [Paragraphe 3 : Le fonds de garantie. (art. R334-21)](#303)
+          - [Section V : Vérification de solvabilité globale. (art. R334-22 à R334-24)](#304)
+          - [Section VI : Dispositions transitoires relatives à la marge de solvabilité. (art. R334-30 à R334-38)](#305)
+          - [Section VII : Dispositions particulières aux territoires d'outre-mer. (art. R334-39)](#306)
+      - [Titre IV : Dispositions comptables et statistiques (art. R341-1 à R345-7)](#307)
+        - [Chapitre Ier : Principes généraux. (art. R341-1 à R341-8)](#308)
+        - [Chapitre IV : Catégories d'assurances et états à produire. (art. R344-1 à R344-3)](#309)
+        - [Chapitre V : Comptes consolidés. (art. R345-1 à R345-7)](#310)
+          - [Section I : Méthode de consolidation et méthode d'élaboration des comptes combinés (art. R345-4)](#311)
+          - [Section II : Présentation des comptes consolidés ou combinés (art. R345-7)](#312)
+      - [Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes (art. R351-1 à R353-6)](#313)
+        - [Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages. (art. R351-1 à R351-6)](#314)
+          - [Section I : Dispositions générales. (art. R351-1 à R351-4)](#315)
+          - [Section II : Conditions d'exercice. (art. R351-6)](#316)
+        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. R353-1 à R353-6)](#317)
+          - [Section I : Dispositions générales. (art. R353-1 à R353-3)](#318)
+          - [Section II : Conditions d'exercice. (art. R353-5 à R353-6)](#319)
+      - [Titre V : Régime prudentiel applicable aux entreprises relevant du régime dit “ Solvabilité II ” (art. R351-5-1)](#320)
+        - [Chapitre Ier : Valorisation du bilan prudentiel (art. R351-5-1)](#321)
+          - [Section II : Provisions techniques prudentielles (art. R351-5-1)](#322)
+            - [Sous-section 1 : Dispositions générales sur la valorisation des provisions techniques prudentielles (art. R351-5-1)](#323)
+      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. R362-1 à R362-2)](#324)
+        - [Chapitre II : Conditions d'exercice. (art. R362-1 à R362-2)](#325)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R*411-4 à R442-11)](#326)
+      - [Titre Ier : Organisations générales d'assurance. (art. R*411-4 à R*412-2)](#327)
+        - [Chapitre I : Le conseil national des assurances (art. R*411-4 à R411-3)](#328)
+        - [Chapitre II : L'école nationale d'assurances. (art. R*412-1 à R*412-2)](#329)
+      - [Titre II : Le fonds de garantie (art. R421-1 à R423-18)](#330)
+        - [Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse (art. R421-1 à R421-70)](#331)
+          - [Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. R421-1 à R421-20)](#332)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. R421-1)](#333)
+            - [Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne. (art. R421-2 à R421-17)](#334)
+            - [Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages aux biens. (art. R421-18 à R421-20)](#335)
+          - [Section II : Dispositions applicables aux accidents de chasse. (art. R421-21 à R421-24)](#336)
+          - [Section III : Organisation, fonctionnement et contrôle du fonds de garantie. (art. R421-25 à R421-26)](#337)
+          - [Section IV : Régime financier du fonds de garantie (art. R421-27 à R421-47)](#338)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents d'automobile. (art. R421-27 à R421-37)](#339)
+            - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. R421-38 à R421-43)](#340)
+            - [Paragraphe 3 : Dispositions communes aux accidents de la circulation et de chasse. (art. R421-44 à R421-47)](#341)
+          - [Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile. (art. R*421-50 à R421-54)](#342)
+          - [Section VI : Dispositions particulières aux départements d'outre-mer. (art. R421-57)](#343)
+          - [Section VII : Dispositions particulières aux territoires d'outre-mer et à la collectivité territoriale de Mayotte. (art. R421-58 à R421-63-1)](#344)
+          - [Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger. (art. R421-64 à R421-70)](#345)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-2 à R422-9)](#346)
+        - [Chapitre III : Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes. (art. R423-1 à R423-18)](#347)
+      - [Titre II : Les fonds de garantie (art. R422-1)](#348)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-1)](#349)
+      - [Titre III : Organismes particuliers d'assurance (art. R*431-6 à R431-59)](#350)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. R*431-6 à R431-59)](#351)
+          - [Section I : Dispositions générales. (art. R*431-6 à R*431-6-2)](#352)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat (art. R431-16-1 à R431-31)](#353)
+            - [Paragraphe 1 : Dispositions communes. (art. R431-16-1 à R431-16-4)](#354)
+            - [Paragraphe 2 : Risques exceptionnels et nucléaires. (art. R431-27 à R431-29)](#355)
+            - [Paragraphe 3 : Risques de catastrophes naturelles. (art. R431-30 à R431-31)](#356)
+          - [Section III : Opérations de gestion (art. R431-33 à R431-59)](#357)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. R431-33 à R431-38)](#358)
+            - [Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction. (art. R*431-55 à R431-59)](#359)
+      - [Titre IV : Régimes particuliers d'assurance (art. R*441-2 à R442-11)](#360)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. R*441-2 à R*441-30)](#361)
+          - [Section I : Dispositions générales. (art. R*441-2 à R441-1)](#362)
+          - [Section II : Règles techniques et comptables. (art. R*441-8 à R441-21)](#363)
+          - [Section III : Conversion de la convention. (art. R441-25 à R441-28)](#364)
+          - [Section IV : Dispositions transitoires. (art. R*441-30)](#365)
+        - [Chapitre II : Autres régimes particuliers d'assurance (art. R442-1 à R442-11)](#366)
+          - [Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux (art. R442-1 à R442-11)](#367)
+            - [Paragraphe 1 : Dispositions générales. (art. R442-1 à R442-7-2)](#368)
+            - [Paragraphe 2 : Opérations d'exportation. (art. R442-8-1 à R442-8-6)](#369)
+            - [Paragraphe 3 : Opérations d'investissement. (art. R442-9-1 à R442-9-3)](#370)
+            - [Paragraphe 4 : Opérations d'importation. (art. R442-10-1 à R442-10-5)](#371)
+            - [Paragraphe 5 : Dispositions communes. (art. R442-11)](#372)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. R*511-1 à R530-12)](#373)
+      - [Titre I : Présentation des opérations (art. R*511-1 à R*516-1)](#374)
+        - [Chapitre I : Principes généraux. (art. R*511-1 à R511-6)](#375)
+        - [Chapitre II : Dérogations aux principes généraux (art. R*512-1 à R512-5)](#376)
+          - [Section I : Dérogations permanentes. (art. R*512-1 à R512-5)](#377)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. R*513-6 à R513-4)](#378)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. R514-1 à R*514-17)](#379)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R514-1 à R514-3)](#380)
+          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-6 à R514-5)](#381)
+          - [Section III : Modalités de contrôle spéciales aux conditions d'honorabilité. (art. R*514-8 à R*514-13)](#382)
+          - [Section IV : Dispositions diverses et pénalités. (art. R*514-14 à R*514-17)](#383)
+        - [Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France (art. R515-1 à R*515-9)](#384)
+          - [Section I : Conditions de capacité professionnelle. (art. R515-1 à R515-5)](#385)
+          - [Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité. (art. R*515-6 à R*515-7)](#386)
+          - [Section III : Dispositions relatives à la libre prestation de services. (art. R*515-9)](#387)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. R*516-1)](#388)
+      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. R530-1 à R530-12)](#389)
+        - [Chapitre unique. (art. R530-1 à R530-12)](#390)
+  - [Partie réglementaire - Arrêtés (art. A113-1 à A516-2)](#391)
+    - [Livre Ier : Le contrat (art. A113-1 à A160-4)](#392)
+      - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#393)
+        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#394)
+      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-3)](#395)
+        - [Chapitre Ier : Dispositions générales. (art. A121-1 à A121-2)](#396)
+        - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-3)](#397)
+      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A131-2 à A132-12)](#398)
+        - [Chapitre Ier : Dispositions générales. (art. A131-2 à A131-3)](#399)
+          - [Section I : Valeur de référence au contrat. (art. A131-2 à A131-4)](#400)
+          - [Section I : Valeur de référence du contrat. (art. A131-1 à A131-3)](#401)
+        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. A132-1 à A132-12)](#402)
+          - [Section III : Participation aux bénéfices techniques et financiers. (art. A132-1 à A132-12)](#403)
+      - [Titre IV : Les assurances de groupe (art. A140-1)](#404)
+        - [Chapitre unique. (art. A140-1)](#405)
+      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. A160-1 à A160-4)](#406)
+        - [Chapitre unique (art. A160-1 à A160-4)](#407)
+          - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. A160-1 à Annexe à l'article A160-1)](#408)
+          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-3)](#409)
+          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-2 à A160-4)](#410)
+    - [Livre II : Assurances obligatoires (art. A211-1 à A250-2)](#411)
+      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. A211-1 à Annexe art. A211-11)](#412)
+        - [Chapitre Ier : L'obligation de s'assurer (art. A211-1 à Annexe art. A211-11)](#413)
+          - [Section I : Personnes assujetties. (art. A211-1)](#414)
+          - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-1 à A211-1-2)](#415)
+          - [Section III : Franchises, exclusions de garantie et déchéances. (art. A211-3)](#416)
+          - [Section IV : Contrôle de l'obligation d'assurance (art. A211-4 à A211-10)](#417)
+            - [Paragraphe 1 : L'attestation d'assurance. (art. A211-4 à A211-8)](#418)
+            - [Paragraphe 2 : Le certificat d'assurance. (art. A211-9 à A211-10)](#419)
+          - [Section VI : Procédures d'indemnisation. (art. A211-11 à Annexe art. A211-11)](#420)
+      - [Titre II : L'assurance des engins de remontée mécanique (art. A220-3 à Annexe art. A220-3)](#421)
+        - [Chapitre unique. (art. A220-3 à Annexe art. A220-3)](#422)
+      - [Titre III : L'assurance de la responsabilité civile des chasseurs (art. A230-5 à Annexe art A230-7)](#423)
+        - [Chapitre unique. (art. A230-5 à Annexe art A230-7)](#424)
+      - [Titre IV : L'assurance des travaux de bâtiment (art. A243-1 à Annexe II art A243-1)](#425)
+      - [Titre V : Dispositions relatives au bureau central de tarification. (art. A250-1 à A250-2)](#426)
+    - [Livre III : Les entreprises. (art. A310-3 à A362-2)](#427)
+      - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. A310-3 à A310-7)](#428)
+        - [Chapitre unique (art. A310-3 à A310-5)](#429)
+          - [Section II : Commission de contrôle des assurances. (art. A310-3 à A310-4)](#430)
+          - [Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants. (art. A310-5)](#431)
+        - [Chapitre unique (art. A310-1 à A310-7)](#432)
+          - [Section I : Dispositions générales. (art. A310-1 à A310-2)](#433)
+          - [Section I : Dispositions générales (art. A310-2-1)](#434)
+          - [Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants. (art. A310-6 à A310-7)](#435)
+      - [Titre II : Régime administratif (art. A321-1 à A322-7)](#436)
+        - [Chapitre Ier : Les agréments. (art. A321-1 à A321-9)](#437)
+          - [Section I : Agrément administratif des entreprises françaises. (art. A321-1 à Annexe art. A321-2)](#438)
+          - [Section I : Agrément administratif des entreprises françaises. (art. A321-2)](#439)
+          - [Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen. (art. A321-7)](#440)
+          - [Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen. (art. A321-8 à A321-9)](#441)
+        - [Chapitre II : Règles de constitution et de fonctionnement (art. A322-1 à A322-7)](#442)
+          - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. A322-1 à A322-3)](#443)
+          - [Section IV : Sociétés d'assurance à forme mutuelle. (art. A322-6 à A322-7)](#444)
+            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. A322-6 à A322-7)](#445)
+      - [Titre III : Régime financier. (art. A331-1 à A335-19)](#446)
+        - [Chapitre Ier : Les engagements réglementés. (art. A331-1 à Annexe 1.3 art. A331-22)](#447)
+          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1 à A331-9)](#448)
+          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1-1 à A331-9-1)](#449)
+          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-10 à A331-22)](#450)
+            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-10)](#451)
+            - [Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours. (art. A331-17)](#452)
+            - [Paragraphe 3 : Provision pour sinistres restant à payer (art. A331-22)](#453)
+          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-12 à Annexe 1.3 art. A331-22)](#454)
+            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-12)](#455)
+            - [Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours. (art. A331-16 à A331-20)](#456)
+            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-21 à Annexe 1.3 art. A331-22)](#457)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-1 à A332-7)](#458)
+          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. A332-1)](#459)
+          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#460)
+          - [Section III : Estimation des éléments d'actif. (art. A332-7)](#461)
+        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#462)
+        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-3)](#463)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#464)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#465)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#466)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#467)
+        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#468)
+          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#469)
+            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#470)
+          - [Section I : Tarifs (art. A335-1)](#471)
+            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1)](#472)
+          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#473)
+            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#474)
+      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe A344-10 ETAT C31)](#475)
+        - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#476)
+        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-8)](#477)
+          - [Section I : Dispositions générales. (art. A342-1)](#478)
+          - [Section II : Documents et registres comptables. (art. A342-2 à A342-4)](#479)
+          - [Section II : Documents et registres comptables. (art. A342-3)](#480)
+          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-5 à A342-7)](#481)
+          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance. (art. A342-9)](#482)
+          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance. (art. A342-8)](#483)
+        - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation. (art. A343-1 à Annexe art A343-1 (al 3))](#484)
+        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#485)
+          - [Section I : Dispositions générales. (art. A344-1)](#486)
+          - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#487)
+          - [Section III : Etats à produire. (art. A344-3 à A344-14)](#488)
+          - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#489)
+            - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#490)
+      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#491)
+        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#492)
+          - [Section II : Conditions d'exercice (art. A353-1)](#493)
+      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. A362-1 à A362-2)](#494)
+        - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#495)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#496)
+      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#497)
+        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#498)
+          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#499)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#500)
+          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#501)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#502)
+          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#503)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#504)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#505)
+      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#506)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#507)
+          - [Section I : Dispositions générales. (art. A431-1)](#508)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#509)
+            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#510)
+          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#511)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#512)
+            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#513)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#514)
+          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#515)
+            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#516)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#517)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#518)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#519)
+          - [Section II : Règles techniques et comptables. (art. A441-2 à A441-6)](#520)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#521)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#522)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#523)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#524)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#525)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#526)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -10009,9 +10011,10 @@ _Cite_:
 ###### Article L310-7
 
 Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
-de l'article L. 310-1. Il précise les conditions dans lesquelles sont applicables auxdites entreprises les dispositions de la
-loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois régissant les sociétés anonymes. Des
-dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance mutuelles.
+de l'article L. 310-1 et de l'article L. 310-1-1. Il précise les conditions dans lesquelles sont applicables auxdites
+entreprises les dispositions de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois
+régissant les sociétés anonymes. Des dispositions particulières tiennent compte du caractère non commercial des sociétés
+d'assurance mutuelles.
 
 Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
 qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
@@ -10022,7 +10025,7 @@ fonctionnement et de l'exercice du contrôle de l'Etat.
 _Cite_:
 
   - Loi n°66-537 1966-07-24
-  - Code des assurances - art. L310-1 (M)
+  - Code des assurances L310-1 et L310-1-1
 
 _Codifié par_:
 
@@ -10058,9 +10061,9 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances - art. A335-9 (Ab)
   - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
 
-_Transféré par_:
+_Modifié par_:
 
-  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -10353,6 +10356,10 @@ réglementaires qui leur sont applicables en vertu du présent livre. Un arrêt�
 nature, la périodicité et le contenu des informations et des documents que les entreprises mentionnées au présent alinéa sont
 tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui permettre d'exercer sa mission.
 
+La commission s'assure également que les dispositions du titre VI du livre V du code monétaire et financier sont appliquées
+par les entreprises mentionnées à l'article L. 310-1 ainsi que par les personnes physiques ou morales mentionnées au
+cinquième alinéa et soumises à son contrôle.
+
 Le mandat des membres de la présente commission à la date de publication de la loi n° 97-277 du 25 mars 1997 créant les plans
 d'épargne retraite est prolongé jusqu'au 31 décembre 2000.
 
@@ -10421,7 +10428,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°99-532 du 25 juin 1999 - art. 43 () JORF 29 juin 1999
+  - Loi n°2001-420 du 15 mai 2001 - art. 42 () JORF 16 mai 2001
 
 
 ###### Article L310-12-1
@@ -10581,13 +10588,13 @@ _Anciens textes_:
 ###### Article L310-15
 
 Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci, la commission peut décider d'étendre le
-contrôle sur place d'une entreprise mentionnée à l'article L. 310-1 à toute société dans laquelle cette entreprise détient,
-directement ou indirectement, plus de la moitié du capital social ou des droits de vote, ainsi qu'aux organismes de toute
-nature ayant passé, directement ou indirectement, avec cette entreprise une convention de gestion, de réassurance ou de tout
-autre type susceptible d'altérer son autonomie de fonctionnement ou de décision concernant l'un quelconque de ses domaines
-d'activité. Cette extension du contrôle ne peut avoir d'autre objet que la vérification de la situation financière réelle de
-l'entreprise d'assurance contrôlée ainsi que le respect par cette entreprise des engagements qu'elle a contractés à l'égard
-des assurés ou bénéficiaires de contrats.
+contrôle sur place d'une entreprise mentionnée à l'article L. 310-1 ou à l'article L. 310-1-1, à toute société dans laquelle
+cette entreprise détient, directement ou indirectement, plus de la moitié du capital social ou des droits de vote, ainsi
+qu'aux organismes de toute nature ayant passé, directement ou indirectement, avec cette entreprise une convention de gestion,
+de réassurance ou de tout autre type susceptible d'altérer son autonomie de fonctionnement ou de décision concernant l'un
+quelconque de ses domaines d'activité. Cette extension du contrôle ne peut avoir d'autre objet que la vérification de la
+situation financière réelle de l'entreprise d'assurance contrôlée ainsi que le respect par cette entreprise des engagements
+qu'elle a contractés à l'égard des assurés ou bénéficiaires de contrats.
 
 Si cette entreprise fait l'objet de mesures de redressement et de sauvegarde, le contrôle sur place peut être également
 étendu aux personnes morales qui la contrôlent directement ou indirectement, au sens de l'article 355-1 de la loi n° 66-537
@@ -10604,19 +10611,16 @@ _Cite_:
 
   - Loi n°66-537 1966-07-24 art. 355-1
   - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L310-1-1 (V)
   - Code des assurances - art. L345-1 (M)
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -10705,6 +10709,8 @@ sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
 
 4° La suspension temporaire d'un ou plusieurs dirigeants de l'entreprise ;
 
+4° bis La démission d'office d'un ou plusieurs dirigeants de l'entreprise ;
+
 5° Le retrait total ou partiel d'agrément ;
 
 6° Le transfert d'office de tout ou partie du portefeuille des contrats.
@@ -10741,7 +10747,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-532 1999-06-25 art. 91 2° JORF 29 juin 1999
+  - Loi n°2001-420 du 15 mai 2001 - art. 12 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -10805,11 +10811,11 @@ _Cite_:
 
 ###### Article L310-18-1
 
-Lorsqu'une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1-1 ou une société de participations
-d'assurance enfreint une disposition législative ou réglementaire qui lui est applicable en vertu du présent livre, la
-commission de contrôle des assurances peut, après avoir mis ses dirigeants en mesure de lui présenter leurs observations, lui
-adresser une mise en garde. Elle peut, dans les mêmes conditions, lui adresser une injonction à l'effet de prendre, dans un
-délai déterminé, toutes mesures destinées à se mettre en conformité avec les règles applicables.
+Lorsqu' une société de participations d'assurance enfreint une disposition législative ou réglementaire qui lui est
+applicable en vertu du présent livre, la commission de contrôle des assurances peut, après avoir mis ses dirigeants en mesure
+de lui présenter leurs observations, lui adresser une mise en garde. Elle peut, dans les mêmes conditions, lui adresser une
+injonction à l'effet de prendre, dans un délai déterminé, toutes mesures destinées à se mettre en conformité avec les règles
+applicables.
 
 La commission peut également, lorsque l'entreprise enfreint une disposition législative ou réglementaire qui lui est
 applicable, ou ne défère pas à une injonction, prononcer, dans les conditions définies à l'article L. 310-18, soit un
@@ -10817,9 +10823,8 @@ avertissement, soit un blâme. La commission peut décider la publication de la 
 par le dernier alinéa de l'article L. 310-18.
 
 En outre, la commission peut, dans les conditions définies à l'article L. 310-18, prononcer, soit à la place, soit en sus de
-ces sanctions, une sanction pécuniaire. Le montant de la sanction pécuniaire est calculé conformément aux dispositions de
-l'article L. 310-18. Pour une société de participations d'assurance, le montant maximum de la sanction pécuniaire est défini
-par référence au chiffre d'affaires de celle des entreprises d'assurance incluses par intégration globale dans la
+ces sanctions, une sanction pécuniaire. Le montant maximum de la sanction pécuniaire mentionné à l'article L. 310-18 est
+défini par référence au chiffre d'affaires de celle des entreprises d'assurance incluses par intégration globale dans la
 consolidation dont le total des primes émises au cours du dernier exercice clos est le plus élevé.
 
 **Liens relatifs à cet article**
@@ -10828,9 +10833,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-679 du 8 août 1994 - art. 2 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -10844,8 +10849,62 @@ _Cité par_:
 
 _Cite_:
 
+  - Code des assurances - art. L310-18 (M)
+
+
+###### Article L310-18-2
+
+Lorsqu'une entreprise soumise au contrôle de l'Etat en application de l'article L. 310-1-1 enfreint une disposition
+législative ou réglementaire qui lui est applicable en vertu du présent livre, la commission de contrôle des assurances peut,
+après avoir mis ses dirigeants en mesure de lui présenter ses observations, lui adresser une mise en garde.
+
+Elle peut, dans les mêmes conditions, lui adresser une injonction à l'effet de prendre, dans un délai déterminé, toutes
+mesures destinées à se mettre en conformité avec les règles applicables.
+
+En outre, la commission peut, lorsque l'entreprise n'a pas respecté une disposition législative ou réglementaire dans le
+domaine relevant du contrôle de la commission ou n'a pas déféré à une injonction, prononcer à son encontre ou à celle de ses
+dirigeants l'une ou plusieurs des sanctions disciplinaires suivantes en fonction de la gravité du manquement :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ;
+
+4° La suspension temporaire d'un ou plusieurs dirigeants de l'entreprise ;
+
+5° Le retrait de l'autorisation de pratiquer la réassurance.
+
+La commission peut décider la publication de la sanction prononcée, dans les conditions prévues par le dernier alinéa de
+l'article L. 310-18.
+
+La commission peut également, dans les conditions définies à l'article L. 310-18, prononcer, soit à la place, soit en sus de
+ces sanctions, une sanction pécuniaire. Le montant de la sanction pécuniaire est calculé conformément aux dispositions de
+l'article L. 310-18.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 32 () JORF 2 août 2003
+
+_Cite_:
+
   - Code des assurances - art. L310-1-1 (V)
   - Code des assurances - art. L310-18 (M)
+
+_Cité par_:
+
+  - Code des assurances - art. L323-1-2 (Ab)
+  - Code des assurances - art. L325-1-1 (M)
 
 
 ###### Article L310-19
@@ -11395,6 +11454,54 @@ _Anciens textes_:
   - Décret n°1938-06-14 art. 7
 
 
+###### Article L321-1-1
+
+Les entreprises mentionnées à l'article L. 310-1-1 ne peuvent commencer leurs opérations qu'après avoir obtenu une
+autorisation de pratiquer la réassurance.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment en ce qui concerne les
+entreprises de réassurance constituées à la date de publication de la loi n° 2001-420 du 15 mai 2001 relative aux nouvelles
+régulations économiques et soumises au contrôle de l'Etat en application de l'article L. 310-1-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+
+_Cité par_:
+
+  - Ordonnance n°2008-556 du 13 juin 2008 - art. 13 (V)
+  - Arrêté du 3 novembre 2014 - art. 5 (VD)
+  - Code des assurances - art. A321-1 (V)
+  - Code des assurances - art. L310-1-1 (VD)
+  - Code des assurances - art. L310-10-1 (M)
+  - Code des assurances - art. L310-12-5 (M)
+  - Code des assurances - art. L310-9-1 (Ab)
+  - Code des assurances - art. L311-18 (V)
+  - Code des assurances - art. L321-10-1 (V)
+  - Code des assurances - art. L322-27-1 (VD)
+  - Code des assurances - art. L325-1 (VD)
+  - Code des assurances - art. L350-2 (VD)
+  - Code des assurances - art. L351-5 (M)
+  - Code des assurances - art. L353-5 (M)
+  - Code des assurances - art. L411-4 (M)
+  - Code des assurances - art. R*341-9 (T)
+  - Code des assurances - art. R321-26 (VD)
+  - Code des assurances - art. R321-5-1 (V)
+  - Code des assurances - art. R325-11 (VD)
+  - Code des assurances - art. R342-1 (Ab)
+  - Code des assurances - art. R342-17 (Ab)
+  - Code des assurances - art. R342-19 (Ab)
+  - Code des assurances - art. R351-3 (M)
+  - Code des assurances - art. R353-2 (M)
+  - Code monétaire et financier - art. L517-2 (VD)
+
+
 ###### Article L321-2
 
 Le ministre chargé de l'économie et des finances informe la Commission des communautés européennes de toute décision
@@ -11775,7 +11882,8 @@ avis de la commission compétente du Conseil national des assurances, prend en c
 - les moyens techniques et financiers dont la mise en oeuvre est proposée et leur adéquation au programme d'activité de
 l'entreprise ;
 
-- l'honorabilité et la qualification des personnes chargées de la conduire ;
+- l'honorabilité, la compétence et l'expérience des personnes chargées de la conduire, appréciées dans les conditions
+définies à l'article L. 322-2 ;
 
 - la répartition de son capital et la qualité des actionnaires ou, pour les sociétés mentionnées à l'article L. 322-26-1, les
 modalités de constitution du fonds d'établissement.
@@ -11790,6 +11898,8 @@ La liste des documents à produire à l'appui d'une demande d'agrément présent
 321-1, L. 321-7, L. 321-8 et L. 321-9 du code des assurances est, pour chaque type d'agrément, fixée par arrêté du ministre
 de l'économie et des finances.
 
+L'octroi de l'agrément peut être subordonné au respect d'engagements souscrits par l'entreprise requérante.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -11803,7 +11913,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-532 du 25 juin 1999 - art. 53 () JORF 29 juin 1999
+  - Loi n°2001-420 du 15 mai 2001 - art. 11 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -11833,6 +11943,55 @@ _Cite_:
 _Anciens textes_:
 
   - Code des assurances - art. L321-2-1 (T)
+
+
+###### Article L321-10-1
+
+Pour accorder ou refuser l'autorisation de pratiquer la réassurance prévue à l'article L. 321-1-1, le ministre prend en
+compte :
+
+- la répartition de son capital et la qualité de ses actionnaires ou, pour les sociétés mentionnées à l'article L. 322-26-1,
+les modalités de constitution du fonds d'établissement ;
+
+- l'honorabilité et la qualification des personnes chargées de la conduire ;
+
+- les moyens techniques et financiers dont la mise en oeuvre est proposée pour garantir la solvabilité de l'entreprise compte
+tenu de son programme d'activité.
+
+Le ministre refuse l'autorisation, après avis de la Commission de contrôle des assurances, lorsque l'exercice de la mission
+de surveillance de l'entreprise est susceptible d'être entravé soit par l'existence de liens de capital ou de contrôle
+directs ou indirects entre l'entreprise requérante et d'autres personnes physiques ou morales, soit par l'existence de
+dispositions législatives, réglementaires ou administratives d'un Etat qui n'est pas partie à l'accord sur l'Espace
+économique européen et dont relèvent une ou plusieurs de ces personnes.
+
+La liste des documents à produire à l'appui d'une demande d'autorisation présentée conformément aux dispositions de l'article
+L. 321-1-1 est fixée par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+
+_Cité par_:
+
+  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 24 (V)
+  - Code de la mutualité - art. L211-8-1 (VD)
+  - Code des assurances - art. A321-10 (V)
+  - Code des assurances - art. A321-11 (V)
+  - Code des assurances - art. L325-1 (VD)
+  - Code des assurances - art. R311-6 (V)
+  - Code des assurances - art. R321-26 (VD)
+  - Code des assurances - art. R321-28 (VT)
+
+_Cite_:
+
+  - Code des assurances - art. L321-1-1 (M)
+  - Code des assurances - art. L322-26-1 (T)
 
 
 ##### Section V : Dispositions particulières applicables aux territoires d'outre-mer et à Mayotte.<a id=84></a>
@@ -11960,7 +12119,7 @@ g) Pour recel des choses obtenues à la suite de ces infractions ;
 h) Par application des dispositions des articles 75 et 77 à 84 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et
 au contrôle des établissements de crédit.
 
-i) ou par application de l'article L. 627 du code de la santé publique ou de l'article 415 du code des douanes.
+i) Par application des articles 222-38, 324-1 et 324-2 du code pénal ou de l'article 415 du code des douanes.
 
 2° S'il a été condamné à une peine d'emprisonnement supérieure à deux mois en application de l'article 66 du décret du 30
 octobre 1935 modifié unifiant le droit en matière de chèque.
@@ -11981,6 +12140,9 @@ personnelle et les banqueroutes, a été prononcée à son égard ou s'il a ét�
 Ces interdictions peuvent également être prononcées par les tribunaux à l'encontre de toute personne condamnée pour
 infractions à la législation ou à la réglementation des assurances.
 
+Les personnes appelées à fonder, diriger ou administrer une entreprise ou une société mentionnée au premier alinéa doivent
+posséder la compétence ainsi que l'expérience nécessaires à leur fonction.
+
 Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en régime
 d'établissement.
 
@@ -11988,7 +12150,6 @@ d'établissement.
 
 _Cite_:
 
-  - Décret n°1935-10-30 art. 66
   - Loi n°66-537 1966-07-24
   - Loi n°66-1010 du 28 décembre 1966 - art. 15 (M)
   - Loi n°66-1010 du 28 décembre 1966 - art. 6 (M)
@@ -11997,21 +12158,21 @@ _Cite_:
   - Loi n°83-1 du 3 janvier 1983 - art. 40 (M)
   - Loi n°84-46 1984-01-24 art. 75, art. 77 à 84
   - Loi n°85-98 1985-01-25 art. 185 à 195
+  - Code pénal - art. 222-38 (M)
   - Code pénal - art. 313-4 (Ab)
+  - Code pénal - art. 324-1 (M)
+  - Code pénal - art. 324-2 (M)
   - Code pénal - art. 432-11 (M)
+  - Code pénal - art. 433-1 (M)
   - Code pénal - art. 433-2 (M)
+  - Code pénal - art. 433-3 (M)
   - Code pénal - art. 441-1 (M)
   - Code pénal - art. 441-8 (M)
-  - Code pénal 1, 52-1, 313-1 à 313-3, 313-4, 432-11, 433-2, 441-1, 441-8
+  - Code pénal 441-1, 151-1, 432-11, 441-8, 433-2, 433-1, 433-3, 52-1, 313-1 à 313-3, 313-4, 1, 222-38, 324-1, 324-2
   - Code des douanes - art. 415 (T)
-  - Code du travail - art. L152-6 (M)
-  - Code de la santé publique - art. L627 (M)
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-1-1 (V)
-
-_Anciens textes_:
-
-  - Décret n°1938-06-14 art. 29
+  - Décret n°1935-10-30 art. 66
 
 _Codifié par_:
 
@@ -12024,7 +12185,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-679 du 8 août 1994 - art. 3 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+  - Loi n°2001-420 du 15 mai 2001 - art. 12 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -12051,6 +12212,10 @@ _Cité par_:
   - Code des assurances - art. R322-167 (VD)
   - Code des assurances - art. R362-2 (VD)
   - Code des assurances - art. R514-1 (VD)
+
+_Anciens textes_:
+
+  - Décret n°1938-06-14 art. 29
 
 
 ###### Article L322-2-1
@@ -12289,12 +12454,20 @@ principale consiste à prendre des participations dans des entreprises soumises 
 l'article L. 310-1 et qui détiennent, directement ou indirectement, un pouvoir de contrôle effectif sur une ou plusieurs de
 ces entreprises.
 
+L'autorisation donnée à des opérations mentionnées au premier alinéa peut être subordonnée au respect d'engagements souscrits
+par une ou plusieurs des personnes ayant présenté une demande d'autorisation.
+
 En cas de manquement aux prescriptions édictées par le décret en Conseil d'Etat visé au premier alinéa du présent article et
 sans préjudice des dispositions de l'article 356-4 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, à la
 demande du ministre chargé de l'économie et des finances, du procureur de la République, de la Commission de contrôle des
 assurances ou de tout actionnaire, le juge suspend, jusqu'à régularisation de la situation, l'exercice des droits de vote
 attachés aux actions ou parts sociales des entreprises visées au premier alinéa du présent article détenues irrégulièrement,
 directement ou indirectement.
+
+Toute personne envisageant de déposer un projet d'offre publique au Conseil des marchés financiers en application du chapitre
+III du titre III du livre IV du code monétaire et financier, en vue d'acquérir une quantité déterminée de titres d'une
+entreprise d'assurance agréée en France, est tenue d'en informer le ministre chargé de l'économie deux jours ouvrés avant le
+dépôt de ce projet d'offre ou son annonce publique si elle est antérieure.
 
 **Liens relatifs à cet article**
 
@@ -12313,9 +12486,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-5 du 4 janvier 1994 - art. 22 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+  - Loi n°2001-420 du 15 mai 2001 - art. 14
 
 _Cité par_:
 
@@ -13103,9 +13276,49 @@ _Modifié par_:
   - Loi n°94-5 du 4 janvier 1994 - art. 42 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
 
 
-#### Chapitre IV : Transfert de portefeuille<a id=97></a>
+#### Chapitre III : Mesures de sauvegarde et d'assainissement<a id=97></a>
 
 ##### Section I : Règles générales.<a id=98></a>
+
+###### Article L323-1-2
+
+Lorsque la situation financière d'une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1-1 est telle que
+sa solvabilité est compromise ou susceptible de l'être, la Commission de contrôle des assurances peut mettre l'entreprise
+sous surveillance spéciale.
+
+Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie des actifs de l'entreprise, limiter ou
+suspendre temporairement certaines opérations ou désigner un administrateur provisoire à qui sont transférés les pouvoirs
+nécessaires à l'administration et à la direction de l'entreprise. Cette désignation est faite soit à la demande des
+dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs fonctions, soit à l'initiative de la
+commission lorsque la gestion de l'entreprise ne peut plus être assurée dans des conditions normales, ou lorsque a été prise
+la sanction prévue au 4° de l'article L. 310-18-2.
+
+Un décret en Conseil d'Etat précise les modalités d'application de cet article. Il fixe notamment le délai dans lequel les
+mesures prévues à l'alinéa précédent sont levées ou confirmées par la commission, après procédure contradictoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 32 () JORF 2 août 2003
+
+_Cite_:
+
+  - Code des assurances - art. L310-1-1 (V)
+  - Code des assurances - art. L310-18-2 (Ab)
+
+
+#### Chapitre IV : Transfert de portefeuille<a id=99></a>
+
+##### Section I : Règles générales.<a id=100></a>
 
 ###### Article L324-1
 
@@ -13355,7 +13568,7 @@ _Abrogé par_:
   - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
-##### Section II : Transfert d'office<a id=99></a>
+##### Section II : Transfert d'office<a id=101></a>
 
 ###### Article L324-5
 
@@ -13401,7 +13614,7 @@ _Cite_:
   - Code des assurances - art. L423-1 (V)
 
 
-##### Section III : Règles relatives à l'affectation comptable des actifs transférés avec un portefeuille de contrats.<a id=100></a>
+##### Section III : Règles relatives à l'affectation comptable des actifs transférés avec un portefeuille de contrats.<a id=102></a>
 
 ###### Article L324-7
 
@@ -13439,9 +13652,9 @@ _Cite_:
   - Code des assurances - art. L331-3 (V)
 
 
-#### Chapitre V : Retrait de l'agrément administratif<a id=101></a>
+#### Chapitre V : Retrait de l'agrément administratif<a id=103></a>
 
-##### Section I : Règles générales.<a id=102></a>
+##### Section I : Règles générales.<a id=104></a>
 
 ###### Article L325-1
 
@@ -13511,9 +13724,31 @@ _Cite_:
   - Code des assurances - art. L321-9 (M)
 
 
-#### Chapitre VI : Liquidation.<a id=103></a>
+###### Article L325-1-1
 
-##### Section I : Règles générales.<a id=104></a>
+Sans préjudice des dispositions de l'article L. 310-18-2, l'autorisation de pratiquer la réassurance peut également être
+retirée par le ministre chargé de l'économie et des finances, en cas d'absence prolongée d'activité, de rupture de
+l'équilibre entre les moyens financiers de l'entreprise et son activité ou, si l'intérêt général l'exige, de modification
+substantielle de la composition du capital social ou des organes de direction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
+
+_Cite_:
+
+  - Code des assurances - art. L310-18-2 (Ab)
+
+
+#### Chapitre VI : Liquidation.<a id=105></a>
+
+##### Section I : Règles générales.<a id=106></a>
 
 ###### Article L326-1
 
@@ -13890,7 +14125,7 @@ _Abrogé par_:
   - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
-##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.<a id=105></a>
+##### Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur.<a id=107></a>
 
 ###### Article L326-17
 
@@ -14018,7 +14253,7 @@ _Abrogé par_:
   - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
 
 
-#### Chapitre VII : Privilèges.<a id=106></a>
+#### Chapitre VII : Privilèges.<a id=108></a>
 
 ###### Article L327-1
 
@@ -14229,7 +14464,7 @@ _Cité par_:
   - Code de la mutualité - art. L222-9 (VT)
 
 
-#### Chapitre VIII : Sanctions.<a id=107></a>
+#### Chapitre VIII : Sanctions.<a id=109></a>
 
 ###### Article L328-1
 
@@ -14450,11 +14685,11 @@ _Abrogé par_:
   - Loi n°2005-1564 du 15 décembre 2005 - art. 20 () JORF 16 décembre 2005
 
 
-### Titre III : Régime financier<a id=108></a>
+### Titre III : Régime financier<a id=110></a>
 
-#### Chapitre Ier : Les engagements réglementés.<a id=109></a>
+#### Chapitre Ier : Les engagements réglementés.<a id=111></a>
 
-##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=110></a>
+##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=112></a>
 
 ###### Article L331-1
 
@@ -14573,13 +14808,13 @@ _Anciens textes_:
   - Code des assurances - art. L310-7 (T)
 
 
-#### Chapitre IV : Solvabilité des entreprises.<a id=111></a>
+#### Chapitre IV : Solvabilité des entreprises.<a id=113></a>
 
 ###### Article L334-1
 
 Un arrêté du ministre chargé de l'économie détermine les règles de solvabilité que doivent respecter, sur la base de leurs
-comptes consolidés ou combinés, les entreprises visées à l'article L. 310-1 et les sociétés de participations d'assurance
-visées à l'article L. 345-1, qui sont soumises à l'obligation prévue à l'article L. 345-2.
+comptes consolidés ou combinés, les entreprises visées aux articles L. 310-1 et L. 310-1-1 et les sociétés de participations
+d'assurance visées à l'article L. 345-1, qui sont soumises à l'obligation prévue à l'article L. 345-2.
 
 Lorsque les entreprises visées à l'alinéa précédent font usage de la dispense prévue à l'article 357-8-1 de la loi n° 66-537
 du 24 juillet 1966 sur les sociétés commerciales, ces règles de solvabilité sont déterminées à partir des éléments des
@@ -14591,6 +14826,7 @@ _Cite_:
 
   - Loi n°66-537 1966-07-24 art. 357-8-1
   - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L310-1-1 (V)
   - Code des assurances - art. L345-1 (M)
 
 _Codifié par_:
@@ -14599,7 +14835,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-261 du 6 avril 1998 - art. 8 () JORF 7 avril 1998
+  - Loi n°2001-420 du 15 mai 2001 - art. 136 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -14624,9 +14860,9 @@ _Cité par_:
   - Code monétaire et financier - art. R756-2 (VD)
 
 
-### Titre IV : Dispositions comptables et statistiques<a id=112></a>
+### Titre IV : Dispositions comptables et statistiques<a id=114></a>
 
-#### Chapitre Ier : Principes généraux.<a id=113></a>
+#### Chapitre Ier : Principes généraux.<a id=115></a>
 
 ###### Article L341-1
 
@@ -14660,7 +14896,7 @@ _Cité par_:
   - Code des assurances - art. R341-2 (VD)
 
 
-#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation.<a id=114></a>
+#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation.<a id=116></a>
 
 ###### Article L342-1
 
@@ -14697,7 +14933,7 @@ _Cite_:
   - Code des assurances - art. L310-1-1
 
 
-#### Chapitre IV : Catégories d'assurance et états à produire.<a id=115></a>
+#### Chapitre IV : Catégories d'assurance et états à produire.<a id=117></a>
 
 ###### Article L344-1
 
@@ -14732,7 +14968,7 @@ _Cité par_:
   - Code monétaire et financier - art. R612-31-2 (V)
 
 
-#### Chapitre V : Comptes consolidés.<a id=116></a>
+#### Chapitre V : Comptes consolidés.<a id=118></a>
 
 ###### Article L345-1
 
@@ -14869,11 +15105,11 @@ _Cite_:
   - Code des assurances - art. L345-1 (M)
 
 
-### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes<a id=117></a>
+### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes<a id=119></a>
 
-#### Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages.<a id=118></a>
+#### Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages.<a id=120></a>
 
-##### Section I : Dispositions générales.<a id=119></a>
+##### Section I : Dispositions générales.<a id=121></a>
 
 ###### Article L351-1
 
@@ -14976,7 +15212,7 @@ _Cité par_:
   - Code des assurances - art. R356-14 (VD)
 
 
-##### Section II : Conditions d'exercice.<a id=120></a>
+##### Section II : Conditions d'exercice.<a id=122></a>
 
 ###### Article L351-4
 
@@ -15158,7 +15394,7 @@ _Cité par_:
   - Code des assurances - art. R351-5-1 (VT)
 
 
-##### Section III : Sanctions administratives.<a id=121></a>
+##### Section III : Sanctions administratives.<a id=123></a>
 
 ###### Article L351-7
 
@@ -15295,7 +15531,7 @@ _Cité par_:
   - Code des assurances - art. L353-7 (VT)
 
 
-#### Chapitre II : Dispositions relatives à la coassurance.<a id=122></a>
+#### Chapitre II : Dispositions relatives à la coassurance.<a id=124></a>
 
 ###### Article L352-1
 
@@ -15366,9 +15602,9 @@ _Cite_:
   - Code des assurances - art. L351-4 (M)
 
 
-#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=123></a>
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=125></a>
 
-##### Section I : Dispositions générales.<a id=124></a>
+##### Section I : Dispositions générales.<a id=126></a>
 
 ###### Article L353-2
 
@@ -15406,7 +15642,7 @@ _Cite_:
   - Code des assurances - art. L310-1
 
 
-##### Section II : Conditions d'exercice.<a id=125></a>
+##### Section II : Conditions d'exercice.<a id=127></a>
 
 ###### Article L353-4
 
@@ -15540,7 +15776,7 @@ _Cite_:
   - Code des assurances - art. L353-5
 
 
-##### Section III : Sanctions administratives.<a id=126></a>
+##### Section III : Sanctions administratives.<a id=128></a>
 
 ###### Article L353-7
 
@@ -15577,7 +15813,7 @@ _Cite_:
   - Code des assurances - art. L353-5 (VT)
 
 
-#### Chapitre IV : Transferts de portefeuille.<a id=127></a>
+#### Chapitre IV : Transferts de portefeuille.<a id=129></a>
 
 ###### Article L354-1
 
@@ -15731,9 +15967,9 @@ _Cité par_:
   - Code des assurances - art. R354-8 (VD)
 
 
-### Titre VI : Libre établissement et libre prestation de services communautaires<a id=128></a>
+### Titre VI : Libre établissement et libre prestation de services communautaires<a id=130></a>
 
-#### Chapitre Ier : Définitions.<a id=129></a>
+#### Chapitre Ier : Définitions.<a id=131></a>
 
 ###### Article L361-1
 
@@ -15763,7 +15999,7 @@ _Abrogé par_:
   - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 5
 
 
-#### Chapitre II : Conditions d'exercice.<a id=130></a>
+#### Chapitre II : Conditions d'exercice.<a id=132></a>
 
 ###### Article L362-1
 
@@ -15896,7 +16132,7 @@ _Cite_:
   - Code des assurances - art. L362-1 (V)
 
 
-#### Chapitre III : Contrôle et sanctions.<a id=131></a>
+#### Chapitre III : Contrôle et sanctions.<a id=133></a>
 
 ###### Article L363-1
 
@@ -16029,7 +16265,7 @@ _Cite_:
   - Code des assurances - art. L351-7 (M)
 
 
-#### Chapitre IV : Transferts de portefeuille.<a id=132></a>
+#### Chapitre IV : Transferts de portefeuille.<a id=134></a>
 
 ###### Article L364-1
 
@@ -16070,13 +16306,13 @@ _Cite_:
   - Code des assurances - art. L324-1 (M)
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=133></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=135></a>
 
-### Titre Ier : Organisations générales d'assurance.<a id=134></a>
+### Titre Ier : Organisations générales d'assurance.<a id=136></a>
 
-#### Chapitre I : Le conseil national des assurances<a id=135></a>
+#### Chapitre I : Le conseil national des assurances<a id=137></a>
 
-##### Section I : Organisation et attributions.<a id=136></a>
+##### Section I : Organisation et attributions.<a id=138></a>
 
 ###### Article L411-1
 
@@ -16101,15 +16337,18 @@ Le conseil comprend en outre :
 
 - cinq représentants du personnel des entreprises d'assurance mentionnées à l'article L. 310-1 ;
 
-- huit représentants des assurés dont un représentant élu des collectivités locales.
+- huit représentants des assurés dont un représentant élu des collectivités locales ;
+
+- le président du conseil de surveillance du fonds de garantie institué à l'article L. 423-1 ou un membre du directoire le
+représentant. 
 
 Hormis le président et le directeur des assurances, les membres du Conseil national des assurances sont nommés pour une
 période de trois ans renouvelable.
 
 Le Conseil national des assurances se réunit au moins deux fois par an en séance plénière.
 
-Un décret en Conseil d'Etat fixe les modalités de désignation des membres visés aux septième à onzième alinéas ci-dessus,
-ainsi que les conditions de fonctionnement du Conseil national des assurances.
+Un décret en Conseil d'Etat fixe les modalités de désignation des membres visés aux septième à douzième alinéas ci-dessus,
+ainsi que le conditions de fonctionnement du Conseil national des assurances.
 
 **Liens relatifs à cet article**
 
@@ -16117,13 +16356,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
 _Modifié par_:
 
-  - Ordonnance 2001-350 2001-04-19 art. 6 XXV JORF 22 avril 2001
+  - Loi n°2001-420 du 15 mai 2001 - art. 13 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -16314,7 +16549,7 @@ _Cite_:
   - Code des assurances - art. L411-1 (M)
 
 
-#### Chapitre II : L'école nationale d'assurances.<a id=137></a>
+#### Chapitre II : L'école nationale d'assurances.<a id=139></a>
 
 ###### Article L412-1
 
@@ -16350,11 +16585,11 @@ _Cite_:
   - Code des assurances - art. L310-9 (M)
 
 
-### Titre II : Le fonds de garantie<a id=138></a>
+### Titre II : Le fonds de garantie<a id=140></a>
 
-#### Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse<a id=139></a>
+#### Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse<a id=141></a>
 
-##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine et dans les départements d'outre-mer.<a id=140></a>
+##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine et dans les départements d'outre-mer.<a id=142></a>
 
 ###### Article L421-1
 
@@ -16691,7 +16926,7 @@ _Cité par_:
   - Code des assurances - art. R421-59 (V)
 
 
-##### Section II : Dispositions spéciales aux accidents de chasse survenus en France métropolitaine.<a id=141></a>
+##### Section II : Dispositions spéciales aux accidents de chasse survenus en France métropolitaine.<a id=143></a>
 
 ###### Article L421-8
 
@@ -16742,7 +16977,7 @@ _Cite_:
   - Code rural L223-13
 
 
-##### Section V : Régime financier du fonds de garantie.<a id=142></a>
+##### Section V : Régime financier du fonds de garantie.<a id=144></a>
 
 ###### Article L421-8-1
 
@@ -16776,7 +17011,7 @@ _Cité par_:
   - Code des assurances - art. L421-10-1 (Ab)
 
 
-##### Section VI : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.<a id=143></a>
+##### Section VI : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.<a id=145></a>
 
 ###### Article L421-9
 
@@ -16827,7 +17062,7 @@ _Anciens textes_:
   - Code des assurances - art. L420-9 (T)
 
 
-##### Section IX : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.<a id=144></a>
+##### Section IX : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.<a id=146></a>
 
 ###### Article L421-11
 
@@ -17005,7 +17240,7 @@ _Anciens textes_:
   - Code des assurances - art. L420-2 (T)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=145></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=147></a>
 
 ###### Article L422-1
 
@@ -17161,7 +17396,7 @@ _Créé par_:
   - Loi n°92-665 du 16 juillet 1992 - art. 36 () JORF 17 juillet 1992
 
 
-#### Chapitre III : Le fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes.<a id=146></a>
+#### Chapitre III : Le fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes.<a id=148></a>
 
 ###### Article L423-1
 
@@ -17510,13 +17745,13 @@ _Modifié par_:
   - Ordonnance 2001-350 2001-04-19 art. 6 XXVI JORF 22 avril 2001
 
 
-### Titre III : Organismes particuliers d'assurance<a id=147></a>
+### Titre III : Organismes particuliers d'assurance<a id=149></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance<a id=148></a>
+#### Chapitre Ier : La caisse centrale de réassurance<a id=150></a>
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat<a id=149></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat<a id=151></a>
 
-##### Paragraphe 2 : Risques exceptionnels et nucléaires.<a id=150></a>
+##### Paragraphe 2 : Risques exceptionnels et nucléaires.<a id=152></a>
 
 ###### Article L431-4
 
@@ -17662,7 +17897,7 @@ _Cité par_:
   - Code des assurances - art. R431-27 (V)
 
 
-##### Paragraphe 3 : Risques de catastrophes naturelles.<a id=151></a>
+##### Paragraphe 3 : Risques de catastrophes naturelles.<a id=153></a>
 
 ###### Article L431-9
 
@@ -17690,7 +17925,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*431-18 (Ab)
 
 
-##### Paragraphe 4 : Risques d'attentats.<a id=152></a>
+##### Paragraphe 4 : Risques d'attentats.<a id=154></a>
 
 ###### Article L431-10
 
@@ -17715,9 +17950,9 @@ _Cité par_:
   - Code des assurances - art. R431-16-3 (V)
 
 
-##### Section III : Opérations de gestion<a id=153></a>
+##### Section III : Opérations de gestion<a id=155></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=154></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=156></a>
 
 ###### Article L431-11
 
@@ -17758,7 +17993,7 @@ _Cite_:
   - Code des assurances - art. L442-1 (V)
 
 
-##### Paragraphe 2 : Fonds de garantie des calamités agricoles dans les départements d'outre-mer.<a id=155></a>
+##### Paragraphe 2 : Fonds de garantie des calamités agricoles dans les départements d'outre-mer.<a id=157></a>
 
 ###### Article L431-12
 
@@ -17785,7 +18020,7 @@ _Cité par_:
   - Code des assurances - art. R*431-35 (M)
 
 
-##### Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction.<a id=156></a>
+##### Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction.<a id=158></a>
 
 ###### Article L431-14
 
@@ -17868,9 +18103,9 @@ _Modifié par_:
   - Loi n°89-1014 du 31 décembre 1989 - art. 47 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 
-#### Chapitre II : La Compagnie française d'assurance pour le commerce extérieur "COFACE"<a id=157></a>
+#### Chapitre II : La Compagnie française d'assurance pour le commerce extérieur "COFACE"<a id=159></a>
 
-##### Section I : Dispositions générales.<a id=158></a>
+##### Section I : Dispositions générales.<a id=160></a>
 
 ###### Article L432-1
 
@@ -18046,11 +18281,11 @@ _Cite_:
   - Code des assurances L432-2, L310-25, L326-2 à L327-6
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=159></a>
+### Titre IV : Régimes particuliers d'assurance<a id=161></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=160></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=162></a>
 
-##### Section I : Dispositions générales.<a id=161></a>
+##### Section I : Dispositions générales.<a id=163></a>
 
 ###### Article L441-1
 
@@ -18274,7 +18509,7 @@ _Cité par_:
   - Code des assurances - art. L441-4 (V)
 
 
-##### Section II : Règles techniques et comptables.<a id=162></a>
+##### Section II : Règles techniques et comptables.<a id=164></a>
 
 ###### Article L441-8
 
@@ -18329,7 +18564,7 @@ _Cite_:
   - Code des assurances - art. L441-1 (M)
 
 
-##### Section IV : Dispositions transitoires.<a id=163></a>
+##### Section IV : Dispositions transitoires.<a id=165></a>
 
 ###### Article L441-10
 
@@ -18365,9 +18600,9 @@ _Cité par_:
   - Code des assurances - art. R441-30 (VD)
 
 
-#### Chapitre II : Autres régimes particuliers d'assurance<a id=164></a>
+#### Chapitre II : Autres régimes particuliers d'assurance<a id=166></a>
 
-##### Section I : Régime d'indemnisation des calamités agricoles.<a id=165></a>
+##### Section I : Régime d'indemnisation des calamités agricoles.<a id=167></a>
 
 ###### Article L442-1
 
@@ -18413,7 +18648,7 @@ _Cité par_:
   - Code des assurances - art. L431-12 (V)
 
 
-##### Section II : Régime obligatoire d'assurance maladie, invalidité et maternité des exploitants agricoles et des membres non salariés de leur famille (AMEXA).<a id=166></a>
+##### Section II : Régime obligatoire d'assurance maladie, invalidité et maternité des exploitants agricoles et des membres non salariés de leur famille (AMEXA).<a id=168></a>
 
 ###### Article L442-3
 
@@ -18434,7 +18669,7 @@ _Codifié par_:
   - Décret n°76-666 1976-07-16
 
 
-##### Section III : Assurance des exploitants agricoles contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles.<a id=167></a>
+##### Section III : Assurance des exploitants agricoles contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles.<a id=169></a>
 
 ###### Article L442-4
 
@@ -18474,7 +18709,7 @@ _Cite_:
   - Code rural L752-28
 
 
-##### Section IV : Régime obligatoire d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.<a id=168></a>
+##### Section IV : Régime obligatoire d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.<a id=170></a>
 
 ###### Article L442-6
 
@@ -18494,13 +18729,13 @@ _Cite_:
   - Code des assurances - art. L310-1 (VT)
 
 
-## Livre V : Intermédiaires d'assurance<a id=169></a>
+## Livre V : Intermédiaires d'assurance<a id=171></a>
 
-### Titre Ier : Intermédiation en assurance.<a id=170></a>
+### Titre Ier : Intermédiation en assurance.<a id=172></a>
 
-#### Chapitre IV : Contrôle des conditions d'accès et d'exercice<a id=171></a>
+#### Chapitre IV : Contrôle des conditions d'accès et d'exercice<a id=173></a>
 
-##### Section IV : Dispositions diverses et pénalités.<a id=172></a>
+##### Section IV : Dispositions diverses et pénalités.<a id=174></a>
 
 ###### Article L514
 
@@ -18520,11 +18755,11 @@ _Créé par_:
   - Loi n°99-532 du 25 juin 1999 - art. 43 () JORF 29 janvier 1999
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=173></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=175></a>
 
-### Titre I : Présentation des opérations<a id=174></a>
+### Titre I : Présentation des opérations<a id=176></a>
 
-#### Chapitre I : Principes généraux.<a id=175></a>
+#### Chapitre I : Principes généraux.<a id=177></a>
 
 ###### Article L511-1
 
@@ -18648,9 +18883,9 @@ _Codifié par_:
   - Décret n°76-666 1976-07-16
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=176></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=178></a>
 
-##### Section IV : Dispositions diverses et pénalités.<a id=177></a>
+##### Section IV : Dispositions diverses et pénalités.<a id=179></a>
 
 ###### Article L514-1
 
@@ -18746,9 +18981,9 @@ _Cité par_:
   - Code des assurances - art. R512-3 (VD)
 
 
-### Titre II : Dispositions spéciales aux agents généraux d'assurances<a id=178></a>
+### Titre II : Dispositions spéciales aux agents généraux d'assurances<a id=180></a>
 
-#### Chapitre unique.<a id=179></a>
+#### Chapitre unique.<a id=181></a>
 
 ###### Article L520-1
 
@@ -18808,9 +19043,9 @@ _Modifié par_:
   - Loi n°90-1260 du 31 décembre 1990 - art. 5 () JORF 5 janvier 1991
 
 
-### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=180></a>
+### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=182></a>
 
-#### Chapitre unique.<a id=181></a>
+#### Chapitre unique.<a id=183></a>
 
 ###### Article L530-1
 
@@ -18987,13 +19222,13 @@ _Créé par_:
   - Loi n°89-1014 du 31 décembre 1989 - art. 42 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
 
 
-# Partie réglementaire<a id=182></a>
+# Partie réglementaire<a id=184></a>
 
-## Livre Ier : Le contrat.<a id=183></a>
+## Livre Ier : Le contrat.<a id=185></a>
 
-### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes.<a id=184></a>
+### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes.<a id=186></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=185></a>
+#### Chapitre Ier : Dispositions générales.<a id=187></a>
 
 ###### Article R111-1
 
@@ -19050,7 +19285,7 @@ _Cite_:
   - Code des assurances - art. L111-4 (V)
 
 
-#### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.<a id=186></a>
+#### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.<a id=188></a>
 
 ###### Article R112-1
 
@@ -19148,7 +19383,7 @@ _Cite_:
   - Code des assurances - art. L112-2 (V)
 
 
-#### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=187></a>
+#### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=189></a>
 
 ###### Article R*113-4
 
@@ -19252,7 +19487,7 @@ _Cite_:
   - Code des assurances - art. L113-16 (V)
 
 
-#### Chapitre IV : Compétence et prescription.<a id=188></a>
+#### Chapitre IV : Compétence et prescription.<a id=190></a>
 
 ###### Article R114-1
 
@@ -19274,9 +19509,9 @@ _Modifié par_:
   - Décret n°92-1356 du 22 décembre 1992 - art. 2 () JORF 29 décembre 1992
 
 
-### Titre II : Règles relatives aux assurances de dommages non maritimes<a id=189></a>
+### Titre II : Règles relatives aux assurances de dommages non maritimes<a id=191></a>
 
-#### Chapitre IV : Les assurances de responsabilité.<a id=190></a>
+#### Chapitre IV : Les assurances de responsabilité.<a id=192></a>
 
 ###### Article R*124-1
 
@@ -19299,9 +19534,9 @@ _Codifié par_:
   - Décret n°76-667 1976-07-16
 
 
-#### Chapitre VI : L'assurance contre les actes de terrorisme<a id=191></a>
+#### Chapitre VI : L'assurance contre les actes de terrorisme<a id=193></a>
 
-##### Section II : Dommages matériels<a id=192></a>
+##### Section II : Dommages matériels<a id=194></a>
 
 ###### Article R126-1
 
@@ -19346,7 +19581,7 @@ _Créé par_:
   - Décret n°88-261 du 18 mars 1988 - art. 1 () JORF 20 mars 1988
 
 
-#### Chapitre VII : L'assurance de protection juridique.<a id=193></a>
+#### Chapitre VII : L'assurance de protection juridique.<a id=195></a>
 
 ###### Article R127-1
 
@@ -19387,9 +19622,9 @@ _Cite_:
   - Code des assurances - art. L321-6 (T)
 
 
-### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=194></a>
+### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=196></a>
 
-#### Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte.<a id=195></a>
+#### Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte.<a id=197></a>
 
 ###### Article R131-1
 
@@ -19570,9 +19805,9 @@ _Cite_:
   - Code des assurances - art. R131-3 (M)
 
 
-#### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=196></a>
+#### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=198></a>
 
-##### Section I : Dispositions générales.<a id=197></a>
+##### Section I : Dispositions générales.<a id=199></a>
 
 ###### Article R132-2
 
@@ -19678,11 +19913,11 @@ _Cite_:
   - Code des assurances - art. L132-5-1 (V)
 
 
-### Titre V : Le contrat de capitalisation.<a id=198></a>
+### Titre V : Le contrat de capitalisation.<a id=200></a>
 
-#### Chapitre unique<a id=199></a>
+#### Chapitre unique<a id=201></a>
 
-##### Section III : Tirages au sort.<a id=200></a>
+##### Section III : Tirages au sort.<a id=202></a>
 
 ###### Article R*150-4
 
@@ -19996,11 +20231,11 @@ _Anciens textes_:
   - Code des assurances - art. R150-17 (Ab)
 
 
-### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=201></a>
+### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=203></a>
 
-#### Chapitre unique<a id=202></a>
+#### Chapitre unique<a id=204></a>
 
-##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.<a id=203></a>
+##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.<a id=205></a>
 
 ###### Article R*160-4
 
@@ -20073,7 +20308,7 @@ _Anciens textes_:
   - Loi n°1930-12-03 art. 5
 
 
-##### Section V : Effet sur les contrats d'assurance de la réquisition des biens et services.<a id=204></a>
+##### Section V : Effet sur les contrats d'assurance de la réquisition des biens et services.<a id=206></a>
 
 ###### Article R*160-9
 
@@ -20128,9 +20363,9 @@ _Cite_:
   - Code des assurances - art. L160-9 (V)
 
 
-### Titre VII : Le contrat d'assurance maritime<a id=205></a>
+### Titre VII : Le contrat d'assurance maritime<a id=207></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=206></a>
+#### Chapitre Ier : Dispositions générales.<a id=208></a>
 
 ###### Article R171-1
 
@@ -20172,9 +20407,9 @@ _Abrogé par_:
   - Décret n°2012-849 du 4 juillet 2012 - art. 9
 
 
-#### Chapitre II : Règles communes aux diverses assurances maritimes<a id=207></a>
+#### Chapitre II : Règles communes aux diverses assurances maritimes<a id=209></a>
 
-##### Section I : Conclusion du contrat.<a id=208></a>
+##### Section I : Conclusion du contrat.<a id=210></a>
 
 ###### Article R172-1
 
@@ -20243,7 +20478,7 @@ _Codifié par_:
   - Décret n°76-667 1976-07-16
 
 
-##### Section III : Règlement de l'indemnité.<a id=209></a>
+##### Section III : Règlement de l'indemnité.<a id=211></a>
 
 ###### Article R172-4
 
@@ -20317,13 +20552,13 @@ _Cité par_:
   - Code des assurances - art. R171-1 (V)
 
 
-## Livre II : Assurances obligatoires<a id=210></a>
+## Livre II : Assurances obligatoires<a id=212></a>
 
-### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques<a id=211></a>
+### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques<a id=213></a>
 
-#### Chapitre Ier : L'obligation de s'assurer.<a id=212></a>
+#### Chapitre Ier : L'obligation de s'assurer.<a id=214></a>
 
-##### Section II : Etendue de l'obligation d'assurance.<a id=213></a>
+##### Section II : Etendue de l'obligation d'assurance.<a id=215></a>
 
 ###### Article R211-2
 
@@ -20539,7 +20774,7 @@ _Cité par_:
   - Code des assurances - art. R211-6 (Ab)
 
 
-##### Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur.<a id=214></a>
+##### Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur.<a id=216></a>
 
 ###### Article R211-10
 
@@ -20702,9 +20937,9 @@ _Anciens textes_:
   - Décret n°59-135 1959-01-07 art. 13
 
 
-##### Section IV : Contrôle de l'obligation d'assurance.<a id=215></a>
+##### Section IV : Contrôle de l'obligation d'assurance.<a id=217></a>
 
-##### Paragraphe 1 : L'attestation d'assurance.<a id=216></a>
+##### Paragraphe 1 : L'attestation d'assurance.<a id=218></a>
 
 ###### Article R*211-19
 
@@ -21036,7 +21271,7 @@ _Cite_:
   - Code des assurances - art. R*211-22 (V)
 
 
-##### Paragraphe 2 : Le certificat d'assurance.<a id=217></a>
+##### Paragraphe 2 : Le certificat d'assurance.<a id=219></a>
 
 ###### Article R211-21-1
 
@@ -21304,7 +21539,7 @@ _Cite_:
   - Code des assurances - art. R211-21-1 (V)
 
 
-##### Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules.<a id=218></a>
+##### Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules.<a id=220></a>
 
 ###### Article R*211-22
 
@@ -21516,7 +21751,7 @@ _Cite_:
   - Code des assurances - art. R*211-23 (V)
 
 
-##### Section VI : Procédures d'indemnisation.<a id=219></a>
+##### Section VI : Procédures d'indemnisation.<a id=221></a>
 
 ###### Article R211-29
 
@@ -21962,7 +22197,7 @@ _Créé par_:
   - Décret n°88-261 1988-03-18 art. 2 2° JORF 20 mars 1988
 
 
-##### Section VII : Pénalités.<a id=220></a>
+##### Section VII : Pénalités.<a id=222></a>
 
 ###### Article R211-45
 
@@ -22005,7 +22240,7 @@ _Anciens textes_:
   - Code des assurances R211-29 (1ère version)
 
 
-#### Chapitre III : Contribution au profit de la sécurité sociale.<a id=221></a>
+#### Chapitre III : Contribution au profit de la sécurité sociale.<a id=223></a>
 
 ###### Article R*213-1
 
@@ -22204,9 +22439,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L213-1 (M)
 
 
-### Titre II : L'assurance des engins de remontée mécanique<a id=222></a>
+### Titre II : L'assurance des engins de remontée mécanique<a id=224></a>
 
-#### Chapitre unique.<a id=223></a>
+#### Chapitre unique.<a id=225></a>
 
 ###### Article R220-1
 
@@ -22426,7 +22661,7 @@ _Cité par_:
   - Code des assurances - art. A220-4 (V)
 
 
-### Titre IV : L'assurance des travaux de bâtiment.<a id=224></a>
+### Titre IV : L'assurance des travaux de bâtiment.<a id=226></a>
 
 ###### Article R243-2
 
@@ -22452,7 +22687,7 @@ _Anciens textes_:
   - Code des assurances - art. R241-2 (T)
 
 
-### Titre V : Dispositions relatives au Bureau central de tarification.<a id=225></a>
+### Titre V : Dispositions relatives au Bureau central de tarification.<a id=227></a>
 
 ###### Article R250-1
 
@@ -22683,13 +22918,13 @@ _Modifié par_:
   - Décret n°97-660 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 
-## Livre III : Les entreprises<a id=226></a>
+## Livre III : Les entreprises<a id=228></a>
 
-### Titre Ier : Dispositions générales et contrôle de l'Etat<a id=227></a>
+### Titre Ier : Dispositions générales et contrôle de l'Etat<a id=229></a>
 
-#### Chapitre unique<a id=228></a>
+#### Chapitre unique<a id=230></a>
 
-##### Section I : Dispositions générales.<a id=229></a>
+##### Section I : Dispositions générales.<a id=231></a>
 
 ###### Article R*310-5
 
@@ -22830,7 +23065,7 @@ _Cité par_:
   - Code des assurances - art. R334-32 (V)
 
 
-##### Section II : Commission de contrôle des assurances.<a id=230></a>
+##### Section II : Commission de contrôle des assurances.<a id=232></a>
 
 ###### Article R*310-21
 
@@ -23169,7 +23404,7 @@ _Cite_:
   - Code des assurances - art. L310-12 (M)
 
 
-##### Section IV : Sanctions.<a id=231></a>
+##### Section IV : Sanctions.<a id=233></a>
 
 ###### Article R310-22
 
@@ -23201,11 +23436,11 @@ _Cite_:
   - Code des assurances L310-1, R310-5, R310-18
 
 
-### Titre II : Régime administratif<a id=232></a>
+### Titre II : Régime administratif<a id=234></a>
 
-#### Chapitre Ier : Les agréments<a id=233></a>
+#### Chapitre Ier : Les agréments<a id=235></a>
 
-##### Section I : Agrément administratif des entreprises françaises.<a id=234></a>
+##### Section I : Agrément administratif des entreprises françaises.<a id=236></a>
 
 ###### Article R*321-1
 
@@ -23612,7 +23847,7 @@ _Cite_:
   - Code des assurances R321-1
 
 
-##### Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen.<a id=235></a>
+##### Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen.<a id=237></a>
 
 ###### Article R321-6
 
@@ -23705,7 +23940,7 @@ _Anciens textes_:
   - Code des assurances R321-14 (3ème version)
 
 
-##### Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen.<a id=236></a>
+##### Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen.<a id=238></a>
 
 ###### Article R321-10
 
@@ -23834,7 +24069,7 @@ _Anciens textes_:
   - Code des assurances R321-16 (2ème version)
 
 
-##### Section IV : Conditions des agréments.<a id=237></a>
+##### Section IV : Conditions des agréments.<a id=239></a>
 
 ###### Article R*321-17
 
@@ -24201,9 +24436,9 @@ _Cite_:
   - Code des assurances - art. L354-1-1 (V)
 
 
-#### Chapitre II : Règles de constitution et de fonctionnement<a id=238></a>
+#### Chapitre II : Règles de constitution et de fonctionnement<a id=240></a>
 
-##### Section I : Dispositions communes.<a id=239></a>
+##### Section I : Dispositions communes.<a id=241></a>
 
 ###### Article R*322-2
 
@@ -24401,7 +24636,7 @@ _Anciens textes_:
   - Code des assurances R321-24 (2ème version)
 
 
-##### Section II : Sociétés anonymes d'assurance et de capitalisation.<a id=240></a>
+##### Section II : Sociétés anonymes d'assurance et de capitalisation.<a id=242></a>
 
 ###### Article R*322-5
 
@@ -24632,9 +24867,9 @@ _Cite_:
   - Code des assurances - art. L411-4 (M)
 
 
-##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance<a id=241></a>
+##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance<a id=243></a>
 
-##### Paragraphe 2 : Administration.<a id=242></a>
+##### Paragraphe 2 : Administration.<a id=244></a>
 
 ###### Article R322-20
 
@@ -24705,9 +24940,9 @@ _Cité par_:
   - Code des assurances - art. R*431-6-2 (V)
 
 
-##### Section IV : Sociétés d'assurance mutuelles<a id=243></a>
+##### Section IV : Sociétés d'assurance mutuelles<a id=245></a>
 
-##### Paragraphe 1 : Constitution.<a id=244></a>
+##### Paragraphe 1 : Constitution.<a id=246></a>
 
 ###### Article R*322-44
 
@@ -25078,7 +25313,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code des assurances R322-90 *sanctions civiles*
 
 
-##### Paragraphe 2 : Administration.<a id=245></a>
+##### Paragraphe 2 : Administration.<a id=247></a>
 
 ###### Article R*322-53
 
@@ -25762,9 +25997,9 @@ _Cité par_:
   - Code des assurances - art. R322-65 (V)
 
 
-##### Sous-section 2 : Direction et administration<a id=246></a>
+##### Sous-section 2 : Direction et administration<a id=248></a>
 
-##### Paragraphe 4 : L'assemblée générale des sociétés d'assurance mutuelles<a id=247></a>
+##### Paragraphe 4 : L'assemblée générale des sociétés d'assurance mutuelles<a id=249></a>
 
 ###### Article Annexe I art. R*322-58
 
@@ -25853,7 +26088,7 @@ _Cite_:
   - Code des assurances - art. R*322-58 (V)
 
 
-##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=248></a>
+##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=250></a>
 
 ###### Article R322-71
 
@@ -26008,7 +26243,7 @@ _Anciens textes_:
   - Code des assurances R322-77-1 (2ème version)
 
 
-##### Paragraphe 3 bis : Emprunts.<a id=249></a>
+##### Paragraphe 3 bis : Emprunts.<a id=251></a>
 
 ###### Article R322-77
 
@@ -26202,7 +26437,7 @@ _Cité par_:
   - Code des assurances - art. R322-49 (V)
 
 
-##### Paragraphe 4 : Réassurance.<a id=250></a>
+##### Paragraphe 4 : Réassurance.<a id=252></a>
 
 ###### Article R322-81
 
@@ -26330,7 +26565,7 @@ _Cité par_:
   - Code des assurances - art. R322-140 (M)
 
 
-##### Paragraphe 5 : Publicité.<a id=251></a>
+##### Paragraphe 5 : Publicité.<a id=253></a>
 
 ###### Article R*322-86
 
@@ -26465,7 +26700,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances R322-90 *sanctions civiles*
 
 
-##### Paragraphe 6 : Nullités.<a id=252></a>
+##### Paragraphe 6 : Nullités.<a id=254></a>
 
 ###### Article R*322-91
 
@@ -26573,7 +26808,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R*322-92 (M)
 
 
-##### Paragraphe 7 : Sociétés mutuelles d'assurance.<a id=253></a>
+##### Paragraphe 7 : Sociétés mutuelles d'assurance.<a id=255></a>
 
 ###### Article R*322-99
 
@@ -26995,7 +27230,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code des assurances R322-117 *sanctions civiles*
 
 
-##### Section V : Unions de sociétés d'assurance mutuelles.<a id=254></a>
+##### Section V : Unions de sociétés d'assurance mutuelles.<a id=256></a>
 
 ###### Article R*322-117-1
 
@@ -27477,9 +27712,9 @@ _Cité par_:
   - Code des assurances - art. R322-90 (V)
 
 
-##### Section VI : Sociétés ou caisses d'assurances et de réassurances mutuelles agricoles<a id=255></a>
+##### Section VI : Sociétés ou caisses d'assurances et de réassurances mutuelles agricoles<a id=257></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=256></a>
+##### Paragraphe 1 : Dispositions générales.<a id=258></a>
 
 ###### Article R*322-121
 
@@ -27813,7 +28048,7 @@ _Cité par_:
   - Code des assurances - art. R322-90 (V)
 
 
-##### Paragraphe 2 : Organismes soumis à l'agrément administratif.<a id=257></a>
+##### Paragraphe 2 : Organismes soumis à l'agrément administratif.<a id=259></a>
 
 ###### Article R*322-126
 
@@ -27904,7 +28139,7 @@ _Cite_:
   - Code des assurances R310-18, R322-132
 
 
-##### Paragraphe 3 : Organismes dispensés de l'agrément administratif.<a id=258></a>
+##### Paragraphe 3 : Organismes dispensés de l'agrément administratif.<a id=260></a>
 
 ###### Article R*322-133
 
@@ -28140,7 +28375,7 @@ _Cite_:
   - Code des assurances L324-1, R322-132 à R322-137
 
 
-##### Section VII : Tontines.<a id=259></a>
+##### Section VII : Tontines.<a id=261></a>
 
 ###### Article R*322-145
 
@@ -28628,9 +28863,9 @@ _Cité par_:
   - Code des assurances - art. R322-90 (V)
 
 
-#### Chapitre III : Procédures de redressement et de sauvegarde<a id=260></a>
+#### Chapitre III : Procédures de redressement et de sauvegarde<a id=262></a>
 
-##### Section I : Règles générales.<a id=261></a>
+##### Section I : Règles générales.<a id=263></a>
 
 ###### Article R*323-6
 
@@ -28917,9 +29152,9 @@ _Cite_:
   - Code des assurances - art. L323-1 (M)
 
 
-#### Chapitre IV : Transfert de portefeuille<a id=262></a>
+#### Chapitre IV : Transfert de portefeuille<a id=264></a>
 
-##### Section II : Transfert d'office.<a id=263></a>
+##### Section II : Transfert d'office.<a id=265></a>
 
 ###### Article R*324-4
 
@@ -28988,9 +29223,9 @@ _Cité par_:
   - Code des assurances - art. R391-1 (VD)
 
 
-#### Chapitre V : Retrait de l'agrément administratif<a id=264></a>
+#### Chapitre V : Retrait de l'agrément administratif<a id=266></a>
 
-##### Section I : Règles générales.<a id=265></a>
+##### Section I : Règles générales.<a id=267></a>
 
 ###### Article R*325-9
 
@@ -29308,9 +29543,9 @@ _Modifié par_:
   - Décret n°90-815 du 14 septembre 1990 - art. 26 () JORF 15 septembre 1990
 
 
-#### Chapitre VI : Liquidation<a id=266></a>
+#### Chapitre VI : Liquidation<a id=268></a>
 
-##### Section I : Règles générales.<a id=267></a>
+##### Section I : Règles générales.<a id=269></a>
 
 ###### Article R*326-2
 
@@ -29375,7 +29610,7 @@ _Anciens textes_:
   - Décret n°1938-06-14 art. 26
 
 
-#### Chapitre VII : Privilèges.<a id=268></a>
+#### Chapitre VII : Privilèges.<a id=270></a>
 
 ###### Article R*327-1
 
@@ -29400,7 +29635,7 @@ _Cite_:
   - Code des assurances - art. L327-1 (V)
 
 
-#### Chapitre VIII : Sanctions.<a id=269></a>
+#### Chapitre VIII : Sanctions.<a id=271></a>
 
 ###### Article R328-1
 
@@ -29480,11 +29715,11 @@ _Codifié par_:
   - Décret n°76-667 1976-07-16
 
 
-### Titre III : Régime financier.<a id=270></a>
+### Titre III : Régime financier.<a id=272></a>
 
-#### Chapitre Ier : Les engagements réglementés.<a id=271></a>
+#### Chapitre Ier : Les engagements réglementés.<a id=273></a>
 
-##### Section I : Dispositions générales.<a id=272></a>
+##### Section I : Dispositions générales.<a id=274></a>
 
 ###### Article R331-1
 
@@ -29630,7 +29865,7 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°84-349 du 9 mai 1984 - art. 36 (V)
 
 
-##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=273></a>
+##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=275></a>
 
 ###### Article R331-3
 
@@ -29863,7 +30098,7 @@ _Cite_:
   - Code des assurances - art. L331-4
 
 
-##### Section III : Provisions techniques des autres opérations d'assurance.<a id=274></a>
+##### Section III : Provisions techniques des autres opérations d'assurance.<a id=276></a>
 
 ###### Article R331-6
 
@@ -29951,7 +30186,7 @@ _Modifié par_:
   - Décret n°95-153 du 7 février 1995 - art. 2 () JORF 14 février 1995
 
 
-##### Paragraphe 1 : Provision mathématique des rentes<a id=275></a>
+##### Paragraphe 1 : Provision mathématique des rentes<a id=277></a>
 
 ###### Article R331-7
 
@@ -29988,7 +30223,7 @@ _Cité par_:
   - Code des assurances - art. R*433-1 (M)
 
 
-##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=276></a>
+##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=278></a>
 
 ###### Article R331-15
 
@@ -30195,7 +30430,7 @@ _Cite_:
   - Code des assurances - art. R331-16 (VT)
 
 
-##### Paragraphe 5 : Dispositions supplémentaires concernant la coassurance communautaire.<a id=277></a>
+##### Paragraphe 5 : Dispositions supplémentaires concernant la coassurance communautaire.<a id=279></a>
 
 ###### Article R331-31
 
@@ -30224,7 +30459,7 @@ _Cite_:
   - Code des assurances - art. L352-1
 
 
-##### Paragraphe 7 : Dispositions particulières relatives à l'assurance-crédit.<a id=278></a>
+##### Paragraphe 7 : Dispositions particulières relatives à l'assurance-crédit.<a id=280></a>
 
 ###### Article R331-33
 
@@ -30312,9 +30547,9 @@ _Cite_:
   - Code des assurances - art. R331-6 (VT)
 
 
-#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=279></a>
+#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=281></a>
 
-##### Section I : Eléments d'actif admis en représentation des engagements réglementés.<a id=280></a>
+##### Section I : Eléments d'actif admis en représentation des engagements réglementés.<a id=282></a>
 
 ###### Article R332-1
 
@@ -31240,7 +31475,7 @@ _Cite_:
   - Code des assurances - art. R332-17 (M)
 
 
-##### Section II : Réglementations particulières concernant certains éléments d'actif.<a id=281></a>
+##### Section II : Réglementations particulières concernant certains éléments d'actif.<a id=283></a>
 
 ###### Article R332-14
 
@@ -31484,7 +31719,7 @@ _Abrogé par_:
   - Décret n°2015-513 du 7 mai 2015 - art. 8
 
 
-##### Section III : Estimation des éléments d'actif.<a id=282></a>
+##### Section III : Estimation des éléments d'actif.<a id=284></a>
 
 ###### Article R332-19
 
@@ -32046,7 +32281,7 @@ _Anciens textes_:
   - Code des assurances R332-32
 
 
-##### Section IV : Commissions et frais d'acquisition à amortir.<a id=283></a>
+##### Section IV : Commissions et frais d'acquisition à amortir.<a id=285></a>
 
 ###### Article R332-33
 
@@ -32142,7 +32377,7 @@ _Cite_:
   - Code des assurances R341-6, L310-1, L331-1
 
 
-##### Section V : Règles particulières à certaines entreprises étrangères.<a id=284></a>
+##### Section V : Règles particulières à certaines entreprises étrangères.<a id=286></a>
 
 ###### Article R332-37
 
@@ -32423,7 +32658,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
 
 
-##### Section VI : Dispositions particulières aux territoires d'outre-mer.<a id=285></a>
+##### Section VI : Dispositions particulières aux territoires d'outre-mer.<a id=287></a>
 
 ###### Article R*332-45
 
@@ -32476,7 +32711,7 @@ _Nouveaux textes_:
   - Code des assurances - art. R332-59 (T)
 
 
-#### Chapitre III : Revenu des placements.<a id=286></a>
+#### Chapitre III : Revenu des placements.<a id=288></a>
 
 ###### Article R*333-3
 
@@ -32568,11 +32803,11 @@ _Cité par_:
   - TXT_ASSOCIE: Code des assurances A333-6 à A333-10
 
 
-#### Chapitre IV : Solvabilité des entreprises<a id=287></a>
+#### Chapitre IV : Solvabilité des entreprises<a id=289></a>
 
-##### Section I : La marge de solvabilité<a id=288></a>
+##### Section I : La marge de solvabilité<a id=290></a>
 
-##### Dispositions communes.<a id=289></a>
+##### Dispositions communes.<a id=291></a>
 
 ###### Article R*334-2
 
@@ -32649,9 +32884,9 @@ _Cité par_:
   - Code des assurances - art. R334-4 (M)
 
 
-##### Section II : La marge de solvabilité des entreprises d'assurance de dommages<a id=290></a>
+##### Section II : La marge de solvabilité des entreprises d'assurance de dommages<a id=292></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=291></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=293></a>
 
 ###### Article R334-3
 
@@ -32773,7 +33008,7 @@ _Cité par_:
   - Code des assurances - art. R334-42 (V)
 
 
-##### Paragraphe 2 : Montant réglementaire de la marge de solvabilité.<a id=292></a>
+##### Paragraphe 2 : Montant réglementaire de la marge de solvabilité.<a id=294></a>
 
 ###### Article R334-5
 
@@ -32906,7 +33141,7 @@ _Cite_:
   - Code des assurances - art. R*334-5 (M)
 
 
-##### Paragraphe 3 : Le fonds de garantie.<a id=293></a>
+##### Paragraphe 3 : Le fonds de garantie.<a id=295></a>
 
 ###### Article R334-7
 
@@ -33125,9 +33360,9 @@ _Cité par_:
   - Code des assurances - art. R335-2 (VD)
 
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=294></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=296></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=295></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=297></a>
 
 ###### Article R334-11
 
@@ -33249,7 +33484,7 @@ _Cité par_:
   - Code des assurances - art. R334-42 (V)
 
 
-##### Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité.<a id=296></a>
+##### Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité.<a id=298></a>
 
 ###### Article R334-13
 
@@ -33408,7 +33643,7 @@ _Cite_:
   - Code des assurances - art. R*334-13 (M)
 
 
-##### Paragraphe 3 : Le fonds de garantie.<a id=297></a>
+##### Paragraphe 3 : Le fonds de garantie.<a id=299></a>
 
 ###### Article R334-15
 
@@ -33501,9 +33736,9 @@ _Cité par_:
   - Code des assurances - art. R334-21 (V)
 
 
-##### Section IV : La marge de solvabilité des entreprises mixtes définies à l'article L. 341-1<a id=298></a>
+##### Section IV : La marge de solvabilité des entreprises mixtes définies à l'article L. 341-1<a id=300></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=299></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=301></a>
 
 ###### Article R334-17
 
@@ -33589,7 +33824,7 @@ _Cité par_:
   - Code des assurances - art. R334-42 (V)
 
 
-##### Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité.<a id=300></a>
+##### Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité.<a id=302></a>
 
 ###### Article R334-19
 
@@ -33680,7 +33915,7 @@ _Cite_:
   - Code des assurances - art. R*334-21 (M)
 
 
-##### Paragraphe 3 : Le fonds de garantie.<a id=301></a>
+##### Paragraphe 3 : Le fonds de garantie.<a id=303></a>
 
 ###### Article R334-21
 
@@ -33724,7 +33959,7 @@ _Cité par_:
   - Code des assurances - art. R334-20 (M)
 
 
-##### Section V : Vérification de solvabilité globale.<a id=302></a>
+##### Section V : Vérification de solvabilité globale.<a id=304></a>
 
 ###### Article R334-22
 
@@ -33877,7 +34112,7 @@ _Anciens textes_:
   - Code des assurances R334-19 (6ème version)
 
 
-##### Section VI : Dispositions transitoires relatives à la marge de solvabilité.<a id=303></a>
+##### Section VI : Dispositions transitoires relatives à la marge de solvabilité.<a id=305></a>
 
 ###### Article R334-30
 
@@ -34015,7 +34250,7 @@ _Cite_:
   - Code des assurances - art. R334-15
 
 
-##### Section VII : Dispositions particulières aux territoires d'outre-mer.<a id=304></a>
+##### Section VII : Dispositions particulières aux territoires d'outre-mer.<a id=306></a>
 
 ###### Article R334-39
 
@@ -34044,9 +34279,9 @@ _Modifié par_:
   - Décret n°95-1133 du 23 octobre 1995 - art. 1 () JORF 25 octobre 1995
 
 
-### Titre IV : Dispositions comptables et statistiques<a id=305></a>
+### Titre IV : Dispositions comptables et statistiques<a id=307></a>
 
-#### Chapitre Ier : Principes généraux.<a id=306></a>
+#### Chapitre Ier : Principes généraux.<a id=308></a>
 
 ###### Article R341-1
 
@@ -34377,7 +34612,7 @@ _Cite_:
   - Code des assurances - art. R*341-5 (M)
 
 
-#### Chapitre IV : Catégories d'assurances et états à produire.<a id=307></a>
+#### Chapitre IV : Catégories d'assurances et états à produire.<a id=309></a>
 
 ###### Article R344-1
 
@@ -34511,7 +34746,7 @@ _Cité par_:
   - Code des assurances - art. A341-1 (M)
 
 
-#### Chapitre V : Comptes consolidés.<a id=308></a>
+#### Chapitre V : Comptes consolidés.<a id=310></a>
 
 ###### Article R345-1
 
@@ -34675,7 +34910,7 @@ _Cite_:
   - Code des assurances - art. L310-19 (M)
 
 
-##### Section I : Méthode de consolidation et méthode d'élaboration des comptes combinés<a id=309></a>
+##### Section I : Méthode de consolidation et méthode d'élaboration des comptes combinés<a id=311></a>
 
 ###### Article R345-4
 
@@ -34694,7 +34929,7 @@ _Modifié par_:
   - Décret n°2001-51 du 17 janvier 2001 - art. 7 () JORF 19 janvier 2001
 
 
-##### Section II : Présentation des comptes consolidés ou combinés<a id=310></a>
+##### Section II : Présentation des comptes consolidés ou combinés<a id=312></a>
 
 ###### Article R345-7
 
@@ -34717,11 +34952,11 @@ _Modifié par_:
   - Décret n°2001-51 du 17 janvier 2001 - art. 8 () JORF 19 janvier 2001
 
 
-### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes<a id=311></a>
+### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes<a id=313></a>
 
-#### Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages.<a id=312></a>
+#### Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages.<a id=314></a>
 
-##### Section I : Dispositions générales.<a id=313></a>
+##### Section I : Dispositions générales.<a id=315></a>
 
 ###### Article R351-1
 
@@ -34926,7 +35161,7 @@ _Cité par_:
   - Code des assurances - art. R356-43 (VD)
 
 
-##### Section II : Conditions d'exercice.<a id=314></a>
+##### Section II : Conditions d'exercice.<a id=316></a>
 
 ###### Article R351-6
 
@@ -34972,9 +35207,9 @@ _Cite_:
   - Code des assurances R321-6, R321-7
 
 
-#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=315></a>
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=317></a>
 
-##### Section I : Dispositions générales.<a id=316></a>
+##### Section I : Dispositions générales.<a id=318></a>
 
 ###### Article R353-1
 
@@ -35101,7 +35336,7 @@ _Cite_:
   - Code des assurances L353-5, R321-4, R353-2
 
 
-##### Section II : Conditions d'exercice.<a id=317></a>
+##### Section II : Conditions d'exercice.<a id=319></a>
 
 ###### Article R353-5
 
@@ -35153,13 +35388,13 @@ _Abrogé par_:
   - Décret n°2015-513 du 7 mai 2015 - art. 4
 
 
-### Titre V : Régime prudentiel applicable aux entreprises relevant du régime dit “ Solvabilité II ”<a id=318></a>
+### Titre V : Régime prudentiel applicable aux entreprises relevant du régime dit “ Solvabilité II ”<a id=320></a>
 
-#### Chapitre Ier : Valorisation du bilan prudentiel<a id=319></a>
+#### Chapitre Ier : Valorisation du bilan prudentiel<a id=321></a>
 
-##### Section II : Provisions techniques prudentielles<a id=320></a>
+##### Section II : Provisions techniques prudentielles<a id=322></a>
 
-##### Sous-section 1 : Dispositions générales sur la valorisation des provisions techniques prudentielles<a id=321></a>
+##### Sous-section 1 : Dispositions générales sur la valorisation des provisions techniques prudentielles<a id=323></a>
 
 ###### Article R351-5-1
 
@@ -35196,9 +35431,9 @@ _Cite_:
   - Code des assurances - art. L351-6-1
 
 
-### Titre VI : Libre établissement et libre prestation de services communautaires<a id=322></a>
+### Titre VI : Libre établissement et libre prestation de services communautaires<a id=324></a>
 
-#### Chapitre II : Conditions d'exercice.<a id=323></a>
+#### Chapitre II : Conditions d'exercice.<a id=325></a>
 
 ###### Article R362-1
 
@@ -35259,11 +35494,11 @@ _Cite_:
   - Code des assurances - art. L310-2 (M)
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=324></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=326></a>
 
-### Titre Ier : Organisations générales d'assurance.<a id=325></a>
+### Titre Ier : Organisations générales d'assurance.<a id=327></a>
 
-#### Chapitre I : Le conseil national des assurances<a id=326></a>
+#### Chapitre I : Le conseil national des assurances<a id=328></a>
 
 ###### Article R*411-4
 
@@ -35735,7 +35970,7 @@ _Modifié par_:
   - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
 
 
-#### Chapitre II : L'école nationale d'assurances.<a id=327></a>
+#### Chapitre II : L'école nationale d'assurances.<a id=329></a>
 
 ###### Article R*412-1
 
@@ -35783,13 +36018,13 @@ _Abrogé par_:
   - Décret n°2015-1857 du 30 décembre 2015 - art. 1
 
 
-### Titre II : Le fonds de garantie<a id=328></a>
+### Titre II : Le fonds de garantie<a id=330></a>
 
-#### Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse<a id=329></a>
+#### Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse<a id=331></a>
 
-##### Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=330></a>
+##### Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=332></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=331></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=333></a>
 
 ###### Article R421-1
 
@@ -35848,7 +36083,7 @@ _Cité par_:
   - Code des assurances - art. R421-58 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne.<a id=332></a>
+##### Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne.<a id=334></a>
 
 ###### Article R421-2
 
@@ -36738,7 +36973,7 @@ _Cite_:
   - Loi n°1942-04-03
 
 
-##### Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages aux biens.<a id=333></a>
+##### Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages aux biens.<a id=335></a>
 
 ###### Article R421-18
 
@@ -36912,7 +37147,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
 
-##### Section II : Dispositions applicables aux accidents de chasse.<a id=334></a>
+##### Section II : Dispositions applicables aux accidents de chasse.<a id=336></a>
 
 ###### Article R421-21
 
@@ -37078,7 +37313,7 @@ _Anciens textes_:
   - Code des assurances R420-24
 
 
-##### Section III : Organisation, fonctionnement et contrôle du fonds de garantie.<a id=335></a>
+##### Section III : Organisation, fonctionnement et contrôle du fonds de garantie.<a id=337></a>
 
 ###### Article R421-25
 
@@ -37173,9 +37408,9 @@ _Anciens textes_:
   - Code des assurances R420-26
 
 
-##### Section IV : Régime financier du fonds de garantie<a id=336></a>
+##### Section IV : Régime financier du fonds de garantie<a id=338></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents d'automobile.<a id=337></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents d'automobile.<a id=339></a>
 
 ###### Article R421-27
 
@@ -37343,7 +37578,7 @@ _Anciens textes_:
   - Code des assurances - art. R*420-37 (T)
 
 
-##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.<a id=338></a>
+##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.<a id=340></a>
 
 ###### Article R421-38
 
@@ -37521,7 +37756,7 @@ _Anciens textes_:
   - Code des assurances - art. R*420-43 (T)
 
 
-##### Paragraphe 3 : Dispositions communes aux accidents de la circulation et de chasse.<a id=339></a>
+##### Paragraphe 3 : Dispositions communes aux accidents de la circulation et de chasse.<a id=341></a>
 
 ###### Article R421-44
 
@@ -37713,7 +37948,7 @@ _Cité par_:
   - Code des assurances - art. R421-46 (V)
 
 
-##### Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.<a id=340></a>
+##### Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.<a id=342></a>
 
 ###### Article R*421-50
 
@@ -37925,7 +38160,7 @@ _Cite_:
   - Code des assurances - art. R421-16 (M)
 
 
-##### Section VI : Dispositions particulières aux départements d'outre-mer.<a id=341></a>
+##### Section VI : Dispositions particulières aux départements d'outre-mer.<a id=343></a>
 
 ###### Article R421-57
 
@@ -37953,7 +38188,7 @@ _Anciens textes_:
   - Code des assurances R420-57
 
 
-##### Section VII : Dispositions particulières aux territoires d'outre-mer et à la collectivité territoriale de Mayotte.<a id=342></a>
+##### Section VII : Dispositions particulières aux territoires d'outre-mer et à la collectivité territoriale de Mayotte.<a id=344></a>
 
 ###### Article R421-58
 
@@ -38274,7 +38509,7 @@ _Cite_:
   - Code des assurances - art. R421-9 (M)
 
 
-##### Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.<a id=343></a>
+##### Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.<a id=345></a>
 
 ###### Article R421-64
 
@@ -38542,7 +38777,7 @@ _Anciens textes_:
   - Code des assurances R420-70
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=344></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=346></a>
 
 ###### Article R422-2
 
@@ -38749,7 +38984,7 @@ _Créé par_:
   - Loi n°90-1211 1990-12-21 art. 12, art. 16 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 
-#### Chapitre III : Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes.<a id=345></a>
+#### Chapitre III : Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes.<a id=347></a>
 
 ###### Article R423-1
 
@@ -39285,9 +39520,9 @@ _Créé par_:
   - Décret n°99-688 du 3 août 1999 - art. 1 () JORF 6 août 1999
 
 
-### Titre II : Les fonds de garantie<a id=346></a>
+### Titre II : Les fonds de garantie<a id=348></a>
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=347></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=349></a>
 
 ###### Article R422-1
 
@@ -39347,11 +39582,11 @@ _Modifié par_:
   - Loi n°90-1211 1990-12-21 art. 12, art. 13 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 
-### Titre III : Organismes particuliers d'assurance<a id=348></a>
+### Titre III : Organismes particuliers d'assurance<a id=350></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=349></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=351></a>
 
-##### Section I : Dispositions générales.<a id=350></a>
+##### Section I : Dispositions générales.<a id=352></a>
 
 ###### Article R*431-6
 
@@ -39406,9 +39641,9 @@ _Cite_:
   - Code des assurances - art. R322-26 (V)
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat<a id=351></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat<a id=353></a>
 
-##### Paragraphe 1 : Dispositions communes.<a id=352></a>
+##### Paragraphe 1 : Dispositions communes.<a id=354></a>
 
 ###### Article R431-16-1
 
@@ -39525,7 +39760,7 @@ _Cite_:
   - Code des assurances - art. R431-16-3 (V)
 
 
-##### Paragraphe 2 : Risques exceptionnels et nucléaires.<a id=353></a>
+##### Paragraphe 2 : Risques exceptionnels et nucléaires.<a id=355></a>
 
 ###### Article R431-27
 
@@ -39574,7 +39809,7 @@ _Modifié par_:
   - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
 
 
-##### Paragraphe 3 : Risques de catastrophes naturelles.<a id=354></a>
+##### Paragraphe 3 : Risques de catastrophes naturelles.<a id=356></a>
 
 ###### Article R431-30
 
@@ -39637,9 +39872,9 @@ _Cite_:
   - Code des assurances - art. R431-30 (V)
 
 
-##### Section III : Opérations de gestion<a id=355></a>
+##### Section III : Opérations de gestion<a id=357></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=356></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=358></a>
 
 ###### Article R431-33
 
@@ -39804,7 +40039,7 @@ _Cité par_:
   - Code des assurances - art. R*431-44 (M)
 
 
-##### Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction.<a id=357></a>
+##### Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction.<a id=359></a>
 
 ###### Article R*431-55
 
@@ -40072,11 +40307,11 @@ _Cite_:
   - Code des assurances - art. L431-14 (V)
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=358></a>
+### Titre IV : Régimes particuliers d'assurance<a id=360></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=359></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=361></a>
 
-##### Section I : Dispositions générales.<a id=360></a>
+##### Section I : Dispositions générales.<a id=362></a>
 
 ###### Article R*441-2
 
@@ -40143,7 +40378,7 @@ _Cité par_:
   - Code des assurances - art. R*441-34 (Ab)
 
 
-##### Section II : Règles techniques et comptables.<a id=361></a>
+##### Section II : Règles techniques et comptables.<a id=363></a>
 
 ###### Article R*441-8
 
@@ -40651,7 +40886,7 @@ _Cité par_:
   - Code des assurances - art. R441-7-5 (VD)
 
 
-##### Section III : Conversion de la convention.<a id=362></a>
+##### Section III : Conversion de la convention.<a id=364></a>
 
 ###### Article R441-25
 
@@ -40778,7 +41013,7 @@ _Nouveaux textes_:
   - Code des assurances - art. R441-27 (V)
 
 
-##### Section IV : Dispositions transitoires.<a id=363></a>
+##### Section IV : Dispositions transitoires.<a id=365></a>
 
 ###### Article R*441-30
 
@@ -40808,11 +41043,11 @@ _Cite_:
   - Code des assurances - art. D441-22 (V)
 
 
-#### Chapitre II : Autres régimes particuliers d'assurance<a id=364></a>
+#### Chapitre II : Autres régimes particuliers d'assurance<a id=366></a>
 
-##### Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux<a id=365></a>
+##### Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux<a id=367></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=366></a>
+##### Paragraphe 1 : Dispositions générales.<a id=368></a>
 
 ###### Article R442-1
 
@@ -41062,7 +41297,7 @@ _Cité par_:
   - Décret n°2014-636 du 19 juin 2014 (V)
 
 
-##### Paragraphe 2 : Opérations d'exportation.<a id=367></a>
+##### Paragraphe 2 : Opérations d'exportation.<a id=369></a>
 
 ###### Article R442-8-1
 
@@ -41255,7 +41490,7 @@ _Cite_:
   - Code des assurances - art. R442-8-2
 
 
-##### Paragraphe 3 : Opérations d'investissement.<a id=368></a>
+##### Paragraphe 3 : Opérations d'investissement.<a id=370></a>
 
 ###### Article R442-9-1
 
@@ -41334,7 +41569,7 @@ _Créé par_:
   - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
 
 
-##### Paragraphe 4 : Opérations d'importation.<a id=369></a>
+##### Paragraphe 4 : Opérations d'importation.<a id=371></a>
 
 ###### Article R442-10-1
 
@@ -41461,7 +41696,7 @@ _Cite_:
   - Code des assurances - art. R442-1 (Ab)
 
 
-##### Paragraphe 5 : Dispositions communes.<a id=370></a>
+##### Paragraphe 5 : Dispositions communes.<a id=372></a>
 
 ###### Article R442-11
 
@@ -41487,11 +41722,11 @@ _Abrogé par_:
   - Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=371></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=373></a>
 
-### Titre I : Présentation des opérations<a id=372></a>
+### Titre I : Présentation des opérations<a id=374></a>
 
-#### Chapitre I : Principes généraux.<a id=373></a>
+#### Chapitre I : Principes généraux.<a id=375></a>
 
 ###### Article R*511-1
 
@@ -41814,9 +42049,9 @@ _Abrogé par_:
   - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 
-#### Chapitre II : Dérogations aux principes généraux<a id=374></a>
+#### Chapitre II : Dérogations aux principes généraux<a id=376></a>
 
-##### Section I : Dérogations permanentes.<a id=375></a>
+##### Section I : Dérogations permanentes.<a id=377></a>
 
 ###### Article R*512-1
 
@@ -42057,7 +42292,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
 
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=376></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=378></a>
 
 ###### Article R*513-6
 
@@ -42314,9 +42549,9 @@ _Cite_:
   - Code des assurances - art. R*514-5 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=377></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=379></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=378></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=380></a>
 
 ###### Article R514-1
 
@@ -42461,7 +42696,7 @@ _Cite_:
   - Code des assurances R514-1, R514-13
 
 
-##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=379></a>
+##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=381></a>
 
 ###### Article R*514-6
 
@@ -42564,7 +42799,7 @@ _Cite_:
   - Code des assurances R511-4, R514-7
 
 
-##### Section III : Modalités de contrôle spéciales aux conditions d'honorabilité.<a id=380></a>
+##### Section III : Modalités de contrôle spéciales aux conditions d'honorabilité.<a id=382></a>
 
 ###### Article R*514-8
 
@@ -42762,7 +42997,7 @@ _Cite_:
   - SPEC_APPLI: Code des assurances R515-11
 
 
-##### Section IV : Dispositions diverses et pénalités.<a id=381></a>
+##### Section IV : Dispositions diverses et pénalités.<a id=383></a>
 
 ###### Article R*514-14
 
@@ -42861,9 +43096,9 @@ _Cite_:
   - Code des assurances R514-1, R514-3, R514-6, R514-8 à R514-10, R514-12, R514-14, R514-15, R515-1 à R515-7, R515-9
 
 
-#### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France<a id=382></a>
+#### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France<a id=384></a>
 
-##### Section I : Conditions de capacité professionnelle.<a id=383></a>
+##### Section I : Conditions de capacité professionnelle.<a id=385></a>
 
 ###### Article R515-1
 
@@ -43043,7 +43278,7 @@ _Cite_:
   - Code des assurances R515-1, R515-3, R515-4, R515-6
 
 
-##### Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité.<a id=384></a>
+##### Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité.<a id=386></a>
 
 ###### Article R*515-6
 
@@ -43118,7 +43353,7 @@ _Cite_:
   - Code des assurances R515-6, L511-2, R515-3
 
 
-##### Section III : Dispositions relatives à la libre prestation de services.<a id=385></a>
+##### Section III : Dispositions relatives à la libre prestation de services.<a id=387></a>
 
 ###### Article R*515-9
 
@@ -43165,7 +43400,7 @@ _Cite_:
   - Code des assurances L310-2, R515-6, R530-8
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=386></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=388></a>
 
 ###### Article R*516-1
 
@@ -43198,9 +43433,9 @@ _Cite_:
   - Code des assurances - art. R515-3 (M)
 
 
-### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=387></a>
+### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=389></a>
 
-#### Chapitre unique.<a id=388></a>
+#### Chapitre unique.<a id=390></a>
 
 ###### Article R530-1
 
@@ -43604,13 +43839,13 @@ _Abrogé par_:
   - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 
-# Partie réglementaire - Arrêtés<a id=389></a>
+# Partie réglementaire - Arrêtés<a id=391></a>
 
-## Livre Ier : Le contrat<a id=390></a>
+## Livre Ier : Le contrat<a id=392></a>
 
-### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes<a id=391></a>
+### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes<a id=393></a>
 
-#### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=392></a>
+#### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=394></a>
 
 ###### Article A113-1
 
@@ -43642,9 +43877,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-### Titre II : Règles relatives aux assurances de dommages non maritimes<a id=393></a>
+### Titre II : Règles relatives aux assurances de dommages non maritimes<a id=395></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=394></a>
+#### Chapitre Ier : Dispositions générales.<a id=396></a>
 
 ###### Article A121-1
 
@@ -43736,7 +43971,7 @@ _Cite_:
   - Code des assurances - art. A121-1 (V)
 
 
-#### Chapitre V : L'assurance des risques de catastrophes naturelles.<a id=395></a>
+#### Chapitre V : L'assurance des risques de catastrophes naturelles.<a id=397></a>
 
 ###### Article A125-1
 
@@ -43862,11 +44097,11 @@ _Cite_:
   - Code des assurances - art. L125-1 (M)
 
 
-### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=396></a>
+### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=398></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=397></a>
+#### Chapitre Ier : Dispositions générales.<a id=399></a>
 
-##### Section I : Valeur de référence au contrat.<a id=398></a>
+##### Section I : Valeur de référence au contrat.<a id=400></a>
 
 ###### Article A131-2
 
@@ -43930,7 +44165,7 @@ _Cite_:
   - Code des assurances - art. R131-4 (M)
 
 
-##### Section I : Valeur de référence du contrat.<a id=399></a>
+##### Section I : Valeur de référence du contrat.<a id=401></a>
 
 ###### Article A131-1
 
@@ -43985,9 +44220,9 @@ _Cite_:
   - Code des assurances - art. R131-2 (V)
 
 
-#### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=400></a>
+#### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=402></a>
 
-##### Section III : Participation aux bénéfices techniques et financiers.<a id=401></a>
+##### Section III : Participation aux bénéfices techniques et financiers.<a id=403></a>
 
 ###### Article A132-1
 
@@ -44508,9 +44743,9 @@ _Cite_:
   - Code des assurances - art. L132-5-1 (M)
 
 
-### Titre IV : Les assurances de groupe<a id=402></a>
+### Titre IV : Les assurances de groupe<a id=404></a>
 
-#### Chapitre unique.<a id=403></a>
+#### Chapitre unique.<a id=405></a>
 
 ###### Article A140-1
 
@@ -44540,11 +44775,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L140-6 (T)
 
 
-### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=404></a>
+### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=406></a>
 
-#### Chapitre unique<a id=405></a>
+#### Chapitre unique<a id=407></a>
 
-##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.<a id=406></a>
+##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.<a id=408></a>
 
 ###### Article A160-1
 
@@ -44679,7 +44914,7 @@ De la délivrance du duplicata
 
 
 
-##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=407></a>
+##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=409></a>
 
 ###### Article A160-3
 
@@ -44706,7 +44941,7 @@ _Cite_:
   - Code des assurances - art. A331-1-1 (V)
 
 
-##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=408></a>
+##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=410></a>
 
 ###### Article A160-2
 
@@ -44760,13 +44995,13 @@ _Cité par_:
   - Code des assurances - art. A160-2 (V)
 
 
-## Livre II : Assurances obligatoires<a id=409></a>
+## Livre II : Assurances obligatoires<a id=411></a>
 
-### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques<a id=410></a>
+### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques<a id=412></a>
 
-#### Chapitre Ier : L'obligation de s'assurer<a id=411></a>
+#### Chapitre Ier : L'obligation de s'assurer<a id=413></a>
 
-##### Section I : Personnes assujetties.<a id=412></a>
+##### Section I : Personnes assujetties.<a id=414></a>
 
 ###### Article A211-1
 
@@ -44815,7 +45050,7 @@ _Cite_:
   - Code des assurances L211-3, R211-2 à R211-13
 
 
-##### Section II : Etendue de l'obligation d'assurance.<a id=413></a>
+##### Section II : Etendue de l'obligation d'assurance.<a id=415></a>
 
 ###### Article A211-1-1
 
@@ -44862,7 +45097,7 @@ _Créé par_:
   - Arrêté 1983-06-09 art. 2 JORF 14 juin 1983
 
 
-##### Section III : Franchises, exclusions de garantie et déchéances.<a id=414></a>
+##### Section III : Franchises, exclusions de garantie et déchéances.<a id=416></a>
 
 ###### Article A211-3
 
@@ -44910,9 +45145,9 @@ _Cite_:
   - Code des assurances - art. R211-10 (V)
 
 
-##### Section IV : Contrôle de l'obligation d'assurance<a id=415></a>
+##### Section IV : Contrôle de l'obligation d'assurance<a id=417></a>
 
-##### Paragraphe 1 : L'attestation d'assurance.<a id=416></a>
+##### Paragraphe 1 : L'attestation d'assurance.<a id=418></a>
 
 ###### Article A211-4
 
@@ -45070,7 +45305,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances R211-19
 
 
-##### Paragraphe 2 : Le certificat d'assurance.<a id=417></a>
+##### Paragraphe 2 : Le certificat d'assurance.<a id=419></a>
 
 ###### Article A211-9
 
@@ -45121,7 +45356,7 @@ _Anciens textes_:
   - Code des assurances - art. A211-8-2 (T)
 
 
-##### Section VI : Procédures d'indemnisation.<a id=418></a>
+##### Section VI : Procédures d'indemnisation.<a id=420></a>
 
 ###### Article A211-11
 
@@ -45441,9 +45676,9 @@ _Cite_:
   - Décret n°86-15 du 6 janvier 1986 (V)
 
 
-### Titre II : L'assurance des engins de remontée mécanique<a id=419></a>
+### Titre II : L'assurance des engins de remontée mécanique<a id=421></a>
 
-#### Chapitre unique.<a id=420></a>
+#### Chapitre unique.<a id=422></a>
 
 ###### Article A220-3
 
@@ -45647,9 +45882,9 @@ _Cite_:
   - Code des assurances - art. L220-1 (V)
 
 
-### Titre III : L'assurance de la responsabilité civile des chasseurs<a id=421></a>
+### Titre III : L'assurance de la responsabilité civile des chasseurs<a id=423></a>
 
-#### Chapitre unique.<a id=422></a>
+#### Chapitre unique.<a id=424></a>
 
 ###### Article A230-5
 
@@ -45785,7 +46020,7 @@ _Cite_:
   - Code rural - art. L223-13 (V)
 
 
-### Titre IV : L'assurance des travaux de bâtiment<a id=423></a>
+### Titre IV : L'assurance des travaux de bâtiment<a id=425></a>
 
 ###### Article A243-1
 
@@ -46282,7 +46517,7 @@ _Cite_:
   - Code des assurances - art. L242-1 (V)
 
 
-### Titre V : Dispositions relatives au bureau central de tarification.<a id=424></a>
+### Titre V : Dispositions relatives au bureau central de tarification.<a id=426></a>
 
 ###### Article A250-1
 
@@ -46347,13 +46582,13 @@ _Cite_:
   - Code des assurances - art. R250-2 (V)
 
 
-## Livre III : Les entreprises.<a id=425></a>
+## Livre III : Les entreprises.<a id=427></a>
 
-### Titre Ier : Dispositions générales et contrôle de l'Etat.<a id=426></a>
+### Titre Ier : Dispositions générales et contrôle de l'Etat.<a id=428></a>
 
-#### Chapitre unique<a id=427></a>
+#### Chapitre unique<a id=429></a>
 
-##### Section II : Commission de contrôle des assurances.<a id=428></a>
+##### Section II : Commission de contrôle des assurances.<a id=430></a>
 
 ###### Article A310-3
 
@@ -46443,7 +46678,7 @@ _Cite_:
   - Code des assurances - art. R310-20 (Ab)
 
 
-##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.<a id=429></a>
+##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.<a id=431></a>
 
 ###### Article A310-5
 
@@ -46479,9 +46714,9 @@ _Cité par_:
   - Code des assurances - art. A310-6 (V)
 
 
-#### Chapitre unique<a id=430></a>
+#### Chapitre unique<a id=432></a>
 
-##### Section I : Dispositions générales.<a id=431></a>
+##### Section I : Dispositions générales.<a id=433></a>
 
 ###### Article A310-1
 
@@ -46546,7 +46781,7 @@ _Cite_:
   - Code des assurances R321-17-1, A321-2
 
 
-##### Section I : Dispositions générales<a id=432></a>
+##### Section I : Dispositions générales<a id=434></a>
 
 ###### Article A310-2-1
 
@@ -46589,7 +46824,7 @@ _Cite_:
   - Code des assurances - art. R310-7
 
 
-##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.<a id=433></a>
+##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.<a id=435></a>
 
 ###### Article A310-6
 
@@ -46645,11 +46880,11 @@ _Anciens textes_:
   - Code des assurances - art. A310-3 (T)
 
 
-### Titre II : Régime administratif<a id=434></a>
+### Titre II : Régime administratif<a id=436></a>
 
-#### Chapitre Ier : Les agréments.<a id=435></a>
+#### Chapitre Ier : Les agréments.<a id=437></a>
 
-##### Section I : Agrément administratif des entreprises françaises.<a id=436></a>
+##### Section I : Agrément administratif des entreprises françaises.<a id=438></a>
 
 ###### Article A321-1
 
@@ -47031,7 +47266,7 @@ d'un autre membre du conseil d'administration de l'entreprise.)
 
 
 
-##### Section I : Agrément administratif des entreprises françaises.<a id=437></a>
+##### Section I : Agrément administratif des entreprises françaises.<a id=439></a>
 
 ###### Article A321-2
 
@@ -47088,7 +47323,7 @@ _Cité par_:
   - Code des assurances - art. A322-1 (V)
 
 
-##### Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen.<a id=438></a>
+##### Section II : Agrément administratif des entreprises non communautaires dont le siège social est situé dans un Etat membre de l'Espace économique européen.<a id=440></a>
 
 ###### Article A321-7
 
@@ -47136,7 +47371,7 @@ _Cite_:
   - Code des assurances - art. L321-7 (V)
 
 
-##### Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen.<a id=439></a>
+##### Section III : Agrément spécial des entreprises dont le siège social est situé dans un Etat non membre de l'Espace économique européen.<a id=441></a>
 
 ###### Article A321-8
 
@@ -47205,9 +47440,9 @@ _Cite_:
   - Code des assurances - art. L321-9 (M)
 
 
-#### Chapitre II : Règles de constitution et de fonctionnement<a id=440></a>
+#### Chapitre II : Règles de constitution et de fonctionnement<a id=442></a>
 
-##### Section II : Sociétés anonymes d'assurance et de capitalisation.<a id=441></a>
+##### Section II : Sociétés anonymes d'assurance et de capitalisation.<a id=443></a>
 
 ###### Article A322-1
 
@@ -47363,9 +47598,9 @@ _Cite_:
   - Code des assurances - art. R322-11-1 (M)
 
 
-##### Section IV : Sociétés d'assurance à forme mutuelle.<a id=442></a>
+##### Section IV : Sociétés d'assurance à forme mutuelle.<a id=444></a>
 
-##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=443></a>
+##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=445></a>
 
 ###### Article A322-6
 
@@ -47443,11 +47678,11 @@ _Codifié par_:
   - Arrêté 1976-07-16
 
 
-### Titre III : Régime financier.<a id=444></a>
+### Titre III : Régime financier.<a id=446></a>
 
-#### Chapitre Ier : Les engagements réglementés.<a id=445></a>
+#### Chapitre Ier : Les engagements réglementés.<a id=447></a>
 
-##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=446></a>
+##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=448></a>
 
 ###### Article A331-1
 
@@ -47680,7 +47915,7 @@ _Cite_:
   - Code des assurances - art. R331-3 (V)
 
 
-##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=447></a>
+##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=449></a>
 
 ###### Article A331-1-1
 
@@ -48008,9 +48243,9 @@ _Anciens textes_:
   - Code des assurances - art. A132-11 (T)
 
 
-##### Section III : Provisions techniques des autres opérations d'assurance<a id=448></a>
+##### Section III : Provisions techniques des autres opérations d'assurance<a id=450></a>
 
-##### Paragraphe 1 : Provision mathématique des rentes.<a id=449></a>
+##### Paragraphe 1 : Provision mathématique des rentes.<a id=451></a>
 
 ###### Article A331-10
 
@@ -48072,7 +48307,7 @@ _Cité par_:
   - Code des assurances - art. A331-13 (Ab)
 
 
-##### Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours.<a id=450></a>
+##### Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours.<a id=452></a>
 
 ###### Article A331-17
 
@@ -48118,7 +48353,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
 
 
-##### Paragraphe 3 : Provision pour sinistres restant à payer<a id=451></a>
+##### Paragraphe 3 : Provision pour sinistres restant à payer<a id=453></a>
 
 ###### Article A331-22
 
@@ -48173,9 +48408,9 @@ _Cite_:
   - Code des assurances - art. L310-1 (M)
 
 
-##### Section III : Provisions techniques des autres opérations d'assurance<a id=452></a>
+##### Section III : Provisions techniques des autres opérations d'assurance<a id=454></a>
 
-##### Paragraphe 1 : Provision mathématique des rentes.<a id=453></a>
+##### Paragraphe 1 : Provision mathématique des rentes.<a id=455></a>
 
 ###### Article A331-12
 
@@ -48202,7 +48437,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
 
 
-##### Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours.<a id=454></a>
+##### Paragraphe 2 : Provision pour primes non acquises et provision pour risques en cours.<a id=456></a>
 
 ###### Article A331-16
 
@@ -48313,7 +48548,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*331-18 (Ab)
 
 
-##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=455></a>
+##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=457></a>
 
 ###### Article A331-21
 
@@ -70369,9 +70604,9 @@ _Abrogé par_:
   - Arrêté du 28 décembre 2015 - art. 2
 
 
-#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=456></a>
+#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=458></a>
 
-##### Section I : Eléments d'actif admis en représentation des engagements réglementés.<a id=457></a>
+##### Section I : Eléments d'actif admis en représentation des engagements réglementés.<a id=459></a>
 
 ###### Article A332-1
 
@@ -70435,7 +70670,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code des assurances - art. R332-3 (M)
 
 
-##### Section III : Estimation des éléments d'actif.<a id=458></a>
+##### Section III : Estimation des éléments d'actif.<a id=460></a>
 
 ###### Article A332-5
 
@@ -70512,7 +70747,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code des assurances - art. R332-20 (M)
 
 
-##### Section III : Estimation des éléments d'actif.<a id=459></a>
+##### Section III : Estimation des éléments d'actif.<a id=461></a>
 
 ###### Article A332-7
 
@@ -70631,7 +70866,7 @@ _Cite_:
   - Code des assurances - art. R332-20-1 (M)
 
 
-#### Chapitre III : Revenu des placements.<a id=460></a>
+#### Chapitre III : Revenu des placements.<a id=462></a>
 
 ###### Article A333-2
 
@@ -70747,11 +70982,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*333-1 (M)
 
 
-#### Chapitre IV : Solvabilité des entreprises<a id=461></a>
+#### Chapitre IV : Solvabilité des entreprises<a id=463></a>
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=462></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=464></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=463></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=465></a>
 
 ###### Article A334-1
 
@@ -70790,9 +71025,9 @@ _Cite_:
   - Code des assurances - art. R334-11 (V)
 
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=464></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=466></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=465></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=467></a>
 
 ###### Article A334-2
 
@@ -70892,11 +71127,11 @@ _Cite_:
   - Code des assurances - art. R*334-3 (M)
 
 
-#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=466></a>
+#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=468></a>
 
-##### Section I : Tarifs.<a id=467></a>
+##### Section I : Tarifs.<a id=469></a>
 
-##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=468></a>
+##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=470></a>
 
 ###### Article A335-9-1
 
@@ -71012,9 +71247,9 @@ _Cite_:
   - Code des assurances - art. A335-9-3 (Ab)
 
 
-##### Section I : Tarifs<a id=469></a>
+##### Section I : Tarifs<a id=471></a>
 
-##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=470></a>
+##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=472></a>
 
 ###### Article A335-1
 
@@ -71090,9 +71325,9 @@ _Cite_:
   - Code des assurances - art. A132-1 (M)
 
 
-##### Section II : Frais d'acquisition et de gestion<a id=471></a>
+##### Section II : Frais d'acquisition et de gestion<a id=473></a>
 
-##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=472></a>
+##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=474></a>
 
 ###### Article A335-19
 
@@ -71125,9 +71360,9 @@ _Cité par_:
   - SPEC_APPLI: Code des assurances A335-20, A335-21 *fixation des commissions et rétributions*
 
 
-### Titre IV : Dispositions comptables et statistiques<a id=473></a>
+### Titre IV : Dispositions comptables et statistiques<a id=475></a>
 
-#### Chapitre Ier : Principes généraux.<a id=474></a>
+#### Chapitre Ier : Principes généraux.<a id=476></a>
 
 ###### Article A341-1
 
@@ -71208,9 +71443,9 @@ DANS L'ÉTAT MEMBRE SUIVANT DE LA CEE : PAYS DU RISQUE.
 
 
 
-#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=475></a>
+#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=477></a>
 
-##### Section I : Dispositions générales.<a id=476></a>
+##### Section I : Dispositions générales.<a id=478></a>
 
 ###### Article A342-1
 
@@ -71233,7 +71468,7 @@ _Cite_:
   - Code des assurances - art. L310-1 (V)
 
 
-##### Section II : Documents et registres comptables.<a id=477></a>
+##### Section II : Documents et registres comptables.<a id=479></a>
 
 ###### Article A342-2
 
@@ -71290,7 +71525,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 2 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-##### Section II : Documents et registres comptables.<a id=478></a>
+##### Section II : Documents et registres comptables.<a id=480></a>
 
 ###### Article A342-3
 
@@ -71359,7 +71594,7 @@ _Cite_:
   - Code des assurances - art. R331-1-1 (V)
 
 
-##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=479></a>
+##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=481></a>
 
 ###### Article A342-5
 
@@ -71473,7 +71708,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 3 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance.<a id=480></a>
+##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance.<a id=482></a>
 
 ###### Article A342-9
 
@@ -71501,7 +71736,7 @@ _Cité par_:
   - Arrêté du 11 septembre 1995 - art. 6 (V)
 
 
-##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance.<a id=481></a>
+##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance.<a id=483></a>
 
 ###### Article A342-8
 
@@ -71530,7 +71765,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 4 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-#### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation.<a id=482></a>
+#### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation.<a id=484></a>
 
 ###### Article A343-1
 
@@ -73082,9 +73317,9 @@ _Cite_:
   - Code des assurances - art. R332-7-1 (V)
 
 
-#### Chapitre IV : Catégories d'assurance et états à produire<a id=483></a>
+#### Chapitre IV : Catégories d'assurance et états à produire<a id=485></a>
 
-##### Section I : Dispositions générales.<a id=484></a>
+##### Section I : Dispositions générales.<a id=486></a>
 
 ###### Article A344-1
 
@@ -73112,7 +73347,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section II : Définition des catégories et sous-catégories.<a id=485></a>
+##### Section II : Définition des catégories et sous-catégories.<a id=487></a>
 
 ###### Article A344-2
 
@@ -73238,7 +73473,7 @@ _Cite_:
   - Code des assurances - art. L441-1 (M)
 
 
-##### Section III : Etats à produire.<a id=486></a>
+##### Section III : Etats à produire.<a id=488></a>
 
 ###### Article A344-3
 
@@ -73623,7 +73858,7 @@ _Cite_:
   - Code des assurances - art. R*341-5 (M)
 
 
-##### Section III : Etats à produire.<a id=487></a>
+##### Section III : Etats à produire.<a id=489></a>
 
 ###### Article A344-4
 
@@ -81336,7 +81571,7 @@ _Abrogé par_:
   - Arrêté du 28 décembre 2015 - art. 2
 
 
-##### Annexes A344-10  : ETATS<a id=488></a>
+##### Annexes A344-10  : ETATS<a id=490></a>
 
 ###### Article Annexe A344-10 ETAT C1
 
@@ -87072,11 +87307,11 @@ _Cite_:
   - Code des assurances - art. L310-1 (V)
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=489></a>
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=491></a>
 
-#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=490></a>
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=492></a>
 
-##### Section II : Conditions d'exercice<a id=491></a>
+##### Section II : Conditions d'exercice<a id=493></a>
 
 ###### Article A353-1
 
@@ -87112,9 +87347,9 @@ _Cite_:
   - Code des assurances - art. L353-4
 
 
-### Titre VI : Libre établissement et libre prestation de services communautaires<a id=492></a>
+### Titre VI : Libre établissement et libre prestation de services communautaires<a id=494></a>
 
-#### Chapitre II : Conditions d'exercice.<a id=493></a>
+#### Chapitre II : Conditions d'exercice.<a id=495></a>
 
 ###### Article A362-1
 
@@ -87222,15 +87457,15 @@ _Cite_:
   - Code des assurances - art. R321-1 (V)
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=494></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=496></a>
 
-### Titre II : Le fonds de garantie<a id=495></a>
+### Titre II : Le fonds de garantie<a id=497></a>
 
-#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=496></a>
+#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=498></a>
 
-##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=497></a>
+##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=499></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=498></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=500></a>
 
 ###### Article A421-1
 
@@ -87270,9 +87505,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R420-69
 
 
-##### Section IV : Régime financier du fonds de garantie<a id=499></a>
+##### Section IV : Régime financier du fonds de garantie<a id=501></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=500></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=502></a>
 
 ###### Article A421-2
 
@@ -87314,9 +87549,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances R420-35
 
 
-##### Section V : Régime financier du fonds de garantie<a id=501></a>
+##### Section V : Régime financier du fonds de garantie<a id=503></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=502></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=504></a>
 
 ###### Article A421-3
 
@@ -87386,7 +87621,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=503></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=505></a>
 
 ###### Article A422-1
 
@@ -87411,11 +87646,11 @@ _Cite_:
   - Code des assurances - art. R422-4 (V)
 
 
-### Titre III : Organismes particuliers d'assurance<a id=504></a>
+### Titre III : Organismes particuliers d'assurance<a id=506></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=505></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=507></a>
 
-##### Section I : Dispositions générales.<a id=506></a>
+##### Section I : Dispositions générales.<a id=508></a>
 
 ###### Article A431-1
 
@@ -87448,9 +87683,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R431-19
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=507></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=509></a>
 
-##### Paragraphe 4 : Risques d'attentat.<a id=508></a>
+##### Paragraphe 4 : Risques d'attentat.<a id=510></a>
 
 ###### Article A431-5
 
@@ -87501,9 +87736,9 @@ _Cite_:
   - Code des assurances - art. L431-10 (V)
 
 
-##### Section III : Opérations de gestion.<a id=509></a>
+##### Section III : Opérations de gestion.<a id=511></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=510></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=512></a>
 
 ###### Article A431-7
 
@@ -87649,7 +87884,7 @@ _Cite_:
   - Loi n°64-706 du 10 juillet 1964 - art. 5 (Ab)
 
 
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=511></a>
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=513></a>
 
 ###### Article A431-8
 
@@ -87810,11 +88045,11 @@ _Cite_:
   - Code des assurances - art. A335-1 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=512></a>
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=514></a>
 
-##### Section III : Risques garantis.<a id=513></a>
+##### Section III : Risques garantis.<a id=515></a>
 
-##### Paragraphe 6 : Dispositions communes.<a id=514></a>
+##### Paragraphe 6 : Dispositions communes.<a id=516></a>
 
 ###### Article A432-1
 
@@ -88059,11 +88294,11 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=515></a>
+### Titre IV : Régimes particuliers d'assurance<a id=517></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=516></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=518></a>
 
-##### Section II : Règles techniques et comptables.<a id=517></a>
+##### Section II : Règles techniques et comptables.<a id=519></a>
 
 ###### Article A441-1
 
@@ -88119,7 +88354,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
-##### Section II : Règles techniques et comptables.<a id=518></a>
+##### Section II : Règles techniques et comptables.<a id=520></a>
 
 ###### Article A441-2
 
@@ -88321,11 +88556,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=519></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=521></a>
 
-### Titre Ier : Présentation des opérations.<a id=520></a>
+### Titre Ier : Présentation des opérations.<a id=522></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=521></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=523></a>
 
 ###### Article A513-1
 
@@ -88500,9 +88735,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R513-2 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=522></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=524></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=523></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=525></a>
 
 ###### Article A514-1
 
@@ -88559,7 +88794,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=524></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=526></a>
 
 ###### Article A516-1
 
