@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-12-30
+Version Consolidée au 1998-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -8199,18 +8199,20 @@ _Cite_:
 ###### Article L213-1
 
 Une cotisation est due par toute personne physique ou morale qui, soit en qualité d'employeur, soit en qualité d'affilié,
-cotise à un régime obligatoire d'assurance maladie ou bénéficie d'un tel régime en qualité d'ayant droit d'affilié et qui est
-soumise à l'obligation d'assurance en matière de circulation de véhicules terrestres à moteur instituée par l'article L.
-211-1. Cette cotisation est perçue au profit des régimes obligatoires d'assurance maladie.
+cotise à un régime obligatoire d'assurance maladie ou bénéficie d'un tel régime en qualité d'ayant droit d'affilié ou
+acquitte la contribution sociale généralisée sur un revenu d'activité ou de remplacement et qui est soumise à l'obligation
+d'assurance en matière de circulation de véhicules terrestres à moteur instituée par l'article L. 211-1. Cette cotisation est
+perçue au profit des régimes obligatoires d'assurance maladie.
 
 Cette cotisation est proportionnelle aux primes ou cotisations afférentes à l'assurance obligatoire en matière de circulation
 de véhicules terrestres à moteur instituée par l'article L. 211-1. Elle est recouvrée par les entreprises d'assurance, dans
 les mêmes conditions et en même temps que ces primes.
 
 Il appartient aux personnes physiques ou morales qui ne cotisent pas soit en qualité d'employeur, soit en qualité d'affilié à
-un régime obligatoire d'assurance maladie ou qui ne bénéficient pas d'un tel régime en qualité d'ayants droit, d'en apporter
-la preuve par tous moyens et notamment par une déclaration aux organismes d'assurance auprès desquels elles ont souscrit des
-contrats en application de l'article L. 211-1 susmentionné.
+un régime obligatoire d'assurance maladie ou qui ne bénéficient pas d'un tel régime en qualité d'ayants droit ou qui
+n'acquittent pas la contribution sociale généralisée sur un revenu d'activité ou de remplacement, d'en apporter la preuve par
+tous moyens et notamment par une déclaration aux organismes d'assurance auprès desquels elles ont souscrit des contrats en
+application de l'article L. 211-1 susmentionné.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article et, notamment, le taux de la cotisation et
 les modalités de répartition du produit des cotisations entre les divers régimes obligatoires d'assurance maladie.
@@ -8264,7 +8266,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-314 du 12 avril 1996 - art. 85 () JORF 13 avril 1996 en vigueur le 1er janvier 1997
+  - Loi n°98-1194 du 23 décembre 1998 - art. 13 () JORF 27 décembre 1998 en vigueur le 1er janvier 1998
 
 _Cite_:
 
