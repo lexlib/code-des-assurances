@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-08-08
+Version Consolidée au 1986-08-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -227,9 +227,9 @@ Version Consolidée au 1986-08-08
             - [Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance. (art. R*322-30 à R*322-36)](#224)
             - [Paragraphe 4 : Dispositions diverses. (art. R*322-37 à R*322-41)](#225)
           - [Section IV : Sociétés d'assurance à forme mutuelle (art. R*322-43 à R*322-92)](#226)
-            - [Paragraphe 1 : Constitution. (art. R*322-43 à R322-42)](#227)
+            - [Paragraphe 1 : Constitution. (art. R*322-43 à R322-49)](#227)
             - [Paragraphe 2 : Administration. (art. R*322-53 à R*322-70)](#228)
-            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. R*322-71 à R*322-79)](#229)
+            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. R*322-71 à R322-74)](#229)
             - [Paragraphe 4 : Réassurance. (art. R*322-81 à R*322-84)](#230)
             - [Paragraphe 5 : Publicité. (art. R*322-85 à R*322-89)](#231)
             - [Paragraphe 6 : Nullités. (art. R*322-90 à R*322-92)](#232)
@@ -20987,34 +20987,6 @@ _Cité par_:
   - TXT_ASSOCIE: Code des assurances R322-90 *sanctions civiles*
 
 
-###### Article R*322-49
-
-Les projets de statuts peuvent prévoir la constitution d'un fonds social complémentaire destiné à procurer à la société les
-éléments de solvabilité dont elle doit disposer pour satisfaire aux prescriptions de la réglementation en vigueur. Ce fonds
-est alimenté par des emprunts auxquels les sociétaires peuvent être tenus de souscrire dans les conditions prévues à
-l'article R. 322-74.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Code des assurances - art. R*322-77-1 (T)
-  - Code des assurances - art. R322-74 (V)
-  - Code des assurances - art. R322-80-1 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances R322-90 *sanctions civiles*
-
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 18
-
-
 ###### Article R*322-50
 
 Le texte entier des projets de statuts doit être reproduit sur tout document destiné à recevoir les adhésions.
@@ -21150,6 +21122,34 @@ _Cite_:
 **Liens**:
 
   - TXT_ASSOCIE: Code des assurances R322-90 *sanctions civiles*
+
+
+###### Article R322-49
+
+Les projets de statuts peuvent prévoir la constitution d'un fonds social complémentaire destiné à procurer à la société les
+éléments de solvabilité dont elle doit disposer pour satisfaire à la réglementation en vigueur. Ce fonds est alimenté par des
+emprunts contractés en vue de financer un plan d'amélioration de l'exploitation ou un plan de développement à moyen ou long
+terme. Les sociétaires peuvent être tenus de souscrire aux emprunts dans les conditions prévues à l'article R. 322-74.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°86-971 1986-08-08 art. 1 JORF 21 août 1986
+
+_Cité par_:
+
+  - Code des assurances - art. R*322-77-1 (T)
+  - Code des assurances - art. R322-74 (V)
+  - Code des assurances - art. R322-80-1 (V)
+
+_Anciens textes_:
+
+  - Décret n°1938-12-30 art. 18
 
 
 ##### Paragraphe 2 : Administration.<a id=228></a>
@@ -21861,69 +21861,6 @@ _Cite_:
   - Code des assurances R321-1
 
 
-###### Article R*322-74
-
-Les sociétés d'assurance à forme mutuelle ne peuvent contracter d'emprunts que pour constituer :
-
-1° Le fonds d'établissement qu'elles peuvent avoir à constituer aux termes de l'article R. 322-47 ;
-
-2° Les nouveaux fonds d'établissement qu'elles peuvent avoir à constituer, aux termes de l'article R. 322-47 précité,
-lorsqu'elles sollicitent l'agrément administratif pour de nouvelles branches ;
-
-3° Les fonds qui peuvent être nécessaires en vue du développement de leurs opérations et du financement de la production
-nouvelle ;
-
-4° Le fonds social complémentaire.
-
-Tous les emprunts destinés à former les fonds mentionnés aux 2° et 3° du précédent alinéa doivent être autorisés
-préalablement par l'assemblée générale délibérant comme il est dit à l'article R. 322-65 et, dans le cas du 3°, par le
-ministre de l'économie et des finances.
-
-Tout emprunt destiné à la constitution et, éventuellement, à l'alimentation du fonds social complémentaire doit être autorisé
-par l'assemblée générale délibérant comme il est dit à l'article R. 322-63 et faire l'objet d'une résolution spéciale dont la
-teneur doit être préalablement soumise à l'approbation du ministre de l'économie et des finances. La résolution déterminera
-quels sociétaires devront souscrire à l'emprunt, sans que cette obligation puisse porter sur les sociétaires dont les
-contrats étaient en cours au moment où les statuts ont été modifiés. La participation des sociétaires déjà adhérents de la
-société au moment où celle-ci décide d'émettre un emprunt ne pourra être supérieure à 10 % de leur cotisation annuelle.
-
-Dans tous les prospectus, affiches, circulaires, notices annonces ou documents quelconques relatifs aux emprunts des
-sociétés, il doit être rappelé de manière explicite qu'un privilège est institué au profit des assurés par l'article L. 327-2
-et indiqué que le prêteur, même s'il est assuré, ne bénéficie d'aucun privilège pour les intérêts et le remboursement de cet
-emprunt. Cette mention doit figurer également en caractères apparents sur les titres d'emprunts.
-
-Il est porté chaque année dans les charges de l'entreprise une somme constante destinée au paiement des intérêts et au
-remboursement des emprunts ou à la constitution de la réserve pour amortissement des emprunts. Sur autorisation du ministre
-de l'économie et des finances, il peut, pendant les cinq années suivant la date d'émission de l'emprunt, être dérogé à cette
-obligation. Celle-ci ne s'applique pas aux emprunts contractés pour la constitution et, éventuellement, l'alimentation du
-fonds social complémentaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Code des assurances - art. A322-6 (V)
-  - Code des assurances - art. R*322-105 (M)
-  - Code des assurances - art. R*322-42 (M)
-  - Code des assurances - art. R*322-76 (Ab)
-  - Code des assurances - art. R322-49 (M)
-  - Code des assurances - art. R332-2 (M)
-
-_Cite_:
-
-  - Code des assurances - art. L327-2 (M)
-  - Code des assurances - art. R*322-47 (M)
-  - Code des assurances - art. R*322-63 (M)
-  - Code des assurances - art. R*322-65 (M)
-
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 41
-
-
 ###### Article R*322-75
 
 Le titre remis à tout sociétaire ayant souscrit à un emprunt pour constitution ou alimentation du fonds social complémentaire
@@ -21980,6 +21917,33 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances R321-1
+
+
+###### Article R*322-77-1
+
+Les excédents distribuables en application des articles R. 322-77 et R. 322-106 sont affectés par priorité à des
+remboursements anticipés de l'emprunt mentionné à l'article R. 322-49 proportionnels aux souscriptions de chaque sociétaire.
+
+Lorsque la société prend l'initiative de radier un sociétaire, celui-ci peut demander à être immédiatement remboursé de sa
+contribution à cet emprunt. Il en est de même lorsque le sociétaire fait usage du droit prévu au deuxième alinéa de l'article
+R. 113-10.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°86-971 1986-08-08 art. 3 JORF 21 août 1986
+
+_Cite_:
+
+  - Code des assurances - art. R*322-106 (M)
+  - Code des assurances - art. R*322-49 (M)
+  - Code des assurances - art. R*322-77 (M)
+  - Code des assurances R322-77, R322-49, R322-106, R113-10
 
 
 ###### Article R*322-78
@@ -22039,6 +22003,74 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Décret n°1938-12-30 art. 46
+
+
+###### Article R322-74
+
+Les sociétés d'assurance à forme mutuelle ne peuvent contracter d'emprunts que pour constituer :
+
+1° Le fonds d'établissement qu'elles peuvent avoir à constituer aux termes de l'article R. 322-47 ;
+
+2° Les nouveaux fonds d'établissement qu'elles peuvent avoir à constituer, aux termes de l'article R. 322-47 précité,
+lorsqu'elles sollicitent l'agrément administratif pour de nouvelles branches ;
+
+3° Les fonds qui peuvent être nécessaires en vue du développement de leurs opérations et du financement de la production
+nouvelle ;
+
+4° Le fonds social complémentaire.
+
+Tous les emprunts destinés à former les fonds mentionnés aux 2° et 3° du précédent alinéa doivent être autorisés
+préalablement par l'assemblée générale délibérant comme il est dit à l'article R. 322-65 et, dans le cas du 3°, par le
+ministre de l'économie et des finances.
+
+Tout emprunt destiné à la constitution et, éventuellement, à l'alimentation du fonds social complémentaire doit être autorisé
+par l'assemblée générale délibérant comme il est dit à l'article R. 322-63 et faire l'objet d'une résolution spéciale dont la
+teneur doit être préalablement approuvée par le ministre chargé de l'économie et des finances, qui se prononce au vu de l'un
+des plans mentionnés à l'article R. 322-49. Ce plan doit être obligatoirement joint au texte de la résolution. A l'expiration
+d'un délai de deux mois à dater du dépôt du texte de la résolution et du document mentionné ci-dessus, et en l'absence de
+décision expresse du ministre, l'autorisation est considérée comme accordée.
+
+La résolution déterminera quels sociétaires devront souscrire à l'emprunt, sans que cette obligation puisse porter sur les
+sociétaires dont les contrats étaient en cours au moment où les statuts ont été modifiés. La participation des sociétaires
+déjà adhérents de la société au moment où celle-ci décide d'émettre un emprunt ne pourra être supérieure à 10 % de leur
+cotisation annuelle.
+
+Dans tous les prospectus, affiches, circulaires, notices, annonces ou documents quelconques relatifs aux emprunts des
+sociétés, il doit être rappelé de manière explicite qu'un privilège est institué au profit des assurés par l'article L. 327-2
+et indiqué que le prêteur, même s'il est assuré, ne bénéficie d'aucun privilège pour les intérêts et le remboursement de cet
+emprunt. Cette mention doit figurer également en caractères apparents sur les titres d'emprunts.
+
+Il est porté chaque année dans les charges de l'entreprise une somme constante destinée au paiement des intérêts et au
+remboursement des emprunts ou à la constitution de la réserve pour amortissement des emprunts. Sur autorisation du ministre
+de l'économie et des finances, il peut, pendant les cinq années suivant la date d'émission de l'emprunt, être dérogé à cette
+obligation. Celle-ci ne s'applique pas aux emprunts contractés pour la constitution et, éventuellement, l'alimentation du
+fonds social complémentaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°86-971 1986-08-08 art. 2 JORF 21 août 1986
+
+_Cité par_:
+
+  - Code des assurances - art. A322-6 (V)
+  - Code des assurances - art. R*322-105 (M)
+  - Code des assurances - art. R*322-42 (M)
+  - Code des assurances - art. R*322-76 (Ab)
+  - Code des assurances - art. R322-49 (M)
+  - Code des assurances - art. R332-2 (M)
+
+_Cite_:
+
+  - Code des assurances - art. L327-2 (M)
+  - Code des assurances - art. R*322-47 (M)
+  - Code des assurances - art. R*322-63 (M)
+  - Code des assurances - art. R*322-65 (M)
 
 
 ##### Paragraphe 4 : Réassurance.<a id=230></a>
