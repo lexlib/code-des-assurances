@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1979-09-16
+Version Consolidée au 1979-10-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -366,7 +366,7 @@ Version Consolidée au 1979-09-16
           - [Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité. (art. R*515-6 à R*515-8)](#363)
           - [Section III : Dispositions relatives à la libre prestation de services. (art. R*515-9 à R*515-12)](#364)
         - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. R*516-1)](#365)
-  - [Partie réglementaire - Arrêtés (art. A113-1 à A441-9)](#366)
+  - [Partie réglementaire - Arrêtés (art. A113-1 à A516-2)](#366)
     - [Livre Ier : Le contrat (art. A113-1 à A160-5)](#367)
       - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#368)
         - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#369)
@@ -461,6 +461,9 @@ Version Consolidée au 1979-09-16
         - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-9)](#458)
           - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#459)
           - [Section III : Règles relatives à l'agrément particulier. (art. A441-7 à A441-9)](#460)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A516-2)](#461)
+      - [Titre Ier : Présentation des opérations. (art. A516-2)](#462)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#463)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -43752,5 +43755,38 @@ _Abrogé par_:
 _Cite_:
 
   - Code des assurances - art. A441-8 (Ab)
+
+
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=461></a>
+
+### Titre Ier : Présentation des opérations.<a id=462></a>
+
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=463></a>
+
+###### Article A516-2
+
+L'attestation de capacité mentionnée à l'article R. 516-1 est conforme aux modèles annexés au présent article et enregistrés
+au C.E.R.F.A. sous les numéros 30-0976 pour courtier et agent général d'assurances et 30-0977 pour leurs salariés ou
+mandataires.
+
+(annexe non reproduite, voir au Journal officiel).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1979-09-05 art. 1 JORF 4 octobre 1979
+
+_Abrogé par_:
+
+  - Arrêté du 3 novembre 2006 - art. 1, v. init.
+
+_Cite_:
+
+  - Code des assurances R516-1
 
 
