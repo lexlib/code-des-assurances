@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-03-31
+Version Consolidée au 1985-04-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -461,7 +461,7 @@ Version Consolidée au 1985-03-31
           - [Section I : Dispositions générales. (art. A344-1 à A344-2)](#458)
           - [Section II : Définition des catégories et sous-catégories. (art. A344-5)](#459)
           - [Section III : Etats à produire. (art. A344-7)](#460)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A411-1 à A441-9)](#461)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A411-1 à A441-2)](#461)
       - [Titre Ier : Organisations générales d'assurance (art. A411-1 à A411-11)](#462)
         - [Chapitre Ier : Le conseil national des assurances (art. A411-1 à A411-11)](#463)
           - [Section II : Fonctionnement. (art. A411-1 à A411-11)](#464)
@@ -478,14 +478,13 @@ Version Consolidée au 1985-03-31
           - [Section IV : Dispositions diverses. (art. A432-10)](#475)
         - [Chapitre III : La caisse nationale de prévoyance (art. A433-4 à A433-7)](#476)
           - [Section V : Tarifs. (art. A433-4 à A433-7)](#477)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-9)](#478)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-9)](#479)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#478)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#479)
           - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#480)
-          - [Section III : Règles relatives à l'agrément particulier. (art. A441-7 à A441-9)](#481)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#482)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#483)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#484)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#485)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#481)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#482)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#483)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#484)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -47121,94 +47120,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-##### Section III : Règles relatives à l'agrément particulier.<a id=481></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=481></a>
 
-###### Article A441-7
+### Titre Ier : Présentation des opérations.<a id=482></a>
 
-La demande d'agrément particulier produite, en exécution de l'article L. 441-9 et de l'article R. 441-25, par une entreprise
-d'assurance qui désire effectuer des opérations de prévoyance collective et d'assurance ayant pour objet l'acquisition ou la
-jouissance de droits en cas de vie qui ne sont pas couverts intégralement, et à tout moment, par des provisions
-mathématiques, doit être établie en deux exemplaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1968-08-21 art. 1
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Abrogé par_:
-
-  - Arrêté 1985-03-29 art. 1 JORF 6 avril 1985
-
-_Cite_:
-
-  - Code des assurances - art. L441-9 (Ab)
-  - Code des assurances - art. R*441-25 (Ab)
-
-
-###### Article A441-8
-
-Cette demande doit, pour une entreprise française, être accompagnée des pièces suivantes :
-
-1° Trois exemplaires du projet de convention ;
-
-2° Trois exemplaires d'une note technique exposant les hypothèses sur lesquelles est basé le régime envisagé ;
-
-3° Le procès-verbal de la séance du conseil d'administration au cours de laquelle a été prise la décision de demander
-l'agrément particulier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1968-08-21 art. 2
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Abrogé par_:
-
-  - Arrêté 1985-03-29 art. 1 JORF 6 avril 1985
-
-_Cité par_:
-
-  - Code des assurances - art. A441-9 (Ab)
-
-
-###### Article A441-9
-
-Pour une entreprise étrangère, la demande doit être accompagnée des pièces prévues aux 1° et 2° de l'article A. 441-8, ainsi
-que de l'autorisation donnée par le siège social au mandataire général de pratiquer les opérations de l'espèce.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1968-08-21 art. 3
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Abrogé par_:
-
-  - Arrêté 1985-03-29 art. 1 JORF 6 avril 1985
-
-_Cite_:
-
-  - Code des assurances - art. A441-8 (Ab)
-
-
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=482></a>
-
-### Titre Ier : Présentation des opérations.<a id=483></a>
-
-#### Chapitre III : Conditions de capacité professionnelle.<a id=484></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=483></a>
 
 ###### Article A513-1
 
@@ -47481,7 +47397,7 @@ _Cité par_:
   - Arrêté du 31 mars 1992 - art. 1 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=485></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=484></a>
 
 ###### Article A516-2
 
