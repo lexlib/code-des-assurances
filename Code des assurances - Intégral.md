@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-08-07
+Version Consolidée au 1986-08-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -48236,10 +48236,23 @@ _Cite_:
 Les membres du conseil national des assurances sont, en cas d'absence ou d'empêchement, remplacés par un suppléant désigné
 dans les mêmes conditions que le membre titulaire, et qui a seul qualité pour le représenter.
 
-Le directeur du Trésor au ministère de l'économie et des finances et le directeur général de la caisse des dépôts et
-consignations peuvent se faire représenter par un fonctionnaire ayant au moins le grade d'administrateur civil. Le président
-du conseil d'administration, directeur général de la caisse centrale de réassurance peut être suppléé par un membre du
-personnel de direction de cet établissement.
+Le directeur du Trésor, le directeur général de la concurrence, de la consommation et de la répression des fraudes, le
+directeur de la comptabilité publique, le chef du service de la législation fiscale au ministère de l'économie, des finances
+et de la privatisation et le directeur général de la Caisse des dépôts et consignations peuvent se faire représenter par un
+fonctionnaire ayant au moins le grade d'administrateur civil.
+
+Le directeur des affaires civiles et du sceau au ministère de la justice peut se faire représenter par un fonctionnaire ayant
+au moins le grade de magistrat à l'administration centrale du ministère de la justice.
+
+Le directeur des libertés publiques et des affaires juridiques au ministère de l'intérieur peut se faire représenter par un
+fonctionnaire ayant au moins le grade d'administrateur civil au ministère de l'intérieur.
+
+Le directeur des affaires sociales au ministère de l'agriculture peut se faire représenter par un fonctionnaire ayant au
+moins le grade d'administrateur civil au ministère de l'agriculture ou par un fonctionnaire du corps de l'inspection du
+travail affecté au ministère de l'agriculture et ayant au moins le grade de directeur adjoint de classe fonctionnelle.
+
+Le président du conseil d'administration, directeur général de la caisse centrale de réassurance, peut être suppléé par un
+membre du personnel de direction de cet établissement.
 
 **Liens relatifs à cet article**
 
@@ -48247,9 +48260,13 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Modifié par_:
+_Créé par_:
 
-  - Arrêté 1985-09-10 art. 6 JORF 9 octobre 1985
+  - Arrêté 1986-07-31 art. 1 JORF 8 août 1986
+
+_Abrogé par_:
+
+  - Arrêté 1990-07-13 art. 1 JORF 17 juillet 1990
 
 **Liens**:
 
