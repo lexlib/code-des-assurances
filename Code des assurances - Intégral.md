@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-01-22 00:00:01 +0100
+Version Consolidée au 1992-01-22 00:00:02 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L193-1)](#2)
@@ -320,7 +320,7 @@ Version Consolidée au 1992-01-22 00:00:01 +0100
         - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation (art. R343-1 à R343-5)](#317)
           - [Section I : Le cadre comptable. (art. R343-1)](#318)
           - [Section II : Liste des comptes (art. R343-2)](#319)
-            - [Classe 6. (art. R343-2)](#320)
+            - [Classe 7. (art. R343-2)](#320)
           - [Section III : Modèles de comptes de résultats et de bilan (art. R343-3)](#321)
             - [Compte 80. (art. R343-3)](#322)
             - [Compte 87. (art. R343-3)](#323)
@@ -33003,275 +33003,269 @@ _Cité par_:
 
 ##### Section II : Liste des comptes<a id=319></a>
 
-##### Classe 6.<a id=320></a>
+##### Classe 7.<a id=320></a>
 
 ###### Article R343-2
 
-63 Travaux, fournitures et services extérieurs en France.
+Comptes de produits par nature.
 
-630 Loyers et charges locatives.
+70 Primes ou cotisations en France.
 
-6300 Terrains d'exploitation.
+701 Primes (affaires directes vie).
 
-6302 Immeubles utilisés pour les besoins de l'entreprise.
+7010 Primes périodiques émises.
 
-63020 Siège.
+7011 Primes uniques émises.
 
-63021 Agences ou bureaux décentralisés.
+7013 Coûts de polices et accessoires.
 
-63024 Immeubles pour oeuvres sociales.
+7019 Annulations.
 
-6306 Matériel et mobilier.
+70190 Sur émissions de l'exercice.
 
-63060 Matériels électroniques et mécanographiques.
+70191 Sur émissions des exercices antérieurs.
 
-63061 Véhicules.
+702 Primes (affaires directes dommages, RC et risques divers).
 
-63062 Matériel de bureau.
+7022 Primes émises.
 
-63065 Mobilier.
+70220 Sur exercice courant.
 
-63066 Autres matériels.
+70221 Sur exercices antérieurs.
 
-631 Entretien et réparations (frais payés à des tiers).
+7023 Coûts de polices et accessoires.
 
-6310 Entretien des terrains d'exploitation.
+70230 Sur exercice courant.
 
-6312 Entretien des immeubles utilisés pour les besoins de l'entreprise.
+70231 Sur exercices antérieurs.
 
-63120 Siège.
+7024 Variation de la prévision de primes acquises et non émises.
 
-63121 Agences ou bureaux décentralisés.
+7025 Rappels de cotisations.
 
-63124 Immeubles pour oeuvres sociales.
+7026 Autres rappels de primes.
 
-6313 Réparation des immeubles utilisés pour les besoins de l'entreprise.
+7029 Annulations.
 
-63130 Siège.
+70290 Sur émissions de l'exercice.
 
-63131 Agences ou bureaux décentralisés.
+70291 Sur émissions des exercices antérieurs.
 
-63134 Immeubles pour oeuvres sociales.
+703 Primes (autres affaires : opérations non régies par l'article L. 310-1).
 
-6316 Entretien et réparations du matériel et du mobilier.
+7030 Primes périodiques émises.
 
-63160 Matériels électroniques et mécanographiques.
+7031 Primes uniques émises.
 
-63161 Véhicules. 
+7033 Coûts de polices et accessoires.
 
-63162 Matériel de bureau.
+7039 Annulations.
 
-63165 Mobilier.
+70390 Sur émissions de l'exercice.
 
-63166 Autres matériels.
+70391 Sur émissions des exercices antérieurs.
 
-6318 Produits divers d'entretien.
+704 Primes (acceptations vie).
 
-632 Travaux et façons exécutés à l'extérieur.
+7040 Primes.
 
-6320 Travaux de mécanographie.
+7048 Entrées de portefeuille.
 
-6325 Autres travaux.
+7049 Retraits de portefeuille.
 
-6326 Personnel intérimaire non rémunéré directement par l'entreprise.
+705 Primes (acceptations dommages, RC et risques divers). 
 
-6327 Frais d'apérition.
+7050 Primes.
 
-633 Mobilier et petit matériel.
+7058 Entrées de portefeuille.
 
-634 Fournitures faites à l'entreprise.
+7059 Retraits de portefeuille.
 
-6340 Electricité.
+706 Primes (acceptations autres affaires).
 
-6341 Eau.
+7060 Primes.
 
-6342 Gaz.
+7068 Entrées de portefeuille.
 
-6343 Chauffage.
+7069 Retraits de portefeuille.
 
-6344 Air comprimé.
+709 Part des réassureurs dans les primes.
 
-635 Redevances.
+7091 Affaires directes vie.
 
-636 Etudes, recherches et documentation technique (frais payés à des tiers).
+70910 Primes.
 
-637 Rémunérations d'intermédiaires et honoraires (à l'exclusion de ceux portés aux comptes 60 et 65).
+70918 Entrées de portefeuille.
 
-638 Primes d'assurances.
+70919 Retraits de portefeuille.
 
-6380 Assurance incendie.
+7092 Affaires directes dommages, RC et risques divers.
 
-6381 Assurance vol.
+70920 Primes.
 
-6382 Assurance transports.
+70928 Entrées de portefeuille.
 
-6383 Assurance RC.
+70929 Retraits de portefeuille.
 
-6386 Assurance du personnel au profit de l'entreprise.
+7093 Autres affaires.
 
-6389 Autres assurances.
+70930 Primes.
 
-64 Transports et déplacements en France.
+70938 Entrées de portefeuille.
 
-640 Transports du personnel.
+70939 Retraits de portefeuille.
 
-641 Voyages et déplacements.
+7094 Acceptations vie.
 
-6410 Inspecteurs producteurs.
+70940 Primes.
 
-6411 Agents généraux.
+70948 Entrées de portefeuille.
 
-6413 Autres producteurs.
+70949 Retraits de portefeuille.
 
-6414 Personnel administratif.
+7095 Acceptations dommages, RC et risques divers.
 
-6415 Autres inspecteurs.
+70950 Primes.
 
-6416 Personnel de direction.
+70958 Entrées de portefeuille.
 
-6417 Personnel extérieur.
+70929 Retraits de portefeuille.
 
-6418 Administrateurs.
+7096 Acceptations autres affaires.
 
-6419 Divers.
+70960 Primes.
 
-648 Transports divers (matériel, archives ...).
+70968 Entrées de portefeuille.
 
-65 Commissions en France.
+70969 Retraits de portefeuille.
 
-651 Agents généraux.
+71 Subventions d'exploitation reçues en France.
 
-652 Courtiers.
+73 Réductions et ristournes de primes en France.
 
-653 Autres producteurs mandataires.
+74 Ristournes, rabais et remises obtenus en France.
 
-654 Salariés des sociétés pour leurs commissions occasionnelles.
+75 Commissions et participations reçues des réassureurs en France.
 
-655 Variation des commissions sur primes acquises et non émises.
+751 Affaires directes vie.
 
-656 Cotisations aux régimes de retraites des producteurs non salariés.
+752 Affaires directes dommages, RC et risques divers.
 
-657 Acceptations.
+753 Autres affaires.
 
-6574 Vie.
+754 Acceptations vie.
 
-6575 Dommages, RC et risques divers.
+755 Acceptations dommages, RC et risques divers.
 
-6576 Autres affaires.
+756 Acceptations autres affaires.
 
-658 Amortissement des frais d'acquisition précomptés.
+76 Produits accessoires en France.
 
-659 Frais d'acquisition précomptés.
+760 Produits des services exploités dans l'intérêt du personnel.
 
-66 Frais divers de gestion en France.
+7601 Cantines.
 
-660 Publicité et propagande.
+7609 Divers.
 
-6600 Annonces et insertions.
+762 Ventes de déchets.
 
-6601 Catalogues et imprimés.
+765 Rémunérations et produits divers.
 
-6602 Publicité collective.
+77 Produits financiers en France.
 
-6605 Foires et expositions.
+771 Revenus des immeubles.
 
-6608 Cadeaux.
+773 Revenus des titres de placement.
 
-661 Missions et réceptions.
+7731 Revenus des obligations.
 
-662 Fournitures de bureau.
+7732 Produits des différences sur les prix de remboursement à percevoir.
 
-6620 Imprimés et fournitures pour la mécanographie. 
+7735 Revenus des actions.
 
-6621 Autres imprimés.
+774 Intérêts des prêts.
 
-6622 Autres fournitures.
+7740 Au personnel.
 
-663 Documentation générale.
+7741 Aux agents.
 
-664 Frais de P.T.T..
+7742 A des tiers.
 
-6640 Affranchissement.
+775 Revenus des titres de participation.
 
-6643 Téléphone et télégrammes.
+776 Intérêts des comptes courants et des comptes de dépôts débiteurs, intérêts bancaires.
 
-6644 Télex.
+7760 Comptes courants avec les cessionnaires et rétrocessionnaires.
 
-6645 Télégestion.
+7761 Comptes courants avec les cédants et rétrocédants.
 
-665 Frais d'actes et de contentieux (à l'exclusion de ceux qui sont portés en 60 et 67).
+7764 Autres comptes débiteurs.
 
-6650 Frais d'actes.
+7765 Intérêts bancaires.
 
-6655 Frais de contentieux des primes.
+7767 Dépôts espèces effectués chez les cédants.
 
-6656 Autres frais de contentieux.
+7769 Autres dépôts.
 
-666 Cotisations et dons.
+777 Jetons de présence, tantièmes, rémunérations d'administrateurs.
 
-6660 Cotisations aux organismes professionnels.  
+778 Autres produits financiers.
 
-6661 Pourboires et étrennes.
+779 Ajustement des valeurs affectées à la représentation des opérations d'assurance à capital variable.
 
-6668 Autres cotisations.
+78 Travaux faits par l'entreprise pour elle-même. Charges non imputables à l'exploitation de l'exercice, en France.
 
-6669 Autres dons.
+780 Travaux faits par l'entreprise pour elle-même.
 
-667 Frais des conseils et assemblées, jetons de présence.
+7800 Travaux de l'entreprise pour frais d'établissement (à l'exclusion des frais d'acquisition des contrats).
 
-668 Subventions accordées.
+785 Charges non imputables à l'exploitation de l'exercice.
 
-67 Frais financiers en France.
+7850 Charges couvertes par des provisions.
 
-670 Intérêts des emprunts contractés par l'entreprise.
+7857 Charges imputables à pertes et profits.
 
-6700 Emprunts obligataires.
+79 Produits par nature à l'étranger.
 
-6702 Autres emprunts.
+790 Primes.
 
-671 Intérêts des comptes et dépôts créditeurs.
+7901 Affaires directes vie.
 
-6710 Comptes courants avec les cessionnaires et rétrocessionnaires.
+7902 Affaires directes dommages, RC et risques divers.
 
-6711 Comptes courants avec les cédants et rétrocédants.
+7904 Acceptations vie.
 
-6714 Autres comptes créditeurs. 
+7905 Acceptations dommages, RC et risques divers.
 
-6716 Dépôts espèces effectués par les cessionnaires et rétrocessionnaires.
+7909 Part des réassureurs dans les primes.
 
-6717 Dépôts des agents.
+791 Subventions d'exploitation reçues.
 
-6719 Autres dépôts.
+793 Réductions et ristournes de primes.
 
-672 Intérêts bancaires ; commissions sur ouvertures de crédit, cautions et avals.
+794 Ristournes, rabais et remises obtenus.
 
-673 Escomptes accordés.
+795 Commissions et participations reçues des réassureurs.
 
-674 Frais de banque et de recouvrement.
+796 Produits accessoires.
 
-6740 Frais sur titres.
+797 Produits financiers.
 
-6741 Frais sur effets.
+7971 Revenus des immeubles.
 
-6745 Commissions diverses.
+7973 Revenus des titres de placement.
 
-6746 Frais de contentieux des placements.
+7974 Intérêts des prêts.
 
-675 Frais d'achat des titres.
+7975 Revenus des titres de participation.
 
-676 Intérêts servis à la provision pour participation aux excédents.
+7976 Intérêts des comptes courants et des comptes de dépôts débiteurs, intérêts bancaires.
 
-677 Autres charges financières.
+7977 Jetons de présence, tantièmes, rémunérations d'administrateurs.
 
-678 Frais sur immeubles.
+7978 Autres produits financiers.
 
-6780 Entretien.
-
-6785 Réparation.
-
-6789 Autres charges (assurances, gérance ...).
-
-679 Ajustement des valeurs affectées à la représentation des opérations d'assurance à capital variable.
+798 Travaux faits par l'entreprise pour elle-même, charges non imputables à l'exploitation de l'exercice.
 
 **Liens relatifs à cet article**
 
@@ -33281,7 +33275,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-460 1985-04-25 art. 1 à art. 10 JORF 30 avril 1985
+  - Décret n°91-1418 du 28 décembre 1991 - art. 1 () JORF 22 janvier 1992
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
 
 
 ##### Section III : Modèles de comptes de résultats et de bilan<a id=321></a>
