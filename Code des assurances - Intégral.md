@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1989-06-04
+Version Consolidée au 1989-08-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -519,7 +519,9 @@ Version Consolidée au 1989-06-04
     - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#516)
       - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#517)
         - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#518)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#519)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-2)](#519)
+          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. A514-2)](#520)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#521)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -50879,7 +50881,75 @@ _Cité par_:
   - Arrêté du 31 mars 1992 - art. 1 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=519></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=519></a>
+
+##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=520></a>
+
+###### Article A514-2
+
+Sont seuls habilités à viser les livrets de stage et attestations de fonctions mentionnés aux articles R. 514-6 et R. 514-7
+et à recevoir les déclarations de début de stage prévues à l'article R. 513-5, les organismes professionnels suivants :
+
+1° La fédération française des sociétés d'assurances, pour les stages effectués et les fonctions exercées auprès
+d'entreprises d'assurances mentionnées à l'article L. 310-1, autres que les organismes d'assurances mutuelles agricoles
+mentionnés au 2° ci-après, ou pour le compte d'une telle entreprise auprès d'un agent général d'assurances ;
+
+2° Le groupement des sociétés d'assurances à caractère mutuel, pour les stages effectués et les fonctions exercées auprès
+d'entreprises adhérentes de cet organisme ainsi que pour les stages effectués et les fonctions exercées auprès d'entreprises
+mentionnées à l'article L. 310-1 adhérentes à l'association de recherche et d'étude pour l'épargne et la retraite .
+
+3° L'union des caisses centrales de la mutualité agricole, pour les stages effectués et les fonctions exercées auprès
+d'organismes d'assurances mutuelles agricoles mentionnés à l'article 1235 du code rural ;
+
+4° Le syndicat national des courtiers d'assurances, pour les stages effectués et les fonctions exercées auprès de courtiers
+d'assurances ou de sociétés de courtage d'assurances ;
+
+5° La fédération nationale des syndicats d'agents généraux d'assurances, d'une part, pour les stages effectués et les
+fonctions exercées auprès d'agents généraux d'assurances, autrement que pour le compte d'une entreprise mentionnée à
+l'article L. 310-1, d'autre part, pour les stages théoriques et pratiques effectués dans le cadre de l'école supérieure
+d'assurances en vue de l'obtention du certificat délivré par cet établissement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1966-02-24 art. 2
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 1981-02-16 art. 2 JORF 22 février 1981
+  - Arrêté 1982-05-13 art. 1 JORF 25 mai 1982
+  - Arrêté 1984-05-29 art. 3 JORF 13 juin 1984
+  - Arrêté 1989-07-24 art. 2 JORF 5 août 1989
+
+_Abrogé par_:
+
+  - Arrêté 1992-03-31 art. 1 JORF 1er avril 1992
+
+_Cité par_:
+
+  - Arrêté du 31 mars 1992 - art. 1 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. R513-5 (M)
+  - Code des assurances L310-1, R513-5, R514-6, R514-7
+  - Code rural 1235
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des assurances - art. R*514-6 (Ab)
+  - TXT_ASSOCIE: Code des assurances - art. R513-4 (Ab)
+  - TXT_ASSOCIE: Code des assurances - art. R513-5 (Ab)
+  - TXT_SOURCE: Code des assurances R514-6
+
+
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=521></a>
 
 ###### Article A516-2
 
