@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-02-19
+Version Consolidée au 1986-02-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -42917,6 +42917,9 @@ afférentes au contrat ;
 Contrats garantissant des risques appartenant aux sous-catégories 31 et 32 dudit article : 9 p. 100 des primes ou cotisations
 afférentes au contrat ;
 
+Contrats garantissant des risques appartenant à la sous-catégorie 37 dudit article : 9 p. 100 des primes ou cotisations
+afférentes au contrat.
+
 Contrats garantissant les risques mentionnés à l'article L. 125-1 (2ème alinéa) : 9 p. 100 des primes ou cotisations
 afférentes au contrat.
 
@@ -42928,9 +42931,9 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1985-09-10 art. 1 JORF 9 octobre 1985
+  - Arrêté 1986-02-11 art. 1 JORF 21 février 1986
 
 _Cite_:
 
