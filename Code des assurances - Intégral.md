@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-07-01
+Version Consolidée au 1991-07-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L193-1)](#2)
@@ -13191,9 +13191,9 @@ _Cité par_:
 
 ###### Article L433-1
 
-La caisse nationale de prévoyance a pour objet de pratiquer, sous la garantie de l'Etat, des opérations d'assurance sur la
-vie, d'assurance complémentaire aux assurances sur la vie, d'assurance invalidité et d'assurance contre les accidents du
-travail.
+La caisse nationale de prévoyance a pour objet de pratiquer, sous la garantie de l'Etat pour les contrats souscrits avant le
+1er août 1991, des opérations d'assurance sur la vie, d'assurance complémentaire aux assurances sur la vie, d'assurance
+invalidité et d'assurance contre les accidents du travail.
 
 Ces opérations font l'objet de deux gestions distinctes selon qu'elles relèvent des 1°, 2°, 3° et 4° d'une part, ou du 5°,
 d'autre part, de l'article L. 310-1.
@@ -13206,13 +13206,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°83-453 du 7 juin 1983 - art. 4 () JORF 8 juin 1983
+  - Loi n°91-716 du 26 juillet 1991 - art. 22 () JORF 27 juillet 1991
 
 **Liens**:
 
+  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
   - TXT_ASSOCIE: Code des assurances - art. L111-1 (M)
   - TXT_ASSOCIE: Code des assurances - art. L160-17 (Ab)
   - TXT_ASSOCIE: Code des assurances L111-1, L160-17, L441-1 à L441-11
+
+_Abrogé par_:
+
+  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
 
 _Cite_:
 
@@ -13221,10 +13226,14 @@ _Cite_:
 
 ###### Article L433-2
 
-La caisse nationale de prévoyance est gérée par la Caisse des dépôts et consignations.
+La caisse nationale de prévoyance est gérée par la caisse des dépôts et consignations.
 
-Les frais de gestion ainsi exposés sont remboursés par la caisse nationale de prévoyance à la Caisse des dépôts et
+Les frais de gestion ainsi exposés sont remboursés par la caisse nationale de prévoyance à la caisse des dépôts et
 consignations.
+
+La caisse nationale de prévoyance verse chaque année à l'Etat, sur le résultat net de son activité, après paiement de l'impôt
+sur les sociétés, une fraction de ce résultat net, déterminée par le ministre chargé de l'économie et des finances après avis
+de la commission supérieure saisie par le directeur général.
 
 **Liens relatifs à cet article**
 
@@ -13232,18 +13241,20 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Modifié par_:
+
+  - Loi n°91-716 du 26 juillet 1991 - art. 23 () JORF 27 juillet 1991
+
 **Liens**:
 
+  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 10 *date d'effet*
   - TXT_ASSOCIE: Code des assurances - art. L111-1 (M)
   - TXT_ASSOCIE: Code des assurances - art. L160-17 (Ab)
   - TXT_ASSOCIE: Code des assurances L111-1, L160-17, L441-1 à L441-11
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°1868-07-11 art. 17
-  - Loi n°1886-07-20 art. 2
-  - Loi n°1890-12-26 art. 58
-  - Loi n°1920-07-13 art. 2
+  - Loi n°92-665 du 16 juillet 1992 - art. 6 (V) JORF 17 juillet 1992
 
 
 ###### Article L433-3
