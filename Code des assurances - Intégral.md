@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2002-12-31
+Version Consolidée au 2003-02-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -7695,17 +7695,18 @@ _Cite_:
 ###### Article L211-6
 
 Est réputée non écrite toute clause stipulant la déchéance de la garantie de l'assuré en cas de condamnation pour conduite en
-état d'ivresse ou sous l'empire d'un état alcoolique.
+état d'ivresse ou sous l'empire d'un état alcoolique ou pour conduite après usage de substances ou plantes classées comme
+stupéfiants.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°58-208 1958-02-27 art. 9-1
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°2003-87 du 3 février 2003 - art. 2 () JORF 4 février 2003
 
 _Cité par_:
 
