@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2000-12-29
+Version Consolidée au 2001-01-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -305,12 +305,12 @@ Version Consolidée au 2000-12-29
           - [Section V : Vérification de solvabilité globale. (art. R334-22 à R334-24)](#302)
           - [Section VI : Dispositions transitoires relatives à la marge de solvabilité. (art. R334-30 à R334-38)](#303)
           - [Section VII : Dispositions particulières aux territoires d'outre-mer. (art. R334-39)](#304)
-      - [Titre IV : Dispositions comptables et statistiques (art. R*341-6 à R345-11)](#305)
-        - [Chapitre Ier : Principes généraux. (art. R*341-6 à R341-8)](#306)
+      - [Titre IV : Dispositions comptables et statistiques (art. R341-1 à R345-7)](#305)
+        - [Chapitre Ier : Principes généraux. (art. R341-1 à R341-8)](#306)
         - [Chapitre IV : Catégories d'assurances et états à produire. (art. R344-1 à R344-3)](#307)
-        - [Chapitre V : Comptes consolidés. (art. R345-1 à R345-11)](#308)
-          - [Section I : Méthode de consolidation et méthode d'élaboration des comptes combinés (art. R345-2 à R345-6)](#309)
-          - [Section II : Présentation des comptes consolidés ou combinés (art. R345-7 à R345-11)](#310)
+        - [Chapitre V : Comptes consolidés. (art. R345-1 à R345-7)](#308)
+          - [Section I : Méthode de consolidation et méthode d'élaboration des comptes combinés (art. R345-4)](#309)
+          - [Section II : Présentation des comptes consolidés ou combinés (art. R345-7)](#310)
       - [Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes (art. R351-1 à R353-6)](#311)
         - [Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages. (art. R351-1 à R351-6)](#312)
           - [Section I : Dispositions générales. (art. R351-1 à R351-4)](#313)
@@ -34015,44 +34015,6 @@ _Modifié par_:
 
 #### Chapitre Ier : Principes généraux.<a id=306></a>
 
-###### Article R*341-6
-
-Les articles 9 à 18, 24 et 26 du décret n° 83-1020 du 29 novembre 1983 mentionné à l'article R. 341-2 ne sont pas applicables
-aux entreprises visées à l'article R. 341-1. Un arrêté du ministre chargé de l'économie, pris après avis du Conseil national
-de la comptabilité, détermine des modèles types auxquels les entreprises doivent se conformer pour la présentation du bilan
-incluant, en pied de bilan, un tableau des engagements reçus et donnés, du compte de résultat et de l'annexe.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cite_:
-
-  - Décret n°83-1020 1983-11-29 art. 9 à 18, art. 24, art. 26
-  - Décret n°83-1020 du 29 novembre 1983 - art. 24 (M)
-  - Décret n°83-1020 du 29 novembre 1983 - art. 26 (M)
-  - Code des assurances - art. R*341-1 (M)
-  - Code des assurances - art. R*341-2 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 2 () JORF 5 août 1995
-
-_Abrogé par_:
-
-  - Décret n°2001-51 du 17 janvier 2001 - art. 9 () JORF 19 janvier 2001
-
-_Cité par_:
-
-  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
-
-
 ###### Article R341-1
 
 Les dispositions des articles R. 341-2 à R. 341-8 sont applicables :
@@ -34133,8 +34095,8 @@ _Cite_:
 
 Les entreprises définies à l'article R. 341-1 sont soumises aux dispositions des articles 8 à 16 du code de commerce et aux
 dispositions du décret n° 83-1020 du 29 novembre 1983 pris en application de la loi n° 83-353 du 30 avril 1983 et relatif aux
-obligations comptables des commerçants et de certaines sociétés, sous réserve des dispositions particulières prévues au
-présent code.
+obligations comptables des commerçants et de certaines sociétés, à l'exception des articles 10 à 18,24 et 26 dudit décret, et
+sous réserve des dispositions particulières prévues au présent code.
 
 **Liens relatifs à cet article**
 
@@ -34144,13 +34106,8 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°83-353 1983-04-30
-  - Décret n°83-1020 1983-11-29
-  - Code de commerce 8 à 16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+  - Loi n°83-353 du 30 avril 1983 (V)
+  - Décret n°83-1020 du 29 novembre 1983 (Ab)
 
 _Cité par_:
 
@@ -34162,18 +34119,24 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°95-883 du 31 juillet 1995 - art. 2 () JORF 5 août 1995
+  - Décret n°2001-51 du 17 janvier 2001 - art. 1 () JORF 19 janvier 2001
 
 
 ###### Article R341-3
 
-Un arrêté du ministre chargé de l'économie, pris après avis du Conseil national de la comptabilité, fixe la structure et les
-principaux éléments de la nomenclature du plan de comptes prévu à l'article 4 du décret n° 83-1020 du 29 novembre 1983
-mentionné à l'article R. 341-2, ainsi que les règles spécifiques d'utilisation des comptes et les principes généraux
-d'organisation et de fonctionnement du système comptable. Le même arrêté peut en outre prescrire, lorsque ceci est nécessaire
-pour la justification des comptes ou l'exercice du contrôle de l'Etat, des modalités spécifiques d'enregistrement et de suivi
-extra comptable des placements, des contrats, des sinistres et des opérations de réassurance, de coassurance et de
-coréassurance.
+Un règlement du Comité de la réglementation comptable fixe la structure et les principaux éléments de la nomenclature du plan
+de comptes prévu à l'article 4 du décret n° 83-1020 du 29 novembre 1983 mentionné à l'article R. 341-2, ainsi que les règles
+spécifiques d'utilisation des comptes et les principes généraux d'organisation et de fonctionnement du système comptable. Il
+définit également les modèles types auxquels les entreprises doivent se conformer pour la présentation du bilan accompagné
+d'un tableau des engagements reçus et donnés, du compte de résultats et de l'annexe.
+
+Le même règlement peut en outre prescrire, lorsque ceci est nécessaire pour la justification des comptes ou l'exercice du
+contrôle de l'Etat, des modalités spécifiques d'enregistrement des placements, des contrats, des sinistres et des opérations
+de réassurance, de coassurance et de coréassurance.
+
+Lorsque ceci est nécessaire pour l'exercice du contrôle de l'Etat un arrêté du ministre chargé de l'économie peut prescrire
+des modalités spécifiques de suivi extracomptable des placements, des contrats, des sinistres et des opérations de
+réassurance, de coassurance et de coréassurance.
 
 Les soldes des comptes utilisés par l'entreprise se raccordent, par voie directe ou par regroupement, aux postes et sous-
 postes du bilan et du compte de résultat, ainsi qu'aux informations contenues dans l'annexe et dans les états, tableaux et
@@ -34191,6 +34154,12 @@ l'économie, pris après avis du Conseil national de la comptabilité.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 2001-01-17 *homologation des règlements du Comité de la réglementation comptable*
+  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
+  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
+
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
@@ -34203,21 +34172,16 @@ _Cite_:
   - Code des assurances - art. R*341-2 (M)
   - Code des assurances - art. R*341-5 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-481 1994-06-08 art. 17 *date d'effet - spécificités comptables*
-  - SPEC_APPLI: Décret n°98-805 1998-09-09 art. 4 *champ d'application territoriale - Mayotte*
-
-_Modifié par_:
-
-  - Décret n°94-481 du 8 juin 1994 - art. 11 () JORF 11 juin 1994 en vigueur le 1er janvier 1995
-
 _Cité par_:
 
   - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
   - Code des assurances - art. A343-1 (M)
   - Code des assurances - art. R332-35 (V)
   - Code des assurances - art. R345-7 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-51 du 17 janvier 2001 - art. 2 () JORF 19 janvier 2001
 
 
 ###### Article R341-4
@@ -34497,40 +34461,21 @@ _Anciens textes_:
 
 ###### Article R344-3
 
-Lorsqu'une entreprise d'assurance de dommages visée au 1° de l'article L. 310-2 réalise dans un Etat membre de l'Espace
-économique européen, en libre prestation de services, un volume de primes supérieur à 2,5 millions d'unités de compte de la
-Communauté économique européenne, sans déduction de réassurance, elle doit tenir, pour les opérations réalisées dans cet
-Etat, un compte d'exploitation technique par groupe de branches dont le modèle est défini par arrêté du ministre chargé de
-l'économie et des finances.
-
-Toutefois, lorsqu'une entreprise d'assurance de dommages ayant son siège social sur le territoire de la République française
-réalise dans un Etat membre de l'Espace économique européen, en libre prestation de services, soit directement, soit par
-l'intermédiaire de ses établissements, un volume de primes supérieur à 2,5 millions d'unités de compte de la Communauté
-économique européenne, sans déduction de réassurance, elle doit tenir, pour les opérations réalisées dans ce pays, un compte
-d'exploitation technique pour chacun de ses établissements et dont le modèle est défini par arrêté du ministre chargé de
-l'économie et des finances.
+Lorsqu'une entreprise d'assurance de dommages ayant son siège social sur le territoire de la République française réalise, en
+libre prestation de services ou par l'intermédiaire de ses établissements, dans un Etat partie au traité sur l'Espace
+économique européen procédant au contrôle dans le pays d'accueil, un volume de primes supérieur à 2,5 millions d'euros, sans
+déduction de réassurance, elle doit tenir pour ces opérations un compte d'exploitation technique par groupe de branches, le
+cas échéant pour chacun de ses établissements, suivant le modèle défini par arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
-
 _Modifié par_:
 
-  - Décret n°94-635 du 25 juillet 1994 - art. 15 () JORF 26 juillet 1994
+  - Décret n°2001-51 du 17 janvier 2001 - art. 3 () JORF 19 janvier 2001
 
 _Cité par_:
 
   - Code des assurances - art. A341-1 (M)
-
-_Cite_:
-
-  - Code des assurances - art. L310-2 (M)
-
-_Anciens textes_:
-
-  - Code des assurances R341-10 (2ème version)
 
 
 #### Chapitre V : Comptes consolidés.<a id=308></a>
@@ -34538,94 +34483,98 @@ _Anciens textes_:
 ###### Article R345-1
 
 Les comptes consolidés ou combinés mentionnés à l'article L. 345-2 sont établis suivant les règles fixées par les articles
-357-1 et 357-3 à 357-11 de la loi n° 66-537 du 24 juillet 1966 et par les articles 248 à 248-12 et 248-14 du décret n° 67-236
-du 23 mars 1967, sous réserve des dispositions du présent chapitre.
+357-1 et 357-3 à 357-11 de la loi n° 66-537 du 24 juillet 1966 et par les articles 248 à 248-12 du décret n° 67-236 du 23
+mars 1967, sous réserve des dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°66-537 1966-07-24 art. 357-1 à 357-11
-  - Décret n°67-236 1967-03-23 art. 248 à 248-12, art. 248-14
-  - Décret n°67-236 du 23 mars 1967 - art. 248-14 (M)
-  - Code des assurances - art. L345-2 (M)
+  - Loi n°66-537 du 24 juillet 1966 - art. 357-1 (M)
+  - Décret n°67-236 du 23 mars 1967 - art. 248 (Ab)
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 3 () JORF 5 août 1995
 
 _Cité par_:
 
   - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
   - Code des assurances - art. R334-42 (M)
 
+_Modifié par_:
+
+  - Décret n°2001-51 du 17 janvier 2001 - art. 4 () JORF 19 janvier 2001
+
 
 ###### Article R345-1-1
 
 Constituent un ensemble soumis à obligation d'établir des comptes combinés deux ou plusieurs entreprises soumises au contrôle
-de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1 se trouvant dans l'un des cas suivants :
+de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1, sociétés de participations d'assurance mentionnées
+à l'article L. 345-1, institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale ou par
+l'article 1050 du code rural se trouvant dans l'un des cas suivants :
 
-1° Ces entreprises ont, en vertu d'un accord entre elles, soit une direction commune, soit des services communs assez étendus
+1° Ces entités ont, en vertu d'un accord entre elles, soit une direction commune, soit des services communs assez étendus
 pour engendrer un comportement commercial, technique ou financier commun ;
 
-2° Ces entreprises ont entre elles des liens de réassurance importants et durables en vertu de dispositions contractuelles,
+2° Ces entités ont entre elles des liens de réassurance importants et durables en vertu de dispositions contractuelles,
 statutaires ou réglementaires.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural 1050
+  - Code de la sécurité sociale
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L310-1-1 (V)
+  - Code des assurances - art. L345-1 (M)
+
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 4 () JORF 5 août 1995
 
 _Cité par_:
 
   - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
   - Code des assurances - art. R345-1-2 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code des assurances L310-1 et L310-1-1
+  - Décret n°2001-51 du 17 janvier 2001 - art. 4 () JORF 19 janvier 2001
 
 
 ###### Article R345-1-2
 
-L'entreprise tenue d'établir et de publier des comptes combinés en application du troisième alinéa de l'article L. 345-2 est
-désignée par un accord entre toutes les entreprises appartenant à l'ensemble soumis à obligation d'établir des comptes
-combinés, et à défaut d'un accord préalable à la date de clôture de l'exercice :
+La désignation de l'entité chargée d'établir et de publier des comptes combinés fait l'objet d'une convention écrite entre
+toutes les entités dont la cohésion ne résulte pas de liens en capital et appartenant à l'ensemble soumis à obligation
+d'établir les comptes combinés. Cet accord engage de plein droit toutes les entreprises sur lesquelles l'une des parties à
+l'accord exerce un contrôle exclusif, un contrôle conjoint ou une influence notable. Un arrêté conjoint du ministre chargé de
+l'économie, du ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture précise les dispositions que
+doit contenir cet accord.
 
-a) Dans le cas mentionné au 1° de l'article R. 345-1-1, l'entreprise ayant encaissé en moyenne, au cours des cinq derniers
-exercices, le montant de primes le plus élevé ;
+A défaut d'un accord préalable à la date de clôture de l'exercice, cette entité est :
 
-b) Dans le cas mentionné au 2° de l'article R. 345-1-1 et lorsque le cas mentionné au 1° du même article ne s'applique pas,
-le cessionnaire et, dans le cas où plusieurs cessionnaires interviennent, celui qui a accepté en moyenne, au cours des trois
-derniers exercices, le montant le plus élevé de primes cédées par les entreprises de l'ensemble soumis à obligation d'établir
-des comptes combinés.
+a) Dans le cas mentionné au 1° de l'article R. 345-1-1, l'entité ayant encaissé en moyenne, au cours des cinq derniers
+exercices, le montant de primes ou de cotisations le plus élevé ;
 
-Toutefois, par dérogation aux dispositions du précédent alinéa, lorsque l'une des entreprises faisant partie d'un ensemble
-d'entreprises tel que défini à l'article R. 345-1-1 est incluse par intégration globale dans les comptes consolidés d'une
-entreprise elle-même soumise à une obligation de consolidation en application de l'article L. 345-2, l'entreprise tenue
-d'établir et de publier des comptes combinés est l'entreprise consolidante. Cette obligation se confond dans ce cas avec
-l'obligation d'établir des comptes consolidés. Les comptes consolidés incluent alors les comptes des entreprises faisant
-partie de l'ensemble d'entreprises précité, qui sont agrégés conformément aux dispositions de l'article R. 345-2-1 aux
-comptes de la société consolidante.
+b) Dans le cas où l'obligation d'établir des comptes combinés ne découle que du 2° de l'article R. 345-1-1, le cessionnaire
+et, dans le cas où plusieurs cessionnaires interviennent, celui qui a accepté en moyenne, au cours des trois derniers
+exercices, le montant le plus élevé de primes ou cotisations cédées par les entités de l'ensemble soumis à obligation
+d'établir des comptes combinés.
+
+Toutefois, par dérogation aux dispositions du précédent alinéa, lorsqu'une entité faisant partie d'un ensemble d'entités tel
+que défini à l'article R. 345-1-1 est incluse par intégration globale dans les comptes consolidés d'une entité elle-même
+soumise à une obligation de consolidation en application de l'article L. 345-2, l'entité tenue d'établir et de publier des
+comptes combinés est l'entité consolidante. Cette obligation se confond dans ce cas avec l'obligation d'établir des comptes
+consolidés. Les comptes consolidés incluent alors les comptes des entités faisant partie de l'ensemble précité, qui sont
+agrégés conformément aux dispositions de l'article R. 345-2-1 aux comptes de l'entité consolidante.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 4 () JORF 5 août 1995
 
 _Cité par_:
 
@@ -34634,6 +34583,10 @@ _Cité par_:
   - Code des assurances - art. R322-55-5 (V)
   - Code des assurances - art. R345-1-3 (V)
 
+_Modifié par_:
+
+  - Décret n°2001-51 du 17 janvier 2001 - art. 5 () JORF 19 janvier 2001
+
 _Cite_:
 
   - Code des assurances - art. L345-2 (M)
@@ -34641,95 +34594,61 @@ _Cite_:
   - Code des assurances - art. R345-2-1 (M)
 
 
+###### Article R345-1-3
+
+Lorsque l'entité désignée conformément aux dispositions du premier alinéa de l'article R. 345-1-2 est une entreprise soumise
+au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L. 310-1-1 ou une société de participations
+d'assurance mentionnée à l'article L. 345-1, l'accord est transmis à la commission de contrôle des assurances dans les quinze
+jours de sa signature. Il est porté dans les mêmes délais à la connaissance des commissaires aux comptes de toutes les
+entités incluses dans le périmètre de la combinaison.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°2001-51 du 17 janvier 2001 - art. 6 () JORF 19 janvier 2001
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L310-1-1 (V)
+  - Code des assurances - art. L345-1 (M)
+  - Code des assurances - art. R345-1-2 (M)
+
+
+###### Article R345-1-4
+
+Lorsque le commissaire aux comptes d'une entreprise régie par le code des assurances constate, d'une part, l'existence
+d'éléments constitutifs d'une obligation d'établissement et de publication de comptes combinés et, d'autre part, l'absence de
+mise en oeuvre de cette obligation, il saisit la commission de contrôle des assurances conformément aux dispositions de
+l'article L. 310-19.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°2001-51 du 17 janvier 2001 - art. 6 () JORF 19 janvier 2001
+
+_Cite_:
+
+  - Code des assurances - art. L310-19 (M)
+
+
 ##### Section I : Méthode de consolidation et méthode d'élaboration des comptes combinés<a id=309></a>
-
-###### Article R345-2
-
-Le chiffre d'affaires consolidé ou combiné est constitué après retraitements, d'une part, du montant des primes d'assurance
-directe sans déduction des cessions de réassurance, d'autre part, du montant des acceptations en réassurance sans déduction
-des rétrocessions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
-  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-_Abrogé par_:
-
-  - Décret n°2001-51 du 17 janvier 2001 - art. 9 () JORF 19 janvier 2001
-
-
-###### Article R345-2-1
-
-L'agrégation des comptes des entreprises soumises à obligation d'établir des comptes combinés est effectuée selon les mêmes
-méthodes que la consolidation par intégration globale.
-
-Toutefois, les capitaux propres sont présentés par cumul des capitaux propres des entreprises incluses dans le périmètre de
-la combinaison. Lorsqu'il existe des liens de participation entre ces entreprises, les titres de participation figurant à
-l'actif de l'entreprise détentrice sont imputés sur les capitaux propres combinés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-_Cité par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
-  - Code des assurances - art. R345-1-2 (V)
-
-_Abrogé par_:
-
-  - Décret n°2001-51 du 17 janvier 2001 - art. 9 () JORF 19 janvier 2001
-
-
-###### Article R345-3
-
-Dans la consolidation par intégration globale ou proportionnelle, ou dans l'élaboration des comptes combinés, le retraitement
-qui résulte de l'élimination générale des créances et des dettes réciproques peut n'être que partiel en ce qui concerne les
-recours sur sinistres entre sociétés consolidées ou combinées.
-
-En outre, les suppléments de valeur dégagés à l'occasion de transactions portant sur des placements représentatifs de
-provisions techniques sont maintenus dans les comptes consolidés ou combinés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
-  - Décret n°95-883 du 31 juillet 1995 - art. 7 (V)
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-_Abrogé par_:
-
-  - Décret n°2001-51 du 17 janvier 2001 - art. 9 () JORF 19 janvier 2001
-
 
 ###### Article R345-4
 
-Les modes et méthodes d'évaluation sont ceux qui sont utilisés en application du présent livre.
+Les modes et méthodes d'évaluation ainsi que les règles de conversion applicables aux éléments exprimés en monnaie étrangère
+sont ceux qui sont fixés pour les entreprises d'assurance par le présent livre, sous réserve des adaptations nécessaires aux
+comptes consolidés ou combinés fixées par un règlement du Comité de la réglementation comptable.
 
 **Liens relatifs à cet article**
 
@@ -34739,69 +34658,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-
-###### Article R345-5
-
-Les règles de conversion applicables aux éléments exprimés en monnaie étrangère sont celles qui sont définies par le présent
-livre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°86-221 du 17 février 1986 - art. 10 (V)
-
-_Cité par_:
-
-  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-_Abrogé par_:
-
-  - Décret n°2001-51 du 17 janvier 2001 - art. 9 () JORF 19 janvier 2001
-
-
-###### Article R345-6
-
-Lorsqu'une entreprise consolidable ou combinable clôture ses comptes à une date autre que celle qui est retenue pour les
-comptes consolidés ou combinés, la consolidation ou l'élaboration des comptes combinés, en ce qui concerne cette entreprise,
-s'effectue sur la base de la situation à la clôture du dernier exercice connu, corrigée des effets des opérations réciproques
-exceptionnelles réalisées dans l'intervalle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-_Abrogé par_:
-
-  - Décret n°2001-51 du 17 janvier 2001 - art. 9 () JORF 19 janvier 2001
+  - Décret n°2001-51 du 17 janvier 2001 - art. 7 () JORF 19 janvier 2001
 
 
 ##### Section II : Présentation des comptes consolidés ou combinés<a id=310></a>
 
 ###### Article R345-7
 
-Le bilan, le compte de résultat et l'annexe consolidés ou combinés comprennent les postes des modèles définis par le présent
-livre.
+Le bilan, le compte de résultat et l'annexe consolidés ou combinés comprennent les postes des modèles mentionnés à l'article
+R. 341-3, sous réserve des adaptations nécessaires aux comptes consolidés ou combinés fixées par un règlement du Comité de la
+réglementation comptable.
 
 **Liens relatifs à cet article**
 
@@ -34815,104 +34681,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-
-###### Article R345-8
-
-Le compte de résultat consolidé ou combiné est établi en faisant apparaître distinctement les branches Dommages et Vie, au
-moins pour les primes, sinistres et commissions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-_Abrogé par_:
-
-  - Décret n°2001-51 du 17 janvier 2001 - art. 9 () JORF 19 janvier 2001
-
-
-###### Article R345-9
-
-Les entreprises régies par le présent livre ne sont pas tenues de faire figurer dans l'annexe prévue à l'article 248-12 du
-décret n° 67-236 du 23 mars 1967 modifié les renseignements mentionnés au 13° dudit article.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°67-236 du 23 mars 1967 - art. 248-12 (M)
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°86-221 du 17 février 1986 - art. 10 (V)
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-_Abrogé par_:
-
-  - Décret n°2001-51 du 17 janvier 2001 - art. 9 () JORF 19 janvier 2001
-
-
-###### Article R345-10
-
-Les comptes consolidés ou combinés font apparaître distinctement le total des capitaux propres et les résultats des sociétés
-d'assurance mutuelles consolidées ou combinées par une société anonyme.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-_Abrogé par_:
-
-  - Décret n°2001-51 du 17 janvier 2001 - art. 9 () JORF 19 janvier 2001
-
-
-###### Article R345-11
-
-Les capitaux propres et les résultats des entreprises appartenant à un ensemble soumis à obligation d'établir des comptes
-combinés en application du troisième alinéa de l'article L. 345-2 font l'objet d'une information dans l'annexe des comptes
-combinés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°95-883 du 31 juillet 1995 - art. 5 () JORF 5 août 1995
-
-_Abrogé par_:
-
-  - Décret n°2001-51 du 17 janvier 2001 - art. 9 () JORF 19 janvier 2001
-
-_Cite_:
-
-  - Code des assurances - art. L345-2 (M)
+  - Décret n°2001-51 du 17 janvier 2001 - art. 8 () JORF 19 janvier 2001
 
 
 ### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes<a id=311></a>
