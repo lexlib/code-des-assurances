@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1999-01-29
+Version Consolidée au 1999-03-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -480,7 +480,7 @@ Version Consolidée au 1999-01-29
         - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#477)
           - [Section I : Dispositions générales. (art. A344-1)](#478)
           - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#479)
-          - [Section III : Etats à produire. (art. A344-3 à A344-13)](#480)
+          - [Section III : Etats à produire. (art. A344-3 à A344-14)](#480)
           - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#481)
             - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#482)
       - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#483)
@@ -72417,6 +72417,60 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. A344-6 (V)
   - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
   - TXT_SOURCE: Code des assurances - art. R342-23 (M)
+
+
+###### Article A344-14
+
+En application de l'article R. 341-5, les entreprises d'assurance et de réassurance adressent à la Commission de contrôle des
+assurances avant le 30 juin 1999 et le 15 octobre 1999 un rapport de leur conseil d'administration sur leur état de
+préparation au passage à l'an 2000.
+
+Ce rapport comprend notamment :
+
+- la définition de l'approche générale retenue face aux problèmes de l'an 2000 ;
+
+- la description des actions engagées au sein et en dehors de l'entreprise ;
+
+- l'évaluation des actions à entreprendre et la description des plans d'action engagés ;
+
+- l'état d'avancement de l'adaptation des systèmes, applications et équipements ;
+
+- l'état de mise au point des tests de validation ;
+
+- l'état de mise en oeuvre de ces tests ainsi que des mesures correctives le cas échéant nécessaires ;
+
+- la description des procédures de secours disponibles et prévues.
+
+D'une façon générale, les états d'avancement seront quantifiés et permettront d'apprécier le degré de mise en oeuvre des
+plans d'actions arrêtés.
+
+Ce rapport est communiqué, sur leur demande, aux commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1999-03-11 art. 1 JORF 16 mars 1999
+
+_Cité par_:
+
+  - Code des assurances - art. A321-1 (V)
+  - Code des assurances - art. A322-1 (V)
+  - Code des assurances - art. A334-5 (M)
+  - Code des assurances - art. A334-6 (V)
+  - Code des assurances - art. Annexe art. A344-14-1 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+
+_Cite_:
+
+  - Code des assurances - art. R*341-5 (M)
 
 
 ##### Section III : Etats à produire.<a id=481></a>
