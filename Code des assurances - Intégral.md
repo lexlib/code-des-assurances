@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-01-05
+Version Consolidée au 1991-01-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L181-3)](#2)
@@ -2103,6 +2103,9 @@ Les contrats d'assurance garantissant les dommages d'incendie à des biens situ�
 terrestres à moteur ouvrent droit à la garantie de l'assuré contre les effets du vent dû aux tempêtes, ouragans ou cyclones,
 sur les biens faisant l'objet de tels contrats.
 
+Sont exclus les contrats garantissant les dommages d'incendie causés aux récoltes non engrangées, aux cultures et au cheptel
+vif hors bâtiments.
+
 En outre, si l'assuré est couvert contre les pertes d'exploitation après incendie, cette garantie est étendue aux effets du
 vent dû aux tempêtes, ouragans ou cyclones.
 
@@ -2112,9 +2115,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°90-509 du 25 juin 1990 - art. 1 () JORF 27 juin 1990
+  - Loi n°91-5 du 3 janvier 1991 - art. 34 () JORF 6 janvier 1991
 
 _Cité par_:
 
