@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-02-28
+Version Consolidée au 2004-03-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -56,11 +56,11 @@ Version Consolidée au 2004-02-28
         - [Chapitre II : Dispositions applicables aux assurances non fluviales. (art. L192-1 à L192-7)](#53)
     - [Livre II : Assurances obligatoires (art. L211-1 à L252-2)](#54)
       - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. L211-1 à L214-1)](#55)
-        - [Chapitre Ier : L'obligation de s'assurer (art. L211-1 à L211-26)](#56)
+        - [Chapitre Ier : L'obligation de s'assurer (art. L211-1 à L211-27)](#56)
           - [Section I : Personnes assujetties. (art. L211-1 à L211-2)](#57)
           - [Section II : Etendue de l'obligation d'assurance. (art. L211-4 à L211-7)](#58)
           - [Section VI : Procédures d'indemnisation. (art. L211-8 à L211-25)](#59)
-          - [Section VII : Pénalités. (art. L211-26)](#60)
+          - [Section VII : Pénalités. (art. L211-26 à L211-27)](#60)
         - [Chapitre II : L'obligation d'assurer - Le bureau central de tarification. (art. L212-1 à L212-3)](#61)
         - [Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à Mayotte (art. L214-1)](#62)
           - [Section I : Dispositions particulières aux départements d'outre-mer. (art. L214-1)](#63)
@@ -8466,22 +8466,36 @@ _Cité par_:
 
 ###### Article L211-26
 
-Les amendes prononcées pour violation de l'obligation d'assurance prévue par l'article L. 211-1, y compris les amendes qu'une
-mesure de grâce aurait substituées à l'emprisonnement, sont affectées d'une majoration de 50 % perçue, lors de leur
-recouvrement, au profit du Fonds de garantie institué par l'article L. 420-1 (1).
+Les dispositions du code de la route réprimant la conduite d'un véhicule terrestre à moteur sans être couvert par une
+assurance garantissant sa responsabilité civile conformément aux dispositions de l'article L. 211-1 du présent code sont
+reproduites ci-après : 
 
-Si la juridiction civile est saisie d'une contestation sérieuse, portant sur l'existence ou la validité de l'assurance, la
-juridiction pénale appelée à se prononcer sur les poursuites exercées pour violation de l'obligation d'assurance sursoit à
-statuer jusqu'à ce qu'il ait été jugé définitivement sur la contestation.
+" Art. L. 324-2-I.-Le fait, y compris par négligence, de mettre ou de maintenir en circulation un véhicule terrestre à moteur
+ainsi que ses remorques ou semi-remorques sans être couvert par une assurance garantissant sa responsabilité civile
+conformément aux dispositions de l'article L. 211-1 du code des assurances est puni de 3 750 euros d'amende. 
 
-Les dispositions du présent article ne sont pas applicables lorsque l'assurance de la responsabilité civile concerne les
-véhicules ayant leur stationnement habituel sur le territoire d'un Etat visé à l'article L. 211-4 à l'exception de la France
-et de Monaco.
+II.-Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
+suivantes : 
 
-**Nota:**
+1° La peine de travail d'intérêt général, selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
+prévues aux articles 131-22 à 131-24 du même code ; 
 
-(1) : Art. 3 décret n° 88-260 du 18 mars 1988 JORF du 20 mars 1988 : L'article L. 420-1 à été transféré dans l'article L.
-421-1.
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ; 
+
+3° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à
+la conduite en dehors de l'activité professionnelle ; 
+
+4° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
+plus ; 
+
+5° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
+
+6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
+
+7° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire. 
+
+III.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. "
 
 **Liens relatifs à cet article**
 
@@ -8489,23 +8503,18 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
 _Modifié par_:
-
-  - Loi n°94-5 du 4 janvier 1994 - art. 40 () JORF 5 janvier 1994
-
-_Transféré par_:
 
   - Loi n°2004-204 du 9 mars 2004 - art. 59 (V) JORF 10 mars 2004
 
 _Cite_:
 
-  - Code des assurances - art. L211-1 (M)
-  - Code des assurances - art. L211-4 (M)
-  - Code des assurances - art. L420-1 (M)
+  - Code pénal - art. 131-22 (V)
+  - Code pénal - art. 131-25 (V)
+  - Code pénal - art. 131-5 (V)
+  - Code pénal - art. 131-8 (V)
+  - Code des assurances - art. L211-1 (V)
+  - Code des assurances - art. L325-1 (V)
 
 _Nouveaux textes_:
 
@@ -8522,6 +8531,54 @@ _Cité par_:
   - Code des assurances - art. L271-1 (V)
   - Code des assurances - art. R211-12 (V)
   - Code des assurances - art. R421-37 (M)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L324-2 (V)
+
+
+###### Article L211-27
+
+Les amendes prononcées pour violation de l'obligation d'assurance prévue par l'article L. 211-1, y compris les amendes qu'une
+mesure de grâce aurait substituées à l'emprisonnement, sont affectées d'une majoration de 50 % perçue, lors de leur
+recouvrement, au profit du Fonds de garantie institué par l'article L. 420-1. 
+
+Si la juridiction civile est saisie d'une contestation sérieuse, portant sur l'existence ou la validité de l'assurance, la
+juridiction pénale appelée à se prononcer sur les poursuites exercées pour violation de l'obligation d'assurance sursoit à
+statuer jusqu'à ce qu'il ait été jugé définitivement sur la contestation. 
+
+Les dispositions du présent article ne sont pas applicables lorsque l'assurance de la responsabilité civile concerne les
+véhicules ayant leur stationnement habituel sur le territoire d'un Etat visé à l'article L. 211-4 à l'exception de la France
+et de Monaco.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 59 (V) JORF 10 mars 2004
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 707-6 (V)
+  - Code de procédure pénale - art. D45-5 (VD)
+  - Code de procédure pénale - art. R55-3 (V)
+  - Code des assurances - art. R211-12 (V)
+  - Code des assurances - art. R421-37 (VD)
+
+_Cite_:
+
+  - Code des assurances - art. L211-1 (V)
+  - Code des assurances - art. L211-4 (V)
+  - Code des assurances - art. L420-1 (T)
+
+_Anciens textes_:
+
+  - Code des assurances - art. L211-26 (M)
+  - Code des assurances - art. L211-26 (T)
 
 
 #### Chapitre II : L'obligation d'assurer - Le bureau central de tarification.<a id=61></a>
