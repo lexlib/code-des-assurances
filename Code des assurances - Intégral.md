@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-07-01
+Version Consolidée au 1990-07-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L181-3)](#2)
@@ -505,7 +505,7 @@ Version Consolidée au 1990-07-01
             - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#502)
           - [Section V : Régime financier du fonds de garantie (art. A421-3)](#503)
             - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#504)
-        - [Chapitre II : Le fonds de garantie contre les actes de terrorisme. (art. A422-1)](#505)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#505)
       - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A433-6)](#506)
         - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#507)
           - [Section I : Dispositions générales. (art. A431-1)](#508)
@@ -49647,7 +49647,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-#### Chapitre II : Le fonds de garantie contre les actes de terrorisme.<a id=505></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=505></a>
 
 ###### Article A422-1
 
@@ -49661,15 +49661,15 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1988-06-22 art. 2 JORF 2 juillet 1988
+  - Loi n°90-589 du 6 juillet 1990 - art. 13 () JORF 11 juillet 1990
 
 _Cite_:
 
-  - Code des assurances - art. L422-1 (M)
-  - Code des assurances - art. R422-4 (M)
-  - Code des assurances L422-1, R422-4, R321-1
+  - Code des assurances - art. L422-1 (V)
+  - Code des assurances - art. R321-1 (V)
+  - Code des assurances - art. R422-4 (V)
 
 
 ### Titre III : Organismes particuliers d'assurance<a id=506></a>
