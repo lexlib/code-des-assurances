@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1992-09-12
+Version Consolidée au 1992-10-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -59,8 +59,8 @@ Version Consolidée au 1992-09-12
           - [Section VII : Pénalités. (art. L211-26)](#56)
         - [Chapitre II : L'obligation d'assurer - Le bureau central de tarification. (art. L212-1 à L212-3)](#57)
         - [Chapitre III : Contribution au profit de la sécurité sociale. (art. L213-1 à L213-2)](#58)
-        - [Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à la collectivité territoriale de Mayotte (art. L214-3 à L214-4)](#59)
-          - [Section III : Dispositions particulières à la collectivité territoriale de Mayotte. (art. L214-3 à L214-4)](#60)
+        - [Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à la collectivité territoriale de Mayotte (art. L214-3)](#59)
+          - [Section III : Dispositions particulières à la collectivité territoriale de Mayotte. (art. L214-3)](#60)
         - [Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer (art. L214-1 à L214-2)](#61)
           - [Section I : Dispositions particulières aux départements d'outre-mer. (art. L214-1)](#62)
           - [Section II : Dispositions particulières aux territoires d'outre-mer. (art. L214-2)](#63)
@@ -8044,37 +8044,6 @@ _Cite_:
   - Code des assurances - art. L213-1 (M)
   - Code des assurances - art. L214-1 (M)
   - Code des assurances - art. L214-2 (M)
-
-
-###### Article L214-4
-
-Pour l'application des articles L. 211-11, L. 211-12 et L. 211-25, les dispositions du chapitre II de la loi n° 85-677 du 5
-juillet 1985 sont étendues à la collectivité territoriale de Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cite_:
-
-  - Loi n°85-677 1985-07-05
-  - Code des assurances - art. L211-11 (M)
-  - Code des assurances - art. L211-12 (V)
-  - Code des assurances - art. L211-25 (V)
-
-_Créé par_:
-
-  - Ordonnance no 92-255 du 4 mars 1992 portant extens - art. 3 () JORF 20 mars 1992
-
-_Abrogé par_:
-
-  - Ordonnance no 92-1067 du 1er octobre 1992 portant  - art. 15 (Ab) JORF 3 octobre 1992 en vigueur le 15 octobre 1992
-
-_Cité par_:
-
-  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 15 (Ab)
 
 
 #### Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer<a id=61></a>
