@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1978-06-14
+Version Consolidée au 1978-06-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -38471,17 +38471,17 @@ calculées d'après un taux au plus égal au plus faible des taux d'intérêts s
 
 - soit le taux du tarif ;
 
-- soit le taux de rendement réel, diminué d'un point, de l'actif représentatif des engagements correspondants.
+- soit le taux de rendement réel diminué d'un cinquième, de l'actif représentatif des engagements correspondants.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1974-10-31 art. 5
 
 _Codifié par_:
 
   - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 1978-06-09 art. 3 JORF 24 juin 1978
 
 _Cité par_:
 
@@ -40240,15 +40240,11 @@ _Cite_:
 
 ###### Article A335-6
 
-Les tarifs des assurances nuptialité et natalité ne peuvent être inférieurs à ceux déterminés de la manière indiquée ci-
-après :
+Les tarifs des assurances nuptialité et natalité doivent être établis notamment d'après les tables de mortalité et les taux
+d'intérêt fixés par l'article A. 335-1.
 
-1° Le taux d'intérêt, les tables de mortalité, les taux de nuptialité et de natalité et le chargement de gestion définis à
-l'article A. 331-5 ;
-
-2° Un chargement de 9 p. 100 de la prime brute pour frais d'acquisition et d'encaissement.
-
-Les tarifs ainsi déterminés doivent être communiqués au ministre de l'économie et des finances avant d'être employés.
+Ces tarifs doivent comporter les chargements permettant la récupération par l'entreprise d'un montant de frais justifiable et
+raisonnable.
 
 **Liens relatifs à cet article**
 
@@ -40256,13 +40252,17 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Arrêté 1978-06-09 art. 6
+  - Arrêté 1978-06-09 art. 6 JORF 24 juin 1978
+
+_Abrogé par_:
+
+  - Arrêté 1993-03-19 art. 13 I JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 _Cite_:
 
-  - Code des assurances - art. A331-5 (Ab)
+  - Code des assurances - art. A335-1 (M)
 
 **Liens**:
 
