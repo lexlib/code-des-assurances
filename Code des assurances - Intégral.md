@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1998-01-01
+Version Consolidée au 1998-01-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -43168,6 +43168,43 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
+
+
+###### Article A132-1-1
+
+Pour l'application de l'article A. 132-1, le taux moyen des emprunts d'Etat sur base semestrielle est déterminé en effectuant
+la moyenne arithmétique sur les six derniers mois des taux observés sur les marchés primaire et secondaire. Le résultat de la
+multiplication par 60 % ou 75 % de cette moyenne est dénommé "taux de référence mensuel".
+
+Le taux d'intérêt technique maximal applicable aux tarifs est fixé sur une échelle de taux d'origine 0 et de pas de 0,25
+point. Il évolue selon la position du taux de référence mensuel par rapport au dernier taux technique maximal en vigueur :
+
+- tant que le taux de référence mensuel n'a pas diminué d'au moins 0,1 point ou augmenté d'au moins 0,35 point par rapport au
+dernier taux technique maximal en vigueur, ce dernier demeure inchangé ;
+
+- si le taux de référence mensuel sort des limites précédemment définies, le nouveau taux technique maximal devient le taux
+immédiatement inférieur au taux de référence mensuel sur l'échelle de pas de 0,25 point.
+
+Lorsqu'un nouveau taux d'intérêt technique maximal est applicable, les entreprises disposent de trois mois pour opérer cette
+modification.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1998-01-02 art. 1 JORF 3 janvier 1998
+
+_Cite_:
+
+  - Code des assurances - art. A132-1 (M)
+
+_Cité par_:
+
+  - Code des assurances - art. A132-3 (V)
 
 
 ###### Article A132-2
