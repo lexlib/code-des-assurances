@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1983-07-17
+Version Consolidée au 1983-09-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -327,7 +327,7 @@ Version Consolidée au 1983-07-17
             - [Paragraphe 2 : Administration. (art. R*431-5 à R*431-28)](#324)
           - [Section I : Dispositions générales. (art. R*431-8)](#325)
           - [Section II : Opérations de réassurance. (art. R*431-29 à R*431-32)](#326)
-          - [Section III : Assurance et réassurance des risques exceptionnels et nucléaires. (art. R*431-33 à R*431-45)](#327)
+          - [Section III : Assurance et réassurance des risques exceptionnels et nucléaires. (art. R*431-39 à R431-38)](#327)
           - [Section IV : Dispositions diverses. (art. R*431-47 à R*431-48)](#328)
         - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur "coface" (art. R*432-1 à R*432-48)](#329)
           - [Section I : Dispositions générales. (art. R*432-1 à R432-5)](#330)
@@ -34408,8 +34408,8 @@ _Codifié par_:
 
 ###### Article R*431-14
 
-Une fois les réserves réglementaires constituées et les amortissements pratiqués, les bénéfices constatés à la clôture de
-chaque exercice sont versés à une réserve spéciale de garantie.
+Une fois les amortissements pratiqués et les réserves réglementaires constituées, les bénéfices disponibles à la clôture de
+chaque exercice sont versés, après prélèvement éventuel au profit de l'Etat, à une réserve spéciale de garantie.
 
 Tout prélèvement opéré sur ladite réserve est soumis à autorisation du ministre de l'économie et des finances.
 
@@ -34418,6 +34418,10 @@ Tout prélèvement opéré sur ladite réserve est soumis à autorisation du min
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 1 JORF 24 septembre 1983
 
 **Liens**:
 
@@ -34885,20 +34889,214 @@ _Codifié par_:
 
 ##### Section III : Assurance et réassurance des risques exceptionnels et nucléaires.<a id=327></a>
 
-###### Article R*431-33
+###### Article R*431-39
 
-La caisse centrale de réassurance peut accepter de couvrir avec la garantie de l'Etat, soit en assurance, soit en réassurance
-les risques mentionnés à l'article L. 431-3.
+Les commissions qui peuvent être allouées aux intermédiaires et aux cédants sont fixées par la caisse centrale de réassurance
+sans pouvoir excéder les limites autorisées par le ministre de l'économie, des finances et du budget.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 1
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+
+
+###### Article R*431-40
+
+Il est constitué auprès de la Caisse centrale de réassurance une commission consultative des garanties des risques
+exceptionnels et nucléaires qui comprend :
+
+1° Un magistrat de la Cour des comptes désigné par le premier président de la Cour des comptes, président, suppléé en cas
+d'empêchement par un autre magistrat de la Cour des comptes désigné dans les mêmes conditions ;
+
+2° Un représentant du ministre de l'économie, des finances et du budget, du ministre des transports, du ministre de
+l'industrie et de la recherche, du secrétaire d'Etat du ministre de l'économie, des finances et du budget, chargé du budget,
+et du secrétaire d'Etat auprès du ministre des transports, chargé de la mer ;
+
+3° Un représentant de la fédération française des sociétés d'assurances et le directeur général de la Caisse centrale de
+réassurance, ou son représentant, chargé de la présentation des dossiers soumis à la commission.
+
+Le président peut inviter à participer aux travaux de la commission toute personne dont il lui paraît utile de recueillir
+l'avis sur une question à l'ordre du jour.
+
+Le secrétariat de la commission est assuré par la Caisse centrale de réassurance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+
+
+###### Article R*431-41
+
+La commission consultative des garanties se réunit, soit à l'initiative de son président, soit à la demande du ministre de
+l'économie, des finances et du budget, soit à la demande du directeur général de la Caisse centrale de réassurance.
+
+Outre les questions dont elle connaît obligatoirement, la commission peut être consultée sur toutes questions sur lesquelles
+le ministre de l'économie, des finances et du budget ou le directeur général de la Caisse centrale de réassurance souhaitent
+recueillir son avis.
+
+Les avis de la commission sont pris à la majorité des voix ; en cas de partage, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+
+
+###### Article R*431-42
+
+La garantie de l'Etat donne lieu de la part de la caisse centrale de réassurance au versement d'une rémunération. Les
+conditions et modalités de la mise en jeu de la garantie et du versement de cette rémunération font l'objet de conventions
+passées entre le ministre de l'économie, des finances et du budget et le directeur général de la caisse centrale de
+réassurance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+
+
+###### Article R*431-43
+
+Le compte distinct ouvert dans les écritures de la caisse centrale de réassurance en application de l'article L. 431-6 fait
+notamment apparaître les recettes de primes et de commissions et, le cas échéant, les versements effectués par l'Etat au
+titre de la mise en jeu de la garantie, ainsi que la part des produits correspondant au placement des fonds gérés par la
+caisse au titre des opérations mentionnées par la présente section. Il retrace, en dépenses, outre les versements opérés au
+titre desdites opérations, la part des frais de gestion, commissions, impôts, taxes et frais annexes de toute nature, qui
+leur sont imputables. Il comptabilise les provisions et les réserves propres à ces risques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+
+_Cite_:
+
+  - Code des assurances - art. L431-6 (M)
+
+
+###### Article R*431-44
+
+La Caisse centrale de réassurance constitue une provision spéciale pour charges exceptionnelles afférentes aux opérations
+garantissant les risques mentionnés à l'article L. 431-3, alinéa 1.
+
+Cette provision est alimentée par un prélèvement sur les primes égal à 0,10 % de l'estimation de la somme des valeurs
+garanties par la Caisse centrale de réassurance au cours de l'exercice considéré, sans que ce prélèvement puisse excéder le
+tiers du montant des primes nettes conservées correspondant aux opérations visées ci-dessus.
+
+Ce prélèvement cesse d'être obligatoire lorsque la provision spéciale pour charges exceptionnelles atteint un montant égal à
+la moyenne des cinq risques les plus élevés garantis.
+
+Le montant de la provision inscrite dans le compte distinct ouvert dans les écritures de la Caisse centrale de réassurance,
+en application de l'article L. 431-6, est affecté à la provision spéciale pour charges exceptionnelles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
+
+_Cite_:
+
+  - Code des assurances - art. L431-3 (M)
+  - Code des assurances - art. L431-6 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+
+
+###### Article R*431-45
+
+En ce qui concerne les risques définis à l'article L. 431-3, alinéa 1, autres que de responsabilité civile, une assurance
+contre les risques ordinaires doit avoir été préalablement souscrite pour un montant au moins égal à celui pour lequel la
+garantie est demandée. La caisse centrale de réassurance peut déroger à cette obligation après accord de la commission
+consultative des garanties prévue à l'article R. 431-40.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
+
+_Cite_:
+
+  - Code des assurances - art. L431-3 (M)
+  - Code des assurances L431-3, R431-40
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+
+
+###### Article R431-33
+
+La Caisse centrale de réassurance peut accepter d'assurer ou de réassurer, avec la garantie de l'Etat, les risques mentionnés
+à l'article L. 431-3, alinéa 1, lorsque les biens concernés sont propriété française ou immatriculés en France ou lorsque le
+souscripteur de la police ou le bénéficiaire de l'indemnité est de nationalité française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
 
 _Cite_:
 
@@ -34915,29 +35113,25 @@ _Cité par_:
   - Code des assurances - art. R471-1 (V)
 
 
-###### Article R*431-34
+###### Article R431-34
 
-La caisse centrale de réassurance, agissant avec la garantie de l'Etat, est chargée d'assurer les couvertures des risques à
-la charge des exploitants de navires et d'installations nucléaires pour lesquelles des interventions de l'Etat sont prévues
-par l'article 19 de la loi n° 65-956 du 12 novembre 1965 et par les articles 4 et 7 de la loi n° 68-943 du 30 octobre 1968,
-de même que les couvertures des risques prévues à l'article 12 de la même loi.
+La Caisse centrale de réassurance, agissant avec la garantie de l'Etat, peut réassurer les risques mentionnés à l'article L.
+431-3, alinéa 1, lorsque les biens ou intérêts concernés donnent lieu à une garantie pour la souscription de laquelle
+intervient une entreprise agréée en France pour pratiquer les risques correspondants.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°65-956 du 12 novembre 1965 - art. 19 (V)
-  - Loi n°68-943 du 30 octobre 1968 - art. 12 (Ab)
-  - Loi n°68-943 du 30 octobre 1968 - art. 4 (M)
-  - Loi n°68-943 du 30 octobre 1968 - art. 7 (V)
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 1
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
+
+_Cite_:
+
+  - Code des assurances - art. L431-3 (M)
 
 **Liens**:
 
@@ -34949,23 +35143,27 @@ _Cité par_:
   - Code des assurances - art. R431-36 (M)
 
 
-###### Article R*431-35
+###### Article R431-35
 
-Les contrats types prévus par l'article L. 431-12 sont approuvés par le ministre de l'économie et des finances.
+La Caisse centrale de réassurance, agissant avec la garantie de l'Etat, peut accorder sa couverture aux risques mentionnés à
+l'article L. 431-3, alinéa 1, lorsque les biens ou intérêts concernés sont réassurés par une entreprise dont le siège social
+est établi sur le territoire d'un Etat membre de la Communauté économique européenne. Les opérations effectuées à ce titre
+par la Caisse centrale de réassurance font l'objet d'un compte rendu au ministre de l'économie, des finances et du budget
+selon les modalités qu'il définit.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-123 1945-01-23 art. 8
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
+
 _Cite_:
 
-  - Code des assurances - art. L431-12 (M)
+  - Code des assurances - art. L431-3 (M)
 
 **Liens**:
 
@@ -34976,310 +35174,88 @@ _Cité par_:
   - Code des assurances - art. R431-36 (M)
 
 
-###### Article R*431-36
+###### Article R431-36
 
-Les opérations prévues aux articles R. 431-33 et R. 431-34 et réalisées avec la garantie de l'Etat portent sur les biens
-suivants ou les dommages résultant de leur utilisation :
-
-a) Navires et autres bâtiments de mer, bateaux de navigation intérieure, matériel flottant affecté à l'exploitation maritime
-ou fluviale ;
-
-b) Aéronefs ;
-
-c) Véhicules utilitaires affectés au transport terrestre des personnes ou des marchandises ;
-
-d) Biens transportés, quel que soit le moyen de transport et biens stockés à l'occasion d'un transport ;
-
-e) Installations nucléaires et biens se trouvant sur le site de ces installations, ainsi que les substances nucléaires
-stockées, ou en cours de transport en provenance ou à destination desdites installations.
+A titre exceptionnel, la Caisse centrale de réassurance peut accepter d'assurer ou de réassurer les risques visés à l'article
+L. 431-3, alinéa 1, ne répondant pas aux exigences des articles R. 431-33, R. 431-34, R. 431-35 après avoir recueilli l'avis
+de la commission consultative des garanties des risques exceptionnels et nucléaires prévue par l'article R. 431-40 et obtenu
+l'accord du ministre de l'économie, des finances et du budget.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 2
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
 
 _Cite_:
 
+  - Code des assurances - art. L431-3 (M)
   - Code des assurances - art. R*431-33 (M)
   - Code des assurances - art. R*431-34 (M)
+  - Code des assurances - art. R*431-35 (M)
+  - Code des assurances L431-3, R431-33, R431-34, R431-35, R431-40
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 _Cité par_:
 
   - Code des assurances - art. R*431-37 (M)
 
 
-###### Article R*431-37
+###### Article R431-37
 
-Le contrat ou le traité ne peut être conclu que si l'une au moins des deux conditions suivantes est remplie :
-
-a) Qu'il s'agisse d'un bien immatriculé en France ou francisé ou propriété française, ou que le souscripteur ou l'assuré soit
-de nationalité française ;
-
-b) Que les biens énumérés à l'article R. 431-36 soient garantis contre les risques autres que les risques exceptionnels
-auprès d'une entreprise d'assurance française, d'une filiale étrangère d'entreprise d'assurance française ou de
-l'établissement en France d'une entreprise d'assurance étrangère.
+Les conditions générales des traités de réassurance sont soumises par la Caisse centrale de réassurance à l'approbation du
+ministre de l'économie, des finances et du budget, après avis de la commission consultative des garanties.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 3
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
 
 **Liens**:
 
   - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
-_Cite_:
 
-  - Code des assurances - art. R*431-36 (M)
+###### Article R431-38
 
-
-###### Article R*431-38
-
-En ce qui concerne les risques définis à l'article L. 431-3 autres que de responsabilité civile, une assurance contre les
-risques ordinaires doit avoir été préalablement souscrite pour un montant au moins égal à celui pour lequel la garantie est
-demandée. La caisse centrale de réassurance peut déroger à cette obligation après accord de la commission consultative des
-garanties prévue à l'article R. 431-43.
+Après avoir recueilli l'avis de la commission consultative des garanties sur les principes généraux de la tarification, la
+caisse centrale de réassurance détermine le tarif destiné à lui permettre de faire face aux charges des opérations qu'elle
+effectue au titre des articles L. 431-3, alinéa 1, et L. 431-4.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 4
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Code des assurances - art. L431-3 (M)
-  - TXT_SOURCE: Code des assurances L431-3, R431-43
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
 
 _Cite_:
 
   - Code des assurances - art. L431-3 (M)
-  - Code des assurances L431-3, R431-43
+  - Code des assurances - art. L431-4 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
 
 _Cité par_:
 
   - Code des assurances - art. R*431-44 (M)
-
-
-###### Article R*431-39
-
-Les polices d'assurance et les traités de réassurance doivent être conformes à des polices ou traités types dont les clauses
-sont arrêtées par le ministre de l'économie et des finances, après avis de la commission consultative des garanties.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 5
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R*431-40
-
-La structure des tarifs est établie par la caisse centrale de réassurance, après avis de la commission consultative des
-garanties, de manière à lui permettre de faire face aux charges des opérations assumées en vertu de la présente section et
-soumise à approbation du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 6
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R*431-41
-
-La caisse centrale de réassurance peut décider de céder tout ou partie des risques exceptionnels et nucléaires qu'elle a
-souscrits ou acceptés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 7
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R*431-42
-
-Les opérations d'assurance et de réassurance peuvent donner lieu, en faveur des intermédiaires et des cédants, à un versement
-de commission dans les conditions fixées par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 8
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R*431-43
-
-Il est institué auprès de la caisse centrale de réassurance une commission consultative des garanties des risques
-exceptionnels et nucléaires, qui comprend :
-
-- un magistrat de la Cour des comptes désigné par le premier président de la Cour des comptes, président, suppléé en cas
-d'empêchement par un autre magistrat de la Cour des comptes désigné dans les mêmes conditions ;
-
-- le directeur des assurances ou son représentant ;
-
-- le directeur du budget ou son représentant ;
-
-- le directeur du Trésor ou son représentant ;
-
-- un représentant de la fédération française des sociétés d'assurances.
-
-Pour les questions relatives aux assurances de risques de transport, la commission est complétée par :
-
-- un représentant du ministre chargé des transports ;
-
-- le directeur général des douanes et droits indirects ou son représentant ;
-
-- le directeur des relations économiques extérieures ou son représentant.
-
-Pour les questions relatives aux risques nucléaires, la commission est complétée par un représentant du ministre chargé de
-l'énergie nucléaire.
-
-Le président peut inviter à participer aux travaux de la commission toute personne dont il lui paraît utile de recueillir
-l'avis sur une question à l'ordre du jour.
-
-Le directeur général de la caisse centrale de réassurance, ou son représentant, est chargé de la présentation des dossiers
-soumis à la commission dont il assure le secrétariat.
-
-Les avis de la commission sont pris à la majorité des voix ; en cas de partage, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 9
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-
-###### Article R*431-44
-
-La commission consultative de garanties est réunie par son président sur son initiative ou à la demande soit du ministre de
-l'économie et des finances, soit du directeur général de la caisse centrale de réassurance.
-
-Outre les questions dont elle connaît obligatoirement en vertu des articles R. 431-38, R. 431-39 et R. 431-40, la commission
-peut-être consultée par le ministre de l'économie et des finances ou par le directeur général de la Caisse centrale de
-réassurance sur toutes questions sur lesquelles ils estiment souhaitable de recueillir son avis.
-
-En cas d'urgence, le directeur général de la caisse centrale de réassurance peut prendre, sur les questions soumises à l'avis
-de la commission consultative, en application de l'article R. 431-38, une décision sans lui demander son avis préalable. Dans
-ce cas, il doit avoir l'accord du ministre et informer préalablement le président de la commission.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 10
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-_Cite_:
-
-  - Code des assurances - art. R*431-38 (M)
-  - Code des assurances R431-38, R431-39 et R431-40
-
-
-###### Article R*431-45
-
-Les opérations mentionnées aux articles R. 431-33 et R. 431-34 sont retracées, au sein de la comptabilité de la caisse
-centrale de réassurance, dans un compte distinct.
-
-Ce compte fait notamment apparaître les recettes de primes et de commissions et, le cas échéant, les versements effectués par
-l'Etat au titre de la mise en jeu de la garantie, ainsi que les produits correspondant au placement des fonds gérés par la
-caisse au titre des opérations mentionnées par la présente section. Il retrace, en dépenses, outre les versements opérés au
-titre desdites opérations, la part des frais de gestion, commissions, impôts, taxes et frais annexes de toute nature, qui
-leur sont imputables.
-
-Une convention passée entre le ministre de l'économie et des finances et la caisse centrale de réassurance fixe les relations
-financières entre l'Etat et la caisse centrale de réassurance pour les opérations mentionnées à la présente section et
-notamment les conditions de la mise en jeu de la garantie de l'Etat et les modalités de la rémunération de cette garantie,
-prélevée, le cas échéant, sur l'excédent du compte prévu à l'alinéa premier.
-
-Chaque année les excédents éventuels restant après rémunération de la garantie de l'Etat sont inscrits à un compte de
-provisions et réserves affectées à la couverture des opérations bénéficiant de cette garantie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 11
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L431-5 (M)
-
-_Cite_:
-
-  - Code des assurances - art. R*431-33 (M)
-  - Code des assurances - art. R*431-34 (M)
 
 
 ##### Section IV : Dispositions diverses.<a id=328></a>
@@ -36928,17 +36904,17 @@ _Abrogé par_:
 ###### Article R*431-46
 
 Les dispositions de la présente section sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de Wallis et Futuna.
+française, des Terres australes et antarctiques françaises et de Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-322 1973-03-15 art. 12
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-839 1983-09-20 art. 2 JORF 24 septembre 1983
 
 **Liens**:
 
