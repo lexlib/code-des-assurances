@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1987-10-13
+Version Consolidée au 1987-11-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -222,11 +222,11 @@ Version Consolidée au 1987-10-13
         - [Chapitre II : Règles de constitution et de fonctionnement (art. R*322-1 à R322-155)](#219)
           - [Section I : Dispositions communes. (art. R*322-1 à R*322-4)](#220)
           - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. R*322-5 à R322-11-1)](#221)
-          - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. R*322-12 à R*322-41)](#222)
-            - [Paragraphe 1 : Constitution. (art. R*322-12 à R*322-15)](#223)
+          - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. R*322-12 à R*322-40)](#222)
+            - [Paragraphe 1 : Constitution. (art. R*322-12 à R*322-13)](#223)
             - [Paragraphe 2 : Administration. (art. R*322-16 à R*322-26)](#224)
             - [Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance. (art. R*322-30 à R*322-36)](#225)
-            - [Paragraphe 4 : Dispositions diverses. (art. R*322-37 à R*322-41)](#226)
+            - [Paragraphe 4 : Dispositions diverses. (art. R*322-37 à R*322-40)](#226)
           - [Section IV : Sociétés d'assurance à forme mutuelle (art. R*322-43 à R*322-92)](#227)
             - [Paragraphe 1 : Constitution. (art. R*322-43 à R322-49)](#228)
             - [Paragraphe 2 : Administration. (art. R*322-53 à R322-58)](#229)
@@ -20016,50 +20016,6 @@ _Abrogé par_:
   - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
 
 
-###### Article R*322-14
-
-Le capital de la société centrale des Assurances générales de France est divisé en un million d'actions, celui de la société
-centrale du Groupe des assurances nationales en 850.000 actions et celui de la société centrale de l'Union des assurances de
-Paris en 1.680.000 actions.
-
-Le capital social et le nombre des actions des sociétés centrales peuvent être modifiés selon les règles de droit commun
-applicables aux sociétés commerciales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-605 1973-07-04 art. 9
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°87-917 1987-11-10 art. 1 JORF 17 novembre 1987
-
-
-###### Article R*322-15
-
-Les sociétés centrales n'emploient aucun salarié. Les frais afférents à leur fonctionnement sont supportés par les sociétés
-du groupe. Elles ne peuvent bénéficier d'aucun produit autre que les dividendes des sociétés du groupe.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-605 1973-07-04 art. 10
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°87-917 1987-11-10 art. 1 JORF 17 novembre 1987
-
-
 ##### Paragraphe 2 : Administration.<a id=224></a>
 
 ###### Article R*322-16
@@ -20779,28 +20735,6 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°90-158 du 19 février 1990 - art. 4 () JORF 21 février 1990 en vigueur le 26 février 1990
-
-
-###### Article R*322-41
-
-La cession de toute participation financière détenue par une entreprise nationale d'assurance doit, nonobstant toute
-disposition contraire, faire l'objet d'une approbation par arrêté du ministre de l'économie et des finances dans tous les cas
-où la cession a pour effet de faire perdre à l'entreprise détentrice de la participation financière la majorité dans le
-capital de l'entreprise qui a bénéficié de cette participation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1206 1962-10-15 art. 14
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°87-917 1987-11-10 art. 1 JORF 17 novembre 1987
 
 
 ##### Section IV : Sociétés d'assurance à forme mutuelle<a id=227></a>
