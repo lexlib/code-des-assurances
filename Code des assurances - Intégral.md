@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1983-06-14
+Version Consolidée au 1983-07-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -261,7 +261,7 @@ Version Consolidée au 1983-06-14
           - [Section II : Réglementations particulières concernant certains éléments d'actif. (art. R*332-14 à R332-17)](#258)
           - [Section III : Estimation des éléments d'actif. (art. R*332-19 à R332-29)](#259)
           - [Section IV : Commissions et frais d'acquisition à amortir. (art. R332-33 à R332-34)](#260)
-          - [Section V : Règles particulières à certaines entreprises étrangères. (art. R*332-37 à R*332-43)](#261)
+          - [Section V : Règles particulières à certaines entreprises étrangères. (art. R*332-37 à R332-41)](#261)
           - [Section VI : Dispositions particulières aux territoires d'outre-mer. (art. R*332-44)](#262)
         - [Chapitre III : Revenu des placements. (art. R*333-1 à R*333-3)](#263)
         - [Chapitre IV : Solvabilité des entreprises (art. R*334-1 à R*334-25)](#264)
@@ -25601,10 +25601,10 @@ _Anciens textes_:
 Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
 équivalents.
 
-Les engagements pris dans chaque monnaie doivent être couverts, soit par des valeurs libellées dans la même monnaie, soit par
-des valeurs admises à la cote officielle d'une bourse de valeurs et dont la cotation est effectuée dans cette monnaie.
-Toutefois, les engagements peuvent également être couverts dans les conditions prévues à l'article R. 332-2, 5°, et à
-l'article R. 332-16, dernier alinéa.
+Les engagements pris dans une monnaie doivent être couverts par des actifs libellés ou réalisables dans cette même monnaie.
+
+Toutefois, les engagements peuvent également être couverts dans les conditions prévues à l'article R. 332-2, 5°, à l'article
+R. 332-16, dernier alinéa.
 
 Toutefois, les engagements pris dans le cadre de la coassurance communautaire par un coassureur, en exécution des
 dispositions de l'article L. 321-4, peuvent être couverts par des actifs répondant aux conditions énumérées au deuxième
@@ -25614,16 +25614,11 @@ alinéa du présent article et localisés dans le pays de ce coassureur.
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-666 1976-07-16
 
 _Modifié par_:
 
-  - Décret n°81-443 du 7 mai 1981 - art. 3 () JORF 9 mai 1981
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°81-443 du 7 mai 1981 - art. 6, v. init.
-  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+  - Décret n°83-647 1983-07-08 art. 1 JORF 17 juillet 1983
 
 _Cité par_:
 
@@ -25642,6 +25637,10 @@ _Cite_:
   - Code des assurances - art. R*331-1 (M)
   - Code des assurances - art. R332-16 (M)
 
+**Liens**:
+
+  - TXT_ASSOCIE: Code des assurances - art. R*328-1 (M)
+
 
 ###### Article R332-2
 
@@ -25659,11 +25658,11 @@ clôture de chaque exercice ;
 3° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement dont l'objet est limité à
 la gestion d'un portefeuille de valeurs mentionnées aux 1° et 2° ci-dessus.
 
-4° Actions, parts et autres valeurs mobilières inscrites à la cote officielle ou au compartiment spécial du marché hors cote
-des bourses françaises de valeurs.
+4° Actions, parts et autres valeurs mobilières inscrites à la cote officielle ou à la cote du second marché des bourses
+françaises de valeurs.
 
-4° bis Actions et parts des sociétés commerciales françaises non inscrites à la cote officiel des bourses françaises de
-valeurs.
+4° bis Actions et parts de sociétés commerciales françaises non inscrites à la cote officielle ou à la cote du second marché
+des bourses françaises de valeurs, ainsi que les parts de fonds communs de placement à risques.
 
 5° Valeurs mobilières étrangères ayant fait l'objet d'une émission publique ou inscrites à la cote d'une bourse de valeurs,
 dans les conditions déterminées par arrêté du ministre de l'économie et des finances ;
@@ -25676,8 +25675,8 @@ déterminées par arrêté du ministre de l'économie.
 Tous autres immeubles situés en France métropolitaine et dans les départements et territoires d'outre-mer, sur autorisation
 donnée dans chaque cas par le ministre de l'économie et des finances.
 
-Parts ou actions de sociétés immobilières non inscrites à la cote officielle des bourses françaises de valeurs, dans les
-conditions déterminées dans chaque cas par le ministre de l'économie et des finances.
+Parts ou actions de sociétés immobilières non inscrites à la cote officielle où la cote du second marché des bourses
+françaises de valeurs, dans les conditions déterminées dans chaque cas par le ministre de l'économie et des finances.
 
 Droits réels immobiliers donnant à leurs titulaires les prérogatives du propriétaire pendant une durée au moins égale à
 trente ans ;
@@ -25698,7 +25697,7 @@ départements, régions, territoires d'outre-mer, et obligations libérées émi
 Prêts aux organismes d'habitation à loyer modéré mentionnés à l'article 159 du code de l'urbanisme et de l'habitation, aux
 coopératives de construction et aux sociétés d'économie mixte de construction de logements, et obligations libérées émises
 par lesdits organismes. Chacun de ces prêts ou obligations doit bénéficier de la garantie totale et inconditionnelle de la
-collectivité locale intéressée. Cette garantie doit avoir pour effet de substituer, immédiatement et sans réserve, la
+collectivité local intéressée. Cette garantie doit avoir pour effet de substituer, immédiatement et sans réserve, la
 collectivité garante au débiteur défaillant.
 
 Prêts aux ports autonomes ou aux chambres de commerce garantis par des péages ou autres rémunérations de services, et
@@ -25713,7 +25712,7 @@ garanties déterminées par arrêté du ministre de l'économie et des finances.
 12° Prêts sur les valeurs mentionnées aux 1° et 15° du présent article, dans la limite de 75 p. 100 au plus de leur montant
 nominal ;
 
-13° Parts ou actions d'entreprises étrangères d'assurance dans lesquelles des entreprises françaises d'assurance, de
+13° Parts ou actions d'entreprises étrangères d'assurances dans lesquelles des entreprises françaises d'assurance, de
 réassurance ou de capitalisation, individuellement ou collectivement, possèdent une participation au moins égale à 20 p. 100
 du capital social. Ces valeurs sont admises en représentation des provisions techniques dans les conditions fixées, dans
 chaque cas, par le ministre de l'économie et des finances ;
@@ -25853,19 +25852,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°81-591 du 15 mai 1981 - art. 1 () JORF 19 mai 1981
-  - Décret n°81-591 du 15 mai 1981 - art. 2 () JORF 19 mai 1981
-  - Décret n°81-591 du 15 mai 1981 - art. 3 () JORF 19 mai 1981
+  - Décret n°83-647 1983-07-08 art. 2, art. 3, art. 4 JORF 17 juillet 1983
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°81-591 du 15 mai 1981 - art. 8 (V)
-  - TXT_ASSOCIE: Code des assurances - art. A332-2 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
   - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
   - TXT_ASSOCIE: Code des assurances - art. A332-3 (M)
   - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
   - TXT_ASSOCIE: Code des assurances - art. A332-4 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R332-16 (M)
+  - TXT_SOURCE: Code des assurances - art. R332-16 (M)
 
 
 ###### Article R332-3
@@ -25875,10 +25871,14 @@ Les actifs mentionnés à l'article R. 332-2 doivent satisfaire aux conditions s
 1° Les valeurs mentionnées du 4° au 16° de l'article R. 332-2 ne peuvent représenter plus des deux tiers du montant au bilan
 des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
 
+1° bis Les valeurs mentionnées au 4° bis de l'article R. 332-2, autres que les actions d'entreprises d'assurance, de
+réassurance et de capitalisation, ne peuvent représenter plus de 1 p. 100 du montant au bilan des valeurs énumérées au même
+article et affectées à la représentation des provisions techniques.
+
 2° Les immeubles et les valeurs assimilées mentionnées au 7° de l'article R. 332-2 ne peuvent représenter plus de 40 p. 100
 du montant au bilan des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
 
-3° Les prêts mentionnés aux 9°, 10°, 10 bis et 11° de l'article R. 332-2 ne peuvent représenter plus de 35 p. 100 du montant
+3° Les prêts mentionnés aux 9°, 10°, 10° bis et 11° de l'article R. 332-2 ne peuvent représenter plus de 35 p. 100 du montant
 au bilan des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
 
 4° Les liquidités mentionnées au 16° de l'article R. 332-2 ne peuvent représenter plus de 15 p. 100 du montant au bilan des
@@ -25894,13 +25894,9 @@ de sa garantie ou émises par des organismes figurant sur une liste établie par
 représenter plus de 5 p. 100 du montant au bilan des valeurs énumérées à l'article R. 332-2 et affectées à la représentation
 des provisions techniques ;
 
-c) Les actions, parts et autres valeurs mobilières inscrites au compartiment spécial du marché hors cote des bourses
-françaises de valeurs ne peuvent représenter plus de 5 p. 100 de l'ensemble des valeurs mentionnées au 4° de l'article R.
-332-2 ;
-
-d) Les valeurs mentionnées au 4° bis de l'article R. 332-2 autres que les actions d'entreprises d'assurance, de réassurance
-et de capitalisation ne peuvent représenter plus de 5 p. 100 du montant au bilan des valeurs visées au 4° de l'article R.
-332-2. Cette limite est réduite à 1 p. 100 lorsque ces valeurs sont émises par le même émetteur.
+c) A l'exception des actions d'entreprises d'assurance, de réassurance et de capitalisation, les valeurs mentionnées au 4°
+bis de l'article R. 332-2 émises par une même société ou par un même fonds ne peuvent représenter plus de 0,25 p. 100 du
+montant au bilan des valeurs énumérées au même article et affectées à la représentation des provisions techniques.
 
 6° L'ensemble des parts ou actions d'entreprises étrangères d'assurance ou de capitalisation mentionnées à l'article R.
 332-2, 13°, ne peut dépasser 5 p. 100 du montant au bilan des valeurs énumérées au même article et affectées à la
@@ -25917,12 +25913,12 @@ article.
 
 9° Les provisions techniques des entreprises opérant à la fois sur le territoire français et sur le territoire monégasque
 doivent être représentées dans les conditions prévues par la réglementation française ; toutefois, les actifs admis en
-représentation desdites provisions peuvent comprendre à concurrence de 5 p. 100 du montant de celles-ci, des placements
+représentation desdites provisions peuvent comprendre, à concurrence de 5 p. 100 du montant de celles-ci, des placements
 mobiliers ou immobiliers monégasques, sur autorisation donnée conjointement, pour chaque entreprise ou pour chaque cas, par
 le ministre de l'économie et des finances de la République française et par le ministre d'Etat de la Principauté de Monaco ;
 
 10° En ce qui concerne les opérations réalisées dans les départements d'outre-mer et dans les territoires de la Nouvelle-
-Calédonie, de la Polynésie française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques françaises et de
+Calédonie, de la Polynésie française, de Saint-Pierre-et- Miquelon, des Terres australes et antarctiques françaises et de
 Wallis et Futuna, le ministre de l'économie et des finances peut, sur proposition du préfet ou du chef de territoire,
 augmenter les proportions maximales suivant lesquelles les placements dans lesdits départements et territoires sont admis en
 représentation des provisions techniques afférentes aux opérations précitées.
@@ -25942,14 +25938,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°81-591 du 15 mai 1981 - art. 4 () JORF 19 mai 1981
-  - Décret n°81-591 du 15 mai 1981 - art. 5 () JORF 19 mai 1981
-  - Décret n°81-591 du 15 mai 1981 - art. 6 () JORF 19 mai 1981
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°81-591 du 15 mai 1981 - art. 8 (V)
-  - TXT_ASSOCIE: Code des assurances - art. A332-1 (Ab)
+  - Décret n°83-647 1983-07-08 art. 5, art. 6 JORF 17 juillet 1983
 
 _Cité par_:
 
@@ -25993,6 +25982,10 @@ _Cité par_:
   - Code des assurances - art. R431-35 (V)
   - Code des assurances - art. R431-57 (V)
   - Code des assurances - art. R441-7 (VD)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. A332-1 (Ab)
 
 _Cite_:
 
@@ -26301,113 +26294,6 @@ _Cite_:
   - Décret n°1949-01-21
 
 
-###### Article R*332-20
-
-A l'exception des valeurs évaluées comme il est dit à l'article R. 332-19, les entreprises procèdent, lors de l'inventaire
-annuel, à deux estimations successives des actifs prévus à l'article R. 332-2, affectés à la représentation des provisions
-techniques :
-
-1° Il est d'abord procédé à une évaluation sur la base du prix d'achat ou de revient ;
-
-a) Les valeurs mobilières sont retenues pour leur prix d'achat ;
-
-b) Les immeubles et les parts ou actions de sociétés immobilières non inscrites à la cote des bourses françaises de valeurs
-sont retenus pour leur prix d'achat ou de revient ou, dans les conditions fixées dans chaque cas par le ministre de
-l'économie et des finances, pour une valeur déterminée après expertise effectuée conformément à l'article R. 332-23. Ces
-valeurs sont diminuées des amortissements pratiqués. Le prix de revient des immeubles est celui qui ressort des travaux de
-construction et d'amélioration, à l'exclusion des travaux d'entretien proprement dits ;
-
-c) Les prêts sont évalués d'après les actes qui en font foi ;
-
-d) Les nues-propriétés et les usufruits sont évalués suivant les règles déterminées par arrêté du ministre de l'économie et
-des finances pris après avis du conseil national des assurances.
-
-Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les provisions pour dépréciation.
-
-2° Il est ensuite procédé à une évaluation de la valeur de réalisation des placements :
-
-a) Les valeurs mobilières sont retenues :
-
-- pour le premier cours à terme du jour de l'inventaire, pour les valeurs cotées à terme en France ;
-
-- pour le premier cours au comptant du jour de l'inventaire, pour les valeurs cotées au comptant en France ;
-
-- pour le dernier cours connu au jour de l'inventaire pour les valeurs étrangères non cotées en France.
-
-Toutefois, pour les obligations indexées et participantes dont le prix de remboursement est supérieur au prix d'achat et dont
-l'échéance de remboursement est postérieure de moins de trois ans à la date de l'inventaire, le prix d'achat peut être
-substitué à la valeur vénale ;
-
-b) Les actions de sociétés d'investissement à capital variable sont retenues pour le prix de rachat du jour de l'inventaire ;
-
-c) Les autres placements sont retenus pour leur valeur déterminée comme il est prévu au 1° ci-dessus, sauf dans le cas où une
-autre valeur résulte, soit d'une expertise effectuée dans les conditions prévues à l'article R. 332-23, soit d'un accord
-entre le ministre de l'économie et des finances et l'entreprise.
-
-En ce qui concerne les prêts hypothécaires et les ouvertures de crédits hypothécaires, le montant à retenir pour la présente
-évaluation ne peut être réduit que s'il est reconnu que la valeur de l'immeuble, au moment de la réalisation du prêt, était
-inférieure à deux fois le montant de la somme prêtée ou si, à une époque postérieure à la résiliation du prêt, la valeur de
-l'immeuble est tombée au-dessous du montant de la somme restant à rembourser ;
-
-3° La valeur inscrite au bilan est celle qui résulte de l'application du 1° du présent article. Dans le cas où la valeur de
-réalisation de l'ensemble des placements estimée comme il est dit au 2° lui est inférieure, il est constitué une provision
-pour dépréciation égale à la différence entre ces deux valeurs.
-
-Cependant, les valeurs mobilières remises par les réassureurs sont évaluées à l'actif du bilan conformément aux dispositions
-prévues ci-dessus au 2°, a. Ces valeurs ne donnent pas lieu à la constitution de la réserve de capitalisation prévue aux
-articles R. 331-3 et R. 331-6.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
-  - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
-  - Code des assurances - art. A131-2 (M)
-  - Code des assurances - art. A332-5 (Ab)
-  - Code des assurances - art. A333-9 (Ab)
-  - Code des assurances - art. Annexe A344-10 ETAT C6 bis (V)
-  - Code des assurances - art. Annexe art. A344-3 (suite 3) (Ab)
-  - Code des assurances - art. D441-22 (V)
-  - Code des assurances - art. R*332-22 (Ab)
-  - Code des assurances - art. R*332-8 (M)
-  - Code des assurances - art. R134-3 (VD)
-  - Code des assurances - art. R142-3 (Ab)
-  - Code des assurances - art. R323-1-1 (VT)
-  - Code des assurances - art. R323-10-3 (VT)
-  - Code des assurances - art. R331-3 (V)
-  - Code des assurances - art. R331-36 (VT)
-  - Code des assurances - art. R331-5-1 (VT)
-  - Code des assurances - art. R331-6 (VT)
-  - Code des assurances - art. R332-17 (V)
-  - Code des assurances - art. R332-19 (M)
-  - Code des assurances - art. R332-20-1 (V)
-  - Code des assurances - art. R332-21 (V)
-  - Code des assurances - art. R332-23 (VT)
-  - Code des assurances - art. R332-30 (V)
-  - Code des assurances - art. R332-5 (V)
-  - Code des assurances - art. R332-63 (M)
-  - Code des assurances - art. R342-6 (Ab)
-  - Code des assurances - art. R343-2 (Ab)
-  - Code des assurances - art. R343-4 (M)
-  - Code des assurances - art. R344-1 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. A332-5 (Ab)
-  - TXT_ASSOCIE: Code des assurances - art. A332-5 (V)
-  - TXT_SOURCE: Code des assurances - art. A332-6 (Ab)
-  - TXT_ASSOCIE: Code des assurances - art. A332-6 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R*332-2 (M)
-
-
 ###### Article R*332-21
 
 A l'exception des valeurs évaluées comme il est dit à l'article R. 332-19, les entreprises qui, à la date du dernier bilan,
@@ -26588,6 +26474,116 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Décret n°1938-12-30 art. 167
+
+
+###### Article R332-20
+
+A l'exception des valeurs évaluées comme il est dit à l'article R. 332-19, les entreprises procèdent, lors de l'inventaire
+annuel, à deux estimations successives des actifs prévus à l'article R. 332-2, affectés à la représentation des provisions
+techniques :
+
+1° Il est d'abord procédé à une évaluation sur la base du prix d'achat ou de revient ;
+
+a) Les valeurs mobilières sont retenues pour leur prix d'achat ;
+
+b) Les immeubles et les parts ou actions de sociétés immobilières non inscrites à la cote officielle ou à la cote du second
+marché des bourses françaises de valeurs sont retenus pour leur prix d'achat ou de revient ou, dans les conditions fixées
+dans chaque cas par le ministre de l'économie et des finances, pour une valeur déterminée après expertise effectuée
+conformément à l'article R. 332-23. Ces valeurs sont diminuées des amortissements pratiqués. Le prix de revient des immeubles
+est celui qui ressort des travaux de construction et d'amélioration, à l'exclusion des travaux d'entretien proprement dits ;
+
+c) Les prêts sont évalués d'après les actes qui en font foi ;
+
+d) Les nues-propriétés et les usufruits sont évalués suivant les règles déterminées par arrêté du ministre de l'économie et
+des finances pris après avis du conseil national des assurances.
+
+Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et les provisions pour dépréciation.
+
+2° Il est ensuite procédé à une évaluation de la valeur de réalisation des placements :
+
+a) Les valeurs mobilières cotées sont retenues :
+
+En ce qui concerne les valeurs inscrites à la cote officielle du terme des bourses françaises de valeurs, pour le premier
+cours à terme du jour de l'inventaire ;
+
+En ce qui concerne les valeurs inscrites à la cote officielle du comptant ou à la cote du second marché des bourses
+françaises de valeurs, pour le premier cours du jour de l'inventaire ;
+
+En ce qui concerne les valeurs étrangères non inscrites à la cote officielle ou à la cote du second marché des bourses
+françaises de valeurs, pour le dernier cours connu au jour de l'inventaire.
+
+b) Les actions de sociétés d'investissement à capital variable sont retenues pour le prix de rachat du jour de l'inventaire ;
+
+c) Les autres placements sont retenus pour leur valeur déterminée comme il est prévu au 1° ci-dessus, sauf dans le cas où une
+autre valeur résulte, soit d'une expertise effectuée dans les conditions prévues à l'article R. 332-23, soit d'un accord
+entre le ministre de l'économie et des finances et l'entreprise.
+
+En ce qui concerne les prêts hypothécaires et les ouvertures de crédits hypothécaires, le montant à retenir pour la présente
+évaluation ne peut être réduit que s'il est reconnu que la valeur de l'immeuble, au moment de la réalisation du prêt, était
+inférieure à deux fois le montant de la somme prêtée ou si, à une époque postérieure à la réalisation du prêt, la valeur de
+l'immeuble est tombée au-dessous du montant de la somme restant à rembourser ;
+
+3° La valeur inscrite au bilan est celle qui résulte de l'application du 1° du présent article. Dans le cas où la valeur de
+réalisation de l'ensemble des placements estimée comme il est dit au 2° lui est inférieure, il est constitué une provision
+pour dépréciation égale à la différence entre ces deux valeurs.
+
+Cependant, les valeurs mobilières remises par les réassureurs sont évaluées à l'actif du bilan conformément aux dispositions
+prévues ci-dessus au 2°, a. Ces valeurs ne donnent pas lieu à la constitution de la réserve de capitalisation prévue aux
+articles R. 331-3 et R. 331-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-647 1983-07-08 art. 7, art. 8 JORF 17 juillet 1983
+
+_Cité par_:
+
+  - Décret n°94-481 du 8 juin 1994 - art. 17 (V)
+  - Décret n°2004-342 du 21 avril 2004 - art. 28 (Ab)
+  - Code des assurances - art. A131-2 (M)
+  - Code des assurances - art. A332-5 (Ab)
+  - Code des assurances - art. A333-9 (Ab)
+  - Code des assurances - art. Annexe A344-10 ETAT C6 bis (V)
+  - Code des assurances - art. Annexe art. A344-3 (suite 3) (Ab)
+  - Code des assurances - art. D441-22 (V)
+  - Code des assurances - art. R*332-22 (Ab)
+  - Code des assurances - art. R*332-8 (M)
+  - Code des assurances - art. R134-3 (VD)
+  - Code des assurances - art. R142-3 (Ab)
+  - Code des assurances - art. R323-1-1 (VT)
+  - Code des assurances - art. R323-10-3 (VT)
+  - Code des assurances - art. R331-3 (V)
+  - Code des assurances - art. R331-36 (VT)
+  - Code des assurances - art. R331-5-1 (VT)
+  - Code des assurances - art. R331-6 (VT)
+  - Code des assurances - art. R332-17 (V)
+  - Code des assurances - art. R332-19 (M)
+  - Code des assurances - art. R332-20-1 (V)
+  - Code des assurances - art. R332-21 (V)
+  - Code des assurances - art. R332-23 (VT)
+  - Code des assurances - art. R332-30 (V)
+  - Code des assurances - art. R332-5 (V)
+  - Code des assurances - art. R332-63 (M)
+  - Code des assurances - art. R342-6 (Ab)
+  - Code des assurances - art. R343-2 (Ab)
+  - Code des assurances - art. R343-4 (M)
+  - Code des assurances - art. R344-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. A332-5 (Ab)
+  - TXT_ASSOCIE: Code des assurances - art. A332-5 (V)
+  - TXT_SOURCE: Code des assurances - art. A332-6 (Ab)
+  - TXT_ASSOCIE: Code des assurances - art. A332-6 (V)
+
+_Cite_:
+
+  - Code des assurances - art. R*332-2 (M)
 
 
 ###### Article R332-24
@@ -26984,35 +26980,6 @@ _Cite_:
   - Code des assurances - art. R*332-39 (M)
 
 
-###### Article R*332-41
-
-Pour le dépôt, les valeurs mobilières sont évaluées conformément aux dispositions suivantes :
-
-1° Les titres détenus au 31 décembre de l'exercice précédent, qu'il soient ou non déposés à cette date, sont pris en compte
-pour la valeur figurant à l'actif du bilan du même exercice ;
-
-2° Les titres acquis et déposés après le 31 décembre de l'exercice précédent par le siège spécial pour la France de
-l'entreprise intéressée sont évalués au prix d'achat ;
-
-3° Les titres admis à la cote officielle d'une bourse française, acquis hors de France par le siège social de l'entreprise
-intéressée et déposés après le 31 décembre de l'exercice précédent, sont estimés au cours le plus bas de la dernière bourse
-précédant le jour du dépôt.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-997 1966-12-14 art. 3
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
-
-
 ###### Article R*332-42
 
 Le retrait des valeurs ou espèces déposées ne peut être opéré par les entreprises que dans les cas :
@@ -27069,6 +27036,35 @@ _Codifié par_:
 _Cité par_:
 
   - Code des assurances - art. R332-38 (VT)
+
+
+###### Article R332-41
+
+Pour le dépôt, les valeurs mobilières sont évaluées conformément aux dispositions suivantes :
+
+1° Les titres détenus au 31 décembre de l'exercice précédent, qu'ils soient ou non déposés à cette date, sont pris en compte
+pour la valeur figurant à l'actif du bilan du même exercice ;
+
+2° Les titres acquis et déposés après le 31 décembre de l'exercice précédent par le siège spécial pour la France de
+l'entreprise intéressée sont évalués au prix d'achat ;
+
+3° Les titres admis à la cote officielle ou à la cote du second marché d'une bourse française de valeurs, acquis hors de
+France par le siège social de l'entreprise intéressée et déposés après le 31 décembre de l'exercice précédent, sont estimés
+au cours le plus bas de la dernière bourse précédant le jour du dépôt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°83-647 1983-07-08 art. 9 JORF 17 juillet 1983
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*332-38 (M)
 
 
 ##### Section VI : Dispositions particulières aux territoires d'outre-mer.<a id=262></a>
