@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2000-09-12
+Version Consolidée au 2000-09-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -12392,21 +12392,22 @@ _Cité par_:
 Les sociétés centrales d'assurance créées par la loi n° 73-8 du 4 janvier 1973 relative à la mise en oeuvre de l'actionnariat
 du personnel dans les banques nationales et les entreprises nationales d'assurances ont notamment pour objet de détenir
 directement ou indirectement la totalité des actions des sociétés constituant les groupes d'entreprises nationales
-d'assurances, d'exercer les droits attachés à ces actions et de faire bénéficier de ces droits leurs propres actionnaires.
+d'assurances, d'exercer les droits attachés à ces actions et de faire bénéficier de ces droits leurs propres actionnaires. 
 
-Les dispositions des articles 95 et 111 de la loi n° 66-537 du 24 juillet 1966 ne sont pas applicables aux sociétés centrales
-d'assurance. Les dispositions de la même loi ne font pas obstacle à l'application de la présente section.
+Les dispositions des articles L. 225-25 et L. 225-49 du code de commerce ne sont pas applicables aux sociétés centrales
+d'assurance. Les dispositions du même code ne font pas obstacle à l'application de la présente section.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 art. 95, art. 111
-  - Loi n°73-8 1973-01-04
 
 _Anciens textes_:
 
   - Loi n°73-8 1973-01-04 art. 9, art. 15
+
+_Cite_:
+
+  - Loi n°73-8 du 4 janvier 1973 (V)
+  - Code de commerce - art. L225-25 (V)
+  - Code de commerce - art. L225-49 (Ab)
 
 _Codifié par_:
 
@@ -12422,7 +12423,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°92-665 du 16 juillet 1992 - art. 2 () JORF 17 juillet 1992
+  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
 
 
 ###### Article L322-13
@@ -12749,22 +12750,24 @@ _Créé par_:
 
 ###### Article L322-26-2-2
 
-Les dispositions des articles 244, 246 (deuxième alinéa) et 247 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales sont applicables aux sociétés d'assurance mutuelles.
+Les dispositions des articles L. 225-251, L. 225-253 et L. 225-254 du code de commerce sont applicables aux sociétés
+d'assurance mutuelles.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 art. 244, art. 246, art. 247
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-314 du 12 avril 1996 - art. 8 () JORF 13 avril 1996
+  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
+
+_Cite_:
+
+  - Code de commerce. - art. L225-251 (M)
+  - Code de commerce. - art. L225-253 (M)
+  - Code de commerce. - art. L225-254 (M)
 
 
 ###### Article L322-26-3
@@ -13236,29 +13239,35 @@ _Cite_:
 
 ###### Article L324-2
 
-Lorsque les opérations de fusion ou de scission mentionnées à l'article 371 de la loi n° 66-537 du 24 juillet 1966 sur les
-sociétés commerciales comportent des transferts de portefeuille de contrats réalisés dans les conditions prévues à l'article
-L. 324-1, les dispositions des articles 313 (3°), 321-1, 380, 381 (alinéas 2 et suivants), 381 bis, 384 et 386 (alinéa 2) de
-ladite loi ne sont pas applicables.
+Lorsque les opérations de fusion ou de scission mentionnées à l'article L. 236-1 du code de commerce comportent des
+transferts de portefeuille de contrats réalisés dans les conditions prévues à l'article L. 324-1, les dispositions des
+articles L. 228-65, L. 228-73, L. 236-13, L. 236-14, L. 236-15, L. 236-18 et L. 236-21 dudit code ne sont pas applicables.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1938-06-14 art. 12
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 art. 313, art. 321-1, art. 371, art. 380, art. 381, art. 381 bis, art. 384, art. 386
-  - Code des assurances - art. L324-1 (M)
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Modifié par_:
+
+  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
+
+_Cite_:
+
+  - Code de commerce - art. L228-65 (V)
+  - Code de commerce - art. L228-73 (V)
+  - Code de commerce - art. L236-1 (V)
+  - Code de commerce - art. L236-13 (V)
+  - Code de commerce - art. L236-21 (V)
+
 _Cité par_:
 
   - Code des assurances - art. R322-106-4 (V)
+
+_Anciens textes_:
+
+  - Décret n°1938-06-14 art. 12
 
 
 ###### Article L324-3
@@ -14478,30 +14487,18 @@ _Nouveaux textes_:
 
 ###### Article L328-3
 
-Les dispositions de l'article 433, des 2°, 3° et 4° de l'article 437, des articles 439, 455 et 458 de la loi n° 66-537 du 24
-juillet 1966 sur les sociétés commerciales sont applicables aux entreprises d'assurance, même lorsqu'elles n'en relèvent pas
-de plein droit.
+Les dispositions des articles L. 242-2, L. 242-6 (2° à 4°), L. 242-8, L. 242-25 et L. 242-28 du code de commerce sont
+applicables aux entreprises d'assurance, même lorsqu'elles n'en relèvent pas de plein droit.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 art. 433, art. 437, art. 439, art. 455, art. 458
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-  - TXT_ASSOCIE: Code des assurances - art. L328-4 (M)
-  - TXT_ASSOCIE: Code des assurances - art. L328-7 (Ab)
-  - TXT_ASSOCIE: Code des assurances L328-4, L328-7, L328-12 *sanctions*
-
 _Modifié par_:
 
-  - Loi n°94-5 du 4 janvier 1994 - art. 27 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
 
 _Cité par_:
 
@@ -24651,19 +24648,20 @@ _Cite_:
 
 ###### Article R*322-7
 
-Le rapport spécial des commissaires aux comptes prévu au troisième alinéa de l'article 103 et au troisième alinéa de
-l'article 145 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales doit contenir, outre les mentions
-énumérées aux articles 92 ou 117 du décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales, l'indication du montant
-des sommes versées aux personnes mentionnées, selon le cas, à l'article 101 ou 143 de ladite loi à titre de rémunérations ou
-commissions pour les contrats d'assurance ou de capitalisation souscrits par leur intermédiaire.
+Le rapport spécial des commissaires aux comptes prévu au troisième alinéa de l'article L. 225-40 et au troisième alinéa de
+l'article L. 225-88 du code de commerce doit contenir, outre les mentions énumérées aux articles 92 ou 117 du décret n°
+67-236 du 23 mars 1967 sur les sociétés commerciales, l'indication du montant des sommes versées aux personnes mentionnées,
+selon le cas, à l'article 101 ou 143 de ladite loi à titre de rémunérations ou commissions pour les contrats d'assurance ou
+de capitalisation souscrits par leur intermédiaire.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°66-537 1966-07-24 art. 101, art. 103, art. 143, art. 145
   - Décret n°67-236 du 23 mars 1967 - art. 117 (M)
   - Décret n°67-236 du 23 mars 1967 - art. 92 (M)
+  - Code de commerce. - art. L225-88 (M)
+  - Code des assurances L225-40, 101
 
 _Codifié par_:
 
@@ -24671,7 +24669,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-603 du 27 juin 1991 - art. 10 () JORF 28 juin 1991
+  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
 
 
 ###### Article R*322-8
