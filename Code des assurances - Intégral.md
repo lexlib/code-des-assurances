@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-02-04
+Version Consolidée au 2003-03-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -23292,10 +23292,10 @@ _Anciens textes_:
 
 ###### Article R250-1
 
-Le président et les membres du Bureau central de tarification institué par les articles L. 125-6, L. 212-1, L. 220-5 et L.
-243-4 ainsi que par l'article 1234-10 du code rural sont nommés pour une période de trois ans renouvelable, par arrêté du
-ministre chargé de l'économie et des finances, sous réserve des dispositions de la dernière phrase du 4° du quatrième alinéa
-du présent article.
+Le président et les membres du Bureau central de tarification institué par les articles L. 125-6, L. 212-1, L. 220-5, L.
+243-4 et L. 252-1 ainsi que par l'article 1234-10 du code rural sont nommés pour une période de trois ans renouvelable, par
+arrêté du ministre chargé de l'économie et des finances, sous réserve des dispositions de la dernière phrase du 4° et de la
+dernière phrase du 5° du quatrième alinéa du présent article.
 
 Le président est choisi parmi les conseillers d'Etat, les conseillers à la Cour de cassation, les conseillers maîtres à la
 Cour des comptes ou les professeurs des disciplines juridiques des universités, en activité ou honoraires.
@@ -23332,7 +23332,22 @@ professionnelles dans l'agriculture en vertu de l'article 1234-10 du code rural,
 d'assurances, nommés sur proposition des organisations professionnelles concernées, et quatre représentants des personnes
 assujetties à l'obligation d'assurance, nommés sur proposition des organisations syndicales à vocation générale d'exploitants
 agricoles les plus représentatives. Les représentants des personnes assujetties à l'obligation d'assurance sont nommés par le
-ministre chargé de l'agriculture pour une période de trois ans renouvelable.
+ministre chargé de l'agriculture pour une période de trois ans renouvelable ;
+
+5° Lorsqu'il statue en matière d'assurance obligatoire de responsabilité civile médicale définie à l'article L. 251-1, six
+membres représentant les entreprises d'assurance pratiquant sur le territoire de la République française l'assurance de
+responsabilité civile médicale prévue à ce même article, nommés sur proposition des organismes professionnels, et six membres
+représentant les assujettis à cette obligation d'assurance. Ces derniers sont nommés par arrêté du ministre chargé de la
+santé pour une période de trois ans renouvelable et comprennent :
+
+a) Au moins un membre représentant les professionnels de santé exerçant à titre libéral sur proposition du Centre national
+des professions de santé ;
+
+b) Au moins un membre sur proposition des organismes professionnels représentatifs des établissements de santé ;
+
+c) Au moins un membre sur proposition des organismes professionnels représentatifs des producteurs, exploitants et
+fournisseurs de produits de santé à l'état de produits finis mentionnés à l'article L. 5311-1 du code de la santé publique, à
+l'exclusion des 5°, 11°, 14° et 15°.
 
 **Liens relatifs à cet article**
 
@@ -23342,7 +23357,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°96-1096 du 10 décembre 1996 - art. 1 () JORF 17 décembre 1996
+  - Décret n°2003-168 du 28 février 2003 - art. 1 () JORF 2 mars 2003
 
 _Cité par_:
 
@@ -23351,12 +23366,14 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de la santé publique - art. L5311-1 (M)
   - Code des assurances - art. L125-6 (M)
   - Code des assurances - art. L212-1 (M)
   - Code des assurances - art. L220-1 (V)
   - Code des assurances - art. L220-5 (M)
   - Code des assurances - art. L243-4 (M)
-  - Code des assurances L125-6, L212-1, L220-5, L243-4, L220-1, L241-1 à L242-1
+  - Code des assurances - art. L252-1 (V)
+  - Code des assurances L125-6, L212-1, L220-5, L243-4, L220-1, L241-1 à L242-1, L252-1
   - Code rural 1234-10
 
 
@@ -23366,19 +23383,20 @@ Ne peuvent être déférés au Bureau central de tarification le refus d'assuran
 d'exploitation comportant la garantie des dommages résultant de catastrophes naturelles prévue aux articles L. 125-1 et L.
 125-2, ainsi que le refus d'assurer une personne assujettie à l'obligation d'assurance des véhicules à moteur en vertu de
 l'article L. 211-1, ou à l'obligation d'assurance des engins de remontée mécanique en vertu de l'article L. 220-1, ou à
-l'obligation d'assurance des travaux du bâtiment en vertu des articles L. 241-1 à L. 242-1, ou à l'obligation d'assurance des
-personnes non salariées contre les accidents et les maladies professionnelles dans l'agriculture en vertu des articles 1234-1
-et 1234-2 du code rural que si l'assurance a été sollicitée par lettre recommandée avec demande d'avis de réception au siège
-de l'entreprise d'assurance ou y a été déposée contre récépissé.
+l'obligation d'assurance des travaux du bâtiment en vertu des articles L. 241-1 à L. 242-1, ou à l'obligation d'assurance de
+responsabilité médicale en vertu de l'article L. 251-1, ou à l'obligation d'assurance des personnes non salariées contre les
+accidents et les maladies professionnelles dans l'agriculture en vertu des articles 1234-1 et 1234-2 du code rural que si
+l'assurance a été sollicitée par lettre recommandée avec demande d'avis de réception au siège de l'entreprise d'assurance ou
+y a été déposée contre récépissé.
 
 Le Bureau central de tarification est saisi par lettre recommandée avec demande d'avis de réception dans le délai de quinze
 jours, sous peine d'irrecevabilité, à compter du refus de l'assureur sollicité ou, dans les cas mentionnés aux articles L.
-125-6 et L. 220-5, du dernier assureur sollicité.
+125-6, L. 220-5 et L. 252-1 du dernier assureur sollicité.
 
 Lorsqu'il s'agit de la souscription d'un contrat nouveau, est considéré comme un refus implicite d'assurance le silence gardé
 par l'assureur pendant plus de quinze jours après réception de la demande de souscription adressée en vertu des articles L.
 125-6, L. 212-1 ou L. 220-5, ainsi que de l'article 1234-10 du code rural et pendant plus de quarante-cinq jours après
-réception de la demande de souscription adressée en vertu de l'article L. 243-4.
+réception de la demande de souscription adressée en vertu de l'article L. 243-4 ou L. 252-1.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une demande de souscription d'assurance, de subordonner son
 acceptation à la couverture de risques non mentionnés dans l'obligation d'assurance ou dont l'étendue excéderait les limites
@@ -23386,8 +23404,13 @@ de l'obligation d'assurance.
 
 Lorsqu'un assuré a fait usage du droit de résiliation prévu au deuxième alinéa de l'article R. 113-10, il ne peut, pendant le
 délai d'un an, saisir le Bureau central de tarification du refus, opposé par l'entreprise d'assurance qui le garantissait, à
-une demande de souscription formulée en application des articles L. 125-1 et L. 125-2, L. 211-1, L. 220-1 et L. 241-1 à L.
-242-1, ainsi qu'en application des articles 1234-1 et 1234-2 du code rural.
+une demande de souscription formulée en application des articles L. 125-1 et L. 125-2, L. 211-1, L. 220-1, L. 241-1 à L.
+242-1 et L. 252-1, ainsi qu'en application des articles 1234-1 et 1234-2 du code rural.
+
+**Nota:**
+
+- Décret 2003-168 2003-02-28 art. 4 : dispositions transitoires concernant le délai prévu à l'alinéa 3 de l'article R. 250-2
+du code des assurances.
 
 **Liens relatifs à cet article**
 
@@ -23397,7 +23420,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°97-660 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
+  - Décret n°2003-168 du 28 février 2003 - art. 2 () JORF 2 mars 2003
 
 _Cité par_:
 
@@ -23415,7 +23438,9 @@ _Cite_:
   - Code des assurances - art. L220-1 (V)
   - Code des assurances - art. L220-5 (M)
   - Code des assurances - art. L243-4 (M)
-  - Code des assurances L125-1, L125-2, L211-1, L220-1, L241-1 à L242-1, L125-6, L212-1, L220-5, L243-4, R113-10
+  - Code des assurances - art. L251-1 (M)
+  - Code des assurances - art. L252-1 (V)
+  - Code des assurances L125-1, L125-2, L211-1, L220-1, L241-1 à L242-1, L251-1, L125-6, L212-1, L220-5, L243-4, R113-10, L252-1, R250-2, 4
   - Code rural 1234-1, 1234-2, 1234-10
 
 
@@ -23474,6 +23499,42 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°92-1241 du 27 novembre 1992 - art. 2 () JORF 28 novembre 1992 en vigueur le 1er janvier 1993
+
+
+###### Article R250-4-1
+
+Lorsqu'il statue en matière d'assurance obligatoire de responsabilité médicale prévue à l'article L. 251-1 sur la saisine de
+professionnels de santé exerçant à titre libéral, le Bureau central de tarification peut décider l'application soit d'une
+franchise fixe dont le montant maximum est fixé à 10 000 euros par sinistre dans la limite de 200 000 euros par année
+d'assurance, soit d'une franchise proportionnelle dont le montant maximum par sinistre est fixé à 20 % du montant de
+l'indemnité due dans la limite de 100 000 euros par année d'assurance.
+
+Pour les autres assujettis à l'obligation d'assurance prévue à l'article L. 251-1, le Bureau central de tarification peut
+décider l'application d'une franchise fixe dont le montant maximum est fixé à 20 % du montant du plafond de garantie prévue
+au contrat ou d'une franchise proportionnelle dont le montant maximum est fixé à 30 % du montant des indemnités dues, ou des
+deux à la fois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Décret n°2003-168 du 28 février 2003 - art. 3 () JORF 2 mars 2003
+
+_Transféré par_:
+
+  - Décret n°2008-1466 du 22 décembre 2008 - art. 2
+
+_Cite_:
+
+  - Code des assurances - art. L251-1 (M)
+
+_Nouveaux textes_:
+
+  - Code des assurances - art. R250-4-2 (V)
 
 
 ###### Article R250-5
