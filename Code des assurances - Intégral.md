@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-11-22
+Version Consolidée au 1986-12-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -62,8 +62,8 @@ Version Consolidée au 1986-11-22
       - [Titre IV : L'assurance des travaux du bâtiment (art. L242-1 à L243-3)](#59)
         - [Chapitre II : L'assurance de dommages obligatoire. (art. L242-1)](#60)
         - [Chapitre III : Dispositions communes. (art. L243-1 à L243-3)](#61)
-    - [Livre III : Les entreprises. (art. L310-3 à L341-1)](#62)
-      - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. L310-3 à L310-6)](#63)
+    - [Livre III : Les entreprises. (art. L310-1 à L341-1)](#62)
+      - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. L310-1 à L310-6)](#63)
         - [Chapitre unique (art. L310-1 à L310-6)](#64)
           - [Section I : Dispositions générales. (art. L310-4 à L310-6)](#65)
       - [Titre II : Régime administratif. (art. L321-1 à L328-17)](#66)
@@ -5730,118 +5730,6 @@ _Cite_:
 
 ### Titre Ier : Dispositions générales et contrôle de l'Etat.<a id=63></a>
 
-###### Article L310-3
-
-Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
-de l'article L. 310-1. Il précise les conditions dans lesquelles sont applicables auxdites entreprises les dispositions de la
-loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois régissant les sociétés anonymes. Des
-dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance à forme mutuelle et des
-sociétés mutuelles d'assurance.
-
-Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
-qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
-fonctionnement et de l'exercice du contrôle de l'Etat.
-
-Des décrets peuvent fixer après avis du conseil national des assurances, les tarifs minimaux et maximaux des opérations
-mentionnées à l'article L. 310-1.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24
-  - Code des assurances - art. L310-1 (M)
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cité par_:
-
-  - Loi n°84-148 du 1 mars 1984 - art. 59 (V)
-  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab)
-  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 25 (V)
-  - Code de la mutualité - art. L111-4-2 (V)
-  - Code de la mutualité - art. L211-12 (VD)
-  - Code de la sécurité sociale. - art. L931-2-2 (V)
-  - Code de la sécurité sociale. - art. L931-7 (V)
-  - Code des assurances - art. L112-8 (V)
-  - Code des assurances - art. L310-11 (M)
-  - Code des assurances - art. L310-2 (T)
-  - Code des assurances - art. L322-1 (Ab)
-  - Code des assurances - art. L322-1-2 (V)
-  - Code des assurances - art. L322-1-3 (V)
-  - Code des assurances - art. L327-4 (M)
-  - Code des assurances - art. L351-1 (VD)
-  - Code des assurances - art. L354-1 (V)
-  - Code des assurances - art. L356-1 (VD)
-  - Code des assurances - art. L356-18 (MMN)
-  - Code des assurances - art. L433-3 (Ab)
-  - Code des assurances - art. R*411-12 (Ab)
-  - Code des assurances - art. R332-9 (VD)
-  - Code des assurances - art. R385-6 (V)
-
-_Nouveaux textes_:
-
-  - Code des assurances - art. L310-7 (M)
-  - Code des assurances - art. L310-7 (V)
-
-_Anciens textes_:
-
-  - Décret n°1938-06-14 art. 3
-
-
-###### Article L310-5
-
-Lorsque des entreprises d'assurance ou de réassurance concluent un accord quelconque en matière de tarifs, de conditions
-générales des contrats, d'organisation professionnelle, de concurrence ou de gestion financière, les signataires doivent
-porter cet accord à la connaissance de l'autorité administrative par lettre recommandée.
-
-Il en est également ainsi lorsque des entreprises mentionnées aux 1°, 2°, 3°, 4° et 6° de l'article L. 310-1 et des
-entreprises mentionnées aux 5° et 7° dudit article, ayant entre elles des liens financiers, commerciaux ou administratifs,
-concluent un accord de la réassurance.
-
-L'accord ne peut être mis en application que si, dans le délai d'un mois, ladite autorité n'y fait pas opposition.
-
-Passé ce délai, l'autorité administrative, après avoir pris l'avis du conseil national des assurances, conserve la faculté de
-s'opposer à l'application de l'accord.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Loi n°83-453 du 7 juin 1983 - art. 1 () JORF 8 juin 1983
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°83-453 du 7 juin 1983 - art. 7 (V)
-  - TXT_ASSOCIE: Code des assurances - art. R*322-2 (V)
-  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
-
-_Cité par_:
-
-  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab)
-  - Code des assurances - art. L183-1 (V)
-  - Code des assurances - art. L323-5 (Ab)
-  - Code des assurances - art. L323-6 (Ab)
-  - Code des assurances - art. L328-14 (M)
-  - Code des assurances - art. R212-7 (M)
-  - Code des assurances - art. R342-21 (Ab)
-  - Code des assurances - art. R342-22 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-
-_Anciens textes_:
-
-  - Code des assurances - art. L353-3 (T)
-
-
 #### Chapitre unique<a id=64></a>
 
 ###### Article L310-1
@@ -6315,6 +6203,63 @@ _Anciens textes_:
   - Décret n°1938-06-14 art. 2
 
 
+###### Article L310-3
+
+Un décret en Conseil d'Etat détermine les conditions de constitution des entreprises soumises au contrôle de l'Etat en vertu
+de l'article L. 310-1. Il précise les conditions dans lesquelles sont applicables auxdites entreprises les dispositions de la
+loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et des autres lois régissant les sociétés anonymes. Des
+dispositions particulières tiennent compte du caractère non commercial des sociétés d'assurance à forme mutuelle et des
+sociétés mutuelles d'assurance.
+
+Le même décret fixe les obligations auxquelles les entreprises françaises et étrangères sont astreintes, les garanties
+qu'elles doivent présenter, les réserves et provisions techniques qu'elles doivent constituer, les règles générales de leur
+fonctionnement et de l'exercice du contrôle de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Cité par_:
+
+  - Loi n°84-148 du 1 mars 1984 - art. 59 (V)
+  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab)
+  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 25 (V)
+  - Code de la mutualité - art. L111-4-2 (V)
+  - Code de la mutualité - art. L211-12 (VD)
+  - Code de la sécurité sociale. - art. L931-2-2 (V)
+  - Code de la sécurité sociale. - art. L931-7 (V)
+  - Code des assurances - art. L112-8 (V)
+  - Code des assurances - art. L310-11 (M)
+  - Code des assurances - art. L310-2 (T)
+  - Code des assurances - art. L322-1 (Ab)
+  - Code des assurances - art. L322-1-2 (V)
+  - Code des assurances - art. L322-1-3 (V)
+  - Code des assurances - art. L327-4 (M)
+  - Code des assurances - art. L351-1 (VD)
+  - Code des assurances - art. L354-1 (V)
+  - Code des assurances - art. L356-1 (VD)
+  - Code des assurances - art. L356-18 (MMN)
+  - Code des assurances - art. L433-3 (Ab)
+  - Code des assurances - art. R*411-12 (Ab)
+  - Code des assurances - art. R332-9 (VD)
+  - Code des assurances - art. R385-6 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab) JORF 9 décembre 1986
+
+_Nouveaux textes_:
+
+  - Code des assurances - art. L310-7 (M)
+  - Code des assurances - art. L310-7 (V)
+
+_Anciens textes_:
+
+  - Décret n°1938-06-14 art. 3
+
+
 ###### Article L310-7
 
 L'autorité administrative peut imposer l'usage de clauses types de contrats et fixer les montants maximaux et minimaux des
@@ -6585,6 +6530,57 @@ _Cité par_:
 
   - Code des assurances - art. L181-1 (V)
   - Code des assurances - art. L328-14 (M)
+
+
+###### Article L310-5
+
+Lorsque des entreprises d'assurance ou de réassurance concluent un accord quelconque en matière de tarifs, de conditions
+générales des contrats, d'organisation professionnelle, de concurrence ou de gestion financière, les signataires doivent
+porter cet accord à la connaissance de l'autorité administrative par lettre recommandée.
+
+Il en est également ainsi lorsque des entreprises mentionnées aux 1°, 2°, 3°, 4° et 6° de l'article L. 310-1 et des
+entreprises mentionnées aux 5° et 7° dudit article, ayant entre elles des liens financiers, commerciaux ou administratifs,
+concluent un accord de la réassurance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab) JORF 9 décembre 1986
+
+_Cité par_:
+
+  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 57 (Ab)
+  - Code des assurances - art. L183-1 (V)
+  - Code des assurances - art. L323-5 (Ab)
+  - Code des assurances - art. L323-6 (Ab)
+  - Code des assurances - art. L328-14 (M)
+  - Code des assurances - art. R212-7 (M)
+  - Code des assurances - art. R342-21 (Ab)
+  - Code des assurances - art. R342-22 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+  - TXT_ASSOCIE: Code des assurances - art. R*322-2 (V)
+  - TXT_ASSOCIE: Code des assurances L328-14 *sanctions pénales*
+
+_Abrogé par_:
+
+  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - Loi n°89-1014 du 31 décembre 1989 - art. 46 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+
+_Anciens textes_:
+
+  - Code des assurances - art. L353-3 (T)
 
 
 ###### Article L310-6
