@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-03-20
+Version Consolidée au 1986-06-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -39141,32 +39141,23 @@ _Cite_:
 
 ###### Article R*432-17
 
-L'Etat participe aux opérations prévues aux 2° et 3° de l'article R. 432-1 dans les conditions fixées ci-après.
-
-A la fin de chaque exercice, sont passées les écritures suivantes :
-
-1° En contrepartie du concours financier que l'Etat apporte à la compagnie, celle-ci verse au compte du Trésor une somme
-égale à 2 % du montant net des primes émises pendant l'exercice considéré au titre des opérations prévues aux 2° et 3° de
-l'article R. 432-1 ;
-
-2° Si, après passation de cette écriture, le compte de pertes et profits de la compagnie présente un solde bénéficiaire
-excédant 10 % du montant net desdites primes, l'Etat reçoit une quote-part de ce solde dont le montant est versé au compte du
-Trésor. Ce montant est déterminé par application d'un barème fixé par convention entre le ministre de l'économie et des
-finances et la compagnie ;
-
-3° Si, après passation de l'écriture prévue au 1° du présent article, le compte de pertes et profits de la compagnie présente
-un solde déficitaire excédant 10 % du montant net des primes émises au titre des opérations prévues aux 2° et 3° de l'article
-R. 432-1 au cours de l'exercice considéré, cet excédent de perte est pris en charge par le compte du Trésor.
+Pour les opérations prévues aux 2° et 3° de l'article R. 432-1, l'Etat rembourse chaque année à la compagnie française
+d'assurance pour le commerce extérieur la part des sinistres excédant le montant des primes. En contrepartie la compagnie
+verse à l'Etat 0,5 p. 100 du montant des primes.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-318 1957-03-16 art. 8
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°86-759 1986-06-04 art. 1 JORF 6 juin 1986
+
+_Abrogé par_:
+
+  - Décret n°91-303 du 22 mars 1991 - art. 7 (V) JORF 24 mars 1991
 
 _Cite_:
 
