@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1983-10-22
+Version Consolidée au 1983-12-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -33051,31 +33051,17 @@ Contribution des responsables d'accidents corporels non assurés :
 
 - taux réduit : 5 % ;
 
-Contribution des assurés : 1 % des primes.
+Contribution des assurés : 1,40 % des primes.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°52-957 1952-08-08 art. 1
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Modifié par_:
-
-  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
-
-_Cité par_:
-
-  - Décret n°83-1073 du 13 décembre 1983 - art. 1 (V)
-  - Décret n°85-926 du 30 août 1985 - art. 1 (V)
-  - Code des assurances - art. R420-31 (T)
-  - Code des assurances - art. R421-31 (Ab)
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°83-1073 du 13 décembre 1983 - art. 1 (V)
   - TXT_SOURCE: Code des assurances - art. L420-4 (T)
   - TXT_ASSOCIE: Code des assurances - art. R*420-28 (T)
   - TXT_SOURCE: Code des assurances - art. R420-31 (T)
@@ -33083,6 +33069,17 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R421-31 (Ab)
   - TXT_SOURCE: Code des assurances L420-4, R420-28
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16
+
+_Modifié par_:
+
+  - Décret n°83-1073 du 13 décembre 1983 - art. 1 (V) JORF 15 décembre 1983
+
+_Cité par_:
+
+  - Décret n°83-1073 du 13 décembre 1983 - art. 1 (V)
+  - Décret n°85-926 du 30 août 1985 - art. 1 (V)
+  - Code des assurances - art. R420-31 (T)
+  - Code des assurances - art. R421-31 (Ab)
 
 _Cite_:
 
