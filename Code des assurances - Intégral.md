@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1984-04-26
+Version Consolidée au 1984-05-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -35332,25 +35332,21 @@ _Abrogé par_:
 
 ###### Article R*432-7
 
-La compagnie française d'assurance pour le commerce extérieur est administrée par un conseil de quinze membres, nommés par
-décret pris sur le rapport du ministre de l'économie et des finances, à savoir :
+La Compagnie française d'assurance pour le commerce extérieur est administrée par un conseil de dix-huit membres, à savoir :
 
-a) Cinq administrateurs désignés parmi les personnes ayant une vaste expérience du commerce extérieur, dont trois après avis
-des ministres chargés de l'industrie et de l'agriculture, parmi les personnes exerçant ou ayant exercé effectivement des
-professions industrielles, commerciales ou agricoles, intéressées à l'exportation ou à l'importation, sur proposition des
-organisations professionnelles ou interprofessionnelles les plus représentatives ;
+a) Six administrateurs désignés par l'assemblée générale des actionnaires à raison de un par établissement ou groupe
+d'établissements mentionnés à l'article R. 432-2.
 
-b) Cinq administrateurs désignés sur proposition des grandes organisations syndicales les plus représentatives, après avis du
-ministre du travail, dont deux doivent appartenir aux cadres et aux employés de l'établissement intéressé ;
+b) Six administrateurs nommés par décret pris sur le rapport du ministre de l'économie, des finances et du budget, parmi les
+personnes ayant une vaste expérience du commerce extérieur, dont trois parmi les personnes exerçant ou ayant exercé
+effectivement des professions industrielles, commerciales ou agricoles, après consultation des organisations professionnelles
+ou inter-professionnelles les plus représentatives, après avis du ministre chargé de l'agriculture pour l'une des trois et du
+ministre chargé de l'industrie pour les deux autres, et dont deux autres après avis du ministre chargé du commerce extérieur.
 
-c) Cinq administrateurs désignés parmi les personnes ayant une vaste expérience de l'assurance, sur proposition de chacun des
-établissements ou groupes d'établissements mentionnés à l'article R. 432-2.
+c) Six administrateurs représentant les salariés, élus dans les conditions prévues au chapitre II de la loi n° 83-675 du 26
+juillet 1983.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°46-1332 1946-06-01 art. 11
 
 _Codifié par_:
 
@@ -35359,26 +35355,35 @@ _Codifié par_:
 _Cite_:
 
   - Code des assurances R432-2
+  - Loi n°83-675 1983-07-26
+
+_Modifié par_:
+
+  - Décret n°84-337 1985-05-07 art. 1 JORF 8 mai 1984
 
 
 ###### Article R*432-8
 
-Le président du conseil d'administration est désigné parmi les membres dudit conseil par arrêté du ministre de l'économie et
-des finances, pris sur la proposition du conseil d'administration. Le président peut exercer les fonctions de directeur
-général de l'établissement à la tête duquel il est placé.
+Le président du conseil d'administration est nommé parmi les membres du conseil et sur proposition de celui-ci, par décret
+pris sur le rapport du ministre de l'économie, des finances et du budget. Il peut être révoqué par décret. Il peut exercer
+les fonctions de directeur général de l'établissement à la tête duquel il est placé.
 
 Le président peut proposer au conseil d'administration de lui adjoindre, pour l'assister, un directeur général. Celui-ci est
 alors désigné par arrêté du ministre de l'économie et des finances, pris sur la proposition du conseil d'administration.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°46-1332 1946-06-01 art. 12
-
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°84-337 1984-05-07 art. 3 JORF 8 mai 1984
+
+_Abrogé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 
 ###### Article R*432-9
@@ -35390,11 +35395,10 @@ du conseil d'administration.
 Toutefois, l'interdiction édictée par cet article à l'égard des fonctionnaires en activité de service ne s'étend pas aux
 représentants des établissements mentionnés à l'article R. 432-2.
 
+La responsabilité des membres du conseil d'administration représentant les salariés est appréciée dans les conditions
+définies à l'article 22 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°46-1332 1946-06-01 art. 13
 
 _Codifié par_:
 
@@ -35402,8 +35406,17 @@ _Codifié par_:
 
 _Cite_:
 
+  - Loi n°83-675 du 26 juillet 1983 - art. 22 (V)
   - Loi n°45-15 du 2 décembre 1945 - art. 9 (Ab)
   - Code des assurances R432-2
+
+_Modifié par_:
+
+  - Décret n°84-337 1984-05-07 art. 4 JORF 8 mai 1984
+
+_Abrogé par_:
+
+  - Décret n°91-303 du 22 mars 1991 - art. 7 (V) JORF 24 mars 1991
 
 
 ###### Article R*432-10
@@ -35428,6 +35441,32 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°91-303 du 22 mars 1991 - art. 7 (V) JORF 24 mars 1991
+
+
+###### Article R*432-10 bis
+
+Le conseil d'administration se réunit dans les conditions fixées à l'article 8 de la loi n° 83-675 du 26 juillet 1983 et au
+moins une fois par trimestre.
+
+Il peut être convoqué à la requête des commissaires du Gouvernement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Cite_:
+
+  - Loi n°83-675 du 26 juillet 1983 - art. 8 (V)
+
+_Créé par_:
+
+  - Décret n°84-337 1984-05-07 art. 2 JORF 8 mai 1984
+
+_Abrogé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 
 ###### Article R*432-11
@@ -35462,9 +35501,9 @@ _Abrogé par_:
 
 ###### Article R*432-12
 
-La compagnie française d'assurance pour le commerce extérieur est soumise aux dispositions du code de commerce et des lois en
-vigueur sur les sociétés anonymes, ainsi qu'aux lois et règlements concernant les entreprises d'assurance dans la mesure où
-il n'y est pas dérogé par le présent chapitre.
+La Compagnie française d'assurance pour le commerce extérieur est soumise aux dispositions du code du commerce, des lois en
+vigueur sur les sociétés anonymes et de la loi relative à la démocratisation du secteur public, ainsi qu'aux lois et
+règlements concernant les entreprises d'assurance dans la mesure où il n'y est pas dérogé par le présent chapitre.
 
 Elle est dispensée des formalités légales de constitution, notamment des formalités de publicité.
 
@@ -35476,13 +35515,21 @@ l'approbation du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°46-1332 1946-06-01 art. 16
-
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°84-337 1984-05-07 art. 5 JORF 8 mai 1984
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°84-776 1984-08-09 *approbation de la modification des statuts*
+
+_Abrogé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 
 ###### Article R*432-13
