@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-05-15
+Version Consolidée au 1994-06-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -271,7 +271,7 @@ Version Consolidée au 1994-05-15
         - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. R*332-6 à R*332-45)](#268)
           - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. R*332-6 à R332-13)](#269)
           - [Section II : Réglementations particulières concernant certains éléments d'actif. (art. R332-14 à R332-17)](#270)
-          - [Section III : Estimation des éléments d'actif. (art. R*332-22 à R332-30)](#271)
+          - [Section III : Estimation des éléments d'actif. (art. R332-19 à R332-30)](#271)
           - [Section IV : Commissions et frais d'acquisition à amortir. (art. R332-33 à R332-34)](#272)
           - [Section V : Règles particulières à certaines entreprises étrangères. (art. R332-37 à R332-44)](#273)
           - [Section VI : Dispositions particulières aux territoires d'outre-mer. (art. R*332-45)](#274)
@@ -291,207 +291,192 @@ Version Consolidée au 1994-05-15
           - [Section V : Dispositions transitoires relatives à la marge de solvabilité (art. R334-32)](#288)
       - [Titre IV : Dispositions comptables et statistiques (art. R*341-2 à R345-11)](#289)
         - [Chapitre Ier : Principes généraux. (art. R*341-2 à R341-10)](#290)
-        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. R342-1 à R342-25)](#291)
-          - [Section I : Dispositions générales. (art. R342-1 à R342-6)](#292)
-          - [Section II : Documents et registres comptables. (art. R342-7 à R342-8)](#293)
-          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. R342-9 à R342-12)](#294)
-          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance. (art. R342-13 à R342-16)](#295)
-          - [Section V : Comptes rendus à établir et documents à adresser au ministre de l'économie et des finances. (art. R342-17 à R342-25)](#296)
-        - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation (art. R343-1 à R343-5)](#297)
-          - [Section I : Le cadre comptable. (art. R343-1)](#298)
-          - [Section II : Liste des comptes (art. R343-2)](#299)
-            - [Classe 7. (art. R343-2)](#300)
-          - [Section III : Modèles de comptes de résultats et de bilan (art. R343-3)](#301)
-            - [Compte 80. (art. R343-3)](#302)
-            - [Compte 87. (art. R343-3)](#303)
-            - [Compte 88. (art. R343-3)](#304)
-            - [Compte 89 - Bilan - Actif. (art. R343-3)](#305)
-            - [Compte 89 - Bilan - Passif. (art. R343-3)](#306)
-          - [Section IV : Terminologie explicative et modalités de fonctionnement des comptes. (art. R343-4)](#307)
-          - [Section V : Règles spéciales aux mutuelles agricoles. (art. R343-5)](#308)
-        - [Chapitre IV : Catégories d'assurances et états à produire. (art. R344-1)](#309)
-        - [Chapitre V : Comptes consolidés. (art. R345-1 à R345-11)](#310)
-          - [Section I : Méthodes de consolidation. (art. R345-2 à R345-6)](#311)
-          - [Section II : Présentation des comptes consolidés. (art. R345-7 à R345-11)](#312)
-      - [Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes (art. R351-1)](#313)
-        - [Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages. (art. R351-1)](#314)
-          - [Section I : Dispositions générales. (art. R351-1)](#315)
-      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. R351-2 à R353-6)](#316)
-        - [Chapitre I : Dispositions relatives à la libre prestation de services en assurances de dommages (art. R351-2 à R351-6)](#317)
-          - [Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française. (art. R351-2 à R351-5)](#318)
-          - [Section II : Règles relatives aux entreprises établies en France et couvrant des risques dans un ou plusieurs Etats membres des communautés européennes. (art. R351-6)](#319)
-        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. R353-1 à R353-6)](#320)
-          - [Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française. (art. R353-1 à R353-4)](#321)
-          - [Section II : Règles relatives aux entreprises établies en France et prenant des engagements dans un ou plusieurs autres Etats membres des communautés européennes. (art. R353-5 à R353-6)](#322)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R*411-4 à R442-11)](#323)
-      - [Titre Ier : Organisations générales d'assurance. (art. R*411-4 à R*412-2)](#324)
-        - [Chapitre I : Le conseil national des assurances (art. R*411-4 à R411-3)](#325)
-        - [Chapitre II : L'école nationale d'assurances. (art. R*412-1 à R*412-2)](#326)
-      - [Titre II : Le fonds de garantie (art. R421-1 à R422-9)](#327)
-        - [Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse (art. R421-1 à R421-70)](#328)
-          - [Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. R421-1 à R421-20)](#329)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. R421-1)](#330)
-            - [Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne. (art. R421-2 à R421-17)](#331)
-            - [Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages aux biens. (art. R421-18 à R421-20)](#332)
-          - [Section II : Dispositions applicables aux accidents de chasse. (art. R421-21 à R421-24)](#333)
-          - [Section III : Organisation, fonctionnement et contrôle du fonds de garantie. (art. R421-25 à R421-26)](#334)
-          - [Section IV : Régime financier du fonds de garantie (art. R*421-29 à R421-47)](#335)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents d'automobile. (art. R*421-29 à R421-37)](#336)
-            - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. R421-38 à R421-43)](#337)
-            - [Paragraphe 3 : Dispositions communes aux accidents de la circulation et de chasse. (art. R421-44 à R421-47)](#338)
-          - [Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile. (art. R*421-48 à R421-54)](#339)
-          - [Section VI : Dispositions particulières aux départements d'outre-mer. (art. R421-57)](#340)
-          - [Section VII : Dispositions particulières aux territoires d'outre-mer et à la collectivité territoriale de Mayotte. (art. R421-58 à R421-63-1)](#341)
-          - [Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger. (art. R421-64 à R421-70)](#342)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-2 à R422-9)](#343)
-      - [Titre II : Les fonds de garantie (art. R422-1)](#344)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-1)](#345)
-      - [Titre III : Organismes particuliers d'assurance (art. R*431-6 à R431-59)](#346)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. R*431-6 à R431-59)](#347)
-          - [Section I : Dispositions générales. (art. R*431-6 à R431-6-2)](#348)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat (art. R431-16-1 à R431-31)](#349)
-            - [Paragraphe 1 : Dispositions communes. (art. R431-16-1 à R431-16-4)](#350)
-            - [Paragraphe 2 : Risques exceptionnels et nucléaires. (art. R431-27 à R431-29)](#351)
-            - [Paragraphe 3 : Risques de catastrophes naturelles. (art. R431-30 à R431-31)](#352)
-          - [Section III : Opérations de gestion (art. R431-33 à R431-59)](#353)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. R431-33 à R431-38)](#354)
-            - [Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction. (art. R*431-55 à R431-59)](#355)
-      - [Titre IV : Régimes particuliers d'assurance (art. R*441-2 à R442-11)](#356)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. R*441-2 à R*441-30)](#357)
-          - [Section I : Dispositions générales. (art. R*441-2 à R441-1)](#358)
-          - [Section II : Règles techniques et comptables. (art. R*441-4 à R441-21)](#359)
-          - [Section III : Règles relatives au retrait de l'agrément. (art. R*441-29 à R441-28)](#360)
-          - [Section IV : Dispositions transitoires. (art. R*441-30)](#361)
-        - [Chapitre II : Autres régimes particuliers d'assurance (art. R442-1 à R442-11)](#362)
-          - [Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux (art. R442-1 à R442-11)](#363)
-            - [Paragraphe 1 : Dispositions générales. (art. R442-1 à R442-7-2)](#364)
-            - [Paragraphe 2 : Opérations d'exportation. (art. R442-8-1 à R442-8-6)](#365)
-            - [Paragraphe 3 : Opérations d'investissement. (art. R442-9-1 à R442-9-3)](#366)
-            - [Paragraphe 4 : Opérations d'importation. (art. R442-10-1 à R442-10-5)](#367)
-            - [Paragraphe 5 : Dispositions communes. (art. R442-11)](#368)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. R*511-1 à R530-11)](#369)
-      - [Titre I : Présentation des opérations (art. R*511-1 à R*516-1)](#370)
-        - [Chapitre I : Principes généraux. (art. R*511-1 à R511-6)](#371)
-        - [Chapitre II : Dérogations aux principes généraux (art. R*512-1 à R512-5)](#372)
-          - [Section I : Dérogations permanentes. (art. R*512-1 à R512-5)](#373)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. R*513-6 à R513-4)](#374)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. R*514-1 à R*514-17)](#375)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R*514-1 à R514-3)](#376)
-          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-6 à R514-5)](#377)
-          - [Section III : Modalités de contrôle spéciales aux conditions d'honorabilité. (art. R*514-8 à R*514-13)](#378)
-          - [Section IV : Dispositions diverses et pénalités. (art. R*514-14 à R*514-17)](#379)
-        - [Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France (art. R515-1 à R*515-7)](#380)
-          - [Section I : Conditions de capacité professionnelle. (art. R515-1 à R515-5)](#381)
-          - [Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité. (art. R*515-6 à R*515-7)](#382)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. R*516-1)](#383)
-      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. R530-1 à R530-11)](#384)
-        - [Chapitre unique. (art. R530-1 à R530-11)](#385)
-  - [Partie réglementaire - Arrêtés (art. A113-1 à A516-2)](#386)
-    - [Livre Ier : Le contrat (art. A113-1 à A160-4)](#387)
-      - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#388)
-        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#389)
-      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-3)](#390)
-        - [Chapitre Ier : Dispositions générales. (art. A121-1 à A121-2)](#391)
-        - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-3)](#392)
-      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A131-1 à A132-11)](#393)
-        - [Chapitre Ier : Dispositions générales. (art. A131-1 à A131-2)](#394)
-          - [Section I : Valeur de référence au contrat. (art. A131-1 à A131-2)](#395)
-        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. A132-5 à A132-11)](#396)
-          - [Section III : Participation aux bénéfices techniques et financiers. (art. A132-5 à A132-11)](#397)
-      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. A160-1 à A160-4)](#398)
-        - [Chapitre unique (art. A160-1 à A160-4)](#399)
-          - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. A160-1 à Annexe à l'article A160-1)](#400)
-          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-3)](#401)
-          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-2 à A160-4)](#402)
-    - [Livre II : Assurances obligatoires (art. A211-1 à A250-2)](#403)
-      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. A211-1 à A213-4)](#404)
-        - [Chapitre Ier : L'obligation de s'assurer (art. A211-1 à Annexe art. A211-11)](#405)
-          - [Section I : Personnes assujetties. (art. A211-1)](#406)
-          - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-1 à A211-1-2)](#407)
-          - [Section III : Franchises, exclusions de garantie et déchéances. (art. A211-3)](#408)
-          - [Section IV : Contrôle de l'obligation d'assurance (art. A211-4 à A211-10)](#409)
-            - [Paragraphe 1 : L'attestation d'assurance. (art. A211-4 à A211-8)](#410)
-            - [Paragraphe 2 : Le certificat d'assurance. (art. A211-9 à A211-10)](#411)
-          - [Section VI : Procédures d'indemnisation. (art. A211-11 à Annexe art. A211-11)](#412)
-        - [Chapitre III : Contribution au profit de la sécurité sociale. (art. A213-1 à A213-4)](#413)
-      - [Titre II : L'assurance des engins de remontée mécanique (art. A220-3 à Annexe art. A220-3)](#414)
-        - [Chapitre unique. (art. A220-3 à Annexe art. A220-3)](#415)
-      - [Titre III : L'assurance de la responsabilité civile des chasseurs (art. A230-5 à Annexe art A230-7)](#416)
-        - [Chapitre unique. (art. A230-5 à Annexe art A230-7)](#417)
-      - [Titre IV : L'assurance des travaux de bâtiment (art. A243-2)](#418)
-      - [Titre V : Dispositions relatives au bureau central de tarification. (art. A250-1 à A250-2)](#419)
-    - [Livre III : Les entreprises. (art. A310-1 à A353-1)](#420)
-      - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. A310-1 à A310-2)](#421)
-        - [Chapitre I (art. A310-1 à A310-3)](#422)
-          - [Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants. (art. A310-1 à A310-3)](#423)
-        - [Chapitre unique (art. A310-2)](#424)
-          - [Section I : Dispositions générales. (art. A310-2)](#425)
-      - [Titre II : Régime administratif (art. A322-6 à A322-7)](#426)
-        - [Chapitre II : Règles de constitution et de fonctionnement (art. A322-6 à A322-7)](#427)
-          - [Section IV : Sociétés d'assurance à forme mutuelle. (art. A322-6 à A322-7)](#428)
-            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. A322-6 à A322-7)](#429)
-      - [Titre III : Régime financier. (art. A331-1 à A335-19)](#430)
-        - [Chapitre Ier : Les engagements réglementés. (art. A331-1 à A331-24)](#431)
-          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1)](#432)
-          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1-1 à A331-2)](#433)
-          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-11 à A331-24)](#434)
-            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-11 à A331-12)](#435)
-            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-24)](#436)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-5 à A332-6)](#437)
-          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#438)
-        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#439)
-        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-3)](#440)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#441)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#442)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#443)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#444)
-        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#445)
-          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#446)
-            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#447)
-          - [Section I : Tarifs (art. A335-1-1)](#448)
-            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1-1)](#449)
-          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#450)
-            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#451)
-      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe à l'article A344-3)](#452)
-        - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#453)
-        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe à l'article A344-3)](#454)
-          - [Section I : Dispositions générales. (art. A344-1 à A344-3)](#455)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#456)
-          - [Section III : Etats à produire. (art. A344-6 à A344-8)](#457)
-          - [Section III : Etats à produire. (art. Annexe art. A344-3 (suite 1) à Annexe à l'article A344-3)](#458)
-      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#459)
-        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#460)
-          - [Section II : Conditions d'exercice (art. A353-1)](#461)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-2)](#462)
-      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#463)
-        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#464)
-          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#465)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#466)
-          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#467)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#468)
-          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#469)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#470)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#471)
-      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#472)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#473)
-          - [Section I : Dispositions générales. (art. A431-1)](#474)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#475)
-            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#476)
-          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#477)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#478)
-            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#479)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#480)
-          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#481)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#482)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#483)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#484)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#485)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#486)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#487)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#488)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#489)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#490)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#491)
+        - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation (art. R343-2)](#291)
+          - [Section II : Liste des comptes (art. R343-2)](#292)
+            - [Classe 8. (art. R343-2)](#293)
+        - [Chapitre IV : Catégories d'assurances et états à produire. (art. R344-1)](#294)
+        - [Chapitre V : Comptes consolidés. (art. R345-1 à R345-11)](#295)
+          - [Section I : Méthodes de consolidation. (art. R345-2 à R345-6)](#296)
+          - [Section II : Présentation des comptes consolidés. (art. R345-7 à R345-11)](#297)
+      - [Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes (art. R351-1)](#298)
+        - [Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages. (art. R351-1)](#299)
+          - [Section I : Dispositions générales. (art. R351-1)](#300)
+      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. R351-2 à R353-6)](#301)
+        - [Chapitre I : Dispositions relatives à la libre prestation de services en assurances de dommages (art. R351-2 à R351-6)](#302)
+          - [Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française. (art. R351-2 à R351-5)](#303)
+          - [Section II : Règles relatives aux entreprises établies en France et couvrant des risques dans un ou plusieurs Etats membres des communautés européennes. (art. R351-6)](#304)
+        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. R353-1 à R353-6)](#305)
+          - [Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française. (art. R353-1 à R353-4)](#306)
+          - [Section II : Règles relatives aux entreprises établies en France et prenant des engagements dans un ou plusieurs autres Etats membres des communautés européennes. (art. R353-5 à R353-6)](#307)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R*411-4 à R442-11)](#308)
+      - [Titre Ier : Organisations générales d'assurance. (art. R*411-4 à R*412-2)](#309)
+        - [Chapitre I : Le conseil national des assurances (art. R*411-4 à R411-3)](#310)
+        - [Chapitre II : L'école nationale d'assurances. (art. R*412-1 à R*412-2)](#311)
+      - [Titre II : Le fonds de garantie (art. R421-1 à R422-9)](#312)
+        - [Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse (art. R421-1 à R421-70)](#313)
+          - [Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. R421-1 à R421-20)](#314)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. R421-1)](#315)
+            - [Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne. (art. R421-2 à R421-17)](#316)
+            - [Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages aux biens. (art. R421-18 à R421-20)](#317)
+          - [Section II : Dispositions applicables aux accidents de chasse. (art. R421-21 à R421-24)](#318)
+          - [Section III : Organisation, fonctionnement et contrôle du fonds de garantie. (art. R421-25 à R421-26)](#319)
+          - [Section IV : Régime financier du fonds de garantie (art. R*421-29 à R421-47)](#320)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents d'automobile. (art. R*421-29 à R421-37)](#321)
+            - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. R421-38 à R421-43)](#322)
+            - [Paragraphe 3 : Dispositions communes aux accidents de la circulation et de chasse. (art. R421-44 à R421-47)](#323)
+          - [Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile. (art. R*421-48 à R421-54)](#324)
+          - [Section VI : Dispositions particulières aux départements d'outre-mer. (art. R421-57)](#325)
+          - [Section VII : Dispositions particulières aux territoires d'outre-mer et à la collectivité territoriale de Mayotte. (art. R421-58 à R421-63-1)](#326)
+          - [Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger. (art. R421-64 à R421-70)](#327)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-2 à R422-9)](#328)
+      - [Titre II : Les fonds de garantie (art. R422-1)](#329)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-1)](#330)
+      - [Titre III : Organismes particuliers d'assurance (art. R*431-6 à R431-59)](#331)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. R*431-6 à R431-59)](#332)
+          - [Section I : Dispositions générales. (art. R*431-6 à R431-6-2)](#333)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat (art. R431-16-1 à R431-31)](#334)
+            - [Paragraphe 1 : Dispositions communes. (art. R431-16-1 à R431-16-4)](#335)
+            - [Paragraphe 2 : Risques exceptionnels et nucléaires. (art. R431-27 à R431-29)](#336)
+            - [Paragraphe 3 : Risques de catastrophes naturelles. (art. R431-30 à R431-31)](#337)
+          - [Section III : Opérations de gestion (art. R431-33 à R431-59)](#338)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. R431-33 à R431-38)](#339)
+            - [Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction. (art. R*431-55 à R431-59)](#340)
+      - [Titre IV : Régimes particuliers d'assurance (art. R*441-2 à R442-11)](#341)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. R*441-2 à R*441-30)](#342)
+          - [Section I : Dispositions générales. (art. R*441-2 à R441-1)](#343)
+          - [Section II : Règles techniques et comptables. (art. R*441-4 à R441-21)](#344)
+          - [Section III : Règles relatives au retrait de l'agrément. (art. R*441-29 à R441-28)](#345)
+          - [Section IV : Dispositions transitoires. (art. R*441-30)](#346)
+        - [Chapitre II : Autres régimes particuliers d'assurance (art. R442-1 à R442-11)](#347)
+          - [Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux (art. R442-1 à R442-11)](#348)
+            - [Paragraphe 1 : Dispositions générales. (art. R442-1 à R442-7-2)](#349)
+            - [Paragraphe 2 : Opérations d'exportation. (art. R442-8-1 à R442-8-6)](#350)
+            - [Paragraphe 3 : Opérations d'investissement. (art. R442-9-1 à R442-9-3)](#351)
+            - [Paragraphe 4 : Opérations d'importation. (art. R442-10-1 à R442-10-5)](#352)
+            - [Paragraphe 5 : Dispositions communes. (art. R442-11)](#353)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. R*511-1 à R530-11)](#354)
+      - [Titre I : Présentation des opérations (art. R*511-1 à R*516-1)](#355)
+        - [Chapitre I : Principes généraux. (art. R*511-1 à R511-6)](#356)
+        - [Chapitre II : Dérogations aux principes généraux (art. R*512-1 à R512-5)](#357)
+          - [Section I : Dérogations permanentes. (art. R*512-1 à R512-5)](#358)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. R*513-6 à R513-4)](#359)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. R*514-1 à R*514-17)](#360)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R*514-1 à R514-3)](#361)
+          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-6 à R514-5)](#362)
+          - [Section III : Modalités de contrôle spéciales aux conditions d'honorabilité. (art. R*514-8 à R*514-13)](#363)
+          - [Section IV : Dispositions diverses et pénalités. (art. R*514-14 à R*514-17)](#364)
+        - [Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France (art. R515-1 à R*515-7)](#365)
+          - [Section I : Conditions de capacité professionnelle. (art. R515-1 à R515-5)](#366)
+          - [Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité. (art. R*515-6 à R*515-7)](#367)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. R*516-1)](#368)
+      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. R530-1 à R530-11)](#369)
+        - [Chapitre unique. (art. R530-1 à R530-11)](#370)
+  - [Partie réglementaire - Arrêtés (art. A113-1 à A516-2)](#371)
+    - [Livre Ier : Le contrat (art. A113-1 à A160-4)](#372)
+      - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#373)
+        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. A113-1)](#374)
+      - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. A121-1 à A125-3)](#375)
+        - [Chapitre Ier : Dispositions générales. (art. A121-1 à A121-2)](#376)
+        - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. A125-1 à A125-3)](#377)
+      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. A131-1 à A132-11)](#378)
+        - [Chapitre Ier : Dispositions générales. (art. A131-1 à A131-2)](#379)
+          - [Section I : Valeur de référence au contrat. (art. A131-1 à A131-2)](#380)
+        - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. A132-5 à A132-11)](#381)
+          - [Section III : Participation aux bénéfices techniques et financiers. (art. A132-5 à A132-11)](#382)
+      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. A160-1 à A160-4)](#383)
+        - [Chapitre unique (art. A160-1 à A160-4)](#384)
+          - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. A160-1 à Annexe à l'article A160-1)](#385)
+          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-3)](#386)
+          - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-2 à A160-4)](#387)
+    - [Livre II : Assurances obligatoires (art. A211-1 à A250-2)](#388)
+      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. A211-1 à A213-4)](#389)
+        - [Chapitre Ier : L'obligation de s'assurer (art. A211-1 à Annexe art. A211-11)](#390)
+          - [Section I : Personnes assujetties. (art. A211-1)](#391)
+          - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-1 à A211-1-2)](#392)
+          - [Section III : Franchises, exclusions de garantie et déchéances. (art. A211-3)](#393)
+          - [Section IV : Contrôle de l'obligation d'assurance (art. A211-4 à A211-10)](#394)
+            - [Paragraphe 1 : L'attestation d'assurance. (art. A211-4 à A211-8)](#395)
+            - [Paragraphe 2 : Le certificat d'assurance. (art. A211-9 à A211-10)](#396)
+          - [Section VI : Procédures d'indemnisation. (art. A211-11 à Annexe art. A211-11)](#397)
+        - [Chapitre III : Contribution au profit de la sécurité sociale. (art. A213-1 à A213-4)](#398)
+      - [Titre II : L'assurance des engins de remontée mécanique (art. A220-3 à Annexe art. A220-3)](#399)
+        - [Chapitre unique. (art. A220-3 à Annexe art. A220-3)](#400)
+      - [Titre III : L'assurance de la responsabilité civile des chasseurs (art. A230-5 à Annexe art A230-7)](#401)
+        - [Chapitre unique. (art. A230-5 à Annexe art A230-7)](#402)
+      - [Titre IV : L'assurance des travaux de bâtiment (art. A243-2)](#403)
+      - [Titre V : Dispositions relatives au bureau central de tarification. (art. A250-1 à A250-2)](#404)
+    - [Livre III : Les entreprises. (art. A310-1 à A353-1)](#405)
+      - [Titre Ier : Dispositions générales et contrôle de l'Etat. (art. A310-1 à A310-2)](#406)
+        - [Chapitre I (art. A310-1 à A310-3)](#407)
+          - [Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants. (art. A310-1 à A310-3)](#408)
+        - [Chapitre unique (art. A310-2)](#409)
+          - [Section I : Dispositions générales. (art. A310-2)](#410)
+      - [Titre II : Régime administratif (art. A322-6 à A322-7)](#411)
+        - [Chapitre II : Règles de constitution et de fonctionnement (art. A322-6 à A322-7)](#412)
+          - [Section IV : Sociétés d'assurance à forme mutuelle. (art. A322-6 à A322-7)](#413)
+            - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. A322-6 à A322-7)](#414)
+      - [Titre III : Régime financier. (art. A331-1 à A335-19)](#415)
+        - [Chapitre Ier : Les engagements réglementés. (art. A331-1 à A331-24)](#416)
+          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1)](#417)
+          - [Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation. (art. A331-1-1 à A331-2)](#418)
+          - [Section III : Provisions techniques des autres opérations d'assurance (art. A331-11 à A331-24)](#419)
+            - [Paragraphe 1 : Provision mathématique des rentes. (art. A331-11 à A331-12)](#420)
+            - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. A331-24)](#421)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. A332-5 à A332-6)](#422)
+          - [Section III : Estimation des éléments d'actif. (art. A332-5 à A332-6)](#423)
+        - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#424)
+        - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-3)](#425)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#426)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#427)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#428)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#429)
+        - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#430)
+          - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#431)
+            - [Paragraphe 4 : Assurance des véhicules terrestres à moteur. (art. A335-9-1 à A335-9-2)](#432)
+          - [Section I : Tarifs (art. A335-1-1)](#433)
+            - [Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation. (art. A335-1-1)](#434)
+          - [Section II : Frais d'acquisition et de gestion (art. A335-19)](#435)
+            - [Paragraphe 4 : Assurances des risques de catastrophes naturelles. (art. A335-19)](#436)
+      - [Titre IV : Dispositions comptables et statistiques (art. A341-1 à Annexe à l'article A344-3)](#437)
+        - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#438)
+        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe à l'article A344-3)](#439)
+          - [Section I : Dispositions générales. (art. A344-1 à A344-3)](#440)
+          - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#441)
+          - [Section III : Etats à produire. (art. A344-6 à A344-8)](#442)
+          - [Section III : Etats à produire. (art. Annexe art. A344-3 (suite 1) à Annexe à l'article A344-3)](#443)
+      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#444)
+        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#445)
+          - [Section II : Conditions d'exercice (art. A353-1)](#446)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-2)](#447)
+      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#448)
+        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-1 à A421-3)](#449)
+          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte (art. A421-1)](#450)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#451)
+          - [Section IV : Régime financier du fonds de garantie (art. A421-2)](#452)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#453)
+          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#454)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#455)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#456)
+      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#457)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#458)
+          - [Section I : Dispositions générales. (art. A431-1)](#459)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#460)
+            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#461)
+          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#462)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#463)
+            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#464)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#465)
+          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#466)
+            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#467)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#468)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#469)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#470)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#471)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#472)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#473)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#474)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#475)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#476)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -28958,31 +28943,6 @@ _Nouveaux textes_:
 
 ##### Section III : Estimation des éléments d'actif.<a id=271></a>
 
-###### Article R*332-22
-
-La commission de contrôle des assurances peut, à titre exceptionnel et en imposant toutes les conditions que comporte un tel
-ajournement, accorder aux entreprises dont la gestion n'est entachée d'aucune faute lourde le délai strictement nécessaire
-pour constituer la provision pour dépréciation des immobilisations et titres prévue au 3° de l'article R. 332-20.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°90-981 du 5 novembre 1990 - art. 24 () JORF 6 novembre 1990
-
-_Abrogé par_:
-
-  - Décret n°94-481 du 8 juin 1994 - art. 5 () JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. R*332-20 (M)
-
-
 ###### Article R332-19
 
 Les valeurs amortissables énumérées aux 1°, 2° et 2° bis de l'article R. 332-2, autres que les obligations indexées, les
@@ -31362,1633 +31322,159 @@ _Nouveaux textes_:
   - Code des assurances R344-3 (1ère version)
 
 
-#### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=291></a>
+#### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation<a id=291></a>
 
-##### Section I : Dispositions générales.<a id=292></a>
+##### Section II : Liste des comptes<a id=292></a>
 
-###### Article R342-1
-
-Le présent chapitre est applicable aux entreprises assujetties au contrôle de l'Etat par l'article L. 310-1.
-
-Les dispositions des articles R. 342-17 à R. 342-19, R. 342-23 et R. 342-25 sont également applicables aux opérations
-effectuées en libre prestation de services sur le territoire de la République française par les entreprises agréées en vertu
-de l'article L. 321-1-1.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°93-470 du 23 mars 1993 - art. 2 () JORF 26 mars 1993
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. A342-1-1 (V)
-  - Code des assurances - art. R134-14 (V)
-  - Code des assurances - art. R134-2 (VT)
-  - Code des assurances - art. R134-3 (VD)
-  - Code des assurances - art. R142-1 (Ab)
-  - Code des assurances - art. R142-14 (V)
-  - Code des assurances - art. R142-2 (Ab)
-  - Code des assurances - art. R142-3 (Ab)
-  - Code des assurances - art. R332-62 (VT)
-  - Code des assurances - art. R332-65 (V)
-  - Code des assurances - art. R332-66 (VD)
-  - Code des assurances - art. R334-13-1 (V)
-  - Code des assurances - art. R342-13 (VT)
-  - Code des assurances - art. R342-14 (VT)
-  - Code des assurances - art. R342-3 (V)
-  - Code des assurances - art. R342-4 (V)
-  - Code des assurances - art. R342-5 (V)
-  - Code des assurances - art. R342-7 (V)
-  - Code des assurances - art. R342-9 (V)
-  - Code des assurances - art. R385-5 (V)
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. L321-1-1 (M)
-  - Code des assurances - art. R342-23 (M)
-  - Code des assurances - art. R342-25 (M)
-  - Code des assurances L310-1, L321-1-1, R342-17 à R342-19, R342-23, R342-25
-
-
-###### Article R342-2
-
-Les livres ou documents prévus au présent chapitre peuvent être établis par tous moyens ou procédés conférant par eux-mêmes
-un caractère d'authenticité aux écritures comptables et permettant le contrôle de la comptabilité.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 2
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. A342-1-2 (M)
-  - Code des assurances - art. R134-14 (V)
-  - Code des assurances - art. R142-14 (Ab)
-  - Code des assurances - art. R332-61 (VT)
-
-
-###### Article R342-3
-
-La comptabilité est tenue en partie double.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 3
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. A132-5-3 (V)
-  - Code des assurances - art. R134-5 (V)
-  - Code des assurances - art. R142-5 (Ab)
-  - Code des assurances - art. R142-7 (Ab)
-  - Code des assurances - art. R144-19 (VD)
-  - Code des assurances - art. R342-1 (V)
-  - Code des assurances - art. R342-5 (V)
-  - Code des assurances - art. R343-1 (VD)
-
-
-###### Article R342-4
-
-Les entreprises doivent être à même d'apporter la justification de toutes leurs écritures comptables, y compris celles qui
-sont relatives aux opérations à l'étranger.
-
-A l'appui des opérations de l'inventaire annuel sont dressées les balances de tous les comptes et sous-comptes ; ces balances
-doivent permettre de contrôler les centralisations des écritures figurant au grand-livre général.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 4
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. R332-63 (VT)
-  - Code des assurances - art. R342-1 (V)
-  - Code des assurances - art. R342-14 (VT)
-  - Code des assurances - art. R342-3 (V)
-  - Code des assurances - art. R342-5 (M)
-
-
-###### Article R342-5
-
-Dans le cas où l'entreprise possède un actif exprimé ou a des engagements libellés en monnaies étrangères, les comptes
-concernés sont tenus dans ces monnaies.
-
-L'inventaire annuel, le bilan, le compte d'exploitation, le compte de pertes et profits et les autres documents publiés sont
-établis en francs français ; les monnaies étrangères sont converties en francs français d'après les cours des changes
-constatés à la clôture de l'exercice.
-
-Les plus-values nettes de change éventuellement dégagées sont portées selon le cas à un compte de "Réserve spéciale pour
-fluctuations de change" ou de "Réserve spéciale pour cautionnement à l'étranger".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-723 du 26 juillet 1991 - art. 1 () JORF 28 juillet 1991
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. A331-4 (M)
-  - Code des assurances - art. A342-1 (V)
-  - Code des assurances - art. A342-1-2 (V)
-
-
-###### Article R342-6
-
-La comptabilité des valeurs mobilières est tenue par prix d'achat.
-
-Pour les valeurs dont l'évaluation d'inventaire se fait conformément aux dispositions de l'article R. 332-19, le prix d'achat
-ne comprend pas le prorata d'intérêt couru depuis la dernière échéance.
-
-Toutefois, les valeurs amortissables détenues au 31 décembre 1973, et qui n'étaient pas évaluées à cette date selon les
-règles de l'article R. 332-19, peuvent continuer à être inscrites au bilan sans déduction du prorata d'intérêt couru depuis
-la dernière échéance.
-
-Les entreprises peuvent appliquer la règle prévue au second alinéa du présent article aux valeurs amortissables estimées
-d'après les dispositions de l'article R. 332-20. Dans ce cas, pour effectuer la comparaison prévue audit article, il y a lieu
-de déduire de l'évaluation générale du 2° mentionné à cet article les prorata d'intérêts courus depuis la dernière échéance
-jusqu'à la date de l'inventaire.
-
-La moins-value pouvant résulter de l'application des règles d'estimation des placements fixées par le chapitre II du titre
-III du présent livre fait, sauf dérogation, l'objet d'une provision dans les écritures d'inventaire.
-
-A compter du 1er janvier 1988, les cessions de titres en portefeuille sont réputées porter par priorité sur les titres de
-même nature acquis ou souscrits à la date la plus ancienne.
-
-Les plus-values ou moins-values résultant des cessions en cause sont déterminées en fonction de la valeur d'origine pour
-laquelle les titres figuraient au bilan.
-
-Les entreprises qui déterminaient les plus-values ou les moins-values de cessions en fonction de la valeur d'origine unitaire
-moyenne pondérée des titres de même nature figurant dans leur patrimoine doivent continuer de faire application de cette
-méthode en cas de cessions de titres figurant dans leur portefeuille au 31 décembre 1987. Dans ce cas, le prix de revient
-unitaire des titres de même nature détenus à cette date est égal au prix unitaire moyen pondéré de l'ensemble de ces titres,
-calculé à cette même date.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°87-988 1987-12-08 art. 1 JORF 10 décembre 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. A132-11 (V)
-  - Code des assurances - art. A331-4 (V)
-  - Code des assurances - art. R134-1 (VD)
-  - Code des assurances - art. R134-6 (VD)
-  - Code des assurances - art. R142-12 (Ab)
-  - Code des assurances - art. R142-5 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. R*332-19 (M)
-  - Code des assurances - art. R*332-20 (M)
-
-
-##### Section II : Documents et registres comptables.<a id=293></a>
-
-###### Article R342-7
-
-Les entreprises doivent tenir notamment les registres, livres ou fichiers ci-après :
-
-a) Un livre-journal général, relié, sur lequel sont reportées les récapitulations périodiques des différentes opérations. Le
-livre-journal est tenu par ordre de dates, sans blanc, lacune ni transport en marge.
-
-b) Un grand-livre général dans lequel sont tenus :
-
-- tous les comptes principaux conformément au chapitre III du présent titre ;
-
-- les autres comptes nécessaires à l'établissement du bilan, du compte d'exploitation et du compte de pertes et profits.
-
-La tenue au grand-livre de tous les comptes divisionnaires ou sous-comptes dérivés d'un même compte de rang supérieur
-dispense d'y ouvrir ce dernier.
-
-La tenue des comptes divisionnaires et celle des sous-comptes nécessaires à l'établissement des états prévus à l'article R.
-342-17 est également obligatoire, sous une forme laissée au libre choix des entreprises.
-
-Les entreprises désireuses de pousser leurs écritures au-delà de ces comptes obligatoires doivent utiliser les sous-comptes
-définis au chapitre III du présent titre, avec leur numéro et intitulé.
-
-c) Un livre des balances trimestrielles de vérification donnant au dernier jour de chaque trimestre civil la récapitulation
-des soldes de tous les comptes ouverts au grand-livre général ; chaque balance doit être arrêtée dans les trois mois suivant
-ce jour.
-
-d) Un livre relié des inventaires annuels, sur lequel sont transcrits les résultats de ceux-ci.
-
-e) Un dossier des opérations d'inventaire réunissant les documents justificatifs des chiffres d'inventaire, du bilan, du
-compte d'exploitation et du compte de pertes et profits, ou les références permettant de retrouver immédiatement ces
-documents.
-
-f) Un ou plusieurs livres de caisse donnant le solde en caisse journalier, le dépouillement et la classification des entrées
-et des sorties.
-
-g) Des livres de banques et de chèques postaux tenus comme les livres de caisse.
-
-h) Des relevés journaliers du montant des avoirs de trésorerie :
-
-caisse, banques et chèques postaux.
-
-Le livre de caisse, les livres de banques et de chèques postaux donnent les totaux par mois et la récapitulation depuis le
-début de l'exercice. Ils peuvent être tenus en un seul document.
-
-Les données des registres auxiliaires ou des documents en tenant lieu doivent être récapitulées périodiquement et au moins
-une fois par mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-723 du 26 juillet 1991 - art. 2 () JORF 28 juillet 1991
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. R342-17 (M)
-
-
-###### Article R342-8
-
-Les titres mobiliers, immeubles et prêts font l'objet d'un inventaire permanent qui repose sur la tenue de relevés
-individuels et de registres des mouvements.
-
-a) Les relevés individuels sont établis, dans l'ordre prévu au plan comptable, sur un registre ou sur des fiches ; à chaque
-intitulé de valeurs est réservé un feuillet ou une fiche.
-
-Les indications à y porter sont :
-
-- pour les valeurs mobilières : la désignation du titre, les dates d'entrée ou de sortie, le nombre des titres achetés,
-vendus ou remboursés, les soldes en nombre, les prix d'achat nets des frais d'acquisition, les prix de vente ou de
-remboursement, les prix de sortie, les soldes en valeur ainsi que la date de livraison des titres et celle du règlement
-financier. Les numéros des titres peuvent être reproduits soit sur le relevé, soit sur un inventaire séparé. Les inscriptions
-doivent être faites le lendemain au plus tard de la réception de l'avis d'achat ou de vente délivré par l'intermédiaire ou de
-l'accord de la contrepartie, et, pour les remboursements sur annuités ou sur titres, au plus tard, le lendemain de
-l'encaissement ;
-
-- pour les immeubles : la date des opérations ; à l'entrée, les sommes effectivement versées ventilées s'il y a lieu en
-paiements en principal et frais d'acquisition ; à chaque inventaire, les amortissements correspondants ; à la vente, le prix
-de vente et les sommes effectivement encaissées. Le feuillet ou la fiche est créé dès la signature de l'acte d'achat ou de
-promesse d'achat ou dès le prononcé de l'adjudication. Les promesses de vente sont mentionnées dès la naissance des
-engagements ;
-
-- pour les prêts : la désignation du placement, la date et le prix d'entrée, le taux d'intérêt, la date de paiement des
-intérêts, la date du remboursement total ou des échéances des remboursements partiels ainsi que, pour les prêts
-hypothécaires, la valeur du gage au jour de la conclusion du prêt. Le montant des remboursements est inscrit au plus tard le
-lendemain de leur encaissement. En cas de retard de plus de trois mois dans les paiements stipulés, mention en est portée sur
-le feuillet ou la fiche ;
-
-- pour les valeurs remises par les réassureurs ou par d'autres personnes physiques ou morales : en plus des indications
-analogues, le nom du déposant ;
-
-- pour les valeurs qui ne sont pas au siège social de l'entreprise : le lieu de dépôt.
-
-Les placements affectés par l'entreprise à la représentation des provisions mathématiques de rentes constituées en accidents
-du travail font l'objet d'une mention spéciale.
-
-b) Les mouvements sont transcrits sur un ou plusieurs registres ; il est tenu un relevé distinct par catégorie de valeurs
-immobilisées ou de comptes financiers faisant l'objet d'un compte principal du plan comptable. Ces transcriptions sont
-passées sans délai ; toutefois celles afférentes aux placements autres que les valeurs mobilières peuvent n'être portées qu'à
-la fin de chaque mois. Pour chaque opération sont mentionnés la date, le nombre et la désignation des valeurs et le montant
-soit de l'entrée soit de la sortie ; le solde des valeurs doit pouvoir être déterminé à toute époque et doit être
-effectivement tiré au moins une fois par mois. Les achats et les ventes d'immeubles sont portés dès l'existence des
-engagements ; les promesses d'achats ou de ventes, les achats et ventes subordonnés à une condition non encore réalisée sont
-mentionnés pour mémoire.
-
-En outre un registre relié, tenu par ordre de dates, reçoit mensuellement le report des soldes des divers comptes et celui
-des écritures d'ordre, les promesses d'achat ou de vente étant réinscrites chaque mois jusqu'à extinction des engagements ;
-les reports sont visés, pour certification, mensuellement par le directeur et au moins trimestriellement par le président du
-conseil d'administration ou, dans le cas mentionné par l'article 118 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales, par le président du directoire ou le directeur général unique.
-
-c) Les entreprises qui tiennent un registre des "entrées de valeurs" et un registre des "sorties de valeurs" permettant de
-tenir constamment à jour un compte "Placements en cours de règlement" ne sont pas astreintes à porter les placements non
-encore réglés sur les fiches ni dans les comptes prévus aux a et b ci-dessus. Le solde du compte "Placements en cours de
-règlement" est inscrit mensuellement sur le registre des mouvements.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 art. 118
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 8
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-
-##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=294></a>
-
-###### Article R342-9
-
-Les entreprises doivent soit délivrer les polices sous un numérotage continu pouvant comprendre plusieurs séries, sans
-omission ni double emploi, les avenants successifs étant rattachés à la police d'origine, soit affecter aux assurés ou
-sociétaires des numéros continus répondant aux mêmes exigences.
-
-Les informations relatives à ces documents doivent être à tout moment d'un accès facile et comporter au moins les éléments
-suivants :
-
-- soit numéro de la police ou de l'avenant, soit numéro de l'assuré ou du sociétaire avec toutes les polices ou avenants le
-concernant ;
-
-- date de souscription, durée du contrat ;
-
-- nom du souscripteur, de l'assuré ;
-
-- éventuellement nom ou code de l'intermédiaire ;
-
-- date et heure de la prise d'effet stipulée au contrat ;
-
-- date et motif de la sortie éventuelle ;
-
-- monnaie dans laquelle le contrat est libellé ;
-
-- catégories et sous-catégories d'assurance définies par arrêté ministériel ;
-
-- montant des limites de garantie, du capital ou de la rente assurée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 9
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-
-###### Article R342-10
-
-Sauf pour les opérations d'assurance maladie et marchandises transportées, les événements, les sinistres faisant jouer ou
-susceptibles de faire jouer au moins une des garanties prévues au contrat, ou les sorties sont enregistrés dès qu'ils sont
-connus sous un numérotage continu pouvant comprendre plusieurs séries. Cet enregistrement est effectué par exercice de
-survenance ou, en transports, par exercice de souscription. Il comporte les renseignements suivants : date et numéro de
-l'enregistrement, numéro de police, nom de l'assuré, date de l'événement. Il doit en être établi au moins une fois par mois
-une liste à lecture directe.
-
-Par ailleurs les informations suivantes doivent être portées sur un document pouvant être facilement consulté : numéro de
-l'enregistrement, numéro de la police et désignation du bureau décentralisé, de l'agence, du courtier ou du courtier-juré
-dont dépend la police, nom de l'assuré, date de survenance de l'événement, catégories ou sous-catégories de la garantie ou
-des garanties mises en jeu, nature de l'événement ou du sinistre ou motif de la sortie, désignation des victimes,
-bénéficiaires ou adversaires, monnaie dans laquelle est libellé le contrat, première estimation et, sauf dans le cas où la
-société est réglementairement dispensée de la méthode dossier par dossier, évaluations successives des sommes à payer,
-mention des réclamations en justice, date et montant des paiements effectués (les sommes payées étant ventilées en principal
-et en frais accessoires), date et montant des recours et sauvetages perçus, évaluations successives des sommes à recouvrer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 10
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. A342-1 (Ab)
-  - Code des assurances - art. A342-2 (Ab)
-  - Code des assurances - art. R342-11 (Ab)
-
-
-###### Article R342-11
-
-Pour chaque catégorie ou groupe de sous-catégories donnant lieu à l'établissement d'un état B.10, B.10 simplifié, B.10 bis ou
-B.10 ter institué par l'article R. 342-17, sauf pour les sous-catégories maladie et marchandises transportées, les sinistres
-survenus dans l'exercice inventorié sont portés sur une liste à lecture directe indiquant, outre le numéro d'enregistrement
-prévu à l'article R. 342-10, les éléments suivants :
-
-- sommes payées au cours de l'exercice ;
-
-- éventuellement évaluation des sommes restant à payer, sauf dans le cas où l'entreprise est réglementairement dispensée de
-la méthode dossier par dossier, ainsi que les totaux desdits éléments.
-
-Les sinistres survenus au cours des exercices antérieurs et qui n'étaient pas réglés à la fin de l'exercice précédent font
-l'objet de listes analogues comportant, en outre, les évaluations à la fin de l'exercice précédent.
-
-Les recours ou sauvetages donnent lieu à un traitement parallèle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°87-109 du 17 février 1987 - art. 3 () JORF 20 février 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. R342-10 (Ab)
-  - Code des assurances - art. R342-17 (M)
-
-
-###### Article R342-12
-
-Les traités de réassurance, acceptations, d'une part, cessions et rétrocessions, d'autre part, sont enregistrés par ordre
-chronologique avec les indications suivantes :
-
-- numéro d'ordre du traité ;
-
-- date de signature ;
-
-- date d'effet ;
-
-- durée ;
-
-- nom du cédant, du cessionnaire ou du rétrocessionnaire ;
-
-- nature des risques objet du traité ;
-
-- date à laquelle l'effet prend fin ;
-
-- nature du traité.
-
-Les registres peuvent être tenus à feuillets mobiles.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 12
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-
-##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance.<a id=295></a>
-
-###### Article R342-13
-
-Les opérations de coassurance effectuées par une entreprise, directement ou par l'intermédiaire d'un groupement ou d'une
-association d'entreprises, doivent, pour la quote-part souscrite, être comptabilisées comme des opérations d'assurance
-directe et sont soumises à toutes les règles applicables à ces dernières.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 13
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. R342-15 (Ab)
-
-
-###### Article R342-14
-
-Les entreprises qui participent, à l'intérieur d'organismes communs, à des opérations de compensation, de répartition ou de
-coréassurance doivent comptabiliser en assurances directes l'intégralité des affaires souscrites directement par elles.
-
-Lorsque l'intérêt d'une entreprise dans la répartition des affaires centralisées par l'association est supérieur à 20 p. 100,
-cette entreprise doit comptabiliser la part non conservée par elle sur ses propres souscriptions comme cessions d'affaires
-directes et enregistrer la part qui lui revient dans les affaires apportées à l'association par les autres entreprises
-adhérentes comme acceptations. Toutefois elle peut, avec l'accord du commissaire-contrôleur accrédité auprès d'elle, utiliser
-toute autre méthode évitant la duplication des primes.
-
-Lorsque son intérêt est inférieur à 20 p. 100, l'entreprise peut comptabiliser l'intégralité de ses propres souscriptions en
-cessions d'affaires directes, puis prendre en acceptations sa quote-part de l'ensemble des affaires regroupées par
-l'association. Elle peut aussi adopter toute autre méthode approuvée par le commissaire-contrôleur.    Les entreprises
-doivent être en mesure de justifier les résultats du groupement ou de l'association.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 14
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. R342-15 (Ab)
-
-
-###### Article R342-15
-
-Les groupements ou associations de coassurance ou de coréassurance ne peuvent réunir que des entreprises d'assurance agréées
-et éventuellement des entreprises de réassurance.
-
-Ils peuvent prendre l'engagement envers la commission de contrôle des assurances ainsi qu'envers chacun de leurs adhérents de
-se soumettre au contrôle institué par l'article L. 310-1 ; de tenir une comptabilité conforme aux règles posées par le
-présent chapitre ; de calculer conformément aux prescriptions réglementaires les provisions techniques des affaires gérées ;
-d'adresser annuellement à la commission de contrôle des assurances et aux entreprises adhérentes un compte d'exploitation
-générale et un compte général de pertes et profits conformes aux comptes 80 et 87, ainsi qu'un état modèle B.10, B.10
-simplifié, B.10 bis ou B.10 ter, avec indication des pourcentages afférents à chaque entreprise adhérente, ainsi que tous
-autres documents nécessaires au contrôle des opérations de coassurance ou de coréassurance qui pourraient être demandés par
-la commission de contrôle des assurances.
-
-Lorsque ces conditions sont remplies, les entreprises adhérentes sont, par dérogation aux articles R. 342-13 et R. 342-14,
-dispensées de fournir à la commission de contrôle des assurances la justification des chiffres qui leur sont indiqués par le
-groupement ou l'association, sauf en ce qui concerne le pourcentage de leur participation.
-
-L'autorisation de bénéficier des dispositions qui précèdent ne peut être retirée que par décision de la commission de
-contrôle des assurances visant la totalité des entreprises adhérentes à un groupement ou à une association. Ce retrait est
-prononcé dès qu'il est établi que le groupement ou l'association n'a pas tenu correctement les engagements qu'il avait pris
-envers le ministre de l'économie et des finances, ou envers ses adhérents, ou se livre à une activité contraire à l'intérêt
-des assurés ou à l'intérêt général.
-
-Si, en outre, le groupement ou l'association apporte des garanties jugées suffisantes par la commission de contrôle des
-assurances, notamment en matière de représentation des engagements techniques, les entreprises adhérentes sont elles-mêmes
-dispensées dans la même mesure de fournir les garanties réglementaires correspondantes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-723 du 26 juillet 1991 - art. 3 () JORF 28 juillet 1991
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. R342-13 (Ab)
-  - Code des assurances - art. R342-14 (Ab)
-
-
-###### Article R342-16
-
-En ce qui concerne les acceptations en réassurance, les entreprises qui enregistrent immédiatement en comptabilité tous les
-éléments reçus de leurs cédants doivent, en l'absence d'informations suffisantes, compenser provisoirement les soldes de tous
-les comptes incomplets d'un même exercice par une écriture d'attente qui sera contrepassée à l'ouverture de l'exercice
-suivant.
-
-En tout état de cause et quel que soit le mode de comptabilisation retenu, lorsque le réassureur non en possession de tous
-les comptes d'un ou plusieurs traités connaît cependant l'existence d'une perte, celle-ci doit être provisionnée pour son
-montant prévisible.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 16
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-
-##### Section V : Comptes rendus à établir et documents à adresser au ministre de l'économie et des finances.<a id=296></a>
-
-###### Article R342-17
-
-Outre les comptes prévus par ailleurs au plan comptable, et notamment :
-
-- le bilan établi selon le compte 89 ;
-
-- le compte d'exploitation générale établi selon le compte 80 ;    - le compte général de pertes et profits établi selon le
-compte 87 ;
-
-- le compte des résultats en instance d'affectation établi selon le compte 88,
-
-les entreprises doivent établir chaque année, dans la forme fixée par arrêté du ministre de l'économie et des finances, les
-états suivants :
-
-A 1 Compte d'exploitation générale par catégories ou sous-catégories.
-
-B 1 bis Gestion française des rentes en assurances dommages, responsabilité civile et risques divers.
-
-B 2 Détail des primes par combinaisons ou sous-catégories.
-
-B 3 Primes et résultats des acceptations et des cessions en réassurance.
-
-B 4 Eléments d'actif représentant les engagements réglementés et les cautionnements et montant de ces engagements et
-cautionnements.
-
-A 5 Liste détaillée des placements.
-
-B 5, état justificatif de la quote-part mentionnée à l'article R. 344-1.
-
-B 6 Sinistres, paiements et provisions à la charge des cessionnaires.
-
-B 7 Avoirs et engagements par monnaie au 31 décembre.
-
-B 8 Compte d'exploitation par zones économiques.
-
-B 9 Primes.
-
-A 10 Primes et sinistres de la catégorie véhicules terrestres à moteur.
-
-B 10, B 10 simplifiés, B 10 bis et B 10 ter Paiements et provisions pour sinistres.
-
-B 11 Marge de solvabilité.
-
-A 20 Mouvement au cours de l'exercice inventorié des polices, capitaux ou rentes assurés (réassurances non déduites).
-
-B 21 Détail par année de souscription des capitaux ou rentes sortis au cours de l'exercice inventorié.
-
-B 22 Analyse du résultat technique de certaines combinaisons.
-
-B 23 Détail des provisions mathématiques pour risques en cours.    B 24 Détail par pays des provisions mathématiques pour
-risques en cours.
-
-A 25 Participation des assurés sur la vie ou des porteurs de contrats de capitalisation aux résultats techniques et
-financiers.    B 26 Etat justificatif de la participation des assurés sur la vie ou des porteurs de contrats de
-capitalisation aux résultats techniques et financiers.
-
-B 27 Etat concernant les opérations de coassurance communautaire.    B 28 Etat concernant le montant des primes réalisées en
-libre prestation de services, sans déduction de réassurance, par Etat membre des communautés européennes et par groupe de
-branches.
-
-Les entreprises doivent ajouter des rubriques à celles des tableaux modèles chaque fois qu'une telle addition est utile à la
-sincérité des comptes rendus ; elles ont la faculté de le faire chaque fois que cela est utile à la clarté de ces comptes.
-Toutefois, les postes complémentaires doivent toujours être présentés comme des subdivisions des rubriques plus générales
-figurant au tableau modèle, et le total de ces postes complémentaires doit toujours être porté sous la rubrique réglementaire
-à laquelle lesdits postes sont rattachés.
-
-Les lignes et les colonnes "néant" peuvent être supprimées.
-
-Les entreprises agréées en vertu de l'article L. 321-1-1 ne sont tenues d'établir que les états suivants :
-
-B 4 : éléments d'actif représentant les engagements réglementés et cautionnements et montant de ces engagements et
-cautionnements ;
-
-A 5 : liste détaillée des placements ;
-
-A 10 : primes et sinistres de la catégorie Véhicules terrestres à moteur ;
-
-B 10, B 10 simplifié, B 10 bis : paiements et provisions pour sinistres ;
-
-B 23 : détail des provisions mathématiques pour risques en cours ;    A 25 : participation des assurés sur la vie ou des
-porteurs de contrats de capitalisation aux résultats techniques et financiers ;    B 26 : état justificatif de la
-participation des assurés sur la vie ou des porteurs de contrats de capitalisation aux résultats techniques et financiers.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cité par_:
-
-  - Décret n°87-109 du 17 février 1987 - art. 2 (V)
-  - Code des assurances - art. A150-3 (Ab)
-  - Code des assurances - art. A332-10 (Ab)
-  - Code des assurances - art. A344-1 (M)
-  - Code des assurances - art. R342-11 (Ab)
-  - Code des assurances - art. R342-18 (Ab)
-  - Code des assurances - art. R342-19 (Ab)
-  - Code des assurances - art. R342-20 (Ab)
-  - Code des assurances - art. R342-24 (Ab)
-  - Code des assurances - art. R342-7 (Ab)
-
-_Modifié par_:
-
-  - Décret n°93-470 du 23 mars 1993 - art. 3 () JORF 26 mars 1993
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. L321-1-1 (M)
-  - Code des assurances - art. R344-1 (M)
-
-
-###### Article R342-18
-
-Les entreprises doivent délivrer à toute personne qui en fait la demande, et moyennant paiement d'une somme qui ne peut
-excéder trois francs, un compte rendu annuel comprenant les éléments suivants :
-
-- le compte d'exploitation générale ;
-
-- le compte général des pertes et profits ;
-
-- le compte de répartition et d'affectation des résultats ;
-
-- le bilan complété par un extrait de la classe 0 et par le tableau des renseignements concernant les filiales et les
-participations établi selon le modèle annexé au décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales ;
-
-- les états comptables, financiers ou statistiques dits états A institués par l'article R. 342-17 ;
-
-- sur arrêtés annuels du ministre de l'économie et des finances, une partie ou l'un quelconque, ou plusieurs, ou la totalité
-des états comptables, financiers ou statistiques dits états B institués par l'article R. 342-17. Ces arrêtés ne peuvent être
-pris que pour l'ensemble des entreprises pratiquant une même catégorie ou sous-catégorie d'assurance ; ils doivent être
-publiés au Journal officiel avant le 1er mars de l'année suivant l'exercice auquel ils s'appliquent.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°67-236 1967-03-23
-  - Code des assurances - art. R342-17 (M)
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-723 du 26 juillet 1991 - art. 5 () JORF 28 juillet 1991
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. R342-19 (Ab)
-
-
-###### Article R342-19
-
-Les entreprises doivent adresser le compte rendu annuel mentionné à l'article R. 342-18 à la commission de contrôle des
-assurances en six exemplaires, dans les trente jours qui suivent l'approbation des comptes par l'assemblée générale et au
-plus tard le 1er août de chaque année.
-
-Les entreprises agréées en vertu de l'article L. 321-1-1 doivent communiquer les états mentionnés à l'article R. 342-17 à la
-commission de contrôle des assurances avant le 1er août de l'année suivant l'exercice auquel ils se rapportent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°93-470 du 23 mars 1993 - art. 4 () JORF 26 mars 1993
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. L321-1-1 (M)
-  - Code des assurances - art. R342-17 (M)
-  - Code des assurances - art. R342-18 (M)
-
-
-###### Article R342-20
-
-Les entreprises remettent à la commission de contrôle des assurances, dans les trente jours qui suivent la réunion de leur
-assemblée générale et au plus tard le 1er août de chaque année, un dossier relatif aux opérations effectuées au cours de
-l'exercice écoulé. Ce dossier est produit en quatre exemplaires.
-
-Il est certifié par le président du conseil d'administration ou le président du directoire ou le directeur général unique
-dans les sociétés anonymes, par le directeur et par le président du conseil d'administration dans les sociétés d'assurance
-mutuelles et leurs unions par le mandataire général ou son représentant légal dans les entreprises étrangères, sous la
-formule suivante : "le présent document, comprenant x feuillets numérotés, est certifié, sous les sanctions prévues à
-l'article L. 328-10 du code des assurances, conforme aux écritures de l'entreprise et aux dispositions du chapitre II du
-titre IV du livre III du même code".
-
-Il comprend :
-
-1° Des renseignements généraux ;
-
-2° Les documents énumérés à l'article R. 342-17.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-723 du 26 juillet 1991 - art. 3 () JORF 28 juillet 1991
-  - Décret n°91-723 du 26 juillet 1991 - art. 7 () JORF 28 juillet 1991
-  - Décret n°91-723 du 26 juillet 1991 - art. 8 () JORF 28 juillet 1991
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. L328-10 (M)
-  - Code des assurances - art. R342-17 (M)
-
-
-###### Article R342-21
-
-Les renseignements généraux du dossier annuel à produire à la commission de contrôle des assurances par les entreprises
-françaises sont les suivants :
-
-a) La raison sociale de l'entreprise, son adresse, la date de sa constitution, les modifications apportées aux statuts en
-cours d'exercice, et, si de telles modifications sont intervenues, un exemplaire à jour des statuts.
-
-b) Les nom, date et lieu de naissance, nationalité et domicile des membres du conseil d'administration ou du directoire et du
-personnel de direction ; les professions des membres du conseil d'administration ou du directoire et les grades ou fonctions
-du personnel de direction.
-
-c) La raison sociale de la société-mère s'il y a lieu, et la liste des filiales.
-
-d) La liste des branches pratiquées en France, l'année du début de l'exploitation et la date des agréments administratifs
-dans les termes de l'article L. 321-1.
-
-e) La liste des pays où l'entreprise exerce en régime d'établissement et des branches qu'elle y pratique, la date de
-l'agrément pour les autorités de contrôle de ces pays si cet agrément existe, et l'année du début de l'exploitation.
-
-e bis) La liste des pays où l'entreprise exerce en libre prestation de services et des branches qu'elle y pratique ; la date
-d'accusé de réception par les autorités de contrôle de ces pays de la déclaration d'intention d'opérer en libre prestation de
-services sur leur territoire ou la date de l'agrément délivré par ces mêmes autorités, lorsqu'elles soumettent les opérations
-correspondantes à agrément.
-
-f) Un tableau indiquant les ventes et les achats de portefeuilles de contrats effectués au cours de l'exercice, les
-modifications apportées aux branches exploitées en France et dans les autres pays ou territoires.
-
-g) [*paragraphe abrogé*].
-
-h) Les obligations et les autres emprunts émis au cours de l'exercice, les remboursements et amortissements effectués.
-
-i) La liste des personnes physiques ou morales qui se sont portées caution pour l'entreprise.
-
-j) Le rapport du conseil d'administration ou ceux du directoire et du conseil de surveillance et les rapports des
-commissaires de surveillance à l'assemblée des actionnaires ou associés.
-
-k) Une déclaration aux termes de laquelle l'entreprise ne s'est portée caution pour aucune personne physique ou morale, ou,
-dans le cas contraire, le nom des personnes pour lesquelles l'entreprise s'est portée caution, et le montant des engagements
-garantis ; une déclaration aux termes de laquelle l'entreprise n'a pris aucun engagement de vente ou d'achat à terme et n'a
-signé aucune promesse d'achat ou de vente, ou, dans le cas contraire, la déclaration du montant des engagements de cette
-nature souscrits restant en cours au 31 décembre.
-
-l) Une déclaration analogue concernant les cas de coassurance et de coréassurance comportant solidarité entre les assureurs
-ou les réassureurs.
-
-m) Un tableau indiquant les modifications apportées au cours de l'exercice :
-
-- au capital social (versements, appels, augmentations ou réductions, remboursements) ;
-
-- au fonds d'établissement, aux amortissements réalisés sur l'emprunt pour fonds d'établissement.
-
-n) Un tableau indiquant l'effectif, au dernier jour de l'exercice, du personnel salarié de l'entreprise en France, ventilé en
-"personnel de direction et cadres", "inspecteurs du cadre", "agents de maîtrise", "employés", "autres producteurs salariés",
-"total du personnel salarié en France", l'effectif du personnel salarié employé à l'étranger, le total du personnel salarié,
-ainsi que le nombre d'agents généraux en France.
-
-o) Pour les entreprises pratiquant les opérations mentionnées au 18 de l'article R. 321-1, un état complémentaire indiquant
-les moyens techniques en personnels et matériels, y compris la qualification des équipes médicales et la qualité des
-équipements, dont dispose l'entreprise concernée, par elle-même ou par personne interposée, pour faire face à ses
-engagements.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°93-470 du 23 mars 1993 - art. 5 () JORF 26 mars 1993
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. L310-5 (M)
-  - Code des assurances - art. L321-1 (M)
-  - Code des assurances L310-5, L321-1, R321-1
-
-
-###### Article R342-22
-
-Les renseignements généraux du dossier annuel à produire à la commission de contrôle des assurances par les entreprises
-étrangères agréées en France sont les suivants :
-
-a) La raison sociale de l'entreprise, la date de sa constitution, l'adresse de son siège social et de son siège spécial pour
-la France, et s'il y a lieu, la date d'agrément spécial dans les termes de l'article L. 321-2.
-
-b) Les nom, domicile, nationalité et profession des membres du conseil d'administration, des directeurs et du mandataire
-général ou de son représentant légal ; la date de l'acceptation du mandataire général.
-
-c) La raison sociale de la société-mère s'il y a lieu, et la liste des filiales.
-
-d) Un tableau indiquant les modifications apportées au cours de l'exercice au capital social et aux fonds sociaux.
-
-e) Un bilan et un compte de pertes et profits pour l'ensemble des opérations.
-
-En outre, les renseignements suivants doivent être fournis en ce qui concerne les opérations effectuées par le siège spécial
-pour la France :
-
-f) La liste des branches exploitées, l'année du début de l'exploitation et la date des agréments administratifs dans les
-termes de l'article L. 321-1.
-
-f bis) En ce qui concerne les succursales d'entreprises dont le siège social est établi sur le territoire d'un autre Etat
-membre de la Communauté économique européenne, la liste des pays où l'entreprise exerce en libre prestation de services et
-des branches qu'elle y pratique ; la date d'accusé de réception par les autorités de contrôle de ces pays de la déclaration
-d'intention d'opérer en libre prestation de services sur leur territoire ou la date de l'agrément délivré par ces mêmes
-autorités, lorsqu'elles soumettent les opérations correspondantes à agrément.
-
-g) Un tableau indiquant les ventes et les achats de portefeuilles de contrats effectués au cours de l'exercice, les
-modifications aux branches exploitées sur le territoire de la République française.
-
-h) [*paragraphe abrogé*].
-
-i) Les obligations et les autres emprunts émis au cours de l'exercice, les remboursements et les amortissements effectués.
-
-j) La liste des personnes physiques ou morales qui se sont portées caution pour l'entreprise.
-
-k) Une déclaration aux termes de laquelle l'entreprise ne s'est portée caution pour aucune personne physique ou morale ou,
-dans le cas contraire, le nom des personnes pour lesquelles l'entreprise s'est portée caution et le montant des engagements
-garantis ; une déclaration aux termes de laquelle l'entreprise n'a pris aucun engagement de vente ou d'achat à terme et n'a
-signé aucune promesse d'achat ou de vente, ou, dans le cas contraire, la déclaration du montant des engagements de cette
-nature souscrits restant en cours au 31 décembre.
-
-l) Une déclaration relative aux engagements pris par l'entreprise si celle-ci pratique des opérations de coassurance ou de
-coréassurance comportant solidarité entre les assureurs ou les réassureurs.
-
-m) Un tableau indiquant l'effectif, au dernier jour de l'exercice, du personnel salarié de l'entreprise en France, ventilé en
-"personnel de direction et cadres", "inspecteurs du cadre", "agents de maîtrise", "employés", "autres producteurs salariés",
-"total du personnel salarié en France", ainsi que le nombre d'agents généraux en France.
-
-n) Pour les entreprises pratiquant les opérations mentionnées au 18 de l'article R. 321-1, un état complémentaire indiquant
-les moyens techniques en personnels et matériels, y compris la qualification des équipes médicales et la qualité des
-équipements, dont dispose l'entreprise concernée, par elle-même ou par personne interposée, pour faire face à ses
-engagements.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°93-470 du 23 mars 1993 - art. 5 () JORF 26 mars 1993
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. L310-5 (M)
-  - Code des assurances - art. L321-1 (M)
-  - Code des assurances - art. L321-2 (M)
-  - Code des assurances L310-5, L321-1, L321-2, R321-1
-
-
-###### Article R342-23
-
-Les entreprises doivent adresser trimestriellement à la commission de contrôle des assurances un état abrégé de
-représentation des provisions techniques dont le modèle et les conditions de production sont fixés par arrêté.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-723 du 26 juillet 1991 - art. 3 () JORF 28 juillet 1991
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. A344-10 (V)
-  - TXT_SOURCE: Code des assurances - art. A344-12 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-13 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-15 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
-  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
-  - TXT_ASSOCIE: Code des assurances - art. A344-8 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-8 (V)
-  - TXT_SOURCE: Code des assurances - art. A344-9 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. A344-8 (M)
-  - Code des assurances - art. R342-1 (Ab)
-
-
-###### Article R342-24
-
-Les entreprises doivent tenir à la disposition des commissaires contrôleurs accrédités auprès d'elles, quinze jours au moins
-avant la réunion de l'assemblée générale chargée de statuer sur l'approbation des comptes, tous les éléments comptables et
-statistiques nécessaires à l'établissement des états A 1, B 10, B 10 simplifiés, B 10 bis et B 10 ter prévus à l'article R.
-342-17.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°87-109 du 17 février 1987 - art. 3 () JORF 20 février 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. R342-17 (M)
-
-
-###### Article R342-25
-
-Pour la branche automobile, les entreprises doivent adresser à la commission de contrôle des assurances, au plus tard le 31
-mars de chaque année, des états provisoires B 10, B 10 simplifiés et B 10 bis relatifs aux opérations réalisées au cours du
-précédent exercice, établis dans la forme fixée à l'article A. 344-6.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-723 du 26 juillet 1991 - art. 3 () JORF 28 juillet 1991
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. A344-6 (Ab)
-
-_Cité par_:
-
-  - Code des assurances - art. R342-1 (Ab)
-
-
-#### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation<a id=297></a>
-
-##### Section I : Le cadre comptable.<a id=298></a>
-
-###### Article R343-1
-
-Les classes du cadre comptable sont numérotées de 1 à 8 et 0. Chaque classe comporte des comptes principaux (dont le deuxième
-chiffre est numéroté de 0 à 9). Les comptes principaux sont eux-mêmes subdivisés en comptes divisionnaires (trois chiffres) à
-leur tour ventilés en sous-comptes (quatre chiffres dont le dernier est également numéroté de 0 à 9). Les chiffres qui
-codifient les comptes se lisent toujours à partir de la gauche.
-
-Les classes du cadre comptable sont aménagées de manière à séparer :
-
-Les comptes du bilan (classes 1 à 5).
-
-Les comptes de gestion (classes 6 et 7).
-
-Les comptes de résultats (classe 8).
-
-Les comptes spéciaux (classe 0).
-
-A cet effet, elles se présentent ainsi :
-
-1. - Comptes de capitaux permanents.
-
-2. - Comptes de valeurs immobilisées.
-
-3. - Comptes de provisions techniques.
-
-4. - Comptes de tiers.
-
-5. - Comptes financiers.
-
-6. - Comptes de charges par nature.
-
-7. - Comptes de produits par nature.
-
-8. - Comptes de résultats.
-
-0. - Comptes spéciaux.
-
-Les éléments constitutifs des coûts et résultats font l'objet d'états ou tableaux annexes fixés par arrêté.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 annexe
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cité par_:
-
-  - Code des assurances - art. R343-2 (Ab)
-
-
-##### Section II : Liste des comptes<a id=299></a>
-
-##### Classe 7.<a id=300></a>
+##### Classe 8.<a id=293></a>
 
 ###### Article R343-2
 
-Comptes de produits par nature.
+Comptes de résultats.
 
-70 Primes ou cotisations en France.
+80 Exploitation générale.
 
-701 Primes (affaires directes vie).
+82 Pertes et profits sur exercices antérieurs.
 
-7010 Primes périodiques émises.
+820 Pertes sur exercices antérieurs.
 
-7011 Primes uniques émises.
+8202 Rappels d'impôts.
 
-7013 Coûts de polices et accessoires.
+8206 Charges diverses imputables à l'exploitation des exercices antérieurs.
 
-7019 Annulations.
+822 Profits sur exercices antérieurs.
 
-70190 Sur émissions de l'exercice.
+8220 Rentrées sur créances amorties.
 
-70191 Sur émissions des exercices antérieurs.
+8222 Dégrèvements d'impôts.
 
-702 Primes (affaires directes dommages, RC et risques divers).
+8227 Produits divers imputables à l'exploitation des exercices antérieurs.
 
-7022 Primes émises.
+828 Reprises sur provisions antérieures.
 
-70220 Sur exercice courant.
+829 Utilisation des provisions précédemment constituées pour couvrir des pertes sur exercices antérieurs et des pertes
+exceptionnelles.
 
-70221 Sur exercices antérieurs.
+83 Dotations de l'exercice aux comptes de provisions hors exploitation ou exceptionnelles et de réserves réglementaires.
 
-7023 Coûts de polices et accessoires.
+831 Dotations aux réserves diverses à l'étranger.
 
-70230 Sur exercice courant.
+833 Dotations aux réserves réglementaires.
 
-70231 Sur exercices antérieurs.
+8330 Réserve pour remboursement de l'emprunt pour fonds d'établissement.
 
-7024 Variation de la prévision de primes acquises et non émises.
+8331 Fonds d'établissement constitué.
 
-7025 Rappels de cotisations.
+8334 Réserve pour fluctuations de change.
 
-7026 Autres rappels de primes.
+8335 Réserve de capitalisation.
 
-7029 Annulations.
+8336 Provision pour investissements.
 
-70290 Sur émissions de l'exercice.
+835 Dotations aux provisions pour pertes 
 
-70291 Sur émissions des exercices antérieurs.
+8356 Provision pour participation des salariés aux fruits de l'expansion.
 
-703 Primes (autres affaires : opérations non régies par l'article L. 310-1).
+839 Dotations aux provisions pour dépréciation.
 
-7030 Primes périodiques émises.
+8391 Sur immeubles en France.
 
-7031 Primes uniques émises.
+8392 Sur obligations en France.
 
-7033 Coûts de polices et accessoires.
+8393 Sur actions en France.
 
-7039 Annulations.
+8396 Sur créances diverses en France.
 
-70390 Sur émissions de l'exercice.
+8399 Etranger.
 
-70391 Sur émissions des exercices antérieurs.
+84 Pertes et profits exceptionnels.
 
-704 Primes (acceptations vie).
+840 Moins-values sur cessions d'éléments d'actif.
 
-7040 Primes.
+8400 France.
 
-7048 Entrées de portefeuille.
+8409 Etranger.
 
-7049 Retraits de portefeuille.
+841 Pertes de change.
 
-705 Primes (acceptations dommages, RC et risques divers). 
+8411 Pertes sur cessions de monnaies étrangères.
 
-7050 Primes.
+8414 Pertes sur conversion de monnaies étrangères.
 
-7058 Entrées de portefeuille.
+842 Calcul des résultats sur cessions d'éléments d'actif.
 
-7059 Retraits de portefeuille.
+8421 Immobilisations en France.
 
-706 Primes (acceptations autres affaires).
+8422 Immobilisations en cours en France.
 
-7060 Primes.
+8423 Valeurs mobilières détenues en France.
 
-7068 Entrées de portefeuille.
+84232 Obligations.
 
-7069 Retraits de portefeuille.
+84233 Actions.
 
-709 Part des réassureurs dans les primes.
+8425 Titres de participation en France.
 
-7091 Affaires directes vie.
+8427 Valeurs garantissant les engagements envers des institutions de prévoyance ou couvrant les fonds de placements gérés par
+l'entreprise en France.
 
-70910 Primes.
+8428 Valeurs immobilisées à l'étranger.
 
-70918 Entrées de portefeuille.
+8429 Titres de placements non énumérés aux articles R. 332-2 et R. 332-9.
 
-70919 Retraits de portefeuille.
+843 Subventions exceptionnelles accordées.
 
-7092 Affaires directes dommages, RC et risques divers.
+844 Autres pertes exceptionnelles.
 
-70920 Primes.
+8440 Créances irrecouvrables.
 
-70928 Entrées de portefeuille.
+8441 Droits d'entrée.
 
-70929 Retraits de portefeuille.
+8449 Etranger.
 
-7093 Autres affaires.
+845 Plus-values sur cessions d'éléments d'actif.
 
-70930 Primes.
+8450 France.
 
-70938 Entrées de portefeuille.
+8459 Etranger.
 
-70939 Retraits de portefeuille.
+846 Profits de change.
 
-7094 Acceptations vie.
+8461 Profits sur cessions de monnaies étrangères.
 
-70940 Primes.
+8464 Profits sur conversion de monnaies étrangères.
 
-70948 Entrées de portefeuille.
+847 Profits résultant de subventions d'équipement.
 
-70949 Retraits de portefeuille.
+848 Subvention d'équilibre reçues.
 
-7095 Acceptations dommages, RC et risques divers.
+849 Autres profits exceptionnels.
 
-70950 Primes.
+8490 Droits d'adhésion et droits d'entrée en France.
 
-70958 Entrées de portefeuille.
+...
 
-70929 Retraits de portefeuille.
+...
 
-7096 Acceptations autres affaires.
+8499 Etranger.
 
-70960 Primes.
+85 Impôts sur les bénéfices.
 
-70968 Entrées de portefeuille.
+86 Produits et prestations de services échangés entre établissements.
 
-70969 Retraits de portefeuille.
+87 Compte général de pertes et profits.
 
-71 Subventions d'exploitation reçues en France.
+870 Résultat avant participation.
 
-73 Réductions et ristournes de primes en France.
+871 Participation des salariés aux fruits de l'expansion.
 
-74 Ristournes, rabais et remises obtenus en France.
+88 Résultats en instances d'affectation.
 
-75 Commissions et participations reçues des réassureurs en France.
+89 Bilan.
 
-751 Affaires directes vie.
+890 Bilan d'ouverture.
 
-752 Affaires directes dommages, RC et risques divers.
-
-753 Autres affaires.
-
-754 Acceptations vie.
-
-755 Acceptations dommages, RC et risques divers.
-
-756 Acceptations autres affaires.
-
-76 Produits accessoires en France.
-
-760 Produits des services exploités dans l'intérêt du personnel.
-
-7601 Cantines.
-
-7609 Divers.
-
-762 Ventes de déchets.
-
-765 Rémunérations et produits divers.
-
-77 Produits financiers en France.
-
-771 Revenus des immeubles.
-
-773 Revenus des titres de placement.
-
-7731 Revenus des obligations.
-
-7732 Produits des différences sur les prix de remboursement à percevoir.
-
-7735 Revenus des actions.
-
-774 Intérêts des prêts.
-
-7740 Au personnel.
-
-7741 Aux agents.
-
-7742 A des tiers.
-
-775 Revenus des titres de participation.
-
-776 Intérêts des comptes courants et des comptes de dépôts débiteurs, intérêts bancaires.
-
-7760 Comptes courants avec les cessionnaires et rétrocessionnaires.
-
-7761 Comptes courants avec les cédants et rétrocédants.
-
-7764 Autres comptes débiteurs.
-
-7765 Intérêts bancaires.
-
-7767 Dépôts espèces effectués chez les cédants.
-
-7769 Autres dépôts.
-
-777 Jetons de présence, tantièmes, rémunérations d'administrateurs.
-
-778 Autres produits financiers.
-
-779 Ajustement des valeurs affectées à la représentation des opérations d'assurance à capital variable.
-
-78 Travaux faits par l'entreprise pour elle-même. Charges non imputables à l'exploitation de l'exercice, en France.
-
-780 Travaux faits par l'entreprise pour elle-même.
-
-7800 Travaux de l'entreprise pour frais d'établissement (à l'exclusion des frais d'acquisition des contrats).
-
-785 Charges non imputables à l'exploitation de l'exercice.
-
-7850 Charges couvertes par des provisions.
-
-7857 Charges imputables à pertes et profits.
-
-79 Produits par nature à l'étranger.
-
-790 Primes.
-
-7901 Affaires directes vie.
-
-7902 Affaires directes dommages, RC et risques divers.
-
-7904 Acceptations vie.
-
-7905 Acceptations dommages, RC et risques divers.
-
-7909 Part des réassureurs dans les primes.
-
-791 Subventions d'exploitation reçues.
-
-793 Réductions et ristournes de primes.
-
-794 Ristournes, rabais et remises obtenus.
-
-795 Commissions et participations reçues des réassureurs.
-
-796 Produits accessoires.
-
-797 Produits financiers.
-
-7971 Revenus des immeubles.
-
-7973 Revenus des titres de placement.
-
-7974 Intérêts des prêts.
-
-7975 Revenus des titres de participation.
-
-7976 Intérêts des comptes courants et des comptes de dépôts débiteurs, intérêts bancaires.
-
-7977 Jetons de présence, tantièmes, rémunérations d'administrateurs.
-
-7978 Autres produits financiers.
-
-798 Travaux faits par l'entreprise pour elle-même, charges non imputables à l'exploitation de l'exercice.
+891 Bilan de clôture.
 
 **Liens relatifs à cet article**
 
@@ -32998,7 +31484,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-1418 du 28 décembre 1991 - art. 1 () JORF 22 janvier 1992
+  - Décret n°85-460 1985-04-25 art. 1 à art. 10 JORF 30 avril 1985
 
 **Liens**:
 
@@ -33010,1339 +31496,11 @@ _Abrogé par_:
 
 _Cite_:
 
-  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. R*332-2 (M)
+  - Code des assurances - art. R*332-9 (M)
 
 
-##### Section III : Modèles de comptes de résultats et de bilan<a id=301></a>
-
-##### Compte 80.<a id=302></a>
-
-###### Article R343-3
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°85-460 1985-04-25 art. 9 à art. 11 JORF 30 avril 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-
-
-##### Compte 87.<a id=303></a>
-
-###### Article R343-3
-
-Compte général de pertes et profits.
-
-DEBIT.
-
-Pertes d'exploitation de l'exercice : 80.
-
-Pertes sur exercices antérieurs : 820.
-
-Provisions pour moins-values, à la clôture de l'exercice :
-
-- Pour garantie des moins-values sur titres gérés : 150.
-
-- Pour dépréciation des immobilisations et titres : 19.
-
-Dotation de l'exercice aux réserves diverses à l'étranger (à détailler) : 831.
-
-Dotation de l'exercice aux réserves réglementaires :
-
-- Réserve pour remboursement de l'emprunt pour fonds d'établissement : 8330.
-
-- Fonds d'établissement constitué : 8331.
-
-- Réserve pour fluctuations de change : 8334.
-
-- Réserve de capitalisation : 8335.
-
-- Provision pour investissement (participation des salariés) :
-
-8336.
-
-Dotation aux provisions pour pertes :
-
-- Provision pour participation des salariés : 8356.
-
-- Autres provisions pour pertes : 835 moins 8356.
-
-Dotation aux provisions pour dépréciation : 839.
-
-Pertes exceptionnelles :
-
-- Moins-values sur cessions d'éléments d'actif : 840.
-
-Pertes de change :
-
-- Sur cessions de monnaies étrangères : 8411.
-
-- Sur conversion de monnaies étrangères : 8414.
-
-Subventions exceptionnelles accordées : 843.
-
-Autres pertes : 844.
-
-Impôts sur les bénéfices : 85.
-
-Participation des salariés aux fruits de l'expansion : 871.
-
-Bénéfice ou excédent net total (solde créditeur).
-
-Total.
-
-CREDIT.
-
-Profits d'exploitation de l'exercice : 80.
-
-Profits sur exercices antérieurs : 822.
-
-Provisions pour moins-values, à l'ouverture de l'exercice :
-
-Pour garantie des moins-values sur titres gérés : 150.
-
-Pour dépréciation des immobilisations et titres : 19.
-
-Reprise sur provisions antérieures : 828.
-
-Utilisation des provisions précédemment constituées pour couvrir des pertes sur exercices antérieurs et des pertes
-exceptionnelles :
-
-829.
-
-Profits exceptionnels :
-
-Plus-values sur cessions d'éléments d'actif : 845.
-
-Profits de change :
-
-- Sur cession de monnaies étrangères : 8461.
-
-- Sur conversion de monnaies étrangères : 8464.
-
-Profits résultant de subventions d'équipement : 847.
-
-Subventions d'équilibre reçues : 848.
-
-Autres profits : 849.
-
-Perte ou insuffisance nette totale (solde débiteur).
-
-Total.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°85-460 1985-04-25 art. 9 à art. 11 JORF 30 avril 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-
-##### Compte 88.<a id=304></a>
-
-###### Article R343-3
-
-Résultats en instance d'affectation.
-
-DEBIT.
-
-- Report à nouveau de l'exercice précédent.
-
-- Pertes de l'exercice.
-
-- Dividendes.
-
-- Tantièmes.
-
-- Affectation à la réserve pour plus-values réinvesties et à réinvestir, et plus-values à long terme ....
-
-- Affectation aux autres réserves (à détailler).
-
-- Autres répartitions (à détailler).
-
-- Report à nouveau (bénéfice).
-
-Total ....
-
-CREDIT.
-
-- Report à nouveau de l'exercice précédent.
-
-- Bénéfice de l'exercice.
-
-- Prélèvement sur les réserves (à détailler).
-
-- Report à nouveau (perte).
-
-Total ....
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 annexe
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-
-##### Compte 89 - Bilan - Actif.<a id=305></a>
-
-###### Article R343-3
-
-Montant brut.
-
-Amortissements et provisions pour dépréciation.
-
-Montant net.
-
-20. Frais d'établissement et de développement en France :
-
-- Frais d'établissement (200 à 203, 205 et 206).
-
-- Frais d'acquisition des immobilisations (204 et 209).
-
-Total des frais d'établissement en France.
-
-21 et 22. Immobilisations en France :
-
-- Immeubles (210, 212, 213, 2190, 2192 et 2193).
-
-- Matériel, mobilier, installation (214, 215 et 216).
-
-- Immobilisations incorporelles (218 et 2198).
-
-- Immobilisations en cours (22).
-
-23 à 27. Autres valeurs immobilisées en France :
-
-- Valeurs mobilières admises en représentation des provisions techniques (autres que les titres de participation) (23).
-
-Prêts et effets assimilés admis en représentation des provisions techniques (24).
-
-Titres de participation (25).
-
-Dépôts et cautionnements (26).
-
-Valeurs garantissant les engagements envers les institutions de prévoyance ou couvrant les fonds de placement gérés par
-l'entreprise (27).
-
-28. Valeurs immobilisées à l'étranger.
-
-A déduire : versements à effectuer sur titres non libérés (4611 à 4618).
-
-Provision pour dépréciation des immobilisations et titres (192 et 197).
-
-Total des valeurs immobilisées nettes.
-
-39. Part des cessionnaires et rétrocessionnaires dans les provisions techniques :
-
-Primes (3910, 3920, 3930, 3940, 3950, 3960, 39810, 39820, 39840, 39850).
-
-Sinistres (3915, 3925, 3935, 3945, 3955, 3965, 39815, 39825, 39845, 39855).
-
-Total de la part des cessionnaires dans les provisions techniques.
-
-4 et 5. Valeurs réalisables à court terme ou disponibles :
-
-Comptes courants des cessionnaires ou rétrocessionnaires débiteurs (4000).
-
-Comptes courants des cédants et rétrocédants débiteurs (4040).
-
-Comptes courants des coassureurs débiteurs (4080).
-
-Créances sur les assurés et les agents (41).
-
-Personnel (42).
-
-Etat (43).
-
-Actionnaires (44).
-
-Filiales (45).
-
-Débiteurs divers (46).
-
-Comptes de régularisation (48).
-
-Comptes d'attente et à régulariser (49).
-
-Prêts non admis en représentation des provisions techniques (51).
-
-Effets à recevoir (53).
-
-Chèques et coupons à encaisser (54).
-
-Titres de placement divers (55 moins 4619 et moins 195).
-
-Banques et chèques postaux (56).
-
-Caisse (57).
-
-Total des comptes de tiers et des comptes financiers.
-
-17. Compte avec le siège social (créances).
-
-87. Résultats (perte de l'exercice).
-
-Total général.
-
-06. Valeurs reçues en nantissement des cessionnaires et rétrocessionnaires.
-
-07. Valeurs appartenant à des institutions de prévoyance régies par l'article L. 4 du code de la sécurité sociale.
-
-08. Valeurs remises par des organismes réassurés avec caution solidaire ou avec substitution.
-
-09. Autres valeurs détenues par l'entreprise.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°85-460 1985-04-25 art. 9 à art. 11 JORF 30 avril 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code de la sécurité sociale L4
-
-
-##### Compte 89 - Bilan - Passif.<a id=306></a>
-
-###### Article R343-3
-
-10. Capital social ou fonds d'établissement :
-
-- Capital social (100).
-
-Capital appelé (1000).
-
-Capital non appelé (1001).
-
-- Fonds d'établissement (101).
-
-Fonds constitué (1010).
-
-Part restant à rembourser de l'emprunt (1016) (1).
-
-- Fonds social complémentaire (102) (1).
-
-11. Réserves :
-
-- Primes d'émission (110).
-
-- Réserves statutaires (112).
-
-- Réserve des plus-values nettes à long terme (113).
-
-- Réserves provenant de subventions d'équipement (114).
-
-- Réserves pour plus-values réinvesties, à réinvestir et divers (115).
-
-- Réserves de renouvellement des immobilisations (116).
-
-- Réserves spéciales de réévaluation (118).
-
-- Réserves pour cautionnements (119).
-
-13. Réserves réglementées :
-
-- Réserve pour remboursement de l'emprunt pour fonds d'établissement (130).
-
-- Réserve pour fluctuations de change (134).
-
-- Réserve de capitalisation (135).
-
-- Provision pour investissement (participation des salariés) (136).
-
-12. Report à nouveau.
-
-Total des capitaux propres et réserves.
-
-14. Subventions d'équipement reçues.
-
-15. Provisions pour pertes et charges :
-
-- Provision pour participation des salariés aux fruits de l'expansion (156).
-
-- Autres provisions pour pertes et charges (15 moins 156).
-
-16 et 18. Dettes à long et moyen terme :
-
-- Emprunts et autres dettes à plus d'un an (16).
-
-- Dettes pour espèces remises par les cessionnaires et rétrocessionnaires (18).
-
-Total des subventions, provisions pour pertes et charges et dettes à long et moyen terme.
-
-31 à 38. Provisions techniques :
-
-- Primes (310, 320, 330, 340, 350, 360, 3810, 3820, 3840, 3850).
-
-- Sinistres (315, 3250 à 3258, 335, 345, 355, 365, 3825, 3845, 3855).
-
-- Moins : prévision de recours à encaisser (3259).
-
-- Engagements envers les institutions de prévoyance ou relatifs aux fonds de placement gérés par l'entreprise (37).
-
-Total des provisions techniques.
-
-4 et 5. Dettes à court terme :
-
-- Comptes courants des cessionnaires et rétrocessionnaires créditeurs (4001).
-
-- Comptes courants des cédants et rétrocédants créditeurs (4041).
-
-- Comptes courants des coassureurs créditeurs (4081).
-
-(1) Emprunts mentionnés à l'article R. 334-2.
-
-Comptes des agents et assurés créditeurs (41) (1).
-
-Personnel (42) (1).
-
-Etat (43) (1).
-
-Actionnaires (44) (1).
-
-Filiales (45) (1).
-
-Créditeurs divers (4600, 4601, 4603, 4604, 462 à 468) (1).
-
-Comptes de régularisation (47).
-
-Comptes d'attente et à régulariser (49).
-
-Emprunts à moins d'un an (50).
-
-Effets à payer (52).
-
-Total des dettes à court terme.
-
-17. Compte avec le siège social (dettes).
-
-57. Résultats (excédent avant affectation).
-
-Total général.
-
-06. Engagements de restitution des valeurs reçues en nantissement des cessionnaires et rétrocessionnaires.
-
-07. Engagements de restitution des valeurs détenues appartenant à des institutions de prévoyance régies par l'article L. 4 du
-code de la sécurité sociale.
-
-08. Engagements de restitution des autres valeurs remises par des organismes réassurés avec caution solidaire ou avec
-substitution.
-
-09. Engagements de restitution des autres valeurs détenues appartenant à des tiers.
-
-**Nota:**
-
-(1) Total des comptes divisionnaires ou sous-comptes dont le solde est créditeur. Certains comptes figurant à la fois à
-l'actif et au passif, leurs soldes pouvant être soit débiteurs, soit créditeurs (418,428,438,445,446,450,455,462 à 468). 
-
-D'autres comptes se balancent et n'ont pas figurer au bilan (59...).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°85-460 1985-04-25 art. 9 à art. 11 JORF 30 avril 1985
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 du 8 juin 1994 - art. 2 (V)
-
-_Cite_:
-
-  - Code de la sécurité sociale L4
-  - Code des assurances R334-2
-
-
-##### Section IV : Terminologie explicative et modalités de fonctionnement des comptes.<a id=307></a>
-
-###### Article R343-4
-
-Les entreprises de capitalisation tiennent les mêmes comptes que les entreprises d'assurance sur la vie, en apportant à leurs
-libellés les modifications éventuellement nécessaires.
-
-Classe 1.
-
-Comptes de capitaux permanents. 
-
-Capitaux permanents : Moyens de financement utilisés par l'entreprise de façon permanente et durable, constitués en
-particulier par le capital, les primes d'émission, les bénéfices mis en réserve et les emprunts à long ou moyen terme, les
-réserves ou emprunts pour fonds d'établissement.
-
-10 Capital.
-
-La fraction du capital restant à appeler est portée au crédit du compte 1001 par le débit du compte 441 (actionnaires,
-capital non appelé).
-
-En cas d'appel de capital non libéré, le compte 1001 est débité du montant appelé par le crédit du compte 1000, et
-corrélativement le compte 441 est crédité du même montant par le débit du compte 442, ou s'il y a libération totale et
-immédiate par le débit du compte intéressé de la classe 4 ou de la classe 5.
-
-Dans le cas où l'emprunt pour fonds d'établissement est remboursé par annuités, le compte 1010 (fonds d'établissement
-constitué) est crédité par le débit du compte 8331 d'un montant égal à la partie remboursée de l'emprunt.
-
-Dans les autres cas (remboursement inférieur à l'amortissement de l'année) le compte 1016 (part restant à rembourser de
-l'emprunt) est débité par le crédit du compte 56 (banque), le compte 1010 (fonds d'établissement constitué) est crédité par
-le débit du compte 8331 d'un montant égal à la somme remboursée et le compte 130 (réserve pour remboursement de l'emprunt)
-est crédité par le débit du compte 8330 d'un montant égal à la somme qui, dans l'année, à été amortie sans être remboursée.
-Au terme de l'emprunt le compte 1010 est crédité par le débit du compte 130 tandis que le compte 1016 est soldé par le compte
-56.
-
-11 Réserves.
-
-Le compte 110 est utilisé pour enregistrer les primes d'apports et les primes de fusion.
-
-12 Report à nouveau.
-
-Ce compte fonctionne après décision sur l'affectation des bénéfices ou sur le sort des pertes laissées jusque-là en instance
-au compte 88.
-
-14 Subventions d'équipement reçues.
-
-Le compte 141 est crédité du montant de la subvention par le débit du compte intéressé de la classe 4 ou de la classe 5.
-
-15 Provisions pour pertes et charges.
-
-Le compte 150 (provision pour garantie des moins-values sur titres gérés et figurant en classe zéro) concerne les entreprises
-d'assurance qui gèrent pour le compte de tiers (en particulier des institutions de prévoyance mentionnées au chapitre Ier du
-titre IV du livre IV) des titres appartenant à ceux-ci et qui se sont engagées à répondre de tout ou partie de la
-dépréciation éventuellement subie par ces titres ; dans la mesure où cette garantie entre en jeu, les entreprises d'assurance
-constituent la provision dont il s'agit par le débit du compte 87.
-
-Les autres provisions pour pertes et charges sont créées ou rajustées par le jeu des comptes 68 et 698 lorsqu'elles
-concernent l'exploitation, par le débit du compte 835 lorsqu'elles ne concernent pas l'exploitation ou lorsqu'elles ont un
-caractère exceptionnel, enfin par le jeu des comptes 7850, 828 et 829 lorsque le montant de la provision doit être diminué ou
-annulé.
-
-16 Emprunts et dettes à plus d'un an.
-
-Les titres reçus en cautionnement ne figurent pas dans les classes 2 ou 5 mais à la classe zéro ; ils ne font donc pas
-l'objet d'une contrepartie au compte 168.
-
-17 Comptes de liaison des établissements et succursales.
-
-Pour les entreprises françaises, ce compte est normalement soldé en fin d'exercice.
-
-Pour les entreprises étrangères, il enregistre les écritures qui intéressent le siège social.
-
-19 Provision pour dépréciation des immobilisations et titres.
-
-Les moins-values existant éventuellement à l'inventaire en application des règles d'estimation des placements appartenant aux
-entreprises et conservés par elles font l'objet d'une provision pour dépréciation ; à cet effet le compte 19 est crédité par
-le débit du compte 87.
-
-Classe 2. 
-
-Comptes de valeurs immobilisées. 
-
-Valeurs immobilisées : on entend par "valeurs immobilisées" tous les biens et valeurs destinées à rester durablement sous la
-même forme dans l'entreprise. 
-
-20 Frais d'établissement et de développement en France. 
-
-Les frais d'établissement inscrits aux comptes 200 à 204 peuvent être entièrement amortis dès la première année. 
-
-Du compte 2010 (frais de prospection) sont exclus tous frais d'acquisition des contrats d'assurance qui constituent le compte
-205. 
-
-Les frais d'acquisition des immobilisations (compte 204) comprennent uniquement les droits de mutation, les honoraires de
-notaire, les commissions éventuelles d'intermédiaire et les frais d'acte ; ils ne comprennent pas les honoraires d'architecte
-relatifs à la construction. Cette ventilation des immobilisations en frais d'acquisition et principal n'est obligatoire que
-pour les biens entrant dans le patrimoine à compter de l'entrée en vigueur du plan comptable particulier à l'assurance. 
-
-Les comptes d'amortissement 2008, 2018, 2028, 2038, 2048 et 2068 sont crédités par le débit du compte 680. 
-
-Lorsqu'un des éléments des comptes 2000, 2010 à 2013, 2020, 2030, 2040 à 2047 et 2060 a fait l'objet d'un amortissement
-intégral, la somme correspondante est compensée par le débit de celui des comptes d'amortissement ci-dessus énumérés qui est
-concerné. 
-
-Les frais d'acquisition des contrats précomptés (compte 205) sont régis par la réglementation en vigueur, et notamment
-l'article R. 332-33. Ce compte est débité par le crédit du compte 659. 
-
-Le compte 2058 est crédité par le débit du compte 658 ; il enregistre le cumul des amortissements effectués sur les
-commissions des exercices n'ayant pas encore fait l'objet d'un amortissement intégral ; lorsque l'amortissement des
-commissions d'un exercice est achevé, la fraction correspondante du compte 2058 est compensée par le compte 2050. 
-
-Le compte 209 est, à la clôture de l'exercice, débité (2094) par le crédit du compte 204 et crédité (2098) par le débit de
-2048 ; ces écritures sont contrepassées à l'ouverture de l'exercice suivant. 
-
-21 Immobilisations en France. 
-
-Lorsqu'un terrain non bâti fait l'objet d'une construction, le compte 210 est crédité par le débit du compte 220 ; lors de
-l'achèvement de l'immeuble, le coût de l'ensemble terrain-construction est transféré des débits des comptes 220 et 222 ou 223
-au débit des comptes 212 ou 213. 
-
-Les immobilisations corporelles (comptes 210 à 216 et 2190 à 2193) sont inscrites en comptabilité pour leur coût réel d'achat
-ou pour leur coût réel de production. Les droits de mutation, honoraires ou commissions et frais d'actes versés pour
-l'acquisition des immobilisations corporelles ne sont pas compris dans le coût ; ils sont portés au compte 2040 ou 2042. 
-
-Les parts ou actions non cotées des sociétés immobilières ou des sociétés d'investissements immobiliers sont portées au
-compte 213 (ou au compte 223). Lorsqu'elles sont cotées, elles doivent figurer aux comptes 23 ou 25 selon la proportion du
-capital possédé. Le montant des versements restant à effectuer sur les titres non entièrement libérés est porté au débit du
-compte 2132 et au crédit du compte 4611. 
-
-Le droit au bail fait l'objet du compte 2180 lorsque son acquisition comporte un prix spécifié dans l'acte. 
-
-Les amortissements pratiqués sur les immobilisations du compte 21 sont inscrits dans les sous-comptes à quatre chiffres se
-terminant par 8. Les comptes d'amortissement 2128, 2138, 2158 et 2168 sont crédités des amortissements effectués au cours de
-chaque exercice par le débit du compte 681. 
-
-Les provisions pour dépréciation (sous-comptes à quatre chiffres se terminant par un 9) sont créées par le débit du compte
-839 ; elles sont ajustées par le crédit des comptes 828 et 829 lorsque le montant de la provision doit être diminué ou
-annulé. 
-
-Les immobilisations d'exploitation sont celles affectées aux opérations professionnelles et les immobilisations de placement
-celles affectées à la couverture des engagements de l'entreprise ou constituant l'actif libre. Le compte 219 ne joue que deux
-fois par an ; il est débité à la clôture de l'exercice par le crédit des comptes 210, 212, 213 et 218 ; ces écritures sont
-contrepassées à l'ouverture de l'exercice suivant. 
-
-Lorsque des immobilisations sortent de l'actif, la différence entre la valeur d'actif diminuée des amortissements et le prix
-de cession constitue un profit ou une perte par réalisation qui s'inscrit aux comptes 840 ou 845. 
-
-22 Immobilisations en cours en France. 
-
-Ce compte a pour objet de faire apparaître la valeur des immobilisations non terminées. 
-
-23 Valeurs mobilières et titres assimilés détenus en France et affectables à la représentation des engagements réglementés,
-appartenant à l'entreprise et conservés par elle (autres que les titres de participation). 
-
-Les valeurs mobilières et les parts de fonds communs de placements qui par leur nature peuvent représenter les engagements
-réglementés afférents à des risques concernant des personnes, des biens ou des responsabilités sur le territoire de la
-République française ou pris par des entreprises d'assurance établies en France et couvrant un grand risque au sens de
-l'article L. 351-4, et qui ne sont pas inscrits aux comptes 25, 26 ou 28, sont comptabilisés en 23. Ces titres y figurent
-même si l'entreprise n'en a pas besoin en totalité pour représenter ses engagements réglementés ou si leur montant excède les
-limitations prévues aux articles R. 332-3 et R. 332-3-1. 
-
-Les frais accessoires d'achat (impôts, courtage et commissions) ne sont pas compris dans la valeur d'actif, mais portés au
-débit du compte 675. 
-
-Le montant versé sur le prix de souscription ou le prix d'achat d'un titre non entièrement libéré est seul porté au compte
-23. 
-
-Dans chaque rubrique les titres sont classés selon le marché où ils sont négociés, si ce marché est situé en France, dans
-l'ordre de la cote officielle, de la cote du second marché ou du relevé quotidien des valeurs non admises à la cote, publiés
-par l'institution financière spécialisée visée à l'article 10 de la loi n° 88-70 du 22 janvier 1988 sur les bourses de
-valeurs. Pour ce qui concerne les titres négociés sur un marché étranger de l'organisation de coopération et de développement
-économique, ces titres sont classés dans l'ordre des cotes relatives à ce marché. 
-
-25 Titres de participation détenus en France. 
-
-On considère qu'une entreprise détient une participation dans une autre lorsqu'elle en possède une fraction du capital au
-moins égale à 10 p 100. 
-
-Le compte 254 enregistre les parts possédées par l'entreprise dans des organismes non commerciaux. Le montant des versements
-restant à effectuer sur titres non entièrement libérés est porté simultanément au débit des comptes 256 et 257 et au crédit
-du compte 4615. 
-
-26 Dépôts et cautionnement en France. 
-
-Sont inscrites aux comptes 26303, 26304 ou 26305 les valeurs qui, si elles étaient conservées par l'entreprise, figureraient
-respectivement aux comptes 23, 24 ou 25. 
-
-27 Valeurs garantissant les engagements envers des institutions de prévoyance ou couvrant les fonds de placement gérés par
-l'entreprise. 
-
-Lorsque la convention avec les institutions de prévoyance régies par l'article L. 732-1 du code de sécurité sociale prévoit
-que les titres seront immatriculés au nom de l'entreprise d'assurance prêtant son concours, les fonds versés par les
-institutions en vue de l'achat de ces valeurs sont comptabilisés au crédit du compte 37 ; les sommes reversées passent au
-débit de ce même compte. Le compte 27 enregistre les mouvements de ce portefeuille spécial de titres : 
-
-il est débité du prix des titres y entrant et crédité du prix des titres qui en sortent. 
-
-Classe 4. 
-
-Comptes de tiers. 
-
-Les comptes de la classe 4 enregistrent les opérations concernant les relations avec les tiers (à l'exception de celles
-prévues en classe 3) et, par extension, les écritures de régularisation des charges et produits. 
-
-40 Réassureurs, cédants, coassureurs. 
-
-Les comptes divisionnaires 400 à 403 donnent lieu à l'ouverture pour chaque réassureur, dans chaque monnaie du traité, d'un
-compte destiné à enregistrer en cours d'exercice toutes les opérations qui se présentent ; l'entreprise ouvre à cet effet les
-comptes 4002, 4003 ..., jusqu'à 4038 et 4039 ; si le nombre des comptes ainsi disponible est insuffisant, il sera créé des
-comptes à cinq chiffres (de 40020 et 40021 à 40398 et 40399) ou à six chiffres. En fin d'exercice, il est tiré le solde pour
-chaque réassureur par monnaie et ce solde ressort aux comptes 4000 et 4001 selon qu'il est débiteur ou créditeur. 
-
-Les comptes 404 à 408 fonctionnent de manière analogue. 
-
-Les comptes courants des réassureurs excluent les sommes portées au compte 18 à raison des dépôts en valeurs remises par les
-réassureurs. 
-
-41 Agents, assurés et courtiers. 
-
-Le compte 410 correspond aux comptes avec les agents et courtiers au sens normal du terme. En vue de déterminer les primes
-arriérées, il fait à la clôture de l'exercice l'objet d'une ventilation au compte 411 entre les divers éléments des primes à
-encaisser et les soldes espèces ; ce compte 411 n'est donc qu'un compte d'inventaire. 
-
-Le compte 412 enregistre les opérations d'assurance ne passant pas par un agent ou un courtier et ne donnant pas lieu à
-commission. Les assurés sont débités des quittances qui leur sont présentées et crédités de leurs paiements. 
-
-Les comptes 413 et 414 enregistrent les opérations autres que les opérations courantes d'assurance (par exemple les prêts aux
-agents ...). 
-
-Le compte 419 enregistre les provisions pour dépréciation autres que la provision pour annulations de primes qui figure en
-classe 3. 
-
-43 Etat. 
-
-Les opérations à inscrire au compte 43 sont celles faites avec l'Etat considéré en tant que puissance publique. 
-
-Le compte 432 reçoit provisoirement les sommes versées à l'entreprise par l'Etat et dont le caractère de prêt ou de
-subvention n'est pas encore établi : ce compte doit être normalement soldé en fin d'exercice. 
-
-Au compte 433, les parts dont il s'agit sont les titres créés par les sociétés nationalisées d'assurance en application de
-l'article L. 322-7 ; les parts amorties ont été remboursées aux porteurs par l'entreprise qui doit en récupérer le montant. 
-
-Les impôts et taxes à porter, le cas échéant, au compte 436 comprennent non seulement les impôts et taxes d'Etat proprement
-dits, mais aussi les impôts et taxes perçus pour le compte des départements et des communes. 
-
-45 Filiales ou société-mère. 
-
-Les filiales proprement dites comprennent les sociétés dont l'entreprise détient 50 p. 100 ou plus du capital. 
-
-46 Débiteurs et créditeurs divers. 
-
-Lorsque la convention avec les institutions de prévoyance régies par l'article L. 732-1 du code de sécurité sociale prévoit
-que les titres achetés sur les instructions de l'entreprise d'assurance seront immatriculés au nom des institutions (et
-appelés de ce fait à figurer en classe 0 et non en classe 2), le compte 462 est crédité notamment des sommes remises par les
-institutions, des intérêts perçus pour leur compte, et débité notamment des sommes reversées aux institutions, des sommes
-consacrées aux achats de valeurs effectués pour leur compte, de la participation allouée par les institutions à l'entreprise
-d'assurance. 
-
-Le compte "465 : Créances sur des organismes d'assurance en raison d'avances aux assurés" fonctionne de la manière
-suivante : 
-
-Lorsqu'en assurance des véhicules terrestres à moteur le contrat ne couvre pas les dommages subis mais qu'une garantie de
-protection juridique prévoit que l'assuré bénéficiera de la part de son assureur d'un paiement avant l'exercice du recours,
-paiement et recours sont respectivement comptabilisés au débit des sous-comptes 6020 et 6026 et au crédit du sous-compte
-6029. 
-
-Lorsqu'en l'absence d'une telle disposition du contrat un système analogue de règlement fonctionne néanmoins en vertu d'un
-accord entre entreprises, le compte 465 est en cours d'année débité des sommes payées dans ces conditions et crédité de
-celles récupérées ; il est en fin d'exercice crédité des sommes non récupérables par le débit des comptes 6020 et 6026. 
-
-47 et 48 Comptes de régularisation. 
-
-Ces comptes sont utilisés pour répartir les charges et les produits dans le temps, de manière à rattacher à un exercice
-déterminé toutes les charges et tous les produits le concernant effectivement et ceux-là seulement. 
-
-Dans le compte 470 sont compris notamment les intérêts courus et non échus sur emprunts contractés par l'entreprise, ainsi
-que le montant des droits acquis par le personnel à la clôture de l'exercice au titre des congés payés. 
-
-Les comptes 470 et 480 sont à subdiviser dans l'ordre des charges figurant aux comptes 61 à 64, 66, 67 et 69. Le compte 475
-est crédité des sommes correspondant à des produits perçus ou comptabilisés avant que les prestations et fournitures les
-justifiant aient été effectuées ou fournies. 
-
-Le compte 471 est crédité en fin d'exercice par le débit du sous-compte 6771. 
-
-Le compte 481 est débité en fin d'exercice par le crédit du sous-compte 7732. 
-
-Le compte 485 est débité en fin d'exercice par le crédit des comptes 76, 77, 796 et 797 des produits acquis à l'entreprise
-mais dont le montant, non définitivement arrêté, n'a pas encore été inscrit à un compte débiteur de la classe 4. 
-
-49 Comptes d'attente et à régulariser. 
-
-Les opérations qui ne peuvent être imputées de façon certaine à un compte déterminé au moment où elles doivent être
-enregistrées ou qui exigent une information complémentaire sont inscrites provisoirement en 49. Ce procédé ne doit être
-utilisé qu'à titre exceptionnel. 
-
-Sauf impossibilité, les opérations inscrites dans ce compte sont reclassées en fin d'exercice parmi les comptes figurant au
-modèle du bilan, et le compte 49 ne figure pas, en principe, au bilan. Si le reclassement ne peut pas être effectué, il n'est
-pas établi de compensation entre les soldes créditeurs et les soldes débiteurs des comptes, qui doivent apparaître au bilan. 
-
-Classe 5. 
-
-Comptes financiers. 
-
-Les comptes financiers enregistrent les mouvements de valeurs en espèces, chèques, effets de commerce, coupons, les
-opérations faites avec les banques, sociétés de bourse, etc. Ils comprennent également les emprunts à court terme, ainsi que
-les titres de placement non susceptibles d'être admis en représentation des provisions techniques et qui, de ce fait, ne
-présentent pas en théorie cette permanence, cette stabilité, qui sont un des caractères des placements admis en
-représentation et constituant la classe 2. 
-
-50 Emprunts à moins d'un an. 
-
-Ces comptes enregistrent les emprunts contractés par l'entreprise dont on est sûr, à l'origine, qu'ils sont faits ou
-consentis pour une durée inférieure à un an. 
-
-51 Prêts non affectables à la représentation des engagements réglementés sont notamment affectés au compte 518 les prêts
-participatifs non garantis. 
-
-55 Titres de placement non énumérés aux articles R. 332-2 et R. 332-9. 
-
-Ces titres sont ceux qui ne peuvent être affectés ni aux comptes 25 ou 285 parce qu'ils ne sont pas des titres de
-participation, ni aux comptes 23 ou 283 parce qu'ils ne sont pas susceptibles d'être admis en représentation des provisions
-techniques. 
-
-Les règles à suivre pour leur comptabilisation et la constitution de la provision pour dépréciation (compte 559) sont
-analogues à celles déjà prévues pour les immobilisations faisant l'objet des comptes 21 à 28. 
-
-59 Virements internes. 
-
-Ce sont des comptes de passage utilisés pour comptabiliser commodément des opérations appelées à finalement se solder. 
-
-Classe 7. 
-
-Comptes de produits par nature. 
-
-En dehors des comptes techniques (comptes 70, 73, 75 et 79), les produits comprennent les sommes reçues ou à recevoir au
-titre de l'exploitation, et se rapportant à l'exercice en cours, soit en contrepartie de fournitures de services ou avantages
-exécutés ou fournis par l'entreprise, soit exceptionnellement sans contrepartie. Ils comprennent également les travaux faits
-par l'entreprise pour elle-même. 
-
-La classe 7 comprend également, par extension, des comptes correcteurs des comptes de charges de la classe 6. 
-
-Les comptes de la classe 7 ne comprennent donc pas les produits ou les profits qui proviennent de subventions d'équilibre ou
-d'équipement, d'opérations concernant des exercices antérieurs, ou présentant un caractère exceptionnel, et qui doivent être
-portés à l'un des comptes suivants : 822, 847, 848 ou 849. Les entreprises débitent, le cas échéant, chaque compte de
-produits du montant des sommes qui y sont portées et qui sont à inscrire, en définitive, au crédit du compte de Pertes et
-Profits. Ces écritures rectificatives sont passées, au plus tard, à la fin de l'exercice. 
-
-70 Primes ou cotisations émises. 
-
-Le compte 70 est, lors de l'émission des quittances, crédité du montant des primes ou cotisations, y compris les accessoires
-et coûts de police, mais net de taxes d'assurance. 
-
-Les capitaux constitutifs de rentes gérées par l'entreprise constituées à la suite d'un sinistre ne sont pas comptabilisés en
-70 mais sont portés au compte 6021. 
-
-71 Subventions d'exploitations reçues. 
-
-Figurent à ce compte les subventions d'exploitation accordées par l'Etat, les collectivités publiques ou les tiers, qui ne
-sont ni des subventions d'équilibre, ni des subventions d'équipement. 
-
-73 Réductions et ristournes de primes. 
-
-Le compte 73 enregistre en cours d'année le bonus quand il fait l'objet du remboursement d'une partie de la prime. Il est, en
-fin d'année, soldé par les comptes 701 à 706. 
-
-74 Ristournes, rabais et remises obtenus. 
-
-Ce compte enregistre les rabais obtenus des fournisseurs et dont le montant, non déduit des factures d'achat, n'est connu
-qu'après la comptabilisation de ces factures. Il est crédité par le débit des comptes de tiers ou des comptes du trésorerie
-et soldé en fin d'année (en même temps que les produits accessoires 76) par le compte d'exploitation 80. 
-
-76 Produits accessoires en France. 
-
-Le compte 765 comprend notamment la participation reçue des organismes régis par l'article L. 732-1 du code de la sécurité
-sociale, les remboursements de frais perçus au titre de la gestion du Gamex, du régime de garantie contre les calamités
-agricoles et des assurances maladie et maternité des travailleurs non salariés des professions non agricole régies par la loi
-n° 66-509 du 12 juillet 1966. Il reçoit également les commissions d'apérition reçues des coassureurs. 
-
-Le remboursement des charges supportées par l'entreprise pour le compte d'autres sociétés avec lesquelles elle a des services
-communs vient au crédit des comptes intéressés de la classe 6. 
-
-77 Produits financiers. 
-
-Pour les placements dont la valeur comptable ne comprend pas le prorata d'intérêts courus depuis la dernière échéance, les
-intérêts courus et non échus à l'inventaire sont portés au crédit des sous-comptes intéressés du compte 77 et au débit du
-sous-compte 4857. A la réouverture des comptes après l'inventaire, le sous-compte 4857 est soldé par le débit de ces sous-
-comptes. 
-
-Le sous-compte 7732 est crédité du montant des différences mentionnées au troisième alinéa de l'article R. 332-19. 
-
-Les intérêts échus et non encaissés sont portés au crédit des sous-comptes intéressés de 77 et au débit du compte 545. 
-
-Les lots et primes de remboursement sur valeurs mobilières sont à inclure dans le compte 77. 
-
-Dans les autres produits financiers (778) entrent notamment au crédit les intérêts qui s'ajoutent aux primes, lorsque le
-tarif étant annuel, les primes ne sont, moyennant intérêt, payables que par fractions semestrielles ou trimestrielles. 
-
-78 Travaux faits par l'entreprise pour elle-même - Travaux et charges non imputables à l'exploitation de l'exercice. 
-
-Le compte 780 est appelé à enregistrer le coût des travaux faits par l'entreprise pour elle-même, dont le montant doit être
-porté à un compte de bilan. 
-
-Le compte 7800 est crédité par le débit du compte 20. 
-
-Le compte 785 est appelé à enregistrer la contrepartie des charges inscrites aux comptes 61, 66 et 67 et qui sont couvertes
-par des provisions pour pertes et charges constituées au cours des exercices antérieurs par le débit du compte 685 ou qui ne
-se rapportent pas à l'exploitation ou à l'exercice. 
-
-Classe 8. 
-
-Comptes de résultats. 
-
-80 Exploitation générale. 
-
-Le compte 80 fait apparaître les résultats de l'exercice, c'est-à-dire ceux qui proviennent de la gestion des diverses
-activités de l'entreprise. Ce compte n'est utilisé qu'en fin d'exercice. 
-
-Le solde du compte 80 est viré, pour clôture des écritures, au compte 87. 
-
-Le compte 80 est établi conformément au modèle prévu à la section III. 
-
-Les comptes constituant les postes du compte 80 sont indiqués dans les listes ci-après. 
-
-80 Exploitation générale (comptes spéciaux aux sociétés vie et capitalisation). 
-
-Sinistres survenus : 6010, 6030, 6040, 6060, 6901, 6904 et (cessions) 60910, 60930, 60940, 60960, 6909. 
-
-Capitaux échus : 6012, 6032, 6042, 6062 et (cessions) 60912, 60932, 60942, 60962. 
-
-Arrérages échus : 6013, 6033, 6043, 6063 et (cessions) 60913, 60933, 60943, 60963. 
-
-Rachats : 6014, 6034, 6044, 6044, 6064 et (cessions) 60914, 60934, 60944, 60964. 
-
-Participations aux excédents : 6015, 6035, 6045, 6065 et (cessions) 60915, 60935, 60965. 
-
-Provisions mathématiques : 310, 330, 340, 360, 3810, 3840 et (cessions) 3910, 3930, 3940, 3960, 39810, 39840. 
-
-Ajustement des valeurs affectées aux assurances à capital variable (débit) : 679. 
-
-Intérêts servis à la provision pour participation aux excédents : 
-
-676 et 6976. 
-
-Primes : 701, 703, 704, 706, 7901, 7904 et (cessions) 709, 7909. 
-
-Ajustement des valeurs affectées aux assurances à capital variable (crédit) : 779. 
-
-80 Exploitation générale (comptes spéciaux aux entreprises de toute nature mentionnées au 5 de l'article L 310-1). 
-
-Prestations et frais payés : 602, 604, 605, 606, 6902, 6904, 6905 et (cessions) 609, 6909. 
-
-Provisions de sinistres : 325, 355, 3825, 3855 et (cessions) 3925, 3955, 39825, 39855. 
-
-Primes : 702, 704, 705, 706, 7902, 7904, 7905 et (cessions) 709, 7909. 
-
-Provisions de primes : 320, 340, 350, 360, 3820, 3840, 3850 et (cessions) 3920, 3940, 3950, 3960, 39820, 39840, 39850. 
-
-80 Exploitation générale (comptes communs à toutes les entreprises). 
-
-Commissions : 65 et 695. 
-
-Frais de personnel : 61 et 691. 
-
-Impôts et taxes : 62 et 692. 
-
-Travaux, fournitures et services extérieurs, transports et déplacements : 63, 64, 693, 694. 
-
-Frais divers de gestion : 66 et 696. 
-
-Dotations aux amortissements (autres que celles afférentes aux placements) : 6800, 6801, 6802, 6809, 6814, 6815, 6816, 6819,
-6980. 
-
-Dotations aux provisions (autres que celles afférentes aux placements) : 685, 689, 6985, 6989. 
-
-Commissions et autres charges (cessions) : 75, 795. 
-
-Frais financiers sur titres : 6740, 675, 6974, 6975. 
-
-Frais sur immeubles de placement : 678, 6804, 6978. 
-
-Autres frais : 670, 671, 672, 673, 6741, 6745, 6746, 677, 6803, 6806, 6970, 6977. 
-
-Dotation aux amortissements des valeurs de placement : 6812, 6813, 6981. 
-
-Produits financiers sur titres : 773, 775, 7973, 7975. 
-
-Produits financiers sur immeubles de placement : 771, 7971. 
-
-Autres produits financiers : 774, 776, 777, 778, 7974, 7976, 7977, 7978. 
-
-Subventions d'exploitation : 71, 791. 
-
-Produits accessoires : 74, 76, 794, 796. 
-
-Travaux faits par l'entreprise pour elle-même - Charges non imputables à l'exploitation de l'exercice : 78, 798. 
-
-82 Pertes et profits sur exercices antérieurs. 
-
-Ce compte enregistre les pertes et profits au titre des exercices antérieurs sur les postes non techniques, c'est-à-dire les
-résultats acquis au cours de l'exercice, mais dont l'origine remonte à des exercices antérieurs. 
-
-Le compte 828 reçoit à son crédit les reprises d'excédents éventuels sur provisions constituées au cours des exercices
-antérieurs, provisions qui avaient été initialement passées par les comptes 685, 689, 835 et 839. 
-
-Le compte 829 est destiné à recevoir à son crédit la contrepartie des pertes enregistrées aux comptes 82 et 84 et couvertes
-par des provisions pour pertes constituées au cours d'exercices antérieurs par le débit des comptes 835 et 839. Le compte 829
-est crédité par le débit du compte de la provision intéressée soit du montant de la provision si ce montant est inférieur ou
-égal aux pertes, soit d'une somme égale au montant de ces pertes si la provision est supérieure à cette somme. 
-
-83 Dotations de l'exercice aux comptes de provisions hors exploitation ou exceptionnelles et de réserves réglementaires. 
-
-Ne passent par le compte 831 que celles des dotations aux réserves du compte 11 qui (à la différence de celles s'effectuant
-par le débit du compte 88) ne sont pas de la compétence exclusive de l'assemblée générale. 
-
-Le compte 833 est débité des dotations aux réserves réglementaires (compte 13) qui sont une charge de l'exercice, selon les
-textes en vigueur, mais qui ne sont pas directement liées à l'exploitation. 
-
-Les dotations aux réserves réglementaires peuvent être négatives si le prélèvement peut se faire sans autorisation
-préalable ; si une autorisation est requise, tant qu'elle n'est pas obtenue, le prélèvement se fait en utilisant le compte
-88. 
-
-Le compte 835 sert à effectuer les dotations aux provisions pour pertes et charges (compte 15). 
-
-Toutefois la provision pour garantie des moins-values sur titres gérés et figurant en classe 0 est directement constituée par
-le débit du compte 87. 
-
-Le compte 839 concerne les dotations aux provisions pour dépréciation des éléments d'actif des classes 2, 4 et 5. 
-
-84 Pertes et profits exceptionnels. 
-
-Ce compte enregistre les résultats acquis au cours de l'exercice et qui proviennent d'événements ou de faits exceptionnels,
-tels que réalisations d'éléments d'actif, différences de change, créances dont le caractère irrecouvrable est apparu pendant
-l'exercice. Les lots et primes de remboursement des valeurs mobilières ne sont pas considérés comme des événements
-exceptionnels et sont portés aux comptes 7731 et 7973. 
-
-Le résultat des opérations de change (841, 846) est ventilé en bénéfices et pertes sur cessions ou sur conversion de monnaies
-étrangères, dans la mesure où l'importance relative de ces deux éléments justifie une telle ventilation. 
-
-Le compte 842 est un compte de calcul qui sert à remplir les tableaux fiscaux exigés pour la détermination des résultats sur
-cessions. Il fonctionne de la façon suivante : 
-
-- il est débité, par le crédit du compte d'élément d'actif concerné, du montant de la valeur d'origine de cet élément ; 
-
-- il est crédité, par le débit du compte "amortissements" ou "provisions pour dépréciation", du montant de l'amortissement ou
-de la provision relatif à l'élément cédé et, par le débit du compte de trésorerie concerné, du montant du prix de cession ; 
-
-- il est débité (cas de plus-value) ou crédité (cas de moins-values), pour solde par le crédit de 845 ou le débit de 840. 
-
-Le compte 843 enregistre à son débit, par le crédit des comptes intéressés des classes 4 ou 5, les subventions accordées par
-l'entreprise qui n'ont pas le caractère de charges d'exploitation. 
-
-Les subventions d'équilibre reçues sont les subventions qui seraient accordées par l'Etat, les collectivités publiques ou des
-tiers, en fonction des résultats des entreprises qui en bénéficient. 
-
-86 Produits et prestations de services échangés entre établissements. 
-
-Ce compte est en relation avec l'ouverture du compte 17 "compte de liaison des établissements et succursales". Son solde à la
-clôture de l'exercice est nul. 
-
-87 Compte général de pertes et profits. 
-
-Ce compte est établi conformément au modèle prévu à la section III. 
-
-Les éléments relatifs à la participation des salariés aux fruits de l'expansion sont comptabilisés de la manière suivante : 
-
-A la clôture de l'exercice, la participation est provisionnée au compte 156 par le débit du compte 8356. 
-
-Lorsque le montant de la participation est devenu certain, la dette envers les salariés est constatée au compte 429 par le
-débit du compte "871 Participation des salariés aux fruits de l'expansion". Corrélativement, le compte 156 est soldé par le
-crédit du compte 829. 
-
-Lors de l'utilisation des fonds, le compte 429 est débité par le crédit des comptes suivants, selon la nature des emplois : 
-
-- création d'un fonds dans l'entreprise, compte 164 ; 
-
-- attribution d'actions ou de coupures d'actions de l'entreprise par incorporation de réserves au capital, comptes "10
-Capital" et "110 Primes d'émissions" ; 
-
-- attribution d'actions rachetées par l'entreprise : compte "49 Compte d'attente et à régulariser", au débit duquel les
-actions ont été enregistrées lors du rachat, la différence entre le prix de rachat et la valeur à retenir au titre de la
-participation étant passée aux comptes 849 ou 844 ; 
-
-- versement à des organismes étrangers à l'entreprise : comptes de trésorerie concernés ; 
-
-- achats d'actions de sociétés d'investissement à capital variable ou versement aux dépositaires du fonds commun de placement
-dans le cadre du plan d'épargne de l'entreprise : comptes de trésorerie concernés. 
-
-L'éventuel reliquat des fonds non attribué par suite de l'existence d'un plafond pour chaque bénéficiaire est maintenu au
-compte 429. 
-
-Lorsque les fonds n'ont pu être utilisés par suite d'absence d'accord entre employeurs et salariés, ils sont virés au compte
-165. 
-
-A la clôture de l'exercice précédant celui au cours duquel les fonds deviennent disponibles, la dette de l'entreprise est
-transférée des comptes 164 ou 165 au compte 429. 
-
-Lors de sa constitution, à la clôture de l'exercice au cours duquel les fonds sont utilisés, la provision pour investissement
-est débitée au compte 8336 par le crédit du compte 136. 
-
-Cette écriture est contrepassée à la clôture soit de l'exercice au cours duquel la provision est définitivement libérée de
-l'impôt, soit de l'exercice dans lequel a expiré le délai d'utilisation. 
-
-88 Résultats en instance d'affectation. 
-
-Le compte 88 est établi conformément au modèle prévu à la section III. 
-
-Lorsque l'exercice se solde par un profit, le compte 88 est crédité avant la répartition des bénéfices par le débit du compte
-87. Il est débité du montant des sommes distribuées ou affectées à un compte de réserves. Le solde, s'il en existe un, est
-viré au compte "12 Report à nouveau". 
-
-Le compte 88 peut être utilisé en cas de pertes. 
-
-Les sommes destinées par décision de l'assemblée générale à être ristournées aux sociétaires des sociétés d'assurance
-mutuelles et leurs unions, à l'exclusion des sociétés à forme tontinière, sont débitées au compte 88 lors de l'affectation
-des résultats. 
-
-Si les modalités de la ristourne, quantum et échéancier, sont fixées par la décision de l'assemblée générale, son montant est
-porté au crédit du compte "447 Sociétaires : excédents à répartir." 
-
-Si les modalités de la ristourne ne sont pas fixées, les sommes destinées à être ristournées sont portées au crédit du compte
-"115 Réserves facultatives." Lorsqu'une décision ultérieure de l'assemblée générale fixe les modalités de la ristourne, le
-prélèvement nécessaire sur la réserve s'effectue en débitant le compte 115 par le crédit du compte 88. 
-
-Lorsque l'assemblée générale a statué, le compte 88 devient le compte de répartition et d'affectation des résultats mentionné
-à l'article R. 342-18. 
-
-89 Bilan. 
-
-890 Bilan d'ouverture. 
-
-891 Bilan de clôture. 
-
-Ce bilan est établi conformément au modèle prévu à la section III. 
-
-Dispositions communes aux comptes 80, 87, 88, 89. 
-
-Dans la publication du compte d'exploitation générale, du compte général de pertes et profits, du compte de répartition et
-d'affectation des résultats et du bilan, les numéros des comptes constituant les lignes ne sont pas reproduits. 
-
-Classe 0. 
-
-Comptes spéciaux. 
-
-La classe 0 groupe tous les comptes spéciaux qui n'ont pas leur place dans les classes 1 à 8 du cadre comptable. Elle ne
-concerne donc pas les engagements techniques formant l'objet principal de l'assurance et dont la technique classique
-d'évaluation, notamment pour les provisions de la classe 3, repose sur la loi des compensations statistiques. 
-
-Les comptes de la classe 0 sont tenus en partie double comme ceux de la comptabilité générale. Pour ce faire, on utilise, à
-l'intérieur de chaque compte principal, le compte divisionnaire dont le numéro se termine par 9 comme contrepartie de tous
-les autres comptes divisionnaires et sous-comptes. Par exemple, le compte 009 est la contrepartie des comptes 000 et 001. 
-
-00 Engagements en faveur de l'entreprise. 
-
-Ce compte exprime la situation de l'entreprise vis-à-vis des tiers susceptibles de devenir débiteurs. 
-
-01 Engagements à la charge de l'entreprise. 
-
-Le compte 01 exprime les différents aspects de l'entreprise à la suite des engagements pris envers les tiers ou résultant de
-dispositions légales. A cet effet chaque élément comporte trois colonnes : 
-
-- dans la première figure la sortie maximale de trésorerie à laquelle l'entreprise est exposée (par exemple à la suite de la
-mise en jeu d'une garantie solidaire ne faisant pas supporter aux autres codébiteurs leur quote-part) ; 
-
-- dans la seconde colonne est porté le montant probable de la sortie de trésorerie en cas de jeu de l'obligation (compte tenu
-des chances que cette obligation aurait de ne mettre en cause l'entreprise que pour une somme partielle) ; 
-
-- enfin la troisième colonne indique l'estimation, non plus de la trésorerie à mobiliser, mais de la perte patrimoniale
-éventuelle la plus probable qu'entraînerait pour l'entreprise le fait d'avoir à honorer effectivement son engagement. 
-
-Le compte 016 concerne notamment les traités de réassurance de soutien conclus avec une filiale ou une société dans laquelle
-l'entreprise détient une participation ; les charges de trésorerie (montant maximal et charges probables) et la perte
-probable sont chiffrées pour l'ensemble des trois prochains exercices. 
-
-Le compte 0170 réservé aux sociétés mutuelles se réfère à l'article R. 322-106. 
-
-03 Autres charges envers des tiers. 
-
-Ce compte enregistre les montants de trésorerie que l'entreprise, en dehors de tout engagement juridique mais à titre d'acte
-de bonne gestion, a décidé de consacrer à des tiers (tels les besoins de trésorerie indispensables au cours des trois
-prochaines années pour aider ou développer une filiale ou une société dans laquelle l'entreprise détient une participation). 
-
-05 Plan d'investissement intéressant l'entreprise. 
-
-Ce compte a le même objet que le compte 03 mais concerne l'entreprise elle-même, également au cours des trois prochaines
-années, pour les engagements souscrits ou les opérations ayant déjà reçu un commencement d'exécution (notamment les
-opérations immobilières en cours, l'équipement d'une succursale, la création, le développement ou la transformation du réseau
-commercial ...). 
-
-06 Valeurs reçues en nantissement des cessionnaires et rétrocessionnaires. 
-
-Ce compte reçoit les valeurs remises en nantissement par les réassureurs dans les conditions fixées par l'article R. 332-17. 
-
-07 Valeurs appartenant à des institutions de prévoyance régies par l'article L. 732-1 du code de la sécurité sociale. 
-
-Ce compte est utilisé dans le cas où la convention avec les institutions, organismes, fédérations ou groupements de
-prévoyance prévoit que les titres achetés pour leur compte sur les instructions de l'entreprise d'assurance gérante seront
-inscrites en compte au nom de ces institutions. 
-
-08 Valeurs remises par les organismes réassurés avec caution solidaire ou avec substitution. 
-
-Le compte 08 est utilisé : 
-
-- par les unions de sociétés d'assurances mutuelles mentionnées à l'article L. 322-26-3, pour enregistrer les placements mis
-à leur disposition par les mutuelles réassurées, en vue de leur permettre de faire face aux obligations que leur impose
-l'article R. 322-111 ; 
-
-- par les sociétés ou caisses d'assurance et de réassurance mutuelles agricoles agréées, pour enregistrer les placements mis
-à leur disposition par les organismes dispensés d'agrément qu'elles réassurent dans les conditions définies à l'article R.
-322-132. 
-
-Ce compte est subdivisé, selon les besoins, en comptes divisionnaires et sous-comptes structurés sur le modèle de la classe
-2. 
-
-Il est publié au pied du bilan dans les mêmes conditions que le compte 06. 
-
-09 Autres valeurs détenues par l'entreprise. 
-
-Ce compte enregistre le montant des valeurs détenues par l'entreprise et qu'elle a l'engagement de restituer dans des
-conditions données, lorsque leur provenance ne conduit pas à les inscrire aux comptes 06, 07 ou 08.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°91-473 du 14 mai 1991 - art. 2
-  - Décret n°91-723 du 26 juillet 1991 - art. 11 () JORF 28 juillet 1991
-  - Décret n°91-1418 du 28 décembre 1991 - art. 2
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-
-##### Section V : Règles spéciales aux mutuelles agricoles.<a id=308></a>
-
-###### Article R343-5
-
-La comptabilité des sociétés ou caisses d'assurance et de réassurance mutuelles agricoles fait l'objet des règles spéciales
-suivantes :
-
-Opérations d'assurance directe par substitution.
-
-Les opérations mentionnées à l'article R. 322-135 sont, en application dudit article, comptabilisées comme des opérations
-d'assurance directe.
-
-Conservation des organismes dispensés d'agrément.
-
-La comptabilisation de la conservation des organismes dispensés d'agrément s'effectue au moyen des comptes suivants :
-
-707 Part des organismes dispensés d'agrément dans les cotisations.    607 Part des organismes dispensés d'agrément dans les
-prestations.    37 Part des organismes dispensés d'agrément dans les provisions techniques :
-
-370 Cotisations.
-
-375 Sinistres.
-
-Les valeurs mises à la disposition de la caisse par les organismes dispensés d'agrément sont enregistrées au compte 08.
-L'intitulé du compte 18 est ainsi adapté :
-
-18 Dettes pour espèces remises par les cessionnaires, les rétrocessionnaires et les organismes dispensés d'agrément.
-
-Adaptations diverses de la liste des comptes.
-
-Il est fait usage des comptes suivants :
-
-437 Subventions à recevoir.
-
-650 Ristourne de gestion aux organismes dispensés d'agrément.       6712 Intérêts servis aux organismes dispensés d'agrément.
-
-031 Organismes dispensés d'agrément.
-
-Le compte 437 concerne notamment les subventions prévues par le régime d'indemnisation des calamités agricoles.
-
-Compte 80 (exploitation générale).
-
-Il est ajouté au tableau modèle du compte 80, entre les colonnes "opérations brutes" et "cessions et rétrocessions", une
-colonne intitulée "conservation des organismes dispensés d'agrément". Cette colonne n'est remplie que pour les chapitres
-"charges de sinistres nettes de recours" au débit et "cotisations" au crédit. Les sommes qui y sont portées proviennent des
-comptes 607 et 375 pour le débit, des comptes 707 et 370 pour le crédit.
-
-Bilan.
-
-Il est inséré à l'actif du bilan, entre les lignes "total des valeurs immobilisées nettes" et "39 Part des cessionnaires et
-rétrocessionnaires dans les provisions techniques" un chapitre ainsi constitué :
-
-37 Part des organismes dispensés d'agrément dans les provisions techniques :
-
-370 Cotisations.
-
-375 Sinistres.
-
-Total de la conservation des organismes dispensés d'agrément dans les provisions techniques.
-
-La première ligne a valeur de sous-titre et ne reçoit donc pas de somme. La deuxième colonne n'est pas utilisée pour ce
-chapitre.
-
-La ligne "engagements envers les institutions de prévoyance ou relatifs aux fonds de placement gérés par l'entreprise (37)"
-est supprimée.
-
-Le compte 08 donne lieu, au pied du bilan, aux mêmes mentions que le compte 06.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°85-460 1985-04-25 art. 18 JORF 30 avril 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
-
-_Abrogé par_:
-
-  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
-
-_Cite_:
-
-  - Code des assurances R322-135
-
-
-#### Chapitre IV : Catégories d'assurances et états à produire.<a id=309></a>
+#### Chapitre IV : Catégories d'assurances et états à produire.<a id=294></a>
 
 ###### Article R344-1
 
@@ -34410,7 +31568,7 @@ _Cite_:
   - Code des assurances - art. L441-8 (M)
 
 
-#### Chapitre V : Comptes consolidés.<a id=310></a>
+#### Chapitre V : Comptes consolidés.<a id=295></a>
 
 ###### Article R345-1
 
@@ -34574,7 +31732,7 @@ _Cite_:
   - Code des assurances - art. L345-1 (M)
 
 
-##### Section I : Méthodes de consolidation.<a id=311></a>
+##### Section I : Méthodes de consolidation.<a id=296></a>
 
 ###### Article R345-2
 
@@ -34728,7 +31886,7 @@ _Cité par_:
   - Décret n°86-221 du 17 février 1986 - art. 10 (V)
 
 
-##### Section II : Présentation des comptes consolidés.<a id=312></a>
+##### Section II : Présentation des comptes consolidés.<a id=297></a>
 
 ###### Article R345-7
 
@@ -34842,11 +32000,11 @@ _Cite_:
   - Code des assurances - art. L345-1 (M)
 
 
-### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes<a id=313></a>
+### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des communautés européennes<a id=298></a>
 
-#### Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages.<a id=314></a>
+#### Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages.<a id=299></a>
 
-##### Section I : Dispositions générales.<a id=315></a>
+##### Section I : Dispositions générales.<a id=300></a>
 
 ###### Article R351-1
 
@@ -34893,11 +32051,11 @@ _Nouveaux textes_:
   - Code des assurances R111-1 (2ème version)
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=316></a>
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=301></a>
 
-#### Chapitre I : Dispositions relatives à la libre prestation de services en assurances de dommages<a id=317></a>
+#### Chapitre I : Dispositions relatives à la libre prestation de services en assurances de dommages<a id=302></a>
 
-##### Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française.<a id=318></a>
+##### Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française.<a id=303></a>
 
 ###### Article R351-2
 
@@ -35102,7 +32260,7 @@ _Cite_:
   - Code des assurances - art. L351-4 (M)
 
 
-##### Section II : Règles relatives aux entreprises établies en France et couvrant des risques dans un ou plusieurs Etats membres des communautés européennes.<a id=319></a>
+##### Section II : Règles relatives aux entreprises établies en France et couvrant des risques dans un ou plusieurs Etats membres des communautés européennes.<a id=304></a>
 
 ###### Article R351-6
 
@@ -35151,9 +32309,9 @@ _Cite_:
   - Code des assurances R321-6, R321-7
 
 
-#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=320></a>
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=305></a>
 
-##### Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française.<a id=321></a>
+##### Section I : Dispositions relatives à la libre prestation de services exercée sur le territoire de la République française.<a id=306></a>
 
 ###### Article R353-1
 
@@ -35309,7 +32467,7 @@ _Cite_:
   - Code des assurances - art. L353-4 (M)
 
 
-##### Section II : Règles relatives aux entreprises établies en France et prenant des engagements dans un ou plusieurs autres Etats membres des communautés européennes.<a id=322></a>
+##### Section II : Règles relatives aux entreprises établies en France et prenant des engagements dans un ou plusieurs autres Etats membres des communautés européennes.<a id=307></a>
 
 ###### Article R353-5
 
@@ -35355,11 +32513,11 @@ _Créé par_:
   - Décret n°93-469 du 23 mars 1993 - art. 10 () JORF 26 mars 1993 en vigueur le 20 mai 1993
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=323></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=308></a>
 
-### Titre Ier : Organisations générales d'assurance.<a id=324></a>
+### Titre Ier : Organisations générales d'assurance.<a id=309></a>
 
-#### Chapitre I : Le conseil national des assurances<a id=325></a>
+#### Chapitre I : Le conseil national des assurances<a id=310></a>
 
 ###### Article R*411-4
 
@@ -35822,7 +32980,7 @@ _Modifié par_:
   - Décret n°90-621 du 13 juillet 1990 - art. 1 () JORF 17 juillet 1990
 
 
-#### Chapitre II : L'école nationale d'assurances.<a id=326></a>
+#### Chapitre II : L'école nationale d'assurances.<a id=311></a>
 
 ###### Article R*412-1
 
@@ -35870,13 +33028,13 @@ _Abrogé par_:
   - Décret n°2015-1857 du 30 décembre 2015 - art. 1
 
 
-### Titre II : Le fonds de garantie<a id=327></a>
+### Titre II : Le fonds de garantie<a id=312></a>
 
-#### Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse<a id=328></a>
+#### Chapitre I : Le fonds de garantie contre les accidents de circulation et de chasse<a id=313></a>
 
-##### Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=329></a>
+##### Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=314></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=330></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=315></a>
 
 ###### Article R421-1
 
@@ -35935,7 +33093,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
 
-##### Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne.<a id=331></a>
+##### Paragraphe 2 : Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne.<a id=316></a>
 
 ###### Article R421-2
 
@@ -36825,7 +33983,7 @@ _Cite_:
   - Loi n°1942-04-03
 
 
-##### Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages aux biens.<a id=332></a>
+##### Paragraphe 3 : Dispositions applicables à l'indemnisation des dommages aux biens.<a id=317></a>
 
 ###### Article R421-18
 
@@ -37000,7 +34158,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances R324-6, R325-16
 
 
-##### Section II : Dispositions applicables aux accidents de chasse.<a id=333></a>
+##### Section II : Dispositions applicables aux accidents de chasse.<a id=318></a>
 
 ###### Article R421-21
 
@@ -37168,7 +34326,7 @@ _Cite_:
   - Code rural 366 ter
 
 
-##### Section III : Organisation, fonctionnement et contrôle du fonds de garantie.<a id=334></a>
+##### Section III : Organisation, fonctionnement et contrôle du fonds de garantie.<a id=319></a>
 
 ###### Article R421-25
 
@@ -37263,9 +34421,9 @@ _Anciens textes_:
   - Code des assurances R420-26
 
 
-##### Section IV : Régime financier du fonds de garantie<a id=335></a>
+##### Section IV : Régime financier du fonds de garantie<a id=320></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents d'automobile.<a id=336></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents d'automobile.<a id=321></a>
 
 ###### Article R*421-29
 
@@ -37762,7 +34920,7 @@ _Anciens textes_:
   - Code des assurances R420-37 (2ème version)
 
 
-##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.<a id=337></a>
+##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.<a id=322></a>
 
 ###### Article R421-38
 
@@ -38043,7 +35201,7 @@ _Anciens textes_:
   - Code des assurances R420-43
 
 
-##### Paragraphe 3 : Dispositions communes aux accidents de la circulation et de chasse.<a id=338></a>
+##### Paragraphe 3 : Dispositions communes aux accidents de la circulation et de chasse.<a id=323></a>
 
 ###### Article R421-44
 
@@ -38239,7 +35397,7 @@ _Cité par_:
   - Code des assurances - art. R421-46 (V)
 
 
-##### Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.<a id=339></a>
+##### Section V : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.<a id=324></a>
 
 ###### Article R*421-48
 
@@ -38559,7 +35717,7 @@ _Cite_:
   - Code des assurances - art. R421-16 (M)
 
 
-##### Section VI : Dispositions particulières aux départements d'outre-mer.<a id=340></a>
+##### Section VI : Dispositions particulières aux départements d'outre-mer.<a id=325></a>
 
 ###### Article R421-57
 
@@ -38587,7 +35745,7 @@ _Anciens textes_:
   - Code des assurances R420-57
 
 
-##### Section VII : Dispositions particulières aux territoires d'outre-mer et à la collectivité territoriale de Mayotte.<a id=341></a>
+##### Section VII : Dispositions particulières aux territoires d'outre-mer et à la collectivité territoriale de Mayotte.<a id=326></a>
 
 ###### Article R421-58
 
@@ -38905,7 +36063,7 @@ _Cite_:
   - Code des assurances L421-1, R421-9, R421-14, R421-27, R421-29, R421-46
 
 
-##### Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.<a id=342></a>
+##### Section VIII : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.<a id=327></a>
 
 ###### Article R421-64
 
@@ -39173,7 +36331,7 @@ _Anciens textes_:
   - Code des assurances R420-70
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=343></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=328></a>
 
 ###### Article R422-2
 
@@ -39381,9 +36539,9 @@ _Créé par_:
   - Loi n°90-1211 1990-12-21 art. 12, art. 16 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 
-### Titre II : Les fonds de garantie<a id=344></a>
+### Titre II : Les fonds de garantie<a id=329></a>
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=345></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=330></a>
 
 ###### Article R422-1
 
@@ -39443,11 +36601,11 @@ _Modifié par_:
   - Loi n°90-1211 1990-12-21 art. 12, art. 13 JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 
-### Titre III : Organismes particuliers d'assurance<a id=346></a>
+### Titre III : Organismes particuliers d'assurance<a id=331></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=347></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=332></a>
 
-##### Section I : Dispositions générales.<a id=348></a>
+##### Section I : Dispositions générales.<a id=333></a>
 
 ###### Article R*431-6
 
@@ -39497,9 +36655,9 @@ _Cite_:
   - Code des assurances R322-26
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat<a id=349></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat<a id=334></a>
 
-##### Paragraphe 1 : Dispositions communes.<a id=350></a>
+##### Paragraphe 1 : Dispositions communes.<a id=335></a>
 
 ###### Article R431-16-1
 
@@ -39616,7 +36774,7 @@ _Cite_:
   - Code des assurances - art. R431-16-3 (V)
 
 
-##### Paragraphe 2 : Risques exceptionnels et nucléaires.<a id=351></a>
+##### Paragraphe 2 : Risques exceptionnels et nucléaires.<a id=336></a>
 
 ###### Article R431-27
 
@@ -39665,7 +36823,7 @@ _Modifié par_:
   - Décret n°85-864 1985-08-02 art. 5 JORF 15 août 1985
 
 
-##### Paragraphe 3 : Risques de catastrophes naturelles.<a id=352></a>
+##### Paragraphe 3 : Risques de catastrophes naturelles.<a id=337></a>
 
 ###### Article R431-30
 
@@ -39728,9 +36886,9 @@ _Cite_:
   - Code des assurances - art. R431-30 (V)
 
 
-##### Section III : Opérations de gestion<a id=353></a>
+##### Section III : Opérations de gestion<a id=338></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=354></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=339></a>
 
 ###### Article R431-33
 
@@ -39895,7 +37053,7 @@ _Cité par_:
   - Code des assurances - art. R*431-44 (M)
 
 
-##### Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction.<a id=355></a>
+##### Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction.<a id=340></a>
 
 ###### Article R*431-55
 
@@ -40163,11 +37321,11 @@ _Cite_:
   - Code des assurances - art. L431-14 (V)
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=356></a>
+### Titre IV : Régimes particuliers d'assurance<a id=341></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=357></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=342></a>
 
-##### Section I : Dispositions générales.<a id=358></a>
+##### Section I : Dispositions générales.<a id=343></a>
 
 ###### Article R*441-2
 
@@ -40239,7 +37397,7 @@ _Cité par_:
   - Code des assurances - art. R*441-34 (Ab)
 
 
-##### Section II : Règles techniques et comptables.<a id=359></a>
+##### Section II : Règles techniques et comptables.<a id=344></a>
 
 ###### Article R*441-4
 
@@ -40823,7 +37981,7 @@ _Cité par_:
   - Code des assurances - art. R441-7-5 (VD)
 
 
-##### Section III : Règles relatives au retrait de l'agrément.<a id=360></a>
+##### Section III : Règles relatives au retrait de l'agrément.<a id=345></a>
 
 ###### Article R*441-29
 
@@ -40979,7 +38137,7 @@ _Cité par_:
   - Code des assurances - art. R441-26 (T)
 
 
-##### Section IV : Dispositions transitoires.<a id=361></a>
+##### Section IV : Dispositions transitoires.<a id=346></a>
 
 ###### Article R*441-30
 
@@ -41009,11 +38167,11 @@ _Cite_:
   - Code des assurances - art. D441-22 (V)
 
 
-#### Chapitre II : Autres régimes particuliers d'assurance<a id=362></a>
+#### Chapitre II : Autres régimes particuliers d'assurance<a id=347></a>
 
-##### Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux<a id=363></a>
+##### Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux<a id=348></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=364></a>
+##### Paragraphe 1 : Dispositions générales.<a id=349></a>
 
 ###### Article R442-1
 
@@ -41263,7 +38421,7 @@ _Cité par_:
   - Décret n°2014-636 du 19 juin 2014 (V)
 
 
-##### Paragraphe 2 : Opérations d'exportation.<a id=365></a>
+##### Paragraphe 2 : Opérations d'exportation.<a id=350></a>
 
 ###### Article R442-8-1
 
@@ -41456,7 +38614,7 @@ _Cite_:
   - Code des assurances - art. R442-8-2
 
 
-##### Paragraphe 3 : Opérations d'investissement.<a id=366></a>
+##### Paragraphe 3 : Opérations d'investissement.<a id=351></a>
 
 ###### Article R442-9-1
 
@@ -41535,7 +38693,7 @@ _Créé par_:
   - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
 
 
-##### Paragraphe 4 : Opérations d'importation.<a id=367></a>
+##### Paragraphe 4 : Opérations d'importation.<a id=352></a>
 
 ###### Article R442-10-1
 
@@ -41662,7 +38820,7 @@ _Cite_:
   - Code des assurances - art. R442-1 (Ab)
 
 
-##### Paragraphe 5 : Dispositions communes.<a id=368></a>
+##### Paragraphe 5 : Dispositions communes.<a id=353></a>
 
 ###### Article R442-11
 
@@ -41688,11 +38846,11 @@ _Abrogé par_:
   - Décret n°2016-1701 du 12 décembre 2016 - art. 1
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=369></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=354></a>
 
-### Titre I : Présentation des opérations<a id=370></a>
+### Titre I : Présentation des opérations<a id=355></a>
 
-#### Chapitre I : Principes généraux.<a id=371></a>
+#### Chapitre I : Principes généraux.<a id=356></a>
 
 ###### Article R*511-1
 
@@ -42001,9 +39159,9 @@ _Abrogé par_:
   - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 
-#### Chapitre II : Dérogations aux principes généraux<a id=372></a>
+#### Chapitre II : Dérogations aux principes généraux<a id=357></a>
 
-##### Section I : Dérogations permanentes.<a id=373></a>
+##### Section I : Dérogations permanentes.<a id=358></a>
 
 ###### Article R*512-1
 
@@ -42244,7 +39402,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
 
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=374></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=359></a>
 
 ###### Article R*513-6
 
@@ -42487,9 +39645,9 @@ _Cite_:
   - Code des assurances - art. R*514-5 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=375></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=360></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=376></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=361></a>
 
 ###### Article R*514-1
 
@@ -42631,7 +39789,7 @@ _Cite_:
   - Code des assurances R514-1, R514-13
 
 
-##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=377></a>
+##### Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle.<a id=362></a>
 
 ###### Article R*514-6
 
@@ -42734,7 +39892,7 @@ _Cite_:
   - Code des assurances R511-4, R514-7
 
 
-##### Section III : Modalités de contrôle spéciales aux conditions d'honorabilité.<a id=378></a>
+##### Section III : Modalités de contrôle spéciales aux conditions d'honorabilité.<a id=363></a>
 
 ###### Article R*514-8
 
@@ -42925,7 +40083,7 @@ _Cite_:
   - SPEC_APPLI: Code des assurances R515-11
 
 
-##### Section IV : Dispositions diverses et pénalités.<a id=379></a>
+##### Section IV : Dispositions diverses et pénalités.<a id=364></a>
 
 ###### Article R*514-14
 
@@ -43014,9 +40172,9 @@ _Cite_:
   - Code des assurances R514-1, R514-3, R514-6, R514-8 à R514-10, R514-12, R514-14, R514-15, R515-1 à R515-7
 
 
-#### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France<a id=380></a>
+#### Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France<a id=365></a>
 
-##### Section I : Conditions de capacité professionnelle.<a id=381></a>
+##### Section I : Conditions de capacité professionnelle.<a id=366></a>
 
 ###### Article R515-1
 
@@ -43186,7 +40344,7 @@ _Cite_:
   - Code des assurances R515-1, R515-3, R515-4, R515-6
 
 
-##### Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité.<a id=382></a>
+##### Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité.<a id=367></a>
 
 ###### Article R*515-6
 
@@ -43254,7 +40412,7 @@ _Cite_:
   - Code des assurances R515-6, L511-2, R515-3
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=383></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=368></a>
 
 ###### Article R*516-1
 
@@ -43287,9 +40445,9 @@ _Cite_:
   - Code des assurances - art. R515-3 (M)
 
 
-### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=384></a>
+### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=369></a>
 
-#### Chapitre unique.<a id=385></a>
+#### Chapitre unique.<a id=370></a>
 
 ###### Article R530-1
 
@@ -43586,13 +40744,13 @@ _Cite_:
   - Code des assurances - art. L530-2 (Ab)
 
 
-# Partie réglementaire - Arrêtés<a id=386></a>
+# Partie réglementaire - Arrêtés<a id=371></a>
 
-## Livre Ier : Le contrat<a id=387></a>
+## Livre Ier : Le contrat<a id=372></a>
 
-### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes<a id=388></a>
+### Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes<a id=373></a>
 
-#### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=389></a>
+#### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=374></a>
 
 ###### Article A113-1
 
@@ -43624,9 +40782,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-### Titre II : Règles relatives aux assurances de dommages non maritimes<a id=390></a>
+### Titre II : Règles relatives aux assurances de dommages non maritimes<a id=375></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=391></a>
+#### Chapitre Ier : Dispositions générales.<a id=376></a>
 
 ###### Article A121-1
 
@@ -43718,7 +40876,7 @@ _Cite_:
   - Code des assurances - art. A121-1 (V)
 
 
-#### Chapitre V : L'assurance des risques de catastrophes naturelles.<a id=392></a>
+#### Chapitre V : L'assurance des risques de catastrophes naturelles.<a id=377></a>
 
 ###### Article A125-1
 
@@ -43844,11 +41002,11 @@ _Cite_:
   - Code des assurances L125-1, L125-6, A125-1 annexe I, annexe II
 
 
-### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=393></a>
+### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation<a id=378></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=394></a>
+#### Chapitre Ier : Dispositions générales.<a id=379></a>
 
-##### Section I : Valeur de référence au contrat.<a id=395></a>
+##### Section I : Valeur de référence au contrat.<a id=380></a>
 
 ###### Article A131-1
 
@@ -43901,9 +41059,9 @@ _Cite_:
   - Code des assurances - art. R131-2 (V)
 
 
-#### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=396></a>
+#### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=381></a>
 
-##### Section III : Participation aux bénéfices techniques et financiers.<a id=397></a>
+##### Section III : Participation aux bénéfices techniques et financiers.<a id=382></a>
 
 ###### Article A132-5
 
@@ -44169,11 +41327,11 @@ _Nouveaux textes_:
   - Code des assurances - art. A331-9-1 (T)
 
 
-### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=398></a>
+### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=383></a>
 
-#### Chapitre unique<a id=399></a>
+#### Chapitre unique<a id=384></a>
 
-##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.<a id=400></a>
+##### Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés.<a id=385></a>
 
 ###### Article A160-1
 
@@ -44308,7 +41466,7 @@ De la délivrance du duplicata
 
 
 
-##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=401></a>
+##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=386></a>
 
 ###### Article A160-3
 
@@ -44335,7 +41493,7 @@ _Cite_:
   - Code des assurances - art. A331-1-1 (V)
 
 
-##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=402></a>
+##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=387></a>
 
 ###### Article A160-2
 
@@ -44389,13 +41547,13 @@ _Cité par_:
   - Code des assurances - art. A160-2 (V)
 
 
-## Livre II : Assurances obligatoires<a id=403></a>
+## Livre II : Assurances obligatoires<a id=388></a>
 
-### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques<a id=404></a>
+### Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques<a id=389></a>
 
-#### Chapitre Ier : L'obligation de s'assurer<a id=405></a>
+#### Chapitre Ier : L'obligation de s'assurer<a id=390></a>
 
-##### Section I : Personnes assujetties.<a id=406></a>
+##### Section I : Personnes assujetties.<a id=391></a>
 
 ###### Article A211-1
 
@@ -44444,7 +41602,7 @@ _Cite_:
   - Code des assurances L211-3, R211-2 à R211-13
 
 
-##### Section II : Etendue de l'obligation d'assurance.<a id=407></a>
+##### Section II : Etendue de l'obligation d'assurance.<a id=392></a>
 
 ###### Article A211-1-1
 
@@ -44491,7 +41649,7 @@ _Créé par_:
   - Arrêté 1983-06-09 art. 2 JORF 14 juin 1983
 
 
-##### Section III : Franchises, exclusions de garantie et déchéances.<a id=408></a>
+##### Section III : Franchises, exclusions de garantie et déchéances.<a id=393></a>
 
 ###### Article A211-3
 
@@ -44539,9 +41697,9 @@ _Cite_:
   - Code des assurances - art. R211-10 (V)
 
 
-##### Section IV : Contrôle de l'obligation d'assurance<a id=409></a>
+##### Section IV : Contrôle de l'obligation d'assurance<a id=394></a>
 
-##### Paragraphe 1 : L'attestation d'assurance.<a id=410></a>
+##### Paragraphe 1 : L'attestation d'assurance.<a id=395></a>
 
 ###### Article A211-4
 
@@ -44699,7 +41857,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances R211-19
 
 
-##### Paragraphe 2 : Le certificat d'assurance.<a id=411></a>
+##### Paragraphe 2 : Le certificat d'assurance.<a id=396></a>
 
 ###### Article A211-9
 
@@ -44750,7 +41908,7 @@ _Anciens textes_:
   - Code des assurances - art. A211-8-2 (T)
 
 
-##### Section VI : Procédures d'indemnisation.<a id=412></a>
+##### Section VI : Procédures d'indemnisation.<a id=397></a>
 
 ###### Article A211-11
 
@@ -45070,7 +42228,7 @@ _Cite_:
   - Décret n°86-15 du 6 janvier 1986 (V)
 
 
-#### Chapitre III : Contribution au profit de la sécurité sociale.<a id=413></a>
+#### Chapitre III : Contribution au profit de la sécurité sociale.<a id=398></a>
 
 ###### Article A213-1
 
@@ -45203,9 +42361,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R213-3
 
 
-### Titre II : L'assurance des engins de remontée mécanique<a id=414></a>
+### Titre II : L'assurance des engins de remontée mécanique<a id=399></a>
 
-#### Chapitre unique.<a id=415></a>
+#### Chapitre unique.<a id=400></a>
 
 ###### Article A220-3
 
@@ -45409,9 +42567,9 @@ _Cite_:
   - Code des assurances - art. L220-1 (V)
 
 
-### Titre III : L'assurance de la responsabilité civile des chasseurs<a id=416></a>
+### Titre III : L'assurance de la responsabilité civile des chasseurs<a id=401></a>
 
-#### Chapitre unique.<a id=417></a>
+#### Chapitre unique.<a id=402></a>
 
 ###### Article A230-5
 
@@ -45547,7 +42705,7 @@ _Cite_:
   - Code rural - art. L223-13 (V)
 
 
-### Titre IV : L'assurance des travaux de bâtiment<a id=418></a>
+### Titre IV : L'assurance des travaux de bâtiment<a id=403></a>
 
 ###### Article A243-2
 
@@ -45587,7 +42745,7 @@ _Cite_:
   - Code des assurances - art. R241-9 (T)
 
 
-### Titre V : Dispositions relatives au bureau central de tarification.<a id=419></a>
+### Titre V : Dispositions relatives au bureau central de tarification.<a id=404></a>
 
 ###### Article A250-1
 
@@ -45652,13 +42810,13 @@ _Cite_:
   - Code des assurances - art. R250-2 (V)
 
 
-## Livre III : Les entreprises.<a id=420></a>
+## Livre III : Les entreprises.<a id=405></a>
 
-### Titre Ier : Dispositions générales et contrôle de l'Etat.<a id=421></a>
+### Titre Ier : Dispositions générales et contrôle de l'Etat.<a id=406></a>
 
-#### Chapitre I<a id=422></a>
+#### Chapitre I<a id=407></a>
 
-##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.<a id=423></a>
+##### Section III : Participation des entreprises d'assurance et de capitalisation à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants.<a id=408></a>
 
 ###### Article A310-1
 
@@ -45728,9 +42886,9 @@ _Nouveaux textes_:
   - Code des assurances - art. A310-7 (V)
 
 
-#### Chapitre unique<a id=424></a>
+#### Chapitre unique<a id=409></a>
 
-##### Section I : Dispositions générales.<a id=425></a>
+##### Section I : Dispositions générales.<a id=410></a>
 
 ###### Article A310-2
 
@@ -45757,13 +42915,13 @@ _Nouveaux textes_:
   - Code des assurances - art. A310-6 (V)
 
 
-### Titre II : Régime administratif<a id=426></a>
+### Titre II : Régime administratif<a id=411></a>
 
-#### Chapitre II : Règles de constitution et de fonctionnement<a id=427></a>
+#### Chapitre II : Règles de constitution et de fonctionnement<a id=412></a>
 
-##### Section IV : Sociétés d'assurance à forme mutuelle.<a id=428></a>
+##### Section IV : Sociétés d'assurance à forme mutuelle.<a id=413></a>
 
-##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=429></a>
+##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=414></a>
 
 ###### Article A322-6
 
@@ -45841,11 +42999,11 @@ _Codifié par_:
   - Arrêté 1976-07-16
 
 
-### Titre III : Régime financier.<a id=430></a>
+### Titre III : Régime financier.<a id=415></a>
 
-#### Chapitre Ier : Les engagements réglementés.<a id=431></a>
+#### Chapitre Ier : Les engagements réglementés.<a id=416></a>
 
-##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=432></a>
+##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=417></a>
 
 ###### Article A331-1
 
@@ -45888,7 +43046,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
 
 
-##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=433></a>
+##### Section II : Provisions techniques des opérations d'assurance sur la vie, d'assurance nuptialité-natalité et de capitalisation.<a id=418></a>
 
 ###### Article A331-1-1
 
@@ -46025,9 +43183,9 @@ _Cite_:
   - SPEC_APPLI: Code des assurances A331-3 *champ d'application*
 
 
-##### Section III : Provisions techniques des autres opérations d'assurance<a id=434></a>
+##### Section III : Provisions techniques des autres opérations d'assurance<a id=419></a>
 
-##### Paragraphe 1 : Provision mathématique des rentes.<a id=435></a>
+##### Paragraphe 1 : Provision mathématique des rentes.<a id=420></a>
 
 ###### Article A331-11
 
@@ -46139,7 +43297,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*331-7 (M)
 
 
-##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=436></a>
+##### Paragraphe 3 : Provision pour sinistres restant à payer.<a id=421></a>
 
 ###### Article A331-24
 
@@ -46166,9 +43324,9 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R*331-26 (M)
 
 
-#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=437></a>
+#### Chapitre II : Réglementation des placements et autres éléments d'actif<a id=422></a>
 
-##### Section III : Estimation des éléments d'actif.<a id=438></a>
+##### Section III : Estimation des éléments d'actif.<a id=423></a>
 
 ###### Article A332-5
 
@@ -46245,7 +43403,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code des assurances - art. R332-20 (M)
 
 
-#### Chapitre III : Revenu des placements.<a id=439></a>
+#### Chapitre III : Revenu des placements.<a id=424></a>
 
 ###### Article A333-2
 
@@ -46339,11 +43497,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*333-1 (M)
 
 
-#### Chapitre IV : Solvabilité des entreprises<a id=440></a>
+#### Chapitre IV : Solvabilité des entreprises<a id=425></a>
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=441></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie.<a id=426></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=442></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=427></a>
 
 ###### Article A334-1
 
@@ -46382,9 +43540,9 @@ _Cite_:
   - Code des assurances - art. R334-11 (V)
 
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=443></a>
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=428></a>
 
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=444></a>
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=429></a>
 
 ###### Article A334-2
 
@@ -46484,11 +43642,11 @@ _Cite_:
   - Code des assurances - art. R*334-3 (M)
 
 
-#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=445></a>
+#### Chapitre V : Tarifs et frais d'acquisition et de gestion<a id=430></a>
 
-##### Section I : Tarifs.<a id=446></a>
+##### Section I : Tarifs.<a id=431></a>
 
-##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=447></a>
+##### Paragraphe 4 : Assurance des véhicules terrestres à moteur.<a id=432></a>
 
 ###### Article A335-9-1
 
@@ -46604,9 +43762,9 @@ _Cite_:
   - Code des assurances - art. A335-9-3 (Ab)
 
 
-##### Section I : Tarifs<a id=448></a>
+##### Section I : Tarifs<a id=433></a>
 
-##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=449></a>
+##### Paragraphe 1 : Assurances sur la vie, assurances nuptialité-natalité, opérations de capitalisation.<a id=434></a>
 
 ###### Article A335-1-1
 
@@ -46659,9 +43817,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
 
 
-##### Section II : Frais d'acquisition et de gestion<a id=450></a>
+##### Section II : Frais d'acquisition et de gestion<a id=435></a>
 
-##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=451></a>
+##### Paragraphe 4 : Assurances des risques de catastrophes naturelles.<a id=436></a>
 
 ###### Article A335-19
 
@@ -46694,9 +43852,9 @@ _Cité par_:
   - SPEC_APPLI: Code des assurances A335-20, A335-21 *fixation des commissions et rétributions*
 
 
-### Titre IV : Dispositions comptables et statistiques<a id=452></a>
+### Titre IV : Dispositions comptables et statistiques<a id=437></a>
 
-#### Chapitre Ier : Principes généraux.<a id=453></a>
+#### Chapitre Ier : Principes généraux.<a id=438></a>
 
 ###### Article A341-1
 
@@ -46777,9 +43935,9 @@ DANS L'ÉTAT MEMBRE SUIVANT DE LA CEE : PAYS DU RISQUE.
 
 
 
-#### Chapitre IV : Catégories d'assurance et états à produire<a id=454></a>
+#### Chapitre IV : Catégories d'assurance et états à produire<a id=439></a>
 
-##### Section I : Dispositions générales.<a id=455></a>
+##### Section I : Dispositions générales.<a id=440></a>
 
 ###### Article A344-1
 
@@ -46895,7 +44053,7 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section II : Définition des catégories et sous-catégories.<a id=456></a>
+##### Section II : Définition des catégories et sous-catégories.<a id=441></a>
 
 ###### Article A344-4
 
@@ -47092,7 +44250,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section III : Etats à produire.<a id=457></a>
+##### Section III : Etats à produire.<a id=442></a>
 
 ###### Article A344-6
 
@@ -47331,7 +44489,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
-##### Section III : Etats à produire.<a id=458></a>
+##### Section III : Etats à produire.<a id=443></a>
 
 ###### Article Annexe art. A344-3 (suite 1)
 
@@ -52530,11 +49688,11 @@ _Abrogé par_:
   - Arrêté du 28 décembre 2015 - art. 2
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=459></a>
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=444></a>
 
-#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=460></a>
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=445></a>
 
-##### Section II : Conditions d'exercice<a id=461></a>
+##### Section II : Conditions d'exercice<a id=446></a>
 
 ###### Article A353-1
 
@@ -52570,15 +49728,15 @@ _Cite_:
   - Code des assurances - art. L353-4
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=462></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=447></a>
 
-### Titre II : Le fonds de garantie<a id=463></a>
+### Titre II : Le fonds de garantie<a id=448></a>
 
-#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=464></a>
+#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=449></a>
 
-##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=465></a>
+##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte<a id=450></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=466></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=451></a>
 
 ###### Article A421-1
 
@@ -52618,9 +49776,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R420-69
 
 
-##### Section IV : Régime financier du fonds de garantie<a id=467></a>
+##### Section IV : Régime financier du fonds de garantie<a id=452></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=468></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=453></a>
 
 ###### Article A421-2
 
@@ -52662,9 +49820,9 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances R420-35
 
 
-##### Section V : Régime financier du fonds de garantie<a id=469></a>
+##### Section V : Régime financier du fonds de garantie<a id=454></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=470></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=455></a>
 
 ###### Article A421-3
 
@@ -52734,7 +49892,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=471></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=456></a>
 
 ###### Article A422-1
 
@@ -52759,11 +49917,11 @@ _Cite_:
   - Code des assurances - art. R422-4 (V)
 
 
-### Titre III : Organismes particuliers d'assurance<a id=472></a>
+### Titre III : Organismes particuliers d'assurance<a id=457></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=473></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=458></a>
 
-##### Section I : Dispositions générales.<a id=474></a>
+##### Section I : Dispositions générales.<a id=459></a>
 
 ###### Article A431-1
 
@@ -52796,9 +49954,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R431-19
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=475></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=460></a>
 
-##### Paragraphe 4 : Risques d'attentat.<a id=476></a>
+##### Paragraphe 4 : Risques d'attentat.<a id=461></a>
 
 ###### Article A431-5
 
@@ -52849,9 +50007,9 @@ _Cite_:
   - Code des assurances - art. L431-10 (V)
 
 
-##### Section III : Opérations de gestion.<a id=477></a>
+##### Section III : Opérations de gestion.<a id=462></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=478></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=463></a>
 
 ###### Article A431-7
 
@@ -52997,7 +50155,7 @@ _Cite_:
   - Loi n°64-706 du 10 juillet 1964 - art. 5 (Ab)
 
 
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=479></a>
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=464></a>
 
 ###### Article A431-8
 
@@ -53158,11 +50316,11 @@ _Cite_:
   - Code des assurances - art. A335-1 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=480></a>
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=465></a>
 
-##### Section III : Risques garantis.<a id=481></a>
+##### Section III : Risques garantis.<a id=466></a>
 
-##### Paragraphe 6 : Dispositions communes.<a id=482></a>
+##### Paragraphe 6 : Dispositions communes.<a id=467></a>
 
 ###### Article A432-1
 
@@ -53407,11 +50565,11 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=483></a>
+### Titre IV : Régimes particuliers d'assurance<a id=468></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=484></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=469></a>
 
-##### Section II : Règles techniques et comptables.<a id=485></a>
+##### Section II : Règles techniques et comptables.<a id=470></a>
 
 ###### Article A441-1
 
@@ -53473,11 +50631,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=486></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=471></a>
 
-### Titre Ier : Présentation des opérations.<a id=487></a>
+### Titre Ier : Présentation des opérations.<a id=472></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=488></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=473></a>
 
 ###### Article A513-1
 
@@ -53652,9 +50810,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R513-2 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=489></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=474></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=490></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=475></a>
 
 ###### Article A514-1
 
@@ -53711,7 +50869,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=491></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=476></a>
 
 ###### Article A516-2
 
