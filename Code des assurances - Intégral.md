@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1988-12-31
+Version Consolidée au 1989-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -17347,33 +17347,30 @@ _Cite_:
 
 ###### Article R211-24
 
-Une association créée à cet effet, dénommée association pour l'assurance frontière, et dont les statuts sont soumis à
-l'approbation du ministre de l'économie et des finances, souscrit, pour le compte des personnes mentionnées à l'article R.
-211-22, l'assurance spéciale, prévue par l'article R. 211-23.
+L'assurance frontière est souscrite auprès du groupement de coassurance "Assurance Frontière" régi par les articles R. 342-13
+à R. 342-15. Ce groupement est géré par le bureau central français. Les statuts de ce groupement sont soumis à l'approbation
+préalable du ministre de l'économie, des finances et du budget.
 
-L'assurance frontière peut être souscrite auprès d'une ou plusieurs entreprises d'assurance ou auprès d'un groupement de
-coassurance régi par les articles R. 342-13 à R. 342-15.
+L'assurance frontière ne peut prévoir de garantie que pour une période de huit jours, de quinze jours ou de trente jours,
+sans reconduction.
 
-Dans ce dernier cas, les statuts de ce groupement sont soumis à l'approbation préalable du ministre de l'économie et des
-finances.    L'assurance frontière ne peut prévoir de garantie que pour une période de huit jours, de quinze jours ou de
-trente jours, sans reconduction.
+La souscription à l'assurance frontière est constatée par un certificat délivré, moyennant paiement de la prime
+correspondante, par l'administration des douanes ou par toute personne ou organisme habilité à cet effet par arrêté du
+ministre de l'économie et des finances.
 
-L'adhésion à l'assurance frontière est constatée par un certificat délivré, moyennant paiement de la prime correspondante,
-par l'administration des douanes ou par toute personne ou organisme habilité à cet effet par arrêté du ministre de l'économie
-et des finances.
-
-Les conditions générales de la police d'assurance frontière, les tarifs de cette assurance et le modèle du certificat prévu à
-l'alinéa précédent sont soumis à l'approbation préalable du ministre de l'économie et des finances.
+Les conditions générales de la police d'assurance frontière et le modèle du certificat prévu à l'alinéa précédent sont soumis
+à l'approbation du ministre d'Etat, ministre de l'économie, des finances et du budget. Les tarifs de cette assurance sont
+déposés auprès de cette même autorité.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-428 1959-03-14 art. 1 à art. 6
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°88-1209 1988-12-30 art. 1, art. 2, art. 3 JORF 31 décembre 1988 en vigueur le 1er janvier 1989
 
 _Cité par_:
 
@@ -17387,7 +17384,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances R211-22, R211-23, R342-13 à R342-15
+  - Code des assurances R342-13 à R342-15
 
 
 ###### Article R211-28
