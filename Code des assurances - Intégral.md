@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1978-07-19
+Version Consolidée au 1978-10-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -286,10 +286,10 @@ Version Consolidée au 1978-07-19
             - [Compte 89 - Bilan - Passif. (art. R343-3)](#283)
           - [Section IV : Terminologie explicative et modalités de fonctionnement des comptes. (art. R343-4)](#284)
           - [Section V : Règles spéciales aux mutuelles agricoles. (art. R343-5)](#285)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R*411-1 à R*441-29)](#286)
-      - [Titre Ier : Organisations générales d'assurance. (art. R*411-1 à R*412-2)](#287)
-        - [Chapitre I : Le conseil national des assurances (art. R*411-1 à R*411-2)](#288)
-          - [Section I : Organisation et attributions. (art. R*411-1 à R*411-2)](#289)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R*411-2 à R*441-29)](#286)
+      - [Titre Ier : Organisations générales d'assurance. (art. R*411-2 à R*412-2)](#287)
+        - [Chapitre I : Le conseil national des assurances (art. R*411-2 à R411-1)](#288)
+          - [Section I : Organisation et attributions. (art. R*411-2 à R411-1)](#289)
         - [Chapitre II : L'école nationale d'assurances. (art. R*412-1 à R*412-2)](#290)
       - [Titre II : Le fonds de garantie Section I : Dispositions spéciales aux accidents d'automobile survenus en France métropolitaine et dans les départements d'outre-mer. (art. R*420-1)](#291)
       - [Titre II : Le fonds de garantie (art. R*420-2 à R*420-70)](#292)
@@ -29898,140 +29898,6 @@ _Cite_:
 
 ##### Section I : Organisation et attributions.<a id=289></a>
 
-###### Article R*411-1
-
-Il est créé un conseil national des assurances, dont les attributions sont définies à l'article R. 411-2.
-
-Ce conseil, placé sous la présidence du ministre de l'économie et des finances, comprend, indépendamment de son président :
-
-Un vice-président, désigné par le ministre de l'économie et des finances sur proposition du garde des sceaux, ministre de la
-justice, parmi les membres du Conseil d'Etat ayant au moins le rang de conseiller, en activité ou honoraire, et trente-sept
-membres ainsi répartis :
-
-Un membre de la Cour de cassation ayant au moins le rang de conseiller, en activité ou honoraire, désigné par le ministre de
-l'économie et des finances sur proposition du garde des sceaux, ministre de la justice, et suppléant le vice-président en cas
-d'absence ou d'empêchement de celui-ci ;
-
-Le directeur du Trésor au ministère de l'économie et des finances ;
-
-Le directeur général de la caisse des dépôts et consignations ;
-
-Le directeur général de la caisse centrale de réassurance ;
-
-Un professeur d'une unité de droit d'une université de Paris, désigné par le ministre de l'économie et des finances ;
-
-Cinq fonctionnaires en activité ou en retraite, désignés à raison de :
-
-Trois par le ministre de l'économie et des finances ;
-
-Un par le ministre de l'intérieur ;
-
-Un par le ministre de l'agriculture ;
-
-Le délégué général du comité national pour la prévention et la protection ;
-
-Un représentant de la fédération nationale de la mutualité, de la coopération et du crédit agricole ;
-
-Un membre du comité français de la chambre de commerce internationale, désigné par ce comité ;
-
-Sept représentants des assurés, désignés à raison de :
-
-Un par l'assemblée permanente des présidents de chambre de commerce et d'industrie ;
-
-Un par l'assemblée des présidents de chambres de métiers ;
-
-Un par l'assemblée des présidents de chambres d'agriculture ;
-
-Un par l'union nationale des associations familiales ;
-
-Un par l'union nationale de la propriété bâtie de France ;
-
-Deux par les organisations syndicales représentatives des travailleurs, désignées par arrêté du ministre de l'économie et des
-finances et du ministre du travail ;
-
-Ces sept représentants des assurés ne peuvent être choisis parmi les professionnels de l'assurance en activité ;
-
-Cinq représentants du personnel des entreprises d'assurance et de capitalisation, désignés par les fédérations ou syndicats
-représentatifs à raison de :
-
-Un pour le personnel de direction ;
-
-Un pour le personnel des cadres ;
-
-Un pour les inspecteurs ;
-
-Deux pour les employés.
-
-Aucun syndicat ou fédération ne peut désigner plus d'un représentant ;
-
-Trois représentants des agents généraux d'assurances, désignés par l'organisation syndicale la plus représentative des agents
-généraux d'assurances ;
-
-Un représentant des courtiers d'assurances, désigné par l'organisation syndicale la plus représentative des courtiers
-d'assurances ;
-
-Sept représentants des entreprises d'assurance opérant en France, désignés par l'organisation professionnelle la plus
-représentative de ces entreprises ;
-
-Un professionnel de l'assurance mutuelle agricole, désigné par le conseil d'administration de la caisse centrale des
-mutuelles agricoles.
-
-Le directeur des assurances au ministère de l'économie et des finances, ou son représentant, participe avec voix consultative
-aux séances du conseil national des assurances. En cas d'absence du ministre, il a voix délibérative.
-
-Le ministre de l'économie et des finances et le conseil national des assurances peuvent appeler à prendre part aux séances du
-conseil, avec voix consultative, les personnes que leurs connaissances mettent en mesure d'éclairer la discussion : le
-conseil national des assurances peut aussi constituer dans son sein des commissions d'études auxquelles peuvent être appelées
-à participer toutes personnes compétentes ou intéressées par l'objet des travaux de la commission.
-
-En vue de coordonner l'action du conseil national des assurances et du conseil national du crédit, le directeur des
-assurances au ministère de l'économie et des finances, ou son représentant, assiste avec voix consultative à toutes les
-séances du conseil national du crédit ainsi qu'à celles des comités constitués dans son sein.
-
-Les membres du conseil national des assurances sont désignés pour une période de trois ans, renouvelable.
-
-Le secrétariat du conseil national des assurances est assuré par des fonctionnaires mis à la disposition du conseil par le
-ministre de l'économie et des finances.
-
-Les dépenses de fonctionnement du conseil national des assurances sont supportées par le budget du ministère de l'économie et
-des finances. Elles sont couvertes au moyen de contributions proportionnelles au montant des primes ou cotisations encaissées
-par les entreprises régies par l'article L. 310-1 et dans les conditions prévues à l'article L. 310-9.
-
-Un arrêté du ministre de l'économie et des finances détermine les conditions de fonctionnement du conseil national des
-assurances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°46-835 1946-04-25 art. 14
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. A411-1 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A411-10 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A411-11 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A411-2 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A411-3 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A411-4 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A411-5 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A411-6 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A411-7 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A411-8 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A411-9 (Ab)
-  - TXT_ASSOCIE: Code des assurances A411-1 à A411-11
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. L310-9 (M)
-  - Code des assurances - art. R*411-2 (M)
-
-
 ###### Article R*411-2
 
 Le conseil national des assurances délibère sur toutes les questions qui lui sont soumises par le ministre de l'économie et
@@ -30098,6 +29964,142 @@ _Codifié par_:
 _Cité par_:
 
   - Code des assurances - art. R411-1 (M)
+
+
+###### Article R411-1
+
+Il est créé un conseil national des assurances, dont les attributions sont définies à l'article R. 411-2.
+
+Ce conseil, placé sous la présidence du ministre de l'économie et des finances, comprend, indépendamment de son président :
+
+Un vice-président, désigné par le ministre de l'économie et des finances sur proposition du garde des sceaux, ministre de la
+justice, parmi les membres du Conseil d'Etat ayant au moins le rang de conseiller, en activité ou honoraire, et trente-huit
+membres ainsi répartis :
+
+Un membre de la Cour de cassation ayant au moins le rang de conseiller, en activité ou honoraire, désigné par le ministre de
+l'économie et des finances sur proposition du garde des sceaux, ministre de la justice, et suppléant le vice-président en cas
+d'absence ou d'empêchement de celui-ci ;
+
+Le directeur du Trésor au ministère de l'économie et des finances ;
+
+Le directeur général de la caisse des dépôts et consignations ;
+
+Le directeur général de la caisse centrale de réassurance ;
+
+Un professeur d'une unité de droit d'une université de Paris, désigné par le ministre de l'économie et des finances ;
+
+Cinq fonctionnaires en activité ou en retraite, désignés à raison de :
+
+Trois par le ministre de l'économie et des finances ;
+
+Un par le ministre de l'intérieur ;
+
+Un par le ministre de l'agriculture ;
+
+Le délégué général du comité national pour la prévention et la protection ;
+
+Un représentant de la fédération nationale de la mutualité, de la coopération et du crédit agricole ;
+
+Un membre du comité français de la chambre de commerce internationale, désigné par ce comité ;
+
+Sept représentants des assurés, désignés à raison de :
+
+Un par l'assemblée permanente des présidents de chambre de commerce et d'industrie ;
+
+Un par l'assemblée des présidents de chambres de métiers ;
+
+Un par l'assemblée des présidents de chambres d'agriculture ;
+
+Un par l'union nationale des associations familiales ;
+
+Un par l'union nationale de la propriété bâtie de France ;
+
+Deux par les organisations syndicales représentatives des travailleurs, désignées par arrêté du ministre de l'économie et des
+finances et du ministre du travail ;
+
+Ces sept représentants des assurés ne peuvent être choisis parmi les professionnels de l'assurance en activité ;
+
+Cinq représentants du personnel des entreprises d'assurance et de capitalisation, désignés par les fédérations ou syndicats
+représentatifs à raison de :
+
+Un pour le personnel de direction ;
+
+Un pour le personnel des cadres ;
+
+Un pour les inspecteurs ;
+
+Deux pour les employés.
+
+Aucun syndicat ou fédération ne peut désigner plus d'un représentant ;
+
+Trois représentants des agents généraux d'assurances, désignés par l'organisation syndicale la plus représentative des agents
+généraux d'assurances ;
+
+Un représentant des courtiers d'assurances, désigné par l'organisation syndicale la plus représentative des courtiers
+d'assurances ;
+
+Sept représentants des sociétés d'assurance opérant en France, désignés par l'organisation professionnelle la plus
+représentative de ces entreprises ;
+
+Un représentant des sociétés adhérant au groupement des sociétés d'assurances à caractère mutuel, désigné par cet organisme.
+
+Un professionnel de l'assurance mutuelle agricole, désigné par le conseil d'administration de la caisse centrale des
+mutuelles agricoles.
+
+Le directeur des assurances au ministère de l'économie et des finances, ou son représentant, participe avec voix consultative
+aux séances du conseil national des assurances. En cas d'absence du ministre, il a voix délibérative.
+
+Le ministre de l'économie et des finances et le conseil national des assurances peuvent appeler à prendre part aux séances du
+conseil, avec voix consultative, les personnes que leurs connaissances mettent en mesure d'éclairer la discussion : le
+conseil national des assurances peut aussi constituer dans son sein des commissions d'études auxquelles peuvent être appelées
+à participer toutes personnes compétentes ou intéressées par l'objet des travaux de la commission.
+
+En vue de coordonner l'action du conseil national des assurances et du conseil national du crédit, le directeur des
+assurances au ministère de l'économie et des finances, ou son représentant, assiste avec voix consultative à toutes les
+séances du conseil national du crédit ainsi qu'à celles des comités constitués dans son sein.
+
+Les membres du conseil national des assurances sont désignés pour une période de trois ans, renouvelable.
+
+Le secrétariat du conseil national des assurances est assuré par des fonctionnaires mis à la disposition du conseil par le
+ministre de l'économie et des finances.
+
+Les dépenses de fonctionnement du conseil national des assurances sont supportées par le budget du ministère de l'économie et
+des finances. Elles sont couvertes au moyen de contributions proportionnelles au montant des primes ou cotisations encaissées
+par les entreprises régies par l'article L. 310-1 et dans les conditions prévues à l'article L. 310-9.
+
+Un arrêté du ministre de l'économie et des finances détermine les conditions de fonctionnement du conseil national des
+assurances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°78-987 1978-09-29 art. 1, art. 2 JORF 4 octobre 1978
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. A411-1 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A411-10 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A411-11 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A411-2 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A411-3 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A411-4 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A411-5 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A411-6 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A411-7 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A411-8 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A411-9 (Ab)
+  - TXT_ASSOCIE: Code des assurances A411-1 à A411-11
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L310-9 (M)
+  - Code des assurances - art. R*411-2 (M)
 
 
 #### Chapitre II : L'école nationale d'assurances.<a id=290></a>
