@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-05-11
+Version Consolidée au 2004-05-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -88551,6 +88551,3295 @@ _Cite_:
   - Code des assurances - art. L310-2 (V)
   - Code des assurances - art. L441-1 (V)
   - Code des assurances - art. R441-21 (V)
+
+
+###### Article Annexe A344-10 ETAT C6 bis
+
+**ÉTAT C 6 BIS **
+
+**Test d'exigibilité **
+
+Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 établissent annuellement, selon le modèle fixé ci-après, un état
+donnant les résultats du test d'exigibilité mentionné aux articles R. 344-4 et A. 344-15. 
+
+Lorsque, du fait des conditions légales, il ne peut y avoir de compensation financière entre les actifs représentatifs de
+différents portefeuilles de contrats, les tableaux sont établis par l'entreprise pour chaque portefeuille de contrat et
+l'état résulte de l'agrégation des tableaux relatifs à chaque portefeuille. 
+
+Les engagements des contrats en unités de compte et les actifs correspondants ne sont pas pris en compte. Les transformations
+de garanties en euros en garanties en unités de compte sont assimilées à des prestations échues. 
+
+Le montant des prestations tient compte du minimum de revalorisation résultant de la participation aux bénéfices
+contractuelle et réglementaire. 
+
+Dans le tableau D sont aussi donnés les résultats d'un scénario de référence dans lequel il n'y a pas de détérioration des
+marchés financiers. 
+
+Étape 1 : simulation du montant des cessions futures 
+
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="233">
+
+EXERCICES 
+
+</td>
+      <td width="84">
+
+RÉALISÉ N 
+
+</td>
+      <td width="48">
+
+N + 1 
+
+</td>
+      <td width="48">
+
+N + 2 
+
+</td>
+      <td width="48">
+
+N + 3 
+
+</td>
+      <td width="48">
+
+N + 4 
+
+</td>
+      <td width="48">
+
+N + 5 
+
+</td>
+      <td width="57">
+
+TOTAL N + 1 à N + 5 
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Tableau A : Décaissements
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Vie :
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Prestations (hors rachats) et frais payés
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Rachats exceptionnels (majorés) (1)
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Total prestations Vie
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+- dont intérêts techniques
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+- dont participation aux bénéfices
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Non-vie :
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Total prestations non-vie (majorées) (1)
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Autres décaissements (2)
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Total (i)
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Tableau B : Encaissements (3)
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Revenus nets des placements
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+- dont sur placements échus dans les cinq ans
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Placements échus
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+- dont ceux relevant de R. 332-19 (titres monétaires et obligataires)
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+- dont ceux relevant de R. 332-20 (dépôts, prêts)
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Part des réassureurs dans les prestations (majorées) (1)
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Autres actifs techniques admis en représentation
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Total (ii)
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="233">
+
+Solde encaissements / décaissements (iii) = (ii)-(i)
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="48">
+
+-
+
+</td>
+      <td valign="top" width="57">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8" width="614">
+
+(1) Pour le réalisé N, on ne met que les rachats constatés et les prestations non-vie constatées. 
+
+(2) Inclus notamment les frais d'administration des contrats. 
+
+(3) Hors produit des cessions d'actif. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Étape 2 : résultat des cessions 
+
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="257">
+
+</td>
+      <td width="132">
+
+VALEUR NETTE comptable 
+
+</td>
+      <td width="132">
+
+VALEUR de réalisation 
+
+</td>
+      <td width="93">
+
+PLUS OU moins-value latente 
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+Tableau C : Placements au 31 / 12 / N (4)
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+Produits de taux
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+- dont disponibilités
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+- dont placements échus dans les cinq ans
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+- dont placements échus au-delà de cinq ans
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+Actions et actifs assimilés
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+Actifs immobiliers
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+Total
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+Dont :
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+Total R. 332-19
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="257">
+
+Total R. 332-20
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="132">
+
+-
+
+</td>
+      <td width="93">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4" width="614">
+
+(4) Pour le classement des actifs, on se réfère à l'état T 3. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+.
+
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="149">
+
+</td>
+      <td width="96">
+
+SCÉNARIO de référence 
+
+</td>
+      <td width="96">
+
+SCÉNARIO taux (+ 200 pb) 
+
+</td>
+      <td width="96">
+
+SCÉNARIO actions (indice-30 %) 
+
+</td>
+      <td width="96">
+
+SCÉNARIO immobilier (prix-20 %) 
+
+</td>
+      <td width="81">
+
+SCÉNARIO global 
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Tableau D : Cessions
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="81">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Disponibilités au 31 / 12 / N
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="81">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Cumul des soldes (5)
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="81">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Ajustement de revenus net de PB (6)
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="81">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Montant des cessions à effectuer (7)
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="81">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Valeur de réalisation dégradée des placements (8)
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="81">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Pourcentage des placements à céder (9)
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="81">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Plus ou moins-value latente sur placements (10)
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="81">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Résultat des cessions (11)
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="81">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="149">
+
+Rappel : PRE au 31 / 12 / N
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="96">
+
+-
+
+</td>
+      <td width="81">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6" width="614">
+
+(5) Ligne (iii) colonne Total, négatif si décaissements supérieurs aux encaissements. 
+
+(6) Résultant de la détérioration du marché. 
+
+(7) Si la somme des trois lignes précédentes est négative, l'opposé de cette somme ; zéro sinon. 
+
+(8) Hors disponibilités et actifs échus dans les cinq ans. 
+
+(9) Rapport du montant des cessions à effectuer à la valeur de réalisation dégradée des placements. 
+
+(10) Hors disponibilités et actifs échus dans les cinq ans. 
+
+(11) Produit du pourcentage des placements à céder par la plus ou moins-value latente.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 avril 2004 - art. 2
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code des assurances - art. L310-2 (V)
+  - Code des assurances - art. R332-19 (V)
+  - Code des assurances - art. R332-20 (V)
+  - Code des assurances - art. R344-4 (V)
+
+
+###### Article Annexe A344-10 ETAT C8
+
+**ÉTAT C 8 **
+
+**Description du plan de réassurance **
+
+Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 établissent, selon le modèle fixé ci-après, un état décrivant
+leur plan de réassurance en vigueur à la date à laquelle ce document d'analyse est adressé à la commission de contrôle pour
+chacun des types de risques qu'elles souscrivent en affaires directes et qui figurent dans la liste suivante :
+
+- dommages corporels, incapacité, invalidité ;
+
+- dommages corporels, frais de soins ;
+
+- dommages corporels, dépendance ;
+
+- dommages corporels, autres dommages ;
+
+- automobile, responsabilité civile, matériels ;
+
+- automobile, responsabilité civile, corporels ;
+
+- automobile, dommages ;
+
+- incendie, particuliers ;
+
+- incendie, professionnels ;
+
+- tempête, ouragan, cyclone ;
+
+- grêle ;
+
+- catastrophes naturelles ;
+
+- responsabilité civile générale, particuliers ;
+
+- responsabilité civile générale, professionnels ;
+
+- transports, maritime ;
+
+- transports, aviation ;
+
+- transports, spatial ;
+
+- transports, marchandises transportées ;
+
+- construction, dommages ;
+
+- construction, responsabilité civile ;
+
+- crédit caution ;
+
+- assurance non-vie : autre risque ;
+
+- assurance vie : décès toutes causes ;
+
+- garanties plancher des contrats en unités de compte ;
+
+- assurance vie et capitalisation : autre risque. 
+
+Tableau A 
+
+Couverture proportionnelle 
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="629">
+  <tbody>
+    <tr>
+      <td width="173">
+
+COUVERTURE PROPORTIONNELLE (1) 
+
+</td>
+      <td width="84">
+
+TAUX de cession (2) 
+
+(A) 
+
+</td>
+      <td width="120">
+
+ASSIETTE de primes (3) 
+
+(B) 
+
+</td>
+      <td width="120">
+
+LIMITE par événement (4) 
+
+(C) 
+
+</td>
+      <td width="132">
+
+COMMISSION de réassurance (5) 
+
+(D) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="173">
+
+</td>
+      <td width="84">
+
+</td>
+      <td width="120">
+
+</td>
+      <td width="120">
+
+</td>
+      <td width="132">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Tableau B 
+
+Couverture non proportionnelle par risque 
+
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="77">
+
+COUVERTURE non proportionnelle par risque (6) 
+
+</td>
+      <td width="77">
+
+TAUX de placement (7) 
+
+</td>
+      <td width="77">
+
+FRANCHISE annuelle (8) 
+
+</td>
+      <td width="77">
+
+PRIORITÉ 
+
+</td>
+      <td width="77">
+
+PORTÉE (9) 
+
+</td>
+      <td width="77">
+
+PRIME DE réassurance (5) 
+
+</td>
+      <td width="77">
+
+NOMBRE DE reconstitutions (10) 
+
+</td>
+      <td width="77">
+
+PRIME DE reconstitution (11) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="77">
+
+</td>
+      <td width="77">
+
+(A) 
+
+</td>
+      <td width="77">
+
+(B) 
+
+</td>
+      <td width="77">
+
+(C) 
+
+</td>
+      <td width="77">
+
+(D) 
+
+</td>
+      <td width="77">
+
+(E) 
+
+</td>
+      <td width="77">
+
+(F) 
+
+</td>
+      <td width="77">
+
+(G) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 1 (12) 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 2 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 3 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 4 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 5 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 6 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 7 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 8 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 9 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 10 (13) (14) 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+  </tbody>
+</table>
+
+Tableau C 
+
+Couverture non proportionnelle par événement 
+
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="77">
+
+COUVERTURE non proportionnelle par événement (15) 
+
+</td>
+      <td width="77">
+
+TAUX de placement (7) 
+
+</td>
+      <td width="77">
+
+FRANCHISE annuelle (8) 
+
+</td>
+      <td width="77">
+
+PRIORITÉ 
+
+</td>
+      <td width="77">
+
+PORTÉE (9) 
+
+</td>
+      <td width="77">
+
+PRIME DE réassurance (5) 
+
+</td>
+      <td width="77">
+
+NOMBRE DE reconstitutions (10) 
+
+</td>
+      <td width="77">
+
+PRIME DE reconstitution (11) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="77">
+
+</td>
+      <td width="77">
+
+(A) 
+
+</td>
+      <td width="77">
+
+(B) 
+
+</td>
+      <td width="77">
+
+(C) 
+
+</td>
+      <td width="77">
+
+(D) 
+
+</td>
+      <td width="77">
+
+(E) 
+
+</td>
+      <td width="77">
+
+(F) 
+
+</td>
+      <td width="77">
+
+(G) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 1 (12) 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 2 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 3 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 4 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 5 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 6 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 7 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 8 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 9 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+    <tr>
+      <td width="77">
+
+Tranche n° 10 (13) (14) 
+
+</td>
+      <td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+      </td><td width="77">
+    </td></tr>
+  </tbody>
+</table>
+
+Tableau D 
+
+Synthèse des couvertures 
+
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="123">
+
+SYNTHÈSE (16) 
+
+</td>
+      <td width="123">
+
+PROPORTIONNELLE avant ou après non proportionnelle (17) 
+
+</td>
+      <td width="123">
+
+CONSERVATION maximale hors dépassement de couverture (18) 
+
+</td>
+      <td width="123">
+
+SEUIL de dépassement (19) 
+
+</td>
+      <td width="123">
+
+PRESTATION maximale possible du cédant (20) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="123">
+
+</td>
+      <td width="123">
+
+(A) 
+
+</td>
+      <td width="123">
+
+(B) 
+
+</td>
+      <td width="123">
+
+(C) 
+
+</td>
+      <td width="123">
+
+(D) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="123">
+
+Couverture par risque 
+
+</td>
+      <td width="123">
+      </td><td width="123">
+      </td><td width="123">
+      </td><td width="123">
+    </td></tr>
+    <tr>
+      <td width="123">
+
+Couverture par événement 
+
+</td>
+      <td width="123">
+      </td><td width="123">
+      </td><td width="123">
+      </td><td width="123">
+    </td></tr>
+  </tbody>
+</table>
+
+Tableau E 
+
+Couverture en excédent de perte annuelle 
+
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="123">
+
+COUVERTURE EN EXCÉDENT de perte annuelle (21) 
+
+</td>
+      <td width="123">
+
+TAUX de placement (7) 
+
+</td>
+      <td width="123">
+
+PRIORITÉ 
+
+</td>
+      <td width="123">
+
+PORTÉE (9) 
+
+</td>
+      <td width="123">
+
+PRIME de réassurance (5) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="123">
+
+</td>
+      <td width="123">
+
+(A) 
+
+</td>
+      <td width="123">
+
+(B) 
+
+</td>
+      <td width="123">
+
+(C) 
+
+</td>
+      <td width="123">
+
+(D) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="123">
+
+</td>
+      <td width="123">
+
+</td>
+      <td width="123">
+
+</td>
+      <td width="123">
+
+</td>
+      <td width="123">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+(1) Si aucune couverture proportionnelle n'est souscrite pour le type de risque concerné, ce tableau n'est pas renseigné. 
+
+(2) Ce taux doit être exprimé sous forme de pourcentage et précisé avec deux chiffres après la virgule (par exemple : 33, 18
+%). 
+
+(3) Assiette de primes estimée à laquelle le taux de cession renseigné dans la colonne A s'applique. 
+
+(4) Si aucune limite par événement n'est prévue, cette colonne n'est pas renseignée. 
+
+(5) Montant estimé pour l'année en cours. 
+
+(6) Si aucune couverture non proportionnelle par risque n'est souscrite pour le type de risque concerné, le tableau n'est pas
+renseigné. 
+
+(7) Il s'agit du taux de placement du programme de réassurance à la date à laquelle cet état est adressé à la commission de
+contrôle, exprimé sous forme de pourcentage et précisé avec deux chiffres après la virgule (par exemple : 98, 33 %). Un taux
+de placement égal à 100 % signifie donc que la couverture effective de l'entreprise correspond exactement à la couverture
+caractérisée par les éléments indiqués dans les colonnes B à G (franchise annuelle, priorité, portée, nombre de
+reconstitutions). 
+
+(8) Il s'agit du montant cumulé sur l'année (appelé également franchise annuelle aggregate) de sinistres concernés à partir
+duquel la couverture est susceptible de jouer. Si aucune franchise n'est prévue, cette cellule n'est pas renseignée. 
+
+(9) Il s'agit du montant de la garantie de réassurance jouant au-delà de la priorité. Si la portée est illimitée, inscrire
+par convention "-1 ". 
+
+(10) Il s'agit du nombre de reconstitutions prévues contractuellement, que celles-ci soient gratuites ou non. Si ce nombre
+est illimité, inscrire par convention "-1 ". 
+
+(11) Il s'agit du montant de la prime à payer pour la première reconstitution. 
+
+(12) Les tranches sont classées de la plus basse à la plus élevée. La tranche n° 1 correspond donc à la plus basse tranche du
+plan de réassurance. 
+
+(13) La tranche n° 10 figurant dans le tableau correspond à l'agrégation de toutes les tranches du plan de réassurance au-
+delà de la tranche n° 9. 
+
+(14) Si l'ensemble des tranches au-delà de la tranche n° 9 n'est pas entièrement placé, ne pas renseigner cette cellule du
+tableau. 
+
+(15) Si aucune couverture non proportionnelle par événement n'est souscrite pour le type de risque concerné, ce tableau n'est
+pas renseigné. 
+
+(16) Il s'agit de la synthèse des couvertures renseignées dans les tableaux précédents A, B et C. 
+
+(17) Inscrire par convention 1  si la couverture proportionnelle intervient avant la couverture non proportionnelle, et
+inscrire " 2 " sinon. 
+
+(18) La conservation maximale hors dépassement de couverture est la rétention par sinistre ou par événement nette maximale
+possible compte non tenu des dépassements de couverture non proportionnelle. Si cette conservation maximale est illimitée,
+inscrire par convention "-1 ". 
+
+(19) Le seuil de dépassement de couverture non proportionnelle est le montant du sinistre au-delà duquel la couverture non
+proportionnelle propre au type de risque ne joue plus. Si aucun dépassement n'est possible, inscrire par convention "-1 ". 
+
+(20) La prestation maximale possible correspond au montant de la garantie (afférente au type de risque concerné) la plus
+importante prévue dans un contrat d'assurance souscrit par l'entreprise ou, si ce n'est pas pertinent, au plus fort sinistre
+maximal possible afférent à un contrat d'assurance, en net de réassurances facultatives. 
+
+(21) Par couverture en excédent de perte annuelle, on entend les protections de type stop loss. Si aucune couverture en
+excédent de perte annuelle n'est souscrite pour le type de risque concerné, ce tableau n'est pas renseigné.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 avril 2004 art 5 (V)
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code des assurances - art. L310-2 (V)
+
+
+###### Article Annexe A344-10 ETAT C9
+
+**ÉTAT C 9 **
+
+**Dispersion des réassureurs et simulations d'événements **
+
+Les entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 établissent, selon le modèle fixé ci-après, un état décrivant, à
+la date de clôture du dernier exercice inventorié, la dispersion de leurs cessionnaires et rétrocessionnaires et retraçant le
+niveau de protection conféré par leurs protections en réassurances si survenaient des événements défavorables. 
+
+Tableau A 
+
+Répartition par réassureur des provisions techniques cédées 
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2" width="154">
+
+DISPERSION DES CESSIONS (1) 
+
+</td>
+      <td rowspan="2" width="154">
+
+NOM (2) 
+
+</td>
+      <td colspan="2" width="307">
+
+PROVISIONS TECHNIQUES CÉDÉES OU RÉTROCÉDÉES 
+
+</td>
+    </tr>
+    <tr>
+      <td width="154">
+
+Montant notifié au réassureur 
+
+</td>
+      <td width="154">
+
+Montant non notifié au réassureur (3) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="154">
+
+</td>
+      <td width="154">
+
+(A) 
+
+</td>
+      <td width="154">
+
+(B) 
+
+</td>
+      <td width="154">
+
+(C) 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Réassureur 1 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Réassureur 2 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Réassureur 3 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Réassureur 4 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Réassureur 5 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Réassureur 6 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Réassureur 7 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Réassureur 8 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Réassureur 9 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Réassureur 10 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Autres réassureurs 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="154">
+
+Total 
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="101">
+
+DISPERSION DES CESSIONS 
+
+</td>
+      <td width="97">
+
+SOLDE des comptes courants (4) 
+
+</td>
+      <td width="98">
+
+DÉPÔTS ESPÈCES 
+
+</td>
+      <td width="99">
+
+MONTANT des autres garanties apportées (5) 
+
+</td>
+      <td width="121">
+
+PROVISIONS techniques cédées non garanties / Capitaux propres nets d'incorporels (6) 
+
+</td>
+      <td width="99">
+
+MONTANT des créances de plus d'un an (7) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+</td>
+      <td width="97">
+
+(D) 
+
+</td>
+      <td width="98">
+
+(E) 
+
+</td>
+      <td width="99">
+
+(F) 
+
+</td>
+      <td width="121">
+
+(G) 
+
+</td>
+      <td width="99">
+
+(H) 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Réassureur 1 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Réassureur 2 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Réassureur 3 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Réassureur 4 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Réassureur 5 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Réassureur 6 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Réassureur 7 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Réassureur 8 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Réassureur 9 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Réassureur 10 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Autres réassureurs 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="101">
+
+Total 
+
+</td>
+      <td valign="top" width="97">
+
+</td>
+      <td valign="top" width="98">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+      <td valign="top" width="121">
+
+</td>
+      <td valign="top" width="99">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6" valign="top" width="614">
+
+(1) Les réassureurs de l'entreprise sont à classer par ordre d'importance des provisions techniques cédées ou rétrocédées (y
+compris la part non notifiée de ces provisions). Le réassureur n° 1 correspond au réassureur le plus important. Les montants
+demandés dans ce tableau sont ceux à la date de clôture du dernier exercice inventorié et retracés dans le bilan. 
+
+(2) Il s'agit de la dénomination usuelle du réassureur. 
+
+(3) Il s'agit des montants de provisions techniques à charge des réassureurs figurant au bilan mais qui n'ont pas été
+communiqués à ces derniers. 
+
+(4) Il s'agit du montant des soldes des comptes courants à la date de clôture du dernier exercice inventorié (signe-s'ils
+sont en faveur du réassureur). 
+
+(5) Il s'agit du montant des garanties apportées conformément à l'article R. 332-17 (nantissement et garantie à première
+demande). 
+
+(6) Ce ratio doit être exprimé sous forme de pourcentage et précisé avec deux chiffres après la virgule (par exemple : 33, 18
+%). Le calcul à effectuer est le suivant : (G) = (B + C + D-E-F) / (capitaux propres après affectation-actifs incorporels),
+ou zéro si le résultat est négatif. 
+
+(7) Il s'agit des créances au titre des comptes courants.L'ancienneté de ces créances est à mesurer par la durée qui sépare
+la date d'exigibilité de la créance de la date de clôture du dernier exercice inventorié. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Tableau B 
+
+Simulations d'événements 
+
+Les entreprises agréées pour les opérations visées au 1° de l'article L. 310-1 doivent renseigner les lignes numérotées 1, 7,
+8 et 9 du tableau suivant. Les autres entreprises doivent renseigner les lignes numérotées 1 à 6. 
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="3" width="205">
+
+SIMULATION SUR L'ENSEMBLE des risques souscrits 
+
+</td>
+      <td colspan="2" width="409">
+
+CHARGE DE SINISTRE (1) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+Brute 
+
+</td>
+      <td width="205">
+
+Nette 
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+(A) 
+
+</td>
+      <td width="205">
+
+(B) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+1. Pire événement survenu pour la société (2) 
+
+</td>
+      <td width="205">
+
+</td>
+      <td width="205">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+2. Tempêtes Lothar et Martin (3) 
+
+</td>
+      <td width="205">
+
+</td>
+      <td width="205">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+3. Evénement centenaire (4) " tempête-ouragan-cyclone " (5) 
+
+</td>
+      <td width="205">
+
+</td>
+      <td width="205">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+4. Evénement centenaire (4) " inondations " (5) 
+
+</td>
+      <td width="205">
+
+</td>
+      <td width="205">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+5. Evénement centenaire (4) " tremblement de terre et autres cataclysmes " (5) 
+
+</td>
+      <td width="205">
+
+</td>
+      <td width="205">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+6. Evénement majeur " responsabilité civile " (6) 
+
+</td>
+      <td width="205">
+
+</td>
+      <td width="205">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+7. Evénement majeur " accidents technologiques " (7) 
+
+</td>
+      <td width="205">
+
+</td>
+      <td width="205">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+8. Evénement majeur " épidémie " (8) 
+
+</td>
+      <td width="205">
+
+</td>
+      <td width="205">
+
+</td>
+    </tr>
+    <tr>
+      <td width="205">
+
+9. Evénement majeur " garanties plancher " (9) 
+
+</td>
+      <td width="205">
+
+</td>
+      <td width="205">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+(1) Il s'agit de la charge de sinistres réévaluée correspondant à la survenance dans l'exercice en cours des événements
+définis dans ce tableau, compte tenu du portefeuille actuel de risques de la société. La charge nette doit tenir compte des
+couvertures actuelles en réassurance. 
+
+(2) Evénement qu'a connu l'entreprise dans le passé et qui conduirait, s'il survenait dans l'exercice en cours, à la charge
+de sinistres brute de réassurance la plus importante, compte tenu de l'actuel portefeuille de risques de l'entreprise. La
+charge nette doit tenir compte des couvertures actuelles en réassurance. 
+
+(3) Les charges de sinistres simulées relatives à ces deux événements (tempêtes du 26 et du 27 décembre 1999) doivent tenir
+compte de l'actuel portefeuille de risques de l'entreprise ainsi que de ses actuelles couvertures en réassurance. 
+
+(4) Evénement dont la période de retour, au regard du portefeuille de risques de l'entreprise, est égale à 100 années et dont
+la charge de sinistre brute de réassurance est la plus élevée. 
+
+(5) Sont à exclure les risques de la société qui sont cédés de manière illimitée à la Caisse centrale de réassurance avec la
+garantie de l'Etat. 
+
+(6) Il s'agit d'un scénario défavorable concernant le risque de responsabilité civile et utilisé par l'entreprise pour
+établir et analyser son programme de réassurance. 
+
+(7) Il s'agit d'un scénario défavorable de type accidents technologiques » utilisé par l'entreprise pour établir et analyser
+son programme de réassurance. 
+
+(8) Il s'agit d'un scénario défavorable de type épidémie » utilisé par l'entreprise pour établir et analyser son programme de
+réassurance. 
+
+(9) Il s'agit d'un scénario défini par la combinaison d'hypothèses financières standardisées. Ces hypothèses consistent, par
+rapport à leur moyenne respective constatée sur les trois dernières années, en une baisse de l'indice boursier de référence
+de 30 %, en une baisse de deux points des taux d'intérêt de l'obligation de référence et en une baisse de 20 % du prix des
+transactions immobilières. La charge de sinistres à renseigner correspond ici à la valeur actuelle probable, calculée au 1er
+janvier de l'exercice en cours, des prestations (nettes des prélèvements effectués au titre de ces garanties) associées aux
+garanties plancher jusqu'à leur extinction sous les hypothèses financières précédentes. Le taux d'actualisation à retenir est
+égal au minimum entre 3, 5 % et 60 % du TME. Entre la table de mortalité TD 88-90 et la table TV 88-90 doit être retenue
+celle donnant la valeur actuelle probable des prestations la plus élevée. Pour le calcul de la charge nette sont prises en
+compte les primes cédées et les prestations cédées, en valeur actuelle probable, et sont appliquées les conditions des
+traités en vigueur, notamment celles concernant la durée de la garantie, sans tenir compte des renouvellements éventuels de
+ces traités.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 avril 2004 - art. 5
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (V)
+  - Code des assurances - art. L310-2 (V)
+  - Code des assurances - art. R332-17 (V)
 
 
 ###### Article Annexe A344-10 ETAT C10
