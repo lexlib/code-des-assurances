@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-06-06
+Version Consolidée au 1986-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -195,8 +195,8 @@ Version Consolidée au 1986-06-06
           - [Section I : Personnes assujetties. (art. R*211-1)](#192)
           - [Section II : Etendue de l'obligation d'assurance. (art. R211-2 à R211-8)](#193)
           - [Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur. (art. R*211-12 à R211-13-1)](#194)
-          - [Section IV : Contrôle de l'obligation d'assurance. (art. R*211-16 à R211-21-6)](#195)
-            - [Paragraphe 1 : L'attestation d'assurance. (art. R*211-18 à R211-15)](#196)
+          - [Section IV : Contrôle de l'obligation d'assurance. (art. R*211-18 à R211-21-6)](#195)
+            - [Paragraphe 1 : L'attestation d'assurance. (art. R*211-18 à R211-17)](#196)
             - [Paragraphe 2 : Le certificat d'assurance. (art. R211-21-1 à R211-21-6)](#197)
           - [Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules. (art. R*211-22 à R211-28)](#198)
         - [Chapitre II : L'obligation d'assurer - Le bureau central de tarification. (art. R*212-2 à R212-6)](#199)
@@ -15828,77 +15828,6 @@ _Cité par_:
 
 ##### Section IV : Contrôle de l'obligation d'assurance.<a id=195></a>
 
-###### Article R*211-16
-
-La présomption qu'il a été satisfait à l'obligation d'assurance est établie par le document justificatif pour la période
-mentionnée sur ce document. Toutefois, cette présomption subsiste au cours des deux mois qui suivent l'expiration de cette
-période.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-_Cité par_:
-
-  - Code des assurances - art. R211-17 (V)
-  - Code des assurances - art. R211-21-4 (V)
-
-_Anciens textes_:
-
-  - Décret n°59-135 1959-01-07 art. 18
-
-
-###### Article R*211-17
-
-Le document justificatif mentionné à l'article R. 211-15 est délivré dans un délai maximal de quinze jours à compter de la
-souscription du contrat et renouvelé lors du paiement des primes ou portions de prime subséquentes.
-
-Faute d'établissement immédiat de ce document, l'entreprise d'assurance délivre sans frais, à la souscription du contrat, une
-attestation provisoire qui établit la présomption d'assurance pendant un délai de vingt jours.
-
-Cette attestation, qui est éventuellement établie en autant d'exemplaires que le document justificatif correspondant, doit
-mentionner :
-
-- la dénomination et l'adresse de l'entreprise d'assurance ;
-
-- les nom, prénoms et adresse du souscripteur du contrat ;
-
-- la nature et le type du véhicule ou, en ce qui concerne les contrats d'assurance mentionnés à l'article R. 211-3, la
-profession du souscripteur ;
-
-- la période pendant laquelle elle est valable.
-
-La carte internationale d'assurance, dite "carte verte", délivrée par le bureau central français des sociétés d'assurances
-contre les accidents d'automobile, vaut comme document justificatif pendant sa période de validité. La présomption qu'il a
-été satisfait à l'obligation d'assurance, établie par la carte internationale d'assurance, subsiste au cours des deux mois
-qui suivent l'expiration de sa période de validité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Cité par_:
-
-  - Code de la route - art. R251 (Ab)
-  - Code de la route. - art. R130-7 (V)
-  - Code des assurances - art. A211-4 (V)
-  - Code des assurances - art. R211-14 (V)
-  - Code des assurances - art. R214-2 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R*211-3 (M)
-  - Code des assurances - art. R211-15 (M)
-
-
 ##### Paragraphe 1 : L'attestation d'assurance.<a id=196></a>
 
 ###### Article R*211-18
@@ -16158,6 +16087,92 @@ _Anciens textes_:
   - Décret n°59-135 1959-01-07 art. 17
 
 
+###### Article R211-16
+
+La présomption qu'il a été satisfait à l'obligation d'assurance est établie par le document justificatif pour la période
+mentionnée sur ce document. Toutefois, cette présomption subsiste un mois à compter de l'expiration de cette période.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-879 du 22 août 1985 - art. 1 () JORF 23 août 1985 en vigueur le 1er juillet 1986
+  - Décret n°85-879 du 22 août 1985 - art. 4 () JORF 23 août 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°85-879 du 22 août 1985 - art. 11 (V)
+  - TXT_ASSOCIE: Code des assurances - art. R211-21-4 (V)
+
+_Cité par_:
+
+  - Code des assurances - art. R211-17 (V)
+  - Code des assurances - art. R211-21-4 (V)
+
+
+###### Article R211-17
+
+Le document justificatif mentionné à l'article R. 211-15 est délivré dans un délai maximal de quinze jours à compter de la
+souscription du contrat et renouvelé lors du paiement des primes ou portions de prime subséquentes.
+
+Faute d'établissement immédiat de ce document, l'entreprise d'assurance délivre sans frais, à la souscription du contrat, une
+attestation provisoire qui établit la présomption d'assurance pendant un délai d'un mois.
+
+Sera puni de la peine d'amende [*sanction*] prévue pour les contraventions de deuxième classe tout assureur qui aura refusé
+de délivrer un des documents justificatifs mentionnés au présent article.
+
+Cette attestation, qui est éventuellement établie en autant d'exemplaires que le document justificatif correspondant, doit
+mentionner :
+
+- la dénomination et l'adresse de l'entreprise d'assurance ;
+
+- les nom, prénoms et adresse du souscripteur du contrat ;
+
+- la nature et le type du véhicule ou, en ce qui concerne les contrats d'assurance mentionnés à l'article R. 211-3, la
+profession du souscripteur ;
+
+- la période pendant laquelle elle est valable.
+
+La carte internationale d'assurance, dite "carte verte", délivrée par le bureau central français des sociétés d'assurances
+contre les accidents d'automobile, vaut comme document justificatif pendant sa période de validité. La présomption qu'il a
+été satisfait à l'obligation d'assurance, établie par la carte internationale d'assurance, subsiste un mois à compter de
+l'expiration de cette période.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-879 du 22 août 1985 - art. 1 () JORF 23 août 1985 en vigueur le 1er juillet 1986
+  - Décret n°85-879 du 22 août 1985 - art. 5 () JORF 23 août 1985 en vigueur le 1er juillet 1986
+  - Décret n°85-879 du 22 août 1985 - art. 6 () JORF 23 août 1985 en vigueur le 1er juillet 1986
+  - Décret n°85-879 du 22 août 1985 - art. 7 () JORF 23 août 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°85-879 du 22 août 1985 - art. 11 (V)
+
+_Cité par_:
+
+  - Code de la route - art. R251 (Ab)
+  - Code de la route. - art. R130-7 (V)
+  - Code des assurances - art. A211-4 (V)
+  - Code des assurances - art. R211-14 (V)
+  - Code des assurances - art. R214-2 (V)
+
+_Cite_:
+
+  - Code des assurances - art. R*211-3 (M)
+  - Code des assurances - art. R211-15 (M)
+
+
 ##### Paragraphe 2 : Le certificat d'assurance.<a id=197></a>
 
 ###### Article R211-21-1
@@ -16329,6 +16344,48 @@ _Créé par_:
 _Cite_:
 
   - Code des assurances - art. R211-16 (V)
+
+
+###### Article R211-21-5
+
+Sera puni de la peine d'amende prévue pour les contraventions de deuxième classe tout souscripteur d'un contrat d'assurance
+relatif à un véhicule mentionné à l'article R. 211-21-1 qui aura omis d'apposer sur le véhicule concerné le certificat prévu
+aux articles R. 211-21-2 et R. 211-21-3 ou aura apposé un certificat non valide.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°85-879 du 22 août 1985 - art. 10 (V)
+  - PILOTE_SUIVEUR: Code de la route. - art. R233-3 (V)
+  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+  - TXT_ASSOCIE: Code des assurances - art. R211-21-2 (V)
+  - TXT_ASSOCIE: Code des assurances - art. R211-21-3 (V)
+
+_Créé par_:
+
+  - Décret n°85-879 du 22 août 1985 - art. 8 () JORF 23 août 1985 en vigueur le 1er juillet 1986
+
+_Cité par_:
+
+  - Décret n°85-879 du 22 août 1985 - art. 10 (V)
+  - Code de la route - art. R248 (Ab)
+  - Code de la route - art. R250-1 (Ab)
+  - Code de la route. - art. R130-1 (V)
+  - Code de la route. - art. R130-3 (M)
+  - Code de la route. - art. R130-4 (V)
+  - Code de la route. - art. R233-3 (M)
+  - Code de procédure pénale - art. R48-1 (V)
+  - Code de procédure pénale - art. R49-1 (V)
+
+_Cite_:
+
+  - Code des assurances - art. R211-21-1 (V)
+  - Code des assurances - art. R211-21-2 (V)
 
 
 ###### Article R211-21-6
