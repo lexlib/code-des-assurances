@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1998-01-03
+Version Consolidée au 1998-04-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -14378,19 +14378,25 @@ Un arrêté du ministre chargé de l'économie détermine les règles de solvabi
 comptes consolidés ou combinés, les entreprises visées à l'article L. 310-1 et les sociétés de participations d'assurance
 visées à l'article L. 345-1, qui sont soumises à l'obligation prévue à l'article L. 345-2.
 
+Lorsque les entreprises visées à l'alinéa précédent font usage de la dispense prévue à l'article 357-8-1 de la loi n° 66-537
+du 24 juillet 1966 sur les sociétés commerciales, ces règles de solvabilité sont déterminées à partir des éléments des
+comptes consolidés ou combinés que ces entreprises auraient présentés si elles n'avaient pas fait usage de la dispense.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-537 1966-07-24 art. 357-8-1
+  - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L345-1 (M)
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
-
-_Créé par_:
-
-  - Loi n°94-679 du 8 août 1994 - art. 4 () JORF 10 août 1994 en vigueur le 1er janvier 1995
+  - Loi n°98-261 du 6 avril 1998 - art. 8 () JORF 7 avril 1998
 
 _Cité par_:
 
@@ -14413,11 +14419,6 @@ _Cité par_:
   - Code monétaire et financier - art. R612-7 (V)
   - Code monétaire et financier - art. R746-2 (VD)
   - Code monétaire et financier - art. R756-2 (VD)
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. L345-1 (M)
 
 
 ### Titre IV : Dispositions comptables et statistiques<a id=111></a>
@@ -14578,9 +14579,10 @@ _Cite_:
 
 Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 et ayant leur siège social en France, les
 entreprises visées à l'article L. 310-1-1 et les sociétés de participations d'assurance telles que définies à l'article L.
-345-1 doivent établir et publier des comptes consolidés dans des conditions définies par décret en Conseil d'Etat. Les
-entreprises qui sont incluses par intégration globale dans les comptes consolidés d'une entreprise elle-même soumise à une
-obligation de consolidation en application du présent alinéa ne sont toutefois pas soumises à cette obligation.
+345-1 doivent établir et publier des comptes consolidés dans des conditions définies par règlement du comité de la
+réglementation comptable. Les entreprises qui sont incluses par intégration globale dans les comptes consolidés d'une
+entreprise elle-même soumise à une obligation de consolidation en application du présent alinéa ne sont toutefois pas
+soumises à cette obligation.
 
 Lorsque la commission de contrôle des assurances considère que les comptes consolidés d'une société de participations
 d'assurance ne permettent pas de porter une appréciation pertinente sur le respect des règles de solvabilité posées à
@@ -14589,24 +14591,15 @@ précédent alinéa.
 
 Lorsque deux ou plusieurs entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 ou de l'article L.
 310-1-1 constituent un ensemble dont la cohésion ne résulte pas de liens en capital, l'une d'elles établit et publie des
-comptes combinés, constitués par agrégation de l'ensemble des comptes, établis s'il y a lieu sur une base consolidée, des
-entreprises concernées. Les modalités d'application du présent alinéa sont définies par décret en Conseil d'Etat. Ce décret
-détermine notamment celle des entreprises sur laquelle pèse l'obligation d'établissement et de publication des comptes
-combinés.
+comptes combinés. Un décret détermine celle des entreprises sur laquelle pèse cette obligation. Les comptes combinés sont
+constitués par agrégation de l'ensemble des comptes des entreprises concernées, établis s'il y a lieu sur une base
+consolidée, dans des conditions définies par un règlement du comité de la réglementation comptable.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet - modalités*, art. 8 *champ d'application à Mayotte*
-
-_Créé par_:
-
-  - Loi n°94-679 du 8 août 1994 - art. 4 () JORF 10 août 1994 en vigueur le 1er janvier 1995
 
 _Cité par_:
 
@@ -14639,6 +14632,11 @@ _Cité par_:
   - Code du travail - art. L3344-1 (VD)
   - Code du travail - art. L444-3 (AbD)
   - Code général des impôts, CGI. - art. 223 A (V)
+
+_Modifié par_:
+
+  - Loi n°98-261 1998-04-06 art. 8 II, III JORF 7 avril 1998
+  - Loi n°98-261 du 6 avril 1998 - art. 8 () JORF 7 avril 1998
 
 _Cite_:
 
