@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1988-07-02
+Version Consolidée au 1988-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -7611,6 +7611,51 @@ _Cite_:
 
   - SPEC_APPLI: Code des assurances - art. L322-3 (M)
   - TXT_ASSOCIE: Code des assurances L328-1 *sanctions pénales*
+
+
+###### Article L322-2-1
+
+Les sociétés d'assurance à forme mutuelle, les sociétés mutuelles d'assurances et leurs unions, ainsi que les caisses
+d'assurances et de réassurances mutuelles agricoles soumises à l'agrément administratif peuvent émettre des titres
+participatifs dans les conditions prévues par les articles 283-6 et 283-7 de la loi n° 66-537 du 24 juillet 1966 sur les
+sociétés commerciales.
+
+Pour l'application de ces dispositions, les mots : "assemblée d'actionnaires ou de porteurs de parts" désignent l'"assemblée
+générale des sociétaires" et le mot : "actionnaires" désigne "sociétaires".
+
+En ce qui concerne leur rémunération, la partie variable de ces titres participatifs ne peut être calculée par référence à un
+critère représentatif du volume d'activité de la société émettrice.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-537 1966-07-24 art. 283-6, art. 283-7
+  - Code des assurances - art. L310-1 (M)
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°88-1201 du 23 décembre 1988 - art. 52 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 1 (V)
+  - Code des assurances - art. L310-12 (M)
+  - Code des assurances - art. R322-105 (V)
+  - Code des assurances - art. R322-106-10 (V)
+  - Code des assurances - art. R322-106-4 (V)
+  - Code des assurances - art. R322-106-5 (V)
+  - Code des assurances - art. R322-74 (Ab)
+  - Code des assurances - art. R322-79 (VD)
+  - Code monétaire et financier - art. L213-33 (V)
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L213-33 (V)
 
 
 ###### Article L322-3
