@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1976-07-21
+Version Consolidée au 1976-12-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -31202,26 +31202,26 @@ _Cite_:
 Les taux des contributions destinées à l'alimentation du fonds de garantie pour l'indemnisation des victimes d'accidents
 corporels de chasse sont les suivants :
 
-Contribution des entreprises d'assurance : 11 p. 100 de la totalité des charges du fonds de garantie.
+Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie, à compter du 1er janvier
+1977.
 
-Contribution des responsables d'accidents corporels non assurés :
-
-- taux normal : 10 p. 100 des indemnités restant à leur charge ;
+- taux normal : 10 % des indemnités restant à leur charge ;
 
 - taux réduit lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des articles
-393 à 395 du code rural : 5 p. 100.
+393 à 395 du code rural : 5 %.
 
 Contribution forfaitaire des assurés : 0,90 F par personne garantie.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°68-583 1968-06-29 art. 1
-
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°76-1207 1976-12-24 art. 2 JORF 26 décembre 1976
+  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
 
 **Liens**:
 
