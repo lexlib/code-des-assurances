@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1996-04-13
+Version Consolidée au 1996-05-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -11063,10 +11063,10 @@ _Cité par_:
 
 Le fait de pratiquer sur le territoire de la République une des opérations mentionnées aux 1°, 2° et 3° de l'article L. 310-1
 sans se conformer aux dispositions des articles L. 310-2 et L. 310-6 est puni d'un emprisonnement de trois ans et d'une
-amende de 500 000 F.
+amende de 500 000 F [*sanctions*].
 
 Lorsqu'une personne physique a commis l'une des infractions prévues au précédent alinéa, la diffusion de la décision, dans
-les conditions prévues par l'article 131-35 du code pénal, peut être prononcée à titre de peine complémentaire.
+les conditions prévues par l'article 712-2 du code pénal, peut être prononcée à titre de peine complémentaire.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
 pénal, des mêmes infractions. Elles encourent les peines suivantes :
@@ -11085,14 +11085,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
-_Créé par_:
-
-  - Loi n°94-5 du 4 janvier 1994 - art. 16 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-  - Loi n°94-5 du 4 janvier 1994 - art. 3 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+  - Ordonnance 96-267 1996-03-28 art. 14 JORF 31 mars 1996 en vigueur le 1er mai 1996
 
 _Cité par_:
 
@@ -11101,9 +11096,9 @@ _Cité par_:
 _Cite_:
 
   - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-35 (M)
   - Code pénal - art. 131-38 (M)
   - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 712-2 (M)
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-2 (M)
   - Code des assurances - art. L310-6 (Ab)
