@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-11-07
+Version Consolidée au 2003-12-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -8216,22 +8216,24 @@ Dans tous les cas, le défaut de production des créances des tiers payeurs, dan
 demande émanant de l'assureur, entraîne déchéance de leurs droits à l'encontre de l'assureur et de l'auteur du dommage.
 
 Dans le cas où la demande émanant de l'assureur ne mentionne pas la consolidation de l'état de la victime, les créances
-produites par les tiers payeurs peuvent avoir un caractère provisionnel.
+produites par les tiers payeurs peuvent avoir un caractère provisionnel. Il en est de même lorsque les prestations de
+sécurité sociale sont versées après avis de la commission départementale d'éducation spéciale ou de la commission technique
+d'orientation et de reclassement professionnel.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°85-677 du 5 juillet 1985 - art. 29 (M)
+  - Loi n°85-677 du 5 juillet 1985 - art. 29 (V)
   - Code des assurances - art. L211-25 (V)
 
 _Codifié par_:
 
   - Décret n°88-260 1988-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-260 du 18 mars 1988 - art. 2 () JORF 20 mars 1988
+  - Loi n°2003-1199 du 18 décembre 2003 - art. 8 () JORF 19 décembre 2003
 
 _Cité par_:
 
