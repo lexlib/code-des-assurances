@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-08-21
+Version Consolidée au 1986-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -427,10 +427,10 @@ Version Consolidée au 1986-08-21
     - [Livre III : Les entreprises. (art. A322-1 à A344-7)](#424)
       - [Titre II : Régime administratif (art. A322-1 à A323-7)](#425)
         - [Chapitre II : Règles de constitution et de fonctionnement (art. A322-1 à A322-8)](#426)
-          - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. A322-1 à A322-5)](#427)
+          - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. A322-1 à A322-4)](#427)
             - [Paragraphe 2 : Administration. (art. A322-1)](#428)
             - [Paragraphe 3 : Distribution et cession des actions des sociétés centrales d'assurance. (art. A322-3)](#429)
-            - [Paragraphe 4 : Dispositions diverses. (art. A322-4 à A322-5)](#430)
+            - [Paragraphe 4 : Dispositions diverses. (art. A322-4)](#430)
           - [Section IV : Sociétés d'assurance à forme mutuelle. (art. A322-6 à A322-7)](#431)
             - [Paragraphe 3 : Obligations des sociétaires et de la société. (art. A322-6 à A322-7)](#432)
           - [Section IV : Sociétés d'assurance à forme mutuelle (art. A322-8)](#433)
@@ -490,20 +490,19 @@ Version Consolidée au 1986-08-21
           - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#487)
             - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#488)
             - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#489)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-10)](#490)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#490)
           - [Section III : Risques garantis. (art. A432-1 à A432-9)](#491)
             - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#492)
-          - [Section IV : Dispositions diverses. (art. A432-10)](#493)
-        - [Chapitre III : La caisse nationale de prévoyance (art. A433-1 à A433-6)](#494)
-          - [Section I : Dispositions générales. (art. A433-1)](#495)
-          - [Section V : Tarifs. (art. A433-2 à A433-6)](#496)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#497)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#498)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#499)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#500)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#501)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#502)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#503)
+        - [Chapitre III : La caisse nationale de prévoyance (art. A433-1 à A433-6)](#493)
+          - [Section I : Dispositions générales. (art. A433-1)](#494)
+          - [Section V : Tarifs. (art. A433-2 à A433-6)](#495)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#496)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#497)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#498)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#499)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#500)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#501)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#502)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -45030,39 +45029,6 @@ _Cité par_:
   - Arrêté du 19 mars 1990 - art. 1 (V)
 
 
-###### Article A322-5
-
-Sont dispensées de l'examen des commissions instituées par le décret n° 69-825 du 28 août 1969 les acquisitions d'immeubles,
-de droits immobiliers et de droits sociaux donnant vocation à l'attribution en pleine propriété d'immeubles ou parties
-d'immeubles poursuivies par les entreprises nationales d'assurance ou de capitalisation, à la condition qu'il soit attesté
-par le ministre de l'économie (direction des assurances) :
-
-1° Que ces acquisitions sont faites en vue de représenter par des immeubles les provisions techniques desdites entreprises,
-en conformité avec les dispositions de l'article R. 332-2 ;
-
-2° Qu'elles n'ont pas pour objet principal d'assurer l'installation et le fonctionnement des services de ces entreprises ou
-de tout autre service public ou d'intérêt public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Modifié par_:
-
-  - Arrêté 1979-06-07 art. 1 JORF 9 juin 1979
-
-_Abrogé par_:
-
-  - Arrêté 1986-10-23 art. 1 JORF 25 octobre 1986 en vigueur le 1er septembre 1986
-
-_Cite_:
-
-  - Décret n°69-825 1969-08-28
-  - Code des assurances - art. R*332-2 (M)
-
-
 ##### Section IV : Sociétés d'assurance à forme mutuelle.<a id=431></a>
 
 ##### Paragraphe 3 : Obligations des sociétaires et de la société.<a id=432></a>
@@ -48564,30 +48530,6 @@ _Cite_:
   - Code des assurances - art. L321-4 (Ab)
 
 
-###### Article A431-5
-
-La caisse centrale de réassurance détermine ses tarifs en vue de faire face aux charges des opérations qu'elle effectue en
-application de l'article A. 431-3.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Modifié par_:
-
-  - Arrêté 1985-09-10 art. 3 JORF 9 octobre 1985
-
-_Abrogé par_:
-
-  - Arrêté 1986-10-23 art. 1 JORF 25 octobre 1986 en vigueur le 1er septembre 1986
-
-_Cite_:
-
-  - Code des assurances - art. A431-3 (M)
-
-
 ###### Article A431-6
 
 Les opérations de réassurance des risques relatifs aux attentats actes de terrorisme ou de sabotage mentionnées à l'article
@@ -49178,48 +49120,9 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-##### Section IV : Dispositions diverses.<a id=493></a>
+#### Chapitre III : La caisse nationale de prévoyance<a id=493></a>
 
-###### Article A432-10
-
-Sont dispensées de l'examen des commissions instituées par le décret n° 69-825 du 28 août 1969 les acquisitions d'immeubles,
-de droits immobiliers et de droits sociaux donnant vocation à l'attribution en pleine propriété d'immeubles ou parties
-d'immeuble poursuivies par la Compagnie française d'assurance pour le commerce extérieur, à la condition qu'il soit attesté
-par le ministre de l'économie (direction des assurances) :
-
-1° Que ces acquisitions sont faites en vue de représenter par des immeubles les provisions techniques de ladite entreprise,
-en conformité avec les dispositions de l'article R. 332-2 ;
-
-2° Qu'elles n'ont pas pour objet principal d'assurer l'installation et le fonctionnement des services de cette entreprise ou
-de tout autre service public ou d'intérêt public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Modifié par_:
-
-  - Arrêté 1979-06-07 art. 1 JORF 9 juin 1979
-
-_Abrogé par_:
-
-  - Arrêté 1986-10-23 art. 1 JORF 25 octobre 1986 en vigueur le 1er septembre 1986
-
-_Cite_:
-
-  - Décret n°69-825 1969-08-28
-  - Code des assurances - art. R*332-2 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R432-4, R432-47
-
-
-#### Chapitre III : La caisse nationale de prévoyance<a id=494></a>
-
-##### Section I : Dispositions générales.<a id=495></a>
+##### Section I : Dispositions générales.<a id=494></a>
 
 ###### Article A433-1
 
@@ -49261,7 +49164,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-##### Section V : Tarifs.<a id=496></a>
+##### Section V : Tarifs.<a id=495></a>
 
 ###### Article A433-2
 
@@ -49503,11 +49406,11 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R433-2
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=497></a>
+### Titre IV : Régimes particuliers d'assurance<a id=496></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=498></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=497></a>
 
-##### Section II : Règles techniques et comptables.<a id=499></a>
+##### Section II : Règles techniques et comptables.<a id=498></a>
 
 ###### Article A441-1
 
@@ -49569,11 +49472,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=500></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=499></a>
 
-### Titre Ier : Présentation des opérations.<a id=501></a>
+### Titre Ier : Présentation des opérations.<a id=500></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=502></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=501></a>
 
 ###### Article A513-1
 
@@ -49846,7 +49749,7 @@ _Cité par_:
   - Arrêté du 31 mars 1992 - art. 1 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=503></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=502></a>
 
 ###### Article A516-2
 
