@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1982-12-31
+Version Consolidée au 1983-03-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -41724,6 +41724,118 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
 
 
+###### Article A331-1-1
+
+Les provisions mathématiques de tous les contrats d'assurance vie dont les garanties sont exprimées en francs ou en unités de
+compte et de tous les contrats nuptialité-natalité dont les tarifs ont été établis selon les dispositions de l'arrêté du 20
+mai 1957 ou de textes postérieurs doivent être calculés, à compter du 31 décembre 1982, en prenant en compte les chargements
+destinés aux frais d'acquisition dans l'engagement du payeur de primes.
+
+Lorsque ces chargements ne sont pas connus, ceux-ci sont évalués au niveau retenu pour le calcul des valeurs de rachat tel
+qu'il a pu être exposé dans la note technique déposée pour le visa du tarif. Dans l'éventualité où, pour un contrat, ce
+niveau n'est pas déterminé, la valeur provisionnée devra être égale au plus à 110 p. 100 de la valeur de rachat.
+
+La provision résultant du calcul précédent ne peut être négative, ni inférieure à la valeur de rachat du contrat, ni
+inférieure à la provision correspondant au capital réduit.
+
+Les provisions mathématiques des contrats d'assurance vie souscrits selon des dispositions antérieures à l'arrêté du 20 mai
+1957 peuvent être calculées suivant les modalités indiquées au présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1957-05-20
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1983-02-17 art. 1 JORF 3 mars 1983
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2004 - art. 15 (Ab)
+  - Code des assurances - art. A134-1 (M)
+  - Code des assurances - art. A160-3 (V)
+  - Code des assurances - art. A331-1-2 (M)
+  - Code des assurances - art. A331-3 (Ab)
+  - Code des assurances - art. A331-5 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des assurances - art. A331-1 (M)
+  - Code des assurances - art. A331-1 (T)
+
+_Anciens textes_:
+
+  - Code des assurances - art. A331-1-2 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
+
+
+###### Article A331-1-2
+
+les provisions mathématiques des contrats d'assurance sur la vie souscrits postérieurement au 8 novembre 1974 doivent être
+calculées d'après les tables de mortalité mentionnées à l'article A. 335-1 et des taux d'intérêt au plus égaux à ceux retenus
+pour l'établissement des tarifs.
+
+Lorsque la durée de paiement des primes est inférieure à la durée du contrat, les provisions mathématiques doivent
+comprendre, en outre, une provision de gestion permettant de couvrir les frais de gestion pendant la période au cours de
+laquelle les primes ne sont plus payées. Ces frais doivent être estimés à un montant justifiable et raisonnable, sans pouvoir
+être inférieurs, chaque année, à :
+
+a) Assurances en cas de décès : 0,30 p. 1.000 du capital assuré pour les assurances temporaires et 1,50 p. 1.000 du capital
+assuré pour les autres assurances ;
+
+b) Assurances en cas de vie : 1,50 p. 1.000 du capital assuré. Pour les rentes immédiates, 3 p. 100 du montant de chaque
+arrérage.
+
+Pour l'application du présent article, les rentes différées sont considérées comme la combinaison d'un capital différé et
+d'une rente immédiate ;
+
+c) Assurances comportant simultanément une garantie en cas de décès et une garantie en cas de vie :
+
+Le taux prévu au b ci-dessus s'applique à la garantie en cas de vie et le taux prévu au a pour les assurances temporaires en
+cas de décès s'applique à l'excédent de la garantie en cas de décès sur la garantie en cas de vie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Transféré par_:
+
+  - Arrêté 1983-02-17 art. 1 JORF 3 mars 1983
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2004 - art. 16 (Ab)
+  - Code des assurances - art. A331-1-1 (V)
+  - Code des assurances - art. A331-3 (Ab)
+
+_Anciens textes_:
+
+  - Code des assurances - art. A331-1 (T)
+
+_Nouveaux textes_:
+
+  - Code des assurances - art. A331-1-1 (T)
+
+_Cite_:
+
+  - Code des assurances - art. A335-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
+
+
 ###### Article A331-2
 
 Les provisions mathématiques afférentes aux contrats d'assurance sur la vie mentionnés à l'article A. 335-3 doivent être
@@ -41755,6 +41867,46 @@ _Cite_:
 
   - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
   - SPEC_APPLI: Code des assurances A331-3 *champ d'application*
+
+
+###### Article A331-3
+
+Les provisions mathématiques des contrats d'assurance vie exprimées en unités de compte doivent être calculées dans les
+conditions définies à l'article A. 331-1-1 et à l'article A. 331-1-2 à l'exception des dispositions relatives aux taux
+d'intérêt retenus pour l'établissement des tarifs telles qu'elles figurent à la fin du premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1974-10-31 art. 7
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 1983-02-17 art. 2 JORF 3 mars 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1984-12-21 art. 15
+  - TXT_SOURCE: Code des assurances - art. R*331-4 (M)
+
+_Abrogé par_:
+
+  - Arrêté 1984-12-26 art. 7 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
+
+_Cite_:
+
+  - Code des assurances - art. A331-1-1 (T)
+  - Code des assurances - art. A331-1-2 (M)
+
+_Cité par_:
+
+  - Code des assurances - art. A331-4 (M)
+  - Code des assurances - art. A331-7 (M)
 
 
 ###### Article A331-4
@@ -43516,25 +43668,31 @@ _Cite_:
 
 ###### Article A335-5
 
-Les dispositions des articles A. 335-1 à A. 335-4 ne sont pas applicables aux assurances à capital variable.
+Les dispositions de l'article A. 335-1, à l'exclusion de celles figurant au 2°, sont applicables aux contrats d'assurance vie
+exprimées en unités de compte.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1974-10-31 art. 7
 
 _Codifié par_:
 
   - Arrêté 1976-07-16
 
+_Modifié par_:
+
+  - Arrêté 1983-02-17 art. 4 JORF 3 mars 1983
+
 **Liens**:
 
+  - SPEC_APPLI: Arrêté 1984-12-21 art. 15
   - TXT_SOURCE: Code des assurances - art. L310-7 (M)
+
+_Abrogé par_:
+
+  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984 en vigueur le 1er janvier 1985
 
 _Cite_:
 
-  - Code des assurances A335-1 à A335-4
+  - Code des assurances - art. A335-1 (M)
 
 
 ##### Paragraphe 2 : Assurances nuptialité et natalité.<a id=434></a>
