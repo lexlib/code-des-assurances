@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-01-01
+Version Consolidée au 1997-02-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -189,7 +189,7 @@ Version Consolidée au 1997-01-01
           - [Section II : Dommages matériels (art. R126-1 à R126-2)](#186)
         - [Chapitre VII : L'assurance de protection juridique. (art. R127-1)](#187)
       - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. R131-1 à R132-4)](#188)
-        - [Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte. (art. R131-1 à R131-3)](#189)
+        - [Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte. (art. R131-1 à R131-4)](#189)
         - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. R132-2 à R132-4)](#190)
           - [Section I : Dispositions générales. (art. R132-2 à R132-4)](#191)
       - [Titre V : Le contrat de capitalisation. (art. R*150-4 à R150-16)](#192)
@@ -19081,25 +19081,37 @@ Les sociétés non cotées à objet uniquement immobilier ou foncier visées à 
 suivantes :
 
 1° Les parts non cotées des sociétés civiles à objet uniquement foncier ne peuvent servir de valeur de référence unique d'un
-contrat.
+contrat ;
 
 2° Le patrimoine de la société immobilière non cotée, constitutive de l'unité de compte ou de chacune des sociétés
 immobilières ou foncières, dans le cas où le contrat se réfère à plusieurs unités de compte, doit être composé d'au moins
-cinq immeubles d'une valeur minimale globale de 100 millions de francs, estimée selon les dispositions de l'article R. 131-2.
+cinq immeubles d'une valeur minimale globale de 100 millions de francs, estimée selon les dispositions de l'article R.
+131-2 ;
+
+3° Les actifs de la société immobilière ou foncière non cotée doivent être constitués à tout instant d'au moins 70 % de parts
+ou droits définis aux 9° et 9° bis de l'article R. 332-2. Le solde des placements de la société doit appartenir aux
+catégories visées aux 1°, 2°, 2° bis et 3° du même article.
+
+**Nota:**
+
+Décret 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
-
-  - Décret n°92-972 du 11 septembre 1992 - art. 1 () JORF 12 septembre 1992
-
 _Modifié par_:
 
-  - Décret n°93-385 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+  - Décret n°97-149 du 13 février 1997 - art. 1 () JORF 20 février 1997
 
 _Cité par_:
 
@@ -19110,8 +19122,42 @@ _Cité par_:
 
 _Cite_:
 
+  - Code des assurances - art. R*332-2 (M)
   - Code des assurances - art. R131-1 (M)
   - Code des assurances - art. R131-2 (V)
+
+
+###### Article R131-4
+
+En cours de contrat, l'assureur peut effectuer pour les contrats l'ayant prévu la substitution d'une unité de compte visée au
+2° de l'article R. 131-1 au profit d'unités de compte de nature comparable si l'unité de compte initiale ne remplit plus les
+conditions définies au 2° de l'article R. 131-3 ou si l'assureur qui en fait la demande y est autorisé par la Commission de
+contrôle des assurances.
+
+Les modalités d'application du présent article sont définies par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°97-149 du 13 février 1997 - art. 2 () JORF 20 février 1997
+
+_Cité par_:
+
+  - Code des assurances - art. A131-4 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L131-1 (M)
+
+_Cite_:
+
+  - Code des assurances - art. R131-1 (M)
+  - Code des assurances - art. R131-3 (M)
 
 
 #### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=190></a>
