@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-01-01
+Version Consolidée au 1991-01-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L181-3)](#2)
@@ -14077,8 +14077,8 @@ _Anciens textes_:
 
 ###### Article L520-2
 
-Le conseil national des assurances, en collaboration avec la fédération nationale des syndicats d'agents généraux
-d'assurances, établit le statut valable pour tous les agents généraux d'assurances.
+Le statut des agents généraux d'assurance et ses avenants sont, après avoir été négociés et établis par les organisations
+professionnelles intéressées, approuvés par décret.
 
 **Liens relatifs à cet article**
 
@@ -14094,6 +14094,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°90-1260 du 31 décembre 1990 - art. 5 () JORF 5 janvier 1991
 
 
 ### Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance<a id=163></a>
