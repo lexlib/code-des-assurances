@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1981-05-09
+Version Consolidée au 1981-05-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -25502,6 +25502,9 @@ la gestion d'un portefeuille de valeurs mentionnées aux 1° et 2° ci-dessus.
 4° Actions, parts et autres valeurs mobilières inscrites à la cote officielle ou au compartiment spécial du marché hors cote
 des bourses françaises de valeurs.
 
+4° bis Actions et parts des sociétés commerciales françaises non inscrites à la cote officiel des bourses françaises de
+valeurs.
+
 5° Valeurs mobilières étrangères ayant fait l'objet d'une émission publique ou inscrites à la cote d'une bourse de valeurs,
 dans les conditions déterminées par arrêté du ministre de l'économie et des finances ;
 
@@ -25510,7 +25513,7 @@ déterminées par arrêté du ministre de l'économie.
 
 7° Immeubles bâtis en France métropolitaine.
 
-Tous autres immeubles situés en France métropolitaine et dans les départements et territoires d'outre mer, sur autorisation
+Tous autres immeubles situés en France métropolitaine et dans les départements et territoires d'outre-mer, sur autorisation
 donnée dans chaque cas par le ministre de l'économie et des finances.
 
 Parts ou actions de sociétés immobilières non inscrites à la cote officielle des bourses françaises de valeurs, dans les
@@ -25524,7 +25527,7 @@ trente ans ;
 9° Prêts en première hypothèque sur tous immeubles et ouvertures de crédits hypothécaires consenties en vue de la
 construction d'immeubles d'habitation, à condition que les immeubles soient situés en France métropolitaine ou dans les
 départements et territoires d'outre-mer et que, sauf dérogation accordée par le ministre de l'économie et des finances,
-l'ensemble des hypothèques en premier rang sur un même immeuble n'excède pas 50 p. 100 de la valeur estimative dudit
+l'ensemble des hypothèques en premier rang sur un même immeuble n'excède pas 80 p. 100 de la valeur estimative dudit
 immeuble.
 
 Prêts garantis par des hypothèques maritimes en premier rang, dans les conditions déterminées par décret ;
@@ -25540,6 +25543,9 @@ collectivité garante au débiteur défaillant.
 
 Prêts aux ports autonomes ou aux chambres de commerce garantis par des péages ou autres rémunérations de services, et
 obligations libérées émises par lesdits organismes ;
+
+10° bis Les prêts consentis à des sociétés d'assurance à forme mutuelle dans les conditions prévues à l'article R. 322-74 et
+sur autorisation donnée cas par cas par le ministre de l'économie.
 
 11° Prêts ou effets représentatifs de prêts aux entreprises industrielles et commerciales dans les conditions et avec les
 garanties déterminées par arrêté du ministre de l'économie et des finances.
@@ -25566,10 +25572,11 @@ _Cite_:
 
   - Loi n°74-1118 du 27 décembre 1974 - art. 2 (M)
   - Code des assurances - art. L420-1 (M)
+  - Code des assurances - art. R*322-74 (M)
   - Code des assurances - art. R*331-3 (M)
   - Code des assurances - art. R*331-5 (M)
   - Code des assurances - art. R*331-6 (M)
-  - Code des assurances R332-1, R332-4 à R332-7, R331-3, R331-5, R331-6, R332-19, L420-1
+  - Code des assurances R332-1, R332-4 à R332-7, R331-3, R331-5, R331-6, R332-19, R322-74, L420-1
   - Code de l'urbanisme 159
 
 _Codifié par_:
@@ -25686,10 +25693,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°81-26 1981-01-13 art. 1, art. 2 JORF 16 janvier 1981
+  - Décret n°81-591 du 15 mai 1981 - art. 1 () JORF 19 mai 1981
+  - Décret n°81-591 du 15 mai 1981 - art. 2 () JORF 19 mai 1981
+  - Décret n°81-591 du 15 mai 1981 - art. 3 () JORF 19 mai 1981
 
 **Liens**:
 
+  - SPEC_APPLI: Décret n°81-591 du 15 mai 1981 - art. 8 (V)
   - TXT_ASSOCIE: Code des assurances - art. A332-2 (Ab)
   - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
   - TXT_ASSOCIE: Code des assurances - art. A332-3 (M)
@@ -25708,32 +25718,37 @@ des valeurs énumérées au même article et affectées à la représentation de
 2° Les immeubles et les valeurs assimilées mentionnées au 7° de l'article R. 332-2 ne peuvent représenter plus de 40 p. 100
 du montant au bilan des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
 
-3° Les prêts mentionnés aux 9°, 10° et 11° de l'article R. 332-2 ne peuvent représenter plus de 35 p. 100 du montant au bilan
-des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
+3° Les prêts mentionnés aux 9°, 10°, 10 bis et 11° de l'article R. 332-2 ne peuvent représenter plus de 35 p. 100 du montant
+au bilan des valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
 
 4° Les liquidités mentionnées au 16° de l'article R. 332-2 ne peuvent représenter plus de 15 p. 100 du montant au bilan des
 valeurs énumérées au même article et affectées à la représentation des provisions techniques ;
 
-5° Sauf dérogation accordée par le ministre de l'économie et des finances :
+5° Sauf dérogation accordée par décision ministérielle :
 
-- un même immeuble ou les parts ou actions d'une même société immobilière ne peuvent représenter plus de 10 p. 100 du montant
-au bilan des valeurs énumérées à l'article R. 332-2 et affectées à la représentation des provisions techniques ;
+a) Un même immeuble ou les parts ou actions d'une même société immobilière ne peuvent représenter plus de 10 p. 100 du
+montant au bilan des valeurs énumérées à l'article R. 332-2 et affectées à la représentation des provisions techniques ;
 
-- les valeurs émises ou les prêts obtenus par un même emprunteur, à l'exception des valeurs émises par l'Etat ou jouissant de
-sa garantie, ne peuvent représenter plus de 5 p. 100 du montant au bilan des valeurs énumérées à l'article R. 332-2 et
-affectées à la représentation des provisions techniques ;
+b) Les valeurs émises ou les prêts obtenus par un même emprunteur, à l'exception des valeurs émises par l'Etat ou jouissant
+de sa garantie ou émises par des organismes figurant sur une liste établie par le ministre de l'économie, ne peuvent
+représenter plus de 5 p. 100 du montant au bilan des valeurs énumérées à l'article R. 332-2 et affectées à la représentation
+des provisions techniques ;
 
-Les actions, parts et autres valeurs mobilières inscrites au compartiment spécial du marché hors cote des bourses françaises
-de valeurs ne peuvent représenter plus de 5 p. 100 de l'ensemble des valeurs mentionnées au 4° de l'article R. 332-2.
+c) Les actions, parts et autres valeurs mobilières inscrites au compartiment spécial du marché hors cote des bourses
+françaises de valeurs ne peuvent représenter plus de 5 p. 100 de l'ensemble des valeurs mentionnées au 4° de l'article R.
+332-2 ;
+
+d) Les valeurs mentionnées au 4° bis de l'article R. 332-2 autres que les actions d'entreprises d'assurance, de réassurance
+et de capitalisation ne peuvent représenter plus de 5 p. 100 du montant au bilan des valeurs visées au 4° de l'article R.
+332-2. Cette limite est réduite à 1 p. 100 lorsque ces valeurs sont émises par le même émetteur.
 
 6° L'ensemble des parts ou actions d'entreprises étrangères d'assurance ou de capitalisation mentionnées à l'article R.
 332-2, 13°, ne peut dépasser 5 p. 100 du montant au bilan des valeurs énumérées au même article et affectées à la
 représentation des provisions techniques ;
 
 7° Une entreprise d'assurance ou de capitalisation ne peut détenir au titre des valeurs énumérées à l'article R. 332-2 et
-affectées à la représentation des provisions techniques, plus de 5 p. 100 des titres inscrits à la cote officielle des
-bourses françaises de valeurs d'une même entreprise d'assurance, de réassurance ou de capitalisation, sauf dérogation
-accordée par le ministre de l'économie et des finances ;
+affectées à la représentation des provisions techniques, plus de 50 p. 100 des actions d'une même entreprise d'assurance, de
+réassurance ou de capitalisation, sauf dérogation accordée par le ministre de l'économie et des finances ;
 
 8° Les titres de rente et les obligations non cotées émises par l'Etat français ou jouissant de sa garantie et les
 obligations non cotées émises par le Crédit foncier et communal d'Alsace et de Lorraine, antérieurement au 15 décembre 1972,
@@ -25742,7 +25757,7 @@ article.
 
 9° Les provisions techniques des entreprises opérant à la fois sur le territoire français et sur le territoire monégasque
 doivent être représentées dans les conditions prévues par la réglementation française ; toutefois, les actifs admis en
-représentation desdites provisions peuvent comprendre, à concurrence de 5 p. 100 du montant de celles-ci, des placements
+représentation desdites provisions peuvent comprendre à concurrence de 5 p. 100 du montant de celles-ci, des placements
 mobiliers ou immobiliers monégasques, sur autorisation donnée conjointement, pour chaque entreprise ou pour chaque cas, par
 le ministre de l'économie et des finances de la République française et par le ministre d'Etat de la Principauté de Monaco ;
 
@@ -25767,11 +25782,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°80-759 du 22 septembre 1980 - art. 2 () JORF 28 septembre 1980
+  - Décret n°81-591 du 15 mai 1981 - art. 4 () JORF 19 mai 1981
+  - Décret n°81-591 du 15 mai 1981 - art. 5 () JORF 19 mai 1981
+  - Décret n°81-591 du 15 mai 1981 - art. 6 () JORF 19 mai 1981
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°80-759 du 22 septembre 1980 - art. 3 (V)
+  - SPEC_APPLI: Décret n°81-591 du 15 mai 1981 - art. 8 (V)
   - TXT_ASSOCIE: Code des assurances - art. A332-1 (Ab)
 
 _Cité par_:
@@ -26337,19 +26354,30 @@ Le ministre de l'économie et des finances peut fixer un taux d'amortissement pl
 d'une dépréciation rapide. Dans ce cas, l'amortissement est calculé par application de ce taux au prix de revient des
 constructions proprement dites à l'exclusion des sols.
 
+Les dispositions des deux alinéas précédents ne s'appliquent pas aux immeubles, parts et actions entrés dans le patrimoine
+des entreprises d'assurance ou de capitalisation après le 31 décembre 1981.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1655 ter
 
-_Anciens textes_:
-
-  - Décret n°1938-12-30 art. 172
-
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°81-591 du 15 mai 1981 - art. 7 () JORF 19 mai 1981
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°81-591 du 15 mai 1981 - art. 8 (V)
+
+_Abrogé par_:
+
+  - Décret n°90-981 du 5 novembre 1990 - art. 18 (V) JORF 6 novembre 1990
 
 
 ###### Article R*332-32
