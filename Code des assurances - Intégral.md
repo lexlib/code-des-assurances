@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -88,7 +88,7 @@ Version Consolidée au 2003-12-31
           - [Section V : Dispositions particulières applicables aux territoires d'outre-mer et à Mayotte. (art. L321-11)](#85)
         - [Chapitre II : Règles de constitution et de fonctionnement (art. L322-1 à L322-27)](#86)
           - [Section I : Dispositions communes. (art. L322-1 à L322-3)](#87)
-          - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. L322-4-1 à L322-4-2)](#88)
+          - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. L322-4-1 à L322-4-3)](#88)
           - [Section II : Sociétés anomymes d'assurance et de capitalisation. (art. L322-4)](#89)
           - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. L322-5 à L322-24)](#90)
             - [Paragraphe 1 : Constitution. (art. L322-5 à L322-13)](#91)
@@ -3764,14 +3764,16 @@ Toute personne physique qui a signé une proposition d'assurance ou un contrat a
 recommandée avec demande d'avis de réception pendant le délai de trente jours à compter du premier versement.
 
 La proposition d'assurance ou de contrat doit comprendre un projet de lettre destiné à faciliter l'exercice de cette faculté
-de renonciation. Elle doit indiquer notamment, pour les contrats qui en comportent, les valeurs de rachat au terme de chacune
-des huit premières années au moins. L'entreprise d'assurance ou de capitalisation doit, en outre, remettre, contre récépissé,
-une note d'information sur les dispositions essentielles du contrat, sur les conditions d'exercice de la faculté de
-renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de renonciation. Le défaut de
-remise des documents et informations énumérés au présent alinéa entraîne de plein droit la prorogation du délai prévu au
-premier alinéa jusqu'au trentième jour suivant la date de remise effective de ces documents. Un nouveau délai de trente jours
-court à compter de la date de reception du contrat, lorsque celui-ci apporte des réserves ou des modifications essentielles à
-l'offre originelle, ou à compter de l'acceptation écrite, par le souscripteur, de ces réserves ou modifications.
+de renonciation. Elle doit indiquer notamment, pour les plans d'épargne individuelle pour la retraite créés à l'article 108
+de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, les valeurs de transfert ou pour les contrats qui en
+comportent, les valeurs de rachat au terme de chacune des huit premières années au moins. L'entreprise d'assurance ou de
+capitalisation doit, en outre, remettre, contre récépissé, une note d'information sur les dispositions essentielles du
+contrat, sur les conditions d'exercice de la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas
+d'exercice de cette faculté de renonciation. Le défaut de remise des documents et informations énumérés au présent alinéa
+entraîne de plein droit la prorogation du délai prévu au premier alinéa jusqu'au trentième jour suivant la date de remise
+effective de ces documents. Un nouveau délai de trente jours court à compter de la date de reception du contrat, lorsque
+celui-ci apporte des réserves ou des modifications essentielles à l'offre originelle, ou à compter de l'acceptation écrite,
+par le souscripteur, de ces réserves ou modifications.
 
 La renonciation entraîne la restitution par l'entreprise d'assurance ou de capitalisation de l'intégralité des sommes versées
 par le contractant, dans le délai maximal de trente jours à compter de la réception de la lettre recommandée. Au-delà de ce
@@ -3780,6 +3782,11 @@ l'expiration de ce délai de deux mois, au double du taux légal.
 
 Les dispositions qui précèdent ne s'appliquent pas aux contrats d'une durée maximum de deux mois. Elles sont précisées, en
 tant que de besoin, par arrêté ministériel.
+
+**Nota:**
+
+Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L132-5-1 du présent code, les mots "
+plan d'épargne individuel pour la retraite " sont déclassés et ont dorénavant un caractère réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -3810,10 +3817,13 @@ _Cité par_:
   - Code des assurances - art. R132-4 (V)
   - Code des assurances - art. R310-6 (V)
 
+_Cite_:
+
+  - Loi n°2003-775 2003-08-21 art. 108
+
 _Modifié par_:
 
-  - Loi n°94-5 du 4 janvier 1994 - art. 35 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
-  - Loi n°94-5 du 4 janvier 1994 - art. 7 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+  - Loi n°2003-775 2003-08-21 art. 108 XIV 1° JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L132-6
@@ -4365,29 +4375,36 @@ _Anciens textes_:
 
 ###### Article L132-21
 
-Les modalités de calcul de la valeur de rachat et, le cas échéant, de la valeur de réduction sont déterminées par un
-règlement général mentionné dans la police et établi par l'entreprise d'assurance ou de capitalisation.
+Les modalités de calcul de la valeur de rachat du contrat ou de la valeur de transfert du plan d'épargne individuelle pour la
+retraite tel que défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée (1) et, le cas échéant, de la valeur
+de réduction sont déterminées par un règlement général mentionné dans la police et établi par l'entreprise d'assurance ou de
+capitalisation.
 
 Dès la signature du contrat, l'entreprise d'assurance ou de capitalisation informe le contractant que ce règlement général
 est tenu à sa disposition sur sa demande. L'entreprise d'assurance ou de capitalisation doit communiquer au contractant, sur
 la demande de celui-ci, le texte du règlement général.
 
-Dans la limite de la valeur de rachat, l'assureur peut consentir des avances au contractant.
+Dans la limite de la valeur de rachat du contrat ou de la valeur de transfert du plan d'épargne individuelle pour la retraite
+tel que défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée, (1) l'assureur peut consentir des avances au
+contractant.
 
 L'entreprise d'assurance ou de capitalisation doit, à la demande du contractant, verser à celui-ci la valeur de rachat du
-contrat dans un délai qui ne peut excéder deux mois. Au-delà de ce délai, les sommes non versées produisent de plein droit
-intérêt au taux légal majoré de moitié durant deux mois, puis, à l'expiration  de ce délai de deux mois, au double du taux
-légal.
+contrat ou la valeur de transfert du plan d'épargne individuelle pour la retraite (1) dans un délai qui ne peut excéder deux
+mois. Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal majoré de moitié durant
+deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux légal.
+
+**Nota:**
+
+(1) : Article 108 XVI de la loi n° 2003-775 du 21 août 2003 : Ces dispositions entrent en vigueur le 1er janvier 2004. 
+
+Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L132-21 du présent code, les mots "
+plan d'épargne individuel pour la retraite " sont déclassés et ont dorénavant un caractère réglementaire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-_Anciens textes_:
-
-  - Loi n°1930-07-13 art. 76
 
 _Cité par_:
 
@@ -4397,70 +4414,21 @@ _Cité par_:
   - Code des assurances - art. L131-4 (V)
   - Code des assurances - art. L132-5 (M)
 
+_Cite_:
+
+  - Loi n°2003-775 2003-08-21 art. 108
+
+_Modifié par_:
+
+  - Loi n°2003-775 2003-08-21 art. 108 XIV 1 JORF 22 août 2003 en vigueur le 1er janvier 2004
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 (application du chapitre III de la loi à la collectivité territorial de Mayotte)
   - TXT_SOURCE: Code des assurances - art. A335-2 (Ab)
-
-_Modifié par_:
-
-  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 27 () JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
-
-
-###### Article L132-22
-
-Pour les contrats souscrits ou transformés depuis le 1er janvier 1982, et aussi longtemps qu'ils donnent lieu à paiement de
-prime, l'entreprise d'assurance ou de capitalisation doit communiquer chaque année au contractant les montants respectifs de
-la valeur de rachat, le cas échéant de la valeur de réduction, des capitaux garantis et de la prime du contrat ainsi que,
-pour les contrats souscrits ou transformés depuis le 1er janvier 1992 dont les garanties sont exprimées en unités de compte,
-les valeurs de ces unités de compte et leur évolution annuelle à compter de la souscription du contrat.
-
-Ces montants ne peuvent tenir compte de participations bénéficiaires qui ne seraient pas attribuées à titre définitif.
-
-L'entreprise d'assurance ou de capitalisation doit préciser em termes précis et clairs dans cette communication ce que
-signifient les opérations de rachat et de réduction et quelles sont leurs conséquences légales et contractuelles.
-
-Pour les contrats ne donnant plus lieu à paiement de prime et pour les contrats souscrits ou transformés avant le 1er janvier
-1982, les informations visées ci-dessus ne sont communiquées pour une année donnée qu'au contractant qui en fait la demande.
-
-Le contrat doit faire référence à l'obligation d'information prévue aux alinéas précédents.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cité par_:
-
-  - Loi n°81-5 du 7 janvier 1981 - art. 17 (V)
-  - Décret n°2004-342 du 21 avril 2004 - art. 57 (Ab)
-  - Arrêté du 27 juin 2019 - art. 4
-  - Code de la sécurité sociale. - art. A932-6 (V)
-  - Code de la sécurité sociale. - art. Annexe à l'article A931-11-15 (V)
-  - Code des assurances - art. A132-7 (VD)
-  - Code des assurances - art. A132-7-1 (V)
-  - Code des assurances - art. Annexe art. A344-8 (Ab)
-  - Code des assurances - art. L111-5 (M)
-  - Code des assurances - art. L132-5-3 (V)
-  - Code des assurances - art. L433-3 (M)
-  - Code des assurances - art. R132-5-4 (V)
-  - Code général des collectivités territoriales - art. L2223-34-1 (V)
-
-_Modifié par_:
-
-  - Loi n°92-665 1992-07-16 art. 21, art. 24, art. 28, art. 30 I, II JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 28 () JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 30 () JORF 17 juillet 1992
 
 _Anciens textes_:
 
-  - Loi n°1930-07-13 art. 77
+  - Loi n°1930-07-13 art. 76
 
 
 ###### Article L132-22-1
@@ -13360,6 +13328,31 @@ _Cité par_:
 
   - Code des assurances - art. R322-55-1 (Ab)
   - Code des assurances - art. R322-55-5 (VD)
+
+
+###### Article L322-4-3
+
+Les entreprises d'assurance indiquent dans le rapport annuel de gestion prévu à l'article L. 232-1 du code de commerce le
+montant et les modalités de répartition pour l'année écoulée de la participation aux bénéfices visée à l'article L. 331-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er janvier 2004
+
+_Cite_:
+
+  - Code de commerce. - art. L232-1 (V)
+  - Code des assurances - art. L331-3 (V)
+
+_Cité par_:
+
+  - Code des assurances - art. L322-26-2-4 (V)
 
 
 ##### Section II : Sociétés anomymes d'assurance et de capitalisation.<a id=89></a>
