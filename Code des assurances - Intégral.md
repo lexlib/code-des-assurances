@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-07-13
+Version Consolidée au 1994-07-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -444,7 +444,7 @@ Version Consolidée au 1994-07-13
         - [Chapitre Ier : Principes généraux. (art. A341-1 à Annexe I à l'article A341-1)](#441)
         - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe à l'article A344-3)](#442)
           - [Section I : Dispositions générales. (art. A344-1 à A344-3)](#443)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#444)
+          - [Section II : Définition des catégories et sous-catégories. (art. A344-4)](#444)
           - [Section III : Etats à produire. (art. A344-6 à A344-8)](#445)
           - [Section III : Etats à produire. (art. Annexe art. A344-3 (suite 1) à Annexe à l'article A344-3)](#446)
       - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#447)
@@ -45448,37 +45448,6 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
-  - TXT_SOURCE: Code des assurances - art. R342-17 (M)
-
-
-###### Article A344-5
-
-Les entreprises qui pratiquent plusieurs catégories d'opérations doivent, dans leur comptabilité, ventiler par catégorie les
-éléments suivants de leurs affaires brutes de cessions et de leurs affaires cédées : primes, sinistres, commissions,
-provisions techniques. Les entreprises d'assurance sur la vie qui opèrent dans plusieurs sous-catégories sont astreintes aux
-mêmes ventilations en ces sous-catégories.
-
-Lorsqu'une prime couvre un ensemble de risques appartenant à des catégories ou sous-catégories différentes et que la
-ventilation de la prime se révèle difficile ou sans intérêt, l'affaire est en comptabilité ou en statistique rattachée à la
-catégorie ou sous-catégorie principale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1969-09-01 annexe
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Abrogé par_:
-
-  - Arrêté 1994-06-20 art. 1 JORF 19 juillet 1994
 
 **Liens**:
 
