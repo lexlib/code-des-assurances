@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2000-01-01
+Version Consolidée au 2000-02-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -279,8 +279,8 @@ Version Consolidée au 2000-01-01
             - [Paragraphe 3 : Provision pour sinistres restant à payer. (art. R331-15 à R331-26)](#276)
             - [Paragraphe 5 : Dispositions supplémentaires concernant la coassurance communautaire. (art. R331-31)](#277)
             - [Paragraphe 7 : Dispositions particulières relatives à l'assurance-crédit. (art. R331-33 à R331-35)](#278)
-        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. R*332-3-1 à R*332-45)](#279)
-          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. R*332-3-1 à R332-13)](#280)
+        - [Chapitre II : Réglementation des placements et autres éléments d'actif (art. R332-1 à R*332-45)](#279)
+          - [Section I : Eléments d'actif admis en représentation des engagements réglementés. (art. R332-1 à R332-13)](#280)
           - [Section II : Réglementations particulières concernant certains éléments d'actif. (art. R332-14 à R332-18)](#281)
           - [Section III : Estimation des éléments d'actif. (art. R332-19 à R332-30)](#282)
           - [Section IV : Commissions et frais d'acquisition à amortir. (art. R332-33 à R332-35)](#283)
@@ -19574,7 +19574,7 @@ _Cite_:
 
 Les unités de comptes visées à l'article L. 131-1 sont :
 
-1° Les actifs énumérés aux 1°, 2°, 2° bis, 3°, 4°, 5° et 8° de l'article R. 332-2 ;
+1° Les actifs énumérés aux 1°, 2°, 2° bis, 2° ter, 3°, 4°, 5° et 8° de l'article R. 332-2 ;
 
 2° Dans des conditions fixées par décret, les parts ou actions visées au 9° bis de l'article R. 332-2 ;
 
@@ -19596,7 +19596,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-413 du 28 mai 1998 - art. 1 () JORF 29 mai 1998
+  - Décret n°2000-142 du 18 février 2000 - art. 10 () JORF 22 février 2000
 
 _Cité par_:
 
@@ -19614,14 +19614,14 @@ _Cité par_:
   - Code des assurances - art. R441-7-1 (V)
   - Code des assurances - art. R441-7-2 (VT)
 
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L131-1 (M)
-
 _Cite_:
 
   - Code des assurances - art. L131-1 (M)
   - Code des assurances - art. R*332-2 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L131-1 (M)
 
 
 ###### Article R131-2
@@ -30502,74 +30502,6 @@ _Cite_:
 
 ##### Section I : Eléments d'actif admis en représentation des engagements réglementés.<a id=280></a>
 
-###### Article R*332-3-1
-
-Rapportée au montant défini à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut excéder, sauf
-dérogation accordée cas par cas par la commission de contrôle des assurances :
-
-1° 5 p. 100 pour l'ensemble des valeurs émises et des prêts obtenus par un même organisme, à l'exception :
-
-a) Des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de l'O.C.D.E. ainsi que des titres émis par la
-caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 relative
-au remboursement de la dette sociale ;
-
-b) Des actions des sociétés d'investissement à capital variable et des parts des fonds communs de placement visées au 3° de
-l'article R. 332-2, dont le portefeuille est exclusivement composé des valeurs mentionnées ci-dessus.
-
-Le ratio de droit commun de 5 p. 100 peut atteindre 10 p. 100 pour les titres d'un même émetteur, à condition que la valeur
-des titres de l'ensemble des émetteurs dont les émissions sont admises au-delà du ratio de 5 p. 100 n'excède pas 40 p. 100 du
-montant défini à l'article R. 332-3.
-
-2° 10 p. 100 pour un même immeuble ou pour les parts ou actions d'une même société immobilière ou foncière ;
-
-3° 0,5 p. 100 pour les valeurs mentionnées aux 6° et 7° de l'article R. 332-2 émises par une même société ou un même fonds.
-
-Pour l'application des dispositions du 5° de l'article R. 332-2, une entreprise ne peut affecter à la représentation de ses
-engagements réglementés plus de 50 p. 100 des actions émises par une même société.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cité par_:
-
-  - Décret n°86-1111 du 15 octobre 1986 - art. 5 (Ab)
-  - Arrêté du 17 novembre 1989 - art. 2 (V)
-  - Décret n°92-183 du 26 février 1992 - art. 16 (Ab)
-  - Arrêté du 22 avril 2004 - art. 19 (Ab)
-  - Décret n°2007-243 du 23 février 2007 - art. 5 (V)
-  - Décret n°2017-1765 du 26 décembre 2017 - art. 3
-  - Décret n°2017-1765 du 26 décembre 2017 - art. 4
-  - Code de la mutualité - art. R222-8 (V)
-  - Code de la santé publique - art. R3122-16 (MMN)
-  - Code des assurances - art. A142-3 (VT)
-  - Code des assurances - art. A332-4 (Ab)
-  - Code des assurances - art. R*431-17 (M)
-  - Code des assurances - art. R*431-23 (M)
-  - Code des assurances - art. R*431-42 (Ab)
-  - Code des assurances - art. R332-17 (VD)
-  - Code des assurances - art. R332-3-3 (M)
-  - Code des assurances - art. R332-5 (V)
-  - Code des assurances - art. R332-54 (V)
-  - Code des assurances - art. R332-65 (VD)
-  - Code des assurances - art. R342-2 (VT)
-  - Code des assurances - art. R370-2 (V)
-  - Code des assurances - art. R422-5 (M)
-  - Code des assurances - art. R427-5 (V)
-
-_Cite_:
-
-  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
-  - Code des assurances - art. R*332-2 (M)
-  - Code des assurances - art. R*332-3 (M)
-
-_Modifié par_:
-
-  - Décret n°96-581 du 27 juin 1996 - art. 1 () JORF 29 juin 1996
-
-
 ###### Article R332-1
 
 1. Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute époque, être représentés par des actifs
@@ -30680,20 +30612,24 @@ l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 ; obligations émises
 caractère public dont un ou plusieurs Etats membres de la Communauté européenne font partie ; obligations émises ou garanties
 par les collectivités publiques territoriales d'un Etat membre de l'O.C.D.E. ;
 
-2° Obligations, parts de fonds communs de créance et titres participatifs inscrits à la cote d'une bourse de valeurs d'un
-Etat membre de l'O.C.D.E., autres que celles ou ceux visés au 1° ;
+2° Obligations, parts de fonds communs de créance et titres participatifs négociés sur un marché reconnu , autres que celles
+ou ceux visés au 1° ;
 
-2° bis Titres de créances négociables (certificats de dépôt, billets de trésorerie, bons des institutions et des sociétés
-financières spécialisées) émis par des personnes morales autres que les Etats membres de l'O.C.D.E., ayant leur siège social
-sur le territoire de ces Etats, à condition que ces titres soient négociés sur un marché réglementé en fonctionnement
-régulier d'un Etat membre de l'O.C.D.E. ;
+2° bis Titres de créances négociables d'un an au plus (certificats de dépôt et billets de trésorerie) rémunérés à taux fixe
+ou indexé sur un taux usuel sur les marchés interbancaire, monétaire ou obligataire, et émis par des personnes morales autres
+que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont des titres sont négociés sur
+un marché reconnu ;
+
+2° ter Bons à moyen terme négociables répondant aux conditions mentionnées à l'article R. 332-14-1, et émis par des personnes
+morales autres que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont des titres sont
+négociés sur un marché reconnu ;
 
 3° Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement dont l'objet est limité à
-la gestion d'un portefeuille de valeurs mentionnées aux 1°, 2° et 2° bis du présent article, dans les conditions fixées par
-l'article R. 332-14 ;
+la gestion d'un portefeuille de valeurs mentionnées aux 1°, 2°, 2° bis et 2° ter du présent article, dans les conditions
+fixées par l'article R. 332-14 ;
 
-4° Actions et autres valeurs mobilières, inscrites à la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E., autres
-que celles visées aux 3°, 5°, 5° bis, 8° et 9° bis ;
+4° Actions et autres valeurs mobilières, négociées sur un marché reconnu, autres que celles visées aux 3°, 5°, 5° bis, 8° et
+9° bis ;
 
 5° Actions des entreprises d'assurance, de réassurance, de capitalisation ayant leur siège social sur le territoire de l'un
 des Etats membres de l'O.C.D.E. ;
@@ -30702,20 +30638,29 @@ des Etats membres de l'O.C.D.E. ;
 
 6° Actions, parts et droits émis par des sociétés commerciales et obligations, titres participatifs et titres subordonnés
 émis par les sociétés d'assurance mutuelles, ayant leur siège social sur le territoire de l'un des Etats membres de
-l'O.C.D.E., autres que les valeurs visées aux 2°, 2° bis, 3°, 4°, 5°, 5° bis, 8° et 9° bis ;
+l'O.C.D.E., autres que les valeurs visées aux 2°, 2° bis, 2° ter 3°, 4°, 5°, 5° bis, 7° bis, 8° et 9° bis ;
 
-7° Parts des fonds communs de placement à risques du chapitre IV de la loi n° 88-1201 du 23 décembre 1988 ;
+7° Parts des fonds communs de placement à risques du chapitre IV de la loi n° 88-1201 du 23 décembre 1988 et parts de fonds
+communs de placement dans l'innovation mentionnés au chapitre IV bis de la même loi ;
+
+7° bis Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement bénéficiant d'une
+procédure allégée mentionnés aux chapitres IV ter et V ter de la loi n° 88-1201 du 23 décembre 1988 modifiée.
 
 8° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
-mentionnées aux 3° et 7°, dans les conditions fixées par l'article R. 332-14.
+mentionnées aux 3°,7° et 7° bis , dans les conditions fixées par l'article R. 332-14.
+
+Les marchés reconnus mentionnés aux 2°, 2° bis, 2° ter et 4° du présent article sont les marchés réglementés des Etats
+parties à l'accord sur l'Espace économique européen ou les marchés de pays tiers membres de l'OCDE en fonctionnement
+régulier. Les autorités compétentes de ces pays doivent avoir défini les conditions de fonctionnement du marché, d'accès à ce
+marché et d'admission aux négociations, et imposé le respect d'obligations de déclaration et de transparence.
 
 B. - Actifs immobiliers :
 
 9° Droits réels immobiliers afférents à des immeubles situés sur le territoire de l'un des Etats membres de l'O.C.D.E. ;
 
 9° bis Parts ou actions des sociétés à objet strictement immobilier, parts des sociétés civiles à objet strictement foncier,
-ayant leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., inscrites ou non inscrites à la cote d'une
-bourse de valeurs d'un Etat membre de l'O.C.D.E., dans les conditions fixées par l'article R. 332-15.
+ayant leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées par l'article
+R. 332-15.
 
 C. - Prêts et dépôts :
 
@@ -30731,7 +30676,14 @@ leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E., da
 
 13° Dépôts, dans les conditions fixées par l'article R. 332-16.
 
-Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits placements.
+D. - Dispositions communes :
+
+Les intérêts courus des placements énumérés au présent article sont assimilés auxdits placements.
+
+Les actifs représentatifs des provisions techniques sont évalués en net des dettes contractées pour l'acquisition de ces
+mêmes actifs.
+
+Les actifs donnés en garantie d'un engagement particulier ne sont pas admissibles en représentation des autres engagements.
 
 **Liens relatifs à cet article**
 
@@ -30850,18 +30802,19 @@ _Cite_:
   - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
   - Code des assurances - art. R*331-1 (M)
   - Code des assurances - art. R332-1-1 (V)
-  - Code des assurances R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14, R332-15, R332-12, R332-13, R332-16
-
-_Modifié par_:
-
-  - Décret n°97-248 du 14 mars 1997 - art. 3 () JORF 20 mars 1997
+  - Code des assurances R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14-1, R332-14, R332-15, R332-12, R332-13, R332-16
 
 **Liens**:
 
+  - SPEC_APPLI: Décret n°2000-142 2000-02-18 art. 11 *date d'effet*
   - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
   - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
   - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
   - TXT_SOURCE: Code des assurances - art. R332-16 (M)
+
+_Modifié par_:
+
+  - Décret n°2000-142 du 18 février 2000 - art. 1 () JORF 22 février 2000
 
 
 ###### Article R332-3
@@ -30871,13 +30824,15 @@ du montant total des actifs mentionnés aux articles R. 332-3-4 à R. 332-10, to
 chacune des catégories d'actifs énumérées ci-après ne peut excéder, sauf dérogation accordée cas par cas par la commission de
 contrôle des assurances :
 
-1° 65 p. 100 pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R. 332-2, dont 5 p. 100 au maximum pour
-l'ensemble formé par les actions d'entreprises étrangères d'assurance mentionnées au 5° bis de l'article R. 332-2 et par les
-actions et parts mentionnées aux 6° et 7° de l'article R. 332-2 ;
+1° 65 p. 100 pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R. 332-2 et des prêts mentionnés au troisième
+alinéa du 1° de l'article R. 332-13, dont 5 p. 100 au maximum pour l'ensemble formé par les actions d'entreprises étrangères
+d'assurance mentionnées au 5° bis de l'article R. 332-2 par les actions et parts mentionnées aux 6°, 7° et 7° bis de
+l'article R. 332-2 et par les prêts mentionnés ci-dessus ;
 
 2° 40 p. 100 pour les actifs immobiliers mentionnés aux 9° et 9° bis de l'article R. 332-2 ;
 
-3° 10 p. 100 pour l'ensemble des valeurs mentionnées aux 10°, 11° et 12° de l'article R. 332-2.
+3° 10 p. 100 pour l'ensemble des valeurs mentionnées aux 10°, 11° et 12° de l'article R. 332-2 à l'exception des prêts
+mentionnés au 1° du présent article.
 
 **Liens relatifs à cet article**
 
@@ -30935,7 +30890,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°90-981 du 5 novembre 1990 - art. 2 () JORF 6 novembre 1990
+  - Décret n°2000-142 du 18 février 2000 - art. 2 () JORF 22 février 2000
 
 **Liens**:
 
@@ -30944,8 +30899,80 @@ _Modifié par_:
 _Cite_:
 
   - Code des assurances - art. R*331-1 (M)
+  - Code des assurances - art. R*332-13 (M)
   - Code des assurances - art. R*332-2 (M)
-  - Code des assurances R331-1, R332-3-4 à R332-10, R332-2
+  - Code des assurances R331-1, R332-3-4 à R332-10, R332-13, R332-2
+
+
+###### Article R332-3-1
+
+Rapportée au montant défini à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut excéder, sauf
+dérogation accordée cas par cas par la commission de contrôle des assurances :
+
+1° 5 p. 100 pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même organisme et des dépôts placés auprès
+de cet organisme, à l'exception :
+
+a) Des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de l'O.C.D.E. ainsi que des titres émis par la
+caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 relative
+au remboursement de la dette sociale ;
+
+b) Des actions des sociétés d'investissement à capital variable et des parts des fonds communs de placement visées au 3° de
+l'article R. 332-2, dont le portefeuille est exclusivement composé des valeurs mentionnées ci-dessus.
+
+Le ratio de droit commun de 5 p. 100 peut atteindre 10 p. 100 pour les titres d'un même émetteur, à condition que la valeur
+des titres de l'ensemble des émetteurs dont les émissions sont admises au-delà du ratio de 5 p. 100 n'excède pas 40 p. 100 du
+montant défini à l'article R. 332-3.
+
+2° 10 p. 100 pour un même immeuble ou pour les parts ou actions d'une même société immobilière ou foncière ;
+
+3° 0,5 % pour les valeurs mentionnées aux 6°, 7° et 7° bis de l'article R. 332-2 et les prêts mentionnés au troisième alinéa
+du 1 de l'article R. 332-13, respectivement émises ou obtenus par une même société ou un même organisme.
+
+Pour l'application des dispositions du 5° de l'article R. 332-2, une entreprise ne peut affecter à la représentation de ses
+engagements réglementés plus de 50 p. 100 des actions émises par une même société.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Cité par_:
+
+  - Décret n°86-1111 du 15 octobre 1986 - art. 5 (Ab)
+  - Arrêté du 17 novembre 1989 - art. 2 (V)
+  - Décret n°92-183 du 26 février 1992 - art. 16 (Ab)
+  - Arrêté du 22 avril 2004 - art. 19 (Ab)
+  - Décret n°2007-243 du 23 février 2007 - art. 5 (V)
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 3
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 4
+  - Code de la mutualité - art. R222-8 (V)
+  - Code de la santé publique - art. R3122-16 (MMN)
+  - Code des assurances - art. A142-3 (VT)
+  - Code des assurances - art. A332-4 (Ab)
+  - Code des assurances - art. R*431-17 (M)
+  - Code des assurances - art. R*431-23 (M)
+  - Code des assurances - art. R*431-42 (Ab)
+  - Code des assurances - art. R332-17 (VD)
+  - Code des assurances - art. R332-3-3 (M)
+  - Code des assurances - art. R332-5 (V)
+  - Code des assurances - art. R332-54 (V)
+  - Code des assurances - art. R332-65 (VD)
+  - Code des assurances - art. R342-2 (VT)
+  - Code des assurances - art. R370-2 (V)
+  - Code des assurances - art. R422-5 (M)
+  - Code des assurances - art. R427-5 (V)
+
+_Cite_:
+
+  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
+  - Code des assurances - art. R*332-13 (M)
+  - Code des assurances - art. R*332-2 (M)
+  - Code des assurances - art. R*332-3 (M)
+
+_Modifié par_:
+
+  - Décret n°2000-142 du 18 février 2000 - art. 3 () JORF 22 février 2000
 
 
 ###### Article R332-3-2
@@ -30997,18 +31024,15 @@ _Cite_:
 Les provisions techniques relatives aux affaires cédées à un réassureur peuvent être représentées par une créance sur ce
 réassureur, à concurrence du montant garanti conformément aux dispositions de l'article R. 332-17.
 
-Pour l'application des dispositions des articles R. 332-3 et R. 332-3-1, les valeurs reçues en nantissement des réassureurs
-sont assimilées à des valeurs figurant à l'actif du bilan de l'entreprise cédante.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°84-1023 1984-11-14 art. 3 JORF 23 novembre 1984
+  - Décret n°2000-142 du 18 février 2000 - art. 8 () JORF 22 février 2000
 
 _Cité par_:
 
@@ -31017,11 +31041,6 @@ _Cité par_:
   - Code des assurances - art. R332-17 (VD)
   - Code des assurances - art. R332-2 (V)
   - Code des assurances - art. R332-7 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R*332-3 (M)
-  - Code des assurances - art. R332-3-1 (M)
 
 
 ###### Article R332-3-4
@@ -31372,13 +31391,16 @@ _Cité par_:
 1° Les prêts mentionnés au 12° de l'article R. 332-2 doivent avoir une durée totale d'au moins deux ans et satisfaire aux
 conditions suivantes :
 
-Ils doivent être garantis par une caution donnée par un établissement de crédit ou une entreprise d'assurances agréés par
-l'un des Etats membres de l'O.C.D.E., ou un nantissement de valeurs répondant aux conditions fixées par l'article R. 332-17,
-dans la limite de 75 p. 100 du montant nominal desdites valeurs.
+Ils doivent être garantis par une caution donnée par un établissement de crédit ou une entreprise d'assurances n'appartenant
+pas au même groupe que le prêteur ou l'emprunteur et agréés par l'un des Etats parties à l'accord sur l'Espace économique
+européen, ou un nantissement de valeurs répondant aux conditions fixées par l'article R. 332-17, dans la limite de 75 % du
+montant nominal desdites valeurs. Sont considérées comme appartenant au même groupe, au sens du présent article, les sociétés
+entrant dans le même périmètre de consolidation ou d'établissement des comptes combinés mentionnés au troisième alinéa de
+l'article L. 345-2.
 
 Toutefois, les prêts peuvent ne pas être assortis de garantie, lorsque l'emprunteur est soit une société dont l'un des Etats
 membres de l'O.C.D.E. ou un de ses établissements publics détient plus de la moitié du capital, soit une société dont les
-actions sont inscrites à la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E.
+actions sont négociées sur un marché reconnu tel que défini au dernier alinéa du A de l'article R. 332-2.
 
 2° Les créances représentatives des prêts de titres sont admises en représentation des engagements réglementés si elles ont
 fait l'objet d'un cautionnement en espèces ou d'une caution donnée par un établissement de crédit ou une entreprise
@@ -31393,7 +31415,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-981 du 5 novembre 1990 - art. 7 () JORF 6 novembre 1990
+  - Décret n°2000-142 du 18 février 2000 - art. 4 () JORF 22 février 2000
 
 _Cité par_:
 
@@ -31412,6 +31434,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code des assurances - art. L345-2 (M)
   - Code des assurances - art. R332-17 (M)
 
 _Anciens textes_:
@@ -31425,10 +31448,11 @@ _Anciens textes_:
 
 En application des dispositions des 3° et 8° de l'article R. 332-2, les entreprises sont autorisées à détenir les actions des
 sociétés d'investissement à capital variable et les parts des fonds communs de placement de la loi n° 88-1201 du 23 décembre
-1988, à l'exclusion des organismes régis par les chapitres III, IV et V ; elles sont également autorisées à détenir les
-actions des sociétés d'investissement à capital variable et les parts des fonds communs de placement régis par les
-réglementations des autres Etats membres de la Communauté économique européenne, pour autant que ces règles soient conformes
-à la directive communautaire du 20 décembre 1985 relative aux organismes de placement collectif en valeurs mobilières.
+1988, à l'exclusion des organismes régis par les chapitres III, IV, IV bis, IV ter, V et V ter ; elles sont également
+autorisées à détenir les actions des sociétés d'investissement à capital variable et les parts des fonds communs de placement
+régis par les réglementations des autres Etats parties à l'accord sur l'Espace économique européen, pour autant que ces
+règles soient conformes à la directive communautaire du 20 décembre 1985 relative aux organismes de placement collectif en
+valeurs mobilières.
 
 **Liens relatifs à cet article**
 
@@ -31442,7 +31466,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°90-981 du 5 novembre 1990 - art. 8 () JORF 6 novembre 1990
+  - Décret n°2000-142 du 18 février 2000 - art. 5 () JORF 22 février 2000
 
 _Cité par_:
 
@@ -31458,6 +31482,39 @@ _Anciens textes_:
 
   - Code des assurances - art. R332-16 (M)
   - Décret n°1938-12-30 art. 155
+
+
+###### Article R332-14-1
+
+Les bons à moyen terme négociables mentionnés au 2° ter de l'article R. 332-2 doivent répondre aux conditions suivantes :
+
+a) Provenir d'une émission au moins égale à 30 millions d'euros ;
+
+b) Etre valorisés par au moins deux organismes distincts et non liés financièrement, ni entre eux ni avec l'entreprise
+d'assurance détentrice des bons ;
+
+c) Faire sur cette base l'objet d'un cours publié au moins une fois tous les quinze jours et tenu à la disposition du public
+en permanence ;
+
+d) Comporter une clause de liquidité émanant de l'émetteur ou d'un garant et qui doit garantir que les actifs pourraient être
+rachetés à un cours cohérent avec le cours publié, c'est-à-dire prenant en compte la variation de taux d'intérêt entre les
+dates de publication du cours et de transaction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Décret n°2000-142 du 18 février 2000 - art. 6 () JORF 22 février 2000
+
+_Cité par_:
+
+  - Décret n°2000-142 du 18 février 2000 - art. 11 (V)
+  - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
+  - Code des assurances - art. R332-2 (V)
 
 
 ###### Article R332-15
@@ -31507,9 +31564,11 @@ les comptes de l'organisme émetteur, à condition que celui-ci soit situé en F
 Les actes de propriété des actifs immobiliers, les actes et les titres consacrant les prêts ou créances doivent être
 conservés sur le territoire de la République française.
 
-Les comptes de dépôt visés au 13° de l'article R. 332-2 doivent être ouverts auprès d'un établissement situé en France. Les
-comptes doivent être libellés au nom de l'entreprise ou de l'établissement situé en France et ne peuvent être débités qu'avec
-l'accord d'un dirigeant ou du mandataire général de l'établissement ou encore d'une personne désignée par eux à cet effet.
+Les comptes de dépôt visés au 13° de l'article R. 332-2 doivent être ouverts auprès d'un établissement de crédit agréé dans
+un Etat partie à l'accord sur l'Espace économique européen. Leur terme ne doit pas dépasser un an ou leur préavis de retrait
+trois mois. Les comptes doivent être libellés au nom de l'entreprise d'assurance ou de la succursale établie en France et ne
+peuvent être débités qu'avec l'accord respectivement d'un dirigeant de l'entreprise ou du mandataire général de la succursale
+ou encore d'une personne désignée par eux à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -31520,11 +31579,12 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°91-603 1991-06-27 art. 35 *champ d'application*
+  - SPEC_APPLI: Décret n°2000-142 2000-02-18 art. 11 *date d'effet*
   - TXT_ASSOCIE: Code des assurances - art. R332-2 (M)
 
 _Modifié par_:
 
-  - Décret n°91-603 du 27 juin 1991 - art. 34 () JORF 28 juin 1991
+  - Décret n°2000-142 du 18 février 2000 - art. 7 () JORF 22 février 2000
 
 _Cité par_:
 
@@ -31549,10 +31609,14 @@ _Anciens textes_:
 ###### Article R332-17
 
 La garantie des créances sur les réassureurs mentionnée à l'article R. 332-3-3 est constituée par le nantissement des valeurs
-visées aux 1°, 2°, 2° bis, 3°, 4°, 8° et 9° bis de l'article R. 332-2.
+visées aux 1°, 2°, 2° bis, 2° ter, 3°, 4°, 8° et 9° bis de l'article R. 332-2. Ces valeurs sont déposées sur un compte gagé
+au sens de l'article 29 de la loi n° 83-1 du 3 janvier 1983 modifiée.
 
 Les valeurs reçues en nantissement sont évaluées conformément aux dispositions du 2° de l'article R. 332-20. Pour
 l'estimation des valeurs mentionnées au 1° de l'article R. 332-2, la fraction courue du coupon est prise en compte.
+
+Pour l'application des dispositions des articles R. 332-3 et R. 332-3-1, les valeurs reçues en nantissement des réassureurs
+sont assimilées à des valeurs figurant à l'actif du bilan de l'entreprise cédante.
 
 A la demande d'une entreprise, la commission de contrôle des assurances peut, par dérogation aux dispositions du premier
 alinéa du présent article, l'autoriser, pour une durée déterminée, à constituer la garantie mentionnée à l'article R. 332-3-3
@@ -31566,13 +31630,21 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+_Cite_:
+
+  - Loi n°83-1 1983-01-03 art. 29
+  - Code des assurances - art. R*332-2 (M)
+  - Code des assurances - art. R*332-20 (M)
+  - Code des assurances - art. R*332-3 (M)
+  - Code des assurances - art. R332-3-1 (M)
+
 **Liens**:
 
   - SPEC_APPLI: Décret n°94-635 1994-07-25 art. 21 *champ d'application*
 
 _Modifié par_:
 
-  - Décret n°94-635 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
+  - Décret n°2000-142 du 18 février 2000 - art. 8 () JORF 22 février 2000
 
 _Cité par_:
 
@@ -31585,11 +31657,6 @@ _Cité par_:
   - Code des assurances - art. R332-14-1 (Ab)
   - Code des assurances - art. R332-3-3 (V)
   - Code des assurances - art. R385-11 (VD)
-
-_Cite_:
-
-  - Code des assurances - art. R*332-2 (M)
-  - Code des assurances - art. R*332-20 (M)
 
 _Nouveaux textes_:
 
@@ -31632,8 +31699,9 @@ _Abrogé par_:
 
 ###### Article R332-19
 
-I Les valeurs amortissables énumérées aux 1°, 2° et 2° bis de l'article R. 332-2, autres que les obligations indexées, les
-parts de fonds communs de créance et les titres participatifs, sont inscrites à leur prix d'achat à la date d'acquisition.
+I Les valeurs amortissables énumérées aux 1°, 2°, 2° bis et 2° ter de l'article R. 332-2, autres que les obligations
+indexées, les parts de fonds communs de créance et les titres participatifs, sont inscrites à leur prix d'achat à la date
+d'acquisition.
 
 Lorsque le prix d'achat de ces titres est supérieur à leur prix de remboursement, la différence est amortie sur la durée de
 vie résiduelle des titres.
@@ -31655,10 +31723,11 @@ l'inventaire.
 
 II. - Le I du présent article s'applique également aux obligations indexées sur le niveau général des prix, avec garantie de
 remboursement au pair et émises ou garanties par un Etat, un organisme ou une collectivité publics mentionnés au 1° du A de
-l'article R. 332-2. La différence entre le prix d'achat d'une obligation indexée sur le niveau général des prix et son prix
-de remboursement est constatée linéairement sur la durée résiduelle du titre. Le prix de remboursement s'entend du prix de
-remboursement initial multiplié par le rapport entre l'indice de référence à la date considérée et ce même indice à la date
-d'émission du titre.
+l'article R. 332-2. ou dont le débiteur est juridiquement un établissement public national de l'un des Etats parties à
+l'accord sur l'Espace économique européen. La différence entre le prix d'achat d'une obligation indexée sur le niveau général
+des prix et son prix de remboursement est constatée linéairement sur la durée résiduelle du titre. Le prix de remboursement
+s'entend du prix de remboursement initial multiplié par le rapport entre l'indice de référence à la date considérée et ce
+même indice à la date d'émission du titre.
 
 **Liens relatifs à cet article**
 
@@ -31694,8 +31763,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°98-805 du 9 septembre 1998 - art. 1 () JORF 11 septembre 1998
-  - Décret n°98-805 du 9 septembre 1998 - art. 2 () JORF 11 septembre 1998
+  - Décret n°2000-142 du 18 février 2000 - art. 9 () JORF 22 février 2000
 
 
 ###### Article R332-20
