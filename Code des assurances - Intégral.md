@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-08-10
+Version Consolidée au 1994-08-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -194,10 +194,10 @@ Version Consolidée au 1994-08-10
       - [Titre V : Le contrat de capitalisation. (art. R*150-4 à R150-16)](#191)
         - [Chapitre unique (art. R*150-4 à R150-16)](#192)
           - [Section III : Tirages au sort. (art. R*150-4 à R150-16)](#193)
-      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. R*160-4 à R160-12)](#194)
-        - [Chapitre unique (art. R*160-4 à R160-12)](#195)
+      - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. R*160-4 à R*160-11)](#194)
+        - [Chapitre unique (art. R*160-4 à R*160-11)](#195)
           - [Section II : Polices d'assurance sur la vie ou bons de capitalisation ou d'épargne égarés, détruits ou volés. (art. R*160-4 à R*160-6)](#196)
-          - [Section V : Effet sur les contrats d'assurance de la réquisition des biens et services. (art. R*160-9 à R160-12)](#197)
+          - [Section V : Effet sur les contrats d'assurance de la réquisition des biens et services. (art. R*160-9 à R*160-11)](#197)
       - [Titre VII : Le contrat d'assurance maritime (art. R171-1 à R172-6)](#198)
         - [Chapitre Ier : Dispositions générales. (art. R171-1 à R171-2)](#199)
         - [Chapitre II : Règles communes aux diverses assurances maritimes (art. R172-1 à R172-6)](#200)
@@ -19177,63 +19177,6 @@ _Cite_:
 
   - Code des assurances - art. L160-8 (V)
   - Code des assurances - art. L160-9 (V)
-
-
-###### Article R160-10
-
-En cas de réquisition de services au sens de l'article 2 de l'ordonnance n° 59-63 du 6 janvier 1959, l'assureur de dommages,
-subrogé totalement ou partiellement dans les droits du prestataire, doit fournir, à l'appui de sa demande, tous éléments et
-documents lui ayant permis de déterminer l'indemnité allouée par ses soins à l'assuré.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°59-63 du 6 janvier 1959 - art. 2 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°62-367 1962-03-26 art. 50
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-700 du 10 août 1994 - art. 1 (V) JORF 18 août 1994
-
-_Cité par_:
-
-  - Décret n°94-700 du 10 août 1994 - art. 1 (V)
-
-
-###### Article R160-12
-
-En cas de réquisition de services, y compris le logement et le cantonnement, le prestataire dont les biens ont été endommagés
-doit, avant de réclamer une indemnité à l'Etat, s'adresser à l'assureur auprès duquel il a souscrit un contrat.
-
-L'Etat ne peut être tenu à indemnisation directe vis-à-vis du prestataire que pour les dommages, ou partie des dommages, non
-couverts par une assurance ; le prestataire doit alors faire connaître le règlement intervenu avec son assureur et
-communiquer sa police à l'administration.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-367 du 26 mars 1962 - art. 75 (V)
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°94-700 du 10 août 1994 - art. 1 (V) JORF 18 août 1994
-
-_Cité par_:
-
-  - Décret n°94-700 du 10 août 1994 - art. 1 (V)
 
 
 ### Titre VII : Le contrat d'assurance maritime<a id=198></a>
