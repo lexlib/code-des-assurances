@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-02-14
+Version Consolidée au 1995-03-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -496,7 +496,7 @@ Version Consolidée au 1995-02-14
         - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#493)
         - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#494)
           - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#495)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#496)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#496)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -54002,6 +54002,47 @@ _Cite_:
 
 
 #### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=496></a>
+
+###### Article A516-1
+
+Sont seuls habilités à délivrer l'attestation de capacité mentionnée à l'article R. 516-1 les organismes professionnels
+suivants :
+
+La fédération française des courtiers d'assurances et de réassurances, pour les courtiers d'assurances, les associés ou tiers
+ayant le pouvoir de gérer ou d'administrer dans une société de courtage d'assurances ainsi que pour leurs salariés et
+mandataires ;
+
+La fédération française des sociétés d'assurances, pour les agents généraux d'assurances ;
+
+La fédération nationale de syndicats d'agents généraux d'assurances, pour les salariés et mandataires des agents généraux
+d'assurances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1979-09-05 art. 1 JORF 4 octobre 1979
+
+_Modifié par_:
+
+  - Arrêté 1995-03-22 art. 1 JORF 30 mars 1995
+
+_Abrogé par_:
+
+  - Arrêté du 3 novembre 2006 - art. 1, v. init.
+
+_Cite_:
+
+  - Code des assurances R516-1
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances R516-1
+
 
 ###### Article A516-2
 
