@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-12-09
+Version Consolidée au 1987-02-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -480,7 +480,7 @@ Version Consolidée au 1986-12-09
           - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-1 à A342-3)](#477)
         - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à A344-7)](#478)
           - [Section I : Dispositions générales. (art. A344-1 à A344-2)](#479)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-5)](#480)
+          - [Section II : Définition des catégories et sous-catégories. (art. A344-4 à A344-5)](#480)
           - [Section III : Etats à produire. (art. A344-7)](#481)
     - [Livre IV : Organisations et régimes particuliers d'assurance (art. A411-1 à A441-2)](#482)
       - [Titre Ier : Organisations générales d'assurance (art. A411-1 à A411-11)](#483)
@@ -31406,10 +31406,10 @@ _Cité par_:
 
 ###### Article R342-11
 
-Pour chaque catégorie ou groupe de sous-catégories donnant lieu à l'établissement d'un état B.10, B.10 bis ou B.10 ter
-institué par l'article R. 342-17, sauf pour les sous-catégories maladie et marchandises transportées, les sinistres survenus
-dans l'exercice inventorié sont portés sur une liste à lecture directe indiquant, outre le numéro d'enregistrement prévu à
-l'article R. 342-10, les éléments suivants :
+Pour chaque catégorie ou groupe de sous-catégories donnant lieu à l'établissement d'un état B.10, B.10 simplifié, B.10 bis ou
+B.10 ter institué par l'article R. 342-17, sauf pour les sous-catégories maladie et marchandises transportées, les sinistres
+survenus dans l'exercice inventorié sont portés sur une liste à lecture directe indiquant, outre le numéro d'enregistrement
+prévu à l'article R. 342-10, les éléments suivants :
 
 - sommes payées au cours de l'exercice ;
 
@@ -31423,17 +31423,22 @@ Les recours ou sauvetages donnent lieu à un traitement parallèle.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 11
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+_Modifié par_:
+
+  - Décret n°87-109 du 17 février 1987 - art. 3 () JORF 20 février 1987
+
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
   - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 _Cite_:
 
@@ -31565,10 +31570,10 @@ Ils peuvent prendre l'engagement envers le ministre de l'économie et des financ
 de se soumettre au contrôle institué par l'article L. 310-1 ; de tenir une comptabilité conforme aux règles posées par le
 présent chapitre ; de calculer conformément aux prescriptions réglementaires les provisions techniques des affaires gérées ;
 d'adresser annuellement au ministre de l'économie et des finances et aux entreprises adhérentes un compte d'exploitation
-générale et un compte général de pertes et profits conformes aux comptes 80 et 87, ainsi qu'un état modèle B.10, B.10 bis ou
-B.10 ter, avec indication des pourcentages afférents à chaque entreprise adhérente, ainsi que tous autres documents
-nécessaires au contrôle des opérations de coassurance ou de coréassurance qui pourraient être demandés par le ministre de
-l'économie et des finances.
+générale et un compte général de pertes et profits conformes aux comptes 80 et 87, ainsi qu'un état modèle B.10, B.10
+simplifié, B.10 bis ou B.10 ter, avec indication des pourcentages afférents à chaque entreprise adhérente, ainsi que tous
+autres documents nécessaires au contrôle des opérations de coassurance ou de coréassurance qui pourraient être demandés par
+le ministre de l'économie et des finances.
 
 Lorsque ces conditions sont remplies, les entreprises adhérentes sont, par dérogation aux articles R. 342-13 et R. 342-14,
 dispensées de fournir au ministre de l'économie et des finances la justification des chiffres qui leur sont indiqués par le
@@ -31585,13 +31590,13 @@ dispensées dans la même mesure de fournir les garanties réglementaires corres
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 15
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°87-109 du 17 février 1987 - art. 3 () JORF 20 février 1987
 
 _Cite_:
 
@@ -31660,19 +31665,23 @@ B 2 Détail des primes par combinaisons ou sous-catégories.
 B 3 Primes et résultats des acceptations et des cessions en réassurance.
 
 B 4 Eléments d'actif représentant les engagements réglementés et les cautionnements et montant de ces engagements et
-cautionnements.    A 5 Liste détaillée des placements.
+cautionnements.
 
-B 6 Récapitulation des placements.
+A 5 Liste détaillée des placements.
 
-B 7 Avoirs et engagements en France.
+B 6 Sinistres, paiements et provisions à la charge des cessionnaires.
 
-B 8 Compte d'exploitation générale par pays.
+B 7 Avoirs et engagements par monnaie au 31 décembre.
+
+B 8 Compte d'exploitation par zones économiques.
 
 B 9 Primes.
 
 A 10 Primes et sinistres de la catégorie véhicules terrestres à moteur.
 
-B 10, B 10 bis et B 10 ter Paiements et provisions pour sinistres.    B 11 Marge de solvabilité.
+B 10, B 10 simplifiés, B 10 bis et B 10 ter Paiements et provisions pour sinistres.
+
+B 11 Marge de solvabilité.
 
 A 20 Mouvement au cours de l'exercice inventorié des polices, capitaux ou rentes assurés (réassurances non déduites).
 
@@ -31687,11 +31696,13 @@ A 25 Participation des assurés sur la vie ou des porteurs de contrats de capita
 financiers.    B 26 Etat justificatif de la participation des assurés sur la vie ou des porteurs de contrats de
 capitalisation aux résultats techniques et financiers.
 
-B 27 Etat concernant les opérations de coassurance communautaire.    Les entreprises doivent ajouter des rubriques à celles
-des tableaux modèles chaque fois qu'une telle addition est utile à la sincérité des comptes rendus ; elles ont la faculté de
-le faire chaque fois que cela est utile à la clarté de ces comptes. Toutefois, les postes complémentaires doivent toujours
-être présentés comme des subdivisions des rubriques plus générales figurant au tableau modèle, et le total de ces postes
-complémentaires doit toujours être porté sous la rubrique réglementaire à laquelle lesdits postes sont rattachés.
+B 27 Etat concernant les opérations de coassurance communautaire.
+
+Les entreprises doivent ajouter des rubriques à celles des tableaux modèles chaque fois qu'une telle addition est utile à la
+sincérité des comptes rendus ; elles ont la faculté de le faire chaque fois que cela est utile à la clarté de ces comptes.
+Toutefois, les postes complémentaires doivent toujours être présentés comme des subdivisions des rubriques plus générales
+figurant au tableau modèle, et le total de ces postes complémentaires doit toujours être porté sous la rubrique réglementaire
+à laquelle lesdits postes sont rattachés.
 
 Les lignes et les colonnes "néant" peuvent être supprimées.
 
@@ -31701,9 +31712,23 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°87-109 1987-02-17 art. 2 *forme et date d'effet des états B 6, B 7, B 8, B 10*
+  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
+  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
+  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
+  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
+  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
+
 _Modifié par_:
 
-  - Décret n°85-460 1985-04-25 art. 1 JORF 30 avril 1985
+  - Décret n°87-109 du 17 février 1987 - art. 1 () JORF 20 février 1987
+  - Décret n°87-109 du 17 février 1987 - art. 2 (V) JORF 20 février 1987
 
 _Cité par_:
 
@@ -31718,18 +31743,6 @@ _Cité par_:
   - Code des assurances - art. R342-24 (Ab)
   - Code des assurances - art. R342-7 (Ab)
   - Code des assurances - art. R344-1 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
 
 
 ###### Article R342-18
@@ -32025,21 +32038,27 @@ _Cité par_:
 
 Les entreprises doivent tenir à la disposition des commissaires contrôleurs accrédités auprès d'elles, quinze jours au moins
 avant la réunion de l'assemblée générale chargée de statuer sur l'approbation des comptes, tous les éléments comptables et
-statistiques nécessaires à l'établissement des états A 1, B 10, B 10 bis et B 10 ter prévus à l'article R. 342-17.
+statistiques nécessaires à l'établissement des états A 1, B 10, B 10 simplifiés, B 10 bis et B 10 ter prévus à l'article R.
+342-17.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 24
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+_Modifié par_:
+
+  - Décret n°87-109 du 17 février 1987 - art. 3 () JORF 20 février 1987
+
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
   - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 _Cite_:
 
@@ -32048,10 +32067,9 @@ _Cite_:
 
 ###### Article R342-25
 
-Les entreprises doivent adresser au ministre de l'économie, au plus tard le 31 mars de chaque année, des états provisoires B
-10 afférents à l'ensemble des opérations pratiquées au titre des branches mentionnées aux 3° et 10° de l'article R. 321-1,
-ainsi que des états provisoires B 10 bis, relatifs aux opérations réalisées au cours du précédent exercice, établis dans la
-forme fixée à l'article A. 344-6.
+Pour la branche automobile, les entreprises doivent adresser au ministre chargé de l'économie et des finances, au plus tard
+le 31 mars de chaque année, des états provisoires B 10, B 10 simplifiés et B 10 bis relatifs aux opérations réalisées au
+cours du précédent exercice, établis dans la forme fixée à l'article A. 344-6.
 
 **Liens relatifs à cet article**
 
@@ -32059,14 +32077,13 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-653 1980-08-07 art. 1 JORF 20 août 1980
+  - Décret n°87-109 du 17 février 1987 - art. 4 () JORF 20 février 1987
 
 _Cite_:
 
   - Code des assurances - art. A344-6 (Ab)
-  - Code des assurances R321-1, A344-6
 
 _Cité par_:
 
@@ -48254,6 +48271,170 @@ _Cité par_:
 
 
 ##### Section II : Définition des catégories et sous-catégories.<a id=480></a>
+
+###### Article A344-4
+
+Il est défini, pour les assurances directes en France, des catégories (un chiffre) et des sous-catégories (deux chiffres)
+d'opération.
+
+La liste des catégories et sous-catégories est la suivante :
+
+0. Capitalisation, dépôt et autres affaires.
+
+00. Capitalisation.
+
+01. Capitalisation à capital variable.
+
+05. Dépôt (6° de l'article L. 310-1).
+
+08. Autres affaires.
+
+1. Vie.
+
+10. Assurances grande branche.
+
+11. Assurances grande branche à capital variable.
+
+12. Assurances populaires et autres assurances à primes mensuelles ou plus fréquentes.
+
+13. Assurances populaires à capital variable.
+
+14. Assurances collectives en cas de décès.
+
+15. Assurances collectives à capital variable.
+
+16. Assurances complémentaires.
+
+17. Nuptialité, natalité.
+
+18. Assurances collectives en cas de vie.
+
+19. Opérations tontinières.
+
+20. Arrêts de travail, invalidité, décès accidentel : assurances individuelles.
+
+21. Arrêts de travail, invalidité, décès accidentel : assurances collectives.
+
+22. Frais de soins : assurances individuelles.
+
+23. Frais de soins : assurances collectives.
+
+3. Dommages aux biens.
+
+30. Dommages aux biens des particuliers : incendie et autres dommages aux biens.
+
+31. Dommages aux biens des particuliers : vol.
+
+32. Dommages aux biens des particuliers : R.C. des multirisques.
+
+33. Dommages aux biens professionnels : incendie et autres dommages aux biens.
+
+34. Dommages aux biens professionnels : vol.
+
+35. Dommages aux biens professionnels : R.C. des multirisques.
+
+36. Dommages aux biens agricoles : incendie et autres dommages aux biens.
+
+37. Dommages aux biens agricoles : grêle.
+
+38. Dommages aux biens agricoles : vol.
+
+39. Dommages aux biens agricoles : R.C. des multirisques.
+
+4. Assurance automobile (a).
+
+40. Dommages subis par les véhicules à quatre roues de moins de 3,5 tonnes.
+
+41. Dommages subis par les véhicules de 3,5 tonnes et plus et véhicules spéciaux.
+
+42. Dommages subis par les véhicules de moins de quatre roues.
+
+43. Accidents corporels des personnes transportées dans un véhicule terrestre à moteur.
+
+45. R.C. des véhicules à quatre roues de moins de 3,5 tonnes.
+
+46. R.C. des véhicules de 3,5 tonnes et plus et véhicules spéciaux.
+
+47. R.C. des véhicules de moins de quatre roues.
+
+5. Transports.
+
+50. Maritime.
+
+51. Aviation.
+
+52. Spatial.
+
+53. Marchandises transportées.
+
+6. Responsabilité civile générale.
+
+60. Particuliers.
+
+61. Professionnels.
+
+62. Agricole.
+
+7. Divers.
+
+70. Crédit.
+
+71. Caution.
+
+72. Pertes pécuniaires diverses.
+
+73. Protection juridique générale.
+
+74. Assistance.
+
+8. Assurance construction.
+
+80. Assurance construction : dommages ouvrages.
+
+81. Assurance construction : R-C décennale.
+
+9. Garantie légale des catastrophes naturelles.
+
+90. Dommages subis par les véhicules terrestres à moteur.
+
+91. Autres dommages.
+
+(a) En assurance automobile, les garanties incendie, vol, bris de glace, protection juridique sont classées dans les sous-
+catégories dommages (40 à 42).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1969-09-01 annexe
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 1982-07-23 art. 2 JORF 7 septembre 1982
+  - Arrêté 1982-11-04 art. 1 JORF 16 novembre 1982 en vigueur le 31 décembre 1982
+  - Arrêté 1983-07-11 art. 1 JORF 27 juillet 1983 en vigueur le 1er janvier 1984
+  - Arrêté 1984-12-21 art. 1 JORF 26 décembre 1984
+  - Arrêté 1984-12-29 art. 1 JORF 4 janvier 1985
+  - Arrêté 1987-02-17 art. 1 JORF 20 février 1987
+
+_Cité par_:
+
+  - Code des assurances - art. A125-2 (M)
+  - Code des assurances - art. A331-24 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L310-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. R*341-5 (M)
+  - TXT_SOURCE: Code des assurances - art. R342-17 (M)
+
 
 ###### Article A344-5
 
