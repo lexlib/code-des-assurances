@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-07-16
+Version Consolidée au 2004-08-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -530,36 +530,34 @@ Version Consolidée au 2004-07-16
         - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#527)
     - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#528)
       - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#529)
-        - [Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages (art. A421-1 à A421-2)](#530)
+        - [Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages (art. A421-1 à A421-4)](#530)
           - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. (art. A421-1)](#531)
             - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#532)
-          - [Section IV : Régime financier du fonds de garantie. (art. A421-2)](#533)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2)](#534)
-        - [Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse (art. A421-3)](#535)
-          - [Section V : Régime financier du fonds de garantie (art. A421-3)](#536)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#537)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#538)
-      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#539)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#540)
-          - [Section I : Dispositions générales. (art. A431-1)](#541)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#542)
-            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#543)
-          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#544)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#545)
-            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#546)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#547)
-          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#548)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#549)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#550)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#551)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#552)
-          - [Section II : Règles techniques et comptables. (art. A441-4-1 à A441-6)](#553)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#554)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#555)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#556)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#557)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#558)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#559)
+          - [Section IV : Régime financier du fonds de garantie. (art. A421-2 à A421-4)](#533)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2 à A421-3)](#534)
+            - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. A421-4)](#535)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#536)
+      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#537)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#538)
+          - [Section I : Dispositions générales. (art. A431-1)](#539)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#540)
+            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#541)
+          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#542)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#543)
+            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#544)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#545)
+          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#546)
+            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#547)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#548)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#549)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#550)
+          - [Section II : Règles techniques et comptables. (art. A441-4-1 à A441-6)](#551)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#552)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#553)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#554)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#555)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#556)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#557)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -95967,52 +95965,26 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances R420-35
 
 
-#### Chapitre Ier : Le fonds de garantie contre les accidents de circulation et de chasse<a id=535></a>
-
-##### Section V : Régime financier du fonds de garantie<a id=536></a>
-
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=537></a>
-
 ###### Article A421-3
 
-Le montant de la contribution prévue à l'article R. 420-35 est fixé comme suit :
+Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
+application des articles R. 421-27 et R. 421-28 du code des assurances sont fixées comme suit :
 
-1° Véhicules terrestres à moteur pour lesquels, aux termes de l'article R. 211-7, l'assurance doit être souscrite sans
-limitation de somme :
+Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-27 : 1 % de la totalité des charges de la section
+relative aux opérations résultant de la défaillance d'entreprises d'assurance dommages ;
 
-Pour une garantie limitée à huit jours : 10 F.
+Contribution des entreprises d'assurance au titre du 3° de l'article R. 421-27 : 1 % de la totalité des charges de la section
+automobile ;
 
-Pour une garantie limitée à quinze jours : 20 F.
+Contribution des responsables d'accidents non assurés au titre du 4° de l'article R. 421-27 :
 
-Pour une garantie limitée à trente jours : 40 F.
+- taux normal : 10 % des indemnités restant à leur charge ;
 
-2° Véhicules terrestres à moteur à deux roues ainsi que tricycles et triporteurs à moteur d'une cylindrée n'excédant pas 125
-centimètres cubes :
+- taux réduit : 5 % ;
 
-Pour une garantie limitée à huit jours : 2 F.
+Contribution des assurés au titre du 5° de l'article R. 421-27 :
 
-Pour une garantie limitée à quinze jours : 3 F.
-
-Pour une garantie limitée à trente jours : 6 F.
-
-3° Autres véhicules terrestres à moteur :
-
-Pour une garantie limitée à huit jours : 3 F.
-
-Pour une garantie limitée à quinze jours : 6 F.
-
-Pour une garantie limitée à trente jours : 10 F.
-
-4° Autres véhicules, notamment remorque :
-
-Pour une garantie limitée à huit jours : 4 F.
-
-Pour une garantie limitée à quinze jours : 7 F.
-
-Pour une garantie limitée à trente jours : 10 F.
-
-Le montant de la contribution est intégralement reversée par l'organisme d'assurance mentionné à l'article R. 211-24, suivant
-les modalités prévues à l'article A. 421-2.
+0,1 % des primes.
 
 **Liens relatifs à cet article**
 
@@ -96022,7 +95994,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
+  - Arrêté 2004-07-16 art. 1 JORF 5 août 2004
 
 **Liens**:
 
@@ -96031,17 +96003,53 @@ _Modifié par_:
 
 _Cite_:
 
-  - Code des assurances - art. A421-2 (M)
-  - Code des assurances - art. R*211-7 (M)
-  - Code des assurances - art. R211-24 (M)
-  - Code des assurances R211-7, R211-24, R420-35, A421-2
+  - Code des assurances - art. R421-27 (M)
+  - Code des assurances - art. R421-28 (M)
 
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=538></a>
+##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.<a id=535></a>
+
+###### Article A421-4
+
+Les taux des contributions prévus pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
+application des articles R. 421-38 et R. 421-39 sont fixés comme suit : 
+
+Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-38 : 1 % de la totalité des charges des
+opérations du fonds de garantie afférentes à la chasse et à la destruction des animaux nuisibles ; 
+
+Contribution des responsables d'accidents corporels non assurés au titre du 2° de l'article R. 421-38 :
+
+- taux normal : 10 % des indemnités restant à leur charge ;
+
+- taux réduit, lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des
+articles 393 à 395 du code rural : 5 % ; 
+
+Contribution forfaitaire des assurés au titre du 3° de l'article R. 421-38 : 0,02 euro par personne garantie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 2004-07-16 art. 2 JORF 5 août 2004
+
+_Cite_:
+
+  - Code des assurances - art. R421-38 (V)
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 B (P)
+
+
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=536></a>
 
 ###### Article A422-1
 
@@ -96066,11 +96074,11 @@ _Cite_:
   - Code des assurances - art. R422-4 (V)
 
 
-### Titre III : Organismes particuliers d'assurance<a id=539></a>
+### Titre III : Organismes particuliers d'assurance<a id=537></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=540></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=538></a>
 
-##### Section I : Dispositions générales.<a id=541></a>
+##### Section I : Dispositions générales.<a id=539></a>
 
 ###### Article A431-1
 
@@ -96103,9 +96111,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R431-19
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=542></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=540></a>
 
-##### Paragraphe 4 : Risques d'attentat.<a id=543></a>
+##### Paragraphe 4 : Risques d'attentat.<a id=541></a>
 
 ###### Article A431-5
 
@@ -96156,9 +96164,9 @@ _Cite_:
   - Code des assurances - art. L431-10 (V)
 
 
-##### Section III : Opérations de gestion.<a id=544></a>
+##### Section III : Opérations de gestion.<a id=542></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=545></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=543></a>
 
 ###### Article A431-7
 
@@ -96304,7 +96312,7 @@ _Cite_:
   - Loi n°64-706 du 10 juillet 1964 - art. 5 (Ab)
 
 
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=546></a>
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=544></a>
 
 ###### Article A431-8
 
@@ -96465,11 +96473,11 @@ _Cite_:
   - Code des assurances - art. A335-1 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=547></a>
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=545></a>
 
-##### Section III : Risques garantis.<a id=548></a>
+##### Section III : Risques garantis.<a id=546></a>
 
-##### Paragraphe 6 : Dispositions communes.<a id=549></a>
+##### Paragraphe 6 : Dispositions communes.<a id=547></a>
 
 ###### Article A432-1
 
@@ -96714,11 +96722,11 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=550></a>
+### Titre IV : Régimes particuliers d'assurance<a id=548></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=551></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=549></a>
 
-##### Section II : Règles techniques et comptables.<a id=552></a>
+##### Section II : Règles techniques et comptables.<a id=550></a>
 
 ###### Article A441-1
 
@@ -96855,7 +96863,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
-##### Section II : Règles techniques et comptables.<a id=553></a>
+##### Section II : Règles techniques et comptables.<a id=551></a>
 
 ###### Article A441-4-1
 
@@ -96921,11 +96929,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=554></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=552></a>
 
-### Titre Ier : Présentation des opérations.<a id=555></a>
+### Titre Ier : Présentation des opérations.<a id=553></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=556></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=554></a>
 
 ###### Article A513-1
 
@@ -97100,9 +97108,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R513-2 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=557></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=555></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=558></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=556></a>
 
 ###### Article A514-1
 
@@ -97159,7 +97167,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=559></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=557></a>
 
 ###### Article A516-1
 
