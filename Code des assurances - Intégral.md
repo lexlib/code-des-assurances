@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1979-01-31
+Version Consolidée au 1979-03-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -30795,7 +30795,7 @@ Il est créé un conseil national des assurances, dont les attributions sont dé
 Ce conseil, placé sous la présidence du ministre de l'économie et des finances, comprend, indépendamment de son président :
 
 Un vice-président, désigné par le ministre de l'économie et des finances sur proposition du garde des sceaux, ministre de la
-justice, parmi les membres du Conseil d'Etat ayant au moins le rang de conseiller, en activité ou honoraire, et trente-huit
+justice, parmi les membres du Conseil d'Etat ayant au moins le rang de conseiller, en activité ou honoraire, et trente-neuf
 membres ainsi répartis :
 
 Un membre de la Cour de cassation ayant au moins le rang de conseiller, en activité ou honoraire, désigné par le ministre de
@@ -30824,7 +30824,7 @@ Un représentant de la fédération nationale de la mutualité, de la coopérati
 
 Un membre du comité français de la chambre de commerce internationale, désigné par ce comité ;
 
-Sept représentants des assurés, désignés à raison de :
+Huit représentants des assurés, désignés à raison de :
 
 Un par l'assemblée permanente des présidents de chambre de commerce et d'industrie ;
 
@@ -30839,7 +30839,10 @@ Un par l'union nationale de la propriété bâtie de France ;
 Deux par les organisations syndicales représentatives des travailleurs, désignées par arrêté du ministre de l'économie et des
 finances et du ministre du travail ;
 
-Ces sept représentants des assurés ne peuvent être choisis parmi les professionnels de l'assurance en activité ;
+Un représentant des organisations de consommateurs, désigné sur proposition du collège des consommateurs du comité national
+de la consommation.
+
+Ces huit représentants des assurés ne peuvent être choisis parmi les professionnels de l'assurance en activité ;
 
 Cinq représentants du personnel des entreprises d'assurance et de capitalisation, désignés par les fédérations ou syndicats
 représentatifs à raison de :
@@ -30900,7 +30903,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°78-987 1978-09-29 art. 1, art. 2 JORF 4 octobre 1978
+  - Décret n°79-226 1979-03-13 art. 1, art. 2 JORF 21 mars 1979
 
 **Liens**:
 
