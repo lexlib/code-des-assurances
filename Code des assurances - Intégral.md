@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1987-11-17
+Version Consolidée au 1987-12-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -30929,9 +30929,10 @@ _Cité par_:
 
 ###### Article R342-6
 
-La comptabilité des valeurs mobilières est tenue par prix d'achat.    Pour les valeurs dont l'évaluation d'inventaire se fait
-conformément aux dispositions de l'article R. 332-19, le prix d'achat ne comprend pas le prorata d'intérêt couru depuis la
-dernière échéance.
+La comptabilité des valeurs mobilières est tenue par prix d'achat.
+
+Pour les valeurs dont l'évaluation d'inventaire se fait conformément aux dispositions de l'article R. 332-19, le prix d'achat
+ne comprend pas le prorata d'intérêt couru depuis la dernière échéance.
 
 Toutefois, les valeurs amortissables détenues au 31 décembre 1973, et qui n'étaient pas évaluées à cette date selon les
 règles de l'article R. 332-19, peuvent continuer à être inscrites au bilan sans déduction du prorata d'intérêt couru depuis
@@ -30945,19 +30946,36 @@ jusqu'à la date de l'inventaire.
 La moins-value pouvant résulter de l'application des règles d'estimation des placements fixées par le chapitre II du titre
 III du présent livre fait, sauf dérogation, l'objet d'une provision dans les écritures d'inventaire.
 
-En cas de cession d'un titre en portefeuille autre que ceux dont l'évaluation se fait conformément aux dispositions de
-l'article R. 332-19, la plus-value ou la moins-value est déterminée en fonction de la valeur d'origine unitaire moyenne
-pondérée des titres de même nature figurant dans le patrimoine de l'entreprise.
+A compter du 1er janvier 1988, les cessions de titres en portefeuille sont réputées porter par priorité sur les titres de
+même nature acquis ou souscrits à la date la plus ancienne.
+
+Les plus-values ou moins-values résultant des cessions en cause sont déterminées en fonction de la valeur d'origine pour
+laquelle les titres figuraient au bilan.
+
+Les entreprises qui déterminaient les plus-values ou les moins-values de cessions en fonction de la valeur d'origine unitaire
+moyenne pondérée des titres de même nature figurant dans leur patrimoine doivent continuer de faire application de cette
+méthode en cas de cessions de titres figurant dans leur portefeuille au 31 décembre 1987. Dans ce cas, le prix de revient
+unitaire des titres de même nature détenus à cette date est égal au prix unitaire moyen pondéré de l'ensemble de ces titres,
+calculé à cette même date.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 6
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°87-988 1987-12-08 art. 1 JORF 10 décembre 1987
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
+  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 _Cité par_:
 
@@ -30972,10 +30990,6 @@ _Cite_:
 
   - Code des assurances - art. R*332-19 (M)
   - Code des assurances - art. R*332-20 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
 
 
 ##### Section II : Documents et registres comptables.<a id=302></a>
