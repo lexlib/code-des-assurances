@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-03-30
+Version Consolidée au 2003-06-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -28976,6 +28976,11 @@ adhérents.
 
 Les dispositions des articles R. 322-83 et R. 322-84 ne sont pas applicables aux organismes mentionnés ci-dessus.
 
+Pour l'application du présent 4°, est assimilée à un organisme à compétence nationale toute entreprise d'assurance ou de
+réassurance mentionnée aux articles L. 310-1 et L. 310-1-1, constituée sous forme de société anonyme et dont la majorité des
+droits de vote est détenue conjointement, directement ou indirectement, par au moins sept sociétés ou caisses mutuelles de
+réassurances agricoles comptant au total au moins 300 000 adhérents.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -28984,11 +28989,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-799 du 9 septembre 1994 - art. 18 () JORF 15 septembre 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-799 du 9 septembre 1994 - art. 27 (V)
+  - Décret n°2003-519 du 18 juin 2003 - art. 1 () JORF 19 juin 2003
 
 _Cité par_:
 
@@ -28999,6 +29000,7 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
+  - Code des assurances - art. L310-1-1 (V)
   - Code des assurances - art. R*322-83 (M)
   - Code des assurances - art. R*322-84 (M)
   - Code rural 1235
@@ -29341,10 +29343,11 @@ _Cite_:
 Les organismes qui, en vertu des dispositions de la présente section, sont soumis à la réglementation des entreprises
 d'assurance, ne sont pas tenus d'obtenir l'agrément administratif prévu à l'article L. 321-1 et sont dispensés d'observer les
 règles de gestion qui leur seraient normalement applicables, lorsque, avant de commencer leurs opérations, ils ont souscrit
-auprès d'une société ou caisse assujettie aux dispositions de la présente section et agréée à cet effet un traité de
-réassurance substituant ladite société ou caisse à l'organisme réassuré, pour la constitution des garanties prévues par la
-réglementation susmentionnée et l'exécution des engagements d'assurance pris par l'organisme réassuré. Ce traité doit porter
-sur l'ensemble des opérations pratiquées par l'organisme réassuré.
+auprès d'une société ou caisse assujettie aux dispositions de la présente section et agréée à cet effet ou, lorsqu'il s'agit
+de la réassurance d'une caisse régionale, auprès d'une entreprise d'assurance mentionnée au dernier alinéa de l'article R.
+322-120 un traité de réassurance substituant ladite société ou caisse à l'organisme réassuré, pour la constitution des
+garanties prévues par la réglementation susmentionnée et l'exécution des engagements d'assurance pris par l'organisme
+réassuré. Ce traité doit porter sur l'ensemble des opérations pratiquées par l'organisme réassuré.
 
 Ces organismes sont notamment dispensés de l'obligation de constituer un fonds d'établissement et une marge de solvabilité.
 
@@ -29362,12 +29365,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-799 du 9 septembre 1994 - art. 23 () JORF 15 septembre 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-799 du 9 septembre 1994 - art. 27 (V)
-  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
+  - Décret n°2003-519 du 18 juin 2003 - art. 2 () JORF 19 juin 2003
 
 _Cité par_:
 
@@ -29380,7 +29378,12 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L321-1 (M)
+  - Code des assurances - art. R*322-120 (M)
   - Code des assurances - art. R*322-67 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L322-27 (M)
 
 
 ###### Article R322-137
