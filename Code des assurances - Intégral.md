@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-04-14
+Version Consolidée au 1995-05-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -349,8 +349,8 @@ Version Consolidée au 1995-04-14
       - [Titre IV : Régimes particuliers d'assurance (art. R*441-2 à R442-11)](#346)
         - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. R*441-2 à R*441-30)](#347)
           - [Section I : Dispositions générales. (art. R*441-2 à R441-1)](#348)
-          - [Section II : Règles techniques et comptables. (art. R*441-4 à R441-21)](#349)
-          - [Section III : Règles relatives au retrait de l'agrément. (art. R*441-29 à R441-28)](#350)
+          - [Section II : Règles techniques et comptables. (art. R*441-8 à R441-21)](#349)
+          - [Section III : Conversion de la convention. (art. R441-25 à R441-28)](#350)
           - [Section IV : Dispositions transitoires. (art. R*441-30)](#351)
         - [Chapitre II : Autres régimes particuliers d'assurance (art. R442-1 à R442-11)](#352)
           - [Section V : Dispositions relatives à la garantie pour le compte de l'Etat des risques liés aux échanges internationaux (art. R442-1 à R442-11)](#353)
@@ -38828,23 +38828,18 @@ _Modifié par_:
 ###### Article R441-1
 
 Les entreprises d'assurance qui sont habilitées à réaliser des opérations comportant des engagements dont l'exécution dépend
-de la durée de la vie humaine, ne peuvent réaliser les opérations prévues aux articles L. 441-1 et L. 441-3 qu'en se
-conformant aux dispositions du présent chapitre.
+de la durée de la vie humaine, ne peuvent réaliser les opérations prévues à l'article L. 441-1 qu'en se conformant aux
+dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
 _Modifié par_:
 
-  - Décret n°93-385 du 19 mars 1993 - art. 5 () JORF 20 mars 1993
+  - Décret n°95-391 du 12 avril 1995 - art. 1 () JORF 14 avril 1995 en vigueur le 1er mai 1995
 
 _Cite_:
 
-  - Code des assurances - art. L441-1 (M)
-  - Code des assurances - art. L441-3 (M)
+  - Code des assurances - art. L441-1 (V)
 
 _Cité par_:
 
@@ -38854,147 +38849,6 @@ _Cité par_:
 
 
 ##### Section II : Règles techniques et comptables.<a id=349></a>
-
-###### Article R*441-4
-
-La pratique des opérations d'assurance collective prévues par les articles L. 441-1 et L. 441-3 est autorisée sous la
-condition que ces opérations comportent une prestation déterminée dans les conditions fixées par le présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 2
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cite_:
-
-  - Code des assurances - art. L441-1 (M)
-  - Code des assurances - art. L441-3 (M)
-
-_Cité par_:
-
-  - Code des assurances - art. R*441-13 (V)
-  - Code des assurances - art. R441-5 (VD)
-  - Code des assurances - art. R441-7 (M)
-
-
-###### Article R*441-5
-
-Les opérations prévues à l'article R. 441-4 sont réalisées en application de conventions dont les conditions générales
-doivent être préalablement approuvées par arrêté du ministre de l'économie et des finances.
-
-L'absence de garanties pour partie de l'opération faisant l'objet de la convention et la limitation au montant de la
-provision technique spéciale prévue à l'article R. 441-7 de la créance garantie par le privilège spécial prévu à l'article L.
-441-8 doivent figurer en caractères très apparents dans la convention et dans les prospectus, documents ou certificats
-d'adhésion soumis au public. Ceux-ci doivent énumérer les droits et obligations des parties, notamment en cas de cessation de
-paiement des primes, préciser les modalités de calcul des prestations et fixer les bases d'une liquidation éventuelle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 4
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cite_:
-
-  - Code des assurances - art. L441-8 (M)
-  - Code des assurances - art. R*441-4 (M)
-  - Code des assurances - art. R*441-7 (M)
-
-
-###### Article R*441-6
-
-Le chargement maximal à appliquer aux cotisations et les tables de mortalité servant au calcul de la provision mathématique
-théorique mentionnée à l'article R. 441-21 et à l'établissement des inventaires sont déterminés dans les conditions et
-limites définies par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 5
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. A441-1 (M)
-  - TXT_SOURCE: Code des assurances - art. A441-2 (M)
-  - TXT_SOURCE: Code des assurances - art. A441-3 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A441-4 (M)
-  - TXT_SOURCE: Code des assurances - art. A441-5 (V)
-  - TXT_SOURCE: Code des assurances - art. A441-6 (M)
-  - TXT_ASSOCIE: Code des assurances A441-1 à A441-6
-
-_Cité par_:
-
-  - Code des assurances - art. A441-4 (M)
-  - Code des assurances - art. R*441-20 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. R*441-21 (M)
-
-
-###### Article R*441-7
-
-Les opérations prévues à l'article R. 441-4 comportent la constitution d'une provision technique spéciale, à laquelle sont
-affectées les cotisations versées, nettes de chargement et de taxes, et sur laquelle sont prélevées les prestations servies.
-Elle est représentée à l'actif dans les conditions et limites fixées par le chapitre II du titre III du livre III du présent
-code.
-
-La provision technique spéciale est capitalisée au taux de 3,50 %.
-
-Sont également affectés à ladite provision, à concurrence d'au moins 75 % de leur montant, les bénéfices d'intérêts, d'une
-part, les bénéfices nets sur réalisations de valeurs, d'autre part, produits par sa gestion financière.
-
-Les valeurs mobilières figurant à l'actif du bilan en représentation de la provision technique spéciale sont évaluées
-conformément aux règles fixées par le chapitre II du titre III du livre III du présent code.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 6
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cité par_:
-
-  - Décret n°2004-342 du 21 avril 2004 - art. 26 (Ab)
-  - Décret n°2004-342 du 21 avril 2004 - art. 31 (Ab)
-  - Code des assurances - art. A441-2 (M)
-  - Code des assurances - art. A441-4 (M)
-  - Code des assurances - art. A441-6 (V)
-  - Code des assurances - art. D441-22 (V)
-  - Code des assurances - art. R*441-24 (Ab)
-  - Code des assurances - art. R*441-5 (M)
-  - Code des assurances - art. R334-13 (M)
-  - Code des assurances - art. R343-1 (VD)
-  - Code des assurances - art. R441-12 (V)
-  - Code des assurances - art. R441-2-2 (V)
-  - Code des assurances - art. R441-28 (V)
-  - Code des assurances - art. R441-7-1 (V)
-  - Code des assurances - art. R441-7-3 (VD)
-  - Code des assurances - art. R441-7-4 (V)
-  - Code des assurances - art. R441-7-5 (VD)
-
-_Cite_:
-
-  - Code des assurances - art. R*441-4 (M)
-
 
 ###### Article R*441-8
 
@@ -39026,75 +38880,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-
-###### Article R*441-10
-
-Les opérations afférentes à des conventions différentes gérées par un ou plusieurs assureurs peuvent faire l'objet d'une
-compensation. Les modalités de cette compensation sont fixées par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 9
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°95-391 du 12 avril 1995 - art. 12 (V) JORF 14 avril 1995 en vigueur le 1er mai 1995
-
-
-###### Article R*441-11
-
-Sous réserve des dispositions prévues au présent chapitre, les opérations pratiquées par les entreprises d'assurance,
-conformément au présent chapitre sont soumises au contrôle de l'Etat, dans les conditions fixées par le livre III du présent
-code. Il en est ainsi également lorsque les entreprises sont groupées en consortium.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 10
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°95-391 du 12 avril 1995 - art. 12 (V) JORF 14 avril 1995 en vigueur le 1er mai 1995
-
-
-###### Article R*441-12
-
-Pour les opérations mentionnées aux articles L. 441-1 et L. 441-3, il doit être tenu une comptabilité spéciale et il doit
-être établi, en fin d'exercice, un compte spécial de résultats. Un arrêté du ministre de l'économie et des finances fixe les
-modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 11
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cite_:
-
-  - Code des assurances - art. L441-1 (M)
-  - Code des assurances - art. L441-3 (M)
-
-_Cité par_:
-
-  - Code des assurances - art. R441-7-1 (VD)
-  - Code des assurances - art. R441-7-3 (V)
-  - Code des assurances - art. R441-7-5 (VD)
 
 
 ###### Article R*441-13
@@ -39158,75 +38943,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-
-###### Article R*441-15
-
-Le nombre de participants à une convention ne peut être inférieur à 2.000 si la gestion est faite par une entreprise
-d'assurance, à 5.000 si elle est faite en commun par plusieurs entreprises d'assurance.
-
-Cet effectif doit être réuni dans un délai de trois ans à partir de l'entrée en vigueur de ladite convention.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 14
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cité par_:
-
-  - Code des assurances - art. R*441-34 (Ab)
-  - Code des assurances - art. R144-18 (V)
-  - Code des assurances - art. R441-26 (V)
-  - Code des assurances - art. R441-28 (T)
-
-
-###### Article R*441-16
-
-En cas de cessation du paiement des cotisations, la convention peut prévoir la déchéance des droits acquis si le participant
-ne justifie pas du versement d'au moins trois annuités.
-
-Elle peut également prévoir une réduction du nombre d'unités de rente inscrites au compte d'un participant en application de
-l'article R. 441-18 :
-
-- lorsque l'intéressé a payé les primes ou cotisations afférentes à plus de trois années, mais n'a pas effectué des
-versements réguliers jusqu'à l'âge de l'entrée en jouissance, cette réduction ne peut avoir pour effet de réduire la
-prestation à un montant inférieur au produit du nombre d'unités de rente inscrites avant réduction par la moyenne des valeurs
-de service de l'unité de rente fixées pour les années au cours desquelles il a effectué ses versements ;
-
-- lorsqu'à l'âge de l'entrée en jouissance le participant ne peut faire état d'un nombre minimal d'années fixé par la
-convention depuis son adhésion ;
-
-- lorsque le participant demande une anticipation de la date de l'entrée en jouissance ;
-
-- lorsque le participant use de la possibilité d'obtenir une réversion prévue à titre facultatif par la convention.
-
-La convention peut également prévoir une majoration du nombre d'unités de rente inscrites au compte du participant en
-application de l'article R. 441-18 précité lorsque l'intéressé ajourne la date de l'entrée en jouissance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 15
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cité par_:
-
-  - Décret n°2004-342 du 21 avril 2004 - art. 26 (Ab)
-  - Code des assurances - art. R144-18 (V)
-  - Code des assurances - art. R441-17 (V)
-
-_Cite_:
-
-  - Code des assurances R441-18
 
 
 ###### Article R*441-17
@@ -39298,21 +39014,21 @@ _Cité par_:
 
 ###### Article R*441-20
 
-Le quotient de la valeur de service par la valeur d'acquisition doit être compris, lorsqu'il s'agit d'une rente sans
-réversion payable à soixante-cinq ans, entre 0,09 et 0,16.
+Dans le cas d'une rente sans réversion payable à soixante-cinq ans, le quotient de la valeur de service par la valeur
+d'acquisition doit être au moins égal à 0,05.
 
 Dans les autres cas, il est procédé à une équivalence actuarielle dont les conditions sont déterminées par l'arrêté prévu à
 l'article R. 441-6.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°64-537 1964-06-04 art. 19
+  - Décret n°95-391 du 12 avril 1995 - art. 7 () JORF 14 avril 1995 en vigueur le 1er mai 1995
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°2004-571 du 14 juin 2004 - art. 10 () JORF 20 juin 2004
 
 _Cite_:
 
@@ -39321,35 +39037,35 @@ _Cite_:
 
 ###### Article R*441-22
 
-Pour une convention donnée, le rapport de la provision technique spéciale à la provision mathématique théorique doit être
-égal ou supérieur à 0,5.
+Pour une convention donnée, le rapport de la provision technique spéciale à la provision mathématique théorique doit être au
+moins égal à 1.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°64-537 1964-06-04 art. 21
+  - Décret n°95-391 du 12 avril 1995 - art. 9 () JORF 14 avril 1995 en vigueur le 1er mai 1995
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°2004-571 du 14 juin 2004 - art. 10 () JORF 20 juin 2004
 
 
 ###### Article R*441-23
 
 La valeur de service de l'unité de rente doit être déterminée chaque année de telle manière que, après service des
 prestations dues au titre de l'année, le rapport de la provision technique spéciale à la provision mathématique théorique ne
-devienne pas inférieur à 0,5.
+devienne pas inférieur à 1 et que, le cas échéant, l'excédent par rapport à 1 ne diminue pas plus d'un dixième.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°64-537 1964-06-04 art. 22
+  - Décret n°95-391 du 12 avril 1995 - art. 10 () JORF 14 avril 1995 en vigueur le 1er mai 1995
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°2004-571 du 14 juin 2004 - art. 10 () JORF 20 juin 2004
 
 _Cité par_:
 
@@ -39402,23 +39118,226 @@ _Cité par_:
   - Code des assurances - art. R441-5 (VD)
 
 
-###### Article R441-21
+###### Article R441-4
 
-Chaque année, l'assureur calcule le montant de la provision mathématique théorique qui serait nécessaire pour assurer le
-service des rentes viagères immédiates et différées. Ce montant est égal au produit de la dernière valeur de service arrêtée
-par l'assureur par le nombre total des unités de rente inscrites au compte des adhérents. Ce calcul est effectué d'après des
-taux d'intérêt au plus égaux à 75 p. 100 du taux moyen des emprunts de l'Etat français calculé sur la base semestrielle, et
-qui ne peuvent en outre excéder 4,5 p. 100.
+La pratique des opérations d'assurance collective prévues par l'article L. 441-1 est autorisée sous la condition que ces
+opérations comportent une prestation déterminée dans les conditions fixées par le présent chapitre.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°95-391 du 12 avril 1995 - art. 1 () JORF 14 avril 1995 en vigueur le 1er mai 1995
+
+_Cite_:
+
+  - Code des assurances - art. L441-1 (V)
+
+_Cité par_:
+
+  - Code des assurances - art. R*441-13 (V)
+  - Code des assurances - art. R441-5 (VD)
+  - Code des assurances - art. R441-7 (M)
+
+
+###### Article R441-5
+
+Les opérations mentionnées à l'article R. 441-4 sont réalisées en application de conventions qui doivent indiquer les
+modalités de fonctionnement du régime y compris dans les cas de conversion prévus aux articles R. 441-25 et R. 441-26.
+
+**Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°93-384 du 19 mars 1993 - art. 4 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+  - Décret n°95-391 du 12 avril 1995 - art. 2 () JORF 14 avril 1995 en vigueur le 1er mai 1995
+
+_Cite_:
+
+  - Code des assurances - art. R*441-25 (Ab)
+  - Code des assurances - art. R*441-26 (M)
+  - Code des assurances - art. R*441-4 (M)
+
+
+###### Article R441-6
+
+Les conditions de chargement à appliquer aux cotisations et les tables de mortalité servant au calcul de la provision
+mathématique théorique mentionnée à l'article R. 441-21 et à l'établissement des inventaires sont déterminées dans les
+conditions et limites définies par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°95-391 du 12 avril 1995 - art. 3 () JORF 14 avril 1995 en vigueur le 1er mai 1995
+
+_Abrogé par_:
+
+  - Décret n°2004-571 du 14 juin 2004 - art. 10 () JORF 20 juin 2004
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. A441-1 (M)
+  - TXT_SOURCE: Code des assurances - art. A441-2 (M)
+  - TXT_SOURCE: Code des assurances - art. A441-3 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A441-4 (M)
+  - TXT_SOURCE: Code des assurances - art. A441-5 (V)
+  - TXT_SOURCE: Code des assurances - art. A441-6 (M)
+  - TXT_ASSOCIE: Code des assurances A441-1 à A441-6
+
+_Cité par_:
+
+  - Code des assurances - art. A441-4 (M)
+  - Code des assurances - art. R*441-20 (Ab)
+
+_Cite_:
+
+  - Code des assurances - art. R*441-21 (M)
+
+
+###### Article R441-7
+
+Les opérations prévues à l'article R. 441-4 comportent la constitution d'une provision technique spéciale, à laquelle sont
+affectées les cotisations versées, nettes de chargement et de taxes, et sur laquelle sont prélevées les prestations servies.
+Elle est représentée à l'actif dans les conditions et limites fixées par le chapitre II du titre III du livre III du présent
+code.
+
+La provision technique spéciale est capitalisée au taux de 3,50 %.
+
+Sont affectés à ladite provision, à concurrence d'au moins 85 p. 100 de leur montant, les produits générés par la gestion
+financière des opérations mentionnées à l'article R. 441-4.
+
+Les valeurs mobilières figurant à l'actif du bilan en représentation de la provision technique spéciale sont évaluées
+conformément aux règles fixées par le chapitre II du titre III du livre III du présent code.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°64-537 1964-06-04 art. 6
+
+_Modifié par_:
+
+  - Décret n°95-391 du 12 avril 1995 - art. 4 () JORF 14 avril 1995 en vigueur le 1er mai 1995
+
+_Cité par_:
+
+  - Décret n°2004-342 du 21 avril 2004 - art. 26 (Ab)
+  - Décret n°2004-342 du 21 avril 2004 - art. 31 (Ab)
+  - Code des assurances - art. A441-2 (M)
+  - Code des assurances - art. A441-4 (M)
+  - Code des assurances - art. A441-6 (V)
+  - Code des assurances - art. D441-22 (V)
+  - Code des assurances - art. R*441-24 (Ab)
+  - Code des assurances - art. R*441-5 (M)
+  - Code des assurances - art. R334-13 (M)
+  - Code des assurances - art. R343-1 (VD)
+  - Code des assurances - art. R441-12 (V)
+  - Code des assurances - art. R441-2-2 (V)
+  - Code des assurances - art. R441-28 (V)
+  - Code des assurances - art. R441-7-1 (V)
+  - Code des assurances - art. R441-7-3 (VD)
+  - Code des assurances - art. R441-7-4 (V)
+  - Code des assurances - art. R441-7-5 (VD)
+
+_Cite_:
+
+  - Code des assurances - art. R*441-4 (M)
+
+
+###### Article R441-12
+
+Pour les opérations mentionnées à l'article L. 441-1, il doit être tenu une comptabilité spéciale et il doit être établi, en
+fin d'exercice, un compte spécial de résultats. Un arrêté du ministre de l'économie et des finances fixe les modalités
+d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°95-391 du 12 avril 1995 - art. 1 () JORF 14 avril 1995 en vigueur le 1er mai 1995
+
+_Cite_:
+
+  - Code des assurances - art. L441-1 (M)
+
+_Cité par_:
+
+  - Code des assurances - art. R441-7-1 (VD)
+  - Code des assurances - art. R441-7-3 (V)
+  - Code des assurances - art. R441-7-5 (VD)
+
+
+###### Article R441-15
+
+Le nombre de participants à une convention ne peut être inférieur à 1 000.
+
+Cet effectif doit être réuni dans un délai de trois ans à partir de l'entrée en vigueur de ladite convention.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°95-391 du 12 avril 1995 - art. 5 () JORF 14 avril 1995 en vigueur le 1er mai 1995
+
+_Cité par_:
+
+  - Code des assurances - art. R*441-34 (Ab)
+  - Code des assurances - art. R144-18 (V)
+  - Code des assurances - art. R441-26 (V)
+  - Code des assurances - art. R441-28 (T)
+
+
+###### Article R441-16
+
+En cas de cessation du paiement des cotisations, la convention peut prévoir la déchéance des droits acquis si le participant
+ne justifie pas du versement d'au moins deux annuités. 
+
+Elle peut également prévoir une réduction du nombre d'unités de rente inscrites au compte d'un participant en application de
+l'article R. 441-18 :
+
+- lorsque l'intéressé a payé les primes ou cotisations afférentes à plus de trois années, mais n'a pas effectué des
+versements réguliers jusqu'à l'âge de l'entrée en jouissance, cette réduction ne peut avoir pour effet de réduire la
+prestation à un montant inférieur au produit du nombre d'unités de rente inscrites avant réduction par la moyenne des valeurs
+de service de l'unité de rente fixées pour les années au cours desquelles il a effectué ses versements ;
+
+- lorsqu'à l'âge de l'entrée en jouissance le participant ne peut faire état d'un nombre minimal d'années fixé par la
+convention depuis son adhésion ;
+
+- lorsque le participant demande une anticipation de la date de l'entrée en jouissance ;
+
+- lorsque le participant use de la possibilité d'obtenir une réversion prévue à titre facultatif par la convention. 
+
+La convention peut également prévoir une majoration du nombre d'unités de rente inscrites au compte du participant en
+application de l'article R. 441-18 précité lorsque l'intéressé ajourne la date de l'entrée en jouissance.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°95-391 du 12 avril 1995 - art. 6 () JORF 14 avril 1995 en vigueur le 1er mai 1995
+
+_Cité par_:
+
+  - Décret n°2004-342 du 21 avril 2004 - art. 26 (Ab)
+  - Code des assurances - art. R144-18 (V)
+  - Code des assurances - art. R441-17 (V)
+
+_Cite_:
+
+  - Code des assurances - art. R*441-18 (V)
+
+
+###### Article R441-21
+
+Chaque année, l'assureur calcule le montant de la provision mathématique théorique qui serait nécessaire pour assurer le
+service des rentes viagères immédiates et différées sur la base de la valeur de service à la date de l'inventaire. Ce calcul
+est effectué à partir des règles techniques édictées par arrêté du ministre de l'économie.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°95-391 du 12 avril 1995 - art. 8 () JORF 14 avril 1995 en vigueur le 1er mai 1995
 
 _Cité par_:
 
@@ -39437,69 +39356,52 @@ _Cité par_:
   - Code des assurances - art. R441-7-5 (VD)
 
 
-##### Section III : Règles relatives au retrait de l'agrément.<a id=350></a>
+##### Section III : Conversion de la convention.<a id=350></a>
 
-###### Article R*441-29
+###### Article R441-25
 
-En cas de retrait de l'agrément, l'actif est réparti entre les bénéficiaires de la convention considérée, dans la limite du
-total des provisions constituées pour chacune des conventions.
-
-La répartition de cet actif entre les bénéficiaires est proportionnelle à des provisions mathématiques fictives, calculées
-sans intervention d'un taux d'intérêt, correspondant à la totalité des unités de rente ayant donné lieu ou non à versement
-d'arrérages et figurant aux comptes individuels à l'intérieur de la convention.    La part ainsi déterminée est transformée
-en rentes viagères immédiates ou différées, couvertes intégralement par des provisions mathématiques.
+Lorsque, dans le cadre d'une convention et lors de deux inventaires successifs, le rapport de la provision technique spéciale
+à la provision mathématique théorique est inférieur à 1 ou que le quotient de la valeur de service par la valeur
+d'acquisition de l'unité de rente est inférieur à la limite prévue au premier alinéa de l'article R. 441-20, il est procédé à
+la conversion de la convention.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
 _Modifié par_:
 
-  - Décret n°84-349 1984-05-09 art. 33, art. 34 JORF 12 mai 1984
-  - Décret n°84-349 du 9 mai 1984 - art. 34 () JORF 12 mai 1984
+  - Décret n°95-391 du 12 avril 1995 - art. 11 () JORF 14 avril 1995 en vigueur le 1er mai 1995
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code des assurances - art. R*441-28 (M)
+  - Décret n°2004-571 du 14 juin 2004 - art. 10 () JORF 20 juin 2004
+
+_Cité par_:
+
+  - Code des assurances - art. A441-7 (Ab)
+  - Code des assurances - art. R*441-26 (M)
+  - Code des assurances - art. R441-28 (M)
+  - Code des assurances - art. R441-5 (M)
+
+_Anciens textes_:
+
+  - Code des assurances - art. R*441-26 (M)
+  - Code des assurances - art. R441-26 (T)
+
+_Cite_:
+
+  - Code des assurances R441-20
 
 
 ###### Article R441-26
 
-L'agrément prévu à la branche 26 de l'article R. 321-1 est retiré par arrêté du ministre de l'économie et des finances,
-publié au Journal officiel de la République française.
-
-Le retrait de l'agrément peut être prononcé en cas d'infraction aux règles fixées par le présent chapitre, notamment lorsque,
-pour une convention, le rapport de la provision technique spéciale à la provision mathématique théorique est inférieur à 0,5,
-ou lorsque le quotient de la valeur de service par la valeur d'acquisition de l'unité de rente est supérieur ou inférieur aux
-limites fixées à l'article R. 441-20 ou, dans les conditions prévues à l'article R. 441-28, lorsque le nombre de participants
-est inférieur à l'effectif prévu à l'article R. 441-15.
-
-Il peut également être prononcé lorsque les provisions techniques spéciales ne sont pas représentées régulièrement ou lorsque
-la trésorerie est insuffisante.
-
-Lorsque l'infraction ne porte que sur les opérations afférentes à une convention déterminée, le retrait de l'agrément peut
-être limité à cette seule convention.
-
-Le retrait de l'agrément peut être prononcé même si la ou les infractions constatées proviennent, non de l'entreprise
-d'assurance, mais d'un ou de plusieurs organismes qui ont contracté avec elle.
-
-Lorsque, pour les opérations pratiquées en consortium, la ou les infractions constatées concernent l'application d'une
-convention dont les opérations relèvent du consortium, le retrait de l'agrément peut être prononcé à l'encontre de toutes les
-entreprises d'assurance participant au consortium. Il est alors procédé à la liquidation de celui-ci sur décision du ministre
-de l'économie et des finances.
+Lorsque le nombre de participants à une convention est ou devient inférieur à 1 000 après l'expiration du délai prévu à
+l'article R. 441-15, il est procédé à la conversion de la convention.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
 _Modifié par_:
 
-  - Décret n°84-349 1984-05-09 art. 33, art. 34 JORF 12 mai 1984
-  - Décret n°84-349 du 9 mai 1984 - art. 34 () JORF 12 mai 1984
+  - Décret n°95-391 du 12 avril 1995 - art. 11 () JORF 14 avril 1995 en vigueur le 1er mai 1995
 
 _Cité par_:
 
@@ -39510,12 +39412,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. R*441-15 (M)
-  - Code des assurances R321-1, R441-20, R441-28, R441-15
+  - Code des assurances - art. R441-15 (V)
 
 _Nouveaux textes_:
 
-  - Code des assurances - art. R*441-25 (Ab)
   - Code des assurances - art. R441-25 (Ab)
 
 _Anciens textes_:
@@ -39525,21 +39425,19 @@ _Anciens textes_:
 
 ###### Article R441-27
 
-Le retrait de l'agrément entraîne, dans un délai fixé pour chaque cas par le ministre de l'économie et des finances, la
-transformation des opérations faisant l'objet du retrait de l'agrément particulier en opérations d'assurance couvertes,
-intégralement et à tout moment, par des provisions mathématiques. La part des provisions revenant à chaque adhérent dans la
-liquidation des opérations considérées détermine la prestation que comporte l'opération d'assurance de substitution.
+La conversion de la convention entraîne, dans un délai d'un an, la transformation des opérations faisant l'objet de la
+conversion en opérations de rentes viagères couvertes, intégralement et à tout moment, par des provisions mathématiques.
+
+La part des provisions revenant à chaque adhérent dans la conversion des opérations considérées détermine la prestation que
+comporte l'opération d'assurance de substitution.
+
+Cette répartition est effectuée sur des bases techniques définies par arrêté du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
 _Modifié par_:
 
-  - Décret n°84-349 1984-05-09 art. 33, art. 34 JORF 12 mai 1984
-  - Décret n°84-349 du 9 mai 1984 - art. 34 () JORF 12 mai 1984
+  - Décret n°95-391 du 12 avril 1995 - art. 11 () JORF 14 avril 1995 en vigueur le 1er mai 1995
 
 _Cité par_:
 
@@ -39549,48 +39447,40 @@ _Cité par_:
   - Code des assurances - art. D441-22 (V)
   - Code des assurances - art. R441-24 (VD)
 
-_Nouveaux textes_:
-
-  - Code des assurances - art. R*441-26 (M)
-
 _Anciens textes_:
 
+  - Code des assurances - art. R*441-28 (M)
   - Code des assurances - art. R441-28 (T)
 
 
 ###### Article R441-28
 
-Lorsque le nombre de participants à une convention, après expiration du délai prévu à l'article R. 441-15, est ou devient
-inférieur à l'effectif prévu audit article, le retrait de l'agrément est prononcé, soit immédiatement, soit après
-l'expiration d'un nouveau délai fixé par le ministre de l'économie et des finances.
+En cas de conversion d'une ou de plusieurs conventions dans les conditions visées aux articles R. 441-25 et R. 441-26,
+l'actif est réparti entre les bénéficiaires de la ou des conventions considérées dans la limite du total de l'actif constitué
+pour chacune des conventions.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
 _Modifié par_:
 
-  - Décret n°84-349 1984-05-09 art. 33, art. 34 JORF 12 mai 1984
-  - Décret n°84-349 du 9 mai 1984 - art. 34 () JORF 12 mai 1984
+  - Décret n°95-391 du 12 avril 1995 - art. 11 () JORF 14 avril 1995 en vigueur le 1er mai 1995
 
 _Cite_:
 
-  - Code des assurances - art. R*441-15 (M)
-
-_Nouveaux textes_:
-
-  - Code des assurances - art. R*441-27 (M)
-  - Code des assurances - art. R441-27 (V)
+  - Code des assurances - art. R*441-25 (Ab)
 
 _Anciens textes_:
 
   - Code des assurances - art. R*441-29 (T)
+  - Code des assurances R441-29
 
 _Cité par_:
 
   - Code des assurances - art. R441-26 (T)
+
+_Nouveaux textes_:
+
+  - Code des assurances - art. R441-27 (V)
 
 
 ##### Section IV : Dispositions transitoires.<a id=351></a>
