@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1990-06-25
+Version Consolidée au 1990-06-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 1990-06-25
         - [Chapitre IV : Compétence et prescription. (art. L114-1 à L114-2)](#7)
       - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. L121-1 à L126-2)](#8)
         - [Chapitre Ier : Dispositions générales. (art. L121-1 à L121-15)](#9)
-        - [Chapitre II : Les assurances contre l'incendie. (art. L122-1 à L122-6)](#10)
+        - [Chapitre II : Les assurances contre l'incendie. (art. L122-1 à L122-7)](#10)
         - [Chapitre III : Les assurances contre la grêle et la mortalité du bétail. (art. L123-1 à L123-4)](#11)
         - [Chapitre IV : Les assurances de responsabilité. (art. L124-1 à L124-4)](#12)
         - [Chapitre V : L'assurance des risques de catastrophes naturelles. (art. L125-1 à L125-6)](#13)
@@ -2096,6 +2096,51 @@ _Cité par_:
 _Anciens textes_:
 
   - Loi n°1930-07-13 art. 45
+
+
+###### Article L122-7
+
+Les contrats d'assurance garantissant les dommages d'incendie à des biens situés en France ainsi qu'aux corps de véhicules
+terrestres à moteur ouvrent droit à la garantie de l'assuré contre les effets du vent dû aux tempêtes, ouragans ou cyclones,
+sur les biens faisant l'objet de tels contrats.
+
+En outre, si l'assuré est couvert contre les pertes d'exploitation après incendie, cette garantie est étendue aux effets du
+vent dû aux tempêtes, ouragans ou cyclones.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°90-509 du 25 juin 1990 - art. 1 () JORF 27 juin 1990
+
+_Cité par_:
+
+  - Décret n°2005-234 du 14 mars 2005 - art. 1 (V)
+  - Décret n°2006-370 du 27 mars 2006 - art. 1 (V)
+  - Décret n°2007-134 du 30 janvier 2007 - art. 1 (V)
+  - Décret n°2008-270 du 18 mars 2008 - art. 1 (V)
+  - Arrêté du 31 mars 2009 (Ab)
+  - Arrêté du 31 mars 2009 - art. 1 (Ab)
+  - Arrêté du 22 janvier 2010 - art. 1 (V)
+  - Arrêté du 29 décembre 2010 - art. 1 (V)
+  - Arrêté du 16 septembre 2011 - art. 1 (V)
+  - Arrêté du 26 septembre 2012 - art. 1 (V)
+  - Arrêté du 27 décembre 2013 - art. 1 (V)
+  - Arrêté du 1er août 2014 - art. Annexe (V)
+  - Arrêté du 5 juin 2015 - art. 1 (V)
+  - Arrêté du 25 novembre 2016 - art. 1 (V)
+  - Code de la construction et de l'habitation. - art. R31-10-3 (VD)
+  - Code de la construction et de l'habitation. - art. R317-1 (V)
+  - Code de la construction et de l'habitation. - art. R318-1 (V)
+  - Code de la construction et de l'habitation. - art. R321-18 (V)
+  - Code de la construction et de l'habitation. - art. R452-25-1 (V)
+  - Code des assurances - art. L111-5 (Ab)
+  - Code des assurances - art. L193-2 (V)
+  - Code des assurances - art. L194-1 (VD)
 
 
 #### Chapitre III : Les assurances contre la grêle et la mortalité du bétail.<a id=11></a>
