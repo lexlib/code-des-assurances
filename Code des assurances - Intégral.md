@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-03-16
+Version Consolidée au 1986-03-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -17789,27 +17789,41 @@ _Abrogé par_:
 
 ###### Article R243-1
 
-Une décision conjointe du ministre de l'économie et du ministre de tutelle peut accorder, après avis du ministre chargé de la
-construction, une dérogation à l'obligation d'assurance de dommages obligatoire, aux collectivités locales et aux
-établissements publics répondant à la condition fixée à l'article L. 243-1.
+Les dérogations prévues à l'article L. 243-1 sont accordées :
 
-Les préfets reçoivent délégation pour accorder aux communes et aux groupements de communes remplissant la même condition, des
-dérogations limitées à des ouvrages déterminés.
+a) Par arrêté du commissaire de la République du département, après avis du trésorier-payeur général, pour les communes, les
+départements, leurs groupements et leurs établissements publics.
+
+Dans le cas d'un établissement public constitué de plusieurs de ces collectivités, le commissaire de la République compétent
+est celui du département dans lequel ledit établissement a son siège :
+
+b) Par arrêté du commissaire de la République de région, après avis du trésorier-payeur général de région, pour les régions,
+leurs groupements et leurs établissements publics.
+
+Dans le cas d'un établissement public constitué de plusieurs de ces collectivités, le commissaire de la République compétent
+est celui de la région dans laquelle ledit établissement à son siège ;
+
+c) Par arrêté conjoint du ministre des finances et du ministre de tutelle, pris après avis du ministre chargé de la
+construction, pour les autres établissements publics.
 
 **Liens relatifs à cet article**
 
-_Transféré par_:
+_Modifié par_:
 
-  - Décret n°85-864 1985-08-02 art. 2 JORF 15 août 1985
+  - Décret n°86-551 1986-03-14 art. 1 JORF 18 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°93-581 du 26 mars 1993 - art. 1 (V) JORF 28 mars 1993
 
 _Cité par_:
 
   - Code des assurances - art. Annexe I art A243-1 (V)
   - Code des assurances - art. R243-3 (V)
 
-_Cite_:
+**Liens**:
 
-  - Code des assurances - art. L243-1 (M)
+  - TXT_SOURCE: Code des assurances - art. L243-1 (M)
 
 _Anciens textes_:
 
