@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1995-01-01
+Version Consolidée au 1995-02-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -9,7 +9,7 @@ Version Consolidée au 1995-01-01
         - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. L113-1 à L113-17)](#6)
         - [Chapitre IV : Compétence et prescription. (art. L114-1 à L114-2)](#7)
       - [Titre II : Règles relatives aux assurances de dommages non maritimes (art. L121-1 à L127-7)](#8)
-        - [Chapitre Ier : Dispositions générales. (art. L121-1 à L121-15)](#9)
+        - [Chapitre Ier : Dispositions générales. (art. L121-1 à L121-17)](#9)
         - [Chapitre II : Les assurances contre l'incendie. (art. L122-1 à L122-7)](#10)
         - [Chapitre III : Les assurances contre la grêle et la mortalité du bétail. (art. L123-1 à L123-4)](#11)
         - [Chapitre IV : Les assurances de responsabilité. (art. L124-1 à L124-4)](#12)
@@ -2074,6 +2074,58 @@ _Anciens textes_:
   - Loi n°1930-07-13 art. 39
 
 
+###### Article L121-16
+
+Toute clause des contrats d'assurance tendant à subordonner le versement d'une indemnité en réparation d'un dommage causé par
+une catastrophe naturelle au sens de l'article L. 125-1 à un immeuble bâti à sa reconstruction sur place est réputée non
+écrite dès lors que l'espace est soumis à un plan de prévention des risques naturels prévisibles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°95-101 du 2 février 1995 - art. 17 () JORF 3 février 1995
+
+_Cité par_:
+
+  - Code de commerce - art. L310-3 (V)
+  - Code des assurances - art. L121-17 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L125-1 (V)
+
+
+###### Article L121-17
+
+Sauf dans le cas visé à l'article L. 121-16, les indemnités versées en réparation d'un dommage causé à un immeuble bâti
+doivent être utilisées pour la remise en état effective de cet immeuble ou pour la remise en état de son terrain d'assiette,
+d'une manière compatible avec l'environnement dudit immeuble. 
+
+Toute clause contraire dans les contrats d'assurance est nulle d'ordre public. 
+
+Un arrêté du maire prescrit les mesures de remise en état susmentionnées, dans un délai de deux mois suivant la notification
+du sinistre au maire par l'assureur ou l'assuré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°95-101 du 2 février 1995 - art. 90 () JORF 3 février 1995
+
+_Cite_:
+
+  - Code des assurances - art. L121-16 (V)
+
+
 #### Chapitre II : Les assurances contre l'incendie.<a id=10></a>
 
 ###### Article L122-1
@@ -2626,10 +2678,11 @@ _Cite_:
 
 ###### Article L125-6
 
-Dans les terrains classés inconstructibles par un plan d'exposition aux risques naturels prévisibles, défini par le premier
-alinéa de l'article 5-I de la loi n° 82-600 du 13 juillet 1982, l'obligation prévue au premier alinéa de l'article L. 125-2
-ne s'impose pas aux entreprises d'assurance à l'égard des biens et activités mentionnés à l'article L. 125-1, à l'exception,
-toutefois, des biens et des activités existant antérieurement à la publication de ce plan.
+Dans les terrains classés inconstructibles par un plan de prévention des risques naturels prévisibles approuvé dans les
+conditions prévues par la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection
+de la forêt contre l'incendie et à la prévention des risques majeurs, l'obligation prévue au premier alinéa de l'article L.
+125-2 ne s'impose pas aux entreprises d'assurance à l'égard des biens et activités mentionnés à l'article L. 125-1, à
+l'exception, toutefois, des biens et des activités existant antérieurement à la publication de ce plan.
 
 Cette obligation ne s'impose pas non plus aux entreprises d'assurance à l'égard des biens immobiliers construits et des
 activités exercées en violation des règles administratives en vigueur lors de leur mise en place et tendant à prévenir les
@@ -2638,12 +2691,11 @@ dommages causés par une catastrophe naturelle.
 Les entreprises d'assurance ne peuvent toutefois se soustraire à cette obligation que lors de la conclusion initiale ou du
 renouvellement du contrat.
 
-A l'égard des biens et activités situés sur des terrains couverts par un plan d'exposition, les entreprises d'assurance
-peuvent exceptionnellement déroger aux dispositions du deuxième alinéa de l'article L. 125-2 sur décision d'un bureau central
-de tarification, dont les conditions de constitution et les règles de fonctionnement sont fixées par décret en Conseil
-d'Etat, lorsque le propriétaire ou l'exploitant ne se sera pas conformé dans un délai de cinq ans aux prescriptions visées
-par le premier alinéa du I de l'article 5 de la loi n° 82-600 du 13 juillet 1982 relative à l'indemnisation des victimes de
-catastrophes naturelles.
+A l'égard des biens et activités situés sur des terrains couverts par un plan de prévention des risques, les entreprises
+d'assurance peuvent exceptionnellement déroger aux dispositions du deuxième alinéa de l'article L. 125-2 sur décision d'un
+bureau central de tarification, dont les conditions de constitution et les règles de fonctionnement sont fixées par décret en
+Conseil d'Etat, lorsque le propriétaire ou l'exploitant ne se sera pas conformé dans un délai de cinq ans aux mesures visées
+au 4° de l'article 40-1 de la loi n° 87-565 du 22 juillet 1987 précitée.
 
 Le bureau central de tarification fixe des abattements spéciaux dont les montants maxima sont déterminés par arrêté, par
 catégorie de contrat.
@@ -2667,15 +2719,15 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°82-600 du 13 juillet 1982 - art. 5, v. init.
+  - Loi n°87-565 du 22 juillet 1987 - art. 40-1 (Ab)
   - Code des assurances - art. L125-1 (M)
   - Code des assurances - art. L125-2 (M)
   - Code des assurances - art. L321-1 (M)
-  - Code des assurances L125-1, L125-2, L321-1, L321-7 à L321-9
+  - Code des assurances L125-2, L125-1, L321-1, L321-7 à L321-9
 
 _Modifié par_:
 
-  - Loi n°94-679 du 8 août 1994 - art. 80 () JORF 10 août 1994
+  - Loi n°95-101 du 2 février 1995 - art. 19 () JORF 3 février 1995
 
 _Cité par_:
 
