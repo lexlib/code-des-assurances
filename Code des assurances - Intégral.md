@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1980-07-11
+Version Consolidée au 1980-08-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -274,12 +274,12 @@ Version Consolidée au 1980-07-11
           - [Section V : Dispositions particulières aux territoires d'outre-mer. (art. R*334-25)](#271)
       - [Titre IV : Dispositions comptables et statistiques (art. R*341-1 à R343-5)](#272)
         - [Chapitre Ier : Principes généraux. (art. R*341-1 à R*341-9)](#273)
-        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. R342-1 à R342-24)](#274)
+        - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. R342-1 à R342-25)](#274)
           - [Section I : Dispositions générales. (art. R342-1 à R342-6)](#275)
           - [Section II : Documents et registres comptables. (art. R342-7 à R342-8)](#276)
           - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. R342-9 à R342-12)](#277)
           - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance. (art. R342-13 à R342-16)](#278)
-          - [Section V : Comptes rendus à établir et documents à adresser au ministre de l'économie et des finances. (art. R342-17 à R342-24)](#279)
+          - [Section V : Comptes rendus à établir et documents à adresser au ministre de l'économie et des finances. (art. R342-17 à R342-25)](#279)
         - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation (art. R343-1 à R343-5)](#280)
           - [Section I : Le cadre comptable. (art. R343-1)](#281)
           - [Section II : Liste des comptes (art. R343-2)](#282)
@@ -28893,6 +28893,33 @@ _Codifié par_:
 _Cite_:
 
   - Code des assurances - art. R342-17 (M)
+
+
+###### Article R342-25
+
+Les entreprises doivent adresser au ministre de l'économie, au plus tard le 31 mars de chaque année, des états provisoires B
+10 afférents à l'ensemble des opérations pratiquées au titre des branches mentionnées aux 3° et 10° de l'article R. 321-1,
+ainsi que des états provisoires B 10 bis, relatifs aux opérations réalisées au cours du précédent exercice, établis dans la
+forme fixée à l'article A. 344-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°80-653 1980-08-07 art. 1 JORF 20 août 1980
+
+_Cite_:
+
+  - Code des assurances - art. A344-6 (Ab)
+  - Code des assurances R321-1, A344-6
+
+_Cité par_:
+
+  - Code des assurances - art. R342-1 (Ab)
 
 
 #### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation<a id=280></a>
