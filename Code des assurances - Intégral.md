@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1981-01-09
+Version Consolidée au 1981-01-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
