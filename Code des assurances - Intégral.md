@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-07-01
+Version Consolidée au 1986-08-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -7390,21 +7390,14 @@ _Cite_:
 ###### Article L322-12
 
 Il est créé, par le seul fait de la loi, dans chacun des groupes d'entreprises nationales "Assurances générales de France",
-"Groupe des assurances nationales" et "Union des assurances de Paris", une société centrale d'assurance ayant exclusivement
-pour objet de détenir directement ou indirectement la totalité des actions des entreprises constituant le groupe, d'exercer
-les droits attachés à ces actions et de faire bénéficier de ces droits ses propres actionnaires.
+"Groupe des assurances nationales" et "Union des assurances de Paris", une société centrale d'assurance ayant notamment pour
+objet de détenir directement ou indirectement la totalité des actions des entreprises constituant le groupe, d'exercer les
+droits attachés à ces actions et de faire bénéficier de ces droits ses propres actionnaires.
 
 Les actions des entreprises nationales d'assurance dont l'Etat fait apport à ces sociétés ne peuvent être aliénées par elles.
 Les apports sont réalisés par le seul fait de la loi. Ils ne supportent aucun frais ou charge. Ils sont exonérés des droits
-d'enregistrement.
-
-Une entreprise nationale d'assurance peut détenir une participation dans le capital d'une autre entreprise du même groupe.
-
-Le capital social de chaque société centrale est égal au total des capitaux sociaux des entreprises de son groupe, déduction
-faite des participations détenues dans les conditions prévues au précédent alinéa.
-
-Il est divisé en actions qui sont remises à l'Etat et peuvent faire l'objet des opérations mentionnées aux articles L. 322-22
-à L. 322-25.
+d'enregistrement. Une entreprise nationale d'assurance peut détenir une participation dans le capital d'une autre entreprise
+du même groupe.
 
 La société centrale répartit à ses actionnaires les dividendes qui lui ont été versés par les sociétés du groupe au cours de
 l'exercice de l'encaissement.
@@ -7419,19 +7412,18 @@ centrales d'assurance. Les dispositions de la même loi ne font pas obstacle à 
 _Cite_:
 
   - Loi n°66-537 1966-07-24 art. 95, art. 111, art. 278
-  - Code des assurances L322-22 à L322-25
 
 _Anciens textes_:
 
   - Loi n°73-8 1973-01-04 art. 9, art. 15
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°76-666 1976-07-16
+  - SPEC_APPLI: Loi n°86-912 1986-08-06 art. 7 *modalités d'application des privatisations* et art. 8 *champ d'application - dérogations*
 
 _Modifié par_:
 
-  - Loi n°77-574 1977-06-07 art. 37 III, IV, V JORF 8 juin 1977
+  - Loi n°86-912 1986-08-06 art. 7 I JORF 7 août 1986
 
 _Cité par_:
 
