@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-01-31
+Version Consolidée au 1991-03-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L181-3)](#2)
@@ -39592,31 +39592,15 @@ _Cité par_:
 
 ###### Article R*432-1
 
-La société nationale dénommée compagnie française d'assurance pour le commerce extérieur a pour objet d'assumer, pour le
-compte de l'Etat, la gestion du service public de l'assurance crédit et de garantir la bonne fin des opérations du commerce
-extérieur. L'activité de cette compagnie s'exerce dans les conditions suivantes :
+La société nationale dénommée Compagnie française d'assurance pour le commerce extérieur (Coface) a pour objet, afin de
+servir, à titre principal, les intérêts du commerce extérieur :
 
-1° La compagnie assume pour le compte de l'Etat et sous son contrôle la gestion du service public de l'assurance crédit. A
-cet effet, elle assure, dans les conditions définies par décret en Conseil d'Etat :
+1° De garantir les risques d'assurance-crédit et la bonne fin des opérations commerciales et financières et, plus
+généralement, d'offrir tous services d'assurances connexes ou de nature à favoriser le développement de ces opérations ;
 
-a) Les exportateurs et les importateurs pour leurs opérations de commerce extérieur ;
-
-b) Les banques et établissements financiers pour les prêts ou crédits qu'ils consentent soit à des personnes étrangères,
-physiques ou morales, de droit public ou de droit privé, soit à des banques ou établissements financiers étrangers, pour le
-financement d'opérations d'exportation ou connexes à des exportations ;
-
-c) Les entreprises installées en France, pour les investissements à l'étranger connexes à des opérations d'exportation.
-
-Les polices d'assurance crédit délivrées par la compagnie aux entreprises, aux banques et établissements financiers couvrent
-ceux-ci contre les risques politiques, monétaires, catastrophiques et commerciaux extraordinaires pour lesquels l'Etat donne
-sa garantie.
-
-2° La compagnie assure sous le contrôle de l'Etat, et le cas échéant avec son concours financier, les risques commerciaux
-ordinaires afférents auxdites opérations.
-
-3° La compagnie peut également garantir les banques et établissements financiers contre les risques d'insolvabilité de
-l'exportateur ou de l'importateur qui sont afférents à des opérations de commerce extérieur financées par ces banques et
-établissements financiers.
+2° De garantir, pour le compte de l'Etat et sous son contrôle, les risques liés aux échanges internationaux, risques
+commerciaux, politiques, monétaires, catastrophiques, ainsi que certains risques dits extraordinaires mentionnés à l'article
+L. 432-2 du code des assurances. Ces risques bénéficient de la garantie de l'Etat au titre de l'article L. 432-2 dudit code.
 
 **Liens relatifs à cet article**
 
@@ -39626,68 +39610,71 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1209 1985-11-20 art. 1 JORF 21 novembre 1985
+  - Décret n°91-303 du 22 mars 1991 - art. 1 () JORF 24 mars 1991
+
+_Abrogé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
+
+_Cite_:
+
+  - Code des assurances - art. L432-2 (M)
 
 
 ###### Article R*432-2
 
-Peuvent seuls prendre part à la constitution de la compagnie, souscrire à son capital ou en acquérir ultérieurement une part,
-les établissements ci-après :
+Peuvent être actionnaires de la coface la caisse des dépôts et consignations et, sous réserve de l'accord du conseil
+d'administration et du ministre chargé de l'économie et des finances, les établissements de crédit et les compagnies
+financières visées par la loi n° 84-46 du 24 janvier 1984 ainsi que les entreprises régies par le code des assurances ou les
+sociétés qui détiennent la majorité du capital de ces établissements, compagnies ou entreprises.
 
-La Caisse des dépôts et consignations ;
+Ces établissements, compagnies ou entreprises peuvent se substituer, avec l'accord du conseil d'administration de la coface
+et du ministre chargé de l'économie et des finances, les filiales dont ils possèdent la majorité du capital.
 
-Le Crédit national ;
-
-La banque française du commerce extérieur ;
-
-Les banques nationalisées ;
-
-Les entreprises d'assurance nationalisées ;
-
-La société française d'assurance pour favoriser le crédit.
-
-La participation de cette dernière ne peut excéder 30 % du capital de la compagnie. Les modalités de cette participation sont
-fixées d'un commun accord entre les deux établissements. Elles doivent comporter notamment :
-
-a) Apport à la compagnie de l'intégralité du département étranger (y compris les archives et la documentation) de ladite
-société ;
-
-b) Renonciation par celle-ci à procéder, à l'avenir, à aucune opération directe d'assurance-crédit portant sur des opérations
-de commerce extérieur, si ce n'est pour le compte de la compagnie et dans les conditions fixées dans chaque cas par cette
-dernière.
-
-Le montant du capital et la répartition des actions entre les établissements actionnaires sont fixés, après accord entre les
-établissements intéressés, par délibération du conseil d'administration soumise à l'approbation du ministre de l'économie et
-des finances.
+Le montant du capital ainsi que toute modification dans sa composition sont fixés, après accord de l'assemblée générale des
+actionnaires de la Coface et des établissements, compagnies ou entreprises intéressés, par délibération du conseil
+d'administration soumise à l'approbation du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°46-1332 1946-06-01 art. 8
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Cite_:
+
+  - Loi n°84-46 1984-01-24
+
+_Modifié par_:
+
+  - Décret n°91-303 du 22 mars 1991 - art. 2 () JORF 24 mars 1991
+
+_Abrogé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 
 ###### Article R*432-3
 
-Les risques mentionnés au 1° de l'article R. 432-1 sont définis par décret en Conseil d'Etat, pris sur le rapport du ministre
+Les risques mentionnés au 2° de l'article R. 432-1 sont définis par décret en Conseil d'Etat, pris sur le rapport du ministre
 de l'économie et des finances.
 
-Les garanties relatives à ces risques sont délivrées par la compagnie conformément à l'avis de la commission des garanties et
-du crédit au commerce extérieur mentionnée à l'article L. 432-3.
+Les garanties relatives à ces risques sont délivrées par la coface conformément à l'avis de la commission des garanties et du
+crédit au commerce extérieur mentionnée à l'article L. 432-3.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°46-1332 du 1 juin 1946 - art. 6, v. init.
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°91-303 du 22 mars 1991 - art. 3 () JORF 24 mars 1991
+
+_Abrogé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 _Cite_:
 
@@ -39771,8 +39758,7 @@ _Abrogé par_:
 
 La Compagnie française d'assurance pour le commerce extérieur est administrée par un conseil de dix-huit membres, à savoir :
 
-a) Six administrateurs désignés par l'assemblée générale des actionnaires à raison de un par établissement ou groupe
-d'établissements mentionnés à l'article R. 432-2.
+a) Six administrateurs désignés par l'assemblée générale des actionnaires.
 
 b) Six administrateurs nommés par décret pris sur le rapport du ministre de l'économie, des finances et du budget, parmi les
 personnes ayant une vaste expérience du commerce extérieur, dont trois parmi les personnes exerçant ou ayant exercé
@@ -39791,12 +39777,15 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code des assurances R432-2
   - Loi n°83-675 1983-07-26
 
 _Modifié par_:
 
-  - Décret n°84-337 1985-05-07 art. 1 JORF 8 mai 1984
+  - Décret n°91-303 du 22 mars 1991 - art. 4 () JORF 24 mars 1991
+
+_Abrogé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 
 ###### Article R*432-8
@@ -39821,63 +39810,6 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-9
-
-Les dispositions des deux derniers alinéas de l'article 9 de la loi n° 45-15 du 2 décembre 1945 relative à la nationalisation
-de la Banque de France et des grandes banques et à l'organisation du crédit sont applicables en ce qui concerne les membres
-du conseil d'administration.
-
-Toutefois, l'interdiction édictée par cet article à l'égard des fonctionnaires en activité de service ne s'étend pas aux
-représentants des établissements mentionnés à l'article R. 432-2.
-
-La responsabilité des membres du conseil d'administration représentant les salariés est appréciée dans les conditions
-définies à l'article 22 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Cite_:
-
-  - Loi n°83-675 du 26 juillet 1983 - art. 22 (V)
-  - Loi n°45-15 du 2 décembre 1945 - art. 9 (Ab)
-  - Code des assurances R432-2
-
-_Modifié par_:
-
-  - Décret n°84-337 1984-05-07 art. 4 JORF 8 mai 1984
-
-_Abrogé par_:
-
-  - Décret n°91-303 du 22 mars 1991 - art. 7 (V) JORF 24 mars 1991
-
-
-###### Article R*432-10
-
-Le conseil d'administration peut instituer auprès de lui des comités techniques où sont représentées les professions
-industrielles, commerciales ou agricoles intéressées à l'exportation ou à l'importation et, le cas échéant, toutes autres
-professions se rapportant au commerce extérieur.
-
-Des représentants de ces professions siégeant aux comités techniques peuvent être appelés par le conseil d'administration à
-assister à ses séances avec voix consultative.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°46-1332 1946-06-01 art. 14
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°91-303 du 22 mars 1991 - art. 7 (V) JORF 24 mars 1991
 
 
 ###### Article R*432-10 bis
@@ -39998,14 +39930,11 @@ _Cite_:
 
 ###### Article R*432-14
 
-La compagnie tient sa comptabilité suivant la réglementation en vigueur et selon les dispositions du plan comptable
-normalisé.
+La compagnie tient sa comptabilité suivant la réglementation en vigueur.
 
-Cette comptabilité fait apparaître notamment en un compte distinct l'ensemble des frais généraux de la compagnie et, en un
-compte dit "Compte du Trésor", conformément aux dispositions de la présente section et aux instructions du ministre de
-l'économie et des finances, toutes les opérations prévues à l'article R. 432-13 et aux articles R. 432-15 à R. 432-17, ainsi
-que les versements effectués par l'Etat au titre de la garantie prévue à l'article R. 432-13 et les sommes reversées à l'Etat
-en application de l'article R. 432-18.
+Cette comptabilité fait apparaître en un compte, dit "Compte du Trésor", les opérations mentionnées au 2° de l'article R.
+432-1 ainsi que les prélèvements ou versements effectués par application des dispositions des articles R. 432-13, R. 432-15,
+R. 432-16 et R. 432-18.
 
 **Liens relatifs à cet article**
 
@@ -40015,11 +39944,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1209 1985-11-20 art. 2 JORF 21 novembre 1985
+  - Décret n°91-303 du 22 mars 1991 - art. 5 () JORF 24 mars 1991
+
+_Abrogé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 _Cite_:
 
-  - Code des assurances R432-13, R432-15 à R432-17, R432-18
+  - Code des assurances R432-1, R432-13, R432-15, R432-16, R432-18
 
 
 ###### Article R*432-15
@@ -40067,31 +40000,6 @@ _Abrogé par_:
 _Cite_:
 
   - Code des assurances R432-13
-
-
-###### Article R*432-17
-
-Pour les opérations prévues aux 2° et 3° de l'article R. 432-1, l'Etat rembourse chaque année à la compagnie française
-d'assurance pour le commerce extérieur la part des sinistres excédant le montant des primes. En contrepartie la compagnie
-verse à l'Etat 0,5 p. 100 du montant des primes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°86-759 1986-06-04 art. 1 JORF 6 juin 1986
-
-_Abrogé par_:
-
-  - Décret n°91-303 du 22 mars 1991 - art. 7 (V) JORF 24 mars 1991
-
-_Cite_:
-
-  - Code des assurances R432-1
 
 
 ###### Article R*432-18
@@ -40196,19 +40104,23 @@ _Abrogé par_:
 
 ###### Article R*432-22
 
-Les opérations prévues au 1° de l'article R. 432-1 ne portent en aucun cas sur les risques qui, en application de la
+Les opérations mentionnées au 2° de l'article R. 432-1 ne portent en aucun cas sur les risques qui, en application de la
 législation en vigueur et compte tenu des usages courants du marché de l'assurance, peuvent être couverts par des sociétés,
 groupements ou organismes quelconques habilités à pratiquer en France l'assurance contre les risques ordinaires ou de guerre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 2
-
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°91-303 du 22 mars 1991 - art. 6 () JORF 24 mars 1991
+
+_Abrogé par_:
+
+  - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
 
 _Cite_:
 
@@ -40382,32 +40294,6 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°94-376 du 14 mai 1994 - art. 2 () JORF 15 mai 1994
-
-
-###### Article R*432-30
-
-Sauf dérogation exceptionnelle autorisée spécialement par la commission des garanties et du crédit au commerce extérieur, les
-polices délivrées par la compagnie portant sur les opérations mentionnées au b de l'article R. 432-24 ne peuvent couvrir les
-risques politiques, catastrophiques et monétaires que si les risques commerciaux ordinaires sont simultanément assurés par la
-compagnie pour son propre compte.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-719 1948-04-16 art. 10
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°91-303 du 22 mars 1991 - art. 7 (V) JORF 24 mars 1991
-
-_Cite_:
-
-  - Code des assurances R432-24
 
 
 ###### Article R*432-31
