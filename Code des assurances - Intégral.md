@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-01-04
+Version Consolidée au 1985-02-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -15826,29 +15826,20 @@ _Cite_:
 
 ###### Article R*213-5
 
-Les employeurs dispensés de l'obligation d'assurance en vertu de l'article L. 211-3 versent chaque année à l'agence centrale
-des organismes de sécurité sociale une cotisation proportionnelle au nombre de véhicules couverts par la dispense. Le montant
-de cette cotisation est fixé annuellement pour chaque employeur, par arrêté conjoint du ministre de l'économie et des
-finances et du ministre chargé de la sécurité sociale.
-
-Cette cotisation forfaitaire est déterminée pour chaque employeur, en multipliant le montant annuel des sommes versées par
-les entreprises d'assurance par le rapport entre, d'une part, le nombre des véhicules soustraits à l'obligation d'assurance
-et, d'autre part, le nombre total des véhicules terrestres à moteur en circulation au 1er janvier de l'année considérée. En
-ce qui concerne les véhicules militaires, seuls sont pris en compte dans le dénombrement les véhicules de servitude et de
-liaison.
-
-Un arrêté du ministre de l'économie et des finances et du ministre chargé de la sécurité sociale détermine les modalités
-selon lesquelles le produit de la cotisation forfaitaire est versé à l'agence centrale des organismes de sécurité sociale.
+Les employeurs dispensés de l'obligation d'assurance en vertu de l'article L. 211-3 versent, avant le 31 mars de chaque année
+à l'agence centrale des organismes de sécurité sociale, une cotisation proportionnelle au montant, majoré de 30 %, des
+indemnités acquittées au cours de l'année précédente par eux, à titre de réparation des dommages résultant d'accidents
+provoqués par des véhicules terrestres à moteur. Le taux de cette cotisation est fixé à 12 %.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-1211 1967-12-22 art. 6
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°85-254 1985-02-15 art. 1 JORF 22 février 1985
 
 _Cite_:
 
