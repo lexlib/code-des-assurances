@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1989-08-05
+Version Consolidée au 1989-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -37357,27 +37357,38 @@ _Anciens textes_:
 
 ###### Article R422-1
 
-Le fonds de garantie contre les actes de terrorisme, institué par l'article L. 422-1, est géré par un conseil
-d'administration qui comprend : 
+Le Fonds de garantie contre les actes de terrorisme institué par l'article L. 422-1 est géré par un conseil d'administration
+qui comprend : 
 
-1° Un président nommé par arrêté conjoint du ministre chargé des assurances et du garde des sceaux, ministre de la justice,
-parmi les membres en activité ou honoraires du Conseil d'Etat ayant au moins atteint le grade de conseiller d'Etat ou parmi
-les membres en activité ou honoraires de la Cour de cassation ayant au moins atteint le grade de conseiller ou d'avocat
-général ; 
+1° Un président nommé par arrêté conjoint du ministre chargé de l'économie et des finances et du garde des sceaux, ministre
+de la justice, parmi les membres en activité ou honoraires du Conseil d'Etat ayant au moins atteint le grade de conseiller
+d'Etat ou parmi les membres en activité ou honoraires de la Cour de cassation ayant au moins atteint le grade de conseiller
+ou d'avocat général ; 
 
-2° Six membres représentant les entreprises d'assurances de dommages, nommés par arrêté du ministre chargé des assurances ; 
+2° Un représentant du ministre chargé de l'économie et des finances, nommé par arrêté ; 
 
-3° Trois membres choisis parmi les personnes ayant manifesté leur intérêt pour les victimes d'actes de terrorisme en France
-et à l'étranger, nommés par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre de l'intérieur et du
-ministre des affaires étrangères ; 
+3° Un représentant du ministre de la justice, nommé par arrêté ; 
 
-4° Trois membres choisis parmi les membres du Conseil national des assurances représentant les assurés, nommés par arrêté du
-ministre chargé des assurances. 
+4° Un représentant du ministre de l'intérieur, nommé par arrêté ; 
 
-Le président et les membres du conseil d'administration sont nommés pour une période de trois ans renouvelable. 
+5° Un représentant du ministre chargé de la sécurité sociale, nommé par arrêté ; 
+
+6° Trois personnes ayant manifesté leur intérêt pour les victimes d'actes de terrorisme, nommées par arrêté conjoint du
+ministre chargé de l'économie et des finances, du ministre de la justice, du ministre de l'intérieur et du ministre chargé de
+la sécurité sociale ; 
+
+7° Un professionnel du secteur de l'assurance, nommé par arrêté du ministre chargé de l'économie et des finances. 
+
+Le président et les membres du conseil d'administration ont chacun un suppléant nommé dans les mêmes conditions. 
+
+Le président, les membres du conseil d'administration et les suppléants sont nommés pour une période de trois ans
+renouvelable. 
 
 En cas de vacance, un remplaçant est nommé dans les mêmes conditions que son prédécesseur pour la durée du mandat restant à
-courir.
+courir. 
+
+Le conseil d'administration se réunit sur convocation de son président aussi souvent que l'intérêt des victimes d'actes de
+terrorisme l'exige et au moins une fois par trimestre.
 
 **Liens relatifs à cet article**
 
@@ -37385,9 +37396,9 @@ _Codifié par_:
 
   - Décret n°88-261 1988-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+  - Décret n°89-800 du 27 octobre 1989 - art. 1 () JORF 1er novembre 1989
 
 **Liens**:
 
@@ -37395,7 +37406,7 @@ _Créé par_:
 
 _Cite_:
 
-  - Code des assurances - art. L422-1 (M)
+  - Code des assurances - art. L422-1 (V)
 
 _Cité par_:
 
@@ -37503,34 +37514,20 @@ _Cite_:
 
 ###### Article R422-6
 
-Les victimes ou leurs ayants droit doivent adresser au fonds de garantie leurs demandes d'indemnité par lettre recommandée
-avec demande d'avis de réception. A l'appui de leur demande, ils sont tenus d'apporter la preuve par tous moyens :
-
-1. Que les dommages occasionnés par une atteinte à leur personne résultent d'un acte de terrorisme ;
-
-2. Qu'ils remplissent les conditions fixées à l'article L. 126-1.
-
-Le demandeur apporte au fonds toutes justifications du préjudice qu'il subit. Il lui fait connaître, s'il y a lieu, le
-montant des prestations de la nature de celles qui sont énumérées à l'article 29 de la loi n° 85-677 du 5 juillet 1985
-auxquelles il peut prétendre du chef du même préjudice, le montant des sommes reçues ou à recevoir d'un assureur au titre de
-l'avance sur indemnité mentionnée au deuxième alinéa de l'article L. 211-25, le montant des indemnités de toute nature reçues
-ou à recevoir du chef du même préjudice.
+Dès la survenance d'un acte de terrorisme, le procureur de la République ou l'autorité diplomatique ou consulaire compétente
+informe sans délai le fonds de garantie des circonstances de l'événement et de l'identité des victimes. En outre, toute
+personne qui s'estime victime d'un acte de terrorisme peut saisir directement le fonds de garantie. Le fonds de garantie
+assiste les victimes dans la constitution de leur dossier d'indemnisation.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°85-677 du 5 juillet 1985 - art. 29 (M)
-  - Code des assurances - art. L126-1 (M)
-  - Code des assurances - art. L211-25 (V)
 
 _Codifié par_:
 
   - Décret n°88-261 1988-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
+  - Décret n°89-800 du 27 octobre 1989 - art. 2 () JORF 1er novembre 1989
 
 _Cité par_:
 
@@ -37564,25 +37561,26 @@ _Cité par_:
 
 ###### Article R422-8
 
-L'offre d'indemnisation indique l'évaluation retenue par le fonds pour chaque chef de préjudice et le montant des indemnités
-qui reviennent à la victime compte tenu des prestations et sommes énumérées au deuxième alinéa de l'article R. 422-6. Elle
-est accompagnée, le cas échéant, de la copie des décomptes produits par les personnes ou organismes débiteurs de ces
-prestations ou sommes. Elle comporte les mentions prévues par l'article L. 211-16.
+L'offre d'indemnisation indique l'évaluation retenue par le Fonds pour chaque chef de préjudice et le montant des indemnités
+qui reviennent à la victime compte tenu des prestations énumérées à l'article 29 de la loi n° 85-677 du 5 juillet 1985 et des
+indemnités de toute nature reçues ou à recevoir d'autres débiteurs du chef du même préjudice. Elle est accompagnée, le cas
+échéant, de la copie des décomptes produits par les personnes ou organismes débiteurs de ces prestations ou indemnités. Elle
+comporte les mentions prévues par l'article L. 211-16.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°85-677 du 5 juillet 1985 - art. 29 (M)
+  - Code des assurances - art. L211-16 (V)
 
 _Codifié par_:
 
   - Décret n°88-261 1988-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-261 du 18 mars 1988 - art. 4 () JORF 20 mars 1988
-
-_Cite_:
-
-  - Code des assurances - art. L211-16 (V)
-  - Code des assurances - art. R422-6 (M)
+  - Décret n°89-800 du 27 octobre 1989 - art. 3 () JORF 1er novembre 1989
 
 
 ### Titre III : Organismes particuliers d'assurance<a id=344></a>
