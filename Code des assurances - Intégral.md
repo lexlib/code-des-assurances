@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1981-05-21
+Version Consolidée au 1981-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -2252,6 +2252,109 @@ _Anciens textes_:
   - Loi n°1930-07-13 art. 60
 
 
+###### Article L132-5-1
+
+Toute personne physique qui a signé une proposition d'assurance ou une police d'assurance a la faculté d'y renoncer par
+lettre recommandée avec demande d'avis de réception pendant le délai de trente jours à compter du premier versement.
+
+La proposition d'assurance ou la police d'assurance doit comprendre un modèle de lettre type destiné à faciliter l'exercice
+de cette faculté de renonciation. L'assureur doit en outre remettre, contre récépissé, une note d'information comportant des
+indications précises et claires sur les dispositions essentielles du contrat ainsi que sur les conditions d'exercice de la
+faculté de renonciation. Le défaut de remise des documents et informations énumérés au présent alinéa entraîne de plein droit
+la prorogation du délai prévu à l'alinéa ci-dessus pendant trente jours à compter de la date de la remise effective de ces
+documents.
+
+La renonciation entraîne la restitution par l'assureur de l'intégralité des sommes versées par le contractant, dans le délai
+maximal de soixante jours à compter de la réception de la lettre recommandée. Les intérêts de retard au taux légal courent de
+plein droit à l'expiration de ce délai.
+
+Toutefois, si le cas de décès était garanti pendant le délai de trente jours mentionné au premier alinéa, l'assureur peut
+conserver un douzième de la part de la prime annuelle correspondant à la garantie du risque décès.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°81-5 du 7 janvier 1981 - art. 22 (V) JORF 8 janvier 1981 rectificatif JORF 8 février 1981 en vigueur le 1er juillet 1981
+
+_Cité par_:
+
+  - Loi n°81-5 du 7 janvier 1981 - art. 22 (V)
+  - Décret n°2004-342 du 21 avril 2004 - art. 56 (Ab)
+  - Code de la sécurité sociale. - art. L931-18-2 (V)
+  - Code de la sécurité sociale. - art. L932-23 (V)
+  - Code des assurances - art. A132-12 (T)
+  - Code des assurances - art. A132-4 (M)
+  - Code des assurances - art. A132-4-1 (M)
+  - Code des assurances - art. A132-5 (M)
+  - Code des assurances - art. A132-5-1 (M)
+  - Code des assurances - art. A132-6 (M)
+  - Code des assurances - art. Annexe art. A344-8 (Ab)
+  - Code des assurances - art. L112-2-1 (V)
+  - Code des assurances - art. L132-5-2 (VD)
+  - Code des assurances - art. L132-5-3 (V)
+  - Code des assurances - art. L326-9 (V)
+  - Code des assurances - art. L327-2 (VD)
+  - Code des assurances - art. L441-2 (V)
+  - Code des assurances - art. L441-3 (VD)
+  - Code des assurances - art. R132-4 (V)
+  - Code des assurances - art. R310-6 (V)
+
+
+###### Article L132-5-2
+
+Lorsqu'une personne physique sollicitée à son domicile, à sa résidence, à son lieu de travail, ou dans un lieu public, a
+signé à cette occasion une proposition d'assurance ou une police d'assurance, la renonciation exercée par l'envoi d'une
+lettre recommandée dans les sept premiers jours du délai prévu à l'article L. 132-5-1 entraîne la restitution sans aucune
+retenue d'aucune sorte de l'intégralité des sommes qui ont été versées par le contractant, dans le délai maximum de trente
+jours à compter de la réception de la lettre recommandée. Les intérêts de retard au taux légal courent de plein droit à
+l'expiration de ce délai. L'assurance conserve effet jusqu'à complète restitution des sommes dues.
+
+Le défaut de remise contre récépissé des documents énumérés au deuxième alinéa de l'article L. 132-5-1 entraîne de plein
+droit la prorogation du délai prévu au premier alinéa ci-dessus pendant sept jours à compter de la date de la remise
+effective de ces documents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°81-5 du 7 janvier 1981 - art. 23 (V) JORF 8 janvier 1981 rectificatif JORF 8 février 1981 en vigueur le 1er juillet 1981
+
+_Cité par_:
+
+  - Loi n°81-5 du 7 janvier 1981 - art. 23 (V)
+  - Code de la sécurité sociale. - art. A932-3-10 (V)
+  - Code de la sécurité sociale. - art. L932-15-1 (VD)
+  - Code des assurances - art. A132-4 (V)
+  - Code des assurances - art. A132-4-1 (V)
+  - Code des assurances - art. A132-4-2 (VD)
+  - Code des assurances - art. A132-4-8 (V)
+  - Code des assurances - art. A132-5-1 (VD)
+  - Code des assurances - art. A132-5-2 (V)
+  - Code des assurances - art. A132-8 (V)
+  - Code des assurances - art. Annexe art. A132-4 (VD)
+  - Code des assurances - art. L112-2-1 (V)
+  - Code des assurances - art. L132-5-3 (V)
+  - Code des assurances - art. L441-2 (V)
+  - Code des assurances - art. L441-3 (VD)
+
+_Abrogé par_:
+
+  - Loi n°85-608 1985-06-11 art. 2 JORF 20 juin 1985 en vigueur le 1er janvier 1986
+
+_Cite_:
+
+  - Code des assurances - art. L132-5-1 (M)
+
+
 ###### Article L132-7
 
 L'assurance en cas de décès est de nul effet si l'assuré se donne volontairement la mort. Toutefois, l'assureur doit payer
@@ -3835,11 +3938,14 @@ _Cité par_:
 Toute personne physique ou toute personne morale autre que l'Etat, dont la responsabilité civile peut être engagée en raison
 de dommages corporels ou matériels causés à des tiers par un véhicule terrestre à moteur, ainsi que par ses remorques ou
 semi-remorques, doit, pour faire circuler lesdits véhicules, être couverte par une assurance garantissant cette
-responsabilité, dans les conditions fixées par décret pris après avis du conseil national des assurances.
+responsabilité, dans les conditions fixées par décret en Conseil d'Etat pris après avis du conseil national des assurances.
 
 Les contrats d'assurance couvrant la responsabilité mentionnée au premier alinéa du présent article doivent être souscrits
 auprès d'une entreprise d'assurance agréée pour pratiquer les opérations d'assurance contre les accidents résultant de
 l'emploi de véhicules automobiles.
+
+Les membres de la famille du conducteur ou de l'assuré sont considérés comme des tiers au sens du premier alinéa du présent
+article.
 
 **Liens relatifs à cet article**
 
@@ -3850,6 +3956,84 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
+
+_Modifié par_:
+
+  - Loi n°81-5 1981-01-07 art. 2-I JORF 8 janvier 1981 en vigueur le 1er juillet 1981
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°81-5 1981-01-07 art. 2-II
+  - TXT_SOURCE: Arrêté du 23 février 1989
+  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 3 (Ab)
+  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 30 novembre 1990
+  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 3 (Ab)
+  - TXT_SOURCE: Arrêté du 13 septembre 1993
+  - TXT_SOURCE: Arrêté du 13 septembre 1993 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 17 décembre 2003
+  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 1 (M)
+  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 2 (VT)
+  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 3 (M)
+  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 4 (VT)
+  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 5 (VT)
+  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 6 (M)
+  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 7 (VT)
+  - PILOTE_SUIVEUR: Code de la route. - art. L324-1 (V)
+  - SPEC_APPLI: Code des assurances - art. L211-2 (V)
+  - SPEC_APPLI: Code des assurances - art. L211-3 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R*211-11 (M)
+  - TXT_SOURCE: Code des assurances - art. R*211-16 (M)
+  - TXT_SOURCE: Code des assurances - art. R*211-19 (V)
+  - TXT_SOURCE: Code des assurances - art. R*211-20 (V)
+  - TXT_SOURCE: Code des assurances - art. R*211-22 (M)
+  - TXT_SOURCE: Code des assurances - art. R*211-23 (M)
+  - TXT_SOURCE: Code des assurances - art. R*211-26 (V)
+  - TXT_SOURCE: Code des assurances - art. R*212-2 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R*212-3 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R*212-4 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R*212-7 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R*212-8 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R*212-9 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R*420-11 (T)
+  - TXT_SOURCE: Code des assurances - art. R*420-12 (T)
+  - TXT_SOURCE: Code des assurances - art. R*420-13 (T)
+  - TXT_SOURCE: Code des assurances - art. R*420-14 (T)
+  - TXT_SOURCE: Code des assurances - art. R*420-15 (T)
+  - TXT_SOURCE: Code des assurances - art. R*420-37 (T)
+  - TXT_SOURCE: Code des assurances - art. R211-10 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-12 (M)
+  - TXT_SOURCE: Code des assurances - art. R211-13 (M)
+  - TXT_SOURCE: Code des assurances - art. R211-14 (M)
+  - TXT_SOURCE: Code des assurances - art. R211-18 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-2 (M)
+  - TXT_SOURCE: Code des assurances - art. R211-21 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-21-1 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-21-2 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-21-3 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-21-4 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-21-5 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-21-6 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-21-7 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-27 (V)
+  - SPEC_APPLI: Code des assurances - art. R211-29 (T)
+  - TXT_SOURCE: Code des assurances - art. R211-3 (M)
+  - TXT_SOURCE: Code des assurances - art. R211-4 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-5 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-6 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R211-7 (M)
+  - TXT_SOURCE: Code des assurances - art. R211-8 (V)
+  - TXT_SOURCE: Code des assurances - art. R211-9 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R212-1 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R212-5 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R212-6 (Ab)
+  - TXT_SOURCE: Code des assurances - art. R421-37 (M)
 
 _Cité par_:
 
@@ -3946,78 +4130,6 @@ _Cité par_:
   - Code général des impôts annexe 1, CGIAN1. - art. 305 AA (MMN)
   - Code général des impôts, CGI. - art. 1001 (V)
   - Code général des impôts, CGI. - art. 995 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 23 février 1989
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 23 février 1989 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 30 novembre 1990
-  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 30 novembre 1990 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 13 septembre 1993
-  - TXT_SOURCE: Arrêté du 13 septembre 1993 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 1 (M)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 2 (VT)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 3 (M)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 4 (VT)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 5 (VT)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 6 (M)
-  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 7 (VT)
-  - PILOTE_SUIVEUR: Code de la route. - art. L324-1 (V)
-  - SPEC_APPLI: Code des assurances - art. L211-2 (V)
-  - SPEC_APPLI: Code des assurances - art. L211-3 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R*211-11 (M)
-  - TXT_SOURCE: Code des assurances - art. R*211-16 (M)
-  - TXT_SOURCE: Code des assurances - art. R*211-19 (V)
-  - TXT_SOURCE: Code des assurances - art. R*211-20 (V)
-  - TXT_SOURCE: Code des assurances - art. R*211-22 (M)
-  - TXT_SOURCE: Code des assurances - art. R*211-23 (M)
-  - TXT_SOURCE: Code des assurances - art. R*211-26 (V)
-  - TXT_SOURCE: Code des assurances - art. R*212-2 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R*212-3 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R*212-4 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R*212-7 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R*212-8 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R*212-9 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R*420-11 (T)
-  - TXT_SOURCE: Code des assurances - art. R*420-12 (T)
-  - TXT_SOURCE: Code des assurances - art. R*420-13 (T)
-  - TXT_SOURCE: Code des assurances - art. R*420-14 (T)
-  - TXT_SOURCE: Code des assurances - art. R*420-15 (T)
-  - TXT_SOURCE: Code des assurances - art. R*420-37 (T)
-  - TXT_SOURCE: Code des assurances - art. R211-10 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-12 (M)
-  - TXT_SOURCE: Code des assurances - art. R211-13 (M)
-  - TXT_SOURCE: Code des assurances - art. R211-14 (M)
-  - TXT_SOURCE: Code des assurances - art. R211-18 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-2 (M)
-  - TXT_SOURCE: Code des assurances - art. R211-21 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-21-1 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-21-2 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-21-3 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-21-4 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-21-5 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-21-6 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-21-7 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-27 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-3 (M)
-  - TXT_SOURCE: Code des assurances - art. R211-4 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-5 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-6 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R211-7 (M)
-  - TXT_SOURCE: Code des assurances - art. R211-8 (V)
-  - TXT_SOURCE: Code des assurances - art. R211-9 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R212-1 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R212-5 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R212-6 (Ab)
-  - TXT_SOURCE: Code des assurances - art. R421-37 (M)
 
 
 ###### Article L211-2
