@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1999-08-11
+Version Consolidée au 1999-08-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -44114,24 +44114,21 @@ _Cite_:
 
 ###### Article A125-2
 
-Le taux annuel de la prime ou cotisation relative à la garantie contre les dommages ayant eu pour cause déterminante
-l'intensité anormale d'un agent naturel est fixé comme suit :
+Le taux annuel de la prime ou cotisation relative à la garantie contre les effets des catastrophes naturelles est fixé comme
+suit :
 
-Contrats garantissant des risques appartenant aux sous-catégories 40, 41, 42, 43 et 44 de l'article A. 344-4 : 9 p. 100 des
-primes ou cotisations afférentes aux garanties vol et incendie ou, à défaut, 0,8 p. 100 de la prime ou cotisation des
-garanties dommages ; à compter du 1er janvier 1986, les taux précités sont respectivement fixés à 6 p. 100 et 0,5 p. 100.
+- contrats garantissant des risques appartenant à la catégorie d'opérations 23 de l'article A. 344-2 : 6 % des primes ou
+cotisations afférentes aux garanties vol et incendie ou, à défaut, 0,5 % des primes ou cotisations afférentes aux garanties
+dommages ;
 
-Contrats garantissant des risques appartenant aux sous-catégories 30 et 35 dudit article : 9 p. 100 des primes ou cotisations
-afférentes au contrat ;
+- contrats garantissant des risques appartenant à la catégorie d'opérations 24 de l'article A. 344-2 : 12 % des primes ou
+cotisations afférentes au contrat ;
 
-Contrats garantissant des risques appartenant aux sous-catégories 31 et 32 dudit article : 9 p. 100 des primes ou cotisations
-afférentes au contrat ;
+- contrats garantissant des risques appartenant aux catégories d'opérations 25 ou 26 de l'article A. 344-2 ou garantissant
+des risques mentionnés à l'article L. 125-1 (deuxième alinéa) : 12 % des primes ou cotisations afférentes au contrat ;
 
-Contrats garantissant des risques appartenant à la sous-catégorie 37 dudit article : 9 p. 100 des primes ou cotisations
-afférentes au contrat.
-
-Contrats garantissant les risques mentionnés à l'article L. 125-1 (2ème alinéa) : 9 p. 100 des primes ou cotisations
-afférentes au contrat.
+- contrats garantissant des risques appartenant à la catégorie d'opérations 35 de l'article A. 344-2, autres que ceux
+mentionnés à l'article L. 242-1 : 12 % des primes ou cotisations afférentes au contrat.
 
 Les taux ci-dessus sont calculés sur la prime ou cotisation nette de toutes taxes afférentes aux contrats susvisés.
 
@@ -44143,12 +44140,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1986-02-11 art. 1 JORF 21 février 1986
+  - Arrêté 1999-08-03 art. 1 JORF 13 août 1999
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1999-08-03 art. 2 (modalités d'application - date d'effet)
 
 _Cite_:
 
-  - Code des assurances - art. A344-4 (Ab)
+  - Code des assurances - art. A344-2 (M)
   - Code des assurances - art. L125-1 (M)
+  - Code des assurances - art. L242-1 (M)
 
 
 ###### Article A125-3
