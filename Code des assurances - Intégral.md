@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-02-20
+Version Consolidée au 1997-02-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -20958,20 +20958,16 @@ _Anciens textes_:
 
 ###### Article R211-24
 
-L'assurance frontière est souscrite auprès du groupement de coassurance "Assurance Frontière" régi par les articles R. 342-13
-à R. 342-15. Ce groupement est géré par le bureau central français. Les statuts de ce groupement sont soumis à l'approbation
-préalable du ministre de l'économie, des finances et du budget.
+L'assurance frontière est souscrite auprès du groupement de coassurance "Assurance Frontière". Ce groupement est géré par le
+bureau central français. Les statuts de ce groupement sont soumis à l'approbation préalable du ministre de l'économie, des
+finances et du budget.
 
-L'assurance frontière ne peut prévoir de garantie que pour une période de huit jours, de quinze jours ou de trente jours,
-sans reconduction.
+L'assurance frontière ne peut prévoir de garantie que pour une période de trente jours ou de quatre-vingt-dix jours, avec une
+seule possibilité de renouvellement pour une période identique à celle souscrite initialement.
 
-La souscription à l'assurance frontière est constatée par un certificat délivré, moyennant paiement de la prime
-correspondante, par l'administration des douanes ou par toute personne ou organisme habilité à cet effet par arrêté du
-ministre de l'économie et des finances.
-
-Les conditions générales de la police d'assurance frontière et le modèle du certificat prévu à l'alinéa précédent sont soumis
-à l'approbation du ministre d'Etat, ministre de l'économie, des finances et du budget. Les tarifs de cette assurance sont
-déposés auprès de cette même autorité.
+La souscription de l'assurance frontière est constatée, moyennant paiement de la prime correspondante, par une attestation
+délivrée par l'administration des douanes, par le groupement de coassurance "Assurance Frontière" ou par toute autre personne
+habilitée à cet effet par arrêté du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
@@ -20981,21 +20977,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-1209 1988-12-30 art. 1, art. 2, art. 3 JORF 31 décembre 1988 en vigueur le 1er janvier 1989
+  - Décret n°97-170 du 20 février 1997 - art. 1 () JORF 27 février 1997
+  - Décret n°97-170 du 20 février 1997 - art. 2 () JORF 27 février 1997
+  - Décret n°97-170 du 20 février 1997 - art. 3 () JORF 27 février 1997
+  - Décret n°97-170 du 20 février 1997 - art. 4 () JORF 27 février 1997
 
 _Cité par_:
 
   - Code des assurances - art. A421-3 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances - art. R*211-27 (M)
-  - TXT_ASSOCIE: Code des assurances - art. R211-28 (Ab)
-  - TXT_SOURCE: Code des assurances R211-23
-
-_Cite_:
-
-  - Code des assurances R342-13 à R342-15
 
 
 ###### Article R211-27
