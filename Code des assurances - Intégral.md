@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1982-07-14
+Version Consolidée au 1982-07-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -153,13 +153,13 @@ Version Consolidée au 1982-07-14
           - [Section II : Les assurances populaires. (art. R132-1 à R132-2)](#150)
       - [Titre IV : Les assurances de groupe (art. R*140-1 à R*140-8)](#151)
         - [Chapitre unique. (art. R*140-1 à R*140-8)](#152)
-      - [Titre V : Le contrat de capitalisation. (art. R*150-1 à R*150-19)](#153)
-        - [Chapitre unique (art. R*150-1 à R*150-19)](#154)
+      - [Titre V : Le contrat de capitalisation. (art. R*150-1 à R150-19)](#153)
+        - [Chapitre unique (art. R*150-1 à R150-19)](#154)
           - [Section I : Dispositions générales. (art. R*150-1 à R*150-2)](#155)
           - [Section II : Rachat. (art. R*150-3)](#156)
           - [Section III : Tirages au sort. (art. R*150-4 à R150-15)](#157)
           - [Section IV : Faculté de dénonciation. (art. R150-17 à R150-18)](#158)
-          - [Section V : Participation des porteurs de titres aux bénéfices. (art. R*150-19)](#159)
+          - [Section V : Participation des porteurs de titres aux bénéfices. (art. R150-19)](#159)
       - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation (art. R*160-1 à R*160-17)](#160)
         - [Chapitre unique (art. R*160-1 à R*160-17)](#161)
           - [Section I : Rédaction du contrat en langue française. (art. R*160-1)](#162)
@@ -13454,10 +13454,16 @@ _Cite_:
 
 ##### Section V : Participation des porteurs de titres aux bénéfices.<a id=159></a>
 
-###### Article R*150-19
+###### Article R150-19
 
-Les dispositions du présent titre sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française,
-des Terres australes et antarctiques françaises et de Wallis et Futuna, et dans la collectivité territoriale de Mayotte.
+A compter de l'exercice comptable débutant le 1er janvier 1981, les entreprises pratiquant des opérations de capitalisation
+doivent faire participer les porteurs de contrats à leurs résultats techniques et financiers.
+
+Pour chaque entreprise le montant minimal des bénéfices à attribuer au titre d'un exercice est déterminé globalement à partir
+d'un compte de résultats établi dans les conditions fixées par arrêté du ministre de l'économie et des finances.
+
+Ce compte de résultats porte sur les opérations réalisées en France dans les territoires d'outre-mer et dans la collectivité
+territoriale de Mayotte, à l'exclusion des acceptations en réassurance.
 
 **Liens relatifs à cet article**
 
@@ -13465,9 +13471,9 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°79-792 1979-09-04 art. 2 JORF 16 septembre 1979
+  - Décret n°82-617 du 16 juillet 1982 - art. 2 () JORF 20 juillet 1982
 
 _Cité par_:
 
@@ -13475,9 +13481,9 @@ _Cité par_:
   - Décret n°83-328 du 21 avril 1983 - art. 3 (V)
   - Code des assurances - art. A150-3 (Ab)
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code des assurances R150-20 (1ère version)
+  - Décret n°93-382 du 19 mars 1993 - art. 1 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 
 ### Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation<a id=160></a>
@@ -29164,9 +29170,11 @@ B 22 Analyse du résultat technique de certaines combinaisons.
 B 23 Détail des provisions mathématiques pour risques en cours.    B 24 Détail par pays des provisions mathématiques pour
 risques en cours.
 
-A 25 Participation des assurés aux résultats techniques et aux produits financiers.
+A 25 Participation des assurés sur la vie ou des porteurs de contrats de capitalisation aux résultats techniques et
+financiers.
 
-B 26 Etat justificatif de la participation minimale des assurés aux bénéfices des entreprises d'assurance sur la vie.
+B 26 Etat justificatif de la participation des assurés sur la vie ou des porteurs de contrats de capitalisation aux résultats
+techniques et financiers.
 
 B 27 Etat concernant les opérations de coassurance communautaire.    Les entreprises doivent ajouter des rubriques à celles
 des tableaux modèles chaque fois qu'une telle addition est utile à la sincérité des comptes rendus ; elles ont la faculté de
@@ -29184,7 +29192,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°81-443 du 7 mai 1981 - art. 5 () JORF 9 mai 1981
+  - Décret n°82-617 du 16 juillet 1982 - art. 3 () JORF 20 juillet 1982
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°82-617 du 16 juillet 1982 - art. 4 (V)
+  - SPEC_APPLI: Décret n°82-617 du 16 juillet 1982 - art. 5 (V)
+  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
+  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
+  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
+  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
+  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
+  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
 
 _Cité par_:
 
@@ -29199,18 +29221,6 @@ _Cité par_:
   - Code des assurances - art. R342-24 (Ab)
   - Code des assurances - art. R342-7 (Ab)
   - Code des assurances - art. R344-1 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. A344-1 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-2 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-3 (M)
-  - TXT_SOURCE: Code des assurances - art. A344-4 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-5 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-6 (Ab)
-  - TXT_SOURCE: Code des assurances - art. A344-7 (M)
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-  - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
 
 
 ###### Article R342-18
