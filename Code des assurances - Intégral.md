@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1979-10-04
+Version Consolidée au 1979-11-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -392,8 +392,8 @@ Version Consolidée au 1979-10-04
         - [Chapitre unique. (art. A220-1 à A220-6)](#389)
       - [Titre III : L'assurance de la responsabilité civile des chasseurs (art. A230-3 à A230-7)](#390)
         - [Chapitre unique. (art. A230-1 à A230-7)](#391)
-      - [Titre IV : L'assurance des travaux de bâtiment (art. A241-2 à A241-3)](#392)
-        - [Chapitre III : Dispositions communes. (art. A241-2 à A241-3)](#393)
+      - [Titre IV : L'assurance des travaux de bâtiment (art. A241-3)](#392)
+        - [Chapitre III : Dispositions communes. (art. A241-3)](#393)
     - [Livre III : Les entreprises. (art. A322-1 à A344-7)](#394)
       - [Titre II : Régime administratif (art. A322-1 à A323-7)](#395)
         - [Chapitre II : Règles de constitution et de fonctionnement (art. A322-1 à A322-8)](#396)
@@ -39116,58 +39116,6 @@ _Cite_:
 ### Titre IV : L'assurance des travaux de bâtiment<a id=392></a>
 
 #### Chapitre III : Dispositions communes.<a id=393></a>
-
-###### Article A241-2
-
-Pour l'application des clauses obligatoires instituées à l'article A. 241-1, on entend par :
-
-a) Travaux de bâtiment, au sens des articles L. 241-1 et L. 242-1 : les travaux dont l'objet est de réaliser ou de modifier
-les constructions élevées sur le sol à l'intérieur desquelles l'homme est appelé à se mouvoir et qui offrent une protection
-au moins partielle contre les aggressions des éléments naturels extérieurs ;
-
-b) Ouvrages, au sens de l'article 1792-2 du code civil :
-
-Ouvrages de viabilité : les réseaux divers et les ouvrages de voirie dont la destination est la desserte privative du
-bâtiment, à l'exclusion des couches d'usure de chaussées et des voies piétonnières ;
-
-Ouvrages de fondation : les éléments qui assurent le report au sol des charges nouvelles apportées par le bâtiment ;
-
-Ouvrages d'ossature : les parties du bâtiment qui ont été conçues pour recevoir et transmettre aux fondations les efforts dus
-aux charges de toute nature ;
-
-Ouvrages de clos et de couvert : les ouvrages fixes ou mobiles qui offrent une protection, au moins partielle, contre les
-agressions des éléments naturels extérieurs ;
-
-c) Ouvrages, parties d'ouvrages et éléments d'équipement, au sens de l'article 1792-4 du code civil : les parties de la
-construction dénommées Composants, conçues et fabriquées pour remplir dans un bâtiment un ou plusieurs rôles déterminés avant
-toute mise en oeuvre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Créé par_:
-
-  - Arrêté 1978-11-17 art. 1 JORF 21 novembre 1978
-
-_Cite_:
-
-  - Code civil - art. 1792-2 (M)
-  - Code civil - art. 1792-4 (V)
-  - Code des assurances - art. A241-1 (T)
-  - Code des assurances - art. L241-1 (M)
-  - Code des assurances - art. L242-1 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R213-3
-
-_Annulé par_:
-
-  - Conseil d'Etat n°15935, 17366 1979-11-30 Rec. Lebon
-
 
 ###### Article A241-3
 
