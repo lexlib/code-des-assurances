@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2004-11-30
+Version Consolidée au 2004-12-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -11186,11 +11186,14 @@ La Commission de contrôle des assurances, des mutuelles et des institutions de 
 
 6° Quatre membres choisis en raison de leur compétence en matière d'assurance, de mutualité et de prévoyance.
 
-Les membres mentionnés aux 3° à 6° sont nommés par arrêté conjoint des ministres chargés de l'économie, de la sécurité
-sociale et de la mutualité.
+Les membres mentionnés aux 3° et 6° sont nommés par arrêté conjoint des ministres chargés de l'économie, de la sécurité
+sociale et de la mutualité. Un vice-président de la commission de contrôle est également nommé parmi ces membres par arrêté
+conjoint des ministres, pris après avis du président. Le vice-président exerce les compétences du président en cas d'absence
+ou d'empêchement de celui-ci.
 
-Le gouverneur de la Banque de France peut être représenté. Des suppléants du président et des autres membres sont nommés dans
-les mêmes conditions que les titulaires.
+Le gouverneur de la Banque de France peut être représenté. Des suppléants des membres mentionnés aux 3° à 6° sont nommés dans
+les mêmes conditions que les titulaires. Le suppléant du membre nommé vice-président de la commission de contrôle le remplace
+lorsqu'il exerce les compétences du président en application de l'alinéa précédent.
 
 Le directeur du Trésor, ou son représentant, et le directeur de la sécurité sociale, ou son représentant, siègent auprès de
 la commission de contrôle en qualité de commissaires du Gouvernement, sans voix délibérative. Ils peuvent, sauf en matière de
@@ -11250,7 +11253,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 74 () JORF 10 décembre 2004
 
 **Liens**:
 
@@ -11784,7 +11787,7 @@ _Cite_:
 
 ###### Article L310-18-1
 
-Si une personne physique ou morale mentionnée au cinquième alinéa de l'article L. 310-12 a enfreint une disposition du titre
+Si une personne physique ou morale mentionnée au quatrième alinéa de l'article L. 310-12 a enfreint une disposition du titre
 VI du livre V du code monétaire et financier, ou du livre V du présent code, la commission peut prononcer, à son encontre ou
 le cas échéant à l'encontre de ses dirigeants, l'une des sanctions disciplinaires suivantes, en fonction de la gravité du
 manquement :
@@ -11794,7 +11797,7 @@ manquement :
 2. L'avertissement.
 
 En outre, la commission peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au plus égale
-soit à 3 % du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos, soit à 37 500 Euros si cette dernière
+soit à 3 % du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos, soit à 37 500 euros si cette dernière
 somme est plus élevée. Les sommes correspondantes sont versées au Trésor public. Elles sont recouvrées comme des créances de
 l'Etat étrangères à l'impôt et au domaine.
 
@@ -11820,7 +11823,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 32 () JORF 2 août 2003
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 75 () JORF 10 décembre 2004
 
 _Cité par_:
 
