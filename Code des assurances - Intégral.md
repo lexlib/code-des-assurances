@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2003-12-24
+Version Consolidée au 2003-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -483,10 +483,10 @@ Version Consolidée au 2003-12-24
           - [Section III : Estimation des éléments d'actif. (art. A332-7)](#480)
         - [Chapitre III : Revenu des placements. (art. A333-2 à A333-4)](#481)
         - [Chapitre IV : Solvabilité des entreprises (art. A334-1 à A334-5)](#482)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1)](#483)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1)](#484)
-          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-2 à A334-3)](#485)
-            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-2 à A334-3)](#486)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie. (art. A334-1 à A334-2)](#483)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-1 à A334-2)](#484)
+          - [Section III : La marge de solvabilité des entreprises d'assurance sur la vie (art. A334-3)](#485)
+            - [Paragraphe 1 : Constitution de la marge de solvabilité. (art. A334-3)](#486)
           - [Section VIII : La surveillance complémentaire des entreprises d' assurance faisant partie d'un groupe d'assurance (art. A334-4 à A334-5)](#487)
         - [Chapitre V : Tarifs et frais d'acquisition et de gestion (art. A335-9-1 à A335-19)](#488)
           - [Section I : Tarifs. (art. A335-9-1 à A335-9-2)](#489)
@@ -508,7 +508,7 @@ Version Consolidée au 2003-12-24
         - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#505)
           - [Section I : Dispositions générales. (art. A344-1)](#506)
           - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#507)
-          - [Section III : Etats à produire. (art. A344-3 à A344-14)](#508)
+          - [Section III : Etats à produire. (art. A344-3 à A344-15)](#508)
           - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#509)
             - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#510)
       - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#511)
@@ -17298,10 +17298,13 @@ Lorsque le fonds de garantie prend en charge, pour le compte de l'entreprise en 
 mentionnés à l'article L. 211-1, il ne peut exercer aucun recours contre les assurés et souscripteurs de contrats pour le
 recouvrement des indemnités qu'il a versées en application du présent article.
 
-Le fonds de garantie est également chargé de gérer et de financer les majorations de rentes prévues à l'article 1er de la loi
-n° 74-1118 du 27 décembre 1974 relative à la revalorisation de certaines rentes allouées en réparation du préjudice causé par
-un véhicule terrestre à moteur et à l'article 1er de la loi n° 51-695 du 24 mai 1951 portant majoration de certaines rentes
-viagères.
+Le fonds de garantie est également chargé de gérer et de financer, à compter de l'exercice 2003, les majorations de rentes
+prévues à l'article 1er de la loi n° 74-1118 du 27 décembre 1974 relative à la revalorisation de certaines rentes allouées en
+réparation du préjudice causé par un véhicule terrestre à moteur et à l'article 1er de la loi n° 51-695 du 24 mai 1951
+portant majoration de certaines rentes viagères, au titre des états justificatifs certifiés. Les créances relatives aux
+majorations de rentes visées au présent alinéa se prescrivent dans un délai de quatre ans à partir du premier jour de l'année
+suivant celle au cours de laquelle les droits ont été acquis. Le fonds peut contrôler sur pièces et sur place l'exactitude
+des renseignements fournis par les organismes débirentiers.
 
 Le fonds de garantie peut financer, selon des modalités et dans des limites fixées par décret en Conseil d'Etat, des actions
 visant à réduire le nombre des accidents de la circulation et à prévenir la non-assurance de responsabilité civile
@@ -17383,10 +17386,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 2003-08-01 art. 81 A I, II, IV, art. 82 III, IV, V, art. 83 IV JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 82 () JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 83 () JORF 2 août 2003
+  - Loi - art. 124 () JORF 31 décembre 2003
 
 _Anciens textes_:
 
@@ -74652,19 +74652,14 @@ _Cite_:
   - Code des assurances - art. R334-11 (V)
 
 
-##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=485></a>
-
-##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=486></a>
-
 ###### Article A334-2
 
 Le facteur mentionné à l'article R. 334-11, par lequel le bénéfice annuel estimé peut être multiplié, représente la durée
-résiduelle moyenne des contrats corrigée comme il est dit au troisième alinéa. Ce facteur ne peut excéder dix.
+résiduelle moyenne des contrats corrigée comme il est dit au troisième alinéa. Ce facteur ne peut excéder six.
 
 La durée résiduelle moyenne, à la date du calcul de la marge de solvabilité, est déterminée comme une moyenne pondérée des
-durées résiduelles des contrats à la même date. Ce calcul s'effectue, après accord du ministre de l'économie, des finances et
-du budget, à partir de la prime annuelle (ou une prime équivalente, compte tenu de la durée du contrat) ou de la provision
-mathématique.
+durées résiduelles des contrats à la même date. Ce calcul s'effectue, après accord de la commission de contrôle, à partir de
+la prime annuelle (ou une prime équivalente, compte tenu de la durée du contrat) ou de la provision mathématique.
 
 Cette durée résiduelle moyenne est corrigée, sur la base des statistiques afférentes aux cinq dernières années, pour tenir
 compte de l'extinction des contrats avant leur terme.
@@ -74675,14 +74670,18 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1984-12-29 art. 1 JORF 4 janvier 1985
+  - Arrêté 2003-12-26 art. 1 JORF 31 décembre 2003
 
 _Cite_:
 
   - Code des assurances - art. R*334-11 (M)
 
+
+##### Section III : La marge de solvabilité des entreprises d'assurance sur la vie<a id=485></a>
+
+##### Paragraphe 1 : Constitution de la marge de solvabilité.<a id=486></a>
 
 ###### Article A334-3
 
@@ -77690,6 +77689,53 @@ _Cite_:
   - Code des assurances - art. R334-40 (M)
   - Code des assurances - art. R334-44 (M)
   - Code des assurances - art. R334-45 (M)
+
+
+###### Article A344-15
+
+Le test d'exigibilité mentionné à l'article R. 344-4 vise à quantifier l'impact d'une détérioration marquée des marchés
+financiers sur la capacité de l'entreprise à faire face à ses engagements vis-à-vis des assurés. Il est pratiqué à partir
+d'hypothèses financières standardisées. Ces hypothèses consistent, par rapport à leur moyenne respective constatée sur les
+trois dernières années :
+
+- en une baisse de l'indice boursier de référence de 30 % ;
+
+- en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
+
+- en une baisse de 20 % du prix des transactions immobilières publié par la chambre des notaires de Paris.
+
+Le test consiste à comparer l'ensemble des décaissements et des encaissements prévisibles de l'entreprise au cours des cinq
+exercices qui suivent le dernier arrêté comptable. Quatre simulations sont successivement réalisées. Les trois premières
+prennent en compte séparément chacune des trois hypothèses mentionnées aux alinéas précédents. La quatrième résulte de la
+combinaison de l'ensemble des hypothèses énumérées. Pour l'établissement de ce test, l'entreprise tient compte des
+encaissements et des décaissements constatés au cours des exercices précédents. Les prévisions d'encaissement sont calculées
+après prise en compte des disponibilités, des revenus financiers, des dépôts à court terme et des prêts et titres du marché
+monétaire et du marché obligataire énumérés à l'article R. 332-2 venant à échéance à moins de cinq ans et les autres actifs
+en proportion de leur part dans le portefeuille résiduel de l'entreprise. Les prévisions de décaissement sont calculées à
+partir des engagements comptabilisés. Les engagements pour sinistres à payer sont recalculés sur la base de prestations
+majorées de 20 % et le taux des rachats exceptionnels pris en compte est égal au triple du taux annuel moyen des rachats
+constatés au cours des années passées.
+
+Les entreprises transmettent les résultats du test chaque année à la commission de contrôle avant le 31 mars.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 2003-12-26 art. 2 JORF 31 décembre 2003
+
+_Cité par_:
+
+  - Arrêté du 26 décembre 2003 - art. 3 (V)
+
+_Cite_:
+
+  - Code des assurances - art. R*332-2 (M)
+  - Code des assurances - art. R344-4 (V)
 
 
 ##### Section III : Etats à produire.<a id=509></a>
