@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-03-20
+Version Consolidée au 1997-03-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -10412,6 +10412,9 @@ réglementaires qui leur sont applicables en vertu du présent livre. Un arrêt�
 nature, la périodicité et le contenu des informations et des documents que les entreprises mentionnées au présent alinéa sont
 tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui permettre d'exercer sa mission.
 
+Le mandat des membres de la présente commission à la date de publication de la loi n° 97-277 du 25 mars 1997 créant les plans
+d'épargne retraite est prolongé jusqu'au 31 décembre 2000.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -10467,21 +10470,17 @@ _Cité par_:
   - Code monétaire et financier - art. L561-36 (VD)
   - Code monétaire et financier - art. L612-20 (VD)
 
-_Modifié par_:
-
-  - Loi n°94-679 1994-08-08 art. 1 IV, V JORF 10 août 1994 en vigueur le 1er janvier 1995
-  - Loi n°94-679 du 8 août 1994 - art. 1 () JORF 10 août 1994 en vigueur le 1er janvier 1995
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-679 1994-08-08 art. 6 *date d'effet*, art. 8 *champ d'application à Mayotte*
-
 _Cite_:
 
+  - Loi n°97-277 1997-03-25
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-1-1 (V)
   - Code des assurances - art. L310-2 (M)
   - Code des assurances - art. L345-1 (M)
+
+_Modifié par_:
+
+  - Loi n°97-277 du 25 mars 1997 - art. 19 () JORF 26 mars 1997
 
 
 ###### Article L310-12-1
