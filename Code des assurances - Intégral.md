@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1991-05-17
+Version Consolidée au 1991-06-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L193-1)](#2)
@@ -402,7 +402,7 @@ Version Consolidée au 1991-05-17
         - [Chapitre III : Conditions de capacité professionnelle. (art. R513-1 à R513-5)](#399)
         - [Chapitre IV : Contrôle des conditions de présentation (art. R*514-1 à R*514-17)](#400)
           - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. R*514-1 à R*514-4)](#401)
-          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-5 à R514-7-1)](#402)
+          - [Section II : Modalités de contrôle spéciales aux conditions de capacité professionnelle. (art. R*514-5 à R*514-7)](#402)
           - [Section III : Modalités de contrôle spéciales aux conditions d'honorabilité. (art. R*514-8 à R*514-13)](#403)
           - [Section IV : Dispositions diverses et pénalités. (art. R*514-14 à R*514-17)](#404)
         - [Chapitre V : Dispositions spéciales concernant l'établissement et la libre prestation de services de ressortissants d'un Etat membre de la communauté économique européenne autre que la France (art. R515-1 à R*515-12)](#405)
@@ -43343,14 +43343,13 @@ _Cite_:
 
 Tout organisme, entreprise ou personne auprès duquel est effectué un stage professionnel au sens des articles R. 513-1 et R.
 513-2 doit, au plus tard dans les cinq jours du début du stage, adresser par lettre recommandée ou remettre contre récépissé
-au ministre de l'économie, des finances et du budget et à l'organisme professionnel désigné à cet effet par arrêté dudit
-ministre une déclaration écrite comportant les nom, prénoms, domicile, date et lieu de naissance du stagiaire, ainsi que la
-date de prise d'effet du stage et la durée prévue de celui-ci.
+à l'organisme professionnel désigné à cet effet par arrêté du ministre de l'économie, des finances et du budget une
+déclaration écrite comportant les nom, prénoms, domicile, date et lieu de naissance du stagiaire, ainsi que la date de prise
+d'effet du stage et la durée prévue de celui-ci.
 
 En cas d'inobservation du délai mentionné à l'alinéa précédent, les séances du stage éventuellement effectuées plus de cinq
-jours avant le jour d'envoi de la lettre recommandée ou le jour de la remise contre récépissé de la déclaration au ministre
-de l'économie, des finances et du budget et à l'organisme professionnel ne peuvent être prises en compte pour le calcul de la
-durée de ce stage.
+jours avant le jour d'envoi de la lettre recommandée ou le jour de la remise contre récépissé de la déclaration à l'organisme
+professionnel ne peuvent être prises en compte pour le calcul de la durée de ce stage.
 
 **Liens relatifs à cet article**
 
@@ -43358,16 +43357,20 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
-
-  - Décret n°84-298 du 20 avril 1984 - art. 1 () JORF 25 avril 1984
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°84-298 du 20 avril 1984 - art. 3 (V)
   - TXT_ASSOCIE: Code des assurances - art. A514-1 (M)
   - TXT_ASSOCIE: Code des assurances - art. A514-2 (Ab)
   - TXT_SOURCE: Code des assurances R511-4
+
+_Modifié par_:
+
+  - Décret n°91-563 du 13 juin 1991 - art. 1 () JORF 19 juin 1991
+
+_Abrogé par_:
+
+  - Décret n°92-309 du 31 mars 1992 - art. 1 (V) JORF 1er avril 1992
 
 _Cité par_:
 
@@ -43666,44 +43669,6 @@ _Cite_:
 
   - Code des assurances - art. R*514-5 (M)
   - Code des assurances R514-5, R514-6
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R511-4
-
-
-###### Article R514-7-1
-
-Les commissaires contrôleurs mentionnés à l'article R. 310-1 sont habilités à contrôler la réalité, la nature et la durée des
-stages professionnels prévus par les articles R. 513-1 et R. 513-2.
-
-Les commissaires contrôleurs rendent compte de leurs constatations au ministre de l'économie, qui peut, après avis de la
-commission paritaire mentionnée à l'article R. 513-3, retirer l'agrément prévu au même article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°80-378 1980-05-22 art. 2 JORF 25 mai 1980
-
-_Abrogé par_:
-
-  - Décret n°91-563 du 13 juin 1991 - art. 2 (V) JORF 19 juin 1991
-
-_Cité par_:
-
-  - Décret n°91-563 du 13 juin 1991 - art. 2 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R513-1 (M)
-  - Code des assurances - art. R513-2 (M)
-  - Code des assurances - art. R513-3 (M)
-  - Code des assurances R310-1, R513-1, R513-2, R513-3
 
 **Liens**:
 
