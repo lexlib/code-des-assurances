@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-04-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -385,9 +385,9 @@ Version Consolidée au 2005-02-12
           - [Section X : Dispositions particulières applicables aux dommages immobiliers d'origine minière (art. R*421-74 à R421-77)](#382)
         - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R*422-8 à R422-10)](#383)
         - [Chapitre III : Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes. (art. R423-1 à R423-18)](#384)
-      - [Titre III : Organismes particuliers d'assurance (art. R*431-6 à R431-59)](#385)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. R*431-6 à R431-59)](#386)
-          - [Section I : Dispositions générales. (art. R*431-6 à R*431-6-2)](#387)
+      - [Titre III : Organismes particuliers d'assurance (art. R*431-6-2 à R431-59)](#385)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. R*431-6-2 à R431-59)](#386)
+          - [Section I : Dispositions générales. (art. R*431-6-2)](#387)
           - [Section II : Opérations effectuées avec la garantie de l'Etat (art. R431-16-1 à R431-31)](#388)
             - [Paragraphe 1 : Dispositions communes. (art. R431-16-1 à R431-16-4)](#389)
             - [Paragraphe 2 : Risques exceptionnels et nucléaires. (art. R431-27 à R431-29)](#390)
@@ -44783,29 +44783,6 @@ _Modifié par_:
 #### Chapitre Ier : La caisse centrale de réassurance.<a id=386></a>
 
 ##### Section I : Dispositions générales.<a id=387></a>
-
-###### Article R*431-6
-
-Le nombre des représentants des salariés au conseil d'administration de la caisse centrale de réassurance est fixé à trois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°93-176 du 5 février 1993 - art. 1 () JORF 7 février 1993 en vigueur le 1er janvier 1993
-
-_Abrogé par_:
-
-  - Décret n°2005-312 du 25 mars 2005 - art. 1 () JORF 3 avril 2005
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
-
 
 ###### Article R*431-6-2
 
