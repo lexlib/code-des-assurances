@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-01-27
+Version Consolidée au 2005-02-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -3655,10 +3655,12 @@ La nullité est prononcée sur la demande de l'assureur, du souscripteur de la p
 Les primes payées doivent être intégralement restituées.
 
 L'assureur et le souscripteur sont en outre passibles, pour chaque assurance conclue sciemment en violation de cette
-interdiction, d'une amende de 4500 euros.
+interdiction, d'une amende de 4 500 euros.
 
 Ces dispositions ne mettent point obstacle dans l'assurance en cas de décès, au remboursement des primes payées en exécution
-d'un contrat d'assurance en cas de vie, souscrit sur la tête d'une des personnes mentionnées au premier alinéa ci-dessus.
+d'un contrat d'assurance en cas de vie, souscrit sur la tête d'une des personnes mentionnées au premier alinéa ci-dessus ou
+au remboursement du seul montant des primes payées, en exécution d'un contrat d'assurance de survie, souscrit au bénéfice
+d'une des personnes mentionnées au premier alinéa ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -3666,25 +3668,21 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Cité par_:
-
-  - Code des assurances - art. L140-1 (T)
-  - Code de la sécurité sociale. - art. L932-23 (V)
-  - Code des assurances - art. L140-5 (T)
-  - Code des assurances - art. L141-5 (M)
-
 _Anciens textes_:
 
   - Loi n°1930-07-13 art. 58
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
-  - SPEC_APPLI: Loi n°93-913 1993-07-19 art. 1 *date d'entrée en vigueur du code pénal*
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2005-102 du 11 février 2005 - art. 85 (V) JORF 12 février 2005
+  - Loi n°2005-102 du 11 février 2005 - art. 85 (V)
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L932-23 (V)
+  - Code des assurances - art. L140-1 (T)
+  - Code des assurances - art. L140-5 (T)
+  - Code des assurances - art. L141-5 (M)
 
 
 ###### Article L132-4
@@ -4767,12 +4765,12 @@ aucune question relative aux tests génétiques et à leurs résultats, ni deman
 génétiques avant que ne soit conclu le contrat et pendant toute la durée de celui-ci ". 
 
 " Art.L. 1141-2-Une convention relative à l'assurance des personnes exposées à un risque aggravé du fait de leur état de
-santé détermine les modalités particulières d'accès à l'assurance contre les risques d'invalidité ou de décès en faveur de
-ces personnes qui ne peuvent trouver dans le cadre des pratiques habituelles de l'assurance de garantie des prêts à la
-consommation, immobiliers ou à caractère professionnel. 
+santé ou d'un handicap détermine les modalités particulières d'accès à l'assurance contre les risques d'invalidité ou de
+décès en faveur de ces personnes qui ne peuvent trouver dans le cadre des pratiques habituelles de l'assurance de garantie
+des prêts à la consommation, immobiliers ou à caractère professionnel. 
 
-Toute personne présentant, du fait de son état de santé, un risque aggravé peut se prévaloir des dispositions de la
-convention. 
+Toute personne présentant, du fait de son état de santé ou de son handicap, un risque aggravé peut se prévaloir des
+dispositions de la convention. 
 
 Pour celles de ses dispositions qui prévoient les conditions de collecte et d'utilisation, ainsi que les garanties de
 confidentialité des données à caractère personnel de nature médicale, à l'occasion de la souscription des prêts mentionnés au
@@ -4796,13 +4794,9 @@ ministres chargés de l'économie et de la santé ".
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°76-666 1976-07-16
-
-_Créé par_:
-
-  - Loi n°2002-303 du 4 mars 2002 - art. 99 () JORF 5 mars 2002
+  - Loi n°2005-102 du 11 février 2005 - art. 91
 
 _Cité par_:
 
