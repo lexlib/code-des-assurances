@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1998-05-29
+Version Consolidée au 1998-07-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -3479,8 +3479,11 @@ _Anciens textes_:
 
 ###### Article L132-7
 
-L'assurance en cas de décès est de nul effet si l'assuré se donne volontairement et consciemment la mort au cours des deux
-premières années du contrat.
+L'assurance en cas de décès est de nul effet si l'assuré se donne volontairement et consciemment la mort au cours de la
+première année du contrat [*suicide*].
+
+Ces dispositions ne sont pas applicables aux contrats mentionnés à l'article L. 140-1 souscrits par les organismes mentionnés
+au dernier alinéa de l'article L. 140-6. .
 
 **Liens relatifs à cet article**
 
@@ -3488,23 +3491,26 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Modifié par_:
-
-  - Loi n°81-5 du 7 janvier 1981 - art. 6 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
-  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
   - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002
   - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002 - art. 1 ()
 
+_Modifié par_:
+
+  - Loi n°98-546 du 2 juillet 1998 - art. 80 () JORF 3 juillet 1998
+
 _Cité par_:
 
   - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
   - Code des assurances - art. L132-18 (V)
   - Code des assurances - art. R132-5 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L140-1 (T)
+  - Code des assurances - art. L140-6 (T)
 
 
 ###### Article L132-8
@@ -10876,11 +10882,10 @@ _Cité par_:
 
 ###### Article L310-20
 
-La commission de contrôle des assurances, le conseil de la concurrence, la commission bancaire, le conseil de discipline des
-organismes de placement collectif en valeurs mobilières et la commission des opérations de bourse sont autorisés, nonobstant
-toutes dispositions contraires, à se communiquer les renseignements nécessaires à l'accomplissement de leurs missions
-respectives. Les renseignements ainsi recueillis sont soumis aux règles du secret professionnel en vigueur dans l'organisme
-qui les a communiqués.
+La commission de contrôle des assurances, le conseil de la concurrence, la commission bancaire, le conseil de discipline de
+la gestion financière et la commission des opérations de bourse sont autorisés, nonobstant toutes dispositions contraires, à
+se communiquer les renseignements nécessaires à l'accomplissement de leurs missions respectives. Les renseignements ainsi
+recueillis sont soumis aux règles du secret professionnel en vigueur dans l'organisme qui les a communiqués.
 
 **Liens relatifs à cet article**
 
@@ -10888,13 +10893,13 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
-
-  - Loi n°89-1014 du 31 décembre 1989 - art. 31 () JORF 3 janvier 1990 en vigueur le 25 juin 1990
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°90-495 1990-06-20 art. 3 *date d'effet*
+
+_Modifié par_:
+
+  - Loi n°98-546 du 2 juillet 1998 - art. 40 (V) JORF 3 juillet 1998
 
 
 ###### Article L310-21
@@ -12080,6 +12085,49 @@ _Cite_:
 _Anciens textes_:
 
   - Code des assurances - art. L321-6 (T)
+
+
+###### Article L322-2-4
+
+A la clôture de chaque exercice, le conseil d'administration ou le directoire établit un rapport de solvabilité écrit. Ce
+rapport expose les conditions dans lesquelles l'entreprise garantit, par la constitution des provisions techniques
+suffisantes dont les modalités de calcul et les hypothèses retenues sont explicitées et justifiées, les engagements qu'elle
+prend à l'égard des assurés, rappelle les orientations définies en matière de placements, présente et analyse les résultats
+obtenus et indique si la marge de solvabilité est constituée conformément à la réglementation applicable. Le rapport de
+solvabilité contient obligatoirement une analyse des conditions dans lesquelles l'entreprise est en mesure, à moyen et long
+terme, de faire face à l'ensemble de ses engagements.
+
+Le rapport de solvabilité mentionné au précédent alinéa est communiqué aux commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°98-546 du 2 juillet 1998 - art. 67 () JORF 3 juillet 1998
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L931-13-1 (M)
+  - Code de la sécurité sociale. - art. R931-10-51 (VT)
+  - Code de la sécurité sociale. - art. R931-43 (V)
+  - Code de la sécurité sociale. - art. R931-43-2 (V)
+  - Code de la sécurité sociale. - art. R931-44 (V)
+  - Code de la sécurité sociale. - art. R932-7-7 (V)
+  - Code des assurances - art. A344-6 (Ab)
+  - Code des assurances - art. R134-13 (VD)
+  - Code des assurances - art. R142-13 (Ab)
+  - Code des assurances - art. R143-5 (VT)
+  - Code des assurances - art. R336-1 (V)
+  - Code des assurances - art. R336-2 (V)
+  - Code des assurances - art. R336-5 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. A344-6 (V)
 
 
 ###### Article L322-3
