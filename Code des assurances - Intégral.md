@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-08-31
+Version Consolidée au 2001-12-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -3342,6 +3342,8 @@ consentement par écrit avec indication du capital ou de la rente initialement g
 Le consentement de l'assuré doit, à peine de nullité, être donné par écrit, pour toute cession ou constitution de gage et
 pour transfert du bénéfice du contrat souscrit sur sa tête par un tiers.
 
+Les dispositions du premier alinéa ne sont pas applicables aux contrats d'assurance de groupe à adhésion obligatoire.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -3352,15 +3354,13 @@ _Anciens textes_:
 
   - Loi n°1930-07-13 art. 57
 
-_Modifié par_:
-
-  - Loi n°81-5 du 7 janvier 1981 - art. 4 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
-  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à la date d'entrée en vigueur), II (ouverture des successions)
+
+_Modifié par_:
+
+  - Loi n°2001-1135 du 3 décembre 2001 - art. 7 () JORF 4 décembre 2001
 
 _Cité par_:
 
@@ -3572,11 +3572,20 @@ _Anciens textes_:
 
 ###### Article L132-7
 
-L'assurance en cas de décès est de nul effet si l'assuré se donne volontairement et consciemment la mort au cours de la
-première année du contrat.
+L'assurance en cas de décès est de nul effet si l'assuré se donne volontairement la mort au cours de la première année du
+contrat.
 
-Ces dispositions ne sont pas applicables aux contrats mentionnés à l'article L. 140-1 souscrits par les organismes mentionnés
-au dernier alinéa de l'article L. 140-6. .
+L'assurance en cas de décès doit couvrir le risque de suicide à compter de la deuxième année du contrat. En cas
+d'augmentation des garanties en cours de contrat, le risque de suicide, pour les garanties supplémentaires, est couvert à
+compter de la deuxième année qui suit cette augmentation.
+
+Les dispositions du premier alinéa ne sont pas applicables aux contrats mentionnés à l'article L. 140-1 souscrits par les
+organismes mentionnés au dernier alinéa de l'article L. 140-6.
+
+L'assurance en cas de décès doit couvrir dès la souscription, dans la limite d'un plafond qui sera défini par décret, les
+contrats mentionnés à l'article L. 140-1 souscrits par les organismes mentionnés à la dernière phrase du dernier alinéa de
+l'article L. 140-6, pour garantir le remboursement d'un prêt contracté pour financer l'acquisition du logement principal de
+l'assuré.
 
 **Liens relatifs à cet article**
 
@@ -3586,13 +3595,13 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à la date d'entrée en vigueur), II (ouverture des successions)
   - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002
   - TXT_SOURCE: Décret n°2002-452 du 28 mars 2002 - art. 1 ()
 
 _Modifié par_:
 
-  - Loi n°98-546 du 2 juillet 1998 - art. 80 () JORF 3 juillet 1998
+  - Loi n°2001-1135 du 3 décembre 2001 - art. 5 () JORF 4 décembre 2001
 
 _Cité par_:
 
@@ -3970,9 +3979,9 @@ _Anciens textes_:
 ###### Article L132-18
 
 Dans le cas de réticence ou fausse déclaration mentionné à l'article L. 113-8, dans le cas où l'assuré s'est donné
-volontairement et consciemment la mort au cours du délai mentionné à l'article L. 132-7 ou lorsque le contrat exclut la
-garantie du décès en raison de la cause de celui-ci, l'assureur verse au contractant ou, en cas de décès de l'assuré, au
-bénéficiaire, une somme égale à la provision mathématique du contrat.
+volontairement la mort au cours du délai mentionné à l'article L. 132-7 ou lorsque le contrat exclut la garantie du décès en
+raison de la cause de celui-ci, l'assureur verse au contractant ou, en cas de décès de l'assuré, au bénéficiaire, une somme
+égale à la provision mathématique du contrat.
 
 **Liens relatifs à cet article**
 
@@ -3980,28 +3989,26 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Cite_:
-
-  - Code des assurances - art. L113-8 (M)
-  - Code des assurances - art. L132-7 (M)
-
 _Anciens textes_:
 
   - Loi n°1930-07-13 art. 73
 
-_Modifié par_:
-
-  - Loi n°81-5 du 7 janvier 1981 - art. 12 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
-  - Loi n°92-665 du 16 juillet 1992 - art. 21 () JORF 17 juillet 1992
-  - Loi n°92-665 du 16 juillet 1992 - art. 24 () JORF 17 juillet 1992
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°92-665 1992-07-16 art. 31 *application du chapitre III de la loi à la collectivité territorial de Mayotte*
+  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à la date d'entrée en vigueur), II (ouverture des successions)
+
+_Modifié par_:
+
+  - Loi n°2001-1135 du 3 décembre 2001 - art. 5 () JORF 4 décembre 2001
 
 _Cité par_:
 
   - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L113-8 (M)
+  - Code des assurances - art. L132-7 (M)
 
 
 ###### Article L132-19
