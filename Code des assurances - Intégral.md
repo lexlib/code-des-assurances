@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1984-05-12
+Version Consolidée au 1984-05-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -204,7 +204,7 @@ Version Consolidée au 1984-05-12
           - [Section VI : Dispositions spéciales concernant la coassurance communautaire. (art. R321-22 à R321-24)](#201)
         - [Chapitre II : Règles de constitution et de fonctionnement (art. R*322-1 à R322-155)](#202)
           - [Section I : Dispositions communes. (art. R*322-1 à R*322-4)](#203)
-          - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. R*322-5 à R*322-11)](#204)
+          - [Section II : Sociétés anonymes d'assurance et de capitalisation. (art. R*322-5 à R322-11-1)](#204)
           - [Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance (art. R*322-12 à R*322-41)](#205)
             - [Paragraphe 1 : Constitution. (art. R*322-12 à R*322-15)](#206)
             - [Paragraphe 2 : Administration. (art. R*322-16 à R*322-26)](#207)
@@ -18439,6 +18439,45 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2008-1154 du 7 novembre 2008 - art. 3
+
+
+###### Article R322-11-1
+
+Doit être portée à la connaissance du ministre de l'économie des finances et du budget, préalablement à sa réalisation, toute
+opération de vente ayant pour effet de conférer directement ou indirectement, à un actionnaire personne physique ou morale ou
+à plusieurs actionnaires personnes morales liées par des relations de sociétés mère et filiale, soit une participation
+atteignant 20 % du capital social, soit la majorité des droits de vote à l'assemblée générale d'une entreprise mentionnée à
+l'article R. 322-5. Cette obligation incombe aux dirigeants de l'entreprise concernée.
+
+Si cette entreprise a fait l'objet d'une des mesures prévues aux articles R. 323-1, R. 323-2 ou R. 323-4, l'opération ne peut
+être réalisée qu'après autorisation du ministre de l'économie, des finances et du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Décret n°84-372 1984-05-14 art. 1 JORF 18 mai 1984
+
+_Cité par_:
+
+  - Code des assurances - art. A322-1 (V)
+  - Code des assurances - art. A322-2 (Ab)
+  - Code des assurances - art. A322-3 (Ab)
+  - Code des assurances - art. R322-11-2 (M)
+  - Code des assurances - art. R322-11-3 (V)
+  - Code des assurances - art. R322-11-4 (V)
+  - Code des assurances - art. R391-1 (VD)
+
+_Cite_:
+
+  - Code des assurances - art. R*323-1 (M)
+  - Code des assurances - art. R*323-2 (M)
+  - Code des assurances - art. R*323-4 (M)
+  - Code des assurances R322-5, R323-1, R323-2, R323-4
 
 
 ##### Section III : Entreprises nationales d'assurance et de capitalisation et sociétés centrales d'assurance<a id=205></a>
