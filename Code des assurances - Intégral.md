@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1993-03-20
+Version Consolidée au 1993-03-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -289,8 +289,8 @@ Version Consolidée au 1993-03-20
             - [Paragraphe 2 : Montant minimal réglementaire de la marge de solvabilité. (art. R334-13 à R334-14)](#286)
             - [Paragraphe 3 : Le fonds de garantie. (art. R334-15 à R334-16)](#287)
           - [Section IV : Vérification de solvabilité globale (art. R334-17 à R334-19)](#288)
-          - [Section V : Dispositions transitoires relatives à la marge de solvabilité (art. R334-28 à R334-38)](#289)
-            - [Paragraphe 1 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance de dommages. (art. R334-28 à R334-32)](#290)
+          - [Section V : Dispositions transitoires relatives à la marge de solvabilité (art. R334-30 à R334-38)](#289)
+            - [Paragraphe 1 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance de dommages. (art. R334-30 à R334-32)](#290)
             - [Paragraphe 2 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance sur la vie. (art. R*334-36 à R334-38)](#291)
       - [Titre IV : Dispositions comptables et statistiques (art. R*341-2 à R345-11)](#292)
         - [Chapitre Ier : Principes généraux. (art. R*341-2 à R341-10)](#293)
@@ -28622,8 +28622,8 @@ En cas d'option pour l'expertise contradictoire, l'entreprise indique dans sa r�
 son expert et joint à cette réponse une lettre de ce dernier acceptant la mission et se déclarant prêt à l'effectuer dans le
 délai ci-après fixé.
 
-Dès qu'il a reçu la réponse mentionnée aux deux alinéas précédents, la commission invite l'expert unique ou les deux experts
-à procéder à l'expertise. Elle donne communication de cet avis à l'entreprise.
+Dès qu'elle a reçu la réponse mentionnée aux deux alinéas précédents, la commission invite l'expert unique ou les deux
+experts à procéder à l'expertise. Elle donne communication de cet avis à l'entreprise.
 
 L'expert unique ou les deux experts doivent déposer leurs conclusions et les notifier aux deux parties dans un délai maximal
 de trois mois à dater de l'avis de la commission, ci-dessus prévu.
@@ -28631,8 +28631,8 @@ de trois mois à dater de l'avis de la commission, ci-dessus prévu.
 S'il y a désaccord entre les conclusions des deux experts, il est immédiatement procédé à la désignation du tiers expert,
 soit, après accord entre les parties, par la commission, soit, à défaut d'accord entre les parties, dans les quinze jours du
 dépôt des conclusions des deux experts, à la requête de la partie la plus diligente, par le président du tribunal de grande
-instance de la situation du siège social ou du siège spécial pour la France, ou, dans le cas des opérations visées par
-l'article L. 351-5, du lieu de situation des actifs immobiliers, statuant en référé sur assignation.
+instance de la situation du siège social ou du siège spécial pour la France, ou, dans le cas des opérations visées par les
+articles L. 351-5 et L. 353-5, du lieu de situation des actifs immobiliers, statuant en référé sur assignation.
 
 Le tiers expert doit déposer ses conclusions et les notifier aux deux parties dans les deux mois de sa désignation.
 
@@ -28644,8 +28644,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-982 du 5 novembre 1990 - art. 1 () JORF 6 novembre 1990
-  - Décret n°90-982 du 5 novembre 1990 - art. 2 () JORF 6 novembre 1990
+  - Décret n°93-470 du 23 mars 1993 - art. 1 () JORF 26 mars 1993
 
 _Cité par_:
 
@@ -28655,6 +28654,7 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L351-5 (M)
+  - Code des assurances - art. L353-5 (M)
 
 **Liens**:
 
@@ -28667,20 +28667,21 @@ Si, après avoir été désigné dans les formes ci-dessus prévues, un expert s
 délais fixés, il est immédiatement procédé à une nouvelle désignation dans les mêmes formes, et les délais sont dûment
 prorogés.
 
-Toutefois, si l'expert défaillant est celui de l'entreprise, le ministre de l'économie et des finances peut requérir
-immédiatement du président du tribunal la désignation d'un expert unique, dont les conclusions lieront les deux parties. Il
+Toutefois, si l'expert défaillant est celui de l'entreprise, la commission de contrôle des assurances peut requérir
+immédiatement du président du tribunal la désignation d'un expert unique, dont les conclusions lieront les deux parties. Elle
 peut formuler la même requête s'il n'a pas été répondu à sa demande d'expertise dans le délai prévu par l'article R. 332-25,
 ou si l'expert de l'entreprise n'a pas déposé son rapport dans le délai fixé par le même article.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1941-08-02 art. 3
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°90-982 du 5 novembre 1990 - art. 2 () JORF 6 novembre 1990
+  - Décret n°93-470 du 23 mars 1993 - art. 1 () JORF 26 mars 1993
 
 _Cite_:
 
@@ -30322,78 +30323,6 @@ _Cite_:
 
 ##### Paragraphe 1 : Dispositions transitoires relatives à la marge de solvabilité des entreprises d'assurance de dommages.<a id=290></a>
 
-###### Article R334-28
-
-Les entreprises françaises agréées à la date du 27 décembre 1984 pour pratiquer uniquement les opérations relevant de la
-branche mentionnée au 18 de l'article R. 321-1 et dont, à la même date, la marge de solvabilité n'atteint pas le montant
-minimal réglementaire, disposent d'un délai expirant le 27 décembre 1989 pour justifier dudit montant.
-
-Si elles ne sont pas en mesure de respecter ce délai, elles peuvent bénéficier, avec l'accord de la commission de contrôle
-des assurances, d'un délai supplémentaire expirant le 27 décembre 1991.
-
-Ce délai supplémentaire ne peut être accordé que si l'entreprise soumet à l'approbation de la commission de contrôle des
-assurances soit le plan de redressement prévu à l'article R. 323-2, soit le plan de financement à court terme prévu à
-l'article R. 323-4.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°91-603 du 27 juin 1991 - art. 28 () JORF 28 juin 1991
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*
-
-_Abrogé par_:
-
-  - Décret n°93-469 du 23 mars 1993 - art. 5 (V) JORF 26 mars 1993
-
-_Cité par_:
-
-  - Décret n°93-469 du 23 mars 1993 - art. 5 (V)
-  - Code des assurances - art. R334-29 (Ab)
-  - Code des assurances - art. R391-1 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R*323-2 (M)
-  - Code des assurances - art. R*323-4 (M)
-  - Code des assurances R321-1, R323-2, R323-4
-
-
-###### Article R334-29
-
-Nonobstant les dispositions de l'article R. 334-28, les entreprises agréées pour pratiquer les opérations relevant de la
-branche mentionnée au 18 de l'article R. 321-1 ne peuvent obtenir une extension d'agrément pour pratiquer les opérations
-relevant d'une ou plusieurs des branches mentionnées aux 1 à 17 du même article que si elles justifient que leur marge de
-solvabilité est au moins égale au montant minimal réglementaire et que leur fonds de garantie est constitué dans les
-conditions réglementaires.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°88-456 du 27 avril 1988 - art. 10 () JORF 29 avril 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*
-
-_Abrogé par_:
-
-  - Décret n°93-469 du 23 mars 1993 - art. 5 (V) JORF 26 mars 1993
-
-_Cité par_:
-
-  - Décret n°93-469 du 23 mars 1993 - art. 5 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R*334-28 (M)
-  - Code des assurances R334-28, R321-1
-
-
 ###### Article R334-30
 
 Les entreprises françaises agréées à la date du 23 juillet 1976 pour pratiquer une ou plusieurs des branches mentionnées aux
@@ -30880,34 +30809,38 @@ _Cite_:
 
 ###### Article R341-10
 
-Lorsqu'une entreprise d'assurance établie sur le territoire de la République française réalise dans un Etat membre des
-communautés européennes, en libre prestation de services, un volume de primes supérieur à 2,5 millions d'unités de compte de
-la Communauté économique européenne, sans déduction de réassurance, elle doit tenir, pour les opérations réalisées dans cet
-Etat, un compte d'exploitation technique par groupe de branches dont le modèle est défini par arrêté du ministre chargé de
-l'économie et des finances.
+Lorsqu'une entreprise d'assurance de dommages établie sur le territoire de la République française réalise dans un Etat
+membre des communautés européennes, en libre prestation de services, un volume de primes supérieur à 2,5 millions d'unités de
+compte de la Communauté économique européenne, sans déduction de réassurance, elle doit tenir, pour les opérations réalisées
+dans cet Etat, un compte d'exploitation technique par groupe de branches dont le modèle est défini par arrêté du ministre
+chargé de l'économie et des finances.
 
-Toutefois, lorsqu'une entreprise d'assurance ayant son siège social sur le territoire de la République française réalise dans
-un Etat membre des communautés européennes, en libre prestation de services, soit directement, soit par l'intermédiaire de
-ses établissements, un volume de primes supérieur à 2,5 millions d'unités de compte de la Communauté économique européenne,
-sans déduction de réassurance, elle doit tenir, pour les opérations réalisées dans ce pays, un compte d'exploitation
-technique pour chacun de ses établissements et dont le modèle est défini par arrêté du ministre chargé de l'économie et des
-finances.
+Toutefois, lorsqu'une entreprise d'assurance de dommages ayant son siège social sur le territoire de la République française
+réalise dans un Etat membre des communautés européennes, en libre prestation de services, soit directement, soit par
+l'intermédiaire de ses établissements, un volume de primes supérieur à 2,5 millions d'unités de compte de la Communauté
+économique européenne, sans déduction de réassurance, elle doit tenir, pour les opérations réalisées dans ce pays, un compte
+d'exploitation technique pour chacun de ses établissements et dont le modèle est défini par arrêté du ministre chargé de
+l'économie et des finances.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+  - SPEC_APPLI: Décret n°93-469 1993-03-23 art. 11 *champ d'application*
   - TXT_SOURCE: Arrêté du 7 mai 1993 - art. 2 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°90-700 du 8 août 1990 - art. 7 () JORF 9 août 1990
+  - Décret n°93-469 du 23 mars 1993 - art. 7 () JORF 26 mars 1993
 
 _Cité par_:
 
   - Arrêté du 7 mai 1993 - art. 2 (V)
   - Arrêté du 7 mai 1993 - art. Annexe (V)
+
+_Nouveaux textes_:
+
+  - Code des assurances R344-3 (1ère version)
 
 
 #### Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation<a id=294></a>
@@ -30918,15 +30851,28 @@ _Cité par_:
 
 Le présent chapitre est applicable aux entreprises assujetties au contrôle de l'Etat par l'article L. 310-1.
 
+Les dispositions des articles R. 342-17 à R. 342-19, R. 342-23 et R. 342-25 sont également applicables aux opérations
+effectuées en libre prestation de services sur le territoire de la République française par les entreprises agréées en vertu
+de l'article L. 321-1-1.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-836 1969-08-29 art. 1
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°93-470 du 23 mars 1993 - art. 2 () JORF 26 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
+  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 _Cité par_:
 
@@ -30954,10 +30900,10 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. L310-1 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+  - Code des assurances - art. L321-1-1 (M)
+  - Code des assurances - art. R342-23 (M)
+  - Code des assurances - art. R342-25 (M)
+  - Code des assurances L310-1, L321-1-1, R342-17 à R342-19, R342-23, R342-25
 
 
 ###### Article R342-2
@@ -31727,6 +31673,21 @@ figurant au tableau modèle, et le total de ces postes complémentaires doit tou
 
 Les lignes et les colonnes "néant" peuvent être supprimées.
 
+Les entreprises agréées en vertu de l'article L. 321-1-1 ne sont tenues d'établir que les états suivants :
+
+B 4 : éléments d'actif représentant les engagements réglementés et cautionnements et montant de ces engagements et
+cautionnements ;
+
+A 5 : liste détaillée des placements ;
+
+A 10 : primes et sinistres de la catégorie Véhicules terrestres à moteur ;
+
+B 10, B 10 simplifié, B 10 bis : paiements et provisions pour sinistres ;
+
+B 23 : détail des provisions mathématiques pour risques en cours ;    A 25 : participation des assurés sur la vie ou des
+porteurs de contrats de capitalisation aux résultats techniques et financiers ;    B 26 : état justificatif de la
+participation des assurés sur la vie ou des porteurs de contrats de capitalisation aux résultats techniques et financiers.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -31745,11 +31706,14 @@ _Cité par_:
   - Code des assurances - art. R342-20 (Ab)
   - Code des assurances - art. R342-24 (Ab)
   - Code des assurances - art. R342-7 (Ab)
-  - Code des assurances - art. R344-1 (M)
+
+_Modifié par_:
+
+  - Décret n°93-470 du 23 mars 1993 - art. 3 () JORF 26 mars 1993
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°90-700 1990-08-08 art. 11 *champ d'application*
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
   - TXT_SOURCE: Code des assurances - art. A344-1 (M)
   - TXT_SOURCE: Code des assurances - art. A344-2 (M)
   - TXT_SOURCE: Code des assurances - art. A344-3 (M)
@@ -31760,9 +31724,14 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
   - TXT_ASSOCIE: Code des assurances A344-1 à A344-8
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Décret n°91-723 du 26 juillet 1991 - art. 4 () JORF 28 juillet 1991
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
+
+_Cite_:
+
+  - Code des assurances - art. L321-1-1 (M)
+  - Code des assurances - art. R344-1 (M)
 
 
 ###### Article R342-18
@@ -31821,6 +31790,9 @@ Les entreprises doivent adresser le compte rendu annuel mentionné à l'article 
 assurances en six exemplaires, dans les trente jours qui suivent l'approbation des comptes par l'assemblée générale et au
 plus tard le 1er août de chaque année.
 
+Les entreprises agréées en vertu de l'article L. 321-1-1 doivent communiquer les états mentionnés à l'article R. 342-17 à la
+commission de contrôle des assurances avant le 1er août de l'année suivant l'exercice auquel ils se rapportent.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -31829,15 +31801,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-723 du 26 juillet 1991 - art. 3 () JORF 28 juillet 1991
-  - Décret n°91-723 du 26 juillet 1991 - art. 6 () JORF 28 juillet 1991
+  - Décret n°93-470 du 23 mars 1993 - art. 4 () JORF 26 mars 1993
 
 **Liens**:
 
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
   - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 _Cite_:
 
+  - Code des assurances - art. L321-1-1 (M)
+  - Code des assurances - art. R342-17 (M)
   - Code des assurances - art. R342-18 (M)
 
 
@@ -31907,9 +31885,10 @@ dans les termes de l'article L. 321-1.
 e) La liste des pays où l'entreprise exerce en régime d'établissement et des branches qu'elle y pratique, la date de
 l'agrément pour les autorités de contrôle de ces pays si cet agrément existe, et l'année du début de l'exploitation.
 
-e bis) la liste des pays où l'entreprise exerce en liberté de prestation de services et les branches qu'elle y pratique, pour
-les grands risques la date d'accusé de réception des documents par les autorités de contrôle de ces pays et, pour les risques
-de masse, la date de l'agrément délivré par ces mêmes autorités, si cet agrément existe ;
+e bis) La liste des pays où l'entreprise exerce en libre prestation de services et des branches qu'elle y pratique ; la date
+d'accusé de réception par les autorités de contrôle de ces pays de la déclaration d'intention d'opérer en libre prestation de
+services sur leur territoire ou la date de l'agrément délivré par ces mêmes autorités, lorsqu'elles soumettent les opérations
+correspondantes à agrément.
 
 f) Un tableau indiquant les ventes et les achats de portefeuilles de contrats effectués au cours de l'exercice, les
 modifications apportées aux branches exploitées en France et dans les autres pays ou territoires.
@@ -31954,15 +31933,18 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
 _Modifié par_:
 
-  - Décret n°91-723 du 26 juillet 1991 - art. 3 () JORF 28 juillet 1991
-  - Décret n°91-723 du 26 juillet 1991 - art. 9 () JORF 28 juillet 1991
+  - Décret n°93-470 du 23 mars 1993 - art. 5 () JORF 26 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
+  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 _Cite_:
 
@@ -31994,11 +31976,11 @@ pour la France :
 f) La liste des branches exploitées, l'année du début de l'exploitation et la date des agréments administratifs dans les
 termes de l'article L. 321-1.
 
-f bis) en ce qui concerne les succursales d'entreprises dont le siège social est établi sur le territoire d'un autre Etat
-membre de la Communauté économique européenne, la liste des pays où la succursale exerce en liberté de prestation de services
-et les branches qu'elle y pratique, pour les grands risques la date d'accusé de réception des documents par les autorités de
-contrôle de ces pays et, pour les risques de masse, la date de l'agrément délivré par ces mêmes autorités, si cet agrément
-existe ;
+f bis) En ce qui concerne les succursales d'entreprises dont le siège social est établi sur le territoire d'un autre Etat
+membre de la Communauté économique européenne, la liste des pays où l'entreprise exerce en libre prestation de services et
+des branches qu'elle y pratique ; la date d'accusé de réception par les autorités de contrôle de ces pays de la déclaration
+d'intention d'opérer en libre prestation de services sur leur territoire ou la date de l'agrément délivré par ces mêmes
+autorités, lorsqu'elles soumettent les opérations correspondantes à agrément.
 
 g) Un tableau indiquant les ventes et les achats de portefeuilles de contrats effectués au cours de l'exercice, les
 modifications aux branches exploitées sur le territoire de la République française.
@@ -32033,15 +32015,18 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°88-456 1988-04-27 art. 13 *champ d'application territorial*
-  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
-
 _Modifié par_:
 
-  - Décret n°91-723 du 26 juillet 1991 - art. 10 () JORF 28 juillet 1991
-  - Décret n°91-723 du 26 juillet 1991 - art. 3 () JORF 28 juillet 1991
+  - Décret n°93-470 du 23 mars 1993 - art. 5 () JORF 26 mars 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°94-482 1994-06-08 art. 2 *date d'effet*
+  - TXT_SOURCE: Code des assurances - art. R*341-1 (M)
+
+_Abrogé par_:
+
+  - Décret n°94-482 du 8 juin 1994 - art. 1 (V) JORF 11 juin 1994
 
 _Cite_:
 
