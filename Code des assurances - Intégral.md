@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1985-10-09
+Version Consolidée au 1985-11-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -496,15 +496,16 @@ Version Consolidée au 1985-10-09
           - [Section III : Risques garantis (art. A432-2)](#493)
             - [Paragraphe 6 : Dispositions communes. (art. A432-2)](#494)
           - [Section IV : Dispositions diverses. (art. A432-10)](#495)
-        - [Chapitre III : La caisse nationale de prévoyance (art. A433-4 à A433-7)](#496)
-          - [Section V : Tarifs. (art. A433-4 à A433-7)](#497)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#498)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#499)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#500)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#501)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#502)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#503)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#504)
+        - [Chapitre III : La caisse nationale de prévoyance (art. A433-1 à A433-7)](#496)
+          - [Section I : Dispositions générales. (art. A433-1)](#497)
+          - [Section V : Tarifs. (art. A433-2 à A433-7)](#498)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-2)](#499)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-2)](#500)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-2)](#501)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#502)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#503)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-8)](#504)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-2)](#505)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -48192,7 +48193,184 @@ _Cite_:
 
 #### Chapitre III : La caisse nationale de prévoyance<a id=496></a>
 
-##### Section V : Tarifs.<a id=497></a>
+##### Section I : Dispositions générales.<a id=497></a>
+
+###### Article A433-1
+
+Sont applicables à la caisse nationale de prévoyance les dispositions suivantes de la troisième partie "arrêtés" du présent
+code :
+
+a) Titres Ier et III du livre Ier ;
+
+b) Section II du titre VI du livre Ier ;
+
+c) Titre III du livre III à l'exception du chapitre V, ainsi que des articles A. 331-1-1 à A. 331-2 et A. 331-10 à A.
+331-12 ;
+
+d) Titre IV du livre III ;
+
+Toutefois, les pouvoirs du ministre de l'économie et des finances et du conseil national des assurances sont exercés par la
+commission supérieure de la caisse nationale de prévoyance, pour l'application des dispositions du titre III du livre III.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 1985-11-07 art. 6 JORF 20 novembre 1985
+
+_Abrogé par_:
+
+  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
+
+_Cite_:
+
+  - Code des assurances A331-1-1 à A331-2, A331-10 à A331-12
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances R432-4, R432-47
+
+
+##### Section V : Tarifs.<a id=498></a>
+
+###### Article A433-2
+
+A compter du 1er janvier 1986, les tarifs des nouvelles formules d'assurance sur la vie présentées au public par la Caisse
+nationale de prévoyance doivent, sous réserve des dispositions de l'article A. 433-4, être établis d'après les éléments
+suivants :
+
+1° Tables de mortalité TD 73-77 pour les assurances en cas de décès et TV 73-77 pour les assurances en cas de vie, annexées à
+l'article A. 335-1 ;
+
+2° Taux d'intérêt au plus égaux à 5 p. 100 pour les contrats de rente immédiate, à 4,50 p. 100 pour toutes les autres
+catégories de contrats.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1975-05-28 art. 1
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 1979-03-29 art. 1 JORF 18 avril 1979
+  - Arrêté 1985-11-07 art. 1 JORF 20 novembre 1985
+
+_Abrogé par_:
+
+  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
+
+_Cite_:
+
+  - Code des assurances - art. A335-1 (M)
+  - Code des assurances - art. A433-4 (Ab)
+
+_Cité par_:
+
+  - Code des assurances - art. A433-2-1 (Ab)
+  - Code des assurances - art. A433-3 (Ab)
+  - Code des assurances - art. A433-7 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances R433-2
+
+
+###### Article A433-2-1
+
+Les tarifs appliqués par la caisse nationale de prévoyance aux formules d'assurance sur la vie présentées au public avant le
+1er janvier 1986 devront, sous réserve des dispositions de l'article A. 433-4, être établis d'après les éléments visés aux 1°
+et 2° de l'article A. 433-2 :
+
+- à compter du 1er janvier 1986 au plus tard, pour les contrats d'assurances temporaires en cas de décès, de rentes de
+survie, d'assurance vie entière et de rentes viagères immédiates et différées ;
+
+- à compter du 1er janvier 1990 au plus tard, pour les tarifs autres que ceux mentionnés au 1° ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 1985-11-07 art. 2 JORF 20 novembre 1985
+
+_Abrogé par_:
+
+  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
+
+_Cite_:
+
+  - Code des assurances - art. A433-2 (Ab)
+  - Code des assurances - art. A433-4 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances R433-2
+
+
+###### Article A433-3
+
+Les provisions mathématiques des contrats d'assurance sur la vie dont les tarifs prennent effet à compter du 1er janvier 1986
+doivent être calculées d'après les tables de mortalité mentionnées à l'article A. 433-2 et d'après des taux d'intérêt au plus
+égaux à ceux retenus pour l'établissement des tarifs.
+
+Lorsque la durée de paiement des primes est inférieure à la durée du contrat, les provisions mathématiques doivent comprendre
+en outre une provision de gestion permettant de couvrir les frais de gestion pendant la période au cours de laquelle les
+primes ne sont plus payées.
+
+La commission supérieure de la caisse nationale de prévoyance peut, sur justification, autoriser la caisse à calculer les
+provisions mathématiques de tous ses contrats en cours, à l'exception de ceux qui sont mentionnés à l'article A. 433-4, en
+leur appliquant lors de tous les inventaires annuels ultérieurs les bases techniques définies au présent article. S'il y a
+lieu, la commission supérieure peut autoriser l'établissement à répartir sur une période de cinq ans au plus les effets de la
+modification des bases de calcul des provisiions mathématiques.
+
+Les provisions mathématiques de tous les contrats individuels et collectifs de rentes viagères en cours de service au 1er
+janvier 1986 ou liquidées à compter de cette date doivent être calculées en appliquant auxdits contrats, lors de tous leurs
+inventaires annuels à partir de cette date, les bases techniques définies au premier alinéa du présent article et,
+éventuellement, à l'article A. 433-4.
+
+Toutefois, la commission supérieure de la caisse nationale de prévoyance peut autoriser cet établissement à répartir sur une
+période de cinq ans au plus les effets résultant des dispositions prévues à l'alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Anciens textes_:
+
+  - Arrêté 1979-03-29 art. 2
+
+_Modifié par_:
+
+  - Arrêté 1979-03-29 art. 2 JORF 18 avril 1979
+  - Arrêté 1985-11-07 art. 3, art. 4 JORF 20 novembre 1985
+
+_Abrogé par_:
+
+  - Arrêté 1993-03-19 art. 3 II JORF 20 mars 1993
+
+_Cite_:
+
+  - Code des assurances - art. A433-2 (Ab)
+  - Code des assurances - art. A433-4 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances R433-2
+
 
 ###### Article A433-4
 
@@ -48329,11 +48507,11 @@ _Cite_:
   - Code des assurances - art. A433-2 (Ab)
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=498></a>
+### Titre IV : Régimes particuliers d'assurance<a id=499></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=499></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=500></a>
 
-##### Section II : Règles techniques et comptables.<a id=500></a>
+##### Section II : Règles techniques et comptables.<a id=501></a>
 
 ###### Article A441-1
 
@@ -48395,11 +48573,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=501></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=502></a>
 
-### Titre Ier : Présentation des opérations.<a id=502></a>
+### Titre Ier : Présentation des opérations.<a id=503></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=503></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=504></a>
 
 ###### Article A513-1
 
@@ -48672,7 +48850,7 @@ _Cité par_:
   - Arrêté du 31 mars 1992 - art. 1 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=504></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=505></a>
 
 ###### Article A516-2
 
