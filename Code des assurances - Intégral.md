@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1999-08-06
+Version Consolidée au 1999-08-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -182,7 +182,7 @@ Version Consolidée au 1999-08-06
         - [Chapitre unique. (art. L520-1 à L520-2)](#179)
       - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. L530-1 à L530-3)](#180)
         - [Chapitre unique. (art. L530-1 à L530-3)](#181)
-  - [Partie réglementaire (art. R111-1 à R530-11)](#182)
+  - [Partie réglementaire (art. R111-1 à R530-12)](#182)
     - [Livre Ier : Le contrat. (art. R111-1 à R172-6)](#183)
       - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes. (art. R111-1 à R114-1)](#184)
         - [Chapitre Ier : Dispositions générales. (art. R111-1)](#185)
@@ -262,8 +262,8 @@ Version Consolidée au 1999-08-06
           - [Section VII : Tontines. (art. R*322-145 à R322-159)](#259)
         - [Chapitre III : Procédures de redressement et de sauvegarde (art. R*323-6 à R323-9)](#260)
           - [Section I : Règles générales. (art. R*323-6 à R323-9)](#261)
-        - [Chapitre IV : Transfert de portefeuille (art. R*324-4)](#262)
-          - [Section II : Transfert d'office. (art. R*324-4)](#263)
+        - [Chapitre IV : Transfert de portefeuille (art. R*324-4 à R*324-5)](#262)
+          - [Section II : Transfert d'office. (art. R*324-4 à R*324-5)](#263)
         - [Chapitre V : Retrait de l'agrément administratif (art. R*325-9 à R325-14)](#264)
           - [Section I : Règles générales. (art. R*325-9 à R325-14)](#265)
         - [Chapitre VI : Liquidation (art. R*326-2 à R326-1)](#266)
@@ -371,7 +371,7 @@ Version Consolidée au 1999-08-06
             - [Paragraphe 3 : Opérations d'investissement. (art. R442-9-1 à R442-9-3)](#368)
             - [Paragraphe 4 : Opérations d'importation. (art. R442-10-1 à R442-10-5)](#369)
             - [Paragraphe 5 : Dispositions communes. (art. R442-11)](#370)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. R*511-1 à R530-11)](#371)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. R*511-1 à R530-12)](#371)
       - [Titre I : Présentation des opérations (art. R*511-1 à R*516-1)](#372)
         - [Chapitre I : Principes généraux. (art. R*511-1 à R511-6)](#373)
         - [Chapitre II : Dérogations aux principes généraux (art. R*512-1 à R512-5)](#374)
@@ -387,8 +387,8 @@ Version Consolidée au 1999-08-06
           - [Section II : Contrôle des conditions de capacité professionnelle et d'honorabilité. (art. R*515-6 à R*515-7)](#384)
           - [Section III : Dispositions relatives à la libre prestation de services. (art. R*515-9)](#385)
         - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. R*516-1)](#386)
-      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. R530-1 à R530-11)](#387)
-        - [Chapitre unique. (art. R530-1 à R530-11)](#388)
+      - [Titre III : Dispositions spéciales aux courtiers et sociétés de courtage d'assurance (art. R530-1 à R530-12)](#387)
+        - [Chapitre unique. (art. R530-1 à R530-12)](#388)
   - [Partie réglementaire - Arrêtés (art. A113-1 à A516-2)](#389)
     - [Livre Ier : Le contrat (art. A113-1 à A160-4)](#390)
       - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A113-1)](#391)
@@ -29109,6 +29109,37 @@ _Cité par_:
   - Code des assurances - art. R391-1 (VD)
 
 
+###### Article R*324-5
+
+La décision de la commission de contrôle des assurances prévue à l'article L. 324-5 est prononcée après la sanction prévue au
+6° de l'article L. 310-18, à l'issue du contrôle auquel la commission peut soumettre une personne physique ou morale
+conformément au cinquième alinéa de l'article L. 310-12.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-498 1967-06-23 art. 9
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°99-718 du 3 août 1999 - art. 2 () JORF 11 août 1999
+
+_Cite_:
+
+  - Code des assurances - art. L310-12 (M)
+  - Code des assurances - art. L310-18 (M)
+  - Code des assurances - art. L324-5 (Ab)
+
+_Cité par_:
+
+  - Code des assurances - art. R391-1 (VD)
+
+
 #### Chapitre V : Retrait de l'agrément administratif<a id=264></a>
 
 ##### Section I : Règles générales.<a id=265></a>
@@ -43780,6 +43811,113 @@ _Cite_:
 
   - Code des assurances - art. L530-1 (Ab)
   - Code des assurances - art. L530-2 (Ab)
+
+
+###### Article R530-12
+
+I. - La liste des courtiers et des sociétés de courtage d'assurance prévue à l'article L. 530-2-2 est tenue et mise à jour en
+permanence par les organisations professionnelles des entreprises et des courtiers du secteur de l'assurance dont la liste
+est fixée par arrêté du ministre chargé de l'économie. Une commission est chargée au nom des organisations professionnelles
+d'établir la liste, de la tenir à jour et d'ouvrir sa consultation au public dans les conditions prévues au présent article.
+La commission est composée de six membres et six suppléants nommés pour une durée de cinq ans par arrêté du ministre chargé
+de l'économie, sur proposition des organisations professionnelles concernées, à raison de deux membres et deux suppléants par
+organisation professionnelle.
+
+II. - L'inscription sur la liste est de droit pour les personnes physiques et les sociétés immatriculées au registre du
+commerce et des sociétés pour le courtage d'assurance conformément à l'obligation prévue au 1° de l'article R. 511-2, qui
+exercent l'activité à titre exclusif ou non et qui justifient de la garantie financière et de l'assurance de responsabilité
+civile professionnelle respectivement prévues aux articles L. 530-1 et L. 530-2. Les personnes physiques qui exercent
+l'activité en nom propre ou qui, dans les sociétés concernées, ont le pouvoir de gérer ou d'administrer doivent satisfaire
+aux conditions de capacité et d'honorabilité posées par l'article R. 511-4. La liste précise si la personne inscrite exerce
+l'activité de courtage à titre exclusif ou non. Dans le second cas, elle indique la nature de l'activité principale exercée.
+
+III. - L'inscription sur la liste est effectuée dans un délai de trois mois après la réception par la commission d'un dossier
+complet, adressé au secrétariat de la commission par lettre recommandée avec avis de réception.
+
+Le dossier comporte les pièces suivantes :
+
+1° Un extrait d'immatriculation au registre du commerce et des sociétés datant de moins de trois mois et mentionnant
+l'activité de courtage d'assurance, établi au nom de l'intéressé si l'activité de courtage d'assurance est exercée en nom
+propre et au nom de la société concernée dans le cas contraire ;
+
+2° L'attestation d'assurance de responsabilité civile professionnelle prévue à l'article R. 530-10 ;
+
+3° L'attestation de garantie financière prévue à l'article R. 530-4 ;
+
+4° Le nom et le titre de la personne responsable de la lutte contre le blanchiment désignée par le courtier ou la société de
+courtage en application de la loi n° 90-614 du 12 juillet 1990 relative à la participation des organismes financiers à la
+lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants, modifiée par la loi n° 96-392 du 13 mai 1996
+relative à la lutte contre le blanchiment et le trafic des stupéfiants et à la coopération internationale en matière de
+saisie et de confiscation des produits du crime, et de l'article 2 du décret n° 91-160 du 13 février 1991 fixant les
+conditions d'application de la loi n° 90-614 du 12 juillet 1990.
+
+Les pièces mentionnées aux 2° et 3° sont produites chaque année quarante jours au plus après la date d'expiration du contrat
+d'assurance de responsabilité civile professionnelle ou de la garantie financière du courtier ou de la société de courtage
+d'assurance.
+
+IV. - Les courtiers et sociétés de courtage d'assurance inscrits sur la liste informent dans les trente jours la commission
+de tout événement pouvant avoir des conséquences sur leur inscription, tel que le changement de lieu d'exercice
+professionnel, la cessation d'activité ainsi que, pour une société de courtage, toute modification concernant les associés ou
+tiers ayant le pouvoir de gérer ou d'administrer la société. Dans ce dernier cas, la société de courtage adresse à la
+commission un nouvel extrait d'immatriculation au registre du commerce et des sociétés prenant en compte la modification.
+
+V. - Le greffier qui radie du registre du commerce et des sociétés un courtier ou une société de courtage d'assurance
+immatriculé dans son ressort en informe la commission.
+
+VI. - La radiation de la liste intervient de plein droit lorsqu'un courtier ou une société de courtage ne justifie plus du
+respect des obligations requises pour l'exercice du courtage d'assurance ou cesse son activité.
+
+La commission procède à la radiation de la liste :
+
+- dès réception de la notification par le greffier compétent de la radiation du registre du commerce et des sociétés d'un
+courtier ou d'une société de courtage ;
+
+- à l'expiration du délai de quarante jours prévu au troisième alinéa du III quand les pièces attestant du renouvellement de
+l'assurance de responsabilité civile professionnelle ou de la garantie financière ne sont pas produites dans ce délai ;
+
+- à l'issue d'un délai de trois mois dans les autres cas.
+
+La radiation de la liste est notifiée par la commission par lettre recommandée avec avis de réception à la personne physique
+ou morale qui en fait l'objet.
+
+VII. - La commission adresse au ministre de la justice et au ministre chargé de l'économie un rapport annuel sur les
+inscriptions et radiations de la liste et sur les statistiques concernant sa consultation. Elle y fait toute proposition
+qu'elle juge utile sur l'évolution des règles relatives à l'accès à la profession de courtier d'assurance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Cite_:
+
+  - Loi n°90-614 1990-07-12
+  - Décret n°91-160 du 13 février 1991 - art. 2 (Ab)
+  - Loi n°96-392 1996-05-13
+  - Code des assurances - art. L530-1 (Ab)
+  - Code des assurances - art. L530-2 (Ab)
+  - Code des assurances - art. L530-2-2 (M)
+  - Code des assurances - art. R*511-2 (M)
+  - Code des assurances - art. R530-10 (Ab)
+  - Code des assurances - art. R530-4 (Ab)
+  - Code des assurances L530-2-2, R511-2, L530-1, L530-2, R511-4, R530-10, R530-4
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°99-718 1999-08-03 art. 3 (délai d'établissement de la liste des courtiers et sociétés de courtage d'assurance)
+
+_Créé par_:
+
+  - Décret n°99-718 du 3 août 1999 - art. 1 () JORF 11 août 1999
+
+_Cité par_:
+
+  - Décret n°99-718 du 3 août 1999 - art. 3 (V)
+
+_Abrogé par_:
+
+  - Décret n°2006-1091 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 
 # Partie réglementaire - Arrêtés<a id=389></a>
