@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1997-03-26
+Version Consolidée au 1997-05-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -401,7 +401,7 @@ Version Consolidée au 1997-03-26
           - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-3)](#398)
           - [Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal. (art. A160-2 à A160-4)](#399)
     - [Livre II : Assurances obligatoires (art. A211-1 à A250-2)](#400)
-      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. A211-1 à A213-4)](#401)
+      - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. A211-1 à A213-3)](#401)
         - [Chapitre Ier : L'obligation de s'assurer (art. A211-1 à Annexe art. A211-11)](#402)
           - [Section I : Personnes assujetties. (art. A211-1)](#403)
           - [Section II : Etendue de l'obligation d'assurance. (art. A211-1-1 à A211-1-2)](#404)
@@ -410,7 +410,7 @@ Version Consolidée au 1997-03-26
             - [Paragraphe 1 : L'attestation d'assurance. (art. A211-4 à A211-8)](#407)
             - [Paragraphe 2 : Le certificat d'assurance. (art. A211-9 à A211-10)](#408)
           - [Section VI : Procédures d'indemnisation. (art. A211-11 à Annexe art. A211-11)](#409)
-        - [Chapitre III : Contribution au profit de la sécurité sociale. (art. A213-1 à A213-4)](#410)
+        - [Chapitre III : Contribution au profit de la sécurité sociale. (art. A213-2 à A213-3)](#410)
       - [Titre II : L'assurance des engins de remontée mécanique (art. A220-3 à Annexe art. A220-3)](#411)
         - [Chapitre unique. (art. A220-3 à Annexe art. A220-3)](#412)
       - [Titre III : L'assurance de la responsabilité civile des chasseurs (art. A230-5 à Annexe art A230-7)](#413)
@@ -44668,42 +44668,6 @@ _Cite_:
 
 #### Chapitre III : Contribution au profit de la sécurité sociale.<a id=410></a>
 
-###### Article A213-1
-
-A l'appui des versements trimestriels forfaitaires de la cotisation d'assurance maladie instituée par l'article L. 213-1, les
-entreprises d'assurance produisent à l'agence centrale des organismes de sécurité sociale un état indiquant : la somme à
-laquelle a été liquidé le produit net des cotisations afférentes au dernier exercice réglé ; le montant exigible de l'acompte
-calculé conformément aux dispositions de l'article R. 213-3 ; éventuellement l'excédent à imputer résultant des versements
-antérieurs ; le solde à payer ou le nouveau montant de l'excédent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1968-04-09 art. 1
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Abrogé par_:
-
-  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
-
-_Cité par_:
-
-  - Code des assurances - art. A213-3 (Ab)
-
-_Cite_:
-
-  - Code des assurances - art. L213-1 (M)
-  - Code des assurances L213-1, R213-3
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R213-3
-
-
 ###### Article A213-2
 
 Au plus tard le 15 juin de chaque année, les entreprises d'assurance déposent à l'agence centrale des organismes de sécurité
@@ -44760,39 +44724,6 @@ _Cite_:
 
   - Code des assurances - art. A213-1 (Ab)
   - Code des assurances - art. A213-2 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R213-3
-
-
-###### Article A213-4
-
-A titre justificatif, les entreprises d'assurance doivent :
-
-1° Conserver jusqu'au 31 décembre de la quatrième année suivant l'exercice considéré les déclarations de non-assujettissement
-prévues au quatrième alinéa de l'article L. 213-1 ;
-
-2° Etablir un état récapitulatif annuel des assurés non-assujettis indiquant les noms et adresses de ces assurés, les numéros
-des contrats souscrits par eux, les dates d'échéance et les montants des primes correspondantes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1968-04-09 art. 4
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Abrogé par_:
-
-  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
-
-_Cite_:
-
-  - Code des assurances - art. L213-1 (M)
 
 **Liens**:
 
