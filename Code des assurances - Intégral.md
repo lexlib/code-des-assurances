@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1994-07-01
+Version Consolidée au 1994-07-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -336,7 +336,7 @@ Version Consolidée au 1994-07-01
         - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R422-1)](#333)
       - [Titre III : Organismes particuliers d'assurance (art. R*431-6 à R431-59)](#334)
         - [Chapitre Ier : La caisse centrale de réassurance. (art. R*431-6 à R431-59)](#335)
-          - [Section I : Dispositions générales. (art. R*431-6 à R431-6-2)](#336)
+          - [Section I : Dispositions générales. (art. R*431-6 à R*431-6-2)](#336)
           - [Section II : Opérations effectuées avec la garantie de l'Etat (art. R431-16-1 à R431-31)](#337)
             - [Paragraphe 1 : Dispositions communes. (art. R431-16-1 à R431-16-4)](#338)
             - [Paragraphe 2 : Risques exceptionnels et nucléaires. (art. R431-27 à R431-29)](#339)
@@ -37830,11 +37830,16 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code des assurances - art. R*411-2 (M)
 
 
-###### Article R431-6-2
+###### Article R*431-6-2
 
 Les dispositions de l'article R. 322-26 sont applicables aux représentants de l'Etat dans le conseil d'administration de la
-Caisse centrale de réassurance. Le mandat de membre du conseil d'administration représentant l'Etat est gratuit, sans
+Caisse centrale de réassurance (1). Le mandat de membre du conseil d'administration représentant l'Etat est gratuit, sans
 préjudice du remboursement par la société des frais exposés pour l'exercice dudit mandat.
+
+**Nota:**
+
+décret 94-582 du 12 juillet 1994 art. 9 : La première phrase de l'article R. 431-6-2 du code des assurances est abrogée, sauf
+en ce qui concerne les territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -37844,7 +37849,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-176 du 5 février 1993 - art. 3 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+  - Décret n°94-582 1994-07-12 art. 9 JORF 13 juillet 1994
 
 _Cité par_:
 
@@ -37852,7 +37857,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances R322-26
+  - Code des assurances - art. R322-26 (V)
 
 
 ##### Section II : Opérations effectuées avec la garantie de l'Etat<a id=337></a>
