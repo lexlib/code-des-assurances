@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -21299,12 +21299,11 @@ _Cite_:
 
 Tout souscripteur d'un contrat d'assurance prévu par l'article L. 211-1 doit apposer sur le véhicule automoteur assuré, dans
 les conditions fixées par un arrêté du ministre chargé de l'économie, le certificat d'assurance décrit aux articles R.
-211-21-2 et R. 211-21-3, alinéa 2.
+211-21-2 et R. 211-21-3, alinéa 2. 
 
-Les dispositions de l'alinéa 1er sont applicables aux véhicules mentionnés au titre II du livre Ier du code de la route, dès
-lors que leur poids total autorisé en charge est inférieur ou égal à 3,5 tonnes, ainsi qu'aux véhicules mentionnés aux titres
-IV et V du même livre. Elles ne sont pas applicables aux véhicules circulant avec un certificat et un numéro W définis à
-l'article R. 111-1 du code de la route.
+Les dispositions de l'alinéa 1er sont applicables aux véhicules à moteur dont le poids total autorisé en charge est inférieur
+ou égal à 3,5 tonnes, à l'exception des véhicules et matériels agricoles ou de travaux publics, des engins spéciaux et des
+véhicules circulant avec un certificat d'immatriculation spécial W.
 
 **Liens relatifs à cet article**
 
@@ -21314,7 +21313,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-111 1989-02-21 art. 5 JORF 23 février 1989
+  - Décret n°2001-251 du 22 mars 2001 - art. 4 () JORF 25 mars 2001 en vigueur le 1er juin 2001
 
 _Cité par_:
 
@@ -21335,9 +21334,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L211-1 (M)
-  - Code des assurances - art. R211-21-3 (M)
-  - Code de la route R111-1
+  - Code des assurances - art. L211-1 (V)
 
 
 ###### Article R211-21-2
