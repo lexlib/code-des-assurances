@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1980-09-28
+Version Consolidée au 1980-10-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -36528,7 +36528,7 @@ _Cite_:
   - Loi n°1941-06-14 art. 13
 
 
-###### Article R*512-4
+###### Article R512-4
 
 Les opérations ci-après définies, relatives à des assurances collectives ouvertes par adhésion, peuvent être présentées par
 les personnes ou catégories de personnes respectivement énoncées dans chaque cas, sous réserve que cette présentation ne
@@ -36559,6 +36559,14 @@ coopératives de consommation ou des groupements de celle-ci : les personnes man
 même date, lorsqu'elles agissent au siège de la société ou dans une assemblée ou réunion convoquées par celle-ci et ne
 rassemblant que des membres de sociétés coopératives de consommation.
 
+6° Adhésion d'exposants à des assurances collectives ouvertes souscrites pour la durée de la manifestation et les périodes de
+montage et de démontage : les personnes morales responsables de l'organisation des foires et expositions.
+
+7° Adhésion de membres d'associations de tourisme reconnues d'utilité publique et de clubs automobiles affiliés à une
+fédération de clubs elle-même reconnue d'utilité publique, à des assurances collectives souscrites par ces associations et
+couvrant à titre principal les frais des interventions d'assistance liées au déplacement et effectuées par des tiers :
+l'association ayant souscrit le contrat et les préposés qui recueillent ces adhésions.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -36568,6 +36576,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°80-788 1980-10-01 art. 2 JORF 5 octobre 1980
 
 _Cité par_:
 
@@ -36580,49 +36592,6 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances R140-1
-
-
-###### Article R*512-6
-
-Les adhésions de titulaires de contrats d'abonnement émis par un organisme de défense ou recours, à des assurances
-collectives souscrites par cet organisme pour couvrir, en complément de ces contrats, des frais de procès ou des indemnités
-au titre de dommages matériels subis par les véhicules faisant l'objet desdits contrats ou de dommages corporels subis par
-les personnes transportées dans ces véhicules peuvent être présentées par tout dirigeant, préposé ou mandataire dudit
-organisme, sous réserve qu'il remplisse les conditions exigées, en application des 1°, 2° et 3° de l'article R. 511-4, des
-intermédiaires mentionnés au 3° ou au 4° de l'article R. 511-2.
-
-Pour l'application de ces conditions, les personnes physiques salariées ou non salariées, commises ou mandatées par les
-organismes de défense ou recours pour présenter les adhésions sont assimilées, selon les cas, aux intermédiaires mentionnés
-au 3° ou au 4° de l'article R. 511-2 et les organismes précités sont assimilés aux entreprises mentionnées à l'article L.
-310-1.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-117 1966-02-23 art. 6
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°80-788 1980-10-01 art. 3 JORF 5 octobre 1980
-
-_Cité par_:
-
-  - Code des assurances - art. A512-3 (VD)
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. R*511-2 (M)
-  - Code des assurances R511-4, R511-2, L310-1
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. R*511-2 (M)
 
 
 ###### Article R512-5
