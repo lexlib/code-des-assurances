@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1978-04-01
+Version Consolidée au 1978-06-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -40125,8 +40125,9 @@ _Cite_:
 
 ###### Article A335-3
 
-Les tarifs des contrats de rente viagère immédiate souscrits à compter du 8 novembre 1974 par des personnes âgées d'au moins
-soixante-cinq ans peuvent être établis d'après un taux d'intérêt supérieur au taux défini à l'article A. 335-1.
+Les tarifs des contrats de rente viagère immédiate souscrits par des personnes âgées d'au moins soixante-cinq ans, ainsi que
+des contrats à prime unique d'une durée maximale de dix ans, peuvent être établis d'après un taux d'intérêt supérieur au taux
+défini à l'article A. 335-1.
 
 En ce cas et pour chacun des tarifs, le visa est subordonné aux conditions suivantes :
 
@@ -40136,13 +40137,13 @@ En ce cas et pour chacun des tarifs, le visa est subordonné aux conditions suiv
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Arrêté 1974-10-31 art. 4
-
 _Codifié par_:
 
   - Arrêté 1976-07-16
+
+_Abrogé par_:
+
+  - Arrêté 1993-03-19 art. 15 JORF 20 mars 1993 en vigueur le 1er juillet 1993
 
 _Cité par_:
 
