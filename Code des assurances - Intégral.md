@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 1986-01-06
+Version Consolidée au 1986-01-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L520-2)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L172-22)](#2)
@@ -193,8 +193,8 @@ Version Consolidée au 1986-01-06
       - [Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques (art. R*211-1 à R*214-2)](#190)
         - [Chapitre Ier : L'obligation de s'assurer. (art. R*211-1 à R211-28)](#191)
           - [Section I : Personnes assujetties. (art. R*211-1)](#192)
-          - [Section II : Etendue de l'obligation d'assurance. (art. R*211-2 à R211-8)](#193)
-          - [Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur. (art. R*211-12 à R211-11)](#194)
+          - [Section II : Etendue de l'obligation d'assurance. (art. R211-2 à R211-8)](#193)
+          - [Section III : Franchises, exclusions de garanties, déchéances et recours de l'assureur. (art. R*211-12 à R211-13-1)](#194)
           - [Section IV : Contrôle de l'obligation d'assurance. (art. R*211-16 à R211-21-6)](#195)
             - [Paragraphe 1 : L'attestation d'assurance. (art. R*211-18 à R211-15)](#196)
             - [Paragraphe 2 : Le certificat d'assurance. (art. R211-21-1 à R211-21-6)](#197)
@@ -15368,20 +15368,20 @@ _Cité par_:
 
 ##### Section II : Etendue de l'obligation d'assurance.<a id=193></a>
 
-###### Article R*211-2
+###### Article R211-2
 
-Les contrats d'assurance prévus à l'article L. 211-1 doivent couvrir la responsabilité civile du souscripteur du contrat, du
-propriétaire du véhicule et de toute personne ayant, avec leur autorisation, la garde ou la conduite de ce véhicule.
-
-Ne sont pas regardés comme bénéficiaires de l'autorisation susmentionnée, au sens du présent article, les garagistes et
-personnes pratiquant habituellement le courtage, la vente, la réparation, le dépannage ou le contrôle du bon fonctionnement
-des véhicules ainsi que leurs préposés, en ce qui concerne les véhicules qui leur sont confiés en raison de leurs fonctions.
+Les contrats prévus à l'article L. 211-1 doivent couvrir, en plus de la responsabilité civile des personnes mentionnées à cet
+article, celle du souscripteur du contrat et du propriétaire du véhicule.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°86-21 du 7 janvier 1986 - art. 1 () JORF 8 janvier 1986
 
 _Cité par_:
 
@@ -15399,29 +15399,28 @@ _Cite_:
 
   - TXT_SOURCE: Code des assurances - art. L211-1 (M)
   - SPEC_APPLI: Code des assurances - art. L211-3 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°59-135 1959-01-07 art. 1
+  - SPEC_APPLI: Code des assurances - art. R*211-3 (M)
 
 
-###### Article R*211-3
+###### Article R211-3
 
-Par dérogation au premier alinéa de l'article R. 211-2, les garagistes et personnes pratiquant habituellement le courtage, la
-vente, la réparation, le dépannage ou le contrôle du bon fonctionnement des véhicules ne sont tenus de s'assurer que pour
-leur propre responsabilité, celle des personnes travaillant dans leur exploitation et celle des personnes ayant la garde ou
-la conduite du véhicule avec leur autorisation ou l'autorisation de toute autre personne désignée à cet effet au contrat
-d'assurance.
+Les professionnels de la réparation, de la vente et du contrôle de l'automobile sont tenus de s'assurer pour leur propre
+responsabilité, celle des personnes travaillant dans leur exploitation, et celle des personnes ayant la garde ou la conduite
+du véhicule, ainsi que celle des passagers.
 
-Cette dérogation n'est applicable qu'à l'assurance de la responsabilité civile que les personnes énumérées au précédent
-alinéa peuvent encourir du fait des dommages causés aux tiers par les véhicules qui leur ont été confiés en raison de leurs
-fonctions et qui sont utilisés dans le cadre de l'activité professionnelle du souscripteur du contrat.
+Cette obligation s'applique à la responsabilité civile que les personnes mentionnées au précédent alinéa peuvent encourir du
+fait des dommages causés aux tiers par les véhicules qui sont confiés au souscripteur du contrat en raison de ses fonctions
+et ceux qui sont utilisés dans le cadre de l'activité professionnelle du souscripteur du contrat.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°86-21 du 7 janvier 1986 - art. 2 () JORF 8 janvier 1986
 
 _Cité par_:
 
@@ -15438,16 +15437,8 @@ _Cité par_:
   - TXT_SOURCE: Code des assurances - art. L211-1 (M)
   - SPEC_APPLI: Code des assurances - art. R211-2 (M)
 
-_Cite_:
 
-  - Code des assurances - art. R*211-2 (M)
-
-_Anciens textes_:
-
-  - Décret n°59-135 1959-01-07 art. 2
-
-
-###### Article R*211-4
+###### Article R211-4
 
 L'obligation d'assurance s'applique aux véhicules terrestres à moteur et à leurs remorques ou semi-remorques.
 
@@ -15458,11 +15449,20 @@ personnes ou de choses ;
 
 2° Tout appareil terrestre attelé à un véhicule terrestre à moteur.
 
+Sauf en cas de réticence ou de fausse déclaration intentionnelle, l'adjonction à un véhicule terrestre à moteur de petites
+remorques ou semi-remorques aux caractéristiques définies par arrêté conjoint du ministre chargé de l'économie et du ministre
+chargé des transports constitue, au sens des articles L. 113-4 et L. 113-9, une aggravation du risque couvert par le contrat
+garantissant ce véhicule.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°86-21 du 7 janvier 1986 - art. 3 () JORF 8 janvier 1986
 
 **Liens**:
 
@@ -15473,15 +15473,15 @@ _Cité par_:
 
   - Code des assurances - art. A211-1-3 (Ab)
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°59-135 1959-01-07 art. 3
+  - Code des assurances - art. L113-4 (M)
+  - Code des assurances - art. L113-9 (V)
 
 
-###### Article R*211-5
+###### Article R211-5
 
-L'obligation d'assurance s'applique à la réparation des dommages corporels ou matériels résultant, à l'occasion de la
-circulation :
+L'obligation d'assurance s'applique à la réparation des dommages corporels ou matériels résultant :
 
 1° Des accidents, incendies ou explosions causés par le véhicule, les accessoires et produits servant à son utilisation, les
 objets et substances qu'il transporte ;
@@ -15490,24 +15490,23 @@ objets et substances qu'il transporte ;
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-_Anciens textes_:
-
-  - Décret n°59-135 1959-01-07 art. 4
-
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
+_Modifié par_:
+
+  - Décret n°86-21 du 7 janvier 1986 - art. 4 () JORF 8 janvier 1986
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
 
 ###### Article R211-7
 
-L'assurance doit être souscrite pour une somme d'au moins cinq millions de francs par véhicule et par sinistre corporel, et
-d'au moins trois millions de francs par véhicule et par sinistre matériel, sans préjudice des dispositions de l'article L.
-211-7.
+L'assurance doit être souscrite pour une somme d'au moins cinq millions de francs par victime de sinistre corporel, et d'au
+moins trois millions de francs par véhicule et par sinistre matériel, sans préjudice des dispositions de l'article L. 211-7.
 
 Par dérogation aux dispositions de l'alinéa précédent, l'assurance doit être souscrite sans limitation de somme en ce qui
 concerne les véhicules pour la conduite desquels est exigée la possession d'un permis entrant dans l'une des catégories C, D
@@ -15521,7 +15520,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°83-482 1983-06-09 art. 2 JORF 14 juin 1983
+  - Décret n°86-21 du 7 janvier 1986 - art. 5 () JORF 8 janvier 1986
 
 _Cité par_:
 
@@ -15616,51 +15615,6 @@ _Anciens textes_:
   - Décret n°59-135 1959-01-07 art. 11
 
 
-###### Article R*211-13
-
-Ne sont pas opposables aux victimes ou à leurs ayants droit :
-
-1° La limitation de garantie prévue à l'article R. 211-9 et à l'article R. 212-7, sauf dans le cas où le sinistre n'ayant
-causé que des dégâts matériels, le montant de ceux-ci n'excède pas la somme fixée par arrêté du ministre de l'économie et des
-finances ;
-
-2° Les déchéances, à l'exception de la suspension régulière de la garantie pour non-paiement de prime ;
-
-3° La réduction de l'indemnité conformément à l'article L. 113-9.
-
-Dans les cas susmentionnés, l'assureur procède au paiement de l'indemnité pour le compte du responsable.
-
-Il peut exercer contre ce dernier une action en remboursement pour toutes les sommes qu'il a ainsi payées ou mises en réserve
-à sa place.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. A211-2 (Ab)
-  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
-
-_Cite_:
-
-  - Code des assurances - art. L113-9 (V)
-  - Code des assurances - art. R211-9 (Ab)
-  - Code des assurances - art. R212-7 (M)
-
-_Cité par_:
-
-  - Code des assurances - art. R*420-50 (T)
-  - Code des assurances - art. R*421-50 (Ab)
-  - Code des assurances - art. R421-24-1 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°59-135 1959-01-07 art. 13
-
-
 ###### Article R211-9
 
 Nonobstant les dispositions de l'article R. 211-7, et compte tenu de celles de l'article R. 211-13, il peut être stipulé au
@@ -15715,7 +15669,8 @@ aux conditions générales et que la déchéance soit motivée par des faits pos
 
 L'exclusion prévue au 1° du premier alinéa du présent article ne peut être opposée au conducteur détenteur d'un certificat
 déclaré à l'assureur lors de la souscription ou du renouvellement du contrat, lorsque ce certificat est sans validité pour
-des raisons tenant au lieu ou à la durée de résidence de son titulaire.
+des raisons tenant au lieu ou à la durée de résidence de son titulaire ou lorsque les conditions restrictives d'utilisation,
+autres que celles relatives aux catégories de véhicules, portées sur celui-ci n'ont pas été respectées.
 
 **Liens relatifs à cet article**
 
@@ -15725,7 +15680,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°83-482 1983-06-09 art. 4 JORF 14 juin 1983
+  - Décret n°86-21 du 7 janvier 1986 - art. 7 () JORF 8 janvier 1986
 
 **Liens**:
 
@@ -15783,6 +15738,83 @@ _Cité par_:
 
   - Code des assurances - art. R211-12 (V)
   - Code des assurances - art. R211-13 (M)
+
+
+###### Article R211-13
+
+Ne sont pas opposables aux victimes ou à leurs ayants droit :
+
+1° La limitation de garantie prévue à l'article R. 211-9 et à l'article R. 212-7, sauf dans le cas où le sinistre n'ayant
+causé que des dégâts matériels, le montant de ceux-ci n'excède pas la somme fixée par arrêté du ministre de l'économie et des
+finances ;
+
+2° Les déchéances, à l'exception de la suspension régulière de la garantie pour non-paiement de prime ;
+
+3° La réduction de l'indemnité applicable conformément à l'article L. 113-9.
+
+4° Les exclusions de garanties prévues aux articles R. 211-10 et R. 211-11.
+
+Dans les cas susmentionnés, l'assureur procède au paiement de l'indemnité pour le compte du responsable.
+
+Il peut exercer contre ce dernier une action en remboursement pour toutes les sommes qu'il a ainsi payées ou mises en réserve
+à sa place.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Modifié par_:
+
+  - Décret n°86-21 du 7 janvier 1986 - art. 8 () JORF 8 janvier 1986
+
+**Liens**:
+
+  - TXT_SOURCE: Code des assurances - art. A211-2 (Ab)
+  - TXT_SOURCE: Code des assurances - art. L211-1 (M)
+
+_Cite_:
+
+  - Code des assurances - art. L113-9 (V)
+  - Code des assurances - art. R*211-10 (M)
+  - Code des assurances - art. R*211-11 (M)
+  - Code des assurances - art. R212-7 (M)
+
+_Cité par_:
+
+  - Code des assurances - art. R*420-50 (T)
+  - Code des assurances - art. R*421-50 (Ab)
+  - Code des assurances - art. R211-9 (Ab)
+  - Code des assurances - art. R421-24-1 (Ab)
+
+_Anciens textes_:
+
+  - Décret n°59-135 1959-01-07 art. 13
+
+
+###### Article R211-13-1
+
+Le contrat peut comporter une clause prévoyant une action en remboursement contre le conducteur responsable du sinistre,
+lorsque la garde ou la conduite a été obtenue contre le gré du propriétaire ou du locataire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-667 1976-07-16
+
+_Créé par_:
+
+  - Décret n°86-21 du 7 janvier 1986 - art. 9 () JORF 8 janvier 1986
+
+_Abrogé par_:
+
+  - Décret n°93-581 du 26 mars 1993 - art. 1 (V) JORF 28 mars 1993
+
+_Cité par_:
+
+  - Décret n°93-581 du 26 mars 1993 - art. 1 (V)
 
 
 ##### Section IV : Contrôle de l'obligation d'assurance.<a id=195></a>
