@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-04-06
+Version Consolidée au 2005-05-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -515,52 +515,51 @@ Version Consolidée au 2005-04-06
         - [Chapitre II : La comptabilité des entreprises d'assurance et de capitalisation (art. A342-1 à A342-8)](#512)
           - [Section I : Dispositions générales. (art. A342-1)](#513)
           - [Section II : Documents et registres comptables. (art. A342-2 à A342-4)](#514)
-          - [Section II : Documents et registres comptables. (art. A342-3)](#515)
-          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-5 à A342-7)](#516)
-          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance. (art. A342-9)](#517)
-          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance. (art. A342-8)](#518)
-        - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation. (art. A343-1 à Annexe art A343-1 (al 3))](#519)
-        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#520)
-          - [Section I : Dispositions générales. (art. A344-1)](#521)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#522)
-          - [Section III : Etats à produire. (art. A344-3 à A344-15)](#523)
-          - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#524)
-            - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#525)
-      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#526)
-        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#527)
-          - [Section II : Conditions d'exercice (art. A353-1)](#528)
-      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. A362-1 à A362-2)](#529)
-        - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#530)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#531)
-      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#532)
-        - [Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages (art. A421-1 à A421-4)](#533)
-          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. (art. A421-1)](#534)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#535)
-          - [Section IV : Régime financier du fonds de garantie. (art. A421-2 à A421-4)](#536)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2 à A421-3)](#537)
-            - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. A421-4)](#538)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#539)
-      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#540)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#541)
-          - [Section I : Dispositions générales. (art. A431-1)](#542)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#543)
-            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#544)
-          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#545)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#546)
-            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#547)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#548)
-          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#549)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#550)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#551)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#552)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#553)
-          - [Section II : Règles techniques et comptables. (art. A441-4-1 à A441-6)](#554)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#555)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#556)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#557)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#558)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#559)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#560)
+          - [Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances. (art. A342-5 à A342-7)](#515)
+          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance. (art. A342-9)](#516)
+          - [Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance. (art. A342-8)](#517)
+        - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation. (art. A343-1 à Annexe art A343-1 (al 3))](#518)
+        - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#519)
+          - [Section I : Dispositions générales. (art. A344-1)](#520)
+          - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#521)
+          - [Section III : Etats à produire. (art. A344-3 à A344-15)](#522)
+          - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#523)
+            - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#524)
+      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#525)
+        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#526)
+          - [Section II : Conditions d'exercice (art. A353-1)](#527)
+      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. A362-1 à A362-2)](#528)
+        - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#529)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#530)
+      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#531)
+        - [Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages (art. A421-1 à A421-4)](#532)
+          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. (art. A421-1)](#533)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#534)
+          - [Section IV : Régime financier du fonds de garantie. (art. A421-2 à A421-4)](#535)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2 à A421-3)](#536)
+            - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. A421-4)](#537)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#538)
+      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#539)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#540)
+          - [Section I : Dispositions générales. (art. A431-1)](#541)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#542)
+            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#543)
+          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#544)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#545)
+            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#546)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#547)
+          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#548)
+            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#549)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#550)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#551)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#552)
+          - [Section II : Règles techniques et comptables. (art. A441-4-1 à A441-6)](#553)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#554)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#555)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#556)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#557)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#558)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#559)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -77908,6 +77907,72 @@ _Cité par_:
   - Code des assurances - art. A343-1 (M)
 
 
+###### Article A342-3
+
+Pour l'application de l'article R. 341-7, sont considérés comme opérations en devises :
+
+- les mouvements d'actifs monétaires et règlements en devises ;
+
+- les charges facturées ou contractuellement libellées en devises ;
+
+- les produits facturés ou contractuellement libellés en devises ;
+
+- les provisions techniques libellées en devises en application de l'article R. 331-1-1 ;
+
+- les dettes et emprunts de toute nature libellés en devises ;
+
+- les créances et prêts de toute nature libellés en devises ;
+
+- les acquisitions, cessions et autres opérations sur immeubles localisés dans des Etats où les transactions s'effectuent
+normalement dans une monnaie autre que l'unité euro, et sur parts de sociétés immobilières non cotées détenant de tels
+immeubles, à proportion de la valeur de ces immeubles ;
+
+- les opérations sur titres de créance non amortissables, et titres de propriété ou assimilés autres que les titres de
+propriétés immobilières mentionnés ci-dessus lorsque la monnaie de négociation n'est pas l'unité euro ;
+
+- les engagements pris ou reçus lorsque la réalisation de l'engagement constituerait une opération en devises au sens du
+présent article ;
+
+- les amortissements dépréciations et provisions ainsi que les remboursements se rapportant à des opérations en devises au
+sens du présent article.
+
+Les dispositions du précédent alinéa ne s'appliquent pas aux opérations sur éléments d'actif ou de passif inscrits en francs
+français au bilan du premier exercice ouvert à compter du 1er janvier 1994.
+
+Les opérations portant sur des titres représentatifs d'une participation au sens de l'article 20 du décret n° 83-1020 du 29
+novembre 1983 peuvent être considérées comme opérations en euros, même si la monnaie de négociation est une devise, lorsque
+les titres ont vocation à être détenus de manière durable en raison de liens à caractère stratégique existant avec la société
+émettrice, et que la possession de ces titres permet d'exercer une influence notable sur la société émettrice ou d'en assurer
+le contrôle.
+
+Les dotations et reprises sur la réserve de capitalisation sont toujours des opérations en euros y compris lorsque la cession
+qui donne lieu à la dotation ou à la reprise est une opération en devises. La conversion est effectuée d'après les cours de
+change au comptant constatés à la date de la clôture des comptes ou, à défaut, à la date antérieure la plus proche. La
+dotation et la reprise annuelle sur la provision pour exigibilité des engagements techniques sont toujours des opérations en
+euros. Pour le calcul de la provision pour perte de change, les situations par devise des différences de conversion actif et
+passif peuvent être compensées entre toutes devises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 2005-04-22 art. 3 JORF 5 mai 2005
+
+_Cite_:
+
+  - Décret n°83-1020 du 29 novembre 1983 - art. 20 (Ab)
+  - Code des assurances - art. R*341-7 (M)
+  - Code des assurances - art. R331-1-1 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des assurances - art. R*331-17 (Ab)
+
+
 ###### Article A342-4
 
 Un inventaire permanent des placements doit être tenu, dans les conditions suivantes :
@@ -77942,76 +78007,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 2 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-##### Section II : Documents et registres comptables.<a id=515></a>
-
-###### Article A342-3
-
-Pour l'application de l'article R. 341-7, sont considérés comme opérations en devises :
-
-- les mouvements d'actifs monétaires et règlements en devises ;
-
-- les charges facturées ou contractuellement libellées en devises ;
-
-- les produits facturés ou contractuellement libellés en devises ;
-
-- les provisions techniques libellées en devises en application de l'article R. 331-1-1 ;
-
-- les dettes et emprunts de toute nature libellés en devises ;
-
-- les créances et prêts de toute nature libellés en devises ;
-
-- les acquisitions, cessions et autres opérations sur immeubles localisés dans des Etats où les transactions s'effectuent
-normalement dans une monnaie autre que l'unité euro, et sur parts de sociétés immobilières non cotées détenant de tels
-immeubles, à proportion de la valeur de ces immeubles ;
-
-- les opérations sur titres de créance non amortissables, et titres de propriété ou assimilés autres que les titres de
-propriétés immobilières mentionnés ci-dessus lorsque la monnaie de négociation n'est pas l'unité euro ;
-
-- les engagements pris ou reçus lorsque la réalisation de l'engagement constituerait une opération en devises au sens du
-présent article ;
-
-- les amortissements et provisions pour dépréciation ou risques et charges ainsi que les remboursements se rapportant à des
-opérations en devises au sens du présent article.
-
-Les dispositions du précédent alinéa ne s'appliquent pas aux opérations sur éléments d'actif ou de passif inscrits en euros
-au bilan du premier exercice ouvert à compter du 1er janvier 1994.
-
-Les opérations portant sur des titres représentatifs d'une participation au sens de l'article 20 du décret n° 83-1020 du 29
-novembre 1983 peuvent être considérées comme opérations en francs, même si la monnaie de négociation est une devise, lorsque
-les titres ont vocation à être détenus de manière durable en raison de liens à caractère stratégique existant avec la société
-émettrice, et que la possession de ces titres permet d'exercer une influence notable sur la société émettrice ou d'en assurer
-le contrôle.
-
-Les dotations et reprises sur la réserve de capitalisation sont toujours des opérations en euros y compris lorsque la cession
-qui donne lieu à la dotation ou à la reprise est une opération en devises. La conversion est effectuée d'après les cours de
-change au comptant constatés à la date de la clôture des comptes ou, à défaut, à la date antérieure la plus proche. La
-dotation et la reprise annuelle sur la provision pour exigibilité des engagements techniques sont toujours des opérations en
-euros. Pour le calcul de la provision pour perte de change, les situations par devise des différences de conversion actif et
-passif peuvent être compensées entre toutes devises.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1998-12-24 art. 3 (modalités d'application - date d'effet)
-  - TXT_ASSOCIE: Code des assurances - art. R*331-17 (Ab)
-
-_Modifié par_:
-
-  - Arrêté 2001-09-03 art. 2 I a JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-_Cite_:
-
-  - Décret n°83-1020 du 29 novembre 1983 - art. 20 (Ab)
-  - Code des assurances - art. R*341-7 (M)
-  - Code des assurances - art. R331-1-1 (V)
-
-
-##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=516></a>
+##### Section III : Tenue de documents relatifs aux contrats, sinistres, réassurances.<a id=515></a>
 
 ###### Article A342-5
 
@@ -78125,7 +78121,7 @@ _Créé par_:
   - Arrêté 1994-06-20 art. 3 JORF 19 juillet 1994 en vigueur le 1er janvier 1995
 
 
-##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance.<a id=517></a>
+##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurance et acceptations en réassurance.<a id=516></a>
 
 ###### Article A342-9
 
@@ -78153,7 +78149,7 @@ _Cité par_:
   - Arrêté du 11 septembre 1995 - art. 6 (V)
 
 
-##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance.<a id=518></a>
+##### Section IV : Dispositions particulières aux opérations de coassurance, coréassurances et acceptations en réassurance.<a id=517></a>
 
 ###### Article A342-8
 
@@ -78183,7 +78179,7 @@ _Modifié par_:
   - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 
-#### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation.<a id=519></a>
+#### Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation.<a id=518></a>
 
 ###### Article A343-1
 
@@ -79735,9 +79731,9 @@ _Cite_:
   - Code des assurances - art. R332-7-1 (V)
 
 
-#### Chapitre IV : Catégories d'assurance et états à produire<a id=520></a>
+#### Chapitre IV : Catégories d'assurance et états à produire<a id=519></a>
 
-##### Section I : Dispositions générales.<a id=521></a>
+##### Section I : Dispositions générales.<a id=520></a>
 
 ###### Article A344-1
 
@@ -79765,7 +79761,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section II : Définition des catégories et sous-catégories.<a id=522></a>
+##### Section II : Définition des catégories et sous-catégories.<a id=521></a>
 
 ###### Article A344-2
 
@@ -79895,7 +79891,7 @@ _Cite_:
   - Code des assurances - art. L441-1 (M)
 
 
-##### Section III : Etats à produire.<a id=523></a>
+##### Section III : Etats à produire.<a id=522></a>
 
 ###### Article A344-3
 
@@ -80386,7 +80382,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
-##### Section III : Etats à produire.<a id=524></a>
+##### Section III : Etats à produire.<a id=523></a>
 
 ###### Article A344-4
 
@@ -88238,7 +88234,7 @@ _Abrogé par_:
   - Arrêté du 28 décembre 2015 - art. 2
 
 
-##### Annexes A344-10  : ETATS<a id=525></a>
+##### Annexes A344-10  : ETATS<a id=524></a>
 
 ###### Article Annexe A344-10 ETAT C1
 
@@ -97255,11 +97251,11 @@ _Cite_:
   - Code des assurances - art. L310-1 (V)
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=526></a>
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=525></a>
 
-#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=527></a>
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=526></a>
 
-##### Section II : Conditions d'exercice<a id=528></a>
+##### Section II : Conditions d'exercice<a id=527></a>
 
 ###### Article A353-1
 
@@ -97295,9 +97291,9 @@ _Cite_:
   - Code des assurances - art. L353-4
 
 
-### Titre VI : Libre établissement et libre prestation de services communautaires<a id=529></a>
+### Titre VI : Libre établissement et libre prestation de services communautaires<a id=528></a>
 
-#### Chapitre II : Conditions d'exercice.<a id=530></a>
+#### Chapitre II : Conditions d'exercice.<a id=529></a>
 
 ###### Article A362-1
 
@@ -97406,15 +97402,15 @@ _Cite_:
   - Code des assurances - art. R321-1 (V)
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=531></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=530></a>
 
-### Titre II : Le fonds de garantie<a id=532></a>
+### Titre II : Le fonds de garantie<a id=531></a>
 
-#### Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages<a id=533></a>
+#### Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages<a id=532></a>
 
-##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte.<a id=534></a>
+##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte.<a id=533></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=535></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=534></a>
 
 ###### Article A421-1
 
@@ -97559,9 +97555,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R420-69
 
 
-##### Section IV : Régime financier du fonds de garantie.<a id=536></a>
+##### Section IV : Régime financier du fonds de garantie.<a id=535></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=537></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=536></a>
 
 ###### Article A421-2
 
@@ -97653,7 +97649,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.<a id=538></a>
+##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.<a id=537></a>
 
 ###### Article A421-4
 
@@ -97691,7 +97687,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 B (P)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=539></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=538></a>
 
 ###### Article A422-1
 
@@ -97716,11 +97712,11 @@ _Cite_:
   - Code des assurances - art. R422-4 (V)
 
 
-### Titre III : Organismes particuliers d'assurance<a id=540></a>
+### Titre III : Organismes particuliers d'assurance<a id=539></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=541></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=540></a>
 
-##### Section I : Dispositions générales.<a id=542></a>
+##### Section I : Dispositions générales.<a id=541></a>
 
 ###### Article A431-1
 
@@ -97753,9 +97749,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R431-19
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=543></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=542></a>
 
-##### Paragraphe 4 : Risques d'attentat.<a id=544></a>
+##### Paragraphe 4 : Risques d'attentat.<a id=543></a>
 
 ###### Article A431-5
 
@@ -97806,9 +97802,9 @@ _Cite_:
   - Code des assurances - art. L431-10 (V)
 
 
-##### Section III : Opérations de gestion.<a id=545></a>
+##### Section III : Opérations de gestion.<a id=544></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=546></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=545></a>
 
 ###### Article A431-7
 
@@ -97954,7 +97950,7 @@ _Cite_:
   - Loi n°64-706 du 10 juillet 1964 - art. 5 (Ab)
 
 
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=547></a>
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=546></a>
 
 ###### Article A431-8
 
@@ -98115,11 +98111,11 @@ _Cite_:
   - Code des assurances - art. A335-1 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=548></a>
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=547></a>
 
-##### Section III : Risques garantis.<a id=549></a>
+##### Section III : Risques garantis.<a id=548></a>
 
-##### Paragraphe 6 : Dispositions communes.<a id=550></a>
+##### Paragraphe 6 : Dispositions communes.<a id=549></a>
 
 ###### Article A432-1
 
@@ -98364,11 +98360,11 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=551></a>
+### Titre IV : Régimes particuliers d'assurance<a id=550></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=552></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=551></a>
 
-##### Section II : Règles techniques et comptables.<a id=553></a>
+##### Section II : Règles techniques et comptables.<a id=552></a>
 
 ###### Article A441-1
 
@@ -98505,7 +98501,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
-##### Section II : Règles techniques et comptables.<a id=554></a>
+##### Section II : Règles techniques et comptables.<a id=553></a>
 
 ###### Article A441-4-1
 
@@ -98571,11 +98567,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=555></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=554></a>
 
-### Titre Ier : Présentation des opérations.<a id=556></a>
+### Titre Ier : Présentation des opérations.<a id=555></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=557></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=556></a>
 
 ###### Article A513-1
 
@@ -98750,9 +98746,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R513-2 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=558></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=557></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=559></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=558></a>
 
 ###### Article A514-1
 
@@ -98809,7 +98805,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=560></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=559></a>
 
 ###### Article A516-1
 
