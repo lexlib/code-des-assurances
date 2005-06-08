@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-06-01
+Version Consolidée au 2005-06-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -66,8 +66,8 @@ Version Consolidée au 2005-06-01
           - [Section I : Dispositions particulières aux départements d'outre-mer. (art. L214-1)](#63)
       - [Titre II : L'assurance des engins de remontée mécanique (art. L220-1 à L220-8)](#64)
         - [Chapitre unique. (art. L220-1 à L220-8)](#65)
-      - [Titre IV : L'assurance des travaux du bâtiment (art. L241-1 à L243-8)](#66)
-        - [Chapitre I : L'assurance de responsabilité obligatoire. (art. L241-1 à L241-2)](#67)
+      - [Titre IV : L'assurance des travaux de construction (art. L241-1 à L243-8)](#66)
+        - [Chapitre Ier : L'assurance de responsabilité obligatoire. (art. L241-1 à L241-2)](#67)
         - [Chapitre II : L'assurance de dommages obligatoire. (art. L242-1 à L242-2)](#68)
         - [Chapitre III : Dispositions communes. (art. L243-1 à L243-8)](#69)
       - [Titre V : L'assurance de responsabilité civile médicale (art. L251-1 à L252-2)](#70)
@@ -9002,38 +9002,32 @@ _Codifié par_:
   - Décret n°76-666 1976-07-16
 
 
-### Titre IV : L'assurance des travaux du bâtiment<a id=66></a>
+### Titre IV : L'assurance des travaux de construction<a id=66></a>
 
-#### Chapitre I : L'assurance de responsabilité obligatoire.<a id=67></a>
+#### Chapitre Ier : L'assurance de responsabilité obligatoire.<a id=67></a>
 
 ###### Article L241-1
 
-Toute personne physique ou morale, dont la responsabilité peut être engagée sur le fondement de la présomption établie par
-les articles 1792 et suivants du code civil à propos de travaux de bâtiment, doit être couverte par une assurance.
+Toute personne physique ou morale, dont la responsabilité décennale peut être engagée sur le fondement de la présomption
+établie par les articles 1792 et suivants du code civil, doit être couverte par une assurance.
 
 A l'ouverture de tout chantier, elle doit être en mesure de justifier qu'elle a souscrit un contrat d'assurance la couvrant
-pour cette responsabilité.
+pour cette responsabilité. 
 
 Tout contrat d'assurance souscrit en vertu du présent article est, nonobstant toute stipulation contraire, réputé comporter
-une clause assurant le maintien de la garantie pour la durée de la responsabilité pesant sur la personne assujettie à
-l'obligation d'assurance.
+une clause assurant le maintien de la garantie pour la durée de la responsabilité décennale pesant sur la personne assujettie
+à l'obligation d'assurance.
+
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
-  - SPEC_APPLI: Code des assurances - art. L243-1 (M)
-  - TXT_ASSOCIE: Code des assurances - art. L243-3 (M)
-
-_Créé par_:
-
-  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
 
 _Cité par_:
 
@@ -9067,6 +9061,11 @@ _Cité par_:
   - Code des assurances - art. R250-1 (V)
   - Code des assurances - art. R250-2 (V)
 
+_Modifié par_:
+
+  - Ordonnance 2005-658 2005-06-08 art. 3 I, II, III JORF 9 juin 2005
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
+
 _Cite_:
 
   - Code civil - art. 1792 (V)
@@ -9074,27 +9073,21 @@ _Cite_:
 
 ###### Article L241-2
 
-Celui qui fait réaliser pour le compte d'autrui des travaux de bâtiment mentionnés à l'article précédent doit être couvert
-par une assurance de responsabilité garantissant les dommages visés aux articles 1792 et 1792-2 du code civil et résultant de
-son fait.
+Celui qui fait réaliser pour le compte d'autrui des travaux de construction doit être couvert par une assurance de
+responsabilité garantissant les dommages visés aux articles 1792 et 1792-2 du code civil et résultant de son fait. 
 
-Il en est de même lorsque les bâtiments sont construits en vue de la vente.
+Il en est de même lorsque les travaux de construction sont réalisés en vue de la vente.
+
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
-  - TXT_ASSOCIE: Code des assurances - art. L243-3 (M)
-
-_Créé par_:
-
-  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
 
 _Cité par_:
 
@@ -9114,10 +9107,14 @@ _Cité par_:
   - Code des assurances - art. R241-2 (T)
   - Code des assurances - art. R243-2 (V)
 
+_Modifié par_:
+
+  - Ordonnance 2005-658 2005-06-08 art. 3 I, IV, V JORF 9 juin 2005
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
+
 _Cite_:
 
   - Code civil - art. 1792 (V)
-  - Code civil - art. 1792-2 (M)
 
 
 #### Chapitre II : L'assurance de dommages obligatoire.<a id=68></a>
@@ -9125,7 +9122,7 @@ _Cite_:
 ###### Article L242-1
 
 Toute personne physique ou morale qui, agissant en qualité de propriétaire de l'ouvrage, de vendeur ou de mandataire du
-propriétaire de l'ouvrage, fait réaliser des travaux de bâtiment, doit souscrire avant l'ouverture du chantier, pour son
+propriétaire de l'ouvrage, fait réaliser des travaux de construction, doit souscrire avant l'ouverture du chantier, pour son
 compte ou pour celui des propriétaires successifs, une assurance garantissant, en dehors de toute recherche des
 responsabilités, le paiement de la totalité des travaux de réparation des dommages de la nature de ceux dont sont
 responsables les constructeurs au sens de l'article 1792-1, les fabricants et importateurs ou le contrôleur technique sur le
@@ -9133,7 +9130,7 @@ fondement de l'article 1792 du code civil.
 
 Toutefois, l'obligation prévue au premier alinéa ci-dessus ne s'applique ni aux personnes morales de droit public ni aux
 personnes morales exerçant une activité dont l'importance dépasse les seuils mentionnés au dernier alinéa de l'article L.
-111-6, lorsque ces personnes font réaliser pour leur compte des travaux de bâtiment pour un usage autre que l'habitation.
+111-6, lorsque ces personnes font réaliser pour leur compte des travaux de construction pour un usage autre que l'habitation.
 
 L'assureur a un délai maximal de soixante jours, courant à compter de la réception de la déclaration du sinistre, pour
 notifier à l'assuré sa décision quant au principe de la mise en jeu des garanties prévues au contrat.
@@ -9168,6 +9165,11 @@ Après la réception, après mise en demeure restée infructueuse, l'entrepreneu
 Toute entreprise d'assurance agréée dans les conditions fixées par l'article L. 321-1, même si elle ne gère pas les risques
 régis par les articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les risques prévus au présent
 article.
+
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -9216,17 +9218,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 30 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code civil - art. 1792 (V)
-  - Code civil - art. 1792-1 (V)
-  - Code civil - art. 1792-6 (V)
-  - Code des assurances - art. L111-6 (V)
-  - Code des assurances - art. L241-1 (M)
-  - Code des assurances - art. L241-2 (M)
-  - Code des assurances - art. L321-1 (M)
+  - Ordonnance 2005-658 2005-06-08 art. 3 I, VI JORF 9 juin 2005
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
 
 **Liens**:
 
@@ -9239,32 +9232,32 @@ Dans les cas prévus par les articles 1831-1 à 1831-5 du code civil relatifs au
 par les articles L. 222-1 à L. 222-5 du code de la construction et de l'habitation les obligations définies aux articles L.
 241-2 et L. 242-1 incombent au promoteur immobilier.
 
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
-
-_Créé par_:
-
-  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
-
 _Cité par_:
 
   - Arrêté du 30 mai 1997 - art. 3 (V)
   - Arrêté du 7 février 2001 - art. 3 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
+
 _Cite_:
 
-  - Code civil 1831-1 à 1831-5
-  - Code des assurances - art. L241-2 (M)
-  - Code des assurances - art. L242-1 (M)
-  - Code de la construction et de l'habitation L222-1 à L222-5
+  - Code civil - art. 1831-1 (V)
+  - Code des assurances - art. L241-2 (V)
+  - Code des assurances - art. L242-1 (V)
+  - Code de la construction et de l'habitation. - art. L222-1 (V)
 
 
 #### Chapitre III : Dispositions communes.<a id=69></a>
@@ -9273,27 +9266,77 @@ _Cite_:
 
 Les obligations d'assurance ne s'appliquent pas à l'Etat lorsqu'il construit pour son compte.
 
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-  - SPEC_APPLI: Code des assurances - art. L241-1 (M)
-  - TXT_SOURCE: Code des assurances - art. R*243-1 (Ab)
-
 _Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 47 () JORF 3 janvier 1990 le 1er juillet 1990
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. L111-32 (V)
   - Code des assurances - art. R*241-1 (T)
   - Code des assurances - art. R*243-1 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des assurances - art. L241-1 (M)
+  - TXT_SOURCE: Code des assurances - art. R*243-1 (Ab)
+
+
+###### Article L243-1-1
+
+I. - Ne sont pas soumis aux obligations d'assurance édictées par les articles L. 241-1, L. 241-2, et L. 242-1 les ouvrages
+maritimes, lacustres, fluviaux, les ouvrages d'infrastructures routières, portuaires, aéroportuaires, héliportuaires,
+ferroviaires, les ouvrages de traitement de résidus urbains, de déchets industriels et d'effluents, ainsi que les éléments
+d'équipement de l'un ou l'autre de ces ouvrages.
+
+Les voiries, les ouvrages piétonniers, les parcs de stationnement, les réseaux divers, les canalisations, les lignes ou
+câbles et leurs supports, les ouvrages de transport, de production, de stockage et de distribution d'énergie, les ouvrages de
+télécommunications, les ouvrages sportifs non couverts, ainsi que leurs éléments d'équipement, sont également exclus des
+obligations d'assurance mentionnées au premier alinéa, sauf si l'ouvrage ou l'élément d'équipement est accessoire à un
+ouvrage soumis à ces obligations d'assurance.
+
+II. - Ces obligations d'assurance ne sont pas applicables aux ouvrages existants avant l'ouverture du chantier, à l'exception
+de ceux qui, totalement incorporés dans l'ouvrage neuf, en deviennent techniquement indivisibles.
+
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
+
+_Cité par_:
+
+  - Arrêté du 8 septembre 2009 - art. 9 (VD)
+  - Code de la construction et de l'habitation. - art. L111-32-1 (V)
+  - Code des assurances - art. A243-3 (VD)
+  - Code des assurances - art. A243-4 (VD)
+  - Code des assurances - art. Annexe I art A243-1 (V)
+  - Code des assurances - art. Annexe II art A243-1 (VD)
+  - Code des assurances - art. Annexe III art A243-1 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L111-32-1 (V)
 
 
 ###### Article L243-2
@@ -9306,25 +9349,20 @@ transférer la propriété ou la jouissance du bien, quelle que soit la nature d
 l'exception toutefois des baux à loyer, mention doit être faite dans le corps de l'acte ou en annexe de l'existence ou de
 l'absence d'assurance.
 
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
-
-_Créé par_:
-
-  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
-
-_Cite_:
-
-  - Code civil - art. 2270 (M)
-  - Code des assurances L241-1 à L242-1
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
 
 _Cité par_:
 
@@ -9338,10 +9376,15 @@ _Cité par_:
 ###### Article L243-3
 
 Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du présent code sera puni d'un emprisonnement de six
-mois et d'une amende de 75 000 euros ou de l'une de ces deux peines seulement.
+mois et d'une amende de 75 000 euros ou de l'une de ces deux peines seulement. 
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne physique construisant un logement pour l'occuper
 elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
+
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -9351,7 +9394,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
 
 **Liens**:
 
@@ -9361,7 +9404,7 @@ _Modifié par_:
 
 _Cite_:
 
-  - Code des assurances L241-1 à L242-1
+  - Code des assurances - art. L241-1 (V)
 
 
 ###### Article L243-4
@@ -9375,20 +9418,20 @@ Le bureau central de tarification a pour rôle exclusif de fixer le montant de l
 d'assurance intéressée est tenue de garantir le risque qui lui a été proposé. Il peut déterminer le montant d'une franchise
 qui reste à la charge de l'assuré.
 
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
-
-_Créé par_:
-
-  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
 
 _Cité par_:
 
@@ -9403,20 +9446,20 @@ _Cité par_:
 Est nulle toute clause des traités de réassurance tendant à exclure certains risques de la garantie de réassurance en raison
 de la tarification adoptée par le bureau central de tarification.
 
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
-
-_Créé par_:
-
-  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
 
 _Cité par_:
 
@@ -9429,32 +9472,38 @@ Toute entreprise d'assurance qui maintient son refus de garantir un risque dont 
 tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait de
 l'agrément administratif prévu par l'article L. 321-1 du présent code.
 
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
 
 _Cite_:
 
-  - Code des assurances - art. L321-1 (M)
+  - Code des assurances - art. L321-1 (V)
 
 
 ###### Article L243-7
 
 Les dispositions de l'article L. 113-16 et du deuxième alinéa de l'article L. 121-10 du présent code ne sont pas applicables
-aux assurances obligatoires prévues par le présent titre.
+aux assurances obligatoires prévues par le présent titre. 
 
 Les victimes des dommages prévus par la loi n° 78-12 du 4 janvier 1978 ont la possibilité d'agir directement contre
 l'assureur du responsable desdits dommages si ce dernier est en règlement judiciaire ou en liquidation de biens.
+
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -9464,20 +9513,18 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°78-12 1978-01-04
-  - Code des assurances - art. L113-16 (M)
-  - Code des assurances - art. L121-10 (M)
+  - Loi n°78-12 du 4 janvier 1978 (V)
+  - Code des assurances - art. L113-16 (V)
+  - Code des assurances - art. L121-10 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
   - SPEC_APPLI: Code des assurances - art. L113-16 (M)
   - SPEC_APPLI: Code des assurances - art. L121-10 (M)
-
-_Créé par_:
-
-  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
 
 
 ###### Article L243-8
@@ -9486,6 +9533,11 @@ Tout contrat d'assurance souscrit par une personne assujettie à l'obligation d'
 nonobstant toute clause contraire, réputé comporter des garanties au moins équivalentes à celles figurant dans les clauses
 types prévues par l'article L. 310-7 du présent code.
 
+**Nota:**
+
+Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
+s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -9494,18 +9546,16 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°78-12 1978-01-04 art. 12, art. 14
-  - SPEC_APPLI: Loi n°78-12 du 4 janvier 1978 - art. 14 (V)
   - TXT_SOURCE: Arrêté du 27 décembre 1982
   - TXT_SOURCE: Arrêté du 27 décembre 1982 - art. 2 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°78-12 du 4 janvier 1978 - art. 12 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
 
 _Cite_:
 
-  - Code des assurances - art. L310-7 (M)
+  - Code des assurances - art. L310-7 (V)
 
 
 ### Titre V : L'assurance de responsabilité civile médicale<a id=70></a>
