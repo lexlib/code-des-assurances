@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-06-09
+Version Consolidée au 2005-06-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
