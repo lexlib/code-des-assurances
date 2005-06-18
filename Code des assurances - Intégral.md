@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-06-10
+Version Consolidée au 2005-06-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -525,45 +525,44 @@ Version Consolidée au 2005-06-10
         - [Chapitre III : Plan comptable particulier à l'assurance et à la capitalisation. (art. A343-1 à Annexe art A343-1 (al 3))](#522)
         - [Chapitre IV : Catégories d'assurance et états à produire (art. A344-1 à Annexe A344-10 ETAT C31)](#523)
           - [Section I : Dispositions générales. (art. A344-1)](#524)
-          - [Section II : Définition des catégories et sous-catégories. (art. A344-2)](#525)
-          - [Section III : Etats à produire. (art. A344-3 à A344-15)](#526)
-          - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#527)
-            - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#528)
-      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#529)
-        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#530)
-          - [Section II : Conditions d'exercice (art. A353-1)](#531)
-      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. A362-1 à A362-2)](#532)
-        - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#533)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#534)
-      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#535)
-        - [Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages (art. A421-1 à A421-4)](#536)
-          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. (art. A421-1)](#537)
-            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#538)
-          - [Section IV : Régime financier du fonds de garantie. (art. A421-2 à A421-4)](#539)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2 à A421-3)](#540)
-            - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. A421-4)](#541)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#542)
-      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#543)
-        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#544)
-          - [Section I : Dispositions générales. (art. A431-1)](#545)
-          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#546)
-            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#547)
-          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#548)
-            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#549)
-            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#550)
-        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#551)
-          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#552)
-            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#553)
-      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#554)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#555)
-          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#556)
-          - [Section II : Règles techniques et comptables. (art. A441-4-1 à A441-6)](#557)
-    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#558)
-      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#559)
-        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#560)
-        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#561)
-          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#562)
-        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#563)
+          - [Section III : Etats à produire. (art. A344-3 à A344-15)](#525)
+          - [Section III : Etats à produire. (art. A344-4 à Annexe A344-10 ETAT C31)](#526)
+            - [Annexes A344-10  : ETATS (art. Annexe A344-10 ETAT C1 à Annexe A344-10 ETAT C31)](#527)
+      - [Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire (art. A353-1)](#528)
+        - [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation (art. A353-1)](#529)
+          - [Section II : Conditions d'exercice (art. A353-1)](#530)
+      - [Titre VI : Libre établissement et libre prestation de services communautaires (art. A362-1 à A362-2)](#531)
+        - [Chapitre II : Conditions d'exercice. (art. A362-1 à A362-2)](#532)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. A421-1 à A441-6)](#533)
+      - [Titre II : Le fonds de garantie (art. A421-1 à A422-1)](#534)
+        - [Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages (art. A421-1 à A421-4)](#535)
+          - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. (art. A421-1)](#536)
+            - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1)](#537)
+          - [Section IV : Régime financier du fonds de garantie. (art. A421-2 à A421-4)](#538)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2 à A421-3)](#539)
+            - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. A421-4)](#540)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. A422-1)](#541)
+      - [Titre III : Organismes particuliers d'assurance (art. A431-1 à A432-9)](#542)
+        - [Chapitre Ier : La caisse centrale de réassurance. (art. A431-1 à A431-9)](#543)
+          - [Section I : Dispositions générales. (art. A431-1)](#544)
+          - [Section II : Opérations effectuées avec la garantie de l'Etat. (art. A431-5 à A431-6)](#545)
+            - [Paragraphe 4 : Risques d'attentat. (art. A431-5 à A431-6)](#546)
+          - [Section III : Opérations de gestion. (art. A431-7 à A431-9)](#547)
+            - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. A431-7)](#548)
+            - [Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur. (art. A431-8 à A431-9)](#549)
+        - [Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE) (art. A432-1 à A432-9)](#550)
+          - [Section III : Risques garantis. (art. A432-1 à A432-9)](#551)
+            - [Paragraphe 6 : Dispositions communes. (art. A432-1 à A432-9)](#552)
+      - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#553)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#554)
+          - [Section II : Règles techniques et comptables. (art. A441-1 à A441-5)](#555)
+          - [Section II : Règles techniques et comptables. (art. A441-4-1 à A441-6)](#556)
+    - [Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation (art. A513-1 à A516-2)](#557)
+      - [Titre Ier : Présentation des opérations. (art. A513-1 à A516-2)](#558)
+        - [Chapitre III : Conditions de capacité professionnelle. (art. A513-1 à A513-2)](#559)
+        - [Chapitre IV : Contrôle des conditions de présentation (art. A514-1)](#560)
+          - [Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation. (art. A514-1)](#561)
+        - [Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France. (art. A516-1 à A516-2)](#562)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -46223,24 +46222,25 @@ _Cité par_:
 
 ###### Article R442-5
 
-Les commissaires du Gouvernement assistent à toutes les séances du conseil d'administration ou des comités qui pourraient
-être institués par ce conseil. Ils peuvent prendre connaissance, à tout moment, de la comptabilité de l'établissement, ainsi
-que de tout document ou information nécessaires à l'exécution de leur mission.
+La société transmet aux commissaires du Gouvernement copie des documents et informations transmis aux membres du conseil
+d'administration et ce dans les mêmes délais.
 
-Ils peuvent demander une deuxième délibération du conseil d'administration ou exercer un droit de veto :
+La société porte notamment à la connaissance des commissaires du Gouvernement, préalablement aux réunions du conseil
+d'administration dont l'ordre du jour comprend la désignation du président du conseil d'administration de la société, la
+nomination du directeur général ou celle du directeur général délégué, s'il en existe un, ayant dans ses compétences la
+gestion des activités pour le compte de l'Etat, l'ensemble des informations qu'elle détient sur les personnes pressenties.
+Elle porte également à la connaissance des commissaires du Gouvernement, préalablement aux réunions de l'assemblée générale
+des actionnaires dont l'ordre du jour comprend la désignation d'administrateurs, l'ensemble des informations qu'elle détient
+sur les personnes pressenties. Ces informations sont transmises au plus tard cinq jours francs avant la réunion du conseil
+d'administration ou de l'assemblée générale des actionnaires.
 
-- sur la nomination du président du conseil d'administration de la société ;
+Les commissaires du Gouvernement peuvent prendre connaissance, à tout moment, de la comptabilité de l'établissement, ainsi
+que de tout document ou information nécessaire à l'exécution de leur mission.
 
-- sur la nomination du directeur général ayant dans ses compétences la gestion des activités pour le compte de l'Etat s'il en
-existe un ;
-
-- sur toute décision relative à la garantie de l'Etat ou de nature à compromettre l'exercice des responsabilités confiées par
-l'Etat à la société.
-
-Cette deuxième délibération a lieu au plus tôt quinze jours francs après la réunion du conseil d'administration.
-
-En cas de veto, la société dispose d'un délai de huit jours pour faire appel devant le ministre chargé de l'économie qui est
-tenu de se prononcer dans les dix jours.
+Les commissaires du Gouvernement peuvent s'opposer à toute décision relative à la garantie de l'Etat ou de nature à
+compromettre l'exercice des responsabilités confiées par l'Etat à la société, dans un délai de dix jours suivant la
+transmission qui leur est faite de cette décision. En cas d'opposition, la société dispose d'un délai de huit jours pour
+faire appel devant le ministre chargé de l'économie, qui dispose d'un délai de dix jours pour confirmer cette opposition.
 
 **Liens relatifs à cet article**
 
@@ -46248,13 +46248,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-_Créé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+  - Décret n°2004-560 du 11 juin 2004 - art. 1 () JORF 19 juin 2004
 
 _Cité par_:
 
@@ -46263,8 +46259,8 @@ _Cité par_:
 
 ###### Article R442-6
 
-Le franchissement par une personne, agissant seule ou de concert, du seuil de 5 p. 100 du capital social ou des droits de
-vote de la société fait l'objet d'une délibération du conseil d'administration soumise à l'approbation du ministre chargé de
+Le franchissement par une personne, agissant seule ou de concert, du seuil de 10 % du capital social ou des droits de vote de
+la société fait l'objet d'une délibération du conseil d'administration soumise à l'approbation du ministre chargé de
 l'économie. Cette approbation est réputée acquise, sauf opposition du ministre chargé de l'économie dans un délai de quinze
 jours suivant la délibération du conseil d'administration.
 
@@ -46278,13 +46274,9 @@ _Codifié par_:
 
   - Décret n°76-666 1976-07-16
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°94-376 1994-05-14 art. 3 *date d'effet*
-
-_Créé par_:
-
-  - Décret n°94-376 du 14 mai 1994 - art. 1 () JORF 15 mai 1994
+  - Décret n°2004-560 du 11 juin 2004 - art. 2 () JORF 19 juin 2004
 
 _Cité par_:
 
@@ -79446,133 +79438,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-17 (M)
 
 
-##### Section II : Définition des catégories et sous-catégories.<a id=525></a>
-
-###### Article A344-2
-
-Les opérations effectuées par les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1 ou de l'article
-L. 310-1-1 sont réparties entre les catégories d'opérations suivantes :
-
-1 Contrats de capitalisation à prime unique (ou versements libres) ;
-
-2 Contrats de capitalisation à prime périodique ;
-
-3 Contrats individuels d'assurance temporaire décès (y compris groupes ouverts) ;
-
-4 Autres contrats individuels d'assurance vie à prime unique (ou versements libres) (y compris groupes ouverts) ;
-
-5 Autres contrats individuels d'assurance vie à prime périodique (y compris groupes ouverts) ;
-
-6 Contrats collectifs d'assurance en cas de décès ;
-
-7 Contrats collectifs d'assurance en cas de vie ;
-
-8 Contrats d'assurance vie ou de capitalisation en unités de compte à prime unique (ou versements libres) ;
-
-9 Contrats d'assurance vie ou de capitalisation en unités de compte à prime périodique ;
-
-10 Contrats collectifs relevant de l'article L. 441-1 du code des assurances ;
-
-19 Acceptations en réassurance (Vie) ;
-
-20 Dommages corporels (contrats individuels) (y compris garanties accessoires aux contrats d'assurance vie individuels) ;
-
-21 Dommages corporels (contrats collectifs) (y compris garanties accessoires aux contrats d'assurance vie collectifs) ;
-
-22 Automobile (responsabilité civile) ;
-
-23 Automobile (dommages) ;
-
-24 Dommages aux biens des particuliers ;
-
-25 Dommages aux biens professionnels ;
-
-26 Dommages aux biens agricoles ;
-
-27 Catastrophes naturelles ;
-
-28 Responsabilité civile générale ;
-
-29 Protection juridique ;
-
-30 Assistance ;
-
-31 Pertes pécuniaires diverses ;
-
-34 Transports ;
-
-35 Assurance construction (dommages) ;
-
-36 Assurance construction (responsabilité civile) ;
-
-37 Crédit ;
-
-38 Caution ;
-
-39 Acceptations en réassurance (Non-vie).
-
-Les garanties nuptialité - natalité sont à inclure, selon le cas, dans les catégories 4 à 9.
-
-Les entreprises qui pratiquent plusieurs catégories d'opérations doivent, dans leur comptabilité, ventiler par exercice et
-par catégorie les éléments suivants de leurs affaires brutes de cessions et de leurs affaires cédées : primes, sinistres,
-commissions, provisions techniques. Ces mêmes éléments doivent être ventilés, dans la comptabilité, pour chaque catégorie :
-
-- par Etat de situation du risque ou de l'engagement ;
-
-- entre les affaires du siège et les affaires de chacune des succursales établies à l'étranger.
-
-Toutefois, les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1-1 peuvent ne pas procéder à la
-ventilation des primes, sinistres, commissions et provisions techniques par état de situation du risque ou de l'engagement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Modifié par_:
-
-  - Arrêté 1994-06-20 art. 1, art. 6 III JORF 19 juillet 1994 en vigueur le 1er janvier 1995
-  - Arrêté 1995-09-11 art. 2 III JORF 1er octobre 1995
-
-_Cité par_:
-
-  - Arrêté du 11 septembre 1995 - art. 6 (V)
-  - Code des assurances - art. A125-2 (V)
-  - Code des assurances - art. A132-11 (M)
-  - Code des assurances - art. A132-14 (V)
-  - Code des assurances - art. A132-3 (V)
-  - Code des assurances - art. A132-5 (M)
-  - Code des assurances - art. A132-7 (V)
-  - Code des assurances - art. A331-16 (V)
-  - Code des assurances - art. A331-17 (V)
-  - Code des assurances - art. A331-2 (V)
-  - Code des assurances - art. A331-4 (M)
-  - Code des assurances - art. A331-7 (V)
-  - Code des assurances - art. A342-5 (V)
-  - Code des assurances - art. A342-6 (V)
-  - Code des assurances - art. A343-1 (M)
-  - Code des assurances - art. A343-4-2 (V)
-  - Code des assurances - art. A344-10 (Ab)
-  - Code des assurances - art. A344-3 (Ab)
-  - Code des assurances - art. Annexe A344-10 ETAT C1 (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C10 (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C11 (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C12 (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C13 (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C21 (V)
-  - Code des assurances - art. Annexe A344-10 ETAT C4 (V)
-  - Code des assurances - art. Annexe art A343-1 (al 3) (Ab)
-  - Code des assurances - art. Annexe art. A344-3 (suite 4) (V)
-
-_Cite_:
-
-  - Code des assurances - art. L310-1 (M)
-  - Code des assurances - art. L310-1-1 (V)
-  - Code des assurances - art. L441-1 (M)
-
-
-##### Section III : Etats à produire.<a id=526></a>
+##### Section III : Etats à produire.<a id=525></a>
 
 ###### Article A344-3
 
@@ -80063,7 +79929,7 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R342-23 (M)
 
 
-##### Section III : Etats à produire.<a id=527></a>
+##### Section III : Etats à produire.<a id=526></a>
 
 ###### Article A344-4
 
@@ -87915,7 +87781,7 @@ _Abrogé par_:
   - Arrêté du 28 décembre 2015 - art. 2
 
 
-##### Annexes A344-10  : ETATS<a id=528></a>
+##### Annexes A344-10  : ETATS<a id=527></a>
 
 ###### Article Annexe A344-10 ETAT C1
 
@@ -96940,11 +96806,11 @@ _Cite_:
   - Code des assurances - art. L310-1 (V)
 
 
-### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=529></a>
+### Titre V : Opérations relatives à la libre prestation de services et à la coassurance communautaire<a id=528></a>
 
-#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=530></a>
+#### Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation<a id=529></a>
 
-##### Section II : Conditions d'exercice<a id=531></a>
+##### Section II : Conditions d'exercice<a id=530></a>
 
 ###### Article A353-1
 
@@ -96980,9 +96846,9 @@ _Cite_:
   - Code des assurances - art. L353-4
 
 
-### Titre VI : Libre établissement et libre prestation de services communautaires<a id=532></a>
+### Titre VI : Libre établissement et libre prestation de services communautaires<a id=531></a>
 
-#### Chapitre II : Conditions d'exercice.<a id=533></a>
+#### Chapitre II : Conditions d'exercice.<a id=532></a>
 
 ###### Article A362-1
 
@@ -97091,15 +96957,15 @@ _Cite_:
   - Code des assurances - art. R321-1 (V)
 
 
-## Livre IV : Organisations et régimes particuliers d'assurance<a id=534></a>
+## Livre IV : Organisations et régimes particuliers d'assurance<a id=533></a>
 
-### Titre II : Le fonds de garantie<a id=535></a>
+### Titre II : Le fonds de garantie<a id=534></a>
 
-#### Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages<a id=536></a>
+#### Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages<a id=535></a>
 
-##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte.<a id=537></a>
+##### Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte.<a id=536></a>
 
-##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=538></a>
+##### Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens.<a id=537></a>
 
 ###### Article A421-1
 
@@ -97244,9 +97110,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R420-69
 
 
-##### Section IV : Régime financier du fonds de garantie.<a id=539></a>
+##### Section IV : Régime financier du fonds de garantie.<a id=538></a>
 
-##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=540></a>
+##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=539></a>
 
 ###### Article A421-2
 
@@ -97334,7 +97200,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 A (P)
 
 
-##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.<a id=541></a>
+##### Paragraphe 2 : Dispositions spéciales aux accidents de chasse.<a id=540></a>
 
 ###### Article A421-4
 
@@ -97372,7 +97238,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 159 quinquies-0 B (P)
 
 
-#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=542></a>
+#### Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.<a id=541></a>
 
 ###### Article A422-1
 
@@ -97397,11 +97263,11 @@ _Cite_:
   - Code des assurances - art. R422-4 (V)
 
 
-### Titre III : Organismes particuliers d'assurance<a id=543></a>
+### Titre III : Organismes particuliers d'assurance<a id=542></a>
 
-#### Chapitre Ier : La caisse centrale de réassurance.<a id=544></a>
+#### Chapitre Ier : La caisse centrale de réassurance.<a id=543></a>
 
-##### Section I : Dispositions générales.<a id=545></a>
+##### Section I : Dispositions générales.<a id=544></a>
 
 ###### Article A431-1
 
@@ -97434,9 +97300,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances R431-19
 
 
-##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=546></a>
+##### Section II : Opérations effectuées avec la garantie de l'Etat.<a id=545></a>
 
-##### Paragraphe 4 : Risques d'attentat.<a id=547></a>
+##### Paragraphe 4 : Risques d'attentat.<a id=546></a>
 
 ###### Article A431-5
 
@@ -97487,9 +97353,9 @@ _Cite_:
   - Code des assurances - art. L431-10 (V)
 
 
-##### Section III : Opérations de gestion.<a id=548></a>
+##### Section III : Opérations de gestion.<a id=547></a>
 
-##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=549></a>
+##### Paragraphe 1 : Fonds national de garantie des calamités agricoles.<a id=548></a>
 
 ###### Article A431-7
 
@@ -97635,7 +97501,7 @@ _Cite_:
   - Loi n°64-706 du 10 juillet 1964 - art. 5 (Ab)
 
 
-##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=550></a>
+##### Paragraphe 3 : Fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur.<a id=549></a>
 
 ###### Article A431-8
 
@@ -97796,11 +97662,11 @@ _Cite_:
   - Code des assurances - art. A335-1 (V)
 
 
-#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=551></a>
+#### Chapitre II : La compagnie française d'assurance pour le commerce extérieur (COFACE)<a id=550></a>
 
-##### Section III : Risques garantis.<a id=552></a>
+##### Section III : Risques garantis.<a id=551></a>
 
-##### Paragraphe 6 : Dispositions communes.<a id=553></a>
+##### Paragraphe 6 : Dispositions communes.<a id=552></a>
 
 ###### Article A432-1
 
@@ -98045,11 +97911,11 @@ _Codifié par_:
   - TXT_SOURCE: Code des assurances R432-4, R432-47
 
 
-### Titre IV : Régimes particuliers d'assurance<a id=554></a>
+### Titre IV : Régimes particuliers d'assurance<a id=553></a>
 
-#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=555></a>
+#### Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance.<a id=554></a>
 
-##### Section II : Règles techniques et comptables.<a id=556></a>
+##### Section II : Règles techniques et comptables.<a id=555></a>
 
 ###### Article A441-1
 
@@ -98186,7 +98052,7 @@ _Modifié par_:
   - TXT_SOURCE: Code des assurances - art. R*441-6 (M)
 
 
-##### Section II : Règles techniques et comptables.<a id=557></a>
+##### Section II : Règles techniques et comptables.<a id=556></a>
 
 ###### Article A441-4-1
 
@@ -98252,11 +98118,11 @@ _Cite_:
   - Code des assurances - art. R*441-7 (M)
 
 
-## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=558></a>
+## Livre V : Agents généraux, courtiers et autres intermédiaires d'assurance et de capitalisation<a id=557></a>
 
-### Titre Ier : Présentation des opérations.<a id=559></a>
+### Titre Ier : Présentation des opérations.<a id=558></a>
 
-#### Chapitre III : Conditions de capacité professionnelle.<a id=560></a>
+#### Chapitre III : Conditions de capacité professionnelle.<a id=559></a>
 
 ###### Article A513-1
 
@@ -98431,9 +98297,9 @@ _Cite_:
   - TXT_SOURCE: Code des assurances - art. R513-2 (M)
 
 
-#### Chapitre IV : Contrôle des conditions de présentation<a id=561></a>
+#### Chapitre IV : Contrôle des conditions de présentation<a id=560></a>
 
-##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=562></a>
+##### Section I : Justifications exigées des personnes habilitées à présenter des opérations d'assurance ou de capitalisation.<a id=561></a>
 
 ###### Article A514-1
 
@@ -98490,7 +98356,7 @@ _Cite_:
   - TXT_ASSOCIE: Code des assurances - art. R514-3 (V)
 
 
-#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=563></a>
+#### Chapitre VI : Dispositions spéciales concernant la liberté d'établissement et la libre prestation de services de ressortissants français exerçant leur activité dans un Etat membre de la communauté économique européenne autre que la France.<a id=562></a>
 
 ###### Article A516-1
 
