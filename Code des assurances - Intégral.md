@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-07-27
+Version Consolidée au 2005-07-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -1594,6 +1594,52 @@ _Modifié par_:
 _Cité par_:
 
   - Code des assurances - art. L145-1 (V)
+
+
+###### Article L113-15-1
+
+Pour les contrats à tacite reconduction couvrant les personnes physiques en dehors de leurs activités professionnelles, la
+date limite d'exercice par l'assuré du droit à dénonciation du contrat doit être rappelée avec chaque avis d'échéance
+annuelle de prime ou de cotisation. Lorsque cet avis lui est adressé moins de quinze jours avant cette date, ou lorsqu'il lui
+est adressé après cette date, l'assuré est informé avec cet avis qu'il dispose d'un délai de vingt jours suivant la date
+d'envoi de cet avis pour dénoncer la reconduction du contrat. Dans ce cas, le délai de dénonciation court à partir de la date
+figurant sur le cachet de la poste.
+
+Lorsque cette information ne lui a pas été adressée conformément aux dispositions du premier alinéa, l'assuré peut mettre un
+terme au contrat, sans pénalités, à tout moment à compter de la date de reconduction en envoyant une lettre recommandée à
+l'assureur. La résiliation prend effet le lendemain de la date figurant sur le cachet de la poste.
+
+L'assuré est tenu au paiement de la partie de prime ou de cotisation correspondant à la période pendant laquelle le risque a
+couru, période calculée jusqu'à la date d'effet de la résiliation. Le cas échéant, l'assureur doit rembourser à l'assuré,
+dans un délai de trente jours à compter de la date d'effet de la résiliation, la partie de prime ou de cotisation
+correspondant à la période pendant laquelle le risque n'a pas couru, période calculée à compter de ladite date d'effet. A
+défaut de remboursement dans ces conditions, les sommes dues sont productives d'intérêts au taux légal.
+
+Les dispositions du présent article ne sont applicables ni aux assurances sur la vie ni aux contrats de groupe et autres
+opérations collectives.
+
+**Nota:**
+
+Loi 2005-67 du 28 janvier 2005 art. 7 : 
+
+I : Les présentes dispositions entrent en vigueur six mois à compter de la date de promulgation de la présente loi. 
+
+II : les présentes dispositions s'appliquent aux contrats en cours et à leur reconduction à ladite date de promulgation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Créé par_:
+
+  - Loi n°2005-67 du 28 janvier 2005 - art. 2 () JORF 1er février 2005 en vigueur le 28 juillet 2005
+
+_Cité par_:
+
+  - Loi n°2015-1702 du 21 décembre 2015 - art. 61 (V)
+  - Code des assurances - art. R113-12 (V)
 
 
 ###### Article L113-16
