@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-07-28
+Version Consolidée au 2005-07-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -11516,11 +11516,13 @@ aux sociétés de groupe mixte d'assurance définies à l'article L. 322-1-2 et 
 définies à l'article L. 334-2 ainsi qu'aux personnes mentionnées au cinquième alinéa de l'article L. 310-12 toutes
 informations nécessaires à l'exercice de sa mission.
 
-Elle peut également leur demander la communication des rapports des commissaires aux comptes et, d'une manière générale, de
-tous documents comptables dont elle peut, en tant que de besoin, demander la certification. Elle peut demander communication
-des documents à caractère contractuel ou publicitaire. Elle peut exiger la modification ou décider le retrait de tout
-document contraire aux dispositions législatives ou réglementaires. Dans ce cas, elle statue dans les conditions prévues à
-l'article L. 310-18.
+Elle peut leur demander la communication des rapports des commissaires aux comptes et, d'une manière générale, de tous
+documents comptables dont elle peut, en tant que de besoin, demander la certification. Elle peut demander la certification
+des retraitements opérés, selon des modalités fixées par voie réglementaire, pour le calcul de la marge de solvabilité
+ajustée des entreprises appliquant les normes comptables internationales adoptées par règlement de la Commission européenne.
+Elle peut demander communication des documents à caractère contractuel ou publicitaire. Elle peut exiger la modification ou
+décider le retrait de tout document contraire aux dispositions législatives ou réglementaires. Dans ce cas, elle statue dans
+les conditions prévues à l'article L. 310-18.
 
 Elle vérifie que les publications auxquelles sont astreintes les entreprises visées aux articles L. 310-1 et L. 310-1-1 et
 les sociétés de groupe d'assurance sont régulièrement effectuées. Elle peut ordonner aux entreprises concernées de procéder à
@@ -11569,7 +11571,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 4 () JORF 16 novembre 2004
+  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 1 (V) JORF 29 juillet 2005
 
 _Cité par_:
 
@@ -17276,10 +17278,12 @@ _Cite_:
 
 Les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1 et ayant leur siège social en France, les
 entreprises mentionnées à l'article L. 310-1-1, les sociétés de groupe d'assurance définies à l'article L. 322-1-2 et les
-compagnies financières holding mixtes définies au 9° de l'article L. 334-2 doivent établir et publier des comptes consolidés
-dans des conditions définies par règlement du Comité de la réglementation comptable. Les entreprises qui sont incluses par
-intégration globale dans les comptes consolidés d'une entreprise elle-même soumise à une obligation de consolidation en
-application du présent alinéa ne sont toutefois pas soumises à cette obligation.
+compagnies financières holding mixtes définies au 9° de l'article L. 334-2 établissent et publient des comptes consolidés ou
+combinés selon les règles définies par règlement du Comité de la réglementation comptable. Toutefois, elles sont dispensées
+de se conformer à ces règles lorsqu'elles utilisent les normes comptables internationales adoptées par règlement de la
+Commission européenne. Les entreprises qui sont incluses par intégration globale dans les comptes consolidés d'une entreprise
+elle-même soumise à une obligation de consolidation en application du présent alinéa ne sont toutefois pas soumises à cette
+obligation.
 
 Lorsque la Commission de contrôle des assurances considère que les comptes consolidés d'une société de groupe d'assurance ne
 permettent pas de porter une appréciation pertinente sur le respect des règles de surveillance complémentaire posées à
@@ -17337,19 +17341,19 @@ _Cité par_:
   - Code du travail - art. L444-3 (AbD)
   - Code général des impôts, CGI. - art. 223 A (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 1 (V) JORF 29 juillet 2005
+
 _Cite_:
 
-  - Ordonnance 2004-1201 2004-11-12
   - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-1-1 (V)
   - Code des assurances - art. L322-1-2 (M)
   - Code des assurances - art. L334-2 (M)
   - Code des assurances - art. L334-3 (M)
   - Code des assurances L310-1, L310-1-1, L322-1-2, L334-2, L334-3, 20
-
-_Modifié par_:
-
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 2 () JORF 16 novembre 2004
+  - Ordonnance 2004-1201 2004-XX-XX
 
 
 ### Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes<a id=127></a>
