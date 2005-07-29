@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-07-29
+Version Consolidée au 2005-07-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -22945,24 +22945,35 @@ Les unités de comptes visées à l'article L. 131-1 sont :
 2° Dans des conditions fixées par décret, les parts ou actions visées au 9° bis de l'article R. 332-2 ;
 
 3° Les parts visées au 7° de l'article R. 332-2 et les actions de sociétés commerciales mentionnées au 6° de l'article R.
-332-2.
+332-2 ;
+
+4° Les parts ou actions mentionnées au 7° ter de l'article R. 332-2 ;
+
+5° Les parts ou actions mentionnées au 7° quater de l'article R. 332-2.
 
 Le contrat peut se référer soit à une seule unité de compte, soit à la combinaison de plusieurs unités de compte. Dans ce
 dernier cas, la prime doit être ventilée entre les différentes unités de compte conformément aux dispositions du contrat. La
-part de la prime représentée par les unités de compte relevant du 3° ne doit pas dépasser 10 %.
+part de la prime représentée par les unités de compte relevant du 3° et du 4° du présent article ne doit pas dépasser 10 % au
+total. La part de la prime représentée par les unités de compte relevant du 3°, du 4° et du 5° du présent article ne doit pas
+dépasser 30 % au total. Pour l'appréciation de ce dernier plafond, en ce qui concerne les unités de compte relevant du 5°,
+seule la quote-part de ces actions ou parts investie dans des placements autres que ceux mentionnés aux 1° et 2° est prise en
+compte.
 
 Le contrat doit prévoir les modalités selon lesquelles, en cas de disparition d'une unité de compte, une autre unité de
 compte de même nature lui est substituée, par un avenant au contrat.
+
+**Nota:**
+
+Décret 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°76-667 1976-07-16
-
-_Modifié par_:
-
-  - Décret n°2000-142 du 18 février 2000 - art. 10 () JORF 22 février 2000
 
 _Cité par_:
 
@@ -22984,14 +22995,14 @@ _Cité par_:
   - Code des assurances - art. R441-7-1 (V)
   - Code des assurances - art. R441-7-2 (VT)
 
+_Modifié par_:
+
+  - Décret n°2005-875 du 25 juillet 2005 - art. 18 () JORF 30 juillet 2005
+
 _Cite_:
 
   - Code des assurances - art. L131-1 (M)
   - Code des assurances - art. R*332-2 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L131-1 (M)
 
 
 ###### Article R131-2
@@ -36035,7 +36046,7 @@ sauf dérogation accordée cas par cas par la commission de contrôle des assura
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R. 332-2 et des prêts mentionnés au troisième alinéa
 du 1° de l'article R. 332-13, dont 10 % au maximum pour l'ensemble formé par les actions d'entreprises étrangères d'assurance
-mentionnées au 5° bis de l'article R. 332-2 par les actions et parts mentionnées aux 6°, 7° et 7° bis de l'article R. 332-2
+mentionnées au 5° bis de l'article R. 332-2 par les actions et parts mentionnées aux 6°, 7° à 7° quater de l'article R. 332-2
 et par les prêts mentionnés ci-dessus ;
 
 2° 40 % pour les actifs immobiliers mentionnés aux 9° et 9° bis de l'article R. 332-2 ;
@@ -36099,13 +36110,14 @@ _Cité par_:
   - Code des assurances - art. R431-57 (V)
   - Code des assurances - art. R441-7 (VD)
 
-_Modifié par_:
-
-  - Décret n°2004-1202 2004-11-08 art. 1 1° JORF 16 novembre 2004
-
 **Liens**:
 
+  - SPEC_APPLI: Décret n°2005-875 2005-07-25 art. 22 : Spécificité d'application
   - TXT_SOURCE: Code des assurances - art. A332-1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2005-875 du 25 juillet 2005 - art. 20 () JORF 30 juillet 2005
 
 _Cite_:
 
@@ -36117,8 +36129,8 @@ _Cite_:
 
 ###### Article R332-3-1
 
-Rapportée au montant défini à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut excéder, sauf
-dérogation accordée cas par cas par la commission de contrôle des assurances :
+Rapportée à la base de dispersion définie à l'article R. 332-3, la valeur au bilan des actifs mentionnés ci-après ne peut
+excéder, sauf dérogation accordée cas par cas par la commission de contrôle des assurances :
 
 1° 5 % pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même organisme et des dépôts placés auprès de cet
 organisme, à l'exception :
@@ -36130,17 +36142,17 @@ au remboursement de la dette sociale ;
 b) Des actions des sociétés d'investissement à capital variable et des parts des fonds communs de placement visées au 3° de
 l'article R. 332-2, dont le portefeuille est exclusivement composé des valeurs mentionnées ci-dessus.
 
-Le ratio de droit commun de 5 % peut atteindre 10 % pour les titres d'un même émetteur, à condition que la valeur des titres
-de l'ensemble des émetteurs dont les émissions sont admises au-delà du ratio de 5 % n'excède pas 40 % du montant défini à
-l'article R. 332-3.
+Le ratio de 5 % mentionné au deuxième alinéa peut atteindre 10 %, à condition que la valeur totale des titres émis et des
+prêts obtenus ou garantis par l'ensemble des organismes dont les émissions, prêts ou garanties de prêt sont admis au-delà du
+ratio de 5 % n'excède pas 40 % de la base de dispersion définie à l'article R. 332-3.
 
 2° 10 % pour un même immeuble ou pour les parts ou actions d'une même société immobilière ou foncière ;
 
-3° 1 % pour les valeurs mentionnées aux 6°, 7° et 7° bis de l'article R. 332-2 et les prêts mentionnés au troisième alinéa du
-1 de l'article R. 332-13, respectivement émises ou obtenus par une même société ou un même organisme.
+3° 1 % pour les valeurs mentionnées aux 6°, 7°, 7° bis et 7° ter de l'article R. 332-2 et les prêts mentionnés au troisième
+alinéa du 1 de l'article R. 332-13, respectivement émises ou obtenus par une même société ou un même organisme.
 
-Pour l'application des dispositions du 5° de l'article R. 332-2, une entreprise ne peut affecter à la représentation de ses
-engagements réglementés plus de 50 % des actions émises par une même société.
+Une entreprise ne peut affecter à la représentation de ses engagements réglementés plus de 50 % des actions émises par une
+même société mentionnée au 5° de l'article R. 332-2.
 
 **Liens relatifs à cet article**
 
@@ -36181,9 +36193,13 @@ _Cite_:
   - Code des assurances - art. R*332-2 (M)
   - Code des assurances - art. R*332-3 (M)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2005-875 2005-07-25 art. 22 : Spécificité d'application
+
 _Modifié par_:
 
-  - Décret n°2004-1202 2004-11-08 art. 1 2° JORF 16 novembre 2004
+  - Décret n°2005-875 du 25 juillet 2005 - art. 21 () JORF 30 juillet 2005
 
 
 ###### Article R332-3-2
