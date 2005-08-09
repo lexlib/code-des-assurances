@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-07-30
+Version Consolidée au 2005-08-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -39614,9 +39614,8 @@ _Cite_:
 ###### Article R334-42
 
 La solvabilité ajustée d'une entreprise d'assurance participante est la différence entre les éléments admissibles pour la
-marge de solvabilité calculés à partir des données consolidées ou combinées établies conformément aux dispositions de
-l'article R. 345-1 et l'exigence de solvabilité calculée à partir des données consolidées ou combinées des entreprises
-entrant dans le champ de la surveillance complémentaire établies en application de ces mêmes dispositions.
+marge de solvabilité calculés à partir des données consolidées ou combinées et l'exigence de solvabilité calculée à partir
+des données consolidées ou combinées des entreprises entrant dans le champ de la surveillance complémentaire.
 
 Les éléments admissibles pour la marge de solvabilité de l'entreprise d'assurance participante pour laquelle la solvabilité
 ajustée est calculée et ceux pris en compte au titre des entreprises apparentées sont ceux mentionnés aux articles R. 334-3,
@@ -39649,11 +39648,20 @@ satisfaire ces exigences, retenus par les autorités d'un Etat non membre de la 
 au traité sur l'Espace économique européen dans lequel une entreprise apparentée d'assurance ou de réassurance a son siège et
 dont les exigences sont considérées comme équivalentes.
 
+En outre, si une entreprise utilise les normes comptables internationales adoptées par règlement de la Commission européenne,
+les données consolidées ou combinées prises en compte pour le calcul de sa marge de solvabilité ajustée font l'objet des
+retraitements nécessaires pour assurer la comparabilité de cette marge avec celle des entreprises n'appliquant pas ces
+normes.
+
+Un arrêté du ministre chargé de l'économie fixe la liste de ces retraitements et précise les cas et conditions dans lesquels
+la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance peut dispenser une entreprise
+d'effectuer un ou plusieurs de ces retraitements.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-360 du 14 mars 2002 - art. 3 () JORF 17 mars 2002
+  - Décret n°2005-952 du 9 août 2005 - art. 1 () JORF 10 août 2005
 
 _Cité par_:
 
@@ -39681,7 +39689,6 @@ _Cite_:
   - Code des assurances - art. R*334-4 (M)
   - Code des assurances - art. R*334-5 (M)
   - Code des assurances - art. R*334-6 (M)
-  - Code des assurances - art. R345-1 (M)
 
 
 ###### Article R334-43
