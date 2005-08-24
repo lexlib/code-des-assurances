@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-08-19
+Version Consolidée au 2005-08-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -35629,11 +35629,20 @@ territoire de l'un des Etats membres de l'O.C.D.E., autres que les valeurs visé
 communs de placement dans l'innovation de l'article L. 214-41 du même code et parts des fonds d'investissement de proximité
 de l'article L. 214-41-1 du même code ;
 
-7° bis Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement des articles L.
-214-35, L. 214-35-2, L. 214-37 et L. 214-38 du code monétaire et financier ;
+7° bis Actions des sociétés d'investissement à capital variable et parts de fonds communs de placement des articles L. 214-37
+et L. 214-38 du code monétaire et financier, actions ou parts d'organisme de placement collectif en valeurs mobilières
+relevant de l'article L. 214-35-2 du code monétaire et financier, actions ou parts d'organismes de placement collectif en
+valeurs mobilières relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction antérieure au 2 août
+2003 ;
+
+7° ter Parts ou actions d'organismes de placement collectif en levier mentionnés au R. 214-29 ou d'organismes de placement
+collectifs en valeurs mobilières à règles d'investissement allégées à effet de levier mentionnés au R. 214-32 ;
+
+7° quater Parts ou actions d'organismes de placement collectif en valeur mobilières de fonds alternatifs mentionnés au R.
+214-36 ;
 
 8° Actions des sociétés d'investissement à capital variable et parts des fonds communs de placement, autres que celles
-mentionnées aux 3°,7° et 7° bis , dans les conditions fixées par l'article R. 332-14.
+mentionnées aux 3° et 7° à 7° quater, dans les conditions fixées par l'article R. 332-14.
 
 Les marchés reconnus mentionnés aux 2°, 2° bis, 2° ter et 4° du présent article sont les marchés réglementés des Etats
 parties à l'accord sur l'Espace économique européen ou les marchés de pays tiers membres de l'OCDE en fonctionnement
@@ -35679,6 +35688,13 @@ Les actifs donnés en garantie d'un engagement particulier ne sont pas admissibl
 Par exception, les actifs remis en garantie d'opérations de taux sur instruments financiers à terme mentionnées aux articles
 R. 332-45 et R. 332-46 sont admis en représentation à hauteur des plus-values latentes enregistrées sur les actifs visés à
 l'article R. 332-19 auxquels ces instruments financiers à terme sont liés.
+
+**Nota:**
+
+Décret 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier.
 
 **Liens relatifs à cet article**
 
@@ -35793,6 +35809,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Décret n°89-623 1989-09-06
   - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
   - Code monétaire et financier - art. L214-35 (M)
   - Code monétaire et financier - art. L214-35-2 (M)
@@ -35804,18 +35821,21 @@ _Cite_:
   - Code des assurances - art. R*331-1 (M)
   - Code des assurances - art. R*332-45 (T)
   - Code des assurances - art. R332-1-1 (V)
-  - Code des assurances R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14-1, R332-14, R332-15, R332-12, R332-13, R332-16, R332-45, R332-56, R332-46, R332-19
-
-_Modifié par_:
-
-  - Décret n°2004-221 du 12 mars 2004 - art. 3 () JORF 14 mars 2004
+  - Code des assurances R214-29, R214-32, R214-36, R332-1, R332-1-1, R332-3-3 à R332-10, R331-1, R332-14-1, R332-14, R332-15, R332-12, R332-13, R332-16, R332-45, R332-56, R332-46, R332-19
 
 **Liens**:
 
+  - SPEC_APPLI: Décret n°2005-875 2005-07-25 art. 22 : Spécificité d'application
   - TXT_SOURCE: Code des assurances - art. A332-2 (Ab)
   - TXT_SOURCE: Code des assurances - art. A332-3 (Ab)
   - TXT_SOURCE: Code des assurances - art. A332-4 (Ab)
   - TXT_SOURCE: Code des assurances - art. R332-16 (M)
+  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+_Modifié par_:
+
+  - Décret n°2005-875 du 25 juillet 2005 - art. 19 () JORF 30 juillet 2005
+  - Décret n°2005-1007 du 2 août 2005 - art. 2 (V) JORF 25 août 2005
 
 
 ###### Article R332-3
