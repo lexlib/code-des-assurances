@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2005-08-25
+Version Consolidée au 2005-09-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L530-3)](#1)
     - [Livre Ier : Le contrat (art. L111-1 à L192-7)](#2)
@@ -11937,18 +11937,13 @@ La commission de contrôle est saisie pour avis de toute proposition de désigna
 commissaires aux comptes dans les organismes soumis à son contrôle dans des conditions fixées par décret. La commission peut
 en outre, lorsque la situation le justifie, procéder à la désignation d'un commissaire aux comptes supplémentaire.
 
-Lorsqu'elle a connaissance d'une infraction aux dispositions des articles L. 225-218 à L. 225-242 et L. 234-1 à L. 234-3 du
-code de commerce et de l'article L. 310-19 du présent code commise par un commissaire aux comptes d'une entreprise soumise à
-son contrôle, la Commission de contrôle des assurances peut demander au tribunal compétent de relever ce commissaire aux
-comptes de ses fonctions selon les modalités prévues à l'article L. 225-233 du code de commerce.
+Lorsqu'elle a connaissance d'une infraction aux dispositions des articles L. 822-9 à L. 822-18 et L. 234-1 à L. 234-3 du code
+de commerce et de l'article L. 310-19 du présent code commise par un commissaire aux comptes d'une entreprise soumise à son
+contrôle, la Commission de contrôle des assurances peut demander au tribunal compétent de relever ce commissaire aux comptes
+de ses fonctions selon les modalités prévues à l'article L. 823-7 du code de commerce.
 
 La Commission de contrôle des assurances peut également dénoncer cette infraction à l'autorité disciplinaire compétente. Elle
 peut, à cette fin, communiquer les informations qu'elle estime nécessaires à la bonne information de cette autorité.
-
-**Nota:**
-
-Loi 2003-706 du 1er août 2003 art. 116 : La référence à l'article L225-218 est remplacée par la référence à l'article L822-9
-du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -11958,13 +11953,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 31 () JORF 2 août 2003
+  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
 
 _Cite_:
 
-  - Code de commerce L225-218 à L225-242, L234-1 à L234-3, L225-233
-  - Code de commerce. - art. L225-233 (M)
+  - Code de commerce L822-9 à L822-18, L234-1 à L234-3, L823-7
+  - Code de commerce. - art. L823-7 (V)
   - Code des assurances - art. L310-19 (M)
 
 _Cité par_:
