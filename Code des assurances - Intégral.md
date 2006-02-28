@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-01-24
+Version Consolidée au 2006-03-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-2)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L193-2)](#2)
@@ -4080,34 +4080,19 @@ _Anciens textes_:
 
 ###### Article L132-5-1
 
-Toute personne physique qui a signé une proposition d'assurance ou un contrat a la faculté d'y renoncer par lettre
-recommandée avec demande d'avis de réception pendant le délai de trente jours à compter du premier versement.
-
-La proposition d'assurance ou de contrat doit comprendre un projet de lettre destiné à faciliter l'exercice de cette faculté
-de renonciation. Elle doit indiquer notamment, pour les plans d'épargne retraite populaire créés à l'article 108 de la loi n°
-2003-775 du 21 août 2003 portant réforme des retraites, les valeurs de transfert ou pour les contrats qui en comportent, les
-valeurs de rachat ainsi que, dans le même tableau, la somme des primes ou cotisations versées au terme de chacune des huit
-premières années au moins. L'entreprise d'assurance ou de capitalisation doit, en outre, remettre, contre récépissé, une note
-d'information sur les dispositions essentielles du contrat incluant, lorsque le contrat comporte des garanties exprimées en
-unités de compte, les caractéristiques principales de ces unités de compte, sur les conditions d'exercice de la faculté de
-renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de cette faculté de renonciation. Le défaut de
-remise des documents et informations énumérés au présent alinéa entraîne de plein droit la prorogation du délai prévu au
-premier alinéa jusqu'au trentième jour suivant la date de remise effective de ces documents. Un nouveau délai de trente jours
-court à compter de la date de réception du contrat, lorsque celui-ci apporte des réserves ou des modifications essentielles à
-l'offre originelle, ou à compter de l'acceptation écrite, par le souscripteur, de ces réserves ou modifications.
+Toute personne physique qui a signé une proposition ou un contrat d'assurance sur la vie ou de capitalisation a la faculté
+d'y renoncer par lettre recommandée avec demande d'avis de réception pendant le délai de trente jours calendaires révolus à
+compter du moment où elle est informée que le contrat est conclu. Ce délai expire le dernier jour à vingt-quatre heures. S'il
+expire un samedi, un dimanche ou un jour férié ou chômé, il n'est pas prorogé.
 
 La renonciation entraîne la restitution par l'entreprise d'assurance ou de capitalisation de l'intégralité des sommes versées
-par le contractant, dans le délai maximal de trente jours à compter de la réception de la lettre recommandée. Au-delà de ce
-délai, les sommes non restituées produisent  de plein droit intérêt au taux légal majoré de moitié durant deux mois, puis, à
-l'expiration de ce délai de deux mois, au double du taux légal.
+par le contractant, dans le délai maximal de trente jours calendaires révolus à compter de la réception de la lettre
+recommandée. Au-delà de ce délai, les sommes non restituées produisent de plein droit intérêt au taux légal majoré de moitié
+durant deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux légal.
 
-Les dispositions qui précèdent ne s'appliquent pas aux contrats d'une durée maximum de deux mois. Elles sont précisées, en
-tant que de besoin, par arrêté ministériel.
+Les dispositions du présent article sont précisées, en tant que de besoin, par arrêté ministériel.
 
-**Nota:**
-
-Décision du Conseil Constitutionnel n° 2004-196 L du 12 février 2004 : dans l'article L132-5-1 du présent code, les mots "
-plan d'épargne individuel pour la retraite " sont déclassés et ont dorénavant un caractère réglementaire.
+Elles ne s'appliquent pas aux contrats d'une durée maximale de deux mois.
 
 **Liens relatifs à cet article**
 
@@ -4140,12 +4125,76 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 85 (V) JORF 2 août 2003 en vigueur le 1er juillet 2004
-  - Décret n°2004-346 du 21 avril 2004 - art. 2 () JORF 22 avril 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 4 () JORF 16 décembre 2005
+
+
+###### Article L132-5-2
+
+Avant la conclusion d'un contrat d'assurance sur la vie ou d'un contrat de capitalisation, par une personne physique,
+l'assureur remet à celle-ci, contre récépissé, une note d'information sur les conditions d'exercice de la faculté de
+renonciation et sur les dispositions essentielles du contrat. Un arrêté fixe les informations qui doivent figurer dans cette
+note, notamment en ce qui concerne les garanties exprimées en unités de compte. Toutefois, la proposition d'assurance ou le
+projet de contrat vaut note d'information, pour les contrats d'assurance comportant une valeur de rachat ou de transfert,
+lorsqu'un encadré, inséré en début de proposition d'assurance ou de projet de contrat, indique en caractères très apparents
+la nature du contrat. L'encadré comporte en particulier le regroupement des frais dans une même rubrique, les garanties
+offertes et la disponibilité des sommes en cas de rachat, la participation aux bénéfices, ainsi que les modalités de
+désignation des bénéficiaires. Un arrêté du ministre chargé de l'économie, pris après avis de l'Autorité de contrôle des
+assurances et des mutuelles, fixe le format de cet encadré ainsi que, de façon limitative, son contenu.
+
+La proposition ou le contrat d'assurance ou de capitalisation comprend :
+
+1° Un modèle de lettre destiné à faciliter l'exercice de la faculté de renonciation ;
+
+2° Une mention dont les termes sont fixés par arrêté du ministre chargé de l'économie, précisant les modalités de
+renonciation.
+
+La proposition ou le projet de contrat d'assurance ou de capitalisation indique, pour les contrats qui en comportent, les
+valeurs de rachat au terme de chacune des huit premières années du contrat au moins, ainsi que, dans le même tableau, la
+somme des primes ou cotisations versées au terme de chacune des mêmes années. Toutefois, pour les contrats mentionnés au
+deuxième alinéa de l'article L. 132-23, l'entreprise indique les valeurs de transfert au lieu des valeurs de rachat. La
+proposition ou le projet de contrat d'assurance ou de capitalisation indique les valeurs minimales et explique le mécanisme
+de calcul des valeurs de rachat ou de transfert lorsque celles-ci ne peuvent être établies.
+
+Le défaut de remise des documents et informations prévus au présent article entraîne de plein droit la prorogation du délai
+de renonciation prévu à l'article L. 132-5-1 jusqu'au trentième jour calendaire révolu suivant la date de remise effective de
+ces documents, dans la limite de huit ans à compter de la date où le souscripteur est informé que le contrat est conclu.
+
+Les dispositions du présent article sont précisées, en tant que de besoin, par arrêté ministériel.
+
+Elles ne s'appliquent pas aux contrats d'une durée maximale de deux mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 1976-07-16
+
+_Cité par_:
+
+  - Loi n°81-5 du 7 janvier 1981 - art. 23 (V)
+  - Code de la sécurité sociale. - art. A932-3-10 (V)
+  - Code de la sécurité sociale. - art. L932-15-1 (VD)
+  - Code des assurances - art. A132-4 (V)
+  - Code des assurances - art. A132-4-1 (V)
+  - Code des assurances - art. A132-4-2 (VD)
+  - Code des assurances - art. A132-4-8 (V)
+  - Code des assurances - art. A132-5-1 (VD)
+  - Code des assurances - art. A132-5-2 (V)
+  - Code des assurances - art. A132-8 (V)
+  - Code des assurances - art. Annexe art. A132-4 (VD)
+  - Code des assurances - art. L112-2-1 (V)
+  - Code des assurances - art. L132-5-3 (V)
+  - Code des assurances - art. L441-2 (V)
+  - Code des assurances - art. L441-3 (VD)
+
+_Créé par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 4 () JORF 16 décembre 2005
 
 _Cite_:
 
-  - Loi n°2003-775 2003-08-21 art. 108
+  - Code des assurances - art. L132-23 (M)
+  - Code des assurances - art. L132-5-1 (M)
 
 
 ###### Article L132-5-3
