@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-03-01
+Version Consolidée au 2006-03-14
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-2)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L193-2)](#2)
@@ -30366,11 +30366,6 @@ III. - Le président du conseil d'administration organise et dirige les travaux 
 générale. Il veille au bon fonctionnement des organes de la société et s'assure, en particulier, que les administrateurs sont
 en mesure de remplir leur mission.
 
-Le président du conseil d'administration rend compte, à l'assemblée générale réunie en application de l'article R. 322-62,
-des conditions de préparation et d'organisation des travaux du conseil ainsi que des procédures de contrôle interne mises en
-place par la société. Sans préjudice des dispositions de l'article R. 322-53-3, le rapport indique en outre les éventuelles
-limitations que le conseil d'administration apporte aux pouvoirs du directeur général.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -30390,13 +30385,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+  - Décret n°2006-287 du 13 mars 2006 - art. 1 () JORF 14 mars 2006
 
 _Cite_:
 
   - Code des assurances - art. L322-26-2 (M)
-  - Code des assurances - art. R*322-62 (M)
-  - Code des assurances - art. R322-53-3 (V)
   - Code des assurances - art. R322-55-1 (M)
 
 
@@ -30523,21 +30516,17 @@ _Cite_:
 
 ###### Article R322-54
 
-I. - Lorsque le contrôle de la société est confié à un conseil de surveillance, celui-ci est composé de trois membres au
-moins. Les statuts fixent le nombre maximum des membres du conseil qui ne peut excéder dix-huit. Les membres élus par les
-salariés conformément aux dispositions de l'article L. 322-26-2, dont le nombre doit figurer dans les statuts, ne sont pas
-pris en compte pour la détermination du nombre minimal et du nombre maximal de membres du conseil de surveillance.
+I.-Lorsque le contrôle de la société est confié à un conseil de surveillance, celui-ci est composé de trois membres au moins.
+Les statuts fixent le nombre maximum des membres du conseil qui ne peut excéder dix-huit. Les membres élus par les salariés
+conformément aux dispositions de l'article L. 322-26-2, dont le nombre doit figurer dans les statuts, ne sont pas pris en
+compte pour la détermination du nombre minimal et du nombre maximal de membres du conseil de surveillance. 
 
-II. - Le conseil de surveillance élit en son sein un président et au moins un vice-président qui sont chargés de convoquer le
+II.-Le conseil de surveillance élit en son sein un président et au moins un vice-président qui sont chargés de convoquer le
 conseil et d'en diriger les débats. A peine de nullité de leur nomination, le président et le ou les vice-présidents du
 conseil de surveillance sont des personnes physiques. Ils exercent leurs fonctions pendant la durée du mandat du conseil de
-surveillance. Ils sont rééligibles.
+surveillance. Ils sont rééligibles. 
 
-III. - Le président du conseil de surveillance rend compte, à l'assemblée générale réunie en application de l'article R.
-322-62, des conditions de préparation et d'organisation des travaux du conseil ainsi que des procédures de contrôle interne
-mises en place par la société.
-
-IV. - Aucun membre du conseil de surveillance ne peut faire partie du directoire. Si un membre du conseil de surveillance est
+III.-Aucun membre du conseil de surveillance ne peut faire partie du directoire. Si un membre du conseil de surveillance est
 nommé au directoire, son mandat au conseil prend fin dès son entrée en fonction.
 
 **Liens relatifs à cet article**
@@ -30554,12 +30543,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+  - Décret n°2006-287 du 13 mars 2006 - art. 2 () JORF 14 mars 2006
 
 _Cite_:
 
-  - Code des assurances - art. L322-26-2 (M)
-  - Code des assurances - art. R*322-62 (M)
+  - Code des assurances - art. L322-26-2 (V)
 
 
 ###### Article R322-54-1
@@ -41453,26 +41441,56 @@ _Cité par_:
 
 ###### Article R336-1
 
-L'entreprise d'assurance est tenue de disposer en permanence d'un contrôle interne de la gestion de ses placements.
+Toute entreprise mentionnée à l'article L. 310-1 est tenue de mettre en place un dispositif permanent de contrôle interne.
 
-Le conseil d'administration ou le conseil de surveillance approuve au moins annuellement les lignes directrices de la
-politique de placement et se prononce notamment sur la qualité des actifs, les opérations sur instruments financiers à terme
-et le choix des intermédiaires financiers.
+Le conseil d'administration ou le conseil de surveillance approuve, au moins annuellement, un rapport sur le contrôle
+interne, qui est transmis à l'Autorité de contrôle des assurances et des mutuelles.
 
-Un rapport sur la politique de placement lui est soumis au moins annuellement. Il détaille dans ce cadre :
+1° La première partie de ce rapport détaille les conditions de préparation et d'organisation des travaux du conseil
+d'administration ou du conseil de surveillance et, le cas échéant, les limitations apportées par le conseil d'administration
+aux pouvoirs du directeur général dans l'exercice de ses fonctions.
 
-a) Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle des placements, en particulier en ce qui
-concerne l'évaluation de la qualité des actifs, le suivi des opérations sur instruments financiers à terme et l'appréciation
-des performances et des marges des intermédiaires financiers utilisés ;
+Toutefois, les entreprises faisant appel public à l'épargne ne sont pas tenues de fournir ces éléments lorsqu'elles
+transmettent à l'Autorité de contrôle des assurances et des mutuelles le rapport mentionné, selon les cas, à l'article L.
+225-37 ou à l'article L. 225-68 du code de commerce.
 
-b) Le dispositif interne de contrôle de la gestion des placements : répartition interne des responsabilités au sein du
-personnel, les personnes chargées d'effectuer les transactions ne pouvant être également chargées de leur suivi ; délégations
-de pouvoir ; diffusion de l'information ; procédures internes de contrôle ; audit interne ;
+2° La seconde partie de ce rapport détaille :
 
-c) La structure des différents portefeuilles de placements, par type et par catégories, ainsi que les résultats obtenus sur
-les placements correspondants.
+a) Les objectifs, la méthodologie, la position et l'organisation générale du contrôle interne au sein de l'entreprise ; les
+mesures prises pour assurer l'indépendance et l'efficacité du contrôle interne et notamment la compétence et l'expérience des
+équipes chargées de le mettre en oeuvre, ainsi que les suites données aux recommandations des personnes ou instances chargées
+du contrôle interne ;
 
-Ce rapport peut être inclus dans le rapport de solvabilité mentionné à l'article L. 322-2-4.
+b) Les procédures permettant de vérifier que les activités de l'entreprise sont menées selon les politiques et stratégies
+établies par les organes dirigeants et les procédures permettant de vérifier la conformité des opérations d'assurance aux
+dispositions législatives et réglementaires ;
+
+c) Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle des placements, en particulier en ce qui
+concerne l'évaluation de la qualité des actifs et de la gestion actif-passif, le suivi des opérations sur instruments
+financiers à terme et l'appréciation des performances et des marges des intermédiaires financiers utilisés ;
+
+d) Le dispositif interne de contrôle de la gestion des placements, ce qui inclut la répartition interne des responsabilités
+au sein du personnel, les personnes chargées d'effectuer les transactions ne pouvant être également chargées de leur suivi,
+les délégations de pouvoir, la diffusion de l'information, les procédures internes de contrôle ou d'audit ;
+
+e) Les procédures et dispositifs permettant d'identifier, d'évaluer, de gérer et de contrôler les risques liés aux
+engagements de l'entreprise et de détenir des capitaux suffisants pour ces risques, ainsi que les méthodes utilisées pour
+vérifier la conformité des pratiques en matière d'acceptation et de tarification du risque, de cession en réassurance et de
+provisionnement des engagements réglementés à la politique de l'entreprise dans ces domaines, définie dans les rapports
+mentionnés à l'article L. 322-2-4 et à l'article R. 336-5 ;
+
+f) Les mesures prises pour assurer le suivi de la gestion des sinistres, le suivi des filiales, la maîtrise des activités
+externalisées et des modes de commercialisation des produits de l'entreprise, et les risques qui pourraient en résulter ;
+
+g) Les procédures d'élaboration et de vérification de l'information financière et comptable.
+
+Les organismes chargés d'établir et de publier les comptes consolidés ou combinés d'un groupe d'assurance au sens du 6° de
+l'article L. 334-2 ou d'un conglomérat financier au sens de l'article L. 334-5 soumis à la surveillance complémentaire de
+l'Autorité de contrôle des assurances et des mutuelles fournissent en outre un rapport décrivant également le dispositif de
+contrôle interne du groupe d'assurance ou du conglomérat financier.
+
+Ce rapport contient notamment une description des éléments mentionnés à l'article R. 334-40, à l'article R. 334-45 et aux III
+et IV de l'article R. 334-52.
 
 Les dispositions du présent article sont applicables aux entreprises mentionnées au 1° de l'article L. 310-2 ainsi qu'aux
 succursales des entreprises étrangères mentionnées aux 3° et 4° de l'article L. 310-2. Pour ces dernières, le mandataire
@@ -41486,7 +41504,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-8 2005-01-05 art. 4 3° JORF 7 janvier 2005
+  - Décret n°2006-287 du 13 mars 2006 - art. 4 () JORF 14 mars 2006
 
 _Cité par_:
 
@@ -41501,15 +41519,33 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de commerce. - art. L225-37 (M)
+  - Code de commerce. - art. L225-68 (M)
+  - Code des assurances - art. L310-1 (M)
   - Code des assurances - art. L310-2 (M)
   - Code des assurances - art. L322-2-4 (M)
+  - Code des assurances - art. L334-2 (M)
+  - Code des assurances - art. L334-5 (V)
+  - Code des assurances - art. R334-40 (M)
+  - Code des assurances - art. R334-45 (M)
+  - Code des assurances - art. R334-52 (V)
+  - Code des assurances - art. R336-5 (V)
 
 
 ###### Article R336-2
 
-Le rapport sur la politique de placement présente en détail les opérations mentionnées aux articles R. 332-45 à R. 332-48 et
-réalisées au cours de la période écoulée. Il fixe les limites aux risques de marché, de contrepartie et de liquidité encourus
-sur les opérations à venir.
+Le conseil d'administration ou le conseil de surveillance fixe, au moins annuellement, les lignes directrices de la politique
+de placement. Il se prononce en particulier sur les modalités de choix des intermédiaires financiers, sur la gestion actif-
+passif, sur la qualité des actifs et sur les opérations sur instruments financiers à terme.
+
+A cet effet, il s'appuie sur le rapport de solvabilité mentionné à l'article L. 322-2-4 qui, dans une partie distincte
+relative aux placements, présente les résultats obtenus pour chaque portefeuille et chaque catégorie de placements, détaille
+les opérations mentionnées aux articles R. 332-45 à R. 332-48 et réalisées au cours de la période écoulée et fixe, pour ces
+opérations, les limites aux risques de marché, de contrepartie et de liquidité encourus sur les opérations à venir.
+
+Le conseil d'administration ou le directoire peut modifier les limites visées à l'alinéa précédent. Dans ce cas, il rend
+compte de ces modifications sans délais à l'Autorité de contrôle des assurances et des mutuelles et dans le prochain rapport
+de solvabilité.
 
 **Liens relatifs à cet article**
 
@@ -41517,19 +41553,20 @@ _Codifié par_:
 
   - Décret n°76-667 1976-07-16
 
-_Créé par_:
-
-  - Décret n°2002-970 du 4 juillet 2002 - art. 3 () JORF 11 juillet 2002
-
 _Cité par_:
 
   - Décret n°2004-569 du 18 juin 2004 - art. 29 bis (M)
   - Décret n°2007-243 du 23 février 2007 - art. 16 (V)
   - Code des assurances - art. R336-4 (V)
 
+_Modifié par_:
+
+  - Décret n°2006-287 du 13 mars 2006 - art. 5 () JORF 14 mars 2006
+
 _Cite_:
 
-  - Code des assurances R332-45 à R332-48
+  - Code des assurances - art. L322-2-4 (M)
+  - Code des assurances L322-2-4, R332-45 à R332-48
 
 
 ###### Article R336-3
