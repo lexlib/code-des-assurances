@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-05-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-2)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L193-2)](#2)
@@ -52788,16 +52788,56 @@ _Cite_:
   - Code des assurances - art. L132-5-1 (M)
 
 
-###### Article A132-5
+###### Article A132-4-1
 
-Pour les contrats qui relèvent des catégories 8 et 9 définies à l'article A. 344-2, l'information sur les valeurs de rachat
-au titre des garanties exprimées en unités de compte prévue par l'article L. 132-5-1 est donnée en nombre d'unités de compte.
-Ce nombre doit tenir compte des prélèvements effectués à quelque titre que ce soit sur la provision mathématique du contrat.
+Information sur les valeurs de rachat ou de transfert ne pouvant être établies en euros ou devises lors de la remise du
+projet de contrat, de la proposition d'assurance ou de la notice.
 
-Cette information est complétée par l'indication en caractères très apparents que l'assureur ne s'engage que sur le nombre
-d'unités de compte, mais pas sur leur valeur, et que celle-ci est sujette à des fluctuations à la hausse ou à la baisse.
+I. - Principe :
 
-Elle est également complétée par l'indication des modalités de calcul du montant en francs de la valeur de rachat.
+L'information prévue au cinquième alinéa de l'article L. 132-5-2 et au premier alinéa de l'article L. 132-5-3 sur les valeurs
+de rachat ou de transfert ne pouvant être établies en euros ou devises lors de la remise de la proposition d'assurance, du
+projet de contrat ou de la notice s'effectue comme suit. Sont indiquées :
+
+1° Dans le tableau mentionné à l'article L. 132-5-2, les valeurs de rachat ou de transfert minimales. Lorsque celles-ci ne
+peuvent être établies lors de la remise du projet de contrat, de la proposition d'assurance ou de la notice, il est indiqué
+qu'il n'existe pas de valeur de rachat ou de transfert minimale exprimée en euros ou en devises.
+
+2° Dans le tableau mentionné à l'article L. 132-5-2, les valeurs de rachat ou de transfert, selon les cas à partir d'un
+nombre générique d'unités de compte, d'un nombre générique de parts de provision technique de diversification, ou d'une
+formule de calcul le cas échéant ; l'indication de ces valeurs est complétée par une explication littéraire en dessous dudit
+tableau.
+
+II. - Application au cas particulier des contrats comprenant des garanties en unités de compte :
+
+Pour les contrats relevant du deuxième alinéa de l'article L. 131-1, les dispositions des 1° et 2° du I sont appliquées comme
+suit :
+
+a) Les valeurs de rachat ou de transfert peuvent valablement être indiquées à partir d'un nombre générique initial de cent
+unités de compte, et ne pas prendre en compte les arbitrages et les rachats programmés que le contrat peut prévoir.
+Toutefois, lorsqu'il est prévu dans la proposition d'assurance ou le projet de contrat qu'un arbitrage soit réalisé à
+l'expiration du délai mentionné à l'article L. 132-5-1, les valeurs de rachat ou de transfert calculées à partir d'un nombre
+générique sont indiquées en supposant réalisé ledit arbitrage. La valeur de rachat ou de transfert calculée à partir d'un
+nombre générique tient compte des prélèvements effectués à quelque titre que ce soit sur la provision mathématique du
+contrat, lorsque ceux-ci peuvent être déterminés lors de la remise de la proposition d'assurance ou du projet de contrat.
+Lorsque certains prélèvements ne peuvent être déterminés lors de cette remise, il est indiqué en caractères très apparents
+immédiatement après le tableau mentionné à l'article L. 132-5-2 que la valeur de rachat ou de transfert ne tient pas compte
+desdits prélèvements, en précisant lorsque tel est le cas, également en caractères très apparents, que les prélèvements ne
+sont pas plafonnés en nombre d'unités de compte. L'explication littéraire mentionnée au 2° du I comprend la mention visée à
+l'article A. 132-5. Elle est complétée par l'indication des modalités de calcul du montant en euros de la valeur de rachat.
+
+b) Lorsqu'une part ou la totalité des prélèvements effectués sur les unités de compte ne peut être déterminée lors de la
+remise de la proposition d'assurance ou du projet de contrat en un nombre générique d'unités de compte, sont indiquées, à
+titre d'exemple, des simulations de valeurs de rachat ou de transfert pour les huit premières années au moins, intégrant les
+frais prélevés. Les simulations sont relatives à l'intégralité de la valeur de rachat ou de transfert et sont pratiquées à
+partir de trois hypothèses explicites, dont le cas de la stabilité de la valeur des unités de compte, et ceux d'une hausse,
+et symétriquement d'une baisse de même amplitude de la valeur des unités de compte.
+
+c) Pour les contrats dont une part seulement des droits est exprimée en unités de compte, la part de la valeur de rachat ou
+de transfert au titre de la provision mathématique relative à des engagements exprimés en euros ou en devises et celle au
+titre de la provision mathématique relative aux unités de compte sont indiquées de manière distincte. Le cas échéant, il est
+indiqué que les valeurs minimales mentionnées au 1° du I correspondent à la part de la valeur de rachat ou de transfert au
+titre de la provision mathématique relative aux seuls engagements exprimés en euros ou en devises.
 
 **Liens relatifs à cet article**
 
@@ -52807,7 +52847,72 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Arrêté 1999-11-23 art. 1 JORF 26 novembre 1999 en vigueur le 1er mars 2000
+  - Arrêté 2006-03-01 art. 1 I JORF 10 mars 2006 en vigueur le 1er mai 2006
+
+_Cite_:
+
+  - Code des assurances - art. A132-5 (T)
+  - Code des assurances - art. L131-1 (M)
+  - Code des assurances - art. L132-5-1 (M)
+  - Code des assurances - art. L132-5-2 (Ab)
+  - Code des assurances - art. L132-5-3 (V)
+
+_Cité par_:
+
+  - Code des assurances - art. A132-5-1 (VD)
+  - Code des assurances - art. A132-5-2 (V)
+  - Code des assurances - art. Annexe art. A132-4 (VD)
+
+
+###### Article A132-4-2
+
+La mention visée à l'article L. 132-5-3 précède la signature du souscripteur.
+
+I. - Pour les contrats ne relevant pas de l'article L. 132-5-3, elle est ainsi rédigée :
+
+Le souscripteur peut renoncer au présent contrat pendant trente jours calendaires révolus à compter du "moment où le preneur
+est informé que le contrat est conclu". Cette renonciation doit être faite par lettre recommandée avec avis de réception,
+envoyée à l'adresse suivante "adresse à laquelle la lettre de renonciation do it être envoyée". Elle peut être faite suivant
+le modèle de lettre inclus dans la proposition d'assurance ou le contrat.
+
+II. - Pour les contrats relevant de l'article L. 132-5-3, la mention est ainsi rédigée :
+
+L'adhérent peut renoncer à son adhésion au présent contrat pendant trente jours calendaires révolus à compter du "moment où
+le preneur est informé de l'adhésion au contrat". Cette renonciation doit être faite par lettre recommandée avec accusé de
+réception, envoyée à l'adresse suivante "adresse à laquelle la lettre de renonciation doit être envoyée". Elle peut être
+faite suivant le modèle de lettre inclus dans la notice ou le bulletin d'adhésion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 2006-03-01 art. 1 I JORF 10 mars 2006 en vigueur le 1er mai 2006
+
+_Cite_:
+
+  - Code des assurances - art. L132-5-3 (V)
+
+
+###### Article A132-5
+
+Pour les contrats mentionnés au deuxième alinéa de l'article L. 131-1, il est indiqué que l'entreprise d'assurance ne
+s'engage que sur le nombre d'unités de compte, mais pas sur leur valeur ; il est également précisé que la valeur de ces
+unités de compte, qui reflète la valeur d'actifs sous-jacents, n'est pas garantie mais est sujette à des fluctuations à la
+hausse ou à la baisse dépendant en particulier de l'évolution des marchés financiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Modifié par_:
+
+  - Arrêté 2006-03-01 art. 1 II JORF 10 mars 2006 en vigueur le 1er mai 2006
 
 _Cité par_:
 
@@ -52822,15 +52927,15 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code des assurances - art. A344-2 (M)
-  - Code des assurances - art. L132-5-1 (M)
+  - Code des assurances - art. L131-1 (M)
 
 
 ###### Article A132-5-1
 
-Pour les plans d'épargne retraite populaire prévoyant une provision technique de diversification, l'obligation d'information
-sur les valeurs de transfert mentionnée à l'article L. 132-5-1 du code des assurances peut être valablement remplie au b du
-3° du modèle de note d'information annexé à l'article A. 132-4 du code des assurances comme suit.
+Pour l'application de l'article A. 132-4-1 aux plans d'épargne retraite populaire prévoyant une provision technique de
+diversification, l'obligation d'information sur les valeurs de transfert mentionnée à l'article L. 132-5-3 du code des
+assurances peut être valablement remplie au b du 3° du modèle de note d'information annexé à l'article A. 132-4 du code des
+assurances comme suit.
 
 I. - Information générale sur les valeurs de transfert des contrats en euro diversifié.
 
@@ -52938,11 +53043,12 @@ _Cite_:
   - Arrêté 2004-04-22 art. 11
   - Décret n°2004-342 2004-04-21 art. 35, art. 50, art. 27, art. 49, art. 54, art. 47
   - Code des assurances - art. A132-4 (M)
-  - Code des assurances - art. L132-5-1 (M)
+  - Code des assurances - art. A132-4-1 (M)
+  - Code des assurances - art. L132-5-3 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2004-11-26 art. 1 JORF 30 novembre 2004
+  - Arrêté 2006-03-01 art. 1 II JORF 10 mars 2006 en vigueur le 1er mai 2006
 
 _Cité par_:
 
@@ -53063,9 +53169,66 @@ _Nouveaux textes_:
 
 ###### Article A132-8
 
-Les entreprises pratiquant les opérations d'assurance sur la vie ou de capitalisation peuvent, dans les conditions fixées à
-l'article A. 132-9, garantir dans leurs contrats un montant total d'intérêts techniques et de participations bénéficiaires
-qui, rapporté aux provisions mathématiques, ne sera pas inférieur à un taux minimum garanti.
+I. - L'encadré mentionné à l'article L. 132- 5-2 est placé en tête de proposition d'assurance, de projet de contrat, ou de
+notice. Sa taille ne dépasse pas une page et il contient, de façon limitative et dans l'ordre précisé ci-dessous, les
+informations suivantes :
+
+1° Il est indiqué si le contrat est un contrat d'assurance vie individuel ou de groupe, ou un contrat de capitalisation. Pour
+les contrats mentionnés à l'article L. 132-5-3, cette indication est complétée par la mention suivante : "les droits et
+obligations de l'adhérent peuvent être modifiés par des avenants au contrat, conclus entre (dénomination de l'entreprise
+d'assurance) et (dénomination du souscripteur). L'adhérent est préalablement informé de ces modifications".
+
+2° Les garanties offertes, y compris les garanties complémentaires non optionnelles, sont indiquées, avec référence aux
+clauses les définissant ; il est précisé en particulier si le contrat prévoit le paiement d'un capital ou d'une rente :
+
+a) Pour les contrats dont les droits sont exprimés en euros ou en devises, il est indiqué si le contrat comporte ou non une
+garantie en capital au moins égale aux sommes versées, nettes de frais.
+
+b) Pour les contrats dont les droits sont exprimés en unités de compte, il est indiqué en caractères très apparents que les
+montants investis sur les supports en unités de compte ne sont pas garantis mais sont sujets à des fluctuations à la hausse
+ou à la baisse dépendant en particulier de l'évolution des marchés financiers.
+
+c) Pour les contrats dont une part des droits sont exprimés en unités de compte, l'information sur les garanties offertes,
+effectuée conformément aux dispositions des présents a et b, distingue les droits exprimés en unités de compte et ceux qui ne
+le sont pas.
+
+3° Sont indiqués l'existence ou non d'une participation aux bénéfices contractuelle ainsi que, le cas échéant, les
+pourcentages de celle-ci ; est également indiquée la référence à la clause comportant les dispositions prévues au deuxième
+alinéa de l'article L. 132-5.
+
+4° Il est indiqué que le contrat comporte une faculté de rachat ou de transfert. Cette indication est complétée par la
+mention "les sommes sont versées par l'assureur dans un délai de ... (délai de versement)" ; sont également indiquées les
+références à la clause relative aux modalités de rachat et de transfert et au tableau mentionné à l'article L. 132-5-2.
+
+5° Sont indiqués dans une même rubrique les frais et indemnités de toute nature mentionnés à l'article R. 132-3 ainsi que, le
+cas échéant, l'existence de frais pouvant être supportés par l'unité de compte. Il est renvoyé à une clause du contrat ou au
+document mentionné au dernier alinéa de l'article A. 132-6 pour le détail de ces derniers frais, et l'encadré le précise.
+Pour les frais et indemnités mentionnés à l'article R. 132-3, la rubrique distingue :
+
+- "frais à l'entrée et sur versements" : montant ou pourcentage maximum des frais prélevés lors de la souscription et lors du
+versement des primes ;
+
+- "frais en cours de vie du contrat" : montant ou pourcentage maximum, sur base annuelle, des frais prélevés et non liés au
+versement des garanties ou des primes ;
+
+- "frais de sortie" : montant ou pourcentage maximum des frais sur quittances d'arrérages, indemnités mentionnées à l'article
+R. 331-5 ;
+
+- "autres frais" : montant ou pourcentage maximum des frais et indemnités non mentionnés aux trois alinéas précédents.
+
+6° Est insérée la mention suivante : "La durée du contrat recommandée dépend notamment de la situation patrimoniale du
+souscripteur (ou de l'adhérent), de son attitude vis-à-vis du risque, du régime fiscal en vigueur et des caractéristiques du
+contrat choisi. Le souscripteur (ou l'adhérent) est invité à demander conseil auprès de son assureur."
+
+7° Sont indiquées les modalités de désignation des bénéficiaires, comme il est dit au 1° de l'article A. 132-9. Est également
+indiquée la référence à la clause contenant les informations mentionnées au même article.
+
+8° La mention suivante est insérée immédiatement après l'encadré :
+
+"Cet encadré a pour objet d'attirer l'attention du souscripteur (ou de l'adhérent) sur certaines dispositions essentielles de
+la proposition d'assurance (ou du projet de contrat, ou de la notice). Il est important que le souscripteur (ou l'adhérent)
+lise intégralement la proposition d'assurance (ou le projet de contrat, ou la notice), et pose toutes les questions qu'il
+estime nécessaires avant de signer le contrat (ou le bulletin d'adhésion)."
 
 **Liens relatifs à cet article**
 
@@ -53073,46 +53236,49 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Modifié par_:
+_Créé par_:
 
-  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
-  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
-  - Arrêté 1993-03-19 art. 3 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+  - Arrêté 2006-03-08 art. 1 I JORF 17 mars 2006 en vigueur le 1er mai 2006
 
 _Cité par_:
 
   - Code des assurances - art. A132-10 (Ab)
   - Code des assurances - art. A132-5-2 (V)
   - Code des assurances - art. A132-7 (V)
+
+_Cite_:
+
+  - Code des assurances - art. A132-6 (T)
   - Code des assurances - art. A132-9 (T)
-
-_Nouveaux textes_:
-
-  - Code des assurances - art. A132-2 (M)
+  - Code des assurances - art. L132-5 (M)
+  - Code des assurances - art. L132-5-2 (Ab)
+  - Code des assurances - art. L132-5-3 (V)
+  - Code des assurances - art. R*331-5 (M)
+  - Code des assurances - art. R132-3 (V)
+  - Code des assurances L132, L132-5-3, L132-5, L132-5-2, R132-3, A132-6, R331-5, A132-9
 
 
 ###### Article A132-9
 
-1° Le taux minimum visé à l'article A. 132-8 peut être fixé annuellement pour l'année suivante. Il ne peut excéder alors 90
-p. 100 de la moyenne des taux de rendement des actifs de l'entreprise calculés pour les deux derniers exercices.
+L'obligation d'information mentionnée à l'article L. 132-9-1 est valablement remplie dès lors que dans le contrat ou dans la
+notice s'agissant des contrats mentionnés à l'article L. 141-1 :
 
-2° Ce taux minimum garanti peut également varier annuellement en fonction d'une référence fournie par un marché réglementé et
-en fonctionnement régulier de valeurs mobilières ou de titres admis en représentation des engagements réglementés des
-entreprises d'assurance. Pour les contrats libellés en francs français, la référence peut également être fournie par le taux
-des premiers livrets de caisse d'épargne français. La garantie de ce minimum ne peut être donnée que pour une période
-maximale de huit ans. La commercialisation d'un contrat assorti d'une telle garantie de taux n'est possible que si la moyenne
-des taux de rendement des actifs de l'entreprise calculés pour les deux derniers exercices est au moins égale aux quatre
-tiers du taux minimum qu'elle propose de garantir la première année.
+1° Il est indiqué que le souscripteur ou l'adhérent peut désigner le ou les bénéficiaires dans le contrat et ultérieurement
+par avenant au contrat, ou dans le bulletin d'adhésion et ultérieurement par avenant à l'adhésion. Il est en outre indiqué
+que la désignation du bénéficiaire peut être effectuée notamment par acte sous seing privé ou par acte authentique.
 
-3° Les dispositions visées aux alinéas précédents peuvent être appliquées séparément ou conjointement.
+2° Il est indiqué au souscripteur ou à l'adhérent que, lorsque le bénéficiaire est nommément désigné, il peut porter au
+contrat les coordonnées de ce dernier qui seront utilisées par l'entreprise d'assurance en cas de décès de l'assuré.
 
-4° Le taux de rendement des actifs est calculé conformément au I de l'article A. 132-5. Il ne tient pas compte du rendement
-des actifs afférents aux contrats à capital variable et aux opérations de prévoyance collective visées au chapitre Ier du
-titre IV du livre IV du code des assurances.
+3° Il est indiqué au souscripteur ou à l'adhérent qu'il peut modifier la clause bénéficiaire lorsque celle-ci n'est plus
+appropriée.
 
-5° La provision spéciale pour aléas financiers constituée antérieurement à l'entrée en vigueur du présent article fait
-l'objet d'une reprise intégrale dans les comptes de l'exercice suivant cette date, pour être affectée en totalité à la
-provision pour participation aux excédents.
+4° L'attention du souscripteur ou de l'adhérent est attirée sur le fait que la désignation devient irrévocable en cas
+d'acceptation par le bénéficiaire.
+
+Les dispositions du présent article ne s'appliquent ni aux assurances de groupe ayant pour objet la garantie de remboursement
+d'un emprunt, ni aux contrats mentionnés à l'article L. 141-1 pour lesquels la désignation du bénéficiaire n'est pas décidée
+par l'adhérent.
 
 **Liens relatifs à cet article**
 
@@ -53120,11 +53286,9 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Modifié par_:
+_Créé par_:
 
-  - Arrêté 1984-12-21 art. 3 JORF 26 décembre 1984
-  - Arrêté 1993-03-19 art. 1 JORF 20 mars 1993 en vigueur le 1er juillet 1993
-  - Arrêté 1993-03-19 art. 4 JORF 20 mars 1993 en vigueur le 1er juillet 1993
+  - Arrêté 2006-02-09 art. 1 JORF 21 février 2006 en vigueur le 1er mai 2006
 
 _Cité par_:
 
@@ -53132,13 +53296,56 @@ _Cité par_:
   - Code de la sécurité sociale. - art. A932-3-10 (V)
   - Code des assurances - art. A132-8 (V)
 
-_Nouveaux textes_:
+_Cite_:
 
-  - Code des assurances - art. A132-3 (M)
+  - Code des assurances - art. L132-9-1 (V)
+  - Code des assurances - art. L141-1 (M)
+
+
+###### Article A132-9-1
+
+I. - Les organismes professionnels mentionnés à l'article L. 132-9-2 sont la Fédération française des sociétés d'assurance,
+le Groupement des entreprises mutuelles d'assurances et le Centre technique des institutions de prévoyance.
+
+II. - Dans un délai de quinze jours calendaires révolus à compter de la réception de la lettre mentionnée au premier alinéa
+de l'article L. 132-9-2, adressée par une personne physique ou morale ou transmise par un autre organisme professionnel
+mentionné au I ou par un autre organisme professionnel habilité conformément à l'article L. 223-10-1 du code de la mutualité,
+l'organisme professionnel mentionné au I en avise :
+
+- pour la Fédération française des sociétés d'assurance, les entreprises mentionnées à l'article L. 310-1 agréées pour
+exercer les opérations d'assurance dépendant de la durée de la vie humaine et n'adhérant pas au Groupement des entreprises
+mutuelles d'assurances ;
+
+- pour le Groupement des entreprises mutuelles d'assurances, les entreprises mentionnées à l'article L. 310-1 agréées pour
+exercer les opérations d'assurance dépendant de la durée de la vie humaine et adhérant audit groupement ;
+
+- pour le Centre technique des institutions de prévoyance, les institutions de prévoyance mentionnées à l'article L. 931-1 du
+code de la sécurité sociale et agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine.
+
+L'organisme professionnel mentionné au I qui a reçu la lettre envoyée par la personne physique ou morale en avise également
+les autres organismes professionnels mentionnés au I ou le ou les autres organismes professionnels habilités conformément à
+l'article L. 223-10-1 du code de la mutualité.
+
+III. - Pour les entreprises d'assurance mentionnées à l'article L. 310-1 agréées pour exercer les opérations d'assurance
+dépendant de la durée de la vie humaine, le délai d'un mois mentionné au deuxième alinéa de l'article L. 132-9-2 court à
+compter de la réception par celles-ci des éléments nécessaires à l'identification du bénéficiaire et de l'assuré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1976-07-16
+
+_Créé par_:
+
+  - Arrêté 2006-02-09 art. 1 JORF 21 février 2006 en vigueur le 1er mai 2006
 
 _Cite_:
 
-  - Code des assurances - art. A132-5 (T)
+  - Code de la sécurité sociale. - art. L931-1 (M)
+  - Code des assurances - art. L132-9-2 (V)
+  - Code des assurances - art. L310-1 (M)
+  - Code de la mutualité - art. L223-10-1 (V)
 
 
 ###### Article A132-11
