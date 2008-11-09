@@ -8,11 +8,11 @@ Les entreprises agréées pour les opérations visées au 1° de l'article L. 31
 si elles pratiquent les opérations visées au 2° de l'article L. 310-1, elles établissent en outre un état C 1 Dommages
 corporels. Les autres entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 établissent un état C 1 Non-Vie. 
 
-Les entreprises visées à l'article L. 310-1-1 qui pratiquent uniquement des opérations relevant de la catégorie 19 de
-l'article A. 344-2 établissent un état C 1 Vie-Capitalisation ; si elles pratiquent uniquement des opérations relevant de la
-catégorie 39 de l'article A. 344-2, elles établissent un état C 1 Non-Vie ; si elles pratiquent simultanément des opérations
-relevant des catégories 19 et 39 de l'article A. 344-2, elles établissent un état C 1 Vie-Capitalisation et un état C 1 Non-
-Vie.
+Les entreprises visées au 1° du III de l'article L. 310-1-1 qui pratiquent uniquement des opérations relevant de la catégorie
+19 de l'article A. 344-2 établissent un état C 1 Vie-Capitalisation ; si elles pratiquent uniquement des opérations relevant
+de la catégorie 39 de l'article A. 344-2, elles établissent un état C 1 Non-Vie ; si elles pratiquent simultanément des
+opérations relevant des catégories 19 et 39 de l'article A. 344-2, elles établissent un état C 1 Vie-Capitalisation et un
+état C 1 Non-Vie.
 
 L'état C 1 répartit d'abord les résultats techniques par pays d'établissement. Les affaires souscrites en France sont ensuite
 détaillées selon leur modalité d'exploitation : risques directs français ; contrats émis en libre prestation de services ;
@@ -126,7 +126,7 @@ pb, 6104 pb, 63093 et 63094) ;
 
 (L 27) Sous-total : Charge de provisions (lignes L 20-L 21-L 22-L 23-L 24 + L 25-L 26) ; 
 
-(Arrêté du 10 juin 2005, point b-ii de l'annexe.) (L 28) Virement de provisions » 
+(Arrêté du 10 juin 2005, point b-ii de l'annexe.) (L 28) Virement de provisions 
 
 (L 30) Participations aux bénéfices (comptes 6303, 6304, 6305 et 6306) ; 
 
@@ -164,7 +164,7 @@ sous-comptes du compte 6390 correpondant au compte 6309) ;
 (L 57) Sous-total : Charge de la réassurance (lignes L 50-L 51-L 52 + L 53 + L 54-L 55-L 56) ; 
 
 (Arrêté du 10 juin 2005, point b-ii de l'annexe.) (L 60) Résultat technique (lignes L 5-L 18-L 27-L 28-L 30-L 40-L 41 + L 42
-+ L 45-L 57) ».
++ L 45-L 57).
 
 L'état C 1 Vie-Capitalisation est complété par quatre lignes hors compte : 
 
@@ -356,13 +356,17 @@ D.-Part des organismes dispensés d'agrément
 
 _Cite_:
 
-  - Loi n°2003-775 du 21 août 2003 (V)
-  - Code des assurances - art. A343-1 (V)
-  - Code des assurances - art. A344-2 (V)
-  - Code des assurances - art. L310-1 (V)
-  - Code des assurances - art. L310-1-1 (V)
-  - Code des assurances - art. L310-2 (V)
+  - Loi n°2003-775 du 21 août 2003
+  - Code des assurances - art. A343-1
+  - Code des assurances - art. A344-2
+  - Code des assurances - art. L310-1
+  - Code des assurances - art. L310-1-1
+  - Code des assurances - art. L310-2
 
 _Modifié par_:
 
-  - Arrêté du 10 juin 2005 (V) annexe
+  - Arrêté du 7 novembre 2008 - art. 9
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
