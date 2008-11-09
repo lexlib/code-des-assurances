@@ -4,158 +4,1740 @@
 
 **Représentation des engagements privilégiés **
 
-Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 établissent, selon le modèle fixé ci-après, un état retraçant
-la représentation de leurs engagements privilégiés. 
+Les entreprises visées établissent, selon le modèle fixé ci-après, un état retraçant la représentation de leurs engagements
+privilégiés. 
 
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━┯━━━━━━┓
-┃                                        │ PROVISIONS TECHNIQUES                                       │ AUTRES en-  │ TO-  ┃
-┃                                        ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┤ gagements   │ TAL  ┃
-┃                                        │ Union européenne                               │ Hors Union │ réglementés │      ┃
-┃                                        ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┤ européenne │             │      ┃
-┃                                        │ PERP et opéra- │ Trans- │ Autres af- │ Accep-  │            │             │      ┃
-┃                                        │ tions relevant │ ports  │ faires di- │ tations │            │             │      ┃
-┃                                        │ de l'article   │        │ rectes     │         │            │             │      ┃
-┃                                        │ L. 441-1       │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Provisions d'assurance vie des autres  │ -              │ XXX    │ -          │ -       │ -          │ XXX         │ -    ┃
-┃ contrats                               │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Provisions pour primes non acquises    │ -              │ -      │ -          │ -       │ -          │ XXX         │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Provisions pour risques en cours       │ -              │ -      │ -          │ -       │ -          │ XXX         │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Provisions pour sinistres à payer      │ -              │ -      │ -          │ -       │ -          │ XXX         │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Provisions mathématiques (Non-vie)     │ -              │ -      │ -          │ -       │ -          │ XXX         │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Provisions pour participation aux bé-  │ -              │ -      │ -          │ -       │ -          │ XXX         │ -    ┃
-┃ néfices et ristournes                  │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Provisions pour égalisation            │ -              │ -      │ -          │ -       │ -          │ XXX         │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Provisions pour risque d'exigibilité   │ -              │ -      │ -          │ -       │ -          │ XXX         │ -    ┃
-┃ des engagements techniques             │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Engagements envers des institutions de │ XXX            │ XXX    │ -          │ -       │ -          │ XXX         │ -    ┃
-┃ prévoyance fonds de placement gérés    │                │        │            │         │            │             │      ┃
-┃ par l'entreprise (1)                   │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Autres provisions techniques           │ -              │ -      │ -          │ -       │ -          │ XXX         │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Réserve de capitalisation              │ -              │ XXX    │ XXX        │ XXX     │ XXX        │ -           │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Dettes privilégiées                    │ -              │ XXX    │ XXX        │ XXX     │ XXX        │ -           │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Dépôts de garantie des assurés, des    │ -              │ XXX    │ XXX        │ XXX     │ XXX        │ -           │ -    ┃
-┃ agents et des tiers                    │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Réserves d'amortissement des emprunts  │ -              │ XXX    │ XXX        │ XXX     │ XXX        │ -           │ -    ┃
-┃ et réserves pour cautionnements        │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Total des passifs réglementés (A)      │ -              │ -      │ -          │ -       │ -          │ -           │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Créances nettes sur la CCR et sur di-  │ -              │ -      │ -          │ -       │ -          │ -           │ -    ┃
-┃ vers fonds mentionnées à l'article R.  │                │        │            │         │            │             │      ┃
-┃ 332-3-4                                │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Avances sur contrats mentionnées à     │ -              │ XXX    │ -          │ XXX     │ -          │ XXX         │ -    ┃
-┃ l'article R. 332-4                     │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Primes ou cotisations mentionnées à    │ -              │ XXX    │ -          │ XXX     │ -          │ XXX         │ -    ┃
-┃ l'article R. 332-4                     │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Valeurs mentionnées à l'article R.     │ -              │ XXX    │ -          │ -       │ -          │ XXX         │ -    ┃
-┃ 332-5                                  │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Frais d'acquisition des contrats re-   │ -              │ XXX    │ -          │ -       │ -          │ XXX         │ -    ┃
-┃ portés mentionnés à l'article R.       │                │        │            │         │            │             │      ┃
-┃ 332-35                                 │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Primes ou cotisations mentionnées aux  │ -              │ -      │ -          │ XXX     │ -          │ XXX         │ -    ┃
-┃ articles R. 332-6 et R. 332-7          │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Frais d'acquisition des contrats re-   │ -              │ -      │ -          │ -       │ -          │ XXX         │ -    ┃
-┃ portés mentionnés à l'article R.       │                │        │            │         │            │             │      ┃
-┃ 332-33                                 │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Créances sur les réassureurs mention-  │ -              │ -      │ XXX        │ XXX     │ -          │ XXX         │ -    ┃
-┃ nées à l'article R. 332-7              │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Avances aux transporteurs mentionnées  │ -              │ XXX    │ -          │ XXX     │ -          │ XXX         │ -    ┃
-┃ à l'article R. 332-7-1                 │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Créances nettes sur les cédants men-   │ -              │ XXX    │ XXX        │ -       │ -          │ XXX         │ -    ┃
-┃ tionnées à l'article R. 332-8          │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Actifs mentionnées à l'article R.      │ -              │ XXX    │ XXX        │ XXX     │ -          │ -           │ -    ┃
-┃ 332-9                                  │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Recours admis                          │ -              │ -      │ -          │ -       │ -          │ XXX         │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Divers (2)                             │ -              │ -      │ -          │ -       │ -          │ -           │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Créances mentionnées à l'article R.    │ -              │ XXX    │ XXX        │ XXX     │ XXX        │ -           │ -    ┃
-┃ 332-10                                 │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Valeurs déposées en cautionnement      │ -              │ XXX    │ XXX        │ XXX     │ XXX        │ -           │ -    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Total des actifs admissibles divers    │ -              │ -      │ -          │ -       │ -          │ -           │ -    ┃
-┃ (B)                                    │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Base de dispersion visée à l'article   │ -              │ -      │ -          │ -       │ -          │ -           │ -    ┃
-┃ R. 332-3 (A-B)                         │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Placements mentionnés du 1° au 12° de  │ -              │ -      │ -          │ -       │ -          │ -           │ -    ┃
-┃ l'article R. 332-2 (3)                 │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Valeurs couvrant les engagements en-   │ XXX            │ XXX    │ -          │ -       │ -          │ XXX         │ -    ┃
-┃ vers les institutions de prévoyance ou │                │        │            │         │            │             │      ┃
-┃ les fonds de placement gérés par l'en- │                │        │            │         │            │             │      ┃
-┃ treprise (1)                           │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Dépôts mentionnés au 13° de l'article  │ -              │ -      │ -          │ -       │ -          │ -           │ -    ┃
-┃ R. 332-2                               │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Intérêts courus des placements men-    │ -              │ -      │ -          │ -       │ -          │ -           │ -    ┃
-┃ tionnés à l'article R. 332-2           │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Créances garantie sur les réassureurs  │ -              │ -      │ -          │ -       │ -          │ -           │ -    ┃
-┃ mentionnées à l'article R. 332-3-3     │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ Total des placements et actifs assimi- │ -              │ -      │ -          │ -       │ -          │ -           │ -    ┃
-┃ lés                                    │                │        │            │         │            │             │      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┨
-┃ (1) Opérations de la branche 25 de l'article R. 321-1. Les placements correspondants ne figurent au                       ┃
-┃ présent état que s'ils appartiennent à l'entreprise. (2) Le détail de la rubrique divers » est an-                        ┃
-┃ nexé au présent état. (3) Sont notamment incluses parmi ces placements les valeurs remises par les                        ┃
-┃ organismes réassurés avec caution solidaire ou substitution.                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
+<table border="1" width="691" align="center" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="top" width="125" rowspan="3">
+      </td><td colspan="5" width="420">
 
+PROVISIONS TECHNIQUES 
+
+</td>
+      <td rowspan="3" width="94">
+
+AUTRES engagements réglementés 
+
+</td>
+      <td rowspan="3" width="52">
+
+TOTAL 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4" width="336">
+
+Union européenne 
+
+</td>
+      <td rowspan="2" width="84">
+
+Hors Union européenne 
+
+</td>
+    </tr>
+    <tr>
+      <td width="108">
+
+PERP et opérations relevant de l'article L. 441-1
+
+</td>
+      <td width="84">
+
+Transports 
+
+</td>
+      <td width="58">
+
+Autres affaires directes 
+
+</td>
+      <td width="86">
+
+Acceptations 
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Provisions d'assurance vie des autres contrats
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Provisions pour primes non acquises
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Provisions pour risques en cours
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Provisions pour sinistres à payer
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Provisions mathématiques (Non-vie)
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Provisions pour participation aux bénéfices et ristournes
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Provisions pour égalisation
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Provisions pour risque d'exigibilité des engagements techniques
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Engagements envers des institutions de prévoyance fonds de placement gérés par l'entreprise (1) 
+
+</td>
+      <td width="108">
+
+XXX 
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Autres provisions techniques
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Réserve de capitalisation
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX 
+
+</td>
+      <td width="58">
+
+XXX 
+
+</td>
+      <td width="86">
+
+XXX 
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Dettes privilégiées
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX 
+
+</td>
+      <td width="58">
+
+XXX 
+
+</td>
+      <td width="86">
+
+XXX 
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Dépôts de garantie des assurés, des agents et des tiers
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX 
+
+</td>
+      <td width="58">
+
+XXX 
+
+</td>
+      <td width="86">
+
+XXX 
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Réserves d'amortissement des emprunts et réserves pour cautionnements
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX 
+
+</td>
+      <td width="58">
+
+XXX 
+
+</td>
+      <td width="86">
+
+XXX 
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Total des passifs réglementés (A)
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Créances nettes sur la CCR et sur divers fonds mentionnées à l'article R. 332-3-4
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Avances sur contrats mentionnées à l'article R. 332-4
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+XXX
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Primes ou cotisations mentionnées à l'article R. 332-4
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+XXX
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Valeurs mentionnées à l'article R. 332-5
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Frais d'acquisition des contrats reportés mentionnés à l'article R. 332-35
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Primes ou cotisations mentionnées aux articles R. 332-6 et R. 332-7
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+XXX
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Frais d'acquisition des contrats reportés mentionnés à l'article R. 332-33
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Créances sur les réassureurs ayant leur siège social dans un Etat non partie à l'accord sur l'EEE mentionnées à l'article R.
+332-7
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+XXX 
+
+</td>
+      <td width="86">
+
+XXX
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Avances aux transporteurs mentionnées à l'article R. 332-7-1
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+XXX
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Créances nettes sur les cédants mentionnées à l'article R. 332-8
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX 
+
+</td>
+      <td width="58">
+
+XXX
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Actifs mentionnées à l'article R. 332-9
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX 
+
+</td>
+      <td width="58">
+
+XXX 
+
+</td>
+      <td width="86">
+
+XXX
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Recours admis
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Divers (2)
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Créances mentionnées à l'article R. 332-10
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX 
+
+</td>
+      <td width="58">
+
+XXX 
+
+</td>
+      <td width="86">
+
+XXX 
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Valeurs déposées en cautionnement
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+XXX 
+
+</td>
+      <td width="58">
+
+XXX 
+
+</td>
+      <td width="86">
+
+XXX 
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Total des actifs admissibles divers (B)
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Base de dispersion visée à l'article R. 332-3 (A-B)
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Placements mentionnés du 1° au 12° de l'article R. 332-2 (3)
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Valeurs couvrant les engagements envers les institutions de prévoyance ou les fonds de placement gérés par l'entreprise (1) 
+
+</td>
+      <td width="108">
+
+XXX 
+
+</td>
+      <td width="84">
+
+XXX
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+XXX
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Dépôts mentionnés au 13° de l'article R. 332-2
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Intérêts courus des placements mentionnés à l'article R. 332-2
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Créances admises sur les réassureurs et véhicules de titrisation
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td>Autres actifs représentatifs des engagements réglementés des entreprises de réassurance</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+      <td>
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="125">
+
+Total des placements et actifs assimilés
+
+</td>
+      <td width="108">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="58">
+
+-
+
+</td>
+      <td width="86">
+
+-
+
+</td>
+      <td width="84">
+
+-
+
+</td>
+      <td width="94">
+
+-
+
+</td>
+      <td width="52">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8" width="691">
+
+(1) Opérations de la branche 25 de l'article R. 321-1. Les placements correspondants ne figurent au présent état que s'ils
+appartiennent à l'entreprise. 
+
+(2) Le détail de la rubrique divers est annexé au présent état. 
+
+(3) Sont notamment incluses parmi ces placements les valeurs remises par les organismes réassurés avec caution solidaire ou
+substitution.
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 10 juin 2005 (V) annexe
+  - Arrêté du 7 novembre 2008 - art. 9
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
 
 _Cite_:
 
-  - Code des assurances - art. L310-2 (V)
-  - Code des assurances - art. L441-1 (V)
-  - Code des assurances - art. R*321-1 (V)
-  - Code des assurances - art. R332-10 (V)
-  - Code des assurances - art. R332-2 (V)
-  - Code des assurances - art. R332-3 (V)
-  - Code des assurances - art. R332-3-3 (V)
-  - Code des assurances - art. R332-3-4 (V)
-  - Code des assurances - art. R332-33 (V)
-  - Code des assurances - art. R332-35 (V)
-  - Code des assurances - art. R332-4 (V)
-  - Code des assurances - art. R332-5 (V)
-  - Code des assurances - art. R332-6 (V)
-  - Code des assurances - art. R332-7 (V)
-  - Code des assurances - art. R332-7-1 (V)
-  - Code des assurances - art. R332-8 (V)
-  - Code des assurances - art. R332-9 (V)
+  - Code des assurances - art. L310-2
+  - Code des assurances - art. L441-1
+  - Code des assurances - art. R*321-1
+  - Code des assurances - art. R*332-10
+  - Code des assurances - art. R*332-33
+  - Code des assurances - art. R*332-4
+  - Code des assurances - art. R*332-5
+  - Code des assurances - art. R*332-6
+  - Code des assurances - art. R*332-7
+  - Code des assurances - art. R*332-8
+  - Code des assurances - art. R*332-9
+  - Code des assurances - art. R332-2
+  - Code des assurances - art. R332-3
+  - Code des assurances - art. R332-3-3
+  - Code des assurances - art. R332-3-4
+  - Code des assurances - art. R332-35
+  - Code des assurances - art. R332-7-1
