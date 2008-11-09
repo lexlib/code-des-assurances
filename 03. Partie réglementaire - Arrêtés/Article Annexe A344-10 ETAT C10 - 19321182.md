@@ -4,11 +4,11 @@
 
 **Primes et résultats par année de survenance des sinistres **
 
-Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées à l'article
-L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le modèle fixé ci-
-après, un état de leurs primes et résultats, par année de survenance des sinistres, pour chacune des catégories, sous-
-catégories ou regroupements de catégories de contrats ou de garanties suivants, les contrats pluriannuels à prime unique ou
-non révisable et les affaires assimilées en application de l'article A. 344-10 étant exclus : 
+Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées au 1° du III
+de l'article L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le
+modèle fixé ci-après, un état de leurs primes et résultats, par année de survenance des sinistres, pour chacune des
+catégories, sous-catégories ou regroupements de catégories de contrats ou de garanties suivants, les contrats pluriannuels à
+prime unique ou non révisable et les affaires assimilées en application de l'article A. 344-10 étant exclus : 
 
 a) Affaires directes souscrites en France :
 
@@ -66,7 +66,7 @@ Tableau A
 
 Primes acquises 
 
-<table>
+<table cellspacing="0" cellpadding="0" align="center" border="1">
   <tbody>
     <tr>
       <td width="221">
@@ -336,7 +336,7 @@ Tableaux B
 
 Nombre de contrats ou de traités de réassurance 
 
-<table>
+<table cellspacing="0" align="center" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td width="307">
@@ -345,9 +345,7 @@ Nombre de contrats à l'ouverture de l'exercice
 
 </td>
       <td width="307">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="307">
 
@@ -355,9 +353,7 @@ Nombre de contrats à la clôture de l'exercice
 
 </td>
       <td width="307">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="307">
 
@@ -365,9 +361,7 @@ Nombre de risques (1)
 
 </td>
       <td width="307">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="307">
 
@@ -375,9 +369,7 @@ Nombre de risques à l'ouverture de l'exercice
 
 </td>
       <td width="307">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="307">
 
@@ -385,11 +377,9 @@ Nombre de risques à la clôture de l'exercice
 
 </td>
       <td width="307">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td width="614" colspan="2" valign="top">
+      <td valign="top" colspan="2" width="614">
 
 (1) Le risque est ici l'indicateur de volume d'activité en affaires directes, autre que le nombre de contrats, le plus
 significatif possible, par exemple :
@@ -411,7 +401,7 @@ Tableau C
 
 Coût moyen et rapport S / P par année de survenance des sinistres 
 
-<table>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td width="185">
@@ -653,7 +643,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td colspan="7" width="614">
+      <td width="614" colspan="7">
 
 (1) Frais de gestion inclus. 
 
@@ -669,9 +659,17 @@ Pour les affaires acceptées, les lignes Nombre de sinistres et Coût moyen du t
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Arrêté du 7 novembre 2008 - art. 9
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
+
 _Cite_:
 
-  - Code des assurances - art. A344-10 (V)
-  - Code des assurances - art. A344-2 (V)
-  - Code des assurances - art. L310-1 (V)
-  - Code des assurances - art. L310-1-1 (V)
+  - Code des assurances - art. A344-10
+  - Code des assurances - art. A344-2
+  - Code des assurances - art. L310-1
+  - Code des assurances - art. L310-1-1
