@@ -1,6 +1,6 @@
 # Article Annexe art. A321-2
 
-**RENSEIGNEMENTS À FOURNIR PAR LES PERSONNES CHARGÉES DE CONDUIRE UNE ENTREPRISE D'ASSURANCE**
+**Renseignements à fournir par les personnes chargées de conduire une entreprise d'assurance ou de réassurance**
 
 1. Nom ou dénomination sociale de l'entreprise pour laquelle ces renseignements sont fournis.
 
@@ -80,7 +80,7 @@ assurances (fournir un bulletin n° 3 du casier judiciaire datant de moins de tr
 
 Je soussigné (nom et prénom) certifie l'exactitude des informations communiquées et m'engage à porter immédiatement à la
 connaissance du Comité des entreprises d'assurance tout changement significatif des éléments les concernant, notamment ceux
-mentionnés aux points 12, 15 et 16 du présent formulaire.»
+mentionnés aux points 12, 15 et 16 du présent formulaire.
 
 Date, lieu
 
@@ -88,10 +88,15 @@ Date, lieu
 
 En ma qualité de (fonction), je soussigné (nom et prénom) déclare que les informations communiquées sont à ma connaissance
 exactes et m'engage à porter immédiatement à la connaissance du Comité des entreprises d'assurance tout changement
-significatif dont j'aurais connaissance, notamment les éléments mentionnés aux points 12, 15 et 16 du présent formulaire.»
+significatif dont j'aurais connaissance, notamment les éléments mentionnés aux points 12, 15 et 16 du présent formulaire.
 
 Date, lieu
 
 (Signature soit du président du conseil d'administration ou du conseil de surveillance, soit de l'actionnaire principal, soit
 d'un autre membre du conseil d'administration de l'entreprise.)
 
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 7 novembre 2008 - art. 9
