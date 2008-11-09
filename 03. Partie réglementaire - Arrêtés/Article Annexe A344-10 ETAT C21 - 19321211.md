@@ -4,9 +4,9 @@
 
 **Etat détaillé des provisions techniques **
 
-Les entreprises agréées pour des opérations visées au 1° de l'article L. 310-1 et les entreprises visées à l'article L.
-310-1-1 pratiquant des opérations relevant de la catégorie 19 de l'article A. 344-2 établissent, selon le modèle fixé ci-
-après, un état détaillé de leurs provisions techniques.
+Les entreprises agréées pour des opérations visées au 1° de l'article L. 310-1 et les entreprises visées au 1° du III de
+l'article L. 310-1-1 pratiquant des opérations relevant de la catégorie 19 de l'article A. 344-2 établissent, selon le modèle
+fixé ci-après, un état détaillé de leurs provisions techniques.
 
 L'état est constitué de deux ensembles de lignes.
 
@@ -80,10 +80,14 @@ est détaillé.
 
 _Modifié par_:
 
-  - Arrêté du 10 juin 2005 (V) annexe
+  - Arrêté du 7 novembre 2008 - art. 9
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
 
 _Cite_:
 
-  - Code des assurances - art. A344-2 (V)
-  - Code des assurances - art. L310-1 (V)
-  - Code des assurances - art. L310-1-1 (V)
+  - Code des assurances - art. A344-2
+  - Code des assurances - art. L310-1
+  - Code des assurances - art. L310-1-1
