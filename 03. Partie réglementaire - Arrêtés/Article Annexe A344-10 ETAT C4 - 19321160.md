@@ -11,7 +11,7 @@ ci-après.
 Les entreprises agréées pour les opérations visées au 1° de l'article L. 310-1 établissent un état C 4 Vie-Capitalisation-
 Mixte et les autres entreprises visées au 1°, 3° ou 4° de l'article L. 310-2 un état C 4 Non-Vie. 
 
-Les entreprises visées à l'article L. 310-1-1 qui pratiquent uniquement des opérations relevant de la catégorie 19 de
+Les entreprises visées au 1° de l'article L. 310-1-1 qui pratiquent uniquement des opérations relevant de la catégorie 19 de
 l'article A. 344-2 établissent un état C 4 Vie-Capitalisation ; si elles pratiquent uniquement des opérations relevant de la
 catégorie 39 de l'article A. 344-2, elles établissent un état C 4 Non-Vie ; si elles pratiquent simultanément des opérations
 relevant des catégories 19 et 39 de l'article A. 344-2, elles établissent un état C 4 Vie-Capitalisation et un état C 4 Non-
@@ -341,16 +341,20 @@ Total général (rubriques I à V).
 
 _Cite_:
 
-  - Loi n°89-1009 du 31 décembre 1989 (V)
-  - Loi n°2003-775 du 21 août 2003 - art. 108 (Ab)
-  - Code des assurances - art. A121-1 (V)
-  - Code des assurances - art. A344-10 (V)
-  - Code des assurances - art. A344-2 (V)
-  - Code des assurances - art. L310-1 (V)
-  - Code des assurances - art. L310-1-1 (V)
-  - Code des assurances - art. L310-2 (V)
-  - Code des assurances - art. L441-1 (V)
+  - Loi n°89-1009 du 31 décembre 1989
+  - Loi n°2003-775 du 21 août 2003 - art. 108
+  - Code des assurances - art. A121-1
+  - Code des assurances - art. A344-10
+  - Code des assurances - art. A344-2
+  - Code des assurances - art. L310-1
+  - Code des assurances - art. L310-1-1
+  - Code des assurances - art. L310-2
+  - Code des assurances - art. L441-1
 
 _Modifié par_:
 
-  - Arrêté du 10 juin 2005 (V) annexe
+  - Arrêté du 7 novembre 2008 - art. 9
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
