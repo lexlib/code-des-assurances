@@ -329,6 +329,8 @@ chaque comptabilité auxiliaire d'affectation d'opérations d'assurance légalem
 
 377 Engagements envers les institutions de prévoyance ou relatifs aux fonds de placement gérés par l'entreprise.
 
+379 Dotations à la provision pour risque d'exigibilité restant à constater. 
+
 38 Provisions des contrats en unités de compte
 
 380 Provisions mathématiques.
@@ -969,6 +971,8 @@ contrats en unités de compte.
 
 752 Utilisation ou reprises de provisions.
 
+753 Variation des dotations à la provision pour risque d'exigibilité restant à constater. 
+
 76 Produits des placements
 
 760 Revenus des placements.
@@ -1067,7 +1071,7 @@ désinvestissement ;
 
 _Modifié par_:
 
-  - Arrêté du 28 mai 2008 - art.
+  - Arrêté du 30 janvier 2009 - art. 2
 
 _Cité par_:
 
