@@ -6,7 +6,7 @@ la provision pour sinistres à régler
 <table>
   <tbody>
     <tr>
-      <td rowspan="2" width="245">
+      <td width="245" rowspan="2">
 
 ANNÉE D'INVENTAIRE 
 
@@ -55,7 +55,7 @@ n
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="245">
+      <td valign="top" rowspan="2" width="245">
 
 Inventaire X (1) 
 
@@ -71,17 +71,17 @@ Pourcentage sinistres / primes acquises
 
 </td>
       <td valign="top" width="72">
-      </td><td width="72" valign="top">
-      </td><td width="72" valign="top">
-      </td><td valign="top" width="84">
       </td><td valign="top" width="72">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="84">
+      </td><td width="72" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="72">
-      </td><td width="72" valign="top">
+      </td><td valign="top" width="72">
       </td><td width="72" valign="top">
       </td><td valign="top" width="84">
-      </td><td valign="top" width="72">
+      </td><td width="72" valign="top">
     </td></tr>
     <tr>
       <td width="617" valign="top" colspan="6">
@@ -188,9 +188,9 @@ TOTAL
 Revenus des participations (1) 
 
 </td>
-      <td width="168" valign="top">
+      <td valign="top" width="168">
       </td><td valign="top" width="132">
-      </td><td valign="top" width="105">
+      </td><td width="105" valign="top">
     </td></tr>
     <tr>
       <td width="209" valign="top">
@@ -199,8 +199,8 @@ Revenus des placements immobiliers
 
 </td>
       <td valign="top" width="168">
-      </td><td width="132" valign="top">
-      </td><td width="105" valign="top">
+      </td><td valign="top" width="132">
+      </td><td valign="top" width="105">
     </td></tr>
     <tr>
       <td valign="top" width="209">
@@ -208,18 +208,18 @@ Revenus des placements immobiliers
 Revenus des autres placements 
 
 </td>
-      <td width="168" valign="top">
+      <td valign="top" width="168">
       </td><td valign="top" width="132">
-      </td><td width="105" valign="top">
+      </td><td valign="top" width="105">
     </td></tr>
     <tr>
-      <td width="209" valign="top">
+      <td valign="top" width="209">
 
 Autres revenus financiers (commission, honoraires) 
 
 </td>
-      <td width="168" valign="top">
-      </td><td valign="top" width="132">
+      <td valign="top" width="168">
+      </td><td width="132" valign="top">
       </td><td valign="top" width="105">
     </td></tr>
     <tr>
@@ -238,12 +238,12 @@ Total (poste II-2 a ou III-1 a du compte de résultat)
 Frais financiers (commission, honoraires, intérêts et agios...) 
 
 </td>
-      <td valign="top" width="168">
+      <td width="168" valign="top">
       </td><td valign="top" width="132">
       </td><td width="105" valign="top">
     </td></tr>
     <tr>
-      <td colspan="4" width="614">
+      <td width="614" colspan="4">
 
 (1) Au sens de l'article 20 du décret du 29 novembre 1983. 
 
@@ -285,7 +285,7 @@ DÉFINITION
 1. Primes. 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Poste II-1 du compte de résultat (CR) (1re colonne). 
 
@@ -304,7 +304,7 @@ Poste II-5 du CR (1re colonne).
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 3. Charges des provisions d'assurance vie et autres provisions techniques. 
 
@@ -333,7 +333,7 @@ Poste II-3 diminué du poste II-10 (1re colonne).
 A.-Solde de souscription. 
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 (1-2-3 + 4). 
 
@@ -352,31 +352,31 @@ Poste II-8 a du CR (1re colonne).
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 6. Autres charges de gestion nettes. 
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Postes II-8 b et II-11 (1re colonne) du CR diminués du poste II-4 (1re colonne).
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 B.-Charges d'acquisition et de gestion nettes. 
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 (5 + 6). 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 7. Produit net des placements. 
 
@@ -393,7 +393,7 @@ Poste II-2 du CR diminué des postes II-9 et II-12 (1re colonne).
 8. Participation aux résultats (1). 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Poste II-7 du CR (1re colonne).
 
@@ -412,12 +412,12 @@ C.-Solde financier.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 9. Primes cédées. 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Poste II-1 du CR (2e colonne). 
 
@@ -429,14 +429,14 @@ Poste II-1 du CR (2e colonne).
 10. Part des réassureurs dans les charges des prestations. 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Poste II-5 du CR (2e colonne). 
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 11. Part des réassureurs dans les charges des provisions d'assurance vie et autres provisions techniques. 
 
@@ -465,14 +465,14 @@ Postes II-7 du CR (2e colonne).
 13. Commissions reçues des réassureurs. 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Poste II-8 c du CR non encore pris en compte.
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 D.-Solde de réassurance. 
 
@@ -484,12 +484,12 @@ D.-Solde de réassurance.
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Résultat technique 
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 A-B + C + D 
 
@@ -501,18 +501,18 @@ A-B + C + D
 Hors compte : 
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 14. Montant des rachats. 
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 15. Intérêts techniques bruts de l'exercice. 
 
@@ -524,15 +524,15 @@ Comptes 6300, 6301, 6302, 6340, 6341 et 6342.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 16. Provisions techniques brutes à la clôture. 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
     </td></tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 17. Provisions techniques brutes à l'ouverture. 
 
@@ -544,7 +544,7 @@ Postes 3 b, 3 c, 3 e, 3 h et 4 du bilan (passif).
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 (1) Ainsi modifié par arrêté du 28 juillet 1995, article 3-II-1°.
 
@@ -575,14 +575,14 @@ DÉFINITION
 1. Primes acquises. 
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 (1 a-1 b). 
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 1 a. Primes. 
 
@@ -594,7 +594,7 @@ Poste I-1 a du CR (1re colonne).
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 1 b. Variation des primes non acquises. 
 
@@ -618,12 +618,12 @@ Poste I-1 b du CR (1re colonne).
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 2 a. Prestations et frais payés. 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Poste I-4 a du CR (1re colonne). 
 
@@ -635,7 +635,7 @@ Poste I-4 a du CR (1re colonne).
 2 b. Charges des provisions pour prestations et diverses. 
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Postes I-4 b, I-5 et I-9 du CR (1re colonne).
 
@@ -654,12 +654,12 @@ A.-Solde de souscription.
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 5. Frais d'acquisition. 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Poste I-7 a du CR (1re colonne). 
 
@@ -671,7 +671,7 @@ Poste I-7 a du CR (1re colonne).
 6. Autres charges de gestion nettes. 
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Postes I-7 b et I-8 (1re colonne) du CR diminués du poste I-3 (1re colonne).
 
@@ -683,14 +683,14 @@ Postes I-7 b et I-8 (1re colonne) du CR diminués du poste I-3 (1re colonne).
 B.-Charges d'acquisition et de gestion nettes. 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 (5 + 6). 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 7. Produits des placements. 
 
@@ -702,7 +702,7 @@ Poste I-2 du CR (1re colonne).
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 8. Participation aux résultats. 
 
@@ -714,7 +714,7 @@ Poste I-6 du CR (1re colonne).
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 C.-Solde financier. 
 
@@ -731,14 +731,14 @@ C.-Solde financier.
 9. Part des réassureurs dans les primes acquises. 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Postes I a et I b du CR (2e colonne). 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 10. Part des réassureurs dans les prestations payées. 
 
@@ -762,12 +762,12 @@ Postes I-4 b, I-5 et I-9 du CR (2e colonne).
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 12. Part des réassureurs dans les participations aux résultats. 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Poste I-6 du CR (2e colonne). 
 
@@ -786,7 +786,7 @@ Poste I-7 d du CR
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 D.-Solde de réassurance. 
 
@@ -810,7 +810,7 @@ A-B + C + D
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Hors compte : 
 
@@ -818,12 +818,12 @@ Hors compte :
       <td valign="top" width="307">
     </td></tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 14. Provisions pour primes non acquises (clôture). 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Poste 3 a du bilan (passif). 
 
@@ -835,7 +835,7 @@ Poste 3 a du bilan (passif).
 15. Provisions pour primes non acquises (ouverture). 
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
     </td></tr>
     <tr>
       <td width="307" valign="top">
@@ -858,7 +858,7 @@ Poste 3 d du bilan (passif).
       <td valign="top" width="307">
     </td></tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 18. Autres provisions techniques (clôture). 
 
@@ -878,7 +878,7 @@ Postes 3 f, 3 g et 3 i du bilan (passif).
       <td valign="top" width="307">
     </td></tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 (1) Ainsi modifié par arrêté du 19 avril 1995, article 3-III eu du 28 juillet 1995, article 3-III (2°). 
 
@@ -969,7 +969,7 @@ bilan de clôture, selon le modèle ci-dessous :
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="533">
+      <td width="533" valign="top">
 
 Charges des provisions d'assurance-vie (poste II-6 a du compte technique) 
 
@@ -981,7 +981,7 @@ X 1
 </td>
     </tr>
     <tr>
-      <td valign="top" width="533">
+      <td width="533" valign="top">
 
 Intérêts techniques (comptes 6302 et 6342) et (Arrêté du 28 juillet 1995, art. 3-II-2°) participations aux bénéfices
 incorporées directement (comptes 6305 et 6345) 
@@ -1012,19 +1012,19 @@ X 4
 (Arrêté du 28 décembre 2007, art. 4.) Variation des cours de change (+ OU) 
 
 </td>
-      <td width="81" valign="bottom">
+      <td valign="bottom" width="81">
 
 X 5 
 
 </td>
     </tr>
     <tr>
-      <td width="533" valign="top">
+      <td valign="top" width="533">
 
 (Arrêté du 15 décembre 2005, annexe 3-36.) Transferts de provisions 
 
 </td>
-      <td width="81" valign="bottom">
+      <td valign="bottom" width="81">
 
 X 6 
 
@@ -1057,7 +1057,7 @@ financiers :
 DÉSIGNATION 
 
 </td>
-      <td colspan="5" width="336">
+      <td width="336" colspan="5">
 
 EXERCICE (1) 
 
@@ -1091,16 +1091,16 @@ n
 </td>
     </tr>
     <tr>
-      <td valign="top" width="281">
+      <td width="281" valign="top">
 
 A.-Participation aux résultats totale (postes I-6 et II-7 du compte de résultat = A 1 + A 2) : 
 
 </td>
       <td valign="top" width="72">
-      </td><td valign="top" width="72">
-      </td><td valign="top" width="72">
-      </td><td valign="top" width="60">
-      </td><td valign="top" width="60">
+      </td><td width="72" valign="top">
+      </td><td width="72" valign="top">
+      </td><td width="60" valign="top">
+      </td><td width="60" valign="top">
     </td></tr>
     <tr>
       <td width="281" valign="top">
@@ -1108,33 +1108,33 @@ A.-Participation aux résultats totale (postes I-6 et II-7 du compte de résulta
 A 1 : Participation attribuée à des contrats (y compris intérêts techniques) 
 
 </td>
-      <td width="72" valign="top">
+      <td valign="top" width="72">
       </td><td width="72" valign="top">
       </td><td valign="top" width="72">
-      </td><td width="60" valign="top">
+      </td><td valign="top" width="60">
       </td><td width="60" valign="top">
     </td></tr>
     <tr>
-      <td width="281" valign="top">
+      <td valign="top" width="281">
 
 A 2 : (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise de la provision pour participation aux bénéfices 
 
 </td>
       <td valign="top" width="72">
-      </td><td valign="top" width="72">
       </td><td width="72" valign="top">
-      </td><td valign="top" width="60">
+      </td><td valign="top" width="72">
+      </td><td width="60" valign="top">
       </td><td valign="top" width="60">
     </td></tr>
     <tr>
-      <td width="281" valign="top">
+      <td valign="top" width="281">
 
 B.-Participation aux résultats des contrats relevant des catégories visées à l'article A. 132-2 : 
 
 </td>
       <td valign="top" width="72">
-      </td><td valign="top" width="72">
       </td><td width="72" valign="top">
+      </td><td valign="top" width="72">
       </td><td width="60" valign="top">
       </td><td width="60" valign="top">
     </td></tr>
@@ -1144,18 +1144,6 @@ B.-Participation aux résultats des contrats relevant des catégories visées à
 B 1 : Provisions mathématiques moyennes (2) 
 
 </td>
-      <td valign="top" width="72">
-      </td><td width="72" valign="top">
-      </td><td width="72" valign="top">
-      </td><td width="60" valign="top">
-      </td><td valign="top" width="60">
-    </td></tr>
-    <tr>
-      <td width="281" valign="top">
-
-B 2 : Montant minimal de la participation aux résultats 
-
-</td>
       <td width="72" valign="top">
       </td><td valign="top" width="72">
       </td><td valign="top" width="72">
@@ -1165,17 +1153,29 @@ B 2 : Montant minimal de la participation aux résultats
     <tr>
       <td valign="top" width="281">
 
+B 2 : Montant minimal de la participation aux résultats 
+
+</td>
+      <td valign="top" width="72">
+      </td><td width="72" valign="top">
+      </td><td valign="top" width="72">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="60">
+    </td></tr>
+    <tr>
+      <td width="281" valign="top">
+
 B 3 : Montant effectif de la participation aux résultats (3) :
 
 </td>
       <td valign="top" width="72">
       </td><td width="72" valign="top">
-      </td><td width="72" valign="top">
-      </td><td valign="top" width="60">
+      </td><td valign="top" width="72">
+      </td><td width="60" valign="top">
       </td><td width="60" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="281">
+      <td width="281" valign="top">
 
 - B 3 a Participation attribuée à des contrats (y compris intérêts techniques)
 
@@ -1194,13 +1194,13 @@ bénéfices
 
 </td>
       <td valign="top" width="72">
-      </td><td valign="top" width="72">
       </td><td width="72" valign="top">
-      </td><td valign="top" width="60">
+      </td><td valign="top" width="72">
+      </td><td width="60" valign="top">
       </td><td width="60" valign="top">
     </td></tr>
     <tr>
-      <td width="617" valign="top" colspan="6">
+      <td valign="top" colspan="6" width="617">
 
 (1) L'exercice n est l'exercice sous revue. 
 
@@ -1240,7 +1240,32 @@ déterminé de ces organes ;
 
 c) Le montant global des avances et crédits accordés pendant l'exercice, respectivement à l'ensemble des membres des organes
 d'administration, à l'ensemble des membres des organes de direction ou de surveillance ainsi que le montant des engagements
-pris pour le compte de ces personnes au titre d'une garantie quelconque.
+pris pour le compte de ces personnes au titre d'une garantie quelconque. 
+
+3. 3 Lorsque l'entreprise applique l'option prévue à l'article R. 331-5-4 du présent code qui lui permet de reporter la
+charge constituée par la dotation à la provision pour risque d'exigibilité, il en est fait mention dans les annexes des états
+financiers. 
+
+Si ces informations sont significatives pour l'organisme concerné, ce dernier doit également mentionner les informations
+suivantes :
+
+- le montant de la moins-value latente globale nette mentionnée à l'article R. 331-5-1 du présent code ;
+
+- le montant de la provision pour risque d'exigibilité brute déjà constituée au niveau des autres provisions techniques
+(comptes 3703 et 3723 du plan comptable des entreprises d'assurance) ;
+
+- les hypothèses relatives à l'évaluation de la duration des passifs définie par l'article A. 331-26 du présent code, ainsi
+que les informations sur les événements affectant cette duration, si elle a été modifiée significativement par rapport à
+l'exercice antérieur ;
+
+- le montant de la charge relative à la provision pour risque d'exigibilité restant à constater en résultat sur les exercices
+futurs si l'option n'avait pas été retenue (compte 379 du plan comptable des entreprises d'assurance) ;
+
+- les informations qualitatives expliquant l'évolution sur l'exercice du solde du compte de dotation à la provision pour
+risque d'exigibilité restant à constater ;
+
+- le résultat de l'organisme d'assurance tel qu'il aurait été si ce dernier n'avait pas utilisé l'option mentionnée à
+l'article R. 331-5-4 (c'est-à-dire en neutralisant l'impact du compte 753 sur le résultat).
 
 **Liens relatifs à cet article**
 
@@ -1254,7 +1279,8 @@ _Cite_:
   - Code des assurances - art. L441-1
   - Code des assurances - art. R*321-3
   - Code des assurances - art. R321-5
+  - Code des assurances - art. R331-5-4
 
 _Modifié par_:
 
-  - Arrêté du 7 novembre 2008 - art. 9
+  - Arrêté du 30 janvier 2009 - art. 3

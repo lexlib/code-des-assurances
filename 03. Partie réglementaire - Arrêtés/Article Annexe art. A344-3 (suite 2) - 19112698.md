@@ -31,31 +31,31 @@ N
       </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 2. Actifs incorporels 
 
 </td>
       <td width="84" valign="top">
-      </td><td width="81" valign="top">
+      </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 3. Placements : 
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td width="81" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 3 a Terrains et constructions 
 
 </td>
-      <td valign="top" width="84">
-      </td><td valign="top" width="81">
+      <td width="84" valign="top">
+      </td><td width="81" valign="top">
     </td></tr>
     <tr>
       <td width="449" valign="top">
@@ -64,7 +64,7 @@ N
 
 </td>
       <td valign="top" width="84">
-      </td><td width="81" valign="top">
+      </td><td valign="top" width="81">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -72,11 +72,11 @@ N
 3 c Autres placements 
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 3 d Créances pour espèces déposées auprès des entreprises cédantes 
 
@@ -91,7 +91,7 @@ N
 
 </td>
       <td valign="top" width="84">
-      </td><td width="81" valign="top">
+      </td><td valign="top" width="81">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -99,8 +99,8 @@ N
 5. Part des cessionnaires et rétrocessionnaires dans les provisions techniques : 
 
 </td>
-      <td valign="top" width="84">
-      </td><td valign="top" width="81">
+      <td width="84" valign="top">
+      </td><td width="81" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -109,10 +109,10 @@ N
 
 </td>
       <td valign="top" width="84">
-      </td><td valign="top" width="81">
+      </td><td width="81" valign="top">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 5 b Provisions d'assurance-vie 
 
@@ -121,13 +121,13 @@ N
       </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 5 c Provisions pour sinistres (vie) 
 
 </td>
       <td valign="top" width="84">
-      </td><td valign="top" width="81">
+      </td><td width="81" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -135,17 +135,17 @@ N
 5 d Provisions pour primes non acquises (non-vie) (1) 
 
 </td>
-      <td valign="top" width="84">
+      <td width="84" valign="top">
       </td><td width="81" valign="top">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 5 e Provisions pour participation aux bénéfices et ristournes (vie) 
 
 </td>
       <td valign="top" width="84">
-      </td><td width="81" valign="top">
+      </td><td valign="top" width="81">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -157,13 +157,13 @@ N
       </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 5 g Provisions d'égalisation 
 
 </td>
       <td valign="top" width="84">
-      </td><td valign="top" width="81">
+      </td><td width="81" valign="top">
     </td></tr>
     <tr>
       <td width="449" valign="top">
@@ -181,7 +181,7 @@ N
 
 </td>
       <td valign="top" width="84">
-      </td><td valign="top" width="81">
+      </td><td width="81" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -193,13 +193,13 @@ N
       </td><td width="81" valign="top">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 6. Créances : 
 
 </td>
       <td valign="top" width="84">
-      </td><td width="81" valign="top">
+      </td><td valign="top" width="81">
     </td></tr>
     <tr>
       <td width="449" valign="top">
@@ -207,29 +207,29 @@ N
 6 a Créances nées d'opérations d'assurance directe :
 
 </td>
+      <td valign="top" width="84">
+      </td><td valign="top" width="81">
+    </td></tr>
+    <tr>
+      <td valign="top" width="449">
+
+- 6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre 
+
+</td>
       <td width="84" valign="top">
       </td><td valign="top" width="81">
     </td></tr>
     <tr>
       <td width="449" valign="top">
 
-- 6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre »
-
-</td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="81">
-    </td></tr>
-    <tr>
-      <td valign="top" width="449">
-
 - 6 ab Autres créances nées d'opérations d'assurance directe 
 
 </td>
       <td valign="top" width="84">
-      </td><td width="81" valign="top">
+      </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 6 b Créances nées d'opérations de réassurance 
 
@@ -243,8 +243,8 @@ N
 6 c Autres créances :
 
 </td>
-      <td valign="top" width="84">
-      </td><td valign="top" width="81">
+      <td width="84" valign="top">
+      </td><td width="81" valign="top">
     </td></tr>
     <tr>
       <td width="449" valign="top">
@@ -252,20 +252,20 @@ N
 - 6 ca Personnel
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 - 6 cb Etat, organismes de sécurité sociale, collectivités publiques
 
 </td>
       <td width="84" valign="top">
-      </td><td width="81" valign="top">
+      </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 - 6 cc Débiteurs divers 
 
@@ -274,16 +274,16 @@ N
       </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 6 d Capital appelé non versé 
 
 </td>
-      <td valign="top" width="84">
+      <td width="84" valign="top">
       </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 7. Autres actifs : 
 
@@ -306,8 +306,8 @@ N
 7 b Comptes courants et caisse 
 
 </td>
-      <td valign="top" width="84">
-      </td><td width="81" valign="top">
+      <td width="84" valign="top">
+      </td><td valign="top" width="81">
     </td></tr>
     <tr>
       <td width="449" valign="top">
@@ -316,7 +316,7 @@ N
 
 </td>
       <td width="84" valign="top">
-      </td><td width="81" valign="top">
+      </td><td valign="top" width="81">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -325,7 +325,7 @@ N
 
 </td>
       <td width="84" valign="top">
-      </td><td valign="top" width="81">
+      </td><td width="81" valign="top">
     </td></tr>
     <tr>
       <td width="449" valign="top">
@@ -333,7 +333,7 @@ N
 8 a Intérêts et loyers acquis non échus 
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td valign="top" width="81">
     </td></tr>
     <tr>
@@ -351,26 +351,26 @@ N
 8 c Autres comptes de régularisation 
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td valign="top" width="81">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 9. (Ligne supprimée par arrêté du 28 décembre 2007, art. 4) 
 
 </td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="81">
+      <td valign="top" width="84">
+      </td><td width="81" valign="top">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 Total de l'actif 
 
 </td>
       <td width="84" valign="top">
-      </td><td width="81" valign="top">
+      </td><td valign="top" width="81">
     </td></tr>
     <tr>
       <td colspan="3" valign="top" width="614">
@@ -380,7 +380,7 @@ Total de l'actif
 N.B. 1 : (Arrêté du 28 juillet 1995, art. 3-I-2°) En tant que de besoin, le poste 5 est suivi d'un poste 5 bis, intitulé "
 Part des organismes dispensés d'agrément dans les provisions techniques, subdivisé en sous-postes 5 bis a " Provisions pour
 primes non acquises, 5 bis d " Provisions pour sinistres, 5 bis f " Provisions pour participation aux bénéfices et
-ristournes, 5 bis g " Provisions pour égalisation et 5 bis i " Autres provisions techniques. » 
+ristournes, 5 bis g " Provisions pour égalisation et 5 bis i " Autres provisions techniques. 
 
 </td>
     </tr>
@@ -412,8 +412,8 @@ N
 1. Capitaux propres : 
 
 </td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      <td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -421,8 +421,8 @@ N
 1 a Capital social ou fonds d'établissement et fonds social complémentaire ou compte de liaison avec le siège 
 
 </td>
-      <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -430,7 +430,7 @@ N
 1 b Primes liées au capital social 
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td valign="top" width="84">
     </td></tr>
     <tr>
@@ -440,7 +440,7 @@ N
 
 </td>
       <td valign="top" width="84">
-      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
       <td width="449">
@@ -458,7 +458,7 @@ N
 
 </td>
       <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -467,12 +467,21 @@ N
 
 </td>
       <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
 
 2. Passifs subordonnés 
+
+</td>
+      <td width="84" valign="top">
+      </td><td width="84" valign="top">
+    </td></tr>
+    <tr>
+      <td width="449">
+
+3. Provisions techniques brutes : 
 
 </td>
       <td valign="top" width="84">
@@ -481,20 +490,11 @@ N
     <tr>
       <td width="449">
 
-3. Provisions techniques brutes : 
-
-</td>
-      <td width="84" valign="top">
-      </td><td width="84" valign="top">
-    </td></tr>
-    <tr>
-      <td width="449">
-
 3 a Provisions pour primes non acquises (non vie) (2) 
 
 </td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="84">
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
       <td width="449">
@@ -503,7 +503,7 @@ N
 
 </td>
       <td valign="top" width="84">
-      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
       <td width="449">
@@ -512,7 +512,7 @@ N
 
 </td>
       <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -538,7 +538,7 @@ N
 3 f Provisions pour participation aux bénéfices et ristournes (non-vie) 
 
 </td>
-      <td valign="top" width="84">
+      <td width="84" valign="top">
       </td><td width="84" valign="top">
     </td></tr>
     <tr>
@@ -547,8 +547,8 @@ N
 3 g Provisions pour égalisation 
 
 </td>
-      <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -556,8 +556,8 @@ N
 3 h Autres provisions techniques (vie) 
 
 </td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="84">
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
       <td width="449">
@@ -565,8 +565,8 @@ N
 3 i Autres provisions techniques (non-vie) 
 
 </td>
-      <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -584,7 +584,7 @@ N
 
 </td>
       <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -592,8 +592,8 @@ N
 6. Dettes pour dépôts en espèces reçus des cessionnaires 
 
 </td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      <td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -601,8 +601,8 @@ N
 7. Autres dettes : 
 
 </td>
-      <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -619,8 +619,8 @@ N
 7 b Dettes nées d'opérations de réassurance 
 
 </td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      <td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -629,7 +629,7 @@ N
 
 </td>
       <td width="84" valign="top">
-      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
       <td width="449">
@@ -646,8 +646,8 @@ N
 7 e Autres dettes :
 
 </td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="84">
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
       <td width="449">
@@ -655,7 +655,7 @@ N
 - 7 ea Titres de créance négociables émis par l'entreprise
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td valign="top" width="84">
     </td></tr>
     <tr>
@@ -665,7 +665,7 @@ N
 
 </td>
       <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -673,7 +673,7 @@ N
 - 7 ec Personnel
 
 </td>
-      <td valign="top" width="84">
+      <td width="84" valign="top">
       </td><td valign="top" width="84">
     </td></tr>
     <tr>
@@ -682,8 +682,8 @@ N
 - 7 ed Etat, organismes de sécurité sociale et collectivités publiques
 
 </td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="84">
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
       <td width="449">
@@ -692,7 +692,7 @@ N
 
 </td>
       <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -700,7 +700,7 @@ N
 8. Comptes de régularisation-Passif 
 
 </td>
-      <td valign="top" width="84">
+      <td width="84" valign="top">
       </td><td width="84" valign="top">
     </td></tr>
     <tr>
@@ -709,8 +709,8 @@ N
 9. (Ligne supprimée par arrêté du 28 décembre 2007, art. 4) 
 
 </td>
-      <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449">
@@ -722,7 +722,7 @@ Total du passif
       </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td colspan="3" width="617" valign="top">
+      <td width="617" colspan="3" valign="top">
 
 (1) Ainsi modifié par arrêté du 15 décembre 2005, annexe 3-6. 
 
@@ -755,34 +755,34 @@ N-1
 </td>
     </tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 1. Engagements reçus 
 
 </td>
-      <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 2. Engagements donnés : 
 
 </td>
       <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 2 a Avals, cautions et garanties de crédit donnés 
 
 </td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      <td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 2 b Titres et actifs acquis avec engagement de revente 
 
@@ -797,19 +797,19 @@ N-1
 
 </td>
       <td width="84" valign="top">
-      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 2 d Autres engagements donnés 
 
 </td>
-      <td valign="top" width="84">
-      </td><td valign="top" width="84">
+      <td width="84" valign="top">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 3. Valeurs reçues en nantissement des cessionnaires et rétrocessionnaires 
 
@@ -818,7 +818,7 @@ N-1
       </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 4. Valeurs remises par des organismes réassurés avec caution solidaire ou avec substitution 
 
@@ -827,49 +827,49 @@ N-1
       </td><td width="84" valign="top">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 5. Valeurs appartenant à des institutions de prévoyance 
 
 </td>
       <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 6. Autres valeurs détenues pour compte de tiers 
 
 </td>
       <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 7. Encours d'instruments financiers à terme (1) : 
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 7 a Ventilation de l'encours d'instruments financiers à terme par catégorie de stratégie :
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 - Stratégies d'investissement ou de désinvestissement
 
 </td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      <td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449" valign="top">
@@ -887,7 +887,7 @@ N-1
 
 </td>
       <td width="84" valign="top">
-      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -895,8 +895,8 @@ N-1
 7 b Ventilation de l'encours d'instruments financiers à terme par catégorie de marché :
 
 </td>
-      <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      <td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td width="449" valign="top">
@@ -914,7 +914,7 @@ N-1
 
 </td>
       <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -940,7 +940,7 @@ N-1
 - Risque de change
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td width="84" valign="top">
     </td></tr>
     <tr>
@@ -950,24 +950,24 @@ N-1
 
 </td>
       <td width="84" valign="top">
-      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 7 d Ventilation de l'encours d'instruments financiers à terme par nature d'instrument, notamment :
 
 </td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="84">
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
-      <td width="449" valign="top">
+      <td valign="top" width="449">
 
 - Contrats d'échange
 
 </td>
-      <td width="84" valign="top">
+      <td valign="top" width="84">
       </td><td width="84" valign="top">
     </td></tr>
     <tr>
@@ -980,22 +980,22 @@ N-1
       </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 - Contrats à terme
 
 </td>
-      <td width="84" valign="top">
-      </td><td valign="top" width="84">
+      <td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 - Options 
 
 </td>
       <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -1007,13 +1007,13 @@ N-1
       </td><td width="84" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="449">
+      <td width="449" valign="top">
 
 - De 0 à 1 an
 
 </td>
-      <td width="84" valign="top">
-      </td><td width="84" valign="top">
+      <td valign="top" width="84">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
       <td valign="top" width="449">
@@ -1022,7 +1022,7 @@ N-1
 
 </td>
       <td valign="top" width="84">
-      </td><td valign="top" width="84">
+      </td><td width="84" valign="top">
     </td></tr>
     <tr>
       <td width="449" valign="top">
@@ -1031,10 +1031,10 @@ N-1
 
 </td>
       <td valign="top" width="84">
-      </td><td width="84" valign="top">
+      </td><td valign="top" width="84">
     </td></tr>
     <tr>
-      <td colspan="3" width="617">
+      <td width="617" colspan="3">
 
 (1) Points 7, 7 a, 7 b, 7 c, 7 d et 7 e insérés par arrêté du 15 décembre 2005, annexe 3-8. 
 
@@ -1392,7 +1392,7 @@ Net du compte 59.
 </td>
       <td width="276">
 
-482, 4830, 486 » (1), 487 et 489 » (2) 
+482, 4830, 486 (1), 487 et 489 (2) 
 
 </td>
       <td width="249">
@@ -1413,7 +1413,7 @@ Soldes débiteurs.
       <td width="249">
     </td></tr>
     <tr>
-      <td width="614" colspan="3" valign="top">
+      <td valign="top" colspan="3" width="614">
 
 (1) Inséré par arrêté du 15 décembre 2005, annexe 3-9. 
 
@@ -1471,7 +1471,7 @@ COMMENTAIRE
 104 
 
 </td>
-      <td width="205" valign="top">
+      <td valign="top" width="205">
     </td></tr>
     <tr>
       <td width="89">
@@ -1484,7 +1484,7 @@ COMMENTAIRE
 105 
 
 </td>
-      <td valign="top" width="205">
+      <td width="205" valign="top">
     </td></tr>
     <tr>
       <td width="89">
@@ -1497,7 +1497,7 @@ COMMENTAIRE
 106 
 
 </td>
-      <td valign="top" width="205">
+      <td width="205" valign="top">
     </td></tr>
     <tr>
       <td width="89">
@@ -1523,7 +1523,7 @@ COMMENTAIRE
 12 
 
 </td>
-      <td valign="top" width="205">
+      <td width="205" valign="top">
     </td></tr>
     <tr>
       <td width="89">
@@ -1536,7 +1536,7 @@ COMMENTAIRE
 160 
 
 </td>
-      <td valign="top" width="205">
+      <td width="205" valign="top">
     </td></tr>
     <tr>
       <td width="89">
@@ -1548,10 +1548,10 @@ COMMENTAIRE
 
 Respectivement 31, 30, 32, 33, 34, 35, 36, 370 
 
-et 374 et 377, 372 et 375 
+et 374 et 377, 372 et 375, 379 
 
 </td>
-      <td valign="top" width="205">
+      <td width="205" valign="top">
     </td></tr>
     <tr>
       <td width="89">
@@ -1577,7 +1577,7 @@ et 374 et 377, 372 et 375
 14 et 15 
 
 </td>
-      <td width="205" valign="top">
+      <td valign="top" width="205">
     </td></tr>
     <tr>
       <td width="89">
@@ -1590,7 +1590,7 @@ et 374 et 377, 372 et 375
 17 
 
 </td>
-      <td width="205" valign="top">
+      <td valign="top" width="205">
     </td></tr>
     <tr>
       <td width="89">
@@ -1620,7 +1620,7 @@ Soldes créditeurs.
 41 
 
 </td>
-      <td width="205" valign="top">
+      <td valign="top" width="205">
 
 Soldes créditeurs. 
 
@@ -1650,7 +1650,7 @@ Soldes créditeurs.
 164 
 
 </td>
-      <td width="205" valign="top">
+      <td valign="top" width="205">
     </td></tr>
     <tr>
       <td width="89">
@@ -1663,7 +1663,7 @@ Soldes créditeurs.
 163 
 
 </td>
-      <td valign="top" width="205">
+      <td width="205" valign="top">
     </td></tr>
     <tr>
       <td width="89">
@@ -1737,10 +1737,10 @@ Soldes créditeurs.
 </td>
       <td width="321">
 
-484, 4850, 486 » (1), 487 et 489 » (2) 
+484, 4850, 486 (1), 487 et 489 (2) 
 
 </td>
-      <td valign="top" width="205">
+      <td width="205" valign="top">
 
 Soldes créditeurs. 
 
@@ -1756,7 +1756,7 @@ Soldes créditeurs.
       </td><td valign="top" width="205">
     </td></tr>
     <tr>
-      <td width="614" valign="top" colspan="3">
+      <td colspan="3" valign="top" width="614">
 
 (1) Inséré par arrêté du 15 décembre 2005, annexe 3-9. 
 
@@ -1773,8 +1773,8 @@ Règles de raccordement des comptes au bilan
 
 (tableau des engagements reçus et donnés) 
 
-Postes 1, 2 a à 2 d, 3, 4, 5, (cf. note 38) 6 (arrêté du 15 décembre 2005, annexe 3-10) et 7 » : raccordement aux sous-
-comptes (arrêté du 15 décembre 2005, annexe 3-10) des comptes 80 et 81 ». 
+Postes 1, 2 a à 2 d, 3, 4, 5, (cf. note 38) 6 (arrêté du 15 décembre 2005, annexe 3-10) et 7 : raccordement aux sous-comptes
+(arrêté du 15 décembre 2005, annexe 3-10) des comptes 80 et 81 . 
 
 Commentaires particuliers : 
 
@@ -1793,12 +1793,12 @@ COMMENTAIRE
 </td>
     </tr>
     <tr>
-      <td valign="top" width="65">
+      <td width="65" valign="top">
 
 2 a 
 
 </td>
-      <td width="549" valign="top">
+      <td valign="top" width="549">
 
 Toutes opérations non inscrites au passif du bilan par lesquelles l'entreprise s'est engagée, de quelque manière que ce soit
 et quelle que soit la forme juridique, de manière ferme à se substituer à un débiteur. 
@@ -1806,7 +1806,7 @@ et quelle que soit la forme juridique, de manière ferme à se substituer à un 
 </td>
     </tr>
     <tr>
-      <td width="65" valign="top">
+      <td valign="top" width="65">
 
 2 b 
 
@@ -1824,9 +1824,9 @@ fixées par avance, un actif inscrit au bilan.
 2 c 
 
 </td>
-      <td valign="top" width="549">
+      <td width="549" valign="top">
 
-Toutes opérations autres que celles visées au 2 b (arrêté du 15 décembre 2005, annexe 3-10) et au 7 » par lesquelles
+Toutes opérations autres que celles visées au 2 b (arrêté du 15 décembre 2005, annexe 3-10) et au 7 par lesquelles
 l'entreprise a pris un engagement d'acheter ou de vendre un actif, ou de verser un revenu, et notamment :
 
 - les garanties d'acquisition d'immeuble ;
@@ -1838,7 +1838,7 @@ l'entreprise a pris un engagement d'acheter ou de vendre un actif, ou de verser 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="65">
+      <td width="65" valign="top">
 
 2 d 
 
@@ -1869,4 +1869,12 @@ Y compris, notamment, valeur des OPCVM dont l'entreprise est dépositaire.
 
 _Cite_:
 
-  - Arrêté du 15 décembre 2005 (V)
+  - Arrêté du 15 décembre 2005
+
+_Modifié par_:
+
+  - Arrêté du 30 janvier 2009 - art. 3
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
