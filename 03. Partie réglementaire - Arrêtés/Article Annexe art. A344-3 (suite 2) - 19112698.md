@@ -213,7 +213,7 @@ N
     <tr>
       <td valign="top" width="449">
 
-- 6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre »
+- 6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre 
 
 </td>
       <td valign="top" width="84">
@@ -380,7 +380,7 @@ Total de l'actif
 N.B. 1 : (Arrêté du 28 juillet 1995, art. 3-I-2°) En tant que de besoin, le poste 5 est suivi d'un poste 5 bis, intitulé "
 Part des organismes dispensés d'agrément dans les provisions techniques, subdivisé en sous-postes 5 bis a " Provisions pour
 primes non acquises, 5 bis d " Provisions pour sinistres, 5 bis f " Provisions pour participation aux bénéfices et
-ristournes, 5 bis g " Provisions pour égalisation et 5 bis i " Autres provisions techniques. » 
+ristournes, 5 bis g " Provisions pour égalisation et 5 bis i " Autres provisions techniques. 
 
 </td>
     </tr>
@@ -1392,7 +1392,7 @@ Net du compte 59.
 </td>
       <td width="276">
 
-482, 4830, 486 » (1), 487 et 489 » (2) 
+482, 4830, 486 (1), 487 et 489 (2) 
 
 </td>
       <td width="249">
@@ -1548,7 +1548,7 @@ COMMENTAIRE
 
 Respectivement 31, 30, 32, 33, 34, 35, 36, 370 
 
-et 374 et 377, 372 et 375 
+et 374 et 377, 372 et 375, 379 
 
 </td>
       <td valign="top" width="205">
@@ -1737,7 +1737,7 @@ Soldes créditeurs.
 </td>
       <td width="321">
 
-484, 4850, 486 » (1), 487 et 489 » (2) 
+484, 4850, 486 (1), 487 et 489 (2) 
 
 </td>
       <td valign="top" width="205">
@@ -1773,8 +1773,8 @@ Règles de raccordement des comptes au bilan
 
 (tableau des engagements reçus et donnés) 
 
-Postes 1, 2 a à 2 d, 3, 4, 5, (cf. note 38) 6 (arrêté du 15 décembre 2005, annexe 3-10) et 7 » : raccordement aux sous-
-comptes (arrêté du 15 décembre 2005, annexe 3-10) des comptes 80 et 81 ». 
+Postes 1, 2 a à 2 d, 3, 4, 5, (cf. note 38) 6 (arrêté du 15 décembre 2005, annexe 3-10) et 7 : raccordement aux sous-comptes
+(arrêté du 15 décembre 2005, annexe 3-10) des comptes 80 et 81 . 
 
 Commentaires particuliers : 
 
@@ -1826,7 +1826,7 @@ fixées par avance, un actif inscrit au bilan.
 </td>
       <td valign="top" width="549">
 
-Toutes opérations autres que celles visées au 2 b (arrêté du 15 décembre 2005, annexe 3-10) et au 7 » par lesquelles
+Toutes opérations autres que celles visées au 2 b (arrêté du 15 décembre 2005, annexe 3-10) et au 7 par lesquelles
 l'entreprise a pris un engagement d'acheter ou de vendre un actif, ou de verser un revenu, et notamment :
 
 - les garanties d'acquisition d'immeuble ;
@@ -1869,4 +1869,12 @@ Y compris, notamment, valeur des OPCVM dont l'entreprise est dépositaire.
 
 _Cite_:
 
-  - Arrêté du 15 décembre 2005 (V)
+  - Arrêté du 15 décembre 2005
+
+_Modifié par_:
+
+  - Arrêté du 30 janvier 2009 - art. 3
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
