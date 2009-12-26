@@ -3,7 +3,7 @@
 Evolution au cours des trois derniers exercices des règlements de sinistres effectués depuis l'exercice de survenance et de
 la provision pour sinistres à régler 
 
-<table>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2" width="245">
@@ -155,12 +155,25 @@ le montant par devise des écarts de conversion.
 engagements reçus et donnés, le montant des engagements à l'égard des dirigeants, le montant des engagements à l'égard des
 entreprises liées et le montant des engagements à l'égard des entreprises avec lesquelles existe un lien de participation. 
 
+1. 17. En ce qui concerne les opérations dites de " réassurance finite " mentionnées à l'article L. 310-1-1 et les opérations
+de réassurance purement financière, lorsqu'elles ont une importance significative, les entreprises d'assurance ou de
+réassurance indiquent dans l'annexe aux comptes annuels : 
+
+a) Une description des principes et méthodes comptables ainsi que des méthodes d'évaluation appliquées ; 
+
+b) A chaque fois que cela est utile à la compréhension et à l'appréciation des risques assumés par l'entreprise d'assurance
+ou de réassurance, des informations sur les postes du bilan et du compte de résultat concernés par ces opérations. Lorsque,
+pour les contrats dits de  réassurance finite  mentionnés à l'article L. 310-1-1, la décomposition entre la composante
+financière correspondant au dépôt et la composante correspondant au transfert significatif de risques d'assurance n'a pu être
+effectuée, l'entreprise d'assurance ou de réassurance indiquera les montants comptabilisés dans les postes du bilan et du
+compte de résultat concernés.
+
 2. Pour le compte de résultat 
 
 2. 1. Les entreprises indiquent la ventilation des produits et des charges des placements inscrits au compte de résultat
 selon le modèle ci-après : 
 
-<table>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td width="209">
@@ -265,7 +278,7 @@ l'assurance Non-vie du compte de résultat.
 
 A.-Catégories 1 à 19 
 
-<table>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td width="307">
@@ -555,7 +568,7 @@ Postes 3 b, 3 c, 3 e, 3 h et 4 du bilan (passif).
 
 B.-Catégories 20 à 39 (1) 
 
-<table>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td width="307">
@@ -966,7 +979,7 @@ techniques.
 a) Indiquent le détail de la variation des provisions d'assurance-vie brutes de réassurance entre le bilan d'ouverture et le
 bilan de clôture, selon le modèle ci-dessous : 
 
-<table>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td valign="top" width="533">
@@ -1049,7 +1062,7 @@ TOTAL
 b) Fournissent un tableau récapitulatif des éléments constitutifs de la participation des assurés aux résultats techniques et
 financiers : 
 
-<table>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2" width="281">
@@ -1273,7 +1286,7 @@ _Cite_:
 
   - Décret n°83-1020 du 29 novembre 1983 - art. 23
   - Loi n°2003-775 du 21 août 2003
-  - Code des assurances - art. A344-2
+  - Code des assurances - art. A344-2 (M)
   - Code des assurances - art. L310-1
   - Code des assurances - art. L310-1-1
   - Code des assurances - art. L441-1
@@ -1283,4 +1296,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Arrêté du 30 janvier 2009 - art. 3
+  - Arrêté du 21 décembre 2009 - art.
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
