@@ -82,6 +82,8 @@
 
 1654 Autres.
 
+1657. Dettes représentatives de la composante dépôt des contrats de réassurance.
+
 168 Autres emprunts et dettes assimilées :
 
 1680 Entreprises liées.
@@ -202,6 +204,8 @@ chaque comptabilité auxiliaire d'affectation d'opérations d'assurance légalem
 2344 Autres.
 
 235 Créances pour espèces déposées chez les cédantes.
+
+237. Créances représentatives de la composante dépôt des contrats de réassurance. 
 
 24 Placements représentant les provisions techniques afférentes aux contrats en unités de compte
 
@@ -1071,9 +1075,13 @@ désinvestissement ;
 
 _Modifié par_:
 
-  - Arrêté du 30 janvier 2009 - art. 2
+  - Arrêté du 21 décembre 2009 - art.
 
 _Cité par_:
 
   - Arrêté du 21 décembre 2009 - art. 1 (V)
   - Arrêté du 21 décembre 2009 - art. 3 (V)
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
