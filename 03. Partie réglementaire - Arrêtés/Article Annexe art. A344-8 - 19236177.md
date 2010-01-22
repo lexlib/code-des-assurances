@@ -1,7 +1,7 @@
 # Article Annexe art. A344-8
 
-**I.-Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle des assurances et des
-mutuelles par les entreprises ayant leur siège social en France sont les suivants : **
+I.-Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle prudentiel par les
+entreprises ayant leur siège social en France sont les suivants : 
 
 a) la raison sociale de l'entreprise, son adresse, la date de sa constitution, les modifications apportées aux statuts en
 cours de l'exercice et, si de telles modifications sont intervenues, un exemplaire à jour des statuts ; 
@@ -63,8 +63,8 @@ modalités de fixation à toute époque de la valeur de rachat et de la valeur d
 de calcul de la charge annuelle de participation aux bénéfices ainsi que le mode de répartition de cette participation entre
 les assurés (quotité et délai), et le calcul des provisions mathématiques. 
 
-II. Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle des assurances et des
-mutuelles par les succursales des entreprises étrangères visées au 3 
+II. Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle prudentiel par les
+succursales des entreprises étrangères visées au 3 
   <sup>o </sup>et au 4 
   <sup>o </sup>de l'article  
 L. 310-2 sont les suivants : 
@@ -130,6 +130,10 @@ méthode de calcul de la charge annuelle de participation aux bénéfices ainsi 
 participation entre les assurés (quotité et délai), et le calcul des provisions mathématiques.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 _Cite_:
 
