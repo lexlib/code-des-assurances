@@ -111,11 +111,11 @@ portées aux comptes 7642 et 6642.
 
 4. 3. Régime dérogatoire. 
 
-Lorsqu'une entreprise en fait la demande, l'Autorité de contrôle des assurances et des mutuelles peut la dispenser de
-l'utilisation de sous-compte d'attente si elle estime que ladite entreprise dispose des moyens techniques et des procédures
-internes garantissant une stricte congruence à tout moment, sans excédent ni déficit, du portefeuille d'actifs inscrits en
-compte 24 avec les engagements en unités de compte, ainsi que la correcte passation des écritures comptables dans les
-conditions définies ci-après.
+Lorsqu'une entreprise en fait la demande, l'Autorité de contrôle prudentiel peut la dispenser de l'utilisation de sous-compte
+d'attente si elle estime que ladite entreprise dispose des moyens techniques et des procédures internes garantissant une
+stricte congruence à tout moment, sans excédent ni déficit, du portefeuille d'actifs inscrits en compte 24 avec les
+engagements en unités de compte, ainsi que la correcte passation des écritures comptables dans les conditions définies ci-
+après.
 
 L'entreprise ayant obtenu une telle dispense n'est pas soumise aux dispositions du 1 et du 2 ci-dessus. 
 
@@ -138,10 +138,9 @@ les plus ou moins-values constatées à cette occasion sont passées respectivem
 Les titres et parts virés au compte 24 entrent à ce compte à leur valeur de réalisation du jour ; les plus et moins-values
 constatées à cette occasion sont passées respectivement aux comptes 7642 et 6642. 
 
-Lorsque l'Autorité de contrôle des assurances et des mutuelles constate que les procédures internes ou les moyens mis en
-oeuvre ne répondent plus ou s'avèrent en pratique insuffisants pour répondre aux exigences prévues ci-dessus, elle notifie à
-l'entreprise le retrait de la dispense et l'obligation de rétablir, dans le délai qu'elle fixe, l'utilisation des sous-
-comptes d'attente. 
+Lorsque l'Autorité de contrôle prudentiel constate que les procédures internes ou les moyens mis en oeuvre ne répondent plus
+ou s'avèrent en pratique insuffisants pour répondre aux exigences prévues ci-dessus, elle notifie à l'entreprise le retrait
+de la dispense et l'obligation de rétablir, dans le délai qu'elle fixe, l'utilisation des sous-comptes d'attente. 
 
 4. 4. Réestimation à l'inventaire des actifs inscrits en compte 24. 
 
@@ -274,7 +273,7 @@ sur immeubles d'exploitation dont l'entreprise est propriétaire sont portés en
 compte spécifique est prévu au présent code, les mouvements des comptes de régularisation (compte 48) sont portés à des sous-
 comptes distincts rattachés aux comptes de charges ou de produits correspondants. 
 
-Aux comptes 60, 64 et 65, les sous-comptes intitulés autres frais  ou autres charges  incluent notamment les provisions pour
+Aux comptes 60, 64 et 65, les sous-comptes intitulés autres frais ou autres charges incluent notamment les provisions pour
 dépréciation des créances d'exploitation et l'amortissement des matériels d'exploitation ; ils doivent comporter des sous-
 comptes rattachés retraçant leurs différentes composantes (frais internes, frais externes, dotations aux provisions et aux
 amortissements). 
@@ -395,13 +394,13 @@ d'assurance directe.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Arrêté du 21 décembre 2009 - art.
-
 _Cité par_:
 
   - Arrêté du 21 décembre 2009 - art. 2 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 _Cite_:
 
