@@ -39,10 +39,13 @@ l'adhérent, indication des caractéristiques principales, et en l'absence d'ins
 L. 132-5-2 d'une part, des frais prélevés par l'entreprise d'assurance sur la provision mathématique ou le capital garanti
 et, d'autre part, des frais pouvant être supportés par l'unité de compte ainsi que des modalités de versement du produit des
 droits attachés à la détention de l'unité de compte. Pour chaque unité de compte constituée sous la forme d'une part ou d'une
-action d'organisme de placement collectif en valeurs mobilières (OPCVM), l'indication des caractéristiques principales peut
-être valablement effectuée par la remise contre récépissé du prospectus simplifié, visé par l'Autorité des marchés
-financiers. En cas de non-remise du prospectus simplifié, le souscripteur ou adhérent est informé de ses modalités
-d'obtention, ainsi que, le cas échéant, de l'adresse électronique où se procurer ce document ;
+action d'organisme de placement collectif mentionné aux 3°, 7°, 7° quater, 8°, 9° ter, 9° quater ou 9° sexies de l'article R.
+332-2, l'indication des caractéristiques principales peut être valablement effectuée par la remise du document d'information
+clé pour l'investisseur. Pour chaque unité de compte constituée sous la forme d'une part ou d'une action d'organisme de
+placement collectif mentionné au 7° ter de l'article R. 332-2, l'indication des caractéristiques principales peut être
+valablement effectuée par la remise de la note détaillée. En cas de non-remise du document d'information clé pour
+l'investisseur ou, le cas échéant, de la note détaillée, le souscripteur ou adhérent est informé de ses modalités d'obtention
+ainsi que, le cas échéant, de l'adresse électronique où se procurer ce document ou, le cas échéant, cette note ;
 
 - contrats de groupe à adhésion facultative : nom et adresse du souscripteur, formalités de résiliation et de transfert ;
 
@@ -76,8 +79,13 @@ Existence, le cas échéant, d'une instance chargée en particulier de cet exame
 
 _Cite_:
 
-  - Loi n°2003-775 du 21 août 2003 - art. 108 (Ab)
-  - Code des assurances - art. A132-4-1 (V)
-  - Code des assurances - art. L132-23 (VT)
-  - Code des assurances - art. L132-5-2 (V)
-  - Code des assurances - art. R132-3 (V)
+  - Loi n°2003-775 du 21 août 2003 - art. 108
+  - Code des assurances - art. A132-4-1
+  - Code des assurances - art. L132-23
+  - Code des assurances - art. L132-5-2
+  - Code des assurances - art. R132-3
+  - Code des assurances - art. R332-2
+
+_Modifié par_:
+
+  - Arrêté du 3 octobre 2011 - art. 1
