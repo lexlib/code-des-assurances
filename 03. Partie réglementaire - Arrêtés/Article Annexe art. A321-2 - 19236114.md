@@ -79,16 +79,17 @@ dernières années, de la personne nommée, en précisant les procédures en cou
 assurances (fournir un bulletin n° 3 du casier judiciaire datant de moins de trois mois 
 
 Je soussigné (nom et prénom) certifie l'exactitude des informations communiquées et m'engage à porter immédiatement à la
-connaissance de l'Autorité de contrôle prudentiel tout changement significatif des éléments les concernant, notamment ceux
-mentionnés aux points 12, 15 et 16 du présent formulaire.
+connaissance de l'Autorité de contrôle prudentiel et de résolution tout changement significatif des éléments les concernant,
+notamment ceux mentionnés aux points 12, 15 et 16 du présent formulaire.
 
 Date, lieu
 
 (Signature de la personne chargée de conduire l'entreprise.)
 
 En ma qualité de (fonction), je soussigné (nom et prénom) déclare que les informations communiquées sont à ma connaissance
-exactes et m'engage à porter immédiatement à la connaissance de l'Autorité de contrôle prudentiel tout changement
-significatif dont j'aurais connaissance, notamment les éléments mentionnés aux points 12, 15 et 16 du présent formulaire.
+exactes et m'engage à porter immédiatement à la connaissance de l'Autorité de contrôle prudentiel et de résolution tout
+changement significatif dont j'aurais connaissance, notamment les éléments mentionnés aux points 12, 15 et 16 du présent
+formulaire.
 
 Date, lieu
 
@@ -99,4 +100,4 @@ d'un autre membre du conseil d'administration de l'entreprise.)
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
