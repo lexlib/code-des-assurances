@@ -111,11 +111,11 @@ portées aux comptes 7642 et 6642.
 
 4. 3. Régime dérogatoire. 
 
-Lorsqu'une entreprise en fait la demande, l'Autorité de contrôle prudentiel peut la dispenser de l'utilisation de sous-compte
-d'attente si elle estime que ladite entreprise dispose des moyens techniques et des procédures internes garantissant une
-stricte congruence à tout moment, sans excédent ni déficit, du portefeuille d'actifs inscrits en compte 24 avec les
-engagements en unités de compte, ainsi que la correcte passation des écritures comptables dans les conditions définies ci-
-après.
+Lorsqu'une entreprise en fait la demande, l'Autorité de contrôle prudentiel et de résolution peut la dispenser de
+l'utilisation de sous-compte d'attente si elle estime que ladite entreprise dispose des moyens techniques et des procédures
+internes garantissant une stricte congruence à tout moment, sans excédent ni déficit, du portefeuille d'actifs inscrits en
+compte 24 avec les engagements en unités de compte, ainsi que la correcte passation des écritures comptables dans les
+conditions définies ci-après.
 
 L'entreprise ayant obtenu une telle dispense n'est pas soumise aux dispositions du 1 et du 2 ci-dessus. 
 
@@ -138,9 +138,10 @@ les plus ou moins-values constatées à cette occasion sont passées respectivem
 Les titres et parts virés au compte 24 entrent à ce compte à leur valeur de réalisation du jour ; les plus et moins-values
 constatées à cette occasion sont passées respectivement aux comptes 7642 et 6642. 
 
-Lorsque l'Autorité de contrôle prudentiel constate que les procédures internes ou les moyens mis en oeuvre ne répondent plus
-ou s'avèrent en pratique insuffisants pour répondre aux exigences prévues ci-dessus, elle notifie à l'entreprise le retrait
-de la dispense et l'obligation de rétablir, dans le délai qu'elle fixe, l'utilisation des sous-comptes d'attente. 
+Lorsque l'Autorité de contrôle prudentiel et de résolution constate que les procédures internes ou les moyens mis en oeuvre
+ne répondent plus ou s'avèrent en pratique insuffisants pour répondre aux exigences prévues ci-dessus, elle notifie à
+l'entreprise le retrait de la dispense et l'obligation de rétablir, dans le délai qu'elle fixe, l'utilisation des sous-
+comptes d'attente. 
 
 4. 4. Réestimation à l'inventaire des actifs inscrits en compte 24. 
 
@@ -400,7 +401,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
 
 _Cite_:
 
