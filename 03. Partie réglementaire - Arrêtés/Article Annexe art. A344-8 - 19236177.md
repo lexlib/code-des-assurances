@@ -1,7 +1,7 @@
 # Article Annexe art. A344-8
 
-I.-Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle prudentiel par les
-entreprises ayant leur siège social en France sont les suivants : 
+I.-Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle prudentiel et de
+résolution par les entreprises ayant leur siège social en France sont les suivants : 
 
 a) la raison sociale de l'entreprise, son adresse, la date de sa constitution, les modifications apportées aux statuts en
 cours de l'exercice et, si de telles modifications sont intervenues, un exemplaire à jour des statuts ; 
@@ -37,7 +37,8 @@ contrat type est identifié par son nom commercial et l'indication de la catégo
 figurant à l'annexe à l'article  A. 344-10, à laquelle il appartient. Les différentes versions d'un contrat type
 commercialisé sous une même dénomination sont à considérer comme des contrats distincts. 
 
-La liste des tables mentionnées au b de l'article  A. 335-1 et établies durant l'année.
+La liste des tables mentionnées au b de l'article  
+A. 335-1 et établies durant l'année.
 
 A l'appui de cette liste, l'entreprise conserve à la disposition des commissaires-contrôleurs un dossier relatif à chacun des
 contrats types en cours. Ce dossier comprend :
@@ -52,26 +53,23 @@ L. 112-2 et, le cas échéant, à l'article L. 140-4),
 En assurance vie et capitalisation, le dossier comprend, en outre :
 
 - un spécimen de la note d'information visée à l'article  
-L. 132-5-1 et dont le modèle est fixé à l'article  
-A. 132-4,
+L. 132-5-1 et dont le modèle est fixé à l'article  A. 132-4,
 
-- un spécimen du document d'information annuelle visé à l'article  
-L. 132-22,
+- un spécimen du document d'information annuelle visé à l'article  L. 132-22,
 
 - une fiche technique explicitant les garanties accordées, le tarif appliqué (avec justification de sa suffisance), les
 modalités de fixation à toute époque de la valeur de rachat et de la valeur de réduction-si le contrat comporte-, la méthode
 de calcul de la charge annuelle de participation aux bénéfices ainsi que le mode de répartition de cette participation entre
 les assurés (quotité et délai), et le calcul des provisions mathématiques. 
 
-II. Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle prudentiel par les
-succursales des entreprises étrangères visées au 3 
+II. Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle prudentiel et de
+résolution par les succursales des entreprises étrangères visées au 3 
   <sup>o </sup>et au 4 
   <sup>o </sup>de l'article  
 L. 310-2 sont les suivants : 
 
 a) la raison sociale de l'entreprise, l'adresse de son siège social, la date de sa constitution, l'adresse de son siège
-spécial pour la France, et, s'il y a lieu, la date de l'agrément spécial dans les termes de l'article  
-L. 321-9 ; 
+spécial pour la France, et, s'il y a lieu, la date de l'agrément spécial dans les termes de l'article  L. 321-9 ; 
 
 b) les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration ou du
 conseil de surveillance ainsi que du mandataire général. Si le mandataire général est une personne morale, ces renseignements
@@ -85,7 +83,8 @@ d) la liste des branches pratiquées par le siège social et l'année de leur d�
 
 e) la liste des branches pratiquées en France et, pour chaque branche, la date de l'agrément administratif dans les termes de
 l'article  
-L. 321-7 ou  L. 321-9 et l'année de début d'exploitation ; 
+L. 321-7 ou  
+L. 321-9 et l'année de début d'exploitation ; 
 
 f) la liste des pays où la succursale exerce son activité en libre prestation de services et, pour chaque pays, des branches
 qu'elle y pratique, avec, pour chaque branche, la date de l'acte administratif ayant autorisé les opérations, lorsque
@@ -105,8 +104,7 @@ figurant à l'annexe à l'article
 A. 344-10, à laquelle il appartient. Les différentes versions d'un contrat type commercialisé sous une même dénomination sont
 à considérer comme des contrats distincts. 
 
-La liste des tables mentionnées au b de l'article  
-A. 335-1 et établies durant l'année.
+La liste des tables mentionnées au b de l'article  A. 335-1 et établies durant l'année.
 
 A l'appui de cette liste, l'entreprise conserve à la disposition des commissaires-contrôleurs un dossier relatif à chacun des
 contrats types en cours. Ce dossier comprend :
@@ -120,9 +118,11 @@ contrats types en cours. Ce dossier comprend :
 
 En assurance vie et capitalisation, le dossier comprend en outre :
 
-- un spécimen de la note d'information visée à l'article  L. 132-5-1 et dont le modèle est fixé à l'article  A. 132-4,
+- un spécimen de la note d'information visée à l'article  L. 132-5-1 et dont le modèle est fixé à l'article  
+A. 132-4,
 
-- un spécimen du document d'information annuelle visé à l'article  L. 132-22,
+- un spécimen du document d'information annuelle visé à l'article  
+L. 132-22,
 
 - une fiche technique explicitant les garanties accordées, le tarif appliqué (avec justification de sa suffisance), les
 modalités de fixation à toute époque de la valeur de rachat et de la valeur de réduction-si le contrat en comporte-, la
@@ -133,17 +133,21 @@ participation entre les assurés (quotité et délai), et le calcul des provisio
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+
+_Abrogé par_:
+
+  - Arrêté du 28 décembre 2015 - art. 2
 
 _Cite_:
 
-  - Code des assurances - art. A132-4 (V)
-  - Code des assurances - art. A335-1 (V)
-  - Code des assurances - art. A344-10 (V)
-  - Code des assurances - art. L112-2 (V)
-  - Code des assurances - art. L132-22 (V)
-  - Code des assurances - art. L132-5-1 (V)
-  - Code des assurances - art. L310-2 (V)
-  - Code des assurances - art. L321-1 (V)
-  - Code des assurances - art. L321-7 (V)
-  - Code des assurances - art. L321-9 (V)
+  - Code des assurances - art. A132-4
+  - Code des assurances - art. A335-1
+  - Code des assurances - art. A344-10
+  - Code des assurances - art. L112-2
+  - Code des assurances - art. L132-22
+  - Code des assurances - art. L132-5-1
+  - Code des assurances - art. L310-2
+  - Code des assurances - art. L321-1
+  - Code des assurances - art. L321-7
+  - Code des assurances - art. L321-9
