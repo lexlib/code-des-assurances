@@ -58,13 +58,13 @@ droits, et qu'un plan ne peut faire l'objet de rachats sauf dans les cas prévus
 et au quatrième alinéa du I de l'article L. 144-2 ; indication, le cas échéant, de la faculté ouverte par le deuxième alinéa
 du I de l'article L. 144-2 ; indication des dispositions législatives et réglementaires qui régissent le fonctionnement du
 plan ; dénomination et siège social du dépositaire du plan ; mention, le cas échéant, de l'existence de l'accord de
-représentation des engagements mentionné au VIII de l'article L. 144-2. 
+représentation des engagements mentionné au VIII de l'article L. 144-2 ; 
 
 g) information sur les primes relatives aux garanties principales et complémentaires lorsque de telles informations s'avèrent
 appropriées ; 
 
 h) précision quant à la loi applicable au contrat lorsque celle-ci n'est pas la loi française et indications générales
-relatives au régime fiscal. 
+relatives au régime fiscal ; 
 
 3° Rendement minimum garanti et participation : 
 
@@ -73,7 +73,7 @@ a) taux d'intérêt garanti et durée de cette garantie ;
 b) indications des garanties de fidélité, des valeurs de réduction, des valeurs de rachat ou, pour les contrats de groupe à
 adhésion facultative comportant une clause de transférabilité en application de l'article L. 132-23 ou de l'article 108 de la
 loi n° 2003-775 du 21 août 2003 portant réforme des retraites, des valeurs de transfert ; dans le cas où celles-ci ne peuvent
-être établies lors de la souscription, l'article A. 132-4-1 s'applique. 
+être établies lors de la souscription, l'article A. 132-4-1 s'applique ; 
 
 c) modalités de calcul et d'attribution de la participation aux bénéfices. 
 
@@ -81,7 +81,10 @@ c) modalités de calcul et d'attribution de la participation aux bénéfices.
 
 Modalités d'examen des réclamations pouvant être formulées au sujet du contrat. 
 
-Existence, le cas échéant, d'une instance chargée en particulier de cet examen.
+Existence, le cas échéant, d'une instance chargée en particulier de cet examen. 
+
+5° Le cas échéant, référence expresse au rapport sur la solvabilité et la situation financière prévu à l'article L. 355-5,
+qui permet au souscripteur d'accéder facilement à ces informations.
 
 **Liens relatifs à cet article**
 
@@ -91,9 +94,10 @@ _Cite_:
   - Code des assurances - art. A132-4-1
   - Code des assurances - art. L132-23
   - Code des assurances - art. L132-5-2
+  - Code des assurances - art. L144-2 (V)
   - Code des assurances - art. R132-3
   - Code des assurances - art. R332-2
 
 _Modifié par_:
 
-  - Arrêté du 23 novembre 2011 - art. 1
+  - Arrêté du 7 mai 2015 - art. 1
