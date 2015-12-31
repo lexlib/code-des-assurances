@@ -16,8 +16,8 @@ socioprofessionnel ou le kilométrage parcouru, éventuellement la conduite excl
 éventuelles figurant au tarif des entreprises d'assurance. 
 
 Cette prime de référence ne comprend pas les majorations éventuellement prévues pour les circonstances aggravantes énumérées
-à l'article A. 335-9-2 du Code des assurances. En revanche, pour l'application des dispositions de la clause, cette prime de
-référence comprend la surprime éventuellement prévue pour les conducteurs novices à l'article A. 335-9-1 du Code des
+à l'article A. 121-1-2 du Code des assurances. En revanche, pour l'application des dispositions de la clause, cette prime de
+référence comprend la surprime éventuellement prévue pour les conducteurs novices à l'article A. 121-1-1 du Code des
 assurances ainsi que les réductions éventuelles mentionnées à l'article A. 335-9-3. 
 
 Art. 3.-La prime sur laquelle s'applique le coefficient de réduction-majoration est la prime de référence définie à l'article
@@ -129,12 +129,12 @@ Art. 14.-L'assureur doit indiquer sur l'avis d'échéance ou la quittance de pri
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 31 octobre 2003 - art. Annexe, v. init.
+  - Arrêté du 28 décembre 2015 - art. 3
 
 _Cite_:
 
-  - Code des assurances - art. A121-1 (V)
-  - Code des assurances - art. A335-9-3 (Ab)
-  - Code des assurances - art. R*310-6 (Ab)
+  - Code des assurances - art. A121-1
+  - Code des assurances - art. A335-9-3
+  - Code des assurances - art. R*310-6
