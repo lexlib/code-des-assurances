@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-01-28
+Version Consolidée au 2016-06-17
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -16642,13 +16642,13 @@ mentionné à l'article L. 823-19 du code de commerce assure également le suivi
 de gestion des risques. 
 
 Toutefois, sur décision de l'organe chargé de l'administration ou de la surveillance, cette mission peut être confiée à un
-comité distinct, régi par les deuxième et dernier alinéas du même article L. 823-19.
+comité distinct, régi par le premier alinéa et le 7° du II du même article L. 823-19.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2014-158 du 20 février 2014 - art. 6
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 47
 
 _Cité par_:
 
@@ -16658,6 +16658,7 @@ _Cité par_:
 _Cite_:
 
   - Code de commerce - art. L823-19
+  - Code des assurances - art. L322-3 (V)
 
 
 ###### Article L322-3-2
@@ -17387,21 +17388,15 @@ _Cite_:
 
 ###### Article L322-26-2-3
 
-Par dérogation aux dispositions du deuxième alinéa de l'article L. 823-19 du code de commerce, le comité spécialisé mentionné
-à cet article peut comprendre deux membres au plus qui ne font pas partie du conseil d'administration ou du conseil de
-surveillance, mais qui sont désignés par lui à raison de leurs compétences.
-
-**Nota:**
-
-Ordonnance n° 2008-1278 du 8 décembre 2008 article 21 : Les dispositions de l'articles 15 de la présente ordonnance entrent
-en vigueur à l'expiration d'un délai de huit mois qui suit la clôture du premier exercice ouvert à compter du 1er janvier
-2008 au cours duquel un mandat au sein de l'organe d'administration ou de surveillance vient à échéance.
+Par dérogation aux dispositions du premier alinéa du II de l'article L. 823-19 du code de commerce, le comité spécialisé
+mentionné à cet article peut comprendre deux membres au plus qui ne font pas partie du conseil d'administration ou du conseil
+de surveillance, mais qui sont désignés par lui à raison de leurs compétences.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2014-856 du 31 juillet 2014 - art. 54
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 47
 
 _Cité par_:
 
@@ -17480,14 +17475,14 @@ Les sociétés mutuelles d'assurance, les sociétés à forme tontinière et les
 mutuelles agricoles régies par l'article L771-1 du code rural et de la pêche maritime constituent des formes particulières de
 sociétés d'assurance mutuelles. 
 
-Un décret en Conseil d'Etat fixe les conditions particulières dans lesquelles les dispositions de la présente section leur
-sont applicables.
+Les sociétés d'assurance mutuelles nomment un ou plusieurs commissaires aux comptes. Les dispositions du titre II du livre
+VIII du code de commerce leur sont applicables.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2014-856 du 31 juillet 2014 - art. 54
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 47
 
 _Cité par_:
 
@@ -30189,8 +30184,8 @@ _Cité par_:
 ###### Article R144-9
 
 L'assemblée générale de l'association nomme un commissaire aux comptes titulaire et un suppléant choisis sur la liste
-mentionnée à l'article L. 822-1 du code de commerce et qui exercent leurs fonctions dans les conditions prévues par l'article
-L. 612-1 de ce code. 
+mentionnée au I de l'article L. 822-1 du code de commerce et qui exercent leurs fonctions dans les conditions prévues par
+l'article L. 612-1 de ce code. 
 
 Les comptes annuels de l'association, arrêtés par le conseil d'administration, certifiés par le commissaire aux comptes et
 établis selon des règles fixées par un règlement de l'Autorité des normes comptables, sont approuvés par l'assemblée générale
@@ -30201,14 +30196,14 @@ d'affectation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1635 du 23 novembre 2011 - art. 1
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 46 (VD)
 
 _Cite_:
 
   - Code de commerce - art. L612-1
-  - Code de commerce - art. L822-1
+  - Code de commerce - art. L822-1 (V)
 
 
 ###### Article R144-10
@@ -62052,8 +62047,8 @@ peut participer aux travaux de l'assemblée générale et de tous autres organes
 Il reçoit communication de tous documents et convocations et peut demander une seconde délibération de ces organes. 
 
 IV.-L'organisme établit annuellement un bilan, un compte de résultat et une annexe. L'organisme nomme un commissaire aux
-comptes et un suppléant choisis sur la liste mentionnée à l'article L. 822-1 du code de commerce, aux fins de certification
-des comptes. 
+comptes et un suppléant choisis sur la liste mentionnée au I de l'article L. 822-1 du code de commerce, aux fins de
+certification des comptes. 
 
 V.-Une commission est chargée des immatriculations au registre mentionné à l'article L. 512-1. 
 
@@ -62122,11 +62117,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-47 du 22 janvier 2015 - art. 1
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 46 (VD)
 
 _Cite_:
 
-  - Code de commerce - art. L822-1
+  - Code de commerce - art. L822-1 (V)
   - Code pénal - art. 226-13
   - Code monétaire et financier - art. L546-1
   - Code des assurances - art. L512-1
