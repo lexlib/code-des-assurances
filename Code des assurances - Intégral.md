@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-06-17
+Version Consolidée au 2016-06-19
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -42437,15 +42437,14 @@ chapitre IV du titre Ier du livre II du code monétaire et financier ou par un o
 
 c) Titres participatifs ; 
 
-2° bis Titres de créances négociables d'un an au plus (certificats de dépôt et billets de trésorerie) rémunérés à taux fixe
-ou indexé sur un taux usuel sur les marchés interbancaire, monétaire ou obligataire et émis par des personnes morales autres
-que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats ou des organismes de titrisation régis
-par la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier, dont des titres
-sont négociés sur un marché reconnu ; 
+2° bis Titres négociables à court terme rémunérés à taux fixe ou indexé sur un taux usuel sur les marchés interbancaire,
+monétaire ou obligataire et émis par des personnes morales autres que les Etats membres de l'OCDE ayant leur siège social sur
+le territoire de ces Etats ou des organismes de titrisation régis par la sous-section 5 de la section 2 du chapitre IV du
+titre Ier du livre II du code monétaire et financier, dont des titres sont négociés sur un marché reconnu ; 
 
-2° ter Bons à moyen terme négociables répondant aux conditions mentionnées à l'article R. 332-14-1 et émis par des personnes
-morales autres que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont des titres sont
-négociés sur un marché reconnu ; 
+2° ter Titres négociables à moyen terme répondant aux conditions mentionnées à l'article R. 332-14-1 et émis par des
+personnes morales autres que les Etats membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont des
+titres sont négociés sur un marché reconnu ; 
 
 2° quater Obligations, parts ou actions émises par un organisme de titrisation régi par la sous-section 5 de la section 2 du
 chapitre IV du titre Ier du livre II du code monétaire et financier, respectant les règles prévues à l'article R. 332-14-2 ; 
@@ -42635,6 +42634,7 @@ _Cité par_:
   - Code des assurances - art. R332-14-1 (V)
   - Code des assurances - art. R332-14-2 (V)
   - Code des assurances - art. R332-15 (V)
+  - Code des assurances - art. R332-16 (V)
   - Code des assurances - art. R332-17 (VD)
   - Code des assurances - art. R332-19 (VT)
   - Code des assurances - art. R332-2-1 (V)
@@ -42691,13 +42691,11 @@ _Cite_:
   - Code des assurances - art. R*331-1
   - Code des assurances - art. R*332-45
   - Code des assurances - art. R332-1-1
-  - Code des assurances - art. R332-16 (VD)
   - Code des assurances - art. R332-3-3
 
 _Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 10 (V)
-  - Décret n°2015-513 du 7 mai 2015 - art. 8
+  - Décret n°2016-805 du 16 juin 2016 - art. 1
 
 **Liens**:
 
@@ -43394,15 +43392,15 @@ _Anciens textes_:
 
 ###### Article R332-14-1
 
-Les bons à moyen terme négociables mentionnés au 2° ter de l'article R. 332-2 doivent répondre aux conditions suivantes :
+Les titres négociables à moyen terme mentionnés au 2° ter de l'article R. 332-2 doivent répondre aux conditions suivantes : 
 
-a) Provenir d'une émission au moins égale à 30 millions d'euros ;
+a) Provenir d'une émission au moins égale à 30 millions d'euros ; 
 
 b) Etre valorisés par au moins deux organismes distincts et non liés financièrement, ni entre eux ni avec l'entreprise
-d'assurance détentrice des bons ;
+d'assurance détentrice des bons ; 
 
 c) Faire sur cette base l'objet d'un cours publié au moins une fois tous les quinze jours et tenu à la disposition du public
-en permanence ;
+en permanence ; 
 
 d) Comporter une clause de liquidité émanant de l'émetteur ou d'un garant et qui doit garantir que les actifs pourraient être
 rachetés à un cours cohérent avec le cours publié, c'est-à-dire prenant en compte la variation de taux d'intérêt entre les
@@ -43412,17 +43410,17 @@ dates de publication du cours et de transaction.
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
-
-_Créé par_:
-
-  - Décret n°2000-142 du 18 février 2000 - art. 6 () JORF 22 février 2000
+  - Décret n°76-666 du 16 juillet 1976
 
 _Cité par_:
 
   - Décret n°2000-142 du 18 février 2000 - art. 11 (V)
   - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
   - Code des assurances - art. R332-2 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-805 du 16 juin 2016 - art. 1
 
 
 ###### Article R332-14-2
