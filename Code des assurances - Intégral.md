@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-06-19
+Version Consolidée au 2016-06-22
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -804,6 +804,8 @@ b) Les marchandises transportées ;
 c) Le crédit et la caution, lorsque le souscripteur exerce à titre professionnel une activité industrielle, commerciale ou
 libérale, à condition que le risque se rapporte à cette activité ;
 
+d) Les installations d'énergies marines renouvelables, définies par un décret en Conseil d'Etat ; 
+
 2° Ceux qui concernent l'incendie et les éléments naturels, les autres dommages aux biens, la responsabilité civile générale,
 les pertes pécuniaires diverses, les corps de véhicules terrestres à moteur ainsi que la responsabilité civile, y compris
 celle du transporteur, afférente à ces véhicules, lorsque le souscripteur exerce une activité dont l'importance dépasse
@@ -813,19 +815,11 @@ certains seuils définis par décret en Conseil d'Etat.
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-5 1994-01-04 art. 41 *champ d'application à Mayotte*
-
-_Créé par_:
-
-  - Loi n°94-5 du 4 janvier 1994 - art. 6 () JORF 5 janvier 1994 en vigueur le 1er juillet 1994
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2015-22 du 13 janvier 2015 - art. 2 (V)
+  - Loi n°2016-816 du 20 juin 2016 - art. 84
 
 _Cité par_:
 
@@ -3445,7 +3439,8 @@ sols et au cheptel vif hors bâtiment, dont l'indemnisation reste régie par les
 livre III du code rural et de la pêche maritime. 
 
 Sont exclus également du champ d'application du présent chapitre les dommages subis par les corps de véhicules aériens,
-maritimes, lacustres et fluviaux, ainsi que les marchandises transportées et les dommages mentionnés à l'article L. 242-1. 
+maritimes, lacustres et fluviaux, les installations d'énergies marines renouvelables, au sens de l'article L. 111-6, ainsi
+que les marchandises transportées et les dommages mentionnés à l'article L. 242-1. 
 
 Les contrats d'assurance garantissant les dommages mentionnés aux alinéas précédents ne sont pas soumis au versement de la
 prime ou cotisation additionnelle.
@@ -3454,7 +3449,7 @@ prime ou cotisation additionnelle.
 
 _Modifié par_:
 
-  - Loi n°2010-874 du 27 juillet 2010 - art. 26
+  - Loi n°2016-816 du 20 juin 2016 - art. 84
 
 _Cité par_:
 
@@ -3464,6 +3459,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code des assurances - art. L111-6 (V)
   - Code des assurances - art. L242-1
 
 
