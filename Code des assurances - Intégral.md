@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-06-30
+Version Consolidée au 2016-07-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -1030,105 +1030,105 @@ _Anciens textes_:
 ###### Article L112-2-1
 
 I.-1° La fourniture à distance d'opérations d'assurance à un consommateur est régie par le présent livre et par les articles
-L. 121-26, L. 121-26-1, L. 121-28 et L. 121-30 à L. 121-33 du code de la consommation ; 
+L. 222-1 à L. 222-3, L. 222-6 et L. 222-13 à L. 222-16, L. 222-18, L. 232-4, L. 242-15 du code de la consommation ;
 
-2° Pour l'application du 1°, il y a lieu d'entendre : 
+2° Pour l'application du 1°, il y a lieu d'entendre :
 
 a) " Le souscripteur, personne physique, qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale ou
-professionnelle " là où est mentionné " le consommateur " ; 
+professionnelle " là où est mentionné " le consommateur " ;
 
-b) " L'assureur ou l'intermédiaire d'assurance " là où est mentionné " le fournisseur " ; 
+b) " L'assureur ou l'intermédiaire d'assurance " là où est mentionné " le fournisseur " ;
 
-c) " Le montant total de la prime ou cotisation " là où est mentionné " le prix total " ; 
+c) " Le montant total de la prime ou cotisation " là où est mentionné " le prix total " ;
 
-d) " Droit de renonciation " là où est mentionné " le droit de rétractation " ; 
+d) " Droit de renonciation " là où est mentionné " le droit de rétractation " ;
 
-e) " Le II de l'article L. 112-2-1 du code des assurances " là où est mentionné " l'article L. 121-29 " ; 
+e) " Le II de l'article L. 112-2-1 du code des assurances " là où est mentionné " l'article L. 222-7, L. 222-9 à L. 222-12" ;
 
-f) " Le III de l'article L. 112-2-1 du code des assurances " là où est mentionné " l'article L. 121-27 " ; 
+f) " Le III de l'article L. 112-2-1 du code des assurances " là où est mentionné " l'article L. 222-5 " ;
 
-3° Pour l'application de l'article L. 121-28 du code de la consommation, les conditions contractuelles doivent comprendre,
+3° Pour l'application de l'article L. 222-6 du code de la consommation, les conditions contractuelles doivent comprendre,
 outre les informations prévues selon les cas à l'article L. 112-2 ou à l'article L. 132-5-1, un modèle de lettre destiné à
-faciliter l'exercice du droit de renonciation lorsque ce droit existe. 
+faciliter l'exercice du droit de renonciation lorsque ce droit existe.
 
 II.-1° Toute personne physique ayant conclu à des fins qui n'entrent pas dans le cadre de son activité commerciale ou
 professionnelle un contrat à distance dispose d'un délai de quatorze jours calendaires révolus pour renoncer, sans avoir à
-justifier de motif ni à supporter de pénalités. Ce délai commence à courir : 
+justifier de motif ni à supporter de pénalités. Ce délai commence à courir :
 
-a) Soit à compter du jour où le contrat à distance est conclu ; 
+a) Soit à compter du jour où le contrat à distance est conclu ;
 
 b) Soit à compter du jour où l'intéressé reçoit les conditions contractuelles et les informations, conformément à l'article
-L. 121-28 du code de la consommation, si cette dernière date est postérieure à celle mentionnée au a ; 
+L. 222-6 du code de la consommation, si cette dernière date est postérieure à celle mentionnée au a ;
 
 2° Toutefois, en ce qui concerne les contrats d'assurance vie, le délai précité est porté à trente jours calendaires révolus.
-Ce délai commence à courir : 
+Ce délai commence à courir :
 
-a) Soit à compter du jour où l'intéressé est informé que le contrat à distance a été conclu ; 
+a) Soit à compter du jour où l'intéressé est informé que le contrat à distance a été conclu ;
 
 b) Soit à compter du jour où l'intéressé reçoit les conditions contractuelles et les informations, conformément à l'article
-L. 121-28, si cette dernière date est postérieure à celle mentionnée au a ; 
+L. 222-6, si cette dernière date est postérieure à celle mentionnée au a ;
 
-3° Le droit de renonciation ne s'applique pas : 
+3° Le droit de renonciation ne s'applique pas :
 
 a) Aux polices d'assurance de voyage ou de bagage ou aux polices d'assurance similaires à court terme d'une durée inférieure
-à un mois ; 
+à un mois ;
 
-b) Aux contrats d'assurance mentionnés à l'article L. 211-1 du présent code ; 
+b) Aux contrats d'assurance mentionnés à l'article L. 211-1 du présent code ;
 
 c) Aux contrats exécutés intégralement par les deux parties à la demande expresse du consommateur avant que ce dernier
-n'exerce son droit de renonciation. 
+n'exerce son droit de renonciation.
 
-III.-En temps utile avant la conclusion à distance d'un contrat le souscripteur reçoit les informations suivantes : 
+III.-En temps utile avant la conclusion à distance d'un contrat le souscripteur reçoit les informations suivantes :
 
 1° La dénomination de l'entreprise d'assurance contractante, l'adresse de son siège social, lorsque l'entreprise d'assurance
 est inscrite au registre du commerce et des sociétés, son numéro d'immatriculation, les coordonnées de l'autorité chargée de
-son contrôle ainsi que, le cas échéant, l'adresse de la succursale qui propose la couverture ; 
+son contrôle ainsi que, le cas échéant, l'adresse de la succursale qui propose la couverture ;
 
 2° Le montant total de la prime ou cotisation ou, lorsque ce montant ne peut être indiqué, la base de calcul de cette prime
-ou cotisation permettant au souscripteur de vérifier celle-ci ; 
+ou cotisation permettant au souscripteur de vérifier celle-ci ;
 
-3° La durée minimale du contrat ainsi que les garanties et exclusions prévues par celui-ci ; 
+3° La durée minimale du contrat ainsi que les garanties et exclusions prévues par celui-ci ;
 
 4° La durée pendant laquelle les informations fournies sont valables, les modalités de conclusion du contrat et de paiement
 de la prime ou cotisation ainsi que l'indication, le cas échéant, du coût supplémentaire spécifique à l'utilisation d'une
-technique de commercialisation à distance ; 
+technique de commercialisation à distance ;
 
 5° L'existence ou l'absence d'un droit à renonciation et, si ce droit existe, sa durée, les modalités pratiques de son
 exercice notamment l'adresse à laquelle la notification de la renonciation doit être envoyée. Le souscripteur doit également
 être informé du montant de prime ou de cotisation que l'assureur peut lui réclamer en contrepartie de la prise d'effet de la
-garantie, à sa demande expresse, avant l'expiration du délai de renonciation ; 
+garantie, à sa demande expresse, avant l'expiration du délai de renonciation ;
 
 6° La loi sur laquelle l'assureur se fonde pour établir les relations précontractuelles avec le consommateur ainsi que la loi
 applicable au contrat et la langue que l'assureur s'engage à utiliser, avec l'accord du souscripteur, pendant la durée du
-contrat ; 
+contrat ;
 
 7° Les modalités d'examen des réclamations que le souscripteur peut formuler au sujet du contrat et de recours à un processus
 de médiation dans les conditions prévues au titre V du livre Ier du code de la consommation , sans préjudice pour lui
 d'intenter une action en justice ainsi que, le cas échéant, l'existence de fonds de garantie ou d'autres mécanismes
-d'indemnisation. 
+d'indemnisation.
 
 Les informations sur les obligations contractuelles communiquées en phase précontractuelle doivent être conformes à la loi
-applicable au contrat. 
+applicable au contrat.
 
 Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont fournies de manière claire et
-compréhensible par tout moyen adapté à la technique de commercialisation à distance utilisée. 
+compréhensible par tout moyen adapté à la technique de commercialisation à distance utilisée.
 
 IV.-L'assureur doit également indiquer, pour les contrats d'assurance vie les informations mentionnées à l'article L.
 132-5-1, notamment le montant maximal des frais qu'il peut prélever et, lorsque les garanties de ces contrats sont exprimées
 en unités de compte, les caractéristiques principales de celles-ci. Dans ce dernier cas, il doit en outre préciser qu'il ne
 s'engage que sur le nombre des unités de compte et non sur leur valeur qui peut être sujette à des fluctuations à la hausse
-comme à la baisse. 
+comme à la baisse.
 
 V.-Un décret en Conseil d'Etat fixe les informations communiquées au souscripteur en cas de communication par téléphonie
-vocale. 
+vocale.
 
 VI.-Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'Autorité de contrôle prudentiel
-et de résolution dans les conditions prévues à la section 2 du chapitre unique du titre Ier du livre III. 
+et de résolution dans les conditions prévues à la section 2 du chapitre unique du titre Ier du livre III.
 
 Les infractions constituées par l'absence matérielle des éléments d'information prévus au III du présent article, ainsi que
 le refus de l'assureur de rembourser le souscripteur personne physique dans les conditions fixées à l'article L. 121-30 du
-code de la consommation peuvent également être constatées et poursuivies dans les conditions prévues aux II et IV à X de
-l'article L. 141-1 du même code. 
+code de la consommation peuvent également être recherchées et constatées par les agents mentionnés aux articles L. 511-3 et
+L. 511-21 du même code, dans les conditions prévues à l'article L. 511-6 de ce code du même code.
 
 Les conditions d'application du présent article sont définies en tant que de besoin par décret en Conseil d'Etat.
 
@@ -1141,17 +1141,15 @@ juin 2014.
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 3
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 5
 
 _Cite_:
 
-  - Code de la consommation - art. L121-26
-  - Code de la consommation - art. L121-27
-  - Code de la consommation - art. L121-28
-  - Code de la consommation - art. L121-29
-  - Code de la consommation - art. L121-30
-  - Code des assurances - art. L132-5-1
-  - Code des assurances - art. L211-1
+  - Code de la consommation - art. L121-30 (Ab)
+  - Code de la consommation - art. L222-18 (V)
+  - Code de la consommation - art. L222-6 (V)
+  - Code de la consommation - art. L232-4 (V)
+  - Code de la consommation - art. L242-15 (V)
 
 _Cité par_:
 
@@ -1411,8 +1409,8 @@ Les infractions aux dispositions du présent article sont constatées et sanctio
 612-1 du code monétaire et financier dans les conditions prévues au livre III du présent code. 
 
 II.-Les infractions constituées par la violation des dispositions du deuxième alinéa et de la deuxième phrase du quatrième
-alinéa du I sont recherchées et constatées dans les mêmes conditions que les infractions prévues au I de l'article L. 141-1
-du code de la consommation. 
+alinéa du I sont recherchées et constatées par les agents mentionnés aux articles L. 511-3 et L. 511-21 du code de la
+consommation, dans les conditions prévues à l'article L. 511-5 de ce code. 
 
 Est puni de 15 000 euros d'amende le fait de ne pas rembourser le souscripteur dans les conditions prévues à la deuxième
 phrase du quatrième alinéa du I du présent article.
@@ -1425,12 +1423,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 7
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 5
 
 _Cite_:
 
-  - Code de la consommation - art. L141-1 (V)
-  - Code monétaire et financier - art. L612-1 (V)
+  - Code de la consommation - art. L511-21 (V)
+  - Code de la consommation - art. L511-3 (V)
+  - Code de la consommation - art. L511-5 (V)
+  - Code monétaire et financier - art. L612-1
 
 
 ###### Article L112-10
@@ -67647,14 +67647,9 @@ _Anciens textes_:
 
 ###### Article A243-2
 
-La proposition d'assurance mentionnée à l'article R. 241-9 doit comporter les renseignements correspondant aux indications
-figurant :
-
-A l'annexe I au présent article, en ce qui concerne l'assurance de responsabilité ;
-
-A l'annexe II au présent article, en ce qui concerne l'assurance de dommages.
-
-(annexe non reproduite, voir au Journal officiel).
+Le document justificatif prévu à l'article L. 243-2 doit être signé par un assureur pouvant pratiquer des opérations
+d'assurance directes sur le territoire de la République française conformément aux cinq premiers alinéas de l'article L.
+310-2 du, ou par une personne identifiée qu'il a dûment mandatée.
 
 **Liens relatifs à cet article**
 
@@ -67664,11 +67659,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1985-09-10 art. 5 JORF 9 octobre 1985
-
-_Abrogé par_:
-
-  - Arrêté 1992-11-27 art. 1 JORF 28 novembre 1992
+  - Arrêté du 5 janvier 2016 - art. 1
 
 _Cité par_:
 
@@ -67680,7 +67671,251 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code des assurances - art. R241-9 (T)
+  - Code des assurances - art. L243-2
+  - Code des assurances - art. L310-2
+
+
+###### Article A243-3
+
+Lorsque l'attestation d'assurance porte sur un contrat d'assurance de responsabilité décennale souscrit par un assujetti à
+titre individuel, l'attestation d'assurance prévue à l'article L. 243-2 comporte la mention : “ Attestation d'assurance ” et
+les termes : “ Assurance de responsabilité décennale obligatoire ” figurant en position centrale. 
+
+1° Dans tous les cas, elle doit comporter les informations suivantes : 
+
+a) La dénomination sociale et adresse de l'assuré ; 
+
+b) Le numéro unique d'identification de l'assuré délivré conformément à l'article D. 123-235 du code de commerce ou le numéro
+d'identification prévu aux articles 214 et suivants de la directive 2006/112/ CE du 28 novembre 2006 ; 
+
+c) Le nom, l'adresse du siège social et les coordonnées complètes de l'assureur et, le cas échéant, de la succursale qui
+accorde la garantie ; 
+
+d) Le numéro du contrat ; 
+
+e) La période de validité ; 
+
+f) La date d'établissement de l'attestation ; 
+
+2° Et, selon les hypothèses suivantes : 
+
+a) Lorsque l'attestation d'assurance vise un ensemble d'opérations de construction, elle en indique le périmètre de la
+garantie en fonction des caractéristiques suivantes :
+
+- la ou les activité (s) ou mission (s) exercée (s) par l'assuré ;
+
+- la ou les date (s) d'ouverture du ou des chantier (s) ;
+
+- l'étendue géographique des opérations de construction couvertes ;
+
+- le coût des opérations de construction ;
+
+- le cas échéant, le montant du marché de l'assuré ;
+
+- la nature des techniques utilisées ;
+
+- le cas échéant, la présence d'un contrat collectif de responsabilité décennale ainsi que le montant de la franchise
+absolue. 
+
+Ces informations doivent être reprises dans l'attestation d'assurance selon les formules suivantes à reproduire : 
+
+Les garanties objet de la présente attestation s'appliquent :
+
+- aux activités professionnelles ou missions suivantes : (à compléter par l'assureur) ;
+
+- aux travaux ayant fait l'objet d'une ouverture de chantier pendant la période de validité mentionnée ci-dessus. L'ouverture
+de chantier est définie à l'annexe I de l'article A. 243-1 ;
+
+- aux travaux réalisés en (étendue géographique des opérations de construction couvertes à préciser par l'assureur) ;
+
+- aux chantiers dont le coût total de construction HT tous corps d'état (à compléter par l'assureur en précisant si ce coût
+comprend ou non les honoraires) déclaré par le maître d'ouvrage n'est pas supérieur à la somme de (à compléter par
+l'assureur) euros. 
+
+(A ajouter le cas échéant) Cette somme est portée à (à compléter par l'assureur) euros en présence d'un contrat collectif de
+responsabilité décennale bénéficiant à l'assuré, comportant à son égard une franchise absolue au maximum de (à compléter par
+l'assureur) euros ;
+
+- aux travaux, produits et procédés de construction suivants : (à compléter par l'assureur). 
+
+Dans le cas où les travaux réalisés ne répondent pas aux caractéristiques énoncées ci-dessus, l'assuré en informe
+l'assureur. 
+
+b) Lorsque l'attestation d'assurance vise une opération de construction particulière, elle en indique les caractéristiques
+listées ci-après, telles qu'elles ont été déclarées :
+
+- l'adresse, la nature et le coût de l'opération de construction déclaré par le maître d'ouvrage ;
+
+- la ou les activité (s) ou mission (s) exercée (s) par l'assuré ;
+
+- la date d'ouverture de chantier ;
+
+- la nature et le montant de la prestation réalisée par l'assuré ;
+
+- la nature des techniques utilisées ;
+
+- le cas échéant, la présence d'un contrat collectif de responsabilité décennale ainsi que le montant de la franchise
+absolue. 
+
+Ces informations doivent être reprises dans l'attestation d'assurance selon les formules suivantes à reproduire : 
+
+Les garanties objet de la présente attestation d'assurance s'appliquent à l'opération de construction ayant les
+caractéristiques suivantes : (à compléter par l'assureur) 
+
+Dans le cas où ces caractéristiques seraient modifiées, l'assuré en informe l'assureur. 
+
+3° L'attestation d'assurance doit en outre et dans tous les cas reproduire les formules suivantes : 
+
+Nature de la garantie : 
+
+Le contrat garantit la responsabilité décennale de l'assuré instaurée par les articles 1792 et suivants du code civil, dans
+le cadre et les limites prévus par les dispositions des articles L. 241-1 et L. 241-2 relatives à l'obligation d'assurance
+décennale, et pour des travaux de construction d'ouvrages qui y sont soumis, au regard de l'article L. 243-1-1 du même code. 
+
+La garantie couvre les travaux de réparation, notamment en cas de remplacement des ouvrages, qui comprennent également les
+travaux de démolition, déblaiement, dépose ou de démontage éventuellement nécessaires. 
+
+Montant de la garantie : 
+
+En habitation : le montant de la garantie couvre le coût des travaux de réparation des dommages à l'ouvrage. 
+
+Hors habitation : le montant de la garantie couvre le coût des travaux de réparation des dommages à l'ouvrage dans la limite
+du coût total de construction déclaré par le maître d'ouvrage et sans pouvoir être supérieur au montant prévu au I de
+l'article R. 243-3. 
+
+Lorsqu'un contrat collectif de responsabilité décennale est souscrit au bénéfice de l'assuré, le montant de la garantie est
+égal au montant de la franchise absolue stipulée par ledit contrat collectif. 
+
+Durée et maintien de la garantie : 
+
+La garantie s'applique pour la durée de la responsabilité décennale pesant sur l'assuré en vertu des articles 1792 et
+suivants du code civil. Elle est maintenue dans tous les cas pour la même durée. 
+
+La présente attestation ne peut engager l'assureur au-delà des clauses et conditions du contrat auquel elle se réfère.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 5 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code de commerce - art. D123-235
+  - Code civil - art. 1792
+  - Code des assurances - art. A243-1
+  - Code des assurances - art. L241-1
+  - Code des assurances - art. L243-1-1
+  - Code des assurances - art. L243-2
+  - Code des assurances - art. R243-3
+
+
+###### Article A243-4
+
+Lorsque l'attestation d'assurance prévue à l'article L. 243-2 porte sur un contrat collectif de responsabilité décennale,
+souscrit en complément des contrats individuels garantissant la responsabilité décennale de chacun des constructeurs, elle
+comporte les termes : “ Attestation d'assurance collective de responsabilité décennale obligatoire ”. 
+
+L'attestation doit comporter les informations suivantes : 
+
+a) Le nom et l'adresse du souscripteur, et éventuellement sa dénomination sociale ; 
+
+b) Le nom, l'adresse du siège social et les coordonnées complètes de l'assureur et, le cas échéant, de la succursale qui
+accorde la couverture ; 
+
+c) Le numéro du contrat d'assurance ; 
+
+d) La date d'établissement de l'attestation. 
+
+L'attestation indique les caractéristiques de l'opération de construction telles qu'elles ont été déclarées à l'assureur :
+
+- l'adresse, la nature et le coût de construction ;
+
+- la date d'ouverture du chantier ;
+
+- la nature des techniques utilisées. 
+
+Elle indique les personnes assurées ainsi que la franchise absolue qui leur est respectivement applicable. 
+
+Ces informations doivent être reprises dans l'attestation d'assurance selon la formule suivante à reproduire : 
+
+Les garanties objet de la présente attestation d'assurance s'appliquent à l'opération de construction ayant les
+caractéristiques suivantes : (à compléter par l'assureur). 
+
+Le contrat garantit les assurés suivants, au-delà de la franchise absolue respectivement mentionnée : (à compléter par
+l'assureur). 
+
+Dans le cas où ces caractéristiques seraient modifiées, l'assuré en informe l'assureur. 
+
+Nature de la garantie : 
+
+Le contrat garantit la responsabilité décennale des assurés instaurée par les articles 1792 et suivants du code civil, dans
+le cadre et les limites prévues par les dispositions des articles L. 241-1 et L. 241-2 relatives à l'obligation d'assurance
+décennale, et pour des travaux de construction d'ouvrages qui y sont soumis, au regard de l'article L. 243-1-1 du même code. 
+
+La garantie couvre les travaux de réparation, notamment en cas de remplacement des ouvrages, qui comprennent également les
+travaux de démolition, déblaiement, dépose ou démontage éventuellement nécessaires. 
+
+Montant de la garantie : 
+
+En habitation : le montant de la garantie couvre le coût des travaux de réparation des dommages à l'ouvrage. 
+
+Hors habitation : le montant de la garantie couvre le coût des travaux de réparation des dommages à l'ouvrage dans la limite
+du coût total de construction déclaré par le maître d'ouvrage et sans pouvoir être supérieur au montant prévu au I de
+l'article R. 243-3 du code assurances. 
+
+Durée et maintien de la garantie : 
+
+La garantie s'applique pour la durée de la responsabilité décennale pesant sur l'assuré en vertu des articles 1792 et 1792-2
+du code civil. Elle est maintenue dans tous les cas pour la même durée. 
+
+Franchise absolue : 
+
+Pour chacun des assurés, le contrat garantit le montant des travaux de réparation au-delà d'une franchise absolue, laquelle
+est égale au plafond de garantie des contrats individuels d'assurance décennale souscrits par chacun des assurés telle que
+mentionnée ci-dessus. 
+
+La franchise est opposable à tous. 
+
+L'assuré s'oblige à couvrir la portion du risque constituée par cette franchise par des garanties au moins équivalentes à
+celles figurant dans les clauses types mentionnées à l'annexe I de l'article A. 243-1. 
+
+La présente attestation ne peut engager l'assureur au-delà des clauses et conditions du contrat auquel elle se réfère.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 5 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code civil - art. 1792
+  - Code civil - art. 1792-2
+  - Code des assurances - art. A243-1
+  - Code des assurances - art. L241-1
+  - Code des assurances - art. L243-1-1
+  - Code des assurances - art. L243-2
+  - Code des assurances - art. R243-3
+
+
+###### Article A243-5
+
+L'attestation peut, le cas échéant, comporter des mentions relatives à d'autres garanties ou extensions prévues dans le
+contrat d'assurance. Néanmoins, au titre de la garantie obligatoire prévue par les articles L. 241-1 et L. 241-2,
+l'attestation ne doit comporter aucune mention de nature à écarter ou limiter d'une quelconque façon la portée des mentions
+minimales susmentionnées. Aucune mention ne peut faire référence à des dispositions contractuelles si ces dernières ne sont
+pas reproduites dans l'attestation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 5 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L241-1
 
 
 ###### Article Annexe I art A243-1
@@ -71325,22 +71560,29 @@ professionnelle, à défaut l'adresse du local d'habitation où l'entreprise est
 nom commercial. Lorsque le demandeur n'est pas inscrit au registre du commerce et des sociétés, son identité est attestée par
 une copie de la carte d'identité ou du passeport ; 
 
-1° bis Lorsque le demandeur est une personne morale : 
+2° Lorsque le demandeur est une personne morale : 
 
-a) L'identité des personnes qui la dirigent et la gèrent ainsi que lorsque l'activité faisant l'objet de l'inscription est
+a) L'identité des personnes qui la dirigent et la gèrent ainsi que, lorsque l'activité faisant l'objet de l'inscription est
 exercée à titre accessoire à leur activité principale, l'identité de la ou des personnes au sein de la direction à laquelle
 ou auxquelles est déléguée la responsabilité de l'activité concernée ; 
 
-b) L'identité de la personne parmi celles mentionnées au a dont le nom est porté au registre des intermédiaires ; 
+b) Le cas échéant, l'identité de la ou des personnes au sein de la direction à laquelle ou auxquelles est déléguée la
+responsabilité de l'activité concernée est attestée par une copie de la carte d'identité ou du passeport ; 
 
 c) L'adresse du siège social ; 
 
 d) La dénomination sociale et, le cas échéant, le sigle, l'enseigne et le nom commercial ; 
 
-2° La forme juridique, le numéro SIREN et, lorsque la personne est inscrite au registre du commerce et des sociétés, un
-extrait d'immatriculation datant de moins de trois mois ; 
+3° La forme juridique, le numéro SIREN et : 
 
-3° La justification de la catégorie dans laquelle l'intermédiaire demande son inscription : 
+a) Lorsque la personne est inscrite au registre du commerce et des sociétés, un extrait d'immatriculation datant de moins de
+trois mois ; 
+
+b) Lorsque la personne n'est pas inscrite au registre du commerce et des sociétés, une copie de la carte d'identité ou du
+passeport attestant l'identité des personnes physiques qui dirigent, gèrent ou administrent et/ ou sont directement
+responsables de l'activité ; 
+
+4° La justification de la catégorie dans laquelle l'intermédiaire demande son inscription : 
 
 a) Pour les courtiers et sociétés de courtage, un extrait d'immatriculation au registre du commerce et des sociétés datant de
 moins de trois mois et mentionnant l'activité de courtage d'assurance, établi au nom de l'intéressé si l'activité de courtage
@@ -71349,28 +71591,28 @@ est exercée en nom propre et au nom de la société concernée dans le cas cont
 b) Pour les agents généraux d'assurance, un document attestant l'existence et, le cas échéant, la durée du ou des mandats
 d'agent général d'assurance ; 
 
-c) Pour les personnes mentionnées aux 3° et 4° de l'article R. 511-2, un document attestant de l'existence d'un ou plusieurs
+c) Pour les personnes mentionnées aux 3° et 4° de l'article R. 511-2, un document attestant l'existence d'un ou plusieurs
 mandats ; 
 
-4° L'indication que l'activité d'intermédiation est exercée à titre principal ou à titre accessoire et, le cas échéant, la
+5° L'indication que l'activité d'intermédiation est exercée à titre principal ou à titre accessoire et, le cas échéant, la
 nature de l'activité principale ; 
 
-5° L'attestation d'assurance de responsabilité civile professionnelle prévue à l'article R. 512-14 ou, pour les
+6° L'attestation d'assurance de responsabilité civile professionnelle prévue à l'article R. 512-14 ou, pour les
 intermédiaires visés aux 2°, 3° et 4° de l'article R. 511-2, tout document attestant que l'entière responsabilité des actes
 de l'intermédiaire est assumée par le ou les mandants dans les conditions prévues au III de l'article L. 511-1 ; 
 
-6° L'attestation de garantie financière prévue à l'article R. 512-15 ou, pour les intermédiaires visés aux 2° et 3° de
+7° L'attestation de garantie financière prévue à l'article R. 512-15 ou, pour les intermédiaires visés aux 2° et 3° de
 l'article R. 511-2, tout document attestant d'un mandat d'encaissement des primes ou cotisations et, éventuellement, d'un
 mandat de règlement des sinistres ou, le cas échéant, une déclaration de l'intermédiaire par laquelle celui-ci atteste sur
 l'honneur ne pas encaisser de fonds ; 
 
-7° Le ou les documents permettant d'attester du respect des conditions de capacité professionnelle telles que définies à la
+8° Le ou les documents permettant d'attester du respect des conditions de capacité professionnelle telles que définies à la
 sous-section 2 du chapitre IV du présent titre ; 
 
-8° L'organisme mentionné à l'article L. 512-1 peut, en application des dispositions de l'article R. 514-1, demander, de
+9° L'organisme mentionné à l'article L. 512-1 peut, en application des dispositions de l'article R. 514-1, demander, de
 manière complémentaire, la production d'un extrait d'acte de naissance ; 
 
-9° Le règlement des frais d'inscription.
+10° Le règlement des frais d'inscription.
 
 **Liens relatifs à cet article**
 
@@ -71380,7 +71622,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 1er mars 2012 - art. 4
+  - Arrêté du 9 juin 2016 - art. 4
 
 _Cité par_:
 
@@ -71389,29 +71631,31 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L512-1 (V)
-  - Code des assurances - art. R511-2 (V)
-  - Code des assurances - art. R512-14 (V)
-  - Code des assurances - art. R512-15 (V)
-  - Code des assurances - art. R512-4 (V)
-  - Code des assurances - art. R514-1 (V)
+  - Code des assurances - art. L511-1
+  - Code des assurances - art. L512-1
+  - Code des assurances - art. R*512-4
+  - Code des assurances - art. R*514-1
+  - Code des assurances - art. R511-2
+  - Code des assurances - art. R512-14
+  - Code des assurances - art. R512-15
 
 
 ###### Article A512-2
 
-Le renouvellement de l'immatriculation est effectué au 1er mars de chaque année. La demande de renouvellement est adressée
-par l'intermédiaire ou le mandant au moins un mois avant l'expiration de l'immatriculation. Elle est accompagnée des éléments
-suivants : 
+Le renouvellement de l'immatriculation, mentionné à l'article L. 512-1, est effectué au 1er mars de chaque année. La demande
+de renouvellement est adressée par l'intermédiaire ou le mandant au moins un mois avant l'expiration de l'immatriculation.
+Elle est accompagnée des éléments suivants : 
 
-1° L'identité du demandeur mentionné aux 1° et 1° bis de l'article A. 512-1, son adresse, le cas échéant la forme juridique,
-la dénomination sociale, le sigle, l'enseigne, le nom commercial, le n° d'immatriculation et la ou les catégories
-concernées ; 
+1° L'identité du demandeur mentionné aux 1° et 2° de l'article A. 512-1, son adresse, le cas échéant la forme juridique, la
+dénomination sociale, le sigle, l'enseigne et le nom commercial ; 
 
-2° Le cas échéant, l'attestation d'assurance de responsabilité civile prévue à l'article R. 512-14 ; 
+2° Le numéro d'immatriculation et la ou les catégories concernées ; 
 
-3° Le cas échéant, l'attestation de garantie financière prévue à l'article R. 512-15 ; 
+3° Le cas échéant, l'attestation d'assurance de responsabilité civile prévue à l'article R. 512-14 ; 
 
-4° Le règlement des frais d'inscription.
+4° Le cas échéant, l'attestation de garantie financière prévue à l'article R. 512-15 ; 
+
+5° Le règlement des frais d'inscription.
 
 **Liens relatifs à cet article**
 
@@ -71421,53 +71665,61 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 1er mars 2012 - art. 4
+  - Arrêté du 9 juin 2016 - art. 4
 
 _Cite_:
 
-  - Code des assurances - art. A512-1 (V)
-  - Code des assurances - art. R512-14 (V)
-  - Code des assurances - art. R512-15 (V)
+  - Code des assurances - art. A512-1
+  - Code des assurances - art. L512-1
+  - Code des assurances - art. R512-14
+  - Code des assurances - art. R512-15
 
 
 ###### Article A512-3
 
-Le registre des intermédiaires mentionné à l'article R. 512-6 du présent code comporte les informations suivantes : 
+Le registre des intermédiaires mentionné à l'article R. 512-6 comporte les informations suivantes : 
 
 1° Le numéro d'immatriculation de l'intermédiaire ; 
 
 2° Dans le cas d'une personne physique, son identité, l'adresse de l'établissement où est exercée l'activité professionnelle,
 à défaut l'adresse du local d'habitation où l'entreprise est fixée, la forme juridique, le cas échéant l'enseigne, le nom
-commercial et le numéro SIREN ; ; 
+commercial et le numéro SIREN ; 
 
-2° bis Dans le cas d'une personne morale, l'identité de la personne parmi celle (s) mentionnée (s) au 1° bis de l'article A.
-512-1 et, le cas échéant, l'indication de celle à qui est déléguée la responsabilité de l'activité exercée, ainsi que
-l'adresse du siège social, la forme juridique, la dénomination sociale et, le cas échéant, le sigle, l'enseigne et le nom
-commercial ainsi que le numéro SIREN ; 
+3° Dans le cas d'une personne morale, l'identité de la personne parmi celles mentionnées au a du 2° de l'article A. 512-1 ou,
+le cas échéant, l'indication de celle à qui est déléguée la responsabilité de l'activité exercée, ainsi que l'adresse du
+siège social, la forme juridique, la dénomination sociale et, le cas échéant, le sigle, l'enseigne et le nom commercial ainsi
+que le numéro SIREN ; 
 
-3° La ou les catégories auxquelles appartient l'intermédiaire en application de l'article R. 511-2 et s'il exerce l'activité
+4° La ou les catégories auxquelles appartient l'intermédiaire en application de l'article R. 511-2 et s'il exerce l'activité
 d'intermédiation à titre principal ou à titre accessoire à une autre activité professionnelle. Dans ce dernier cas, le
 registre indique la nature de l'activité principale exercée ; 
 
-4° Lorsque l'intermédiaire d'assurance n'est pas couvert par une garantie financière parce qu'il a déclaré ne pas encaisser
-de fonds, une mention indiquant qu'il n'est pas autorisé à encaisser des fonds ; 
+5° Une mention indiquant si l'intermédiaire d'assurance est autorisé ou non à encaisser des fonds, selon qu'il est couvert
+par une garantie financière ou un mandat d'encaissement d'une entreprise d'assurance, ou qu'il a déclaré ne pas encaisser de
+fonds ; 
 
-5° Le cas échéant, les Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+6° Le cas échéant, les Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
 européen dans lesquels l'intermédiaire a indiqué souhaiter exercer son activité en régime de libre prestation de services ou
 de liberté d'établissement ; 
 
-6° Le nom de l'autorité compétente pour le contrôle de l'intermédiaire ; 
+7° Le nom de l'autorité compétente pour le contrôle de l'intermédiaire ; 
 
-7° La liste des intermédiaires habilités à exercer en France en régime de libre prestation de services et en libre
-établissement. Cette liste indique les nom et prénom, ou la dénomination sociale, l'adresse ou le numéro d'immatriculation et
-l'autorité dont ces intermédiaires dépendent pour leur immatriculation, ainsi que l'adresse du ou des établissements en
-France pour les intermédiaires exerçant en régime de libre établissement ; 
+8° La liste des intermédiaires habilités à exercer en France en régime de libre prestation de services et en libre
+établissement. Cette liste indique les nom et prénom, ou la dénomination sociale, l'adresse, le numéro d'immatriculation le
+cas échéant et l'autorité dont ces intermédiaires dépendent pour leur immatriculation, la date d'autorisation d'exercice en
+France ainsi que l'adresse du ou des établissements en France pour les intermédiaires exerçant en régime de libre
+établissement ; 
 
-8° Le cas échéant, l'indication de l'exercice de l'intermédiation en assurance dans les conditions fixées au I de l'article
+9° Le cas échéant, l'indication de l'exercice de l'intermédiation en assurance dans les conditions fixées au I de l'article
 R. 512-12 ; 
 
-9° Le cas échéant, le nom et les coordonnées du ou des mandants pour le ou les mandats au titre desquels l'intermédiaire
+10° Le cas échéant, le nom et les coordonnées du ou des mandants pour le ou les mandats au titre desquels l'intermédiaire
 exerce l'activité d'intermédiation.
+
+**Nota:**
+
+Conformément au II de l'article 6 de l'arrêté du 9 juin 2016, les 3° et 5° de l'article A 512-3 entrent en vigueur le 1er
+janvier 2017.
 
 **Liens relatifs à cet article**
 
@@ -71477,14 +71729,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 1er mars 2012 - art. 4
+  - Arrêté du 9 juin 2016 - art. 4
 
 _Cite_:
 
-  - Code des assurances - art. A512-1 (V)
-  - Code des assurances - art. R511-2 (V)
-  - Code des assurances - art. R512-12 (V)
-  - Code des assurances - art. R512-6 (V)
+  - Code des assurances - art. A512-1 (VD)
+  - Code des assurances - art. R*512-2
+  - Code des assurances - art. R*512-6
+  - Code des assurances - art. R512-12
 
 
 ##### Section II : Autres conditions d'accès et d'exercice.<a id=645></a>
