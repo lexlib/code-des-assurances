@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-07-10
+Version Consolidée au 2016-07-15
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -29352,7 +29352,7 @@ le nombre des parts.
 
 II.-Le contrat prévoit que l'entreprise d'assurance garantit une valeur minimale, non nulle, de la part de provision de
 diversification, exprimée en euros et non en pourcentage de la valeur de la part. Par dérogation, le contrat ne prévoit pas
-de garantie minimale pour les engagements relevant du V de l'article R. 134-1. 
+de garantie minimale pour les engagements relevant du IV de l'article R. 134-1. 
 
 Cette garantie constitue un engagement de l'entreprise d'assurance, y compris pour l'application de l'article R. 342-3. 
 
@@ -29365,10 +29365,6 @@ période d'application de l'article R. 342-3.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2014-1008 du 4 septembre 2014 - art. 1
-
 _Cité par_:
 
   - Décret n°2016-959 du 13 juillet 2016 (V)
@@ -29380,11 +29376,15 @@ _Cité par_:
   - Code des assurances - art. R134-13 (Ab)
   - Code des assurances - art. R134-6 (VD)
 
+_Modifié par_:
+
+  - Décret n°2016-959 du 13 juillet 2016 - art. 5
+
 _Cite_:
 
   - Code des assurances - art. R134-1
   - Code des assurances - art. R134-7
-  - Code des assurances - art. R342-3 (V)
+  - Code des assurances - art. R342-3
 
 
 ###### Article R134-6
@@ -29491,16 +29491,12 @@ sur le compte individuel de l'assuré.
 II.-En cas de liquidation d'une part seulement des engagements en rente, seule cette part est prise en compte pour
 l'application du présent article. 
 
-III.-Quand un contrat relevant de la présente section prévoit que les cotisations versées, nettes de frais, sont
-intégralement affectées à des engagements exprimés en parts de provision de diversification et qu'il prévoit l'acquisition de
-droits individuels relatifs à des engagements de rente, ces droits ne sont plus gérés, à compter de la liquidation en rente,
-au sein d'une comptabilité auxiliaire d'affectation relevant du V de l'article R. 134-1.
+III.-Quand un contrat relevant de la présente section prévoit que les primes versées, nettes de frais, sont intégralement
+affectées à des engagements exprimés en parts de provision de diversification et qu'il prévoit l'acquisition de droits
+individuels relatifs à des engagements de rente, ces droits ne sont plus gérés, à compter de la liquidation en rente, au sein
+d'une comptabilité auxiliaire d'affectation relevant du IV de l'article R. 134-1.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1008 du 4 septembre 2014 - art. 1
 
 _Cité par_:
 
@@ -29508,6 +29504,10 @@ _Cité par_:
   - Code des assurances - art. A134-1 (M)
   - Code des assurances - art. R134-1 (V)
   - Code des assurances - art. R134-10 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-959 du 13 juillet 2016 - art. 5
 
 
 ###### Article R134-10
@@ -29702,44 +29702,44 @@ date de versement, à 80 % des primes nettes de frais, les engagements réglemen
 chaque comptabilité auxiliaire d'affectation sont représentés par les actifs mentionnés aux 1° à 7° de l'article R. 131-1
 ainsi que ceux mentionnés au 13° de l'article R. 332-2. 
 
-La valeur au bilan d'affectation visé à l'article R. 342-1 des actifs ci-après mentionnés ne peut excéder 10 % au total : 
+La valeur au bilan d'affectation mentionné à l'article R. 342-1 des actifs ci-après mentionnés ne peut excéder : 
 
-1° Parts ou actions mentionnées au 3° ou au 4° de l'article R. 131-1 ; 
+1° Au total 10 % de ce bilan pour les actifs relevant du 3° et 4° de l'article R. 131-1 ; 
 
-2° Par dérogation au premier alinéa du présent article, parts ou actions d'organismes de placement collectif en valeurs
-mobilières ou de placements collectifs mentionnées au 8° de l'article R. 332-2 et dont l'actif comprend plus de 10 % de parts
-ou actions d'organismes de placement collectif en valeurs mobilières, de placements collectifs relevant des paragraphes 1,2
-et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la section 2 du
-chapitre IV du titre Ier du livre II du code monétaire et financier ou de fonds d'investissement mentionnés au 3° du I de
-l'article L. 214-24-55 du même code ; 
+2° Au total 30 % pour les actifs relevant du 3°, 4° et 5° de l'article R. 131-1. Pour l'appréciation de ce plafond, en ce qui
+concerne les actifs relevant du 5°, seule la quote-part de ces actions ou parts investie dans des placements autres que ceux
+mentionnés aux 1° et 2° de ce même article est prise en compte ; 
 
-3° Parts ou actions de placements collectifs mentionnés au 8° de l'article R. 332-2 ; 
+3° Au total 30 % pour les actifs mentionnés au 7° de l'article R. 131-1 ; 
 
-4° Actifs mentionnés au 13° de l'article R. 332-2. 
+4° Au total 10 % pour les actifs mentionnés au 13° de l'article R. 332-2 ; 
 
-De plus, la valeur au bilan d'affectation mentionnée à l'article R. 342-1 des parts ou actions mentionnées au 5°, au 6° ou au
-7° de l'article R. 131-1 ou au 9° bis de l'article R. 332-2 ne peut excéder 30 % au total. 
-
-Pour les entreprises mentionnées à l'article L. 310-3-2, l'article R. 332-65 s'applique. Par dérogation à cet article,
-l'article R. 332-3 ne s'applique pas à la comptabilité auxiliaire d'affectation de ces entreprises.
+Pour les entreprises mentionnées à l'article L. 310-3-2, l'article R. 332-65 s'applique. Par dérogation à cet article, les
+articles R. 332-3 et R. 332-3-1 ne s'appliquent pas à la comptabilité auxiliaire d'affectation de ces entreprises.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2015-513 du 7 mai 2015 - art. 6
 
 _Cité par_:
 
   - Décret n°2016-959 du 13 juillet 2016 (V)
   - Code des assurances - art. R343-1 (VD)
 
+_Modifié par_:
+
+  - Décret n°2016-959 du 13 juillet 2016 - art. 5
+
+_Abrogé par_:
+
+  - Décret n°2019-1437 du 23 décembre 2019 - art. 1
+
 _Cite_:
 
-  - Code monétaire et financier - art. L214-24-55
+  - Code des assurances - art. L310-3-2
   - Code des assurances - art. R131-1
-  - Code des assurances - art. R134-4 (VD)
-  - Code des assurances - art. R332-2 (VD)
+  - Code des assurances - art. R134-4
+  - Code des assurances - art. R332-2
+  - Code des assurances - art. R332-3
+  - Code des assurances - art. R332-65
   - Code des assurances - art. R342-1
 
 
@@ -65360,35 +65360,52 @@ _Cité par_:
 
 ###### Article A132-5-3
 
-I. - Pour les engagements relevant de l'article L. 134-1, durant la durée d'application de l'article R. 342-3, une
-information relative à l'affectation d'actifs par l'entreprise d'assurance en raison d'une insuffisance de représentation des
-engagements est remise contre récépissé préalablement à la souscription, à l'adhésion ou à la première demande de
-conversion. 
+I.-Pour les engagements relevant de l'article L. 134-1, durant la durée d'application de l'article R. 342-3, une information
+relative à l'affectation d'actifs par l'entreprise d'assurance en raison d'une insuffisance de représentation des engagements
+est remise contre récépissé préalablement à la souscription, à l'adhésion ou à la première demande de conversion. 
 
-II. - Les souscripteurs ou adhérents sont avisés par écrit de la mise en application de l'article R. 342-3, dans un délai qui
+II.-Les souscripteurs ou adhérents sont avisés par écrit de la mise en application de l'article R. 342-3, dans un délai qui
 ne peut excéder un mois. 
 
-III. - Par dérogation à l'article A. 132-7, l'entreprise d'assurance communique chaque année au souscripteur ou à l'adhérent,
-pour chaque engagement donnant lieu à la constitution d'une provision de diversification, le montant des capitaux ou des
-rentes garantis, le nombre de parts de provision de diversification détenues et leur valeur ainsi que, pour le souscripteur
-individuel ou l'adhérent, l'évolution annuelle de ces montants et de ces valeurs depuis sa souscription ou son adhésion ou
-pour les cinq dernières années lorsque la date de sa souscription ou de son adhésion est antérieure de plus de cinq ans à la
-date de clôture de l'exercice.
+III.-Par dérogation à l'article A. 132-7, l'entreprise d'assurance communique à sa demande et au moins une fois par an au
+souscripteur ou à l'adhérent, pour chaque engagement donnant lieu à la constitution d'une provision de diversification, le
+montant des capitaux ou des rentes garantis, le nombre de parts de provision de diversification détenues et leur valeur, la
+valeur de rachat totale du contrat ainsi que, pour le souscripteur individuel ou l'adhérent, l'évolution annuelle de ces
+montants et de ces valeurs depuis sa souscription ou son adhésion ou pour les cinq dernières années lorsque la date de sa
+souscription ou de son adhésion est antérieure de plus de cinq ans. Ces données sont établies en date du calcul de la
+dernière valeur de part de la provision technique de diversification. 
+
+IV.-L'entreprise d'assurance fournit, sur son site internet ou, en réponse à une demande, par écrit, aux souscripteurs ou aux
+adhérents d'un contrat comportant des engagements donnant lieu à constitution de provision de diversification affectés à une
+comptabilité auxiliaire d'affectation mentionnée à l'article L. 134-2 l'information suivante, en date du dernier arrêté de
+compte annuel disponible, précisant : 
+
+1° La répartition par catégorie des actifs en représentation de la comptabilité auxiliaire d'affectation ; 
+
+2° La performance des actifs sur l'année ; 
+
+3° Le montant des provisions mathématiques et celui des provisions de diversification.
+
+**Nota:**
+
+Arrêté du 13 juillet 2016, article 5 : Ces dispositions sont applicables jusqu'au 31 décembre 2019 inclus.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 12 septembre 2014 - art. 1
 
 _Codifié par_:
 
   - Arrêté 1976-07-16
 
+_Modifié par_:
+
+  - Arrêté du 13 juillet 2016 - art. 3
+  - Arrêté du 13 juillet 2016 - art. 4
+
 _Cite_:
 
   - Code des assurances - art. A132-7
   - Code des assurances - art. L134-1
+  - Code des assurances - art. L134-2 (V)
   - Code des assurances - art. R342-3
 
 
@@ -67115,7 +67132,7 @@ _Créé par_:
 Pour l'application de l'article R. 134-1 et du I de l'article R. 134-9 : 
 
 a) Par dérogation à l'article 142-3 du règlement n° 2015-11 du 26 novembre 2015 de l'Autorité des normes comptables relatif
-au cadre comptable des entreprises d'assurance  les provisions mathématiques sont calculées, pour chaque inventaire, d'après
+au cadre comptable des entreprises d'assurance les provisions mathématiques sont calculées, pour chaque inventaire, d'après
 un taux au plus égal à : 
 
 1° Pour chacun des engagements, 90 % du dernier indice TECn publié par la Banque de France, où n correspond à l'échéance de
@@ -67133,7 +67150,10 @@ durée maximale.
 Le choix de la méthode est fait par l'entreprise d'assurance pour chaque comptabilité auxiliaire d'affectation. Lorsqu'elle
 choisit la méthode prévue en 1, ce choix n'est pas réversible. 
 
-b) Les tarifs sont pratiqués conformément à l'article    A. 132-18 ; 
+Le taux retenu par l'entreprise d'assurance ne peut être négatif. Si, en application de la méthode qu'elle a choisie, le taux
+à retenir pour le calcul des provisions mathématiques est négatif, l'entreprise retient le taux de 0 %. 
+
+b) Les tarifs sont pratiqués conformément à l'article A. 132-18 ; 
 
 c) Les provisions mathématiques peuvent être calculées d'après un taux différent de celui retenu pour l'établissement du
 tarif.
@@ -67142,10 +67162,11 @@ tarif.
 
 _Modifié par_:
 
-  - Arrêté du 28 décembre 2015 - art. 3
+  - Arrêté du 13 juillet 2016 - art. 2
 
 _Cite_:
 
+  - Code des assurances - art. A132-18 (V)
   - Code des assurances - art. R134-1
   - Code des assurances - art. R134-9
 
@@ -67308,7 +67329,7 @@ engagements relevant de l'article L. 134-1.
 
 II.-Ces informations sont agrégées par les fédérations professionnelles pour leurs adhérents et transmises à l'Autorité de
 contrôle prudentiel et de résolution et au ministre chargé de l'économie. Sur demande, ces autorités reçoivent directement
-des organismes d'assurance les informations désagrégées qui les concernent par. 
+des organismes d'assurance les informations désagrégées qui les concernent. 
 
 III.-Le format de l'information relative à la répartition de actifs afférents aux engagements affectés à une comptabilité
 auxiliaire d'affectation mentionnée à l'article L. 134-2 prévue au I est précisé chaque année afin de parfaire la
@@ -67316,15 +67337,15 @@ connaissance géographique et par transparence des actifs en représentation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 12 septembre 2014 - art. 2
+  - Arrêté du 13 juillet 2016 - art. 2
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 125-0 A
   - Code des assurances - art. L134-1
-  - Code des assurances - art. L134-2 (V)
+  - Code des assurances - art. L134-2
 
 
 ### Titre IV : Les assurances de groupe<a id=558></a>
