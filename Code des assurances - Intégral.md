@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-11-21
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -248,7 +248,7 @@ relative à une opération spatiale (art. L176-1 à L176-5)](#61)
       - [Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes. (art. R111-1 à R114-1)](#244)
         - [Chapitre Ier : Dispositions générales. (art. R111-1 à R111-2)](#245)
         - [Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices. (art. R112-1 à R112-5)](#246)
-        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. R*113-4 à R113-12)](#247)
+        - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. R*113-4 à R113-13)](#247)
         - [Chapitre IV : Compétence et prescription. (art. R114-1)](#248)
       - [Titre II : Règles relatives aux assurances de dommages. (art. R*124-1 à R128-4)](#249)
         - [Chapitre IV : Les assurances de responsabilité. (art. R*124-1 à R124-3)](#250)
@@ -27743,6 +27743,34 @@ _Cite_:
 _Créé par_:
 
   - Décret n°2014-1685 du 29 décembre 2014 - art. 1
+
+
+###### Article R113-13
+
+En application du troisième alinéa de l'article L. 113-12-2, l'assureur ne peut résilier, pour cause d'aggravation du risque,
+le contrat d'assurance souscrit dans le cadre d'un contrat de crédit mentionné au 1° de l'article L. 313-1 du code de la
+consommation, que si les conditions suivantes sont réunies : 
+
+1° L'assuré pratique régulièrement une nouvelle activité sportive présentant un risque particulier pour sa santé ou sa
+sécurité, et figurant sur une liste fixée par arrêté du ministre chargé de l'économie ; 
+
+2° L'exercice de cette nouvelle activité conduit à rendre inexactes ou caduques les réponses faites par l'assuré en réponse
+aux questions relatives à sa pratique sportive posées par l'assureur lors de la conclusion du contrat, en application des
+dispositions du 2° de l'article L. 113-2 ; 
+
+3° L'assuré n'a pas déclaré cette nouvelle activité dans les conditions et délais définis au 3° du même article L. 113-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1559 du 18 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L313-1
+  - Code des assurances - art. L113-12-2 (V)
+  - Code des assurances - art. L113-2 (V)
 
 
 #### Chapitre IV : Compétence et prescription.<a id=248></a>
