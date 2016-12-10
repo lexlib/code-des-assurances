@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-11-21
+Version Consolidée au 2016-12-11
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -21,7 +21,7 @@ Version Consolidée au 2016-11-21
         - [Chapitre VIII : L'assurance des risques de catastrophes technologiques (art. L128-1 à L128-4)](#18)
         - [Chapitre IX : Assurances collectives de dommages (art. L129-1)](#19)
       - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. L131-1 à L134-5)](#20)
-        - [Chapitre Ier : Dispositions générales. (art. L131-1 à L131-3)](#21)
+        - [Chapitre Ier : Dispositions générales. (art. L131-1 à L131-4)](#21)
         - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. L132-1 à L132-31)](#22)
           - [Section I : Dispositions générales. (art. L132-1 à L132-27-2)](#23)
           - [Section II : Les assurances populaires. (art. L132-28)](#24)
@@ -1441,32 +1441,31 @@ L'assuré qui souscrit à des fins non professionnelles un contrat d'assurance c
 service vendu par un fournisseur, s'il justifie d'une garantie antérieure pour l'un des risques couverts par ce nouveau
 contrat, peut renoncer à ce nouveau contrat, sans frais ni pénalités, tant qu'il n'a pas été intégralement exécuté ou que
 l'assuré n'a fait intervenir aucune garantie, et dans la limite d'un délai de quatorze jours calendaires à compter de la
-conclusion du nouveau contrat. 
+conclusion du nouveau contrat.
 
 Avant la conclusion d'un contrat d'assurance, l'assureur remet à l'assuré un document l'invitant à vérifier s'il n'est pas
 déjà bénéficiaire d'une garantie couvrant l'un des risques couverts par le nouveau contrat et l'informant de la faculté de
 renonciation mentionnée au premier alinéa. Un arrêté du ministre chargé des assurances fixe le contenu et le format de ce
-document d'information. 
+document d'information.
 
 Lorsque l'assuré a exercé sa faculté de renonciation dans les conditions prévues au premier alinéa, l'assureur est tenu de
 rembourser, le cas échéant, le montant de la prime payée par l'assuré dans un délai de trente jours à compter de la date
 d'exercice du droit de renonciation. Toutefois, l'intégralité de la prime reste due à l'assureur si le souscripteur exerce
 son droit de renonciation alors qu'un sinistre mettant en jeu la garantie du contrat est intervenu durant le délai de
-renonciation prévu au premier alinéa. 
+renonciation prévu au premier alinéa.
 
-Le présent article s'applique aux contrats d'assurance qui couvrent : 
+Le présent article s'applique aux contrats d'assurance qui couvrent :
 
-1° Soit le risque de mauvais fonctionnement, de perte, y compris de vol, ou d'endommagement des biens fournis ; 
+1° Soit le risque de mauvais fonctionnement, de perte, y compris de vol, ou d'endommagement des biens fournis ;
 
 2° Soit l'endommagement ou la perte, y compris le vol, de bagages et les autres risques liés à un voyage, même si l'assurance
 couvre la vie ou la responsabilité civile, à la condition que cette couverture soit accessoire à la couverture principale
-relative aux risques liés à ce voyage.
+relative aux risques liés à ce voyage ;
+
+3° Soit la perte, y compris le vol, de moyens de paiement, ainsi que de tout autre bien inclus dans une offre portant sur les
+moyens de paiement.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2014-344 du 17 mars 2014 - art. 58
 
 _Cité par_:
 
@@ -1474,6 +1473,10 @@ _Cité par_:
   - Code des assurances - art. A112-1 (V)
   - Code des assurances - art. Annexe à l'article A112-1 (V)
   - Code des assurances - art. L194-1 (VD)
+
+_Modifié par_:
+
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 83
 
 
 #### Chapitre III : Obligations de l'assureur et de l'assuré.<a id=6></a>
@@ -4316,6 +4319,88 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L932-23 (V)
 
 
+###### Article L131-4
+
+I.-Lorsqu'une ou plusieurs unités de compte mentionnées à l'article L. 131-1 sont constituées de parts ou d'actions d'un
+organisme de placement collectif qui fait l'objet d'une suspension du rachat ou de l'émission de ses parts ou actions et qui
+n'est pas en mesure de publier une valeur liquidative, l'entreprise d'assurance peut : 
+
+1° Proposer au contractant ou bénéficiaire de procéder, sur cette partie du contrat, au règlement des rachats, des
+prestations en capital en cas de vie et en cas de décès et des capitaux constitutifs de rentes, à la date de conversion, sous
+forme de remise des parts ou actions de cet organisme de placement collectif ; 
+
+2° Suspendre ou restreindre, sur cette partie du contrat uniquement, les facultés d'arbitrage, les versements de primes, les
+possibilités de rachats ou de transferts, le paiement des prestations en cas de vie ou de décès et les conversions en
+rentes ; 
+
+3° Dans le cadre de l'information qu'elle transmet au contractant, calculer les capitaux ou les rentes garantis des contrats
+sans tenir compte de la partie du contrat exprimée en unités de compte constituées d'actions ou de parts de l'organisme de
+placement collectif concerné. L'entreprise indique alors que cette partie du contrat n'a pas été intégrée au calcul des
+capitaux ou des rentes garantis en raison de l'absence de valeur liquidative. 
+
+II.-Lorsqu'une ou plusieurs unités de compte mentionnées à l'article L. 131-1 sont constituées de parts ou actions d'un
+organisme de placement collectif qui fait l'objet d'une suspension du rachat ou de l'émission de ses parts ou actions et qui
+est en mesure de publier une valeur liquidative ou qui fait l'objet d'un plafonnement temporaire du rachat de ses parts ou
+actions, l'entreprise d'assurance peut : 
+
+1° Proposer au contractant ou bénéficiaire de procéder, outre le règlement en espèces, sur cette partie du contrat, au
+règlement de tout ou partie des rachats et des prestations en capital en cas de vie et en cas de décès sous forme de remise
+des parts ou actions de cet organisme de placement collectif ; 
+
+2° Suspendre ou restreindre, sur cette partie du contrat uniquement, les facultés d'arbitrage et les versements de primes,
+les possibilités de rachats ou de transferts, le paiement des prestations en cas de vie ou de décès et les conversions en
+rentes. 
+
+Un décret en Conseil d'Etat précise les modalités de calcul de la valeur de rachat lorsque le plafonnement temporaire des
+rachats des parts ou actions de l'organisme de placement collectif concerné conduit à exécuter les ordres, nécessaires à
+l'exécution des dispositions et facultés prévues par les contrats d'assurance sur la vie et de capitalisation, à différentes
+valeurs liquidatives. 
+
+L'Autorité de contrôle prudentiel et de résolution peut remettre en cause les décisions de suspension ou de restriction
+prises par l'entreprise d'assurance en application du 2°. Elle statue dans un délai de trente jours à compter de la date de
+début de cette suspension ou de cette restriction. Lorsqu'une décision de suspension ou de restriction est remise en cause
+par l'Autorité de contrôle prudentiel et de résolution, les demandes de rachats, de transferts, d'arbitrages, de versements
+de primes, de paiement des prestations en cas de vie ou de décès et de conversion en rentes reçues pendant la période de
+suspension sont exercées sur la base d'une valeur de rachat dont le calcul est fondé, sur cette partie du contrat uniquement,
+sur la valeur liquidative des parts ou actions de l'organisme de placement collectif concerné qui aurait été retenue sans
+l'exercice de cette faculté de suspension ou restriction par l'entreprise d'assurance. 
+
+L'Autorité de contrôle prudentiel et de résolution se prononce en tenant compte de l'intérêt des assurés et bénéficiaires de
+l'entreprise d'assurance, de l'impact potentiel sur son bilan des mesures de suspension du rachat ou d'émission de parts ou
+actions ou de plafonnement temporaire du rachat de parts ou actions d'organismes de placement collectif et de sa capacité à
+honorer, dans le futur, ses engagements d'assurance. 
+
+III.-L'entreprise d'assurance informe sans délai l'Autorité de contrôle prudentiel et de résolution de la mise en œuvre des
+facultés prévues aux I et II. Cette information est également portée à la connaissance des contractants concernés. 
+
+IV.-L'ensemble des dispositions du présent article sont applicables nonobstant les délais de règlement prévus aux articles L.
+132-21 et L. 132-23-1 ou tout autre délai ou modalité de valorisation prévus contractuellement afférents à la réalisation des
+opérations susvisées. 
+
+V.-Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément au V de l'article 118 de la loi n° 2016-1691 du 9 décembre 2016, ces dispositions sont immédiatement applicables
+aux contrats d'assurance sur la vie et aux contrats de capitalisation en cours à la date d'entrée en vigueur de ladite loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 118
+
+_Cité par_:
+
+  - Décret n°2017-1104 du 23 juin 2017 (V)
+  - Code de la mutualité - art. L223-2 (V)
+  - Code de la sécurité sociale. - art. L932-15-1 (VD)
+  - Code des assurances - art. R131-10 (V)
+  - Code des assurances - art. R131-11 (V)
+  - Code des assurances - art. R131-8 (V)
+  - Code des assurances - art. R131-9 (V)
+
+
 #### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=22></a>
 
 ##### Section I : Dispositions générales.<a id=23></a>
@@ -5021,6 +5106,28 @@ _Cite_:
   - Code des assurances - art. L132-9-3
 
 
+###### Article L132-9-5
+
+Les entreprises d'assurance proposant des contrats d'assurance vie dont les prestations sont liées à la cessation d'activité
+professionnelle informent annuellement les assurés ayant dépassé la date de liquidation de leur pension dans un régime
+obligatoire d'assurance vieillesse ou, à défaut, celle mentionnée à l'article L. 161-17-2 du code de la sécurité sociale, de
+la possibilité de liquider les prestations au titre du contrat. 
+
+Elles établissent chaque année, chacune pour ce qui la concerne, un rapport adressé à l'Autorité de contrôle prudentiel et de
+résolution et au ministre chargé de l'économie, précisant le nombre et l'encours des contrats non liquidés pour lesquels
+l'adhérent a dépassé l'âge de départ en retraite, ainsi que les moyens mis en œuvre pour les en informer.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 115 (V)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L161-17-2 (V)
+
+
 ###### Article L132-10
 
 La police d'assurance peut être donnée en nantissement soit par avenant, soit par acte soumis aux formalités des articles
@@ -5407,7 +5514,9 @@ l'entreprise avant la fin de l'exercice à la clôture duquel la valeur de racha
 d'assurance sur la vie ou de capitalisation, la valeur de rachat ou de transfert ne peut être inférieure de plus de 5 % à la
 valeur de rachat ou de transfert qui serait calculée sans qu'elle tienne compte de la partie des primes mentionnée au présent
 alinéa. Le montant des frais à l'entrée et sur versement mis à la charge de l'intéressé au cours d'une année donnée ne peut
-excéder 5 % du montant des primes versées cette même année. 
+excéder 5 % du montant des primes versées cette même année. Cette dernière limite ne s'applique pas aux formules de
+financement d'obsèques mentionnées à l'article L. 2223-33-1 du code général des collectivités territoriales pour lesquelles
+les chargements d'acquisition représentent chaque année un montant inférieur ou égal à 2,5 % du capital garanti. 
 
 Lorsque le mécanisme prévu au précédent alinéa n'est pas appliqué, la valeur de rachat ou de transfert peut être diminuée
 d'une indemnité dont le montant maximal est fixé par décret en Conseil d'Etat. 
@@ -5419,11 +5528,12 @@ calcul actuariel qui leur sont applicables.
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 6
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 81
 
 _Cite_:
 
-  - Code des assurances - art. L134-1 (V)
+  - Code général des collectivités territoriales - art. L2223-33-1 (V)
+  - Code des assurances - art. L134-1
 
 _Cité par_:
 
@@ -5546,11 +5656,11 @@ ouverte, l'affilié reçoit, lorsqu'il demande la liquidation de ses droits, une
 son choix, dont le contenu est fixé par arrêté du ministre chargé de l'économie. Toutefois, ces contrats doivent prévoir une
 faculté de rachat intervenant lorsque se produisent l'un ou plusieurs des événements suivants :
 
-- expiration des droits de l'assuré aux allocations chômage prévues par le code du travail en cas de licenciement, ou le fait
-pour un assuré qui a exercé des fonctions d'administrateur, de membre du directoire ou de membre de conseil de surveillance,
-et n'a pas liquidé sa pension dans un régime obligatoire d'assurance vieillesse, de ne pas être titulaire d'un contrat de
-travail ou d'un mandat social depuis deux ans au moins à compter du non-renouvellement de son mandat social ou de sa
-révocation ;
+- expiration des droits de l'assuré aux allocations chômage accordées consécutivement à une perte involontaire d'emploi, ou
+le fait pour un assuré qui a exercé des fonctions d'administrateur, de membre du directoire ou de membre de conseil de
+surveillance, et n'a pas liquidé sa pension dans un régime obligatoire d'assurance vieillesse, de ne pas être titulaire d'un
+contrat de travail ou d'un mandat social depuis deux ans au moins à compter du non-renouvellement de son mandat social ou de
+sa révocation ;
 
 - cessation d'activité non salariée de l'assuré à la suite d'un jugement de liquidation judiciaire en application des
 dispositions du livre VI du code de commerce ou toute situation justifiant ce rachat selon le président du tribunal de
@@ -5577,6 +5687,11 @@ période qui ne peut excéder une durée fixée par décret en Conseil d'Etat, s
 
 L'assureur peut d'office substituer le rachat à la réduction si la valeur de rachat est inférieure à un montant fixé par
 décret.
+
+**Nota:**
+
+Conformément au III de l'article 116 de la loi n° 2016-1691 du 9 décembre 2016, ces dispositions s'appliquent aux contrats en
+cours à la date de publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -5622,7 +5737,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 1
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 116 (V)
 
 _Cite_:
 
@@ -6466,9 +6581,13 @@ pour plus de la moitié, de membres ne détenant ou n'ayant détenu au cours des
 intérêt ni aucun mandat dans l'organisme d'assurance signataire du contrat d'assurance de groupe, et ne recevant ou n'ayant
 reçu au cours de la même période aucune rétribution de la part de ce même organisme. 
 
-Les adhérents à ces contrats sont membres de droit de l'association souscriptrice ; ils disposent d'un droit de vote à
-l'assemblée générale et peuvent proposer une résolution à l'assemblée générale. Un décret en Conseil d'Etat précise, pour ces
-associations, les droits des adhérents lors des assemblées générales.
+Les adhérents à ces contrats sont membres de droit de l'association  souscriptrice ; ils disposent d'un droit de vote à
+l'assemblée générale  et peuvent proposer à celle-ci une résolution. 
+
+L'assemblée générale a seule qualité pour autoriser la modification des  dispositions essentielles du contrat d'assurance de
+groupe souscrit par  l'association. 
+
+Un décret en Conseil d'Etat précise, pour ces associations, les droits des adhérents lors des assemblées générales.
 
 II. - Le I ne s'applique pas au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la
 fonction publique. 
@@ -6483,7 +6602,7 @@ par l'assemblée générale et peuvent, sur demande, obtenir communication de so
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 50
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 85
 
 _Cité par_:
 
@@ -7047,6 +7166,20 @@ prévoir, en cas d'invalidité de l'adhérent survenue après son adhésion, le 
 exclusif, sans que cette prestation puisse avoir pour effet de lui ouvrir des droits qui excéderaient ceux auxquels il aurait
 pu prétendre sans invalidité. 
 
+Nonobstant les dispositions du deuxième alinéa du présent I, un adhérent peut demander le rachat d'un contrat à une
+entreprise d'assurances agréée en application de l'article L. 321-1 du présent code, ainsi qu'aux organismes d'assurance
+mentionnés à l'article L. 144-4, s'il satisfait aux conditions suivantes : 
+
+1° La valeur de transfert du contrat est inférieure à 2 000 € ; 
+
+2° Pour les contrats ne prévoyant pas de versements réguliers, aucun versement de cotisation n'a été réalisé au cours des
+quatre années précédant le rachat ; pour les contrats prévoyant des versements réguliers, l'adhésion au contrat est
+intervenue au moins quatre années révolues avant la demande de rachat ; 
+
+3° Le revenu de son foyer fiscal de l'année précédant celle du rachat est inférieur à la somme, majorée le cas échéant au
+titre des demi-parts supplémentaires retenues pour le calcul de l'impôt sur le revenu afférent audit revenu, prévue au II de
+l'article 1417 du code général des impôts. 
+
 Le plan d'épargne retraite populaire a également pour objet la constitution d'une épargne affectée à l'acquisition de la
 résidence principale de l'adhérent en accession à la première propriété mentionnée au premier alinéa du I de l'article 244
 quater J du code général des impôts, à compter de la date de liquidation de sa pension dans un régime obligatoire d'assurance
@@ -7143,6 +7276,11 @@ d'assurance ou bien de le remettre en concurrence. La décision de reconduire le
 d'assurance est soumise à l'approbation de l'assemblée générale. En cas de remise en concurrence, l'entreprise d'assurance
 sortante ne peut être exclue de la procédure de mise en concurrence.
 
+**Nota:**
+
+Conformément au III de l'article 116 de la loi n° 2016-1691 du 9 décembre 2016, ces dispositions s'appliquent aux contrats en
+cours à la date de publication de ladite loi.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -7221,10 +7359,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 1
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 116 (V)
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 1417 (V)
   - Code général des impôts, CGI. - art. 244 quater J
   - Code pénal - art. 226-13
   - Code monétaire et financier - art. L321-2
@@ -7234,6 +7373,8 @@ _Cite_:
   - Code des assurances - art. L141-1
   - Code des assurances - art. L141-7
   - Code des assurances - art. L143-5
+  - Code des assurances - art. L144-4 (V)
+  - Code des assurances - art. L321-1 (V)
 
 
 ###### Article L144-3
@@ -8087,8 +8228,7 @@ _Cité par_:
 ###### Article L160-19
 
 Le présent article s'applique aux organismes de placement collectif qui ont été créés conformément à l'article L. 160-10 du
-présent code ou à l'article L. 214-119 du code monétaire et financier, et dont les parts ou actions constituent une unité de
-compte d'un contrat d'assurance sur la vie. 
+présent code et dont les parts ou actions constituent une unité de compte d'un contrat d'assurance sur la vie. 
 
 Il ne peut être versé de rétrocession de commission par le dépositaire mentionné à l'article L. 214-59 du code monétaire et
 financier ou par la société mentionnée à l'article L. 214-61 du même code au bénéfice de l'entreprise d'assurance proposant
@@ -8102,7 +8242,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 8
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 121 (V)
 
 _Cite_:
 
@@ -8110,7 +8250,7 @@ _Cite_:
   - Code monétaire et financier - art. L214-59
   - Code monétaire et financier - art. L214-61
   - Code des assurances - art. L160-10
-  - Code des assurances - art. L356-1 (V)
+  - Code des assurances - art. L356-1
 
 
 ###### Article L160-20
@@ -22793,6 +22933,9 @@ Les dispositions du premier alinéa s'appliquent aux entreprises d'assurance ét
 compris à celles qui, par dérogation aux dispositions de l'article L. 310-3-1, sont susceptibles de relever du régime dit "
 Solvabilité II ".
 
+L'article L. 324-1 est applicable dans sa rédaction résultant de la loi n° 2015-990 du 6 août 2015 pour la croissance,
+l'activité et l'égalité des chances économiques.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -22801,12 +22944,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 6
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
 
 _Cite_:
 
-  - Code des assurances - art. L310-3-1 (VD)
-  - Code des assurances - art. L322-3-2 (VD)
+  - Code des assurances - art. L310-3-1
+  - Code des assurances - art. L322-3-2
 
 _Anciens textes_:
 
@@ -23724,10 +23867,9 @@ _Anciens textes_:
 
 ###### Article L421-9-1
 
-I.-Lorsque l'Autorité de contrôle prudentiel et de résolution estime qu'une des entreprises mentionnées au premier alinéa du
-I de l'article L. 421-9, ou présente sur le marché des garanties de responsabilité civile automobile, n'est plus en mesure de
-faire face à ses engagements envers les personnes mentionnées au même article, elle décide de recourir au Fonds de garantie
-des assurances obligatoires de dommages. 
+I.-Lorsque l'Autorité de contrôle prudentiel et de résolution prend à l'égard d'une entreprise mentionnée au premier alinéa
+du I de l'article L. 421-9 du présent code la mesure conservatoire prévue au 14° du I de l'article L. 612-33 du code
+monétaire et financier, elle recourt au Fonds de garantie des assurances obligatoires de dommages. 
 
 Avant de prendre sa décision, l'Autorité de contrôle prudentiel et de résolution consulte par écrit le fonds de garantie en
 lui indiquant qu'elle envisage de recourir à lui. Le fonds dispose d'un délai de quinze jours pour adresser ses observations
@@ -23742,34 +23884,26 @@ et dans un délai de quinze jours, demander à l'Autorité une nouvelle délibé
 La décision de l'Autorité de recourir au fonds de garantie est immédiatement notifiée à l'entreprise concernée à l'issue de
 la procédure décrite ci-dessus. 
 
-II.-Dès cette notification, l'Autorité lance un appel d'offres en vue du transfert du portefeuille de contrats de cette
-entreprise. Cet appel d'offres est communiqué au fonds de garantie. 
+II.-Dès cette notification, l'autorité communique au fonds de garantie l'appel d'offres qu'elle lance pour mettre en œuvre la
+mesure conservatoire mentionnée au 14° du I de l'article L. 612-33 du code monétaire et financier. 
 
-III.-L'Autorité retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des assurés, souscripteurs de
-contrats, adhérents et bénéficiaires de prestations. 
-
-La décision de l'Autorité qui prononce le transfert du portefeuille de contrats au profit de la ou des entreprises qu'il a
-désignées est publiée au Journal officiel de la République française. Cette décision libère l'entreprise cédante de tout
-engagement envers les assurés, souscripteurs de contrats, adhérents et bénéficiaires de prestations, dont les contrats ont
-été transférés en vertu des dispositions du présent article. 
-
-Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie. 
+III.-Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie. 
 
 IV.-Le transfert de tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait, par
-l'Autorité, de tous les agréments administratifs de l'entreprise défaillante. Le fonds de garantie accomplit, jusqu'à la
-nomination du liquidateur, les actes nécessaires à la gestion de la partie du portefeuille de contrats qui n'a pas été
-transférée. L'administrateur provisoire nommé, le cas échéant, par l'Autorité peut accomplir ces actes de gestion pour le
-compte du fonds de garantie.
+l'Autorité, de tous les agréments administratifs de l'entreprise défaillante en application du II de l'article L. 612-33-2 du
+code monétaire et financier. Le fonds de garantie accomplit, jusqu'à la nomination du liquidateur, les actes nécessaires à la
+gestion de la partie du portefeuille de contrats qui n'a pas été transférée. L'administrateur provisoire nommé, le cas
+échéant, par l'Autorité peut accomplir ces actes de gestion pour le compte du fonds de garantie.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 47 (V)
 
 _Cite_:
 
-  - Code des assurances - art. L421-9 (VT)
+  - Code monétaire et financier - art. L612-33 (V)
 
 _Cité par_:
 
@@ -24634,9 +24768,10 @@ _Cite_:
 
 ###### Article L423-2
 
-I.-Lorsque l'Autorité de contrôle prudentiel et de résolution estime qu'une des entreprises mentionnées à l'article L. 423-1
-n'est plus en mesure de faire face à ses engagements envers les personnes mentionnées au même article, elle décide de
-recourir au fonds de garantie après avoir consulté par écrit le président du directoire de celui-ci. 
+I.-Lorsque l'Autorité de contrôle prudentiel et de résolution prend à l'égard d'une entreprise mentionnée à l'article L.
+423-1 du présent code la mesure conservatoire prévue au 14° du I de l'article L. 612-33 du code monétaire et financier, elle
+recourt au fonds de garantie régi par le présent chapitre, après avoir consulté par écrit le président du directoire de ce
+fonds. 
 
 S'il conteste la décision de l'Autorité, le président du directoire peut, dans un délai de quinze jours à compter de celle-
 ci, saisir le ministre chargé de l'économie. Celui-ci peut alors, dans l'intérêt des assurés et des souscripteurs, adhérents
@@ -24647,24 +24782,15 @@ La décision de l'Autorité de contrôle prudentiel et de résolution de recouri
 à l'entreprise concernée. En cas de mise en œuvre de la procédure décrite à l'alinéa précédent, seule la nouvelle
 délibération de l'Autorité est notifiée à l'entreprise. 
 
-II.-Dès cette notification, l'Autorité lance un appel d'offres en vue du transfert du portefeuille de contrats de cette
-entreprise. Cet appel d'offres est communiqué au fonds de garantie. 
+II.-Dès cette notification, l'autorité communique au fonds de garantie l'appel d'offres qu'elle lance pour mettre en œuvre la
+mesure conservatoire mentionnée au 14° du I de l'article L. 612-33 du code monétaire et financier. 
 
-III.-L'Autorité retient la ou les offres qui lui paraissent le mieux préserver l'intérêt des assurés, souscripteurs de
-contrats, adhérents et bénéficiaires de prestations, eu égard notamment à la solvabilité des entreprises candidates et aux
-taux de réduction des engagements qu'elles proposent. 
+III.-Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie. 
 
-La décision de l'Autorité qui prononce le transfert du portefeuille de contrats au profit de la ou des entreprises qu'elle a
-désignées et qui mentionne, le cas échéant, le taux de réduction pour chaque type de contrats transférés, est publiée au
-Journal officiel de la République française. Cette décision libère l'entreprise cédante de tout engagement envers les
-assurés, souscripteurs de contrats, adhérents et bénéficiaires de prestations, dont les contrats ont été transférés en vertu
-des dispositions du présent article. 
-
-Lorsque la procédure de transfert du portefeuille n'a pas abouti, l'Autorité en informe le fonds de garantie. 
-
-IV.-Les engagements et les actifs transférés font l'objet d'une comptabilité distincte. Les bénéfices éventuels dus à une
-sous-estimation des actifs ou à une surestimation des engagements dans le bilan de transfert reviennent aux assurés,
-souscripteurs de contrats, adhérents et bénéficiaires de prestations, dont les contrats ont été transférés. 
+IV.-Les engagements et les actifs transférés font l'objet d'une comptabilité distincte en application du II de l'article L.
+612-33-2 du code monétaire et financier. Les bénéfices éventuels dus à une sous-estimation des actifs ou à une surestimation
+des engagements dans le bilan de transfert reviennent aux assurés, souscripteurs de contrats, adhérents et bénéficiaires de
+prestations, dont les contrats ont été transférés. 
 
 V.-Le transfert de tout ou partie du portefeuille ou le constat de l'échec de la procédure de transfert emporte retrait, par
 l'Autorité, de tous les agréments administratifs de l'entreprise défaillante. Le fonds de garantie accomplit, jusqu'à la
@@ -24676,11 +24802,11 @@ compte du fonds de garantie.
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 47 (V)
 
 _Cite_:
 
-  - Code des assurances - art. L423-1 (VT)
+  - Code monétaire et financier - art. L612-33 (V)
 
 _Cité par_:
 
