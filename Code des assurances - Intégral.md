@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-25
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -24442,13 +24442,22 @@ jour où il reçoit de celle-ci la justification de ses préjudices. Cette dispo
 d'aggravation du dommage. 
 
 Les articles L. 211-15 à L. 211-18 sont applicables à ces offres d'indemnisation. Les offres tardives ou manifestement
-insuffisantes peuvent ouvrir droit à des dommages et intérêts au profit de la victime.
+insuffisantes peuvent ouvrir droit à des dommages et intérêts au profit de la victime. 
+
+Le fonds rembourse aux régimes d'assurance maladie les dépenses mentionnées au 1° et au a du 2° du II de l'article L. 169-10
+du code de la sécurité sociale.
+
+**Nota:**
+
+Conformément au VI de l'article 60 de la loi n° 2016-1827 du 23 décembre 2016, ces dispositions sont applicables aux actes et
+prestations inscrits sur la liste prévue à l'article L. 162-1-7 et à la délivrance de produits et prestation inscrits sur la
+liste mentionnée à l'article L. 165-1 intervenus postérieurement au 14 juillet 2016.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2008-644 du 1er juillet 2008 - art. 2
+  - Loi n°2016-1827 du 23 décembre 2016 - art. 60 (V)
 
 _Cité par_:
 
@@ -24461,7 +24470,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L211-15 (V)
+  - Code des assurances - art. L211-15
 
 
 ###### Article L422-3
