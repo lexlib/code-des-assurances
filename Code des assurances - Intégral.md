@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-04-08
+Version Consolidée au 2017-04-28
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -266,7 +266,7 @@ relative à une opération spatiale (art. L176-1 à L176-5)](#61)
   - [Partie réglementaire (art. R111-1 à R541-1)](#262)
     - [Livre Ier : Le contrat. (art. R111-1 à R195-1)](#263)
       - [Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes. (art. R111-1 à R114-1)](#264)
-        - [Chapitre Ier : Dispositions générales. (art. R111-1 à R111-2)](#265)
+        - [Chapitre Ier : Dispositions générales. (art. R111-1 à R111-3)](#265)
         - [Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices. (art. R112-1 à R112-5)](#266)
         - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. R*113-4 à R113-13)](#267)
         - [Chapitre IV : Compétence et prescription. (art. R114-1)](#268)
@@ -28625,6 +28625,27 @@ _Cite_:
 
   - Code des assurances - art. L111-6 (V)
   - Code des assurances - art. L112-2 (V)
+
+
+###### Article R111-3
+
+Les installations d'énergies marines renouvelables mentionnées au d du 1° de l'article L. 111-6 sont les installations de
+production d'électricité à partir de sources d'énergies renouvelables telles que définies à l'article L. 211-2 du code de
+l'énergie, y compris les machines électrogènes et les autres ouvrages du producteur en aval du point de livraison au réseau
+public, situées en mer au-delà du rivage de la mer tel qu'il est défini à l'article L. 2111-4 du code général de la propriété
+des personnes publiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-627 du 26 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code général de la propriété des personnes publ... - art. L2111-4 (V)
+  - Code des assurances - art. L111-6 (V)
+  - Code de l'énergie - art. L211-2 (V)
 
 
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.<a id=266></a>
