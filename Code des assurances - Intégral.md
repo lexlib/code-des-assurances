@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-04-28
+Version Consolidée au 2017-04-29
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -513,7 +513,7 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#292)
           - [Section IX : Dispositions relatives au financement d'actions visant à réduire le nombre des accidents de la circulation et à prévenir la non-assurance de responsabilité civile automobile (art. R421-72)](#508)
           - [Section X : Dispositions particulières applicables aux dommages immobiliers d'origine minière (art. R*421-74 à R421-77)](#509)
           - [Section XI : Dispositions spéciales aux catastrophes technologiques (art. R421-78)](#510)
-        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R*422-8 à R422-9)](#511)
+        - [Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. (art. R*422-8 à R422-10)](#511)
         - [Chapitre III : Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes. (art. R423-1 à R423-18)](#512)
         - [Chapitre IV : Fonds de garantie des risques liés à l'épandage agricole des boues d'épuration urbaines ou industrielles. (art. R424-1 à R424-17)](#513)
           - [Section I : Dispositions générales. (art. R424-1 à R424-4)](#514)
@@ -58950,7 +58950,8 @@ _Modifié par_:
 
 Le fonds de garantie est soumis au contrôle du ministre chargé des assurances qui nomme un commissaire du Gouvernement pour
 exercer en son nom un contrôle sur l'ensemble de la gestion du fonds. Le commissaire du Gouvernement peut assister à toutes
-les réunions du conseil d'administration. Il peut se faire présenter tous les livres et documents comptables.
+les réunions du conseil d'administration ou des comités institués par ce conseil. Il peut se faire présenter tous les livres
+et documents comptables.
 
 Les décisions prises par le conseil d'administration ou par les autorités auxquelles il accorde délégation sont exécutoires
 dans un délai de quinze jours à dater de la décision si le commissaire du Gouvernement ne signifie pas, soit qu'il approuve
@@ -58961,33 +58962,22 @@ les décisions ne comportant pas un engagement financier pour le fonds.
 
 _Codifié par_:
 
-  - Décret n°88-261 1988-03-18
+  - Décret n°88-261 du 18 mars 1988
 
 _Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°2017-643 du 27 avril 2017 - art. 2
 
 
 ###### Article R422-4
 
-Le fonds de garantie est alimenté par une contribution assise sur les primes ou cotisations des contrats d'assurance de biens
-souscrits auprès d'une entreprise visée à l'article L. 310-2. 
-
-Cette contribution est perçue par les entreprises d'assurance suivant les mêmes règles et sous les mêmes garanties et
-sanctions que la taxe sur les conventions d'assurance. Elle est recouvrée mensuellement par le fonds de garantie qui peut
-prévoir le versement d'acomptes. 
-
-Le taux de la contribution est fixé, chaque année, par arrêté du ministre chargé des assurances.
+Les opérations du fonds sont comptabilisées conformément aux règles applicables aux entreprises d'assurance.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°88-261 1988-03-18
-
-_Modifié par_:
-
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°88-261 du 18 mars 1988
 
 _Cité par_:
 
@@ -58995,17 +58985,23 @@ _Cité par_:
   - Code des assurances - art. A422-1 (V)
   - Code des assurances - art. R422-5 (M)
 
+_Modifié par_:
+
+  - Décret n°2017-643 du 27 avril 2017 - art. 3
+
 _Cite_:
 
-  - Code des assurances - art. L310-2 (V)
+  - Code des assurances - art. L310-2
 
 
 ###### Article R422-5
 
 Les opérations effectuées par le fonds de garantie comprennent, en recettes, le produit de la contribution prévue à l'article
-R. 422-4, les indemnités obtenues des responsables, les revenus des fonds placés et les bénéfices sur remboursements et
-réalisation d'actifs. Elles comprennent, en dépenses, les indemnités et frais versés au titre des sinistres pris en charge,
-les frais de fonctionnement, de recours et de placement exposés et les pertes sur réalisation d'actifs. 
+L. 422-1, les indemnités obtenues des responsables et les recouvrements effectués sur les débiteurs d'indemnités, les revenus
+des fonds placés et les bénéfices sur remboursements et réalisation d'actifs, les versements du budget de l'Etat, les dons et
+legs ainsi que toute autre ressource qui pourrait être attribuée au fonds de garantie. Elles comprennent, en dépenses, les
+indemnités et frais versés au titre des sinistres pris en charge, les frais de fonctionnement, de recours et de placement
+exposés et les pertes sur réalisation d'actifs. 
 
 Les avoirs disponibles du fonds de garantie font l'objet des placements mentionnés à l'article R. 332-2 suivant les
 limitations prévues aux articles R. 332-3 et R. 332-3-1. Toutefois, pour le calcul de ces limitations, le montant de chacune
@@ -59015,35 +59011,43 @@ des catégories de placements est rapporté au montant des avoirs disponibles du
 
 _Codifié par_:
 
-  - Décret n°88-261 1988-03-18
+  - Décret n°88-261 du 18 mars 1988
 
 _Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°2017-643 du 27 avril 2017 - art. 4
 
 _Cite_:
 
-  - Code des assurances - art. R332-2 (V)
-  - Code des assurances - art. R332-3 (V)
-  - Code des assurances - art. R422-4 (V)
+  - Code des assurances - art. L422-1
+  - Code des assurances - art. R332-2
+  - Code des assurances - art. R332-3
 
 
 ###### Article R422-6
 
 Dès la survenance d'un acte de terrorisme, le procureur de la République ou l'autorité diplomatique ou consulaire compétente
 informe sans délai le fonds de garantie des circonstances de l'événement et de l'identité des victimes. En outre, toute
-personne qui s'estime victime d'un acte de terrorisme peut saisir directement le fonds de garantie. Le fonds de garantie
-assiste les victimes dans la constitution de leur dossier d'indemnisation.
+personne qui s'estime victime d'un acte de terrorisme peut saisir directement le fonds de garantie.
+
+Le fonds de garantie assiste les victimes dans la constitution de leur dossier d'indemnisation. Il les informe de toutes les
+pièces justificatives et renseignements à fournir, qui comprennent notamment l'indication :
+
+1° Des demandes de réparation ou d'indemnité présentées par ailleurs et, en particulier, des actions en dommages et intérêts
+qui ont été engagées ainsi que des sommes qui leur ont été versées en réparation du préjudice ;
+
+2° Le cas échéant, des organismes publics ou privés dont elles relèvent ou auprès desquels elles sont assurées et qui sont
+susceptibles de les indemniser de tout ou partie du préjudice subi.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°88-261 1988-03-18
+  - Décret n°88-261 du 18 mars 1988
 
 _Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°2017-643 du 27 avril 2017 - art. 5
 
 _Cité par_:
 
@@ -59094,6 +59098,27 @@ _Cite_:
 
   - Code de procédure pénale - art. 706-3 (V)
   - Code de procédure pénale - art. R50-24 (V)
+
+
+###### Article R422-10
+
+Les articles R. 422-1 à R. 422-9 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-
+Calédonie, dans leur rédaction résultant du décret n° 2017-643 du 27 avril 2017 relatif au Fonds de garantie des victimes des
+actes de terrorisme et d'autres infractions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°88-261 du 18 mars 1988
+
+_Modifié par_:
+
+  - Décret n°2017-643 du 27 avril 2017 - art. 6
+
+_Cite_:
+
+  - Code des assurances - art. R422-1
 
 
 #### Chapitre III : Fonds de garantie des assurés contre la défaillance de sociétés d'assurance de personnes.<a id=512></a>
