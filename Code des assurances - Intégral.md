@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-04-29
+Version Consolidée au 2017-05-06
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -68811,7 +68811,7 @@ _Modifié par_:
 ###### Article A211-1-3
 
 En ce qui concerne les dommages aux biens, l'assurance doit être souscrite pour une somme, par sinistre et quel que soit le
-nombre de victimes, au moins égale à 1 120 000 euros.
+nombre de victimes, au moins égale à 1 220 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -68826,7 +68826,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 22 novembre 2011 - art. 1
+  - Arrêté du 2 mai 2017 - art. 1
 
 
 ##### Section III : Franchises, exclusions de garantie et déchéances.<a id=592></a>
@@ -72645,7 +72645,7 @@ _Cite_:
 
 ###### Article A421-1-1
 
-L'indemnisation des dommages aux biens par le fonds de garantie ne peut excéder par sinistre la somme de 1 120 000 euros.
+L'indemnisation des dommages aux biens par le fonds de garantie ne peut excéder par sinistre la somme de 1 220 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -72655,7 +72655,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 22 novembre 2011 - art. 1
+  - Arrêté du 2 mai 2017 - art. 1
 
 
 ##### Section IV : Régime financier du fonds de garantie.<a id=642></a>
