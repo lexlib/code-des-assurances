@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-05-06
+Version Consolidée au 2017-05-11
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -30778,25 +30778,52 @@ _Cité par_:
 
 ###### Article R141-6
 
-L'assemblée générale a seule qualité pour autoriser la signature d'avenants aux contrats d'assurance de groupe souscrits par
-l'association. Elle peut toutefois déléguer au conseil d'administration, par une ou plusieurs résolutions et pour une durée
-qui ne peut excéder dix-huit mois, le pouvoir de signer un ou plusieurs avenants dans des matières que la résolution définit.
-Le conseil d'administration exerce ce pouvoir dans la limite de la délégation donnée par l'assemblée générale, et en cas de
-signature d'un ou plusieurs avenants il en fait rapport à la plus proche assemblée.
+Pour l'application du troisième alinéa du I de l'article L. 141-7, les dispositions essentielles du contrat d'assurance de
+groupe sont les suivantes : 
+
+1° La définition des garanties offertes ; 
+
+2° La durée du contrat ; 
+
+3° Les modalités de versement des primes ; 
+
+4° Les frais et indemnités de toute nature prélevés par l'entreprise d'assurance, à l'exception des frais pouvant être
+supportés par une unité de compte ; 
+
+5° Le taux d'intérêt garanti et la durée de cette garantie, les garanties de fidélité et les modalités de calcul et
+d'attribution de la participation aux bénéfices ; 
+
+6° La liste des supports en unités de compte, sauf lorsque la modification est autorisée ou prévue par le contrat ; 
+
+7° Les conditions dans lesquelles la liste des supports en unités de compte peut évoluer ; 
+
+8° Les modalités de rachat, de transfert ou de versement des prestations du contrat ; 
+
+9° La faculté de procéder à des avances consentie par l'entreprise d'assurance. 
+
+L'assemblée générale peut déléguer au conseil d'administration, par une ou plusieurs résolutions et pour une durée qui ne
+peut excéder dix-huit mois, le pouvoir de signer un ou plusieurs avenants, dont la résolution définit l'objet, relatifs à des
+dispositions non essentielles du contrat d'assurance de groupe. Le conseil d'administration exerce ce pouvoir dans la limite
+de la délégation donnée par l'assemblée générale. En cas de signature d'un ou plusieurs avenants, il en fait rapport à la
+plus prochaine assemblée générale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°2006-976 du 1 août 2006 - art. 1 () JORF 4 août 2006 en vigueur le 16 juin 2007
+  - Décret n°76-667 du 16 juillet 1976
 
 _Cité par_:
 
   - Décret n°2017-868 du 9 mai 2017 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-868 du 9 mai 2017 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L141-7 (V)
 
 
 ###### Article R141-7
