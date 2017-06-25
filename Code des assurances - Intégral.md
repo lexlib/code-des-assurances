@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-06-26
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -277,7 +277,7 @@ relative à une opération spatiale (art. L176-1 à L176-5)](#61)
         - [Chapitre VII : L'assurance de protection juridique. (art. R127-1)](#273)
         - [Chapitre VIII : L'assurance des risques de catastrophes technologiques. (art. R128-1 à R128-4)](#274)
       - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. R131-1 à R134-14)](#275)
-        - [Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte. (art. R131-1 à R131-7)](#276)
+        - [Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte. (art. R131-1 à R131-11)](#276)
         - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. R132-2 à D132-10)](#277)
           - [Section I : Dispositions générales. (art. R132-2 à R132-5-7)](#278)
           - [Section V : Transfert des contrats liés à la cessation d'activité professionnelle (art. D132-6 à D132-10)](#279)
@@ -29544,8 +29544,9 @@ _Cite_:
 Seules sont admissibles en unités de compte les parts ou actions mentionnées au 6° ou au 7° de l'article R. 131-1 des
 organismes qui : 
 
-a) D'une part prévoient dans leur statut ou règlement, sans aucune restriction de quelque sorte qu'elle soit, le rachat des
-parts ou d'actions deux mois au plus tard après que le porteur en a effectué la demande ; 
+a) D'une part prévoient dans leur statut ou règlement, sans autre restriction que celle prévue à l'article L. 214-67-1 du
+code monétaire et financier, le rachat des parts ou d'actions deux mois au plus tard après que le porteur en a effectué la
+demande ; 
 
 b) D'autre part, emploient au moins 20 % de leurs actifs immobiliers en immeubles construits, loués ou offerts à la location,
 dans les conditions définies aux articles R. 214-86 à R. 214-88 du code monétaire et financier
@@ -29558,10 +29559,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-687 du 25 juillet 2013 - art. 23
+  - Décret n°2017-1104 du 23 juin 2017 - art. 2
 
 _Cite_:
 
+  - Code monétaire et financier - art. L214-67-1 (V)
   - Code monétaire et financier - art. R214-86
 
 _Cité par_:
@@ -29610,6 +29612,140 @@ placements entrant dans la composition de cette valeur de référence et dans le
 _Créé par_:
 
   - Décret n°2015-513 du 7 mai 2015 - art. 6
+
+
+###### Article R131-8
+
+Les mesures prises par l'entreprise d'assurance en application du 2° du I et du 2° du II de l'article L. 131-4 n'ont d'effet
+qu'à l'égard des demandes d'opérations sur le contrat formulées postérieurement à la dernière date de centralisation des
+ordres de rachat par l'organisme de placement collectif concerné précédant sa décision de suspension ou de plafonnement
+temporaire des rachats de ses parts ou actions. 
+
+La demande d'opération sur le contrat non exécutée en tout ou partie en raison d'une mesure de restriction prise par
+l'entreprise d'assurance en application du 2° du I ou du 2° du II de l'article L. 131-4 est automatiquement reportée à la
+prochaine date de centralisation des ordres de l'organisme de placement collectif concerné lorsque celui-ci établit sa valeur
+liquidative plus d'une fois par semaine. Toutefois, si le contrat le prévoit, le souscripteur, l'adhérent ou le bénéficiaire
+peut s'opposer au report de la part non exécutée de sa demande d'opération. La demande d'opération sur le contrat non
+exécutée en tout ou partie est automatiquement annulée dans les autres cas. L'entreprise d'assurance informe par tout moyen
+écrit et sans délai le souscripteur, l'adhérent ou le bénéficiaire du report ou de l'annulation de la part de sa demande
+d'opération non exécutée. 
+
+Lorsque l'entreprise d'assurance décide de restreindre les opérations dans les conditions prévues au I de l'article L. 131-4,
+elle ne peut appliquer aux souscripteurs, adhérents ou bénéficiaires une valeur liquidative inférieure à la dernière valeur
+liquidative publiée de l'organisme de placement collectif faisant l'objet d'une suspension du rachat de ses parts ou
+actions. 
+
+Lorsque l'entreprise d'assurance décide de restreindre les opérations sur le contrat dans les conditions prévues au II de
+l'article L. 131-4, elle applique un seuil de restriction dans les mêmes proportions pour chacun des souscripteurs, adhérents
+ou bénéficiaires concernés. Ce seuil de restriction ne peut être inférieur à celui auquel sont plafonnés temporairement les
+rachats des parts ou actions de l'organisme de placement collectif servant de référence aux garanties exprimées en unités de
+compte du contrat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1104 du 23 juin 2017 - art. 1
+
+_Cité par_:
+
+  - Code de la mutualité - art. R223-1 (VD)
+  - Code de la sécurité sociale. - art. R932-3-1 (VD)
+
+_Cite_:
+
+  - Code des assurances - art. L131-4 (V)
+
+
+###### Article R131-9
+
+Lorsque l'entreprise d'assurance décide de restreindre les opérations sur le contrat dans les conditions prévues au 2° du II
+de l'article L. 131-4, elle exécute les demandes d'opérations, au maximum des possibilités de rachat des parts ou actions sur
+l'organisme de placement concerné et en prenant en compte sa propre capacité de compensation entre les demandes de
+souscription et de rachat, dans le délai prévu dans les conditions normales d'exécution du contrat. Chaque partie de
+l'opération est exécutée dans le délai et à la valeur liquidative prévus dans les conditions normales d'exécution du
+contrat. 
+
+Toutefois, lorsque la valeur liquidative de l'organisme de placement collectif est établie plus d'une fois par semaine,
+l'entreprise d'assurance peut déroger au précédent alinéa pendant une période n'excédant pas la durée de suspension ou de
+plafonnement des rachats des parts ou actions par l'organisme de placement collectif et au maximum une semaine, pouvant être
+renouvelée dans les mêmes conditions, selon les modalités suivantes : 
+
+1° La demande d'opération formulée par le souscripteur, l'adhérent ou le bénéficiaire des contrats concernés est exécutée à
+concurrence du taux global pour l'entreprise d'assurance des demandes d'opérations sur l'organisme de placement collectif
+concerné que celle-ci aurait obtenu, pour l'ensemble des souscripteurs, adhérents et bénéficiaires concernés, sur la période
+en appliquant le premier alinéa ; 
+
+2° L'unité de compte faisant l'objet de l'opération demandée est valorisée à la moyenne des valeurs liquidatives qui auraient
+été obtenues, par l'ensemble des souscripteurs, adhérents et bénéficiaires concernés, en appliquant le premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1104 du 23 juin 2017 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L131-4 (V)
+
+
+###### Article R131-10
+
+Lorsqu'elle prend l'une des mesures prévues au 2° du I et au 2° du II de l'article L. 131-4, l'entreprise d'assurance tient à
+la disposition des souscripteurs, adhérents et bénéficiaires, par tout moyen et au moins par une mention sur son site
+internet, l'information comprenant les éléments suivants : 
+
+1° La dénomination des unités de compte concernées ; 
+
+2° La description des mesures prises et leur durée prévue ou estimée ; 
+
+3° Les modalités de report et de révocabilité de la demande d'opération qui serait non exécutée en tout ou partie ; 
+
+4° Les modalités de règlement des opérations sur le contrat. 
+
+Lorsque l'adhérent ou le souscripteur détenteur d'un contrat dont les garanties sont exprimées dans les unités de compte
+concernées par l'une des mesures prévues au 2° du I et au 2° du II de l'article L. 131-4 demande une opération sur une de ces
+unités de compte, l'entreprise d'assurance l'avise par tout moyen, lors de sa demande, de l'information mentionnée au premier
+alinéa. A défaut, ces mesures ne sont pas opposables à l'adhérent ou au souscripteur. 
+
+A l'issue de la période de mise en œuvre des mesures prévues au 2° du I et au 2° du II de l'article L. 131-4, l'entreprise
+d'assurance envoie par voie postale ou électronique à chaque adhérent, souscripteur ou bénéficiaire ayant demandé une
+opération à laquelle ces mesures étaient applicables un relevé détaillant les effets des mesures prises sur les opérations
+effectuées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1104 du 23 juin 2017 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L131-4 (V)
+
+
+###### Article R131-11
+
+La notification à l'Autorité de contrôle prudentiel et de résolution de la décision par l'entreprise d'assurance de suspendre
+ou de restreindre les opérations sur le contrat dans les conditions prévues au 2° du II de l'article L. 131-4 décrit les
+raisons qui justifient sa décision en tenant compte des éléments d'appréciation prévus au dernier alinéa du II de cet
+article. 
+
+Elle est accompagnée des documents et informations dont la liste est fixée par l'autorité, après avis de la commission
+consultative mentionnée au I de l'article L. 612-14 du code monétaire et financier, et publiée au registre officiel de
+l'autorité sous forme électronique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1104 du 23 juin 2017 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L612-14 (V)
+  - Code des assurances - art. L131-4 (V)
 
 
 #### Chapitre II : Les assurances sur la vie et les opérations de capitalisation<a id=277></a>
