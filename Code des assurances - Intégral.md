@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-07-20
+Version Consolidée au 2017-07-22
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -13926,6 +13926,39 @@ _Cite_:
   - Code des assurances - art. L310-2
 
 
+###### Article L310-1-1-1
+
+L'article L. 225-102-1 du code de commerce est applicable, dans les conditions prévues pour les sociétés mentionnées au 1° de
+son I, aux entreprises d'assurance et de réassurance mentionnées aux articles L. 310-1 et L. 310-1-1 qui revêtent la forme
+sociale de société anonyme et dont le total du bilan ou le chiffre d'affaires et le nombre de salariés excèdent, le cas
+échéant sur une base consolidée ou combinée, les seuils prévus pour les sociétés mentionnées au 1° du I du même article.
+
+Cet article s'applique également aux sociétés mutuelles d'assurance, dans les conditions prévues pour les sociétés
+mentionnées au 2° de son I, lorsque le total de leur bilan ou leur chiffre d'affaires et leur nombre de salariés excèdent, le
+cas échéant sur une base consolidée ou combinée, les seuils prévus pour les sociétés mentionnées au 2° du I du même article.
+
+**Nota:**
+
+Conformément à l'article 15 de l'ordonnance n° 2017-1180 du 19 juillet 2017, ces dispositions sont applicables aux rapports
+afférents aux exercices ouverts à compter du 1er août 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1180 du 19 juillet 2017 - art. 6
+
+_Cite_:
+
+  - Code de commerce - art. L225-102-1
+  - Code des assurances - art. L310-1
+  - Code des assurances - art. L310-1-1
+
+_Cité par_:
+
+  - Code des assurances - art. L390-1 (V)
+
+
 ###### Article L310-1-2
 
 I.-Un "véhicule de titrisation" est une entité juridique, dotée ou non de la personnalité morale, autre qu'un organisme
@@ -17510,22 +17543,26 @@ _Cite_:
 ###### Article L322-26-2-4
 
 A la clôture de chaque exercice comptable, le conseil d'administration ou, le cas échéant, le directoire des sociétés
-d'assurance mutuelles établit un rapport de gestion. Les dispositions de l'article L. 322-4-3 du présent code et des
-cinquième à dixième alinéas de l'article L. 225-102-1 du code de commerce s'appliquent. 
+d'assurance mutuelles établit un rapport de gestion. Les dispositions de l'article L. 322-4-3 du présent code s'appliquent.
 
 Les sociétés d'assurance mutuelles nomment un ou plusieurs commissaires aux comptes pour exercer les missions définies à la
 section 2 du chapitre III du titre II du livre VIII du code de commerce, dans des conditions définies par voie réglementaire.
 
+**Nota:**
+
+Conformément à l'article 15 de l'ordonnance n° 2017-1180 du 19 juillet 2017, ces dispositions sont applicables aux rapports
+afférents aux exercices ouverts à compter du 1er août 2017.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 7
+  - Ordonnance n°2017-1180 du 19 juillet 2017 - art. 7
 
 _Cite_:
 
-  - Code de commerce - art. L225-102-1 (V)
-  - Code des assurances - art. L322-4-3 (V)
+  - Code de commerce - art. L225-102-1
+  - Code des assurances - art. L322-4-3
 
 _Cité par_:
 
@@ -23494,10 +23531,19 @@ VII.
 
 Les dispositions du premier alinéa s'appliquent aux entreprises d'assurance établies dans les îles Wallis et Futuna, y
 compris à celles qui, par dérogation aux dispositions de l'article L. 310-3-1, sont susceptibles de relever du régime dit "
-Solvabilité II ".
+Solvabilité II ". 
+
+Les articles L. 310-1-1-1 et L. 322-26-2-4 sont applicables dans leur rédaction résultant de l'ordonnance n° 2017-1180 du 19
+juillet 2017 relative à la publication d'informations non financières par certaines grandes entreprises et certains groupes
+d'entreprises. 
 
 L'article L. 324-1 est applicable dans sa rédaction résultant de la loi n° 2015-990 du 6 août 2015 pour la croissance,
 l'activité et l'égalité des chances économiques.
+
+**Nota:**
+
+Conformément à l'article 15 de l'ordonnance n° 2017-1180 du 19 juillet 2017, ces dispositions sont applicables aux rapports
+afférents aux exercices ouverts à compter du 1er août 2017.
 
 **Liens relatifs à cet article**
 
@@ -23505,14 +23551,19 @@ _Cité par_:
 
   - Décret n°91-1197 du 27 novembre 1991 - art. 283 (V)
 
-_Modifié par_:
-
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
-
 _Cite_:
 
+  - Loi n°2015-990 du 6 août 2015
+  - Ordonnance n°2017-1180 du 19 juillet 2017
+  - Code des assurances - art. L310-1-1-1
   - Code des assurances - art. L310-3-1
+  - Code des assurances - art. L322-26-2-4
   - Code des assurances - art. L322-3-2
+  - Code des assurances - art. L324-1
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1180 du 19 juillet 2017 - art. 14
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance<a id=193></a>
