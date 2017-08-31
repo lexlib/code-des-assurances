@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-07-22
+Version Consolidée au 2017-09-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -551,11 +551,11 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#292)
             - [Paragraphe 1 : Fonds national de garantie des calamités agricoles. (art. R431-33 à R431-38)](#546)
             - [Paragraphe 4 : Fonds de compensation des risques de l'assurance de la construction. (art. R*431-55 à R431-59)](#547)
       - [Titre IV : Régimes particuliers d'assurance (art. R*441-3 à R442-10-10)](#548)
-        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. R*441-3 à R*441-30)](#549)
-          - [Section I : Dispositions générales. (art. R*441-3 à R441-2)](#550)
-          - [Section II : Règles techniques et comptables. (art. D441-22 à R441-21)](#551)
+        - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. R*441-3 à R441-30)](#549)
+          - [Section I : Dispositions générales. (art. R*441-3 à R441-2-2)](#550)
+          - [Section II : Règles techniques et comptables. (art. D441-22 à R441-24)](#551)
           - [Section III : Conversion de la convention. (art. R441-26 à R441-28)](#552)
-          - [Section IV : Dispositions transitoires. (art. R*441-30)](#553)
+          - [Section IV : Dispositions transitoires. (art. R441-30)](#553)
         - [Chapitre II : Garanties publiques pour le commerce extérieur (art. R442-2 à R442-10-10)](#554)
           - [Section I : Dispositions générales. (art. R442-2 à R442-7-3)](#555)
           - [Section II : Opérations d'exportation ou présentant un intérêt stratégique pour l'économie française (art. R442-8-1 à R442-8-12)](#556)
@@ -62700,6 +62700,94 @@ _Cite_:
   - Code des assurances - art. L112-4
 
 
+###### Article R441-2-1
+
+Lorsque la convention prévoit des possibilités de baisse de la valeur de service de l'unité de rente, cette baisse ne peut
+intervenir que lorsque le rapport entre, d'une part, la somme de la provision technique spéciale et des plus-values et moins-
+values latentes nettes sur les actifs affectés à la provision technique spéciale et, d'autre part, la provision mathématique
+théorique est inférieur à 0,95 à la date de fin d'exercice ou lorsqu'il est inférieur à 1 depuis trois exercices.
+
+Pour l'application du premier alinéa, il n'est pas tenu compte des exercices clôturés avant le 1er janvier 2017, ni des
+exercices clôturés avant l'introduction dans la convention de possibilités de baisse de la valeur de service de l'unité de
+rente.
+
+La baisse mentionnée au premier alinéa ne peut être mise en œuvre qu'à la condition que :
+
+a) Une diminution annuelle de la valeur de service de l'unité de rente ne conduise pas à ce que le rapport, à la fin de
+l'exercice précédant la date à laquelle la décision de diminution de la valeur de service a été prise, entre, d'une part, la
+somme de la provision technique spéciale et des plus-values ou moins-values latentes nettes sur les actifs affectés à la
+provision technique spéciale et, d'autre part, la provision mathématique théorique dépasse 1,05 ;
+
+b) La valeur de service de l'unité de rente n'ait pas diminué de plus d'un tiers au cours des soixante derniers mois.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
+
+
+###### Article R441-2-2
+
+I. – Les informations techniques et financières prévues aux 7° et 8° du I de l'article L. 441-3-1 comprennent les éléments
+suivants : 
+
+1° Le montant de la provision mathématique théorique calculée au 31 décembre de l'exercice clos ; 
+
+2° Le montant des provisions techniques mentionnées aux 1° à 3° de l'article R. 441-7 à cette même date ; 
+
+3° Le rapport entre, d'une part, la somme de la provision technique spéciale et des plus-values et moins-values latentes
+nettes sur les actifs affectés à la provision technique spéciale et, d'autre part, la provision mathématique théorique à
+cette même date et à la date de clôture des neuf exercices qui la précèdent, sans inclure les exercices clôturés avant le 1er
+janvier 2017 ; 
+
+4° Une mention expliquant de façon claire et non ambiguë si, au regard des conditions prévues par la convention, en
+application de l'article L. 441-2, une baisse de la valeur de service de la convention est susceptible d'être appliquée dans
+les douze mois à venir, selon quelles modalités et dans quelle proportion ; 
+
+5° L'évolution de la valeur de service au cours des cinq derniers exercices ainsi que son évolution cumulée sur cette
+période. 
+
+II. – Le souscripteur peut décider de faire figurer les informations mentionnées au I sur son site internet et renvoyer de
+façon précise à ce dernier dans la communication annuelle qu'il fournit à l'ensemble des adhérents en application de
+l'article L. 441-3-1. 
+
+III. – Lorsque l'entreprise d'assurance ou le fonds de retraite professionnelle supplémentaire inclut les informations
+mentionnées au I dans son rapport sur la solvabilité et la situation financière, le souscripteur peut renvoyer de façon
+précise à ce dernier dans la communication annuelle qu'il fournit à l'ensemble des adhérents en application de l'article L.
+441-3-1. 
+
+Pour les conventions relevant du chapitre III du titre IV du livre Ier pour lesquelles l'entreprise d'assurance ou le fonds
+de retraite professionnelle supplémentaire établit un rapport, en application de l'article L. 143-2-2, et y inclut les
+informations mentionnées au I, ou pour les conventions relevant de l'article L. 144-2 pour lesquelles l'entreprise
+d'assurance établit un rapport, en application du III de l'article L. 144-2, et y inclut les informations mentionnées au I,
+le souscripteur peut renvoyer de façon précise à ce dernier rapport dans sa communication annuelle.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L143-2-2
+  - Code des assurances - art. L144-2
+  - Code des assurances - art. L441-2
+  - Code des assurances - art. L441-3-1
+  - Code des assurances - art. R441-7
+
+
 ##### Section II : Règles techniques et comptables.<a id=551></a>
 
 ###### Article D441-22
@@ -62881,73 +62969,6 @@ _Cité par_:
   - Code des assurances - art. R441-16 (V)
 
 
-###### Article R*441-23
-
-La valeur de service de l'unité de rente doit être déterminée chaque année de telle manière que, après service des
-prestations dues au titre de l'année, le rapport de la provision technique spéciale à la provision mathématique théorique ne
-devienne pas inférieur à 1 et que, le cas échéant, l'excédent par rapport à 1 ne diminue pas plus d'un dixième.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°95-391 du 12 avril 1995 - art. 10 () JORF 14 avril 1995 en vigueur le 1er mai 1995
-
-_Abrogé par_:
-
-  - Décret n°2004-571 du 14 juin 2004 - art. 10 () JORF 20 juin 2004
-
-_Cité par_:
-
-  - Code des assurances - art. R441-19 (VD)
-
-
-###### Article R*441-24
-
-Le montant de la valeur de service de l'unité de rente ne peut être augmenté annuellement que si le rapport de la provision
-technique spéciale à la provision mathématique théorique, après service des prestations dues au titre de l'année, demeure
-égal ou supérieur à 0,5.
-
-Le taux de cette revalorisation ne peut excéder le rapport (1 + j/1,03) dans lequel j représente le taux moyen de rendement
-des placements réalisés au titre de la gestion de l'ensemble des provisions techniques spéciales constituées par l'organisme
-d'assurance au cours des trois années précédentes ou, si les opérations de l'espèce sont effectuées depuis moins de trois
-ans, au cours des exercices clos précédents.
-
-Le taux de rendement d'une année est déterminé en rapportant le montant des revenus calculés au taux fixé à l'article R.
-441-7, augmenté de la fraction des bénéfices de la gestion financière mentionnée au troisième alinéa dudit article, au
-montant de la provision technique spéciale au 1er janvier de l'année considérée, majoré des cotisations nettes encaissées et
-diminué des prestations mises en paiement au cours de l'année.
-
-L'application de ce taux de revalorisation ne peut avoir pour effet de diminuer le rapport de la provision technique spéciale
-à la provision mathématique théorique de plus du dixième de la différence entre ce rapport et 0,5.
-
-Lorsque ledit rapport est égal ou supérieur à 0,8, la revalorisation peut excéder les proportions fixées aux alinéas ci-
-dessus sur autorisation du ministre de l'économie et des finances.    Des dérogations aux règles fixées ci-dessus peuvent
-être accordées, pour une convention et un exercice donnés, par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 23
-
-_Codifié par_:
-
-  - Décret n°76-666 1976-07-16
-
-_Abrogé par_:
-
-  - Décret n°95-391 du 12 avril 1995 - art. 12 (V) JORF 14 avril 1995 en vigueur le 1er mai 1995
-
-_Cite_:
-
-  - Code des assurances - art. R*441-7 (M)
-
-_Cité par_:
-
-  - Code des assurances - art. R441-5 (VD)
-
-
 ###### Article R441-4
 
 La pratique des opérations d'assurance collective prévues par l'article L. 441-1 est autorisée sous la condition que ces
@@ -62973,42 +62994,64 @@ _Cité par_:
 ###### Article R441-5
 
 Les opérations mentionnées à l'article R. 441-4 sont réalisées en application de conventions qui doivent indiquer les
-modalités de fonctionnement du régime y compris dans les cas de conversion prévus à l'article R. 441-26.
+modalités de fonctionnement du régime y compris dans les cas de conversion prévus aux articles R. 441-24 et R. 441-26.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-571 du 14 juin 2004 - art. 2 () JORF 20 juin 2004
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. R441-26 (V)
-  - Code des assurances - art. R441-4 (V)
+  - Code des assurances - art. R*441-24
+  - Code des assurances - art. R*441-26
+  - Code des assurances - art. R*441-4
 
 
 ###### Article R441-7
 
 Les provisions techniques des opérations prévues à l'article L. 441-1 sont les suivantes : 
 
-1° La provision technique spéciale, sur laquelle sont prélevées les prestations servies et à laquelle sont affectées les
-cotisations versées, nettes de chargements et de taxes, ainsi qu'une participation aux bénéfices calculée dans des conditions
-fixées par arrêté du ministre chargé de l'économie ; cette provision est capitalisée à un taux nul ; 
+1° La provision technique spéciale, sur laquelle sont prélevées les prestations servies et les chargements de gestion, dans
+les limites prévues par la convention, et à laquelle sont affectées les cotisations versées, nettes des chargements inclus
+dans les cotisations et de taxes, ainsi que la totalité des produits et charges financiers générés par les actifs affectés à
+la provision technique spéciale, y compris les produits correspondant aux éventuels avoirs fiscaux et autres crédits d'impôts
+attachés à la détention de ces mêmes titres et placements et le solde des produits et charges financiers reçus des
+réassureurs au titre de la revalorisation de la part de provision technique spéciale cédée. Cette provision est capitalisée à
+un taux nul ; 
 
-2° La provision technique spéciale complémentaire, à laquelle sont affectés les actifs mentionnés au second alinéa de
-l'article R. 441-21 et sur laquelle sont prélevées, en cas d'insuffisance de la provision technique spéciale, les prestations
-servies ; 
+2° La provision technique spéciale complémentaire, à laquelle sont affectés les actifs mentionnés au dernier alinéa de
+l'article R. 441-21 et sur laquelle sont prélevées les prestations servies, dans le cas où les prélèvements sur la provision
+technique spéciale ne permettraient pas de payer ces prestations ; 
 
-3° La provision pour risque d'exigibilité mentionnée au 6° de l'article R. 331-3, calculée sur chaque portefeuille de titres
-et de placements qui fait l'objet d'une comptabilité auxiliaire d'affectation telle que prévue à l'article L. 441-8 ; 
+3° La provision technique spéciale de retournement, à laquelle peuvent être affectés, dans les conditions prévues au III de
+l'article R. 441-7-1, des actifs précédemment affectés à la provision technique spéciale complémentaire et sur laquelle sont
+prélevées les prestations servies, dans le cas où les prélèvements sur la provision technique spéciale et la provision
+technique spéciale complémentaire ne permettraient pas de payer ces prestations. 
 
-4° La provision de gestion mentionnée au 4° de l'article R. 331-3. 
+Les engagements mentionnés aux 1° à 3° sont à toute époque représentés par les actifs qui font l'objet d'une comptabilité
+auxiliaire d'affectation telle que prévue à l'article L. 441-8, selon les conditions prévues : 
 
-Les engagements mentionnés aux 1°, 2° et 3° sont à toute époque représentés par les actifs qui font l'objet d'une
-comptabilité auxiliaire d'affectation telle que prévue à l'article L. 441-8, selon les conditions et limites prévues au
-chapitre II du titre III du livre III du présent code. Les dispositions des articles R. 332-3 et R. 332-3-1 et du premier
-alinéa de l'article R. 332-21 s'appliquent séparément à chaque portefeuille de titres et de placements qui fait l'objet d'une
+a) Au chapitre III du titre V du livre III pour les entreprises mentionnées à l'article L. 310-3-1 ; 
+
+b) Au chapitre II du titre III du même livre pour les entreprises mentionnées à l'article L. 310-3-2. Les articles R. 332-3
+et R. 332-3-1 s'appliquent séparément à chaque portefeuille de titres et de placements qui fait l'objet d'une comptabilité
+auxiliaire d'affectation telle que prévue à l'article L. 441-8 ; 
+
+c) A la section 3 du chapitre V du titre VIII du même livre pour les fonds de retraite professionnelle supplémentaire. Les
+articles R. 385-6 à R. 385-8 s'appliquent séparément à chaque portefeuille de titres et de placements qui fait l'objet d'une
 comptabilité auxiliaire d'affectation telle que prévue à l'article L. 441-8.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
@@ -63030,7 +63073,7 @@ _Cité par_:
   - Code des assurances - art. R343-1 (VD)
   - Code des assurances - art. R441-12 (V)
   - Code des assurances - art. R441-2-2 (V)
-  - Code des assurances - art. R441-28 (V)
+  - Code des assurances - art. R441-28 (VD)
   - Code des assurances - art. R441-7-1 (V)
   - Code des assurances - art. R441-7-3 (VD)
   - Code des assurances - art. R441-7-4 (V)
@@ -63038,90 +63081,114 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-571 du 14 juin 2004 - art. 3 () JORF 20 juin 2004
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L441-1 (V)
-  - Code des assurances - art. L441-8 (V)
-  - Code des assurances - art. R331-3 (V)
-  - Code des assurances - art. R332-21 (V)
-  - Code des assurances - art. R332-3 (V)
-  - Code des assurances - art. R441-21 (V)
+  - Code des assurances - art. L310-3-1
+  - Code des assurances - art. L310-3-2
+  - Code des assurances - art. L441-1
+  - Code des assurances - art. L441-8
+  - Code des assurances - art. R332-3
+  - Code des assurances - art. R385-6
+  - Code des assurances - art. R441-21
 
 
 ###### Article R441-7-1
 
-Lorsque les engagements de l'entreprise d'assurance au titre d'une convention ne sont plus représentés de manière au moins
-équivalente par les actifs de la convention, l'entreprise d'assurance parfait cette représentation en procédant à
-l'affectation aux engagements relatifs à cette convention d'actifs représentatifs de réserves ou de provisions de
-l'entreprise d'assurance autres que ceux représentatifs de ses engagements réglementés. Ces actifs sont obligatoirement
-choisis dans les catégories d'actifs définies aux 1° et 2° de l'article R. 131-1 et au 13° de l'article R. 332-2. 
+I. – Lorsque, en application du dernier alinéa de l'article R. 441-21, les engagements de l'entreprise d'assurance au titre
+d'une convention ne sont plus représentés de manière au moins équivalente par les actifs relatifs à cette convention et
+qu'une baisse de la valeur de service de l'unité de rente n'est pas autorisée par la convention dans les conditions prévues
+par l'article L. 441-2, l'entreprise d'assurance parfait ce déficit de représentation de la provision mathématique théorique
+par la somme de la provision technique spéciale, des plus-values et moins-values latentes sur les actifs affectés à la
+provision technique spéciale et la provision technique spéciale de retournement en procédant à l'affectation aux engagements
+relatifs à cette convention d'actifs représentatifs de réserves ou de provisions de l'entreprise d'assurance autres que ceux
+représentatifs de ses engagements réglementés. Ces actifs sont choisis dans le respect du principe de la “ personne prudente
+” mentionné à l'article L. 353-1 et sont affectés à la provision technique spéciale complémentaire de cette convention. 
 
-Ce changement d'affectation d'actifs emporte affectation à la convention du produit des droits attachés à ces actifs, en ce
-compris les produits correspondant aux éventuels avoirs fiscaux et autres crédits d'impôts attachés à la détention de ces
-mêmes actifs. Les actifs ainsi affectés à la convention sont inscrits au bilan mentionné à l'article R. 441-12 pour leur
-valeur de réalisation déterminée conformément aux dispositions des articles R. 332-20-1 et R. 332-20-2. La différence entre
-cette valeur et la valeur comptable antérieure est constatée dans le compte de résultat de l'entreprise d'assurance. 
+II. – Lorsque, en application du dernier alinéa de l'article R. 441-21, les engagements de l'entreprise d'assurance au titre
+d'une convention ne sont plus représentés de manière au moins équivalente par les actifs relatifs à cette convention et
+qu'une baisse de la valeur de service de l'unité de rente est autorisée par la convention dans les conditions prévues par
+l'article L. 441-2, l'entreprise d'assurance parfait cette représentation par affectation d'actifs, dans les conditions
+prévues au I, à concurrence du montant du déficit de représentation qui subsiste après la prise en compte de la variation de
+la provision mathématique théorique résultant de la baisse de valeur de service de l'unité de rente que l'entreprise
+d'assurance aura décidée pour l'année à venir et de la dotation à la provision technique spéciale de retournement dans les
+conditions prévues au III. 
 
-Lorsque le niveau de la représentation de ses engagements au titre de la convention le permet, l'entreprise d'assurance
-réaffecte en représentation de réserves ou de provisions autres que celles relatives à cette convention, des actifs
-représentatifs des engagements de la convention choisis dans les catégories d'actifs définies au premier alinéa. Les actifs
-ainsi réaffectés sont inscrits au bilan pour leur valeur de réalisation déterminée conformément aux dispositions des articles
-R. 332-20-1 et R. 332-20-2. La différence entre cette valeur et la valeur comptable antérieure est constatée dans le compte
-de résultat mentionné à l'article R. 441-12. La valeur de réalisation cumulée des actifs ainsi réaffectés ne peut excéder la
-valeur de réalisation des actifs affectés à la convention au titre du premier alinéa à la date de cette affectation.
+Lorsque l'entreprise d'assurance ne décide aucune baisse de valeur de service de l'unité de rente pour l'année à venir, elle
+parfait la représentation de l'ensemble des engagements de la convention, dans les conditions prévues au I. 
 
-**Liens relatifs à cet article**
+III. – Lorsqu'elle décide, pour une convention donnée, une baisse de la valeur de service de l'unité de rente, l'entreprise
+d'assurance évalue le montant de la variation de la provision mathématique théorique résultant de cette baisse. 
 
-_Créé par_:
+L'entreprise d'assurance réaffecte à la provision technique spéciale de retournement mentionnée au 3° de l'article R. 441-7,
+constituée au titre de cette convention, une partie des actifs apportés en représentation des engagements de la convention en
+application du I, le cas échéant les actifs acquis pour les remplacer à la suite de la vente de ces derniers, pour un montant
+équivalent à celui évalué au premier alinéa du présent III, dans la limite du total des actifs affectés à la provision
+technique spéciale complémentaire de la convention. 
 
-  - Décret n°2004-571 du 14 juin 2004 - art. 4 () JORF 20 juin 2004
+Lorsque le montant de la variation mentionnée au premier alinéa du présent III est supérieur à la valeur nette comptable du
+total des actifs affectés à la provision technique spéciale complémentaire de la convention avant la réaffectation prévue à
+l'alinéa précédent, l'entreprise d'assurance parfait cet écart dans la limite de la différence du produit de 0,05 par le
+montant de la provision mathématique théorique, avant la baisse concernée de la valeur de service de l'unité de rente, et de
+la somme des actifs affectés à la provision technique spéciale complémentaire avant la réaffectation prévue à l'alinéa
+précédent. A cet effet, l'entreprise d'assurance affecte directement à la provision technique spéciale de retournement des
+actifs représentatifs de ses réserves ou de ses provisions autres que ceux représentatifs de ses engagements réglementés. 
 
-_Cite_:
+IV. – Les actifs affectés à la provision technique spéciale de retournement en application du III et, le cas échéant, les
+actifs acquis pour les remplacer à la suite de la vente de ces derniers sont réaffectés à la représentation de réserves ou de
+provisions autres que celles relatives à la convention concernée lorsque l'entreprise d'assurance décide une hausse de la
+valeur de service de l'unité de rente de la convention concernée, pour un montant d'actifs équivalent au montant de la
+variation de la provision mathématique théorique résultant de cette hausse, dans la limite du total des actifs apportés à la
+provision technique spéciale de retournement. 
 
-  - Code des assurances - art. R131-1 (V)
-  - Code des assurances - art. R332-2 (V)
-  - Code des assurances - art. R332-20-1 (V)
+V. – Les changements d'affectation d'actifs prévus au I, au dernier alinéa du III et au IV n'emportent pas affectation à la
+convention du produit des droits attachés à ces actifs, y compris les produits correspondant aux éventuels avoirs fiscaux et
+autres crédits d'impôts attachés à la détention de ces mêmes actifs. Les produits et charges financiers générés par les
+actifs ainsi affectés à la provision technique spéciale complémentaire ou à la provision technique spéciale de retournement
+sont enregistrés, au gré de leur constatation comptable, dans le compte de résultat de l'entreprise d'assurance. 
 
-_Cité par_:
+Les actifs ainsi affectés à la provision technique spéciale complémentaire ou à la provision technique spéciale de
+retournement sont inscrits au bilan mentionné à l'article R. 441-12 pour leur valeur de réalisation, déterminée conformément
+aux articles R. 343-11 et R. 343-12. La différence entre cette valeur et la valeur comptable antérieure est constatée dans le
+compte de résultat de l'entreprise d'assurance. 
 
-  - Code des assurances - art. R441-12 (V)
-  - Code des assurances - art. R441-21 (V)
-  - Code des assurances - art. R441-7 (VD)
-  - Code des assurances - art. R441-7-4 (VD)
+VI. – Lorsque, pour une convention donnée, la somme du montant de la provision technique spéciale, de la provision technique
+spéciale complémentaire, de la provision technique spéciale de retournement et des plus-values et moins-values latentes
+nettes sur les actifs affectés à la provision technique spéciale devient supérieure au montant de la provision mathématique
+théorique, l'entreprise d'assurance réaffecte en représentation de réserves ou de provisions autres que celles relatives à
+cette convention des actifs qui en application du I avaient été affectés à la provision technique spéciale complémentaire et,
+le cas échéant, les actifs acquis avec le produit de la vente de ces derniers, dans la limite de la différence positive entre
+la somme précitée et la provision mathématique théorique. 
 
-
-###### Article R441-7-2
-
-Les placements détenus par l'entreprise d'assurance en représentation d'engagements autres que ceux relatifs aux opérations
-relevant du présent chapitre ne peuvent changer d'affectation et être affectés à ces dernières opérations qu'à condition de
-relever de l'une des catégories de placements définies aux 1° et 2° de l'article R. 131-1. Les mêmes dispositions
-s'appliquent aux placements d'une convention relevant du présent chapitre qui changent d'affectation et sont affectés en
-représentation d'autres engagements de l'entreprise d'assurance. 
-
-L'enregistrement comptable des opérations mentionnées au premier alinéa est identique à celui qui résulte d'une opération de
-cession d'actifs pour le portefeuille de placements d'origine et d'une opération concomitante d'acquisition d'actifs pour le
-portefeuille de placements d'accueil.
+VII. – Les actifs réaffectés à la représentation de réserves ou de provisions autres que celles relatives à la convention
+concernée en application des IV et VI sont inscrits au bilan de l'entreprise d'assurance pour leur valeur nette comptable,
+déterminée conformément aux articles R. 343-9 et R. 343-10.
 
 **Nota:**
 
-Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions sont abrogées
-le 1er septembre 2017.
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2004-571 du 14 juin 2004 - art. 4 () JORF 20 juin 2004
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. R131-1
+  - Code des assurances - art. L353-1
+  - Code des assurances - art. L441-2
+  - Code des assurances - art. R343-11
+  - Code des assurances - art. R343-9
+
+_Cité par_:
+
+  - Code des assurances - art. R441-12 (V)
+  - Code des assurances - art. R441-21 (VD)
+  - Code des assurances - art. R441-7 (VD)
+  - Code des assurances - art. R441-7-4 (VD)
 
 
 ###### Article R441-7-3
@@ -63129,34 +63196,98 @@ _Cite_:
 Les actifs représentatifs des engagements relatifs à plusieurs conventions, lorsqu'ils ne font pas l'objet d'un
 enregistrement comptable distinct pour chacune de ces conventions, sont, notamment pour chaque arrêté des comptes mentionnés
 à l'article R. 411-12, réputés répartis uniformément entre ces mêmes conventions au prorata, évalué à la même date, des
-provisions techniques mentionnées aux 1° et 2° de l'article R. 441-7. La provision pour risque d'exigibilité est répartie
-entre ces mêmes conventions selon les mêmes règles.
+provisions techniques mentionnées aux 1° à 3° de l'article R. 441-7.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-571 du 14 juin 2004 - art. 4 () JORF 20 juin 2004
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. R441-7 (V)
+  - Code des assurances - art. R*411-12
+  - Code des assurances - art. R*441-7
 
 
 ###### Article R441-7-4
 
-Pour les contrats relevant de l'article L. 144-2, les chargements de gestion peuvent, par dérogation à l'article R. 441-7,
-être imputés sur la provision technique spéciale.
+I. – Lorsque, pour une entreprise d'assurance n'appartenant pas à un groupe au sens de l'article L. 356-1, les engagements
+constitués au titre des opérations régies par le présent chapitre représentent, à la date du 31 décembre 2017, plus de 80 %
+de l'ensemble des provisions techniques au sens du titre IV du livre III, constituées au niveau de l'entreprise d'assurance,
+l'article R. 441-7-1 et le dernier alinéa de l'article R. 441-21 ne s'appliquent pas. 
+
+II. – Pour les conventions conclues à partir du 1er septembre 2017 auprès d'une entreprise d'assurance n'appartenant pas à un
+groupe au sens de l'article L. 356-1 et agréée pour l'exercice des opérations régies par le présent chapitre depuis moins
+d'un exercice, cette entreprise peut ne pas appliquer l'article R. 441-7-1 et le dernier alinéa de l'article R. 441-21 dès
+lors qu'un an après le début de l'exercice des opérations prévues par la convention les engagements constitués au titre des
+opérations régies par le présent chapitre représentent plus de 80 % de l'ensemble des provisions techniques au sens du titre
+IV du livre III, constituées au niveau de l'entreprise d'assurance. 
+
+III. – Les entreprises d'assurance satisfaisant les conditions des I ou II informent les souscripteurs de l'ensemble des
+conventions régies par le présent chapitre que l'article R. 441-7-1 et le dernier alinéa de l'article R. 441-21 ne
+s'appliquent pas et les raisons de leur non-application. 
+
+Les souscripteurs de chaque convention en informent l'ensemble des adhérents dans le cadre de l'information annuelle prévue à
+l'article L. 441-3-1. 
+
+IV. – Lorsque, pour une convention assurée par une entreprise d'assurance satisfaisant les conditions des I ou II, la somme
+du montant de la provision technique spéciale constituée au titre de la convention et des plus-values et moins-values
+latentes nettes sur les actifs affectés à la provision technique spéciale est inférieure au montant de la provision
+mathématique théorique, l'entreprise d'assurance peut décider de procéder à l'affectation d'actifs à cette convention dans
+les conditions mentionnées au I de l'article R. 441-7-1. 
+
+Elle informe le souscripteur de la convention de son choix, en en expliquant les raisons. Le souscripteur de la convention en
+informe l'ensemble des adhérents dans le cadre de l'information annuelle prévue à l'article L. 441-3-1.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L356-1
+  - Code des assurances - art. L441-3-1
+  - Code des assurances - art. R*441-21
+  - Code des assurances - art. R441-7-1
+
+
+###### Article R441-7-5
+
+Les entreprises réassurant proportionnellement de manière uniforme les engagements d'une convention appliquent à ce titre les
+articles R. 441-7 à R. 441-7-3, R. 441-12 et R. 441-21. 
+
+Pour l'application de ces articles, il y a lieu d'entendre : “ le traité ” là où est mentionnée : “ la convention ”, “ le
+réassureur ” là où est mentionnée : “ l'entreprise d'assurance ” et “ la cédante ” là où sont mentionnés : “ les
+bénéficiaires ”.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2011-1635 du 23 novembre 2011 - art. 1
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L144-2
+  - Code des assurances - art. R*441-12
+  - Code des assurances - art. R*441-21
   - Code des assurances - art. R*441-7
 
 
@@ -63191,21 +63322,26 @@ _Cité par_:
 
 ###### Article R441-15
 
-Le nombre de participants à une convention ne peut être inférieur à 1 000.
+Le nombre de participants, y compris non cotisants et retraités, à une convention ne peut être inférieur à 1 000.
 
 Cet effectif doit être réuni dans un délai de trois ans à partir de l'entrée en vigueur de ladite convention.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°95-391 du 12 avril 1995 - art. 5 () JORF 14 avril 1995 en vigueur le 1er mai 1995
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cité par_:
 
   - Code des assurances - art. R*441-34 (Ab)
   - Code des assurances - art. R144-18 (V)
-  - Code des assurances - art. R441-26 (V)
+  - Code des assurances - art. R441-26 (VD)
   - Code des assurances - art. R441-28 (T)
 
 
@@ -63282,29 +63418,40 @@ _Cite_:
 
 ###### Article R441-19
 
-La valeur d'acquisition de l'unité de rente et sa valeur de service sont fixées chaque année, par l'assureur, dans les
-conditions prévues par la convention, sans que la nouvelle valeur de service puisse être inférieure à celle de l'année
-précédente.
+La valeur d'acquisition de l'unité de rente et sa valeur de service sont fixées chaque année par l'assureur dans les
+conditions prévues par la convention et sous réserve du respect des conditions prévues à l'article R. 441-23, de telle sorte
+que si le rapport, évalué à la date de fin de l'exercice précédent, entre, d'une part, la somme de la provision technique
+spéciale et des plus-values et moins-values latentes nettes sur les actifs affectés à la provision technique spéciale et,
+d'autre part, la provision mathématique théorique est inférieur à 1,1, alors le rapport entre les cotisations nettes de
+chargements perçues dans l'année et la provision mathématique théorique des nouveaux droits de l'année est supérieur à 1. 
+
+Les conditions d'évaluation de la provision mathématique théorique des nouveaux droits mentionnée au premier alinéa sont
+fixées par arrêté du ministre chargé de l'économie.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 18
-
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2004-571 du 14 juin 2004 - art. 7 () JORF 20 juin 2004
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cité par_:
 
   - Code de la mutualité - art. R222-14 (V)
   - Code de la sécurité sociale. - art. R932-4-13 (V)
   - Code des assurances - art. A441-4 (V)
+
+_Cite_:
+
+  - Code des assurances - art. R*441-23
 
 
 ###### Article R441-21
@@ -63313,17 +63460,24 @@ Chaque année, l'assureur calcule le montant de la provision mathématique théo
 service des rentes viagères immédiates et différées sur la base de la valeur de service à la date de l'inventaire. Ce calcul
 est effectué à partir des règles techniques édictées par arrêté du ministre de l'économie. 
 
-Lorsque le montant de la provision technique spéciale constituée au titre de la convention est inférieur au montant de la
-provision mathématique théorique relative à cette même convention, l'entreprise d'assurance procède, dans les conditions
-mentionnées à l'article R. 441-7-1, à l'affectation aux engagements relatifs à cette convention d'actifs représentatifs de
-réserves ou de provisions de l'entreprise d'assurance autres que ceux représentatifs de ses engagements réglementés, à
-hauteur de la différence entre ces deux montants.
+Lorsque la somme du montant de la provision technique spéciale constituée au titre de la convention, des plus-values et
+moins-values latentes nettes sur les actifs affectés à la provision technique spéciale et de la provision technique spéciale
+de retournement est inférieure au montant de la provision mathématique théorique relative à cette même convention,
+l'entreprise d'assurance procède, dans les conditions mentionnées au I de à l'article R. 441-7-1, à l'affectation aux
+engagements relatifs à cette convention d'actifs représentatifs de ses réserves ou de ses provisions autres que ceux
+représentatifs de ses engagements réglementés, à hauteur de la différence entre le montant de la provision mathématique
+théorique et la somme précitée.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-571 du 14 juin 2004 - art. 8 () JORF 20 juin 2004
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cité par_:
 
@@ -63335,6 +63489,7 @@ _Cité par_:
   - Code des assurances - art. R334-13 (V)
   - Code des assurances - art. R343-1 (VD)
   - Code des assurances - art. R385-2 (VD)
+  - Code des assurances - art. R441-23 (VD)
   - Code des assurances - art. R441-6 (Ab)
   - Code des assurances - art. R441-7 (VD)
   - Code des assurances - art. R441-7-1 (VD)
@@ -63342,29 +63497,136 @@ _Cité par_:
   - Code des assurances - art. R441-7-5 (VD)
 
 
-##### Section III : Conversion de la convention.<a id=552></a>
+###### Article R441-23
 
-###### Article R441-26
+I. – Lorsque, pour une convention donnée, le rapport de la somme de la provision technique spéciale, de la provision
+technique spéciale de retournement et des plus-values et moins-values latentes nettes sur les actifs affectés à la provision
+technique spéciale à la provision mathématique théorique est inférieur à 1,05, la valeur de service de l'unité de rente
+déterminée pour l'exercice suivant, conformément à l'article R. 441-21, ne peut être supérieure à celle de l'année passée. 
 
-Lorsque le nombre de participants à une convention est ou devient inférieur à 1 000 après l'expiration du délai prévu à
-l'article R. 441-15, il est procédé à la conversion de la convention.
+II. – Lorsque, pour une convention donnée, le rapport de la somme de la provision technique spéciale, de la provision
+technique spéciale de retournement et des plus-values et moins-values latentes nettes sur les actifs affectés à la provision
+technique spéciale à la provision mathématique théorique est supérieur à 1,05, la valeur de service de l'unité de rente
+déterminée pour l'exercice suivant, conformément à l'article R. 441-21, peut être supérieure à celle de l'année passée, dans
+le respect des conditions suivantes : 
+
+a) Pour les conventions prévoyant des facultés de baisse en application du II de l'article L. 441-2, la valeur de service de
+l'unité de rente est déterminée chaque année de telle manière que, après service des prestations dues au titre de l'année, le
+rapport entre, d'une part, la somme de la provision technique spéciale, de la provision technique spéciale de retournement et
+des plus-values et moins-values latentes nettes sur les actifs affectés à la provision technique spéciale et, d'autre part,
+la provision mathématique théorique ne devienne pas inférieur à 1,05 et que, le cas échéant, l'excédent par rapport à 1,05 ne
+diminue pas plus que la somme d'un dixième de l'excédent par rapport à 1,05, plafonné à 0,25, et de l'excédent par rapport à
+1,3 ; 
+
+b) Pour les conventions ne prévoyant pas de facultés de baisse en application du II de l'article L. 441-2, la valeur de
+service de l'unité de rente est déterminée chaque année de telle manière que, après service des prestations dues au titre de
+l'année, le rapport entre, d'une part, la somme de la provision technique spéciale, de la provision technique spéciale de
+retournement et des plus-values et moins-values latentes nettes sur les actifs affectés à la provision technique spéciale et,
+d'autre part, la provision mathématique théorique ne devienne pas inférieur à 1,1 et que, le cas échéant, l'excédent par
+rapport à 1,1 ne diminue pas plus que la somme d'un dixième de l'excédent par rapport à 1,1, plafonné à 0,3, et de l'excédent
+par rapport à 1,4.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°95-391 du 12 avril 1995 - art. 11 () JORF 14 avril 1995 en vigueur le 1er mai 1995
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L441-2
+  - Code des assurances - art. R441-21 (VD)
+
+_Cité par_:
+
+  - Code des assurances - art. R441-19 (VD)
+
+
+###### Article R441-24
+
+Lorsque le rapport, évalué en fin d'exercice, entre, d'une part, la somme de la provision technique spéciale et des plus-
+values et moins-values latentes nettes sur les actifs affectés à la provision technique spéciale et, d'autre part, la
+provision mathématique théorique est inférieur à 0,9 depuis trois exercices, l'entreprise d'assurance élabore un plan de
+convergence visant à rétablir un rapport de 1 dans un délai de sept ans. Ce plan est adopté par le conseil d'administration
+ou le conseil de surveillance dans un délai de deux mois à compter de la fin du troisième exercice. Il est transmis à
+l'Autorité de contrôle prudentiel et de résolution dans un délai de trente jours à compter de son adoption. Les adhérents de
+la convention sont informés des principes de ce plan dans le cadre du relevé d'information annuel prévu par l'article L.
+441-3-1. 
+
+L'entreprise rend compte annuellement à l'Autorité de contrôle prudentiel et de résolution de la mise en œuvre de ce plan et
+de ses effets sur le rapport défini au premier alinéa. 
+
+Si, au terme du plan de convergence, le rapport mentionné au premier alinéa est inférieur à 1, l'entreprise le précise dans
+le rapport prévu par l'article L. 355-5, en explicitant les raisons pour lesquelles la couverture de la provision
+mathématique théorique n'a pas été rétablie, et en informe les adhérents de la convention dans le cadre du relevé
+d'information annuel prévu par l'article L. 441-3-1. 
+
+Dans ce même cas ou si l'entreprise d'assurance n'a pas établi de plan de convergence conformément au premier alinéa, il est
+procédé à la conversion de la convention, dans les conditions prévues à l'article R. 441-27, lorsqu'au terme de dix exercices
+successifs, le rapport mentionné au premier alinéa est inférieur à 0,9. 
+
+Pour l'application du présent article, il n'est pas tenu compte des exercices clôturés avant le 1er janvier 2017.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°76-666 du 16 juillet 1976
+
+_Modifié par_:
+
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L355-5
+  - Code des assurances - art. L441-3-1
+  - Code des assurances - art. R*441-27
+
+_Cité par_:
+
+  - Code des assurances - art. R441-28 (VD)
+  - Code des assurances - art. R441-5 (VD)
+
+
+##### Section III : Conversion de la convention.<a id=552></a>
+
+###### Article R441-26
+
+Lorsque le nombre de participants à une convention, y compris non cotisants et retraités, est ou devient inférieur à 1 000
+après l'expiration du délai prévu à l'article R. 441-15, il est procédé à la conversion de la convention.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cité par_:
 
   - Code des assurances - art. D441-22 (V)
   - Code des assurances - art. R144-18 (V)
-  - Code des assurances - art. R441-28 (V)
+  - Code des assurances - art. R441-28 (VD)
   - Code des assurances - art. R441-5 (VD)
 
 _Cite_:
 
-  - Code des assurances - art. R441-15 (V)
+  - Code des assurances - art. R441-15 (VD)
 
 _Nouveaux textes_:
 
@@ -63383,13 +63645,19 @@ conversion en opérations de rentes viagères couvertes, intégralement et à to
 La part des provisions revenant à chaque adhérent dans la conversion des opérations considérées détermine la prestation que
 comporte l'opération d'assurance de substitution.
 
-Cette répartition est effectuée sur des bases techniques définies par arrêté du ministre de l'économie et des finances.
+Cette répartition et le montant des prestations de l'opération d'assurance de substitution sont déterminés sur des bases
+techniques définies par arrêté du ministre chargé de l'économie.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°95-391 du 12 avril 1995 - art. 11 () JORF 14 avril 1995 en vigueur le 1er mai 1995
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cité par_:
 
@@ -63401,67 +63669,79 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Code des assurances - art. R*441-28 (M)
   - Code des assurances - art. R441-28 (T)
 
 
 ###### Article R441-28
 
-En cas de conversion d'une convention dans les conditions mentionnées à l'article R. 441-26, les actifs représentatifs des
-provisions techniques mentionnées aux 1° et 2° de l'article R. 441-7 sont répartis entre les bénéficiaires de cette
+En cas de conversion d'une convention dans les conditions mentionnées aux articles R. 441-24 ou R. 441-26, les actifs
+représentatifs des provisions techniques mentionnées aux 1° et 3° de l'article R. 441-7 et la moitié des actifs
+représentatifs des provisions techniques mentionnées au 2° du même article sont répartis entre les bénéficiaires de cette
 convention.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-571 du 14 juin 2004 - art. 9 () JORF 20 juin 2004
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Anciens textes_:
 
   - Code des assurances - art. R*441-29 (T)
 
-_Cité par_:
+_Cite_:
 
-  - Code des assurances - art. R441-26 (T)
+  - Code des assurances - art. R441-24 (VD)
+  - Code des assurances - art. R441-26 (VD)
+  - Code des assurances - art. R441-7 (VD)
 
 _Nouveaux textes_:
 
   - Code des assurances - art. R441-27 (V)
 
-_Cite_:
-
-  - Code des assurances - art. R441-7 (V)
-
 
 ##### Section IV : Dispositions transitoires.<a id=553></a>
 
-###### Article R*441-30
+###### Article R441-30
 
-En ce qui concerne les régimes existant à la date du 12 juin 1964, et par dérogation à l'article R. 441-22, le rapport de la
-provision technique spéciale à la provision mathématique théorique doit être égal ou supérieur à 0,4 pour les années
-comprises dans la période expirant le 31 décembre 1977. 
+Lorsqu'en application du dernier alinéa du II de l'article L. 441-10 un adhérent voit ses droits convertis en une rente
+viagère immédiate ou différée exprimée en euros et gérés à l'extérieur de la comptabilité auxiliaire d'affectation constituée
+pour la convention concernée : 
 
-Pour la fixation de la valeur de service de l'unité de rente, la revalorisation annuelle peut, sur l'accord du ministre de
-l'économie et des finances, excéder le taux fixé à l'article R. 441-24, lorsque : 
+1° Le montant de cette rente est calculé sur la base du nombre de points acquis à la date d'entrée en vigueur des
+modifications et de la valeur du point avant modifications ; 
 
-Pour les années comprises dans la période expirant le 31 décembre 1977, ce rapport est égal ou supérieur à 0,4 ; 
+2° Le capital constitutif est égal à la valeur actuelle probable des unités de rente acquises à l'assuré calculée à l'aide
+des tables de mortalité et de la courbe des taux sans risque pertinente utilisées pour le calcul de la meilleure estimation
+prévue à l'article R. 351-2 ; 
 
-Pour les années comprises dans la période du 1er janvier 1978 au 31 décembre 1982, ce rapport est égal ou supérieur à 0,6.
+3° Le taux technique de cette rente est le taux unique qui conduit au même capital constitutif calculé avec la même table de
+mortalité.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
+vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°64-537 1964-06-04 art. 31
-
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
+
+_Modifié par_:
+
+  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. D441-22 (V)
+  - Code des assurances - art. L441-10
+  - Code des assurances - art. R351-2
 
 
 #### Chapitre II : Garanties publiques pour le commerce extérieur<a id=554></a>
