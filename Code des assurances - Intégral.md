@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-12-29
+Version Consolidée au 2017-12-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -28590,11 +28590,13 @@ _Modifié par_:
 
 Dans les conditions fixées au présent chapitre, le ministre chargé de l'économie est autorisé à accorder la garantie de
 l'Etat, pour les opérations concourant au développement du commerce extérieur de la France, aux entreprises françaises
-exportatrices ou importatrices ou investissant à l'étranger ou, dans des conditions précisées par décret, pour des opérations
-de construction navale ou de construction d'engins spatiaux civils, à des entreprises françaises en concurrence avec une
+exportatrices ainsi qu'aux personnes morales de droit étranger qu'elles contrôlent seules ou conjointement au sens de
+l'article L. 233-3 du code de commerce lorsque le recours à une entité de droit local est nécessaire, ou aux entreprises
+françaises importatrices ou investissant à l'étranger ou, dans des conditions précisées par décret, pour des opérations de
+construction navale ou de construction d'engins spatiaux civils, à des entreprises françaises en concurrence avec une
 personne étrangère bénéficiant d'un soutien public, ou au bénéfice des établissements de crédit, aux sociétés de financement,
 aux entreprises d'assurance et de réassurance, aux mutuelles et institutions de prévoyance, de droit français ou étranger,
-ainsi qu'aux organismes mentionnés à l'article L. 214-1 du code monétaire et financier. 
+ainsi qu'aux organismes mentionnés à l'article L. 214-1 du code monétaire et financier.
 
 Le ministre chargé de l'économie est également autorisé, dans les mêmes conditions, à accorder la garantie de l'Etat pour les
 opérations de gestion des opérations et garanties de couverture du risque monétaire de l'organisme mentionné au premier
@@ -28612,10 +28614,6 @@ _Anciens textes_:
   - Loi n°49-874 du 5 juillet 1949 - art. 19, v. init.
   - Loi n°45-15 du 2 décembre 1945 - art. 17 (Ab)
 
-_Modifié par_:
-
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (V)
-
 _Cité par_:
 
   - Décret n°2016-1701 du 12 décembre 2016 (V)
@@ -28625,6 +28623,10 @@ _Cité par_:
   - Décret n°2018-1162 du 17 décembre 2018 (V)
   - Code des assurances - art. R442-5 (VD)
 
+_Modifié par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 84
+
 _Cite_:
 
   - Code monétaire et financier - art. L214-1
@@ -28633,13 +28635,13 @@ _Cite_:
 ###### Article L432-2
 
 Un organisme est chargé par l'Etat de gérer et délivrer sous son contrôle, pour son compte et en son nom les garanties
-publiques pour le commerce extérieur prévues à l'article L. 432-1. 
+publiques pour le commerce extérieur prévues à l'article L. 432-1.
 
-Ces garanties peuvent être accordées : 
+Ces garanties peuvent être accordées :
 
 1° : a) Pour des opérations d'assurance des risques commerciaux, politiques, monétaires et catastrophiques, afférents à des
 opérations de nature à contribuer au développement du commerce extérieur de la France ou présentant un intérêt stratégique
-pour l'économie française à l'étranger ; 
+pour l'économie française à l'étranger ;
 
 a bis) Pour des opérations d'assurance couvrant le risque de non-paiement des sommes dues par des entreprises à des
 établissements de crédit, des sociétés de financement, des entreprises d'assurance et de réassurance, des mutuelles et
@@ -28663,18 +28665,19 @@ la conclusion préalable d'un accord sur la protection des investissements. En c
 prélever le montant correspondant à ladite garantie sur les crédits d'aide à verser au pays concerné ;
 
 e) Pour des opérations de réassurance des entreprises habilitées à pratiquer en France des opérations d'assurance-crédit, au
-titre des opérations d'assurance des risques commerciaux à l'exportation d'une durée de paiement inférieure à deux ans que
-celles-ci réalisent vers des pays autres que les pays de l'Union européenne et les pays à haut revenu de l'Organisation de
-coopération et de développement économiques (OCDE), tels qu'ils sont définis à l'article 11 de l'Arrangement de l'OCDE sur
-les crédits à l'exportation bénéficiant d'un soutien public, du 1er octobre 2013, rendu applicable dans l'Union européenne
-par le règlement (UE) n° 1233/2011 du Parlement européen et du Conseil du 16 novembre 2011, relatif à l'application de
-certaines lignes directrices pour les crédits à l'exportation bénéficiant d'un soutien public et abrogeant les décisions du
-Conseil 2001/76/ CE et 2001/77/ CE, et dans la limite globale d'un milliard d'euros. L'octroi de cette garantie est
-subordonné à la constatation d'une défaillance du marché de l'assurance-crédit. L'Etat n'est financièrement exposé au titre
-de ces opérations que pour autant que l'assureur-crédit, cosignataire du traité de réassurance, conserve une exposition au
-risque sur les entreprises bénéficiant du financement faisant l'objet de l'assurance-crédit. Un décret en Conseil d'Etat fixe
-les modalités d'application du présent e, notamment celles ayant trait à la constatation de la défaillance du marché ainsi
-que la part minimale de risque que l'assureur-crédit cosignataire du traité de réassurance conserve à sa charge. 
+titre des opérations d'assurance des risques politiques et commerciaux à l'exportation d'une durée de paiement inférieure à
+deux ans que celles-ci réalisent vers des pays autres que les pays de l'Union européenne et les pays à haut revenu de
+l'Organisation de coopération et de développement économiques (OCDE), tels qu'ils sont définis à l'article 11 de
+l'Arrangement de l'OCDE sur les crédits à l'exportation bénéficiant d'un soutien public, du 1er octobre 2013, rendu
+applicable dans l'Union européenne par le règlement (UE) n° 1233/2011 du Parlement européen et du Conseil du 16 novembre
+2011, relatif à l'application de certaines lignes directrices pour les crédits à l'exportation bénéficiant d'un soutien
+public et abrogeant les décisions du Conseil 2001/76/ CE et 2001/77/ CE, et dans la limite globale d'un milliard d'euros.
+L'octroi de cette garantie est subordonné à la constatation d'une défaillance du marché de l'assurance-crédit. L'Etat n'est
+financièrement exposé au titre de ces opérations que pour autant que l'assureur-crédit, cosignataire du traité de
+réassurance, conserve une exposition au risque sur les entreprises bénéficiant du financement faisant l'objet de l'assurance-
+crédit. Un décret en Conseil d'Etat fixe les modalités d'application du présent e, notamment celles ayant trait à la
+constatation de la défaillance du marché ainsi que la part minimale de risque que l'assureur-crédit cosignataire du traité de
+réassurance conserve à sa charge.
 
 2° Aux exportateurs pour les opérations prévues à l'article 53 de la loi n° 48-1516 du 26 septembre 1948, fixant l'évaluation
 des voies et moyens du budget général pour l'exercice 1948 et relative à diverses dispositions d'ordre financier.
@@ -28738,7 +28741,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 84
 
 
 ###### Article L432-3
@@ -28797,22 +28800,28 @@ l'Etat en application des articles L. 432-2 et L. 432-5, un enregistrement compt
 l'organisme mentionné au premier alinéa de l'article L. 432-2 précise les objectifs fixés par l'Etat à l'organisme, les
 conditions de mise en œuvre des garanties publiques à l'exportation au nom, pour le compte et sous le contrôle de l'Etat, les
 modalités selon lesquelles cet enregistrement est effectué ainsi que les conditions dans lesquelles il est contrôlé et
-certifié par un ou plusieurs commissaires aux comptes. 
+certifié par un ou plusieurs commissaires aux comptes.
 
 La convention mentionnée au premier alinéa du présent article emporte mandat à l'organisme mentionné au premier alinéa de
 l'article L. 432-2 d'assurer l'encaissement de recettes, de procéder au recouvrement amiable et au recouvrement contentieux
 et à toute action permettant d'assurer la conservation des droits de l'Etat en France et à l'étranger avec faculté de
-délégation à des tiers habilités conformément aux législations concernées, d'assurer  le paiement de dépenses, dont les
+délégation à des tiers habilités conformément aux législations concernées, d'assurer le paiement de dépenses, dont les
 indemnisations de sinistres, et toutes opérations de maniement des fonds issus de son activité assurée au nom et pour le
 compte de l'Etat, qui demeure le titulaire des droits et obligations nés au titre de ces opérations. En particulier, les
 actifs figurant dans l'enregistrement comptable prévu au premier alinéa du présent article demeurent la propriété
-insaisissable de l'Etat. 
+insaisissable de l'Etat. L'organisme mentionné au premier alinéa de l'article L. 432-2 peut déléguer tout ou partie des
+missions énumérées au présent alinéa à des entités de son groupe d'appartenance.
 
 Dans les cas où l'Etat est directement ou indirectement actionnaire de l'organisme mentionné au premier alinéa de l'article
 L. 432-2, l'article L. 225-38 du code de commerce ne s'applique pas aux conventions conclues avec cet organisme.
 
 L'organisme mentionné au premier alinéa de l'article L. 432-2 du présent code ne requiert pas l'obtention de l'agrément
 administratif mentionné à l'article L. 321-1.
+
+Lorsque l'organisme mentionné au premier alinéa de l'article L. 432-2 délègue à une entité de son groupe d'appartenance l'une
+au moins des missions énumérées au deuxième alinéa du présent article, une convention entre l'organisme susmentionné,
+l'entité délégataire et l'Etat prévoit les modalités de contrôle de l'Etat sur l'exécution des prestations de l'entité
+délégataire.
 
 **Liens relatifs à cet article**
 
@@ -28828,7 +28837,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 130
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 84
 
 _Cite_:
 
