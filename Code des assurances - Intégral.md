@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2017-12-30
+Version Consolidée au 2017-12-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -346,9 +346,9 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#306)
       - [Titre V bis : L'assurance de la responsabilité civile médicale. (art. R251-1)](#341)
     - [Livre III : Les entreprises (art. R310-5 à R391-1)](#342)
       - [Titre Ier : Dispositions générales et contrôle de l'Etat (art. R310-5 à R310-23)](#343)
-        - [Chapitre Ier : Dispositions générales. (art. R310-5 à R310-10-4)](#344)
+        - [Chapitre Ier : Dispositions générales. (art. R310-5 à R310-10-3)](#344)
           - [Section I : Dispositions générales applicables aux entreprises d'assurance. (art. R310-5 à R310-10-1)](#345)
-          - [Section II : Dispositions générales applicables aux entreprises de réassurance. (art. R310-10-3 à R310-10-4)](#346)
+          - [Section II : Dispositions générales applicables aux entreprises de réassurance. (art. R310-10-3)](#346)
         - [Chapitre II : Autorité de contrôle prudentiel et de résolution (art. R310-11 à R310-23)](#347)
           - [Section I : Dispositions générales (art. R310-11)](#348)
           - [Section II : Dispositions relatives à la libre prestation de services et au libre établissement des organismes relevant du code des assurances, du code de la mutualité et du code de la sécurité sociale (art. R310-17-1 à R310-17-3)](#349)
@@ -33411,12 +33411,12 @@ _Cite_:
 
 ###### Article R143-5
 
-Le rapport mentionné à l'avant-dernier alinéa de l'article L. 143-2-2 est transmis à l'Autorité de contrôle prudentiel et de
-résolution.
+Le rapport mentionné     au dernier alinéa de l'article L. 143-2-2 est transmis à l'Autorité de contrôle prudentiel et de
+résolution. 
 
 L'entreprise d'assurance ou le fonds de retraite professionnelle supplémentaire peut décider de remettre le rapport mentionné
 à l'alinéa précédent, sur demande, aux souscripteurs, adhérents et bénéficiaires ou de le faire figurer sur son site
-internet, à condition de l'indiquer de façon précise dans l'information annuelle transmise aux adhérents.
+internet, à condition de l'indiquer de façon précise dans l'information annuelle transmise aux adhérents. 
 
 Le rapport peut également être inclus dans le rapport sur la solvabilité et la situation financière de l'entreprise
 d'assurance ou du fonds de retraite professionnelle supplémentaire, si ce rapport est complété d'une partie décrivant la
@@ -33430,7 +33430,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1171 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -37878,34 +37878,6 @@ _Cité par_:
   - Code des assurances - art. R310-22 (V)
 
 
-###### Article R310-10-4
-
-Lorsqu'elles ont fait l'objet d'une modification de statuts, les entreprises françaises mentionnées au 1° du III de l'article
-L. 310-1-1 doivent transmettre à l'Autorité de contrôle trois spécimens des nouveaux statuts dans un délai d'un mois suivant
-leur adoption par l'assemblée générale. 
-
-Lorsqu'un projet de modification de statuts prévoit la réduction de son capital social, l'entreprise de réassurance doit,
-avant de soumettre cette modification à l'assemblée générale, obtenir l'accord de l'Autorité de contrôle qui statue dans les
-deux mois du dépôt de trois spécimens des projets de résolutions portant modification des statuts. 
-
-Un exemplaire des documents mentionnés aux deux premiers alinéas est transmis par l'Autorité de contrôle au commissaire du
-Gouvernement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1154 du 7 novembre 2008 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
-
-_Cite_:
-
-  - Code des assurances - art. L310-1-1
-
-
 #### Chapitre II : Autorité de contrôle prudentiel et de résolution<a id=347></a>
 
 ##### Section I : Dispositions générales<a id=348></a>
@@ -39076,10 +39048,10 @@ _Cite_:
 ###### Article R322-1-1
 
 Lorsqu'une entreprise agréée dans la branche de protection juridique désire opter pour une autre modalité de gestion que
-celle qu'elle a précédemment choisie, elle est tenue d'en informer l'Autorité de contrôle prudentiel et de résolution. 
+celle qu'elle a précédemment choisie, elle est tenue d'en informer l'Autorité de contrôle prudentiel et de résolution.
 
-La nouvelle modalité choisie prend effet un mois après sa notification au comité, sauf opposition par ce dernier dans le même
-délai pour un motif de nature à remettre en cause la décision d'agrément. 
+La nouvelle modalité choisie prend effet un mois après sa notification à l'Autorité de contrôle prudentiel et de résolution,
+sauf opposition par cette dernière dans le même délai pour un motif de nature à remettre en cause la décision d'agrément.
 
 Les deuxième et troisième alinéas de l'article R. 322-1 sont applicables.
 
@@ -39087,11 +39059,11 @@ Les deuxième et troisième alinéas de l'article R. 322-1 sont applicables.
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L322-1 (V)
+  - Code des assurances - art. L322-1
 
 
 ###### Article R322-1-2
@@ -40746,8 +40718,7 @@ d'unions de sociétés d'assurance mutuelles, de sociétés de réassurance mutu
 ou de sociétés anonymes ayant leur siège sur le territoire français. 
 
 2° Dans le décompte des mandats mentionnés au I ne sont pris en compte que pour un seul mandat ceux détenus dans des sociétés
-faisant partie d'un ensemble soumis à l'obligation d'établir des comptes consolidés ou combinés dans les conditions prévues à
-l'article L. 345-2.
+appartenant à un groupe d'assurance au sens de l'article L. 356-1.
 
 3° Toute personne qui se trouve en infraction avec les dispositions du présent article doit, dans les trois mois suivant sa
 nomination, se démettre de l'un de ses mandats. A l'expiration de ce délai et à défaut de démission expresse, elle est
@@ -40794,16 +40765,18 @@ titre de ce mandat, sans que soit, de ce fait, remise en cause la validité des 
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L322-4-2 (V)
+  - Code des assurances - art. L322-4-2
   - Code des assurances - art. L345-2 (V)
+  - Code des assurances - art. L356-1 (V)
+  - Code des assurances - art. R345-1-2 (V)
 
 
 ###### Article R322-56
@@ -41593,13 +41566,16 @@ _Cite_:
 
 Le conseil d'administration ou le directoire décide de l'admissibilité et de la tarification de tout risque prévu par les
 statuts, sous réserve de l'application des lois et règlements en vigueur. Aucun traitement préférentiel ne peut être accordé
-à un sociétaire. 
+à un sociétaire.
+
+Le conseil d'administration fixe, à l'issue de l'assemblée générale ordinaire approuvant les comptes annuels, le montant du
+droit d'entrée ou droit d'adhésion applicable jusqu'à l'assemblée générale ordinaire d'approbation des comptes suivante.
 
 Pour les entreprises mentionnées à l'article L. 310-3-2 et régies par la présente section, ce montant ne peut dépasser le
 rapport entre d'une part la marge de solvabilité mentionnée aux articles R. 334-5, R. 334-13 et R. 334-19 et d'autre part le
 nombre de sociétaires constaté à la clôture de l'exercice sur lequel portent les comptes approuvés. Toutefois, lorsque la
 marge de solvabilité effectivement constituée est inférieure au montant minimal réglementaire, le premier terme de ce rapport
-est majoré du montant de cette insuffisance. 
+est majoré du montant de cette insuffisance.
 
 Pour les entreprises mentionnées à l'article L. 310-3-1 et régies par la présente section, ce montant ne peut dépasser le
 rapport entre d'une part le capital de solvabilité requis mentionné à l'article L. 352-1 et d'autre part le nombre de
@@ -41615,25 +41591,26 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 7
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L310-3-1 (VD)
-  - Code des assurances - art. L310-3-2 (VD)
-  - Code des assurances - art. L351-6 (VD)
-  - Code des assurances - art. L352-1 (VD)
-  - Code des assurances - art. R334-13 (VD)
-  - Code des assurances - art. R334-19 (VD)
-  - Code des assurances - art. R334-5 (VD)
+  - Code des assurances - art. L310-3-1
+  - Code des assurances - art. L310-3-2
+  - Code des assurances - art. L351-6
+  - Code des assurances - art. L352-1
+  - Code des assurances - art. R*334-13
+  - Code des assurances - art. R*334-19
+  - Code des assurances - art. R*334-5
 
 
 ###### Article R322-73
 
 Il ne peut être procédé à des répartitions d'excédents de recettes qu'après constitution des réserves et provisions
 prescrites par les lois et règlements en vigueur, après amortissement intégral des dépenses d'établissement et après que les
-dispositions réglementaires concernant la marge de solvabilité et la solvabilité ajustée aient été satisfaites. Le report de
-charge constitué en vertu de l'article R. 343-6 est déduit des excédents de recettes à répartir ainsi établis. 
+dispositions réglementaires concernant la marge de solvabilité ou le capital de solvabilité requis de la société et, le cas
+échéant, du groupe, ont été satisfaites. Le report de charge constitué en vertu de l'article R. 343-6 est déduit des
+excédents de recettes à répartir ainsi établis.
 
 L''Autorité de contrôle prudentiel et de résolution peut s'opposer à une affectation d'excédents aux réserves libres.
 
@@ -41650,11 +41627,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 10 (V)
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. R343-6 (V)
+  - Code des assurances - art. R343-6
 
 
 ###### Article R322-74
@@ -41796,31 +41773,30 @@ _Cité par_:
 
 ###### Article R322-79
 
-I. - Toute émission d'obligations, de titres participatifs ou de titres subordonnés remboursables dans les conditions et
-limites prévues à l'article L. 322-2-1 et toute émission de certificats mutualistes dans les conditions prévues à l'article
-L. 322-26-8 doit être autorisée par l'assemblée générale délibérant comme il est dit à l'article R. 322-63 et faire l'objet
-d'une résolution spéciale dont la teneur est préalablement soumise à l'approbation de l'Autorité de contrôle prudentiel et de
-résolution. Celle-ci se prononce, en veillant à la sauvegarde des intérêts des assurés, au vu d'un dossier comportant une
-présentation détaillée des objectifs poursuivis, des caractéristiques des titres émis, des conséquences de l'émission sur la
-situation financière de l'entreprise concernée, ainsi que, le cas échéant, une description précise des cas de remboursement
-anticipé. 
+I. - Toute émission d'obligations, de titres participatifs ou de titres subordonnés dans les conditions et limites prévues à
+l'article L. 322-2-1 et toute émission de certificats mutualistes dans les conditions prévues à l'article L. 322-26-8 doit
+être autorisée par l'assemblée générale délibérant comme il est dit à l'article R. 322-63 et faire l'objet d'une résolution
+spéciale dont la teneur est préalablement soumise à l'approbation de l'Autorité de contrôle prudentiel et de résolution.
+Celle-ci se prononce, en veillant à la sauvegarde des intérêts des assurés, au vu d'un dossier comportant une présentation
+détaillée des objectifs poursuivis, des caractéristiques des titres émis, des conséquences de l'émission sur la situation
+financière de l'entreprise concernée, ainsi que, le cas échéant, une description précise des cas de remboursement anticipé.
 
 A l'expiration d'un délai de deux mois à dater du dépôt du texte de la résolution et du dossier mentionné ci-dessus et en
 l'absence de décision expresse de l'Autorité, l'autorisation est considérée comme accordée. En cas de décision expresse,
-celle-ci est communiquée à l'assemblée générale. 
+celle-ci est communiquée à l'assemblée générale.
 
 La résolution de l'assemblée générale mentionnée au premier alinéa fixe les caractéristiques essentielles de l'émission des
 titres mentionnés à l'article L. 322-2-1 et L. 322-26-8, en particulier le montant maximal de l'émission et la ou les
 monnaies dans laquelle ou lesquelles l'émission est libellée, les modalités de remboursement, le montant des frais d'émission
 et, pour les titres mentionnés à l'article L. 322-2-1, la durée minimale et, le cas échéant, maximale de l'emprunt, le
-plafond de la rémunération susceptible d'être acquittée par l'entreprise au titre de l'emprunt. 
+plafond de la rémunération susceptible d'être acquittée par l'entreprise au titre de l'emprunt.
 
 Pour les titres participatifs, la résolution fixe également l'assiette de la rémunération pour la partie variable. Pour les
 titres subordonnés, elle précise la clause de subordination et les modalités de remboursement, notamment en cas de
-liquidation de la société. 
+liquidation de la société.
 
 L'émission doit être réalisée en une ou plusieurs fois dans le délai de quinze mois à compter de l'adoption de la résolution
-par l'assemblée générale des sociétaires. Ce délai peut être porté à vingt-quatre mois pour les certificats mutualistes. 
+par l'assemblée générale des sociétaires. Ce délai peut être porté à vingt-quatre mois pour les certificats mutualistes.
 
 Le conseil d'administration ou le directoire rend compte à la prochaine assemblée générale de la mise en œuvre de la
 résolution.
@@ -41835,13 +41811,12 @@ _Cite_:
 
   - Décret n°67-236 du 23 mars 1967
   - Code des assurances - art. L322-2-1
-  - Code des assurances - art. L322-26-8 (V)
+  - Code des assurances - art. L322-26-8
   - Code des assurances - art. R*322-63
 
 _Modifié par_:
 
-  - Décret n°2015-204 du 23 février 2015 - art. 1
-  - Décret n°2015-513 du 7 mai 2015 - art. 20
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cité par_:
 
@@ -44729,7 +44704,7 @@ _Cite_:
 
 ###### Article R322-165
 
-Les dispositions du deuxième alinéa du 1° du I de l'article R. 322-161 sont applicables aux sociétés de groupe d'assurance
+Les dispositions du deuxième alinéa du I de l'article R. 322-161 sont applicables aux sociétés de groupe d'assurance
 mentionnées à l'article L. 322-1-3 qui n'ont pas la qualité de sociétés de groupe d'assurance mutuelle définies au troisième
 alinéa de cet article.
 
@@ -44737,21 +44712,21 @@ alinéa de cet article.
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
-
-_Créé par_:
-
-  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+  - Décret n°76-667 du 16 juillet 1976
 
 _Cité par_:
 
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
   - Code des assurances - art. R322-66-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
+
 _Cite_:
 
-  - Code des assurances - art. L322-1-3 (V)
-  - Code des assurances - art. R322-161 (V)
+  - Code des assurances - art. L322-1-3
+  - Code des assurances - art. R322-161
 
 
 ###### Article R322-166
@@ -44759,7 +44734,7 @@ _Cite_:
 I.-La convention d'affiliation mentionnée au premier alinéa de l'article L. 322-1-3 contient la description des liens, des
 obligations, des engagements et des modalités de partage des coûts ou de toute autre forme de coopération entre une société
 de groupe d'assurance et l'entreprise affiliée. Elle doit comporter l'engagement de celle-ci de subordonner son retrait
-éventuel au respect des conditions posées au deuxième alinéa du 1° du I de l'article R. 322-161.
+éventuel au respect des conditions posées au deuxième alinéa du I de l'article R. 322-161.
 
 II.-Les conventions d'affiliation, leurs modifications et leur résiliation éventuelle doivent être approuvées par les
 assemblées générales de la société de groupe d'assurance et de l'entreprise affiliée.
@@ -44768,11 +44743,11 @@ assemblées générales de la société de groupe d'assurance et de l'entreprise
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-943 du 26 juin 2002 - art. 1 () JORF 28 juin 2002
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cité par_:
 
@@ -44780,8 +44755,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L322-1-3 (V)
-  - Code des assurances - art. R322-161 (V)
+  - Code des assurances - art. L322-1-3
+  - Code des assurances - art. R322-161
 
 
 ##### Section IX : Dispositions spécifiques aux entreprises d'assurance et de réassurance relevant du régime dit "solvabilité II"<a id=395></a>
@@ -45264,17 +45239,15 @@ _Cite_:
 ###### Article R328-1
 
 Est puni de la peine d'amende prévue pour les contraventions de cinquième classe le fait pour tout dirigeant d'une entreprise
-soumise au contrôle de l'Etat en vertu de l'article L. 310-1 ou du 1° du III de l'article L. 310-1-1 : 
+soumise au contrôle de l'Etat en vertu de l'article L. 310-1 ou du 1° du III de l'article L. 310-1-1 :
 
 1° De méconnaître les obligations ou interdiction résultant des articles R. 321-17-1, R. 321-28, R. 322-3, R. 322-8 (1er
-alinéa), R. 322-73 (1er alinéa), R. 326-1, R. 331-1, R. 332-1 et R. 329-4 ; 
+alinéa), R. 322-73 (1er alinéa), R. 326-1, R. 331-1, R. 332-1 et R. 329-4 ;
 
-2° De ne pas produire un programme de rétablissement, un plan de rétablissement, un plan de redressement ou un plan de
-financement à court terme prescrits conformément aux dispositions des articles R. 335-1, R. 335-4, R. 335-5 ou R. 352-33 ou
-de ne pas exécuter dans les conditions et délais prévus celui qui a été approuvé ; 
+2° (Abrogé)
 
 3° De ne pas respecter les obligations qui lui incombent en matière de tenue de la comptabilité, enregistrement des
-opérations, conservation des pièces comptables et présentation des comptes annuels. 
+opérations, conservation des pièces comptables et présentation des comptes annuels.
 
 En cas de récidive, la peine d'amende prévue pour la récidive des contraventions de la cinquième classe est applicable.
 
@@ -45282,7 +45255,7 @@ En cas de récidive, la peine d'amende prévue pour la récidive des contraventi
 
 _Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 7
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -45290,17 +45263,17 @@ _Cite_:
   - Code des assurances - art. L310-1-1
   - Code des assurances - art. R*322-3
   - Code des assurances - art. R*322-8
+  - Code des assurances - art. R*331-1
+  - Code des assurances - art. R*332-1
   - Code des assurances - art. R321-17-1
   - Code des assurances - art. R321-28
   - Code des assurances - art. R322-73 (VD)
   - Code des assurances - art. R326-1
-  - Code des assurances - art. R329-4 (VD)
-  - Code des assurances - art. R331-1 (VD)
-  - Code des assurances - art. R332-1 (VD)
-  - Code des assurances - art. R335-1 (VD)
-  - Code des assurances - art. R335-4 (VD)
-  - Code des assurances - art. R335-5 (VD)
-  - Code des assurances - art. R352-33 (VD)
+  - Code des assurances - art. R329-4
+  - Code des assurances - art. R335-1
+  - Code des assurances - art. R335-4
+  - Code des assurances - art. R335-5
+  - Code des assurances - art. R352-33
 
 **Liens**:
 
@@ -45477,78 +45450,78 @@ couvrir les obligations d'assurance et de réassurance souscrites sur le territo
 dispositions de la section I du chapitre Ier du titre V du présent livre à l'exception des articles L. 351-4 et L. 351-5 et
 évaluent leurs actifs et engagements conformément aux modalités prévues à la section II du chapitre Ier du titre V du présent
 livre, et déterminent leurs fonds propres conformément aux dispositions de la section III du chapitre Ier du titre V du
-présent livre. 
+présent livre.
 
-II.-Les succursales entreprises mentionnées au 4° de l'article L. 310-2 disposent d'un montant de fonds propres éligibles
-constitué par les éléments visés à l'article R. 351-26. 
+II.-Les succursales d'entreprises mentionnées au 4° de l'article L. 310-2 disposent d'un montant de fonds propres éligibles
+constitué par les éléments visés à l'article R. 351-26.
 
 Le capital de solvabilité requis et le minimum de capital requis sont calculés conformément aux dispositions du chapitre II
-du titre V du présent livre. 
+du titre V du présent livre.
 
 Toutefois, aux fins du calcul du capital de solvabilité requis et du minimum de capital requis, seules sont prises en
-considération, tant pour l'assurance vie que pour l'assurance non-vie, les opérations réalisées par la succursale concernée. 
+considération, tant pour l'assurance vie que pour l'assurance non-vie, les opérations réalisées par la succursale concernée.
 
 Le montant éligible des fonds propres de base exigé pour couvrir le minimum de capital requis et le seuil plancher absolu de
-ce minimum de capital requis sont constitués conformément au quatrième alinéa de à l'article R. 351-26. 
+ce minimum de capital requis sont constitués conformément au quatrième alinéa de à l'article R. 351-26.
 
 Le montant éligible des fonds propres de base ne peut être inférieur à la moitié du seuil plancher absolu exigé à l'article
-R. 352-29. 
+R. 352-29.
 
 Le quart du seuil plancher absolu exigé à l'article R. 352-29 doit, à titre de sûreté, être déposé ou inscrit en compte à la
 Caisse des dépôts et consignations ou à la Banque de France. Ce dépôt est comptabilisé dans les fonds propres de base
-éligibles destinés à couvrir le minimum de capital requis. 
+éligibles destinés à couvrir le minimum de capital requis.
 
 Les actifs représentatifs du capital de solvabilité requis doivent être localisés en France jusqu'à concurrence du minimum de
-capital requis et, pour le surplus, à l'intérieur de l'Union européenne. 
+capital requis et, pour le surplus, à l'intérieur de l'Union européenne.
 
 III.-Une succursale d'entreprise mentionnée au 4° de l'article L. 310-2 qui a obtenu également l'agrément d'une ou de
 plusieurs autorités de contrôle des Etats membres peut demander à bénéficier des avantages suivants qui ne peuvent être
-accordés que conjointement : 
+accordés que conjointement :
 
 a) Le capital de solvabilité requis visé au II du présent article est calculé en fonction de l'ensemble de l'activité
-qu'elles exercent à l'intérieur de la l'Union européenne ; 
+qu'elles exercent à l'intérieur de la l'Union européenne ;
 
-b) Le dépôt exigé au titre sixième alinéa du II n'est effectué que dans l'un des Etats membres concernés ; 
+b) Le dépôt exigé au titre sixième alinéa du II n'est effectué que dans l'un des Etats membres concernés ;
 
 c) Les actifs représentatifs du minimum de capital requis sont localisés dans l'un des Etats membres où elles exercent leur
-activité. 
+activité.
 
 Dans le cas mentionné au a, seules les opérations réalisées par l'ensemble des succursales établies à l'intérieur de l'Union
-européenne sont prises en considération pour ce calcul. 
+européenne sont prises en considération pour ce calcul.
 
 La demande visant à bénéficier des avantages précités est déposée auprès des autorités de contrôle des Etats membres
 concernés. Cette demande comporte l'indication de l'autorité de contrôle de l'Etat membre qui devra vérifier à l'avenir la
 solvabilité des succursales établies au sein de la l'Union européenne pour l'ensemble de leurs opérations. Le choix de
-l'autorité fait par l'entreprise doit être motivé. 
+l'autorité fait par l'entreprise doit être motivé.
 
 Lorsqu'elle a été choisie dans le cadre de la procédure susmentionnée, l'Autorité de contrôle prudentiel et de résolution ne
 peut octroyer les avantages prévus aux alinéas précédents du III qu'avec l'accord de toutes les autorités de contrôle
-concernées. 
+concernées.
 
 Lorsqu'elle n'est pas l'Autorité choisie dans le cadre de la procédure susmentionnée, l'Autorité de contrôle prudentiel et de
-résolution informe les autres autorités de contrôle concernées de sa décision concernant l'octroi des avantages précités. 
+résolution informe les autres autorités de contrôle concernées de sa décision concernant l'octroi des avantages précités.
 
 Ces avantages prennent effet à la date à laquelle l'autorité de contrôle choisie informe les autres autorités de contrôle
 qu'elle vérifiera la solvabilité des succursales établies à l'intérieur de la l'Union européenne pour l'ensemble de leurs
-opérations. 
+opérations.
 
 L'autorité de contrôle choisie obtient des autorités de contrôle des autres Etats membres les informations nécessaires pour
-vérifier la solvabilité globale des succursales établies sur leur territoire. 
+vérifier la solvabilité globale des succursales établies sur leur territoire.
 
 A la demande d'une ou de plusieurs autorités de contrôle des Etats membres concernées, les avantages accordés en vertu du III
-sont supprimés simultanément par l'ensemble des autorités de contrôle des Etats membres concernées. 
+sont supprimés simultanément par l'ensemble des autorités de contrôle des Etats membres concernées.
 
 Pour l'application des articles L. 352-7 et L. 352-8, dans le cas d'une entreprise qui peut bénéficier des avantages prévus
 au III, lorsque l'Autorité de contrôle prudentiel et de résolution est l'autorité de contrôle choisie conformément au
 septième alinéa du III, elle est assimilée à l'autorité de contrôle de l'Etat membre sur le territoire duquel se trouve le
-siège social de l'entreprise établie dans l'Union européenne. 
+siège social de l'entreprise établie dans l'Union européenne.
 
 Au cas où elle procède au retrait de l'agrément, l'Autorité de contrôle prudentiel et de résolution en informe les autorités
-de contrôle des autres Etats membres où l'entreprise exerce son activité, lesquelles prennent les mesures appropriées. 
+de contrôle des autres Etats membres où l'entreprise exerce son activité, lesquelles prennent les mesures appropriées.
 
 Si cette décision de retrait est prise conformément au deuxième alinéa de l'article L. 352-1, l'Autorité de contrôle
 prudentiel et de résolution ainsi que les autorités de contrôle des Etats membres qui ont donné leur accord conformément au
-III procèdent au retrait de leur agrément. 
+III procèdent au retrait de leur agrément.
 
 Si l'autorité de contrôle d'un autre Etat membre choisie conformément au huitième alinéa du III procède au retrait de
 l'agrément en raison de l'inadéquation de la solvabilité globale mentionnée au deuxième alinéa du III, l'Autorité de contrôle
@@ -45556,18 +45529,18 @@ prudentiel et de résolution procède au retrait d'agrément de la succursale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 3
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L310-2 (VD)
-  - Code des assurances - art. L351-4 (VD)
-  - Code des assurances - art. L352-1 (VD)
-  - Code des assurances - art. L352-7 (VD)
-  - Code des assurances - art. R351-26 (VD)
-  - Code des assurances - art. R352-29 (VD)
+  - Code des assurances - art. L310-2
+  - Code des assurances - art. L351-4
+  - Code des assurances - art. L352-1
+  - Code des assurances - art. L352-7
+  - Code des assurances - art. R351-26
+  - Code des assurances - art. R352-29
 
 _Cité par_:
 
@@ -50877,52 +50850,52 @@ l'entreprise ou au fonds de retraite professionnelle supplémentaire et des autr
 engagements réglementés, évalués conformément à l'article R. 343-11. Pour les entreprises mentionnées à l'article L. 310-3-1
 et les fonds de retraite professionnelle supplémentaire, les autres actifs comprennent les créances sur les assurés et les
 réassureurs ainsi que les frais d'acquisition reportés. Ce pourcentage est au moins égal au résultat obtenu en divisant par
-cette valeur la somme des montants suivants :
+cette valeur la somme des montants suivants : 
 
-a) Actifs correspondant aux opérations mentionnées à l'article L. 134-2, à l'article L. 142-1, à l'article L. 143-1 et
+a) Actifs correspondant aux opérations mentionnées à l'article L. 134-2, à l'article L. 144-2, à l'article L. 143-1 et
 faisant l'objet d'une comptabilité auxiliaire d'affectation, et à l'article L. 441-1, évalués conformément à l'article R.
-343-11 ;
+343-11 ; 
 
 b) Placements affectés à la représentation des contrats d'assurance sur la vie ou de capitalisation en unités de compte
 définis au deuxième alinéa de l'article L. 131-1 et évalués selon les prescriptions de l'Autorité des normes comptable, ainsi
 que les placements affectés aux contrats de retraite professionnelle dont les droits sont exprimés en unités de compte et qui
-ne font pas l'objet d'une comptabilité auxiliaire d'affectation en application de l'article L. 381-2 ;
+ne font pas l'objet d'une comptabilité auxiliaire d'affectation en application de l'article L. 381-2 ; 
 
-c) Actifs mentionnés au premier alinéa des articles L. 324-7 et L. 384-4, évalués conformément à l'article R. 343-11 ;
+c) Actifs mentionnés au premier alinéa des articles L. 324-7 et L. 384-4, évalués conformément à l'article R. 343-11 ; 
 
 d) Montant des provisions techniques brutes de réassurance constituées au titre des opérations pratiquées par l'entreprise
 d'assurance pour les branches 20 à 26 de l'article R. 321-1 ou par le fonds de retraite professionnelle supplémentaire,
 autres que celles mentionnées aux a et b, et diminué du montant des actifs mentionnés au c, évalués conformément aux articles
-R. 343-9 et R. 343-10 ;
+R. 343-9 et R. 343-10 ; 
 
 e) Un pourcentage, défini au II, de la différence entre, d'une part, la valeur évaluée conformément à l'article R. 343-11 et,
 d'autre part, celle évaluée conformément aux articles R. 343-9 et R. 343-10, de l'ensemble des placements appartenant à
 l'entreprise ou au fonds de retraite professionnelle supplémentaire et de ceux des autres actifs affectables à la
 représentation des engagements réglementés, autres que ceux mentionnés aux a, b et c. Pour les entreprises mentionnées à
 l'article L. 310-3-1 et les fonds de retraite professionnelle supplémentaire, les autres actifs comprennent les créances sur
-les assurés et les réassureurs ainsi que les frais d'acquisition reportés.
+les assurés et les réassureurs ainsi que les frais d'acquisition reportés. 
 
-II. – Le pourcentage mentionné au e du I est égal à 85 % du quotient A/B, avec :
+II. – Le pourcentage mentionné au e du I est égal à 85 % du quotient A/ B, avec : 
 
 A. – Montant moyen des provisions techniques brutes de réassurance constituées au titre de l'ensemble des opérations
 pratiquées par l'entreprise autres que celles mentionnées aux a et b du I ou relatives à des contrats collectifs en cas de
 décès ou, pour les entreprises mixtes, à des opérations relevant des branches 1 ou 2 de l'article R. 321-1, ou, pour les
 fonds de retraite professionnelle supplémentaire, à des garanties complémentaires mentionnées au premier alinéa de l'article
 L. 143-2, et diminué du montant moyen des actifs mentionnés au c du I, évalués conformément aux articles R. 343-9 et R.
-343-10 ;
+343-10 ; 
 
 B. – Montant moyen de l'ensemble des placements appartenant à l'entreprise ou au fonds de retraite professionnelle
 supplémentaire et de ceux des autres actifs affectables à la représentation des engagements réglementés, autres que ceux
 mentionnés aux a, b et c du I, évalués conformément aux articles R. 343-9 et R. 343-10. Pour les entreprises mentionnées à
 l'article L. 310-3-1 et les fonds de retraite professionnelle supplémentaire, les autres actifs comprennent les créances sur
-les assurés et les réassureurs ainsi que les frais d'acquisition reportés.
+les assurés et les réassureurs ainsi que les frais d'acquisition reportés. 
 
 Le montant moyen mentionné à l'alinéa précédent est obtenu en divisant par deux la somme des montants inscrits dans les
-comptes à l'ouverture et à la clôture de l'exercice.
+comptes à l'ouverture et à la clôture de l'exercice. 
 
 III. – Les placements, actifs et provisions mentionnés au présent article ne comprennent pas ceux qui sont constitués par
 l'entreprise ou le fonds de retraite professionnelle supplémentaire dans le cadre des opérations effectuées par ses
-établissements situés à l'étranger.
+établissements situés à l'étranger. 
 
 IV. – En cas de transfert de portefeuille, la valeur des actifs transférés ne peut excéder celle qui résulte de leur
 évaluation conformément à l'article R. 343-11.
@@ -50935,7 +50908,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1171 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cité par_:
 
@@ -50952,9 +50925,9 @@ _Cite_:
 
   - Code des assurances - art. L131-1
   - Code des assurances - art. L134-2
-  - Code des assurances - art. L142-1 (Ab)
   - Code des assurances - art. L143-1
   - Code des assurances - art. L143-2
+  - Code des assurances - art. L144-2 (VT)
   - Code des assurances - art. L310-3-1
   - Code des assurances - art. L324-7
   - Code des assurances - art. L344-1
@@ -52107,63 +52080,63 @@ _Cite_:
 ###### Article R351-16
 
 I.-Dans chaque monnaie, le calcul de l'ajustement mentionné à l'article L. 351-4 correspond à une fraction de la différence
-entre : 
+entre :
 
-1° Le taux d'intérêt déterminé par l'entreprise d'assurance ou de réassurance conformément aux dispositions du présent code
-en vigueur au 31 décembre 2015 ; et 
+1° Le taux d'intérêt déterminé par l'entreprise d'assurance ou de réassurance conformément aux dispositions en vigueur au 31
+décembre 2015 ; et
 
 2° Le taux annuel effectif, calculé comme le taux unique d'actualisation qui, s'il était appliqué aux flux de trésorerie du
 portefeuille d'engagements d'assurance et de réassurance admissibles, donnerait une valeur égale à la valeur de la meilleure
 estimation du portefeuille d'engagements d'assurance et de réassurance admissibles pour laquelle la valeur temporelle de
-l'argent est prise en compte en suivant la courbe des taux d'intérêt sans risque pertinente mentionnée à l'article R. 351-2. 
+l'argent est prise en compte en suivant la courbe des taux d'intérêt sans risque pertinente mentionnée à l'article R. 351-2.
 
 La fraction mentionnée au premier alinéa diminue d'une manière linéaire à la fin de chaque année, pour passer de 100 % au 1er
-janvier 2016 à 0 % au 1er janvier 2032. 
+janvier 2016 à 0 % au 1er janvier 2032.
 
 Lorsque les entreprises d'assurance et de réassurance appliquent la correction pour volatilité visée à l'article R. 351-6, la
 courbe des taux d'intérêt sans risque pertinente mentionnée au 2° est la courbe des taux d'intérêt sans risque pertinente
-définie à l'article R. 351-6. 
+définie à l'article R. 351-6.
 
-II.-Les engagements d'assurance et de réassurance admissibles sont ceux qui satisfont aux exigences suivantes : 
+II.-Les engagements d'assurance et de réassurance admissibles sont ceux qui satisfont aux exigences suivantes :
 
 a) Les contrats donnant naissance aux engagements d'assurance et de réassurance ont été conclus avant le 1er janvier 2016, à
-l'exclusion des renouvellements de contrats qui ont été effectués à cette date ou ultérieurement ; 
+l'exclusion des renouvellements de contrats qui ont été effectués à cette date ou ultérieurement ;
 
 b) Jusqu'au 31 décembre 2015, les provisions techniques constituées pour les engagements d'assurance et de réassurance ont
-été déterminées conformément aux dispositions des articles du présent code en vigueur au 31 décembre 2015 ; 
+été déterminées conformément aux dispositions en vigueur au 31 décembre 2015 ;
 
-c) L'article R. 351-4 n'est pas appliqué aux engagements d'assurance et de réassurance. 
+c) L'article R. 351-4 n'est pas appliqué aux engagements d'assurance et de réassurance.
 
-III.-Les entreprises d'assurance et de réassurance qui appliquent les mesures prévues à l'article L. 351-4 : 
+III.-Les entreprises d'assurance et de réassurance qui appliquent les mesures prévues à l'article L. 351-4 :
 
-a) N'appliquent pas l'article L. 351-5 ; 
+a) N'appliquent pas l'article L. 351-5 ;
 
 b) Signalent, dans le rapport sur leur solvabilité et leur situation financière mentionné à l'article L. 355-5, qu'elles
 appliquent la courbe des taux d'intérêt sans risque transitoire et quantifient l'incidence qu'aurait sur leur situation
-financière de la décision de ne pas appliquer cette mesure transitoire. 
+financière de la décision de ne pas appliquer cette mesure transitoire.
 
 IV.-Les entreprises d'assurance et de réassurance qui, sous réserve de l'approbation préalable de l'Autorité de contrôle
 prudentiel et de résolution, appliquent l'ajustement mentionnée au I postérieurement au 1er janvier 2016 peuvent utiliser la
 fraction mentionnée au I, qui est calculée de la même façon que si l'ajustement avait été appliqué à partir du 1er janvier
-2016. 
+2016.
 
 V.-L'Autorité de contrôle prudentiel et de résolution se prononce sur l'ajustement mentionné au présent article dans un délai
 de trois mois.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L351-4 (VD)
-  - Code des assurances - art. L351-5 (VD)
-  - Code des assurances - art. L355-5 (V)
-  - Code des assurances - art. R351-2 (V)
-  - Code des assurances - art. R351-4 (VD)
-  - Code des assurances - art. R351-6 (VD)
+  - Code des assurances - art. L351-4
+  - Code des assurances - art. L351-5
+  - Code des assurances - art. L355-5
+  - Code des assurances - art. R351-2
+  - Code des assurances - art. R351-4
+  - Code des assurances - art. R351-6
 
 _Cité par_:
 
@@ -52173,64 +52146,64 @@ _Cité par_:
 ###### Article R351-17
 
 I.-La déduction transitoire mentionnée à l'article L. 351-5 correspond à une fraction de la différence entre les deux
-montants suivants : 
+montants suivants :
 
 a) Les provisions techniques après déduction des créances découlant des contrats de réassurance et des véhicules de
-titrisation, calculées conformément à l'article L. 351-2, à la date du 1er janvier 2016 ; et 
+titrisation, calculées conformément à l'article L. 351-2, à la date du 1er janvier 2016 ; et
 
 b) Les provisions techniques après déduction des créances découlant des contrats de réassurance, calculées conformément aux
-dispositions du présent code en vigueur au 31 décembre 2015. 
+dispositions en vigueur au 31 décembre 2015.
 
 La fraction déductible maximale diminue d'une manière linéaire à la fin de chaque année, pour passer de 100 % au 1er janvier
-2016 à 0 % au 1er janvier 2032. 
+2016 à 0 % au 1er janvier 2032.
 
 Lorsque les entreprises d'assurance et de réassurance appliquent au 1er janvier 2016 la correction pour volatilité visée à
-l'article R. 351-6, le montant visé au 1° est calculé avec la correction pour volatilité applicable à cette date. 
+l'article R. 351-6, le montant visé au 1° est calculé avec la correction pour volatilité applicable à cette date.
 
 II.-Sous réserve de l'approbation préalable ou à l'initiative de l'Autorité de contrôle prudentiel et de résolution, les
 montants des provisions techniques, intégrant le cas échéant le montant de la correction pour volatilité, entrant dans le
 calcul de la déduction transitoire peuvent être recalculés tous les vingt-quatre mois ou plus fréquemment si le profil de
-risque de l'entreprise a sensiblement changé. 
+risque de l'entreprise a sensiblement changé.
 
 III.-L'Autorité de contrôle prudentiel et de résolution peut limiter la déduction transitoire si son application est
 susceptible de se traduire par de moindres exigences en matière de ressources financières applicables à l'entreprise que
-celles qui sont calculées conformément aux dispositions du présent code en vigueur au 31 décembre 2015. 
+celles qui sont calculées conformément aux dispositions en vigueur au 31 décembre 2015.
 
-IV.-Les entreprises d'assurance et de réassurance qui appliquent la déduction transitoire : 
+IV.-Les entreprises d'assurance et de réassurance qui appliquent la déduction transitoire :
 
-a) N'appliquent pas l'article L. 351-4 ; 
+a) N'appliquent pas l'article L. 351-4 ;
 
 b) Dans le cas où elles ne respecteraient pas l'exigence de capital de solvabilité requis sans l'application de la déduction
 transitoire, présentent chaque année à l'Autorité de contrôle prudentiel et de résolution un rapport exposant les mesures
 prises et les progrès accomplis pour rétablir à la fin de la période transitoire définie au I un niveau de fonds propres
 éligibles couvrant le capital de solvabilité requis ou pour réduire leur profil de risque afin d'assurer de nouveau la
-couverture du capital de solvabilité requis ; 
+couverture du capital de solvabilité requis ;
 
 c) Signalent dans le rapport sur leur solvabilité et leur situation financière mentionné à l'article L. 355-5 qu'elles
 appliquent la déduction transitoire aux provisions techniques et quantifient l'incidence qu'aurait sur leur situation
-financière la décision de ne pas appliquer cette déduction transitoire. 
+financière la décision de ne pas appliquer cette déduction transitoire.
 
 V.-Les entreprises d'assurance et de réassurance qui, sous réserve de l'approbation préalable de l'Autorité de contrôle
 prudentiel et de résolution, appliquent la déduction transitoire postérieurement au 1er janvier 2016, peuvent utiliser la
 part déductible maximale visée au I qui est calculée de la même façon que si la déduction transitoire avait été appliquée à
-partir du 1er janvier 2016. 
+partir du 1er janvier 2016.
 
 VI.-L'Autorité de contrôle prudentiel et de résolution se prononce sur la déduction transitoire mentionnée au présent article
 dans un délai de trois mois.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L351-2 (VD)
-  - Code des assurances - art. L351-4 (VD)
-  - Code des assurances - art. L351-5 (VD)
-  - Code des assurances - art. L355-5 (VD)
-  - Code des assurances - art. R351-6 (VD)
+  - Code des assurances - art. L351-2
+  - Code des assurances - art. L351-4
+  - Code des assurances - art. L351-5
+  - Code des assurances - art. L355-5
+  - Code des assurances - art. R351-6
 
 
 ##### Section III : Fonds propres<a id=462></a>
@@ -52487,37 +52460,38 @@ _Cité par_:
 
 ###### Article R351-25
 
-Sans préjudice de l'article R. 351-24, les classements suivants sont appliqués aux fins de la présente section : 
+Sans préjudice de l'article R. 351-24, les classements suivants sont appliqués aux fins de la présente section :
 
-1° Les fonds excédentaires mentionnés à l'article R. 351-21 sont classés au niveau 1 ; 
+1° Les fonds excédentaires mentionnés à l'article R. 351-21 sont classés au niveau 1 ;
 
 2° Les lettres de crédit et les garanties détenues en fiducie par un fiduciaire indépendant au bénéfice de créanciers
-d'assurance et fournies par des établissements de crédit sont classées au niveau 2 ; 
+d'assurance et fournies par des établissements de crédit sont classées au niveau 2 ;
 
 3° Toute créance future que les mutuelles ou unions régies par le livre II du code de la mutualité ou sociétés d'assurance
 mutuelle à cotisations variables de propriétaires de navires, qui assurent uniquement les risques classés sous les branches
-6,12 et 17 mentionnées à l'article R. 321-1 ou sous la branche 17 mentionnée à l'article R. 211-2 du code de la mutualité,
-peuvent détenir sur leurs membres par voie de rappel de cotisations durant les douze mois à venir, est classée au niveau 2. 
+6, 12 et 17 mentionnées à l'article R. 321-1 ou sous la branche 17 mentionnée à l'article R. 211-2 du code de la mutualité,
+peuvent détenir sur leurs membres par voie de rappel de cotisations durant les douze mois à venir, est classée au niveau 2.
 
-Conformément au deuxième alinéa du b de l'article R. 351-23, toute créance future que les mutuelles ou unions à cotisations
+Conformément au deuxième alinéa du II de l'article R. 351-23, toute créance future que les mutuelles ou unions à cotisations
 variables régies par le livre II du code de la mutualité ou sociétés d'assurance mutuelle à cotisations variables peuvent
 détenir sur leurs membres par voie de rappel de cotisations durant les douze mois à venir et qui n'est pas couverte par le
 3°, est classée au niveau 2 lorsqu'elle présente de fait les caractéristiques mentionnées aux a et b du I de l'article R.
-351-23, compte tenu des facteurs mentionnés au II de l'article R. 351-23.
+351-22, compte tenu des facteurs mentionnés au II de cet article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. R321-1 (V)
-  - Code des assurances - art. R351-21 (VD)
-  - Code des assurances - art. R351-23 (VD)
-  - Code des assurances - art. R351-24 (VD)
-  - Code de la mutualité - art. R211-2 (V)
+  - Code des assurances - art. R*321-1
+  - Code des assurances - art. R351-21
+  - Code des assurances - art. R351-22 (V)
+  - Code des assurances - art. R351-23
+  - Code des assurances - art. R351-24
+  - Code de la mutualité - art. R211-2
 
 
 ###### Article R351-26
@@ -54010,10 +53984,10 @@ _Cite_:
 
 ###### Article R352-32
 
-La demande visée au cinquième alinéa de l'article L. 352-7 est effectuée si les conditions suivantes sont réunies : 
+La demande visée au cinquième alinéa de l'article L. 352-7 est effectuée si les conditions suivantes sont réunies :
 
 a) Il est improbable que des entreprises d'assurance ou de réassurance représentant une part significative du marché ou des
-lignes d'activité affectées puissent respecter les exigences mentionnées au troisième alinéa de l'article L. 352-7 ; 
+lignes d'activité affectées puissent respecter les exigences mentionnées au quatrième alinéa de l'article L. 352-7 ;
 
 b) La situation financière d'entreprises d'assurance ou de réassurance représentant une part significative du marché ou des
 lignes d'activité affectées subit les effets graves ou préjudiciables d'une baisse imprévue, prononcée et abrupte des marchés
@@ -54022,13 +53996,13 @@ incidences.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L352-7 (VD)
+  - Code des assurances - art. L352-7
 
 
 ###### Article R352-33
@@ -54719,42 +54693,42 @@ _Cité par_:
 ###### Article R354-7
 
 I.-Sont considérées comme des activités ou fonctions opérationnelles importantes ou critiques au sens de l'article L. 354-3,
-les fonctions clés mentionnées à l'article L. 354-1 et celles dont l'interruption est susceptible d'avoir un impact
-significatif sur l'activité de l'entreprise, sur sa capacité à gérer efficacement les risques ou de remettre en cause les
-conditions de son agrément au regard des éléments suivants : 
+les fonctions clés mentionnées à l'article L. 354-1 et celles dont l'interruption, une fois externalisées, est susceptible
+d'avoir un impact significatif sur l'activité de l'entreprise, sur sa capacité à gérer efficacement les risques ou de
+remettre en cause les conditions de son agrément au regard des éléments suivants :
 
-a) Le coût de l'activité externalisée ; 
+a) Le coût de l'activité externalisée ;
 
 b) L'impact financier, opérationnel et sur la réputation de l'entreprise de l'incapacité du prestataire de service
-d'accomplir sa prestation dans les délais impartis ; 
+d'accomplir sa prestation dans les délais impartis ;
 
-c) La difficulté de trouver un autre prestataire ou de reprendre l'activité en direct ; 
+c) La difficulté de trouver un autre prestataire ou de reprendre l'activité en direct ;
 
-d) La capacité de l'entreprise à satisfaire aux exigences réglementaires en cas de problèmes avec le prestataire ; 
+d) La capacité de l'entreprise à satisfaire aux exigences réglementaires en cas de problèmes avec le prestataire ;
 
 e) Les pertes potentielles pour les assurés, souscripteurs ou bénéficiaires de contrats ou les entreprises réassurées en cas
-de défaillance du prestataire. 
+de défaillance du prestataire.
 
 II.-Ne sont pas considérées comme des activités ou fonctions opérationnelles importantes ou critiques, les tâches consistant
-notamment en : 
+notamment en :
 
 a) La fourniture à l'entreprise de services de conseil et d'autres services ne faisant pas partie des activités couvertes par
 son agrément, y compris la fourniture de conseils juridiques, la formation de son personnel, les services de facturation et
-la sécurité des locaux et du personnel de l'entreprise ; 
+la sécurité des locaux et du personnel de l'entreprise ;
 
 b) L'achat de prestations standards, y compris des services fournissant des informations de marché ou des flux de données sur
 les prix.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L354-1 (VD)
-  - Code des assurances - art. L354-3 (VD)
+  - Code des assurances - art. L354-1
+  - Code des assurances - art. L354-3
 
 
 ###### Article R354-8
@@ -54863,41 +54837,41 @@ _Cite_:
 En application du sixième alinéa de l'article L. 355-1, et sans préjudice des dispositions de l'article R. 352-29, l'Autorité
 de contrôle prudentiel et de résolution peut limiter la communication régulière des informations à des fins de contrôle dont
 la périodicité est inférieure à un an, lorsque la fourniture de ces informations représenterait une charge disproportionnée
-pour l'entreprise compte tenu de la nature, de l'ampleur et de la complexité des risques inhérents à son activité. 
+pour l'entreprise compte tenu de la nature, de l'ampleur et de la complexité des risques inhérents à son activité.
 
 Concernant les entreprises soumises au contrôle de groupe en application de l'article L. 356-2, l'Autorité de contrôle
 prudentiel et de résolution peut limiter la communication régulière des informations à des fins de contrôle dont la
 périodicité est inférieure à un an, lorsque ces entreprises en font la demande. Cette demande doit démontrer que la
 communication régulière des informations à cette périodicité n'est pas appropriée compte tenu de la nature, de l'ampleur et
 de la complexité des risques inhérents à l'activité du groupe. Elle doit être déposée auprès de l'Autorité de contrôle
-prudentiel et de résolution au moins sept mois avant le début de la période sur laquelle portent ces informations. Dans ce
-cas, l'Autorité statue sur cette demande trois mois avant le début de la période concernée. 
+prudentiel et de résolution au moins sept mois avant le début de la première période concernée sur laquelle portent ces
+informations. Dans ce cas, l'Autorité statue sur cette demande trois mois avant le début de la période concernée.
 
 Dans le cas où l'Autorité de contrôle prudentiel et de résolution n'est pas contrôleur de groupe, elle consulte le contrôleur
-de groupe et tient compte de l'avis et des réserves exprimés, le cas échéant, par ce dernier. 
+de groupe et tient compte de l'avis et des réserves exprimés, le cas échéant, par ce dernier.
 
 Pour l'application des dispositions du présent article, l'ensemble des organismes bénéficiant d'une dispense de communication
 ne peut représenter plus de 20 % des primes brutes d'assurance non-vie émises par l'ensemble des entreprises mentionnées à
 l'article L. 310-1 ou au 1° du III de l'article L. 310-1-1, des mutuelles et unions régies par le livre II du code de la
 mutualité et des institutions de prévoyance et leurs unions régies par le titre 3 du livre 9 du code de la sécurité sociale
-et 20 % des provisions techniques brutes d'assurance vie des mêmes organismes. 
+et 20 % des provisions techniques brutes d'assurance vie des mêmes organismes.
 
 Lorsqu'elle détermine l'éligibilité des entreprises concernées aux dispenses mentionnées au présent article, l'Autorité de
 contrôle prudentiel et de résolution accorde une priorité aux plus petites entreprises.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L310-1 (VD)
-  - Code des assurances - art. L310-1-1 (VD)
-  - Code des assurances - art. L355-1 (VD)
-  - Code des assurances - art. L356-2 (VD)
-  - Code des assurances - art. R352-29 (VD)
+  - Code des assurances - art. L310-1
+  - Code des assurances - art. L310-1-1
+  - Code des assurances - art. L355-1
+  - Code des assurances - art. L356-2
+  - Code des assurances - art. R352-29
 
 _Cité par_:
 
@@ -54994,46 +54968,47 @@ _Cite_:
 
 I.-Jusqu'au 1er janvier 2020, les entreprises d'assurance ou de réassurance transmettent à l'Autorité de contrôle prudentiel
 et de résolution le rapport sur la solvabilité et la situation financière, le rapport régulier au contrôleur et les états
-quantitatifs annuels mentionnés à l'article L. 355-1 selon le calendrier suivant : 
+quantitatifs annuels mentionnés à l'article L. 355-1 selon le calendrier suivant :
 
 a) Au plus tard 20 semaines après la clôture de l'exercice de l'entreprise, pour les exercices clos entre le 30 juin 2016 et
-le 1er janvier 2017 ; 
+le 1er janvier 2017 ;
 
 b) Au plus tard 18 semaines après la clôture de l'exercice de l'entreprise, pour les exercices clos entre le 2 janvier 2017
-et le 1er janvier 2018 ; 
+et le 1er janvier 2018 ;
 
 c) Au plus tard 16 semaines après la clôture de l'exercice de l'entreprise, pour les exercices clos entre le 2 janvier 2018
-et le 29 juin 2019 ; 
+et le 29 juin 2019 ;
 
 d) Au plus tard 14 semaines après la clôture de l'exercice de l'entreprise, pour les exercices clos entre le 30 juin 2019 et
-le 1er janvier 2020. 
+le 1er janvier 2020.
 
 II.-Jusqu'au 1er janvier 2020, les entreprises d'assurance ou de réassurance transmettent à l'Autorité de contrôle prudentiel
-et de résolution les états quantitatifs trimestriels mentionnés à l'article L. 355-1 selon le calendrier suivant : 
+et de résolution les états quantitatifs trimestriels mentionnés à l'article L. 355-1 selon le calendrier suivant :
 
 a) Au plus tard 8 semaines après la fin du trimestre, pour les exercices trimestriels clos entre le 1er janvier 2016 et le
-1er janvier 2017 ; 
+1er janvier 2017 ;
 
 b) Au plus tard 7 semaines après la fin du trimestre, pour les exercices trimestriels clos entre le 2 janvier 2017 et le 1er
-janvier 2018 ; 
+janvier 2018 ;
 
-c) Au plus tard 6 semaines après la fin du trimestre, pour les exercices trimestriels clos entre le 2 janvier 2018 et le 29
-juin 2019 ; 
+c) Au plus tard 6 semaines après la fin du trimestre, pour les exercices trimestriels clos entre le 2 janvier 2018 et le 1er
+janvier 2019 ;
 
-d) Au plus tard 5 semaines après la fin du trimestre, pour les trimestres clos entre le 30 juin 2019 et le 1er janvier 2020. 
+d) Au plus tard 5 semaines après la fin du trimestre, pour les trimestres clos entre le 2 janvier 2019 et le 1er janvier
+2020.
 
 III.-A compter du 1er janvier 2020, les délais de transmission des informations mentionnées aux I et II sont prévus par
 l'article 312 du règlement délégué (UE) n° 2015/35 de la Commission du 10 octobre 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L355-1 (VD)
+  - Code des assurances - art. L355-1
 
 _Cité par_:
 
@@ -55162,44 +55137,44 @@ _Cite_:
 
 L'Autorité de contrôle prudentiel et de résolution peut autoriser les entreprises d'assurance ou de réassurance à ne pas
 publier une information dans leur rapport sur la solvabilité et la situation financière mentionné à l'article L. 355-5, dans
-les deux cas suivants : 
+les deux cas suivants :
 
-a) La publication de cette information conférerait aux concurrents de l'entreprise concernée un avantage indu important ; 
+a) La publication de cette information conférerait aux concurrents de l'entreprise concernée un avantage indu important ;
 
 b) L'entreprise est tenue au secret ou à la confidentialité en raison d'obligations l'engageant à l'égard d'assurés,
 souscripteurs ou bénéficiaires de contrats, d'entreprises réassurées ou de toute autre relation avec une contrepartie. Ces
 obligations ne sauraient toutefois avoir pour seule fin de soustraire l'entreprise à son obligation de publier les
-informations correspondantes dans son rapport sur la solvabilité et la situation financière. 
+informations correspondantes dans son rapport sur la solvabilité et la situation financière.
 
 La demande de non-publication doit être déposée auprès de l'Autorité de contrôle prudentiel et de résolution au moins cinq
-mois avant la fin de l'exercice sur lequel porte le rapport sur la solvabilité et la situation financière. Dans ce cas,
-l'Autorité statue avant la fin de l'exercice concerné. 
+mois avant la fin du premier exercice concerné sur lequel porte le rapport sur la solvabilité et la situation financière.
+Dans ce cas, l'Autorité statue avant la fin de l'exercice concerné.
 
 A titre exceptionnel, une demande peut être déposée après la date mentionnée à l'alinéa précédent et au moins deux mois avant
 la date de publication du rapport sur la solvabilité et la situation financière. Pour être recevable, cette demande doit
-motiver les raisons pour lesquelles elle n'a pas pu être remise avant cette date. 
+motiver les raisons pour lesquelles elle n'a pas pu être remise avant cette date.
 
 En tout état de cause, le dépôt d'une telle demande ne peut être invoqué par l'entreprise pour ne pas publier le rapport sur
-la solvabilité et la situation financière dans les délais prévus. 
+la solvabilité et la situation financière dans les délais prévus.
 
 Lorsque la non-publication d'une information est autorisée par l'Autorité de contrôle prudentiel et de résolution,
-l'entreprise concernée l'indique dans son rapport sur sa solvabilité et sa situation financière et en explique les raisons. 
+l'entreprise concernée l'indique dans son rapport sur sa solvabilité et sa situation financière et en explique les raisons.
 
-Les dispositions du présent article ne s'appliquent pas aux informations mentionnées au e de l'article R. 355-7. 
+Les dispositions du présent article ne s'appliquent pas aux informations mentionnées au e de l'article R. 355-7.
 
 Les conditions dans lesquelles l'autorisation mentionnée au premier alinéa cesse d'être valable sont définies à l'article 299
 du règlement délégué (UE) n° 2015/35 de la Commission du 10 octobre 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L355-5 (VD)
-  - Code des assurances - art. R355-7 (VD)
+  - Code des assurances - art. L355-5
+  - Code des assurances - art. R355-7
 
 _Cité par_:
 
@@ -55707,13 +55682,15 @@ _Cite_:
 
 L'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe veille à ce que les calculs permettant de
 vérifier le respect des exigences mentionnées aux 2° et 3° de l'article L. 356-15, soient réalisés au moins une fois par an
-par l'entreprise mentionnée au premier alinéa de l'article R. 356-8. Les données nécessaires à ces calculs et les résultats
-obtenus sont fournis à l'Autorité par cette entreprise. 
+par l'entreprise mentionnée au premier alinéa de l'article R. 356-8 ou par l'entreprise désignée conformément au 5° de
+l'article L. 356-15. Les données nécessaires à ces calculs et les résultats obtenus sont fournis à l'Autorité par cette
+entreprise.
 
-L'entreprise mentionnée au premier alinéa de l'article R. 356-8 surveille en permanence le montant du capital de solvabilité
-requis du groupe. Lorsque le profil de risque du groupe s'écarte significativement des hypothèses qui sous-tendaient le
-dernier capital de solvabilité requis transmis par le groupe, ce capital est recalculé sans délai et notifié à l'Autorité de
-contrôle prudentiel et de résolution en tant que contrôleur du groupe. 
+L'entreprise mentionnée au premier alinéa de l'article R. 356-8 ou par l'entreprise désignée conformément au 5° de l'article
+L. 356-15 surveille en permanence le montant du capital de solvabilité requis du groupe. Lorsque le profil de risque du
+groupe s'écarte significativement des hypothèses qui sous-tendaient le dernier capital de solvabilité requis transmis par le
+groupe, ce capital est recalculé sans délai et notifié à l'Autorité de contrôle prudentiel et de résolution en tant que
+contrôleur du groupe.
 
 Lorsque des éléments semblent indiquer que le profil de risque du groupe a changé significativement depuis la date de la
 dernière transmission du capital de solvabilité requis du groupe, l'Autorité de contrôle prudentiel et de résolution en tant
@@ -55721,13 +55698,13 @@ que contrôleur du groupe peut exiger que ce capital soit recalculé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L356-15 (VD)
+  - Code des assurances - art. L356-15
 
 _Cité par_:
 
@@ -55737,28 +55714,29 @@ _Cité par_:
 ###### Article R356-10
 
 Le calcul de la solvabilité au niveau du groupe d'entreprises d'assurance et de réassurance est effectué selon la première
-méthode mentionnée à l'article R. 356-19, fondée sur les données consolidées. 
+méthode mentionnée à l'article R. 356-19, fondée sur les données consolidées.
 
 Toutefois, l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur du groupe peut décider, après
 consultation des autres autorités de contrôle concernées et du groupe lui-même, d'appliquer à ce groupe la seconde méthode
 mentionnée à l'article R. 356-22, fondée sur la déduction et l'agrégation, ou une combinaison des première et seconde
-méthodes, si l'application exclusive de la première méthode est inappropriée. 
+méthodes, si l'application exclusive de la première méthode est inappropriée.
 
 Le choix de la méthode se fait en fonction des critères énoncés à l'article 328 du règlement délégué (UE) n° 2015/35 de la
-Commission du 10 octobre 2014. 
+Commission du 10 octobre 2014.
 
 Des régimes spécifiques sont prévus à l'article 329 du même règlement pour le calcul de la solvabilité au niveau du groupe de
-certaines entreprises liées. 
+certaines entreprises liées.
 
 Lorsqu'ils appartiennent à un groupe mentionné à l'article L. 356-2, les fonds de retraite professionnelle supplémentaire
 sont intégrés dans le calcul de la solvabilité au niveau du groupe selon les modalités prévues au e du 1 de l'article 335 et
-au c de l'article 336 du règlement précité.
+au c de l'article 336 du règlement précité. Les conditions de prise en compte des plus-values et moins-values latentes sont
+précisées par arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-1171 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -56095,8 +56073,8 @@ règlement.
 
 II.-Le capital de solvabilité requis au niveau du groupe sur la base de données consolidées est calculé selon la formule
 standard ou selon un modèle interne approuvé, en conformité avec les principes généraux énoncés respectivement aux articles
-L. 352-1, R. 352-2 à R. 352-12-1 pour la formule standard, et aux articles L. 352-1, R. 352-2 à R. 352-3 et R. 352-13 à R.
-352-25 pour un modèle interne. 
+L. 352-1, L. 352-2, R. 352-2 à R. 352-12-1 pour la formule standard, et aux articles L. 352-1, L. 352-2, R. 352-2 à R. 352-3
+et R. 352-13 à R. 352-25 pour un modèle interne. 
 
 Le capital de solvabilité requis du groupe sur une base consolidée est au moins égal à la somme du minimum de capital requis,
 mentionné à l'article R. 352-29, de l'entreprise d'assurance ou de réassurance participante dans le cas mentionné au deuxième
@@ -56137,25 +56115,26 @@ L'examen de la demande est effectué conformément aux articles 344 et 345 du m�
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L352-1 (VD)
-  - Code des assurances - art. L352-8 (VD)
-  - Code des assurances - art. L356-15 (VD)
-  - Code des assurances - art. R351-26 (VD)
-  - Code des assurances - art. R352-13 (VD)
-  - Code des assurances - art. R352-2 (VD)
-  - Code des assurances - art. R352-29 (VD)
-  - Code des assurances - art. R356-11 (VD)
-  - Code des assurances - art. R356-8 (VD)
+  - Code des assurances - art. L352-1
+  - Code des assurances - art. L352-2 (V)
+  - Code des assurances - art. L352-8
+  - Code des assurances - art. L356-15
+  - Code des assurances - art. R351-26
+  - Code des assurances - art. R352-13
+  - Code des assurances - art. R352-2
+  - Code des assurances - art. R352-29
+  - Code des assurances - art. R356-10 (VD)
+  - Code des assurances - art. R356-11
+  - Code des assurances - art. R356-8
 
 _Cité par_:
 
-  - Code des assurances - art. R356-10 (VD)
   - Code des assurances - art. R356-12 (VD)
   - Code des assurances - art. R356-21 (VD)
   - Code des assurances - art. R356-3 (VD)
@@ -56633,7 +56612,7 @@ _Cite_:
 
 ###### Article R356-25-2
 
-Lorsque l'Autorité de contrôle prudentiel et de résolution n'est pas contrôleur de groupe et lorsqu'elle et informée par une
+Lorsque l'Autorité de contrôle prudentiel et de résolution n'est pas contrôleur de groupe et lorsqu'elle est informée par une
 autorité de contrôle concernée d'un autre Etat membre d'une demande d'assujettissement d'une filiale ayant son siège social
 dans cet Etat membre aux règles énoncées aux articles R. 356-26 et R. 356-27, elle peut émettre des réserves au contrôleur de
 groupe, à défaut de décision conjointe prise avec les autres autorités de contrôle concernées au cours d'une période de trois
@@ -56643,13 +56622,13 @@ novembre 2010.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. R356-26 (VD)
+  - Code des assurances - art. R356-26
 
 
 ###### Article R356-26
@@ -57002,8 +56981,9 @@ _Cite_:
 
 ###### Article R356-29
 
-Les entreprises mentionnées au premier alinéa de l'article R. 356-8 communiquent au moins une fois par an à l'Autorité de
-contrôle prudentiel et de résolution toute concentration de risques importante au niveau du groupe. 
+Les entreprises mentionnées au premier alinéa de l'article R. 356-8 ou les entreprises désignées conformément au 5° de
+l'article L. 356-15 communiquent au moins une fois par an à l'Autorité de contrôle prudentiel et de résolution toute
+concentration de risques importante au niveau du groupe. 
 
 L'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe identifie, après avoir consulté les
 autres autorités concernées ainsi que le groupe, et en tenant compte du groupe concerné et de sa structure de gestion des
@@ -57011,8 +56991,8 @@ risques, le type de risque que les entreprises d'assurance et de réassurance du
 
 Pour identifier les concentrations de risques significatives à déclarer, l'Autorité de contrôle prudentiel et de résolution
 en tant que contrôleur de groupe, après avoir consulté les autres autorités concernées et l'entreprise mentionnée au premier
-alinéa de l'article R. 356-8, impose des seuils appropriés fondés sur le capital de solvabilité requis, sur les provisions
-techniques ou sur les deux. 
+alinéa de l'article R. 356-8 ou l'entreprise désignée conformément au 5° de l'article L. 356-15, impose des seuils appropriés
+fondés sur le capital de solvabilité requis, sur les provisions techniques ou sur les deux. 
 
 Lors du contrôle des concentrations de risques, l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de
 groupe veille particulièrement au risque possible de contagion dans le groupe, au risque de conflit d'intérêts et au niveau
@@ -57023,30 +57003,33 @@ La détermination des concentrations de risques importantes est précisée par l
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L356-15 (V)
+  - Code des assurances - art. R356-8
 
 _Cité par_:
 
   - Code des assurances - art. R356-30-1 (VD)
 
-_Cite_:
-
-  - Code des assurances - art. R356-8 (VD)
-
 
 ###### Article R356-30
 
-Les entreprises mentionnées au premier alinéa de l'article R. 356-8 communiquent au moins une fois par an à l'Autorité de
-contrôle prudentiel et de résolution toutes les transactions intragroupe significatives effectuées par les entreprises
-d'assurance et de réassurance du groupe, y compris celles effectuées avec une personne physique ayant des liens étroits avec
-une entreprise du groupe. Les transactions intragroupe très significatives sont déclarées sans délai. 
+Les entreprises mentionnées au premier alinéa de l'article R. 356-8 ou les entreprises désignées conformément au 5° de
+l'article L. 356-15 communiquent au moins une fois par an à l'Autorité de contrôle prudentiel et de résolution toutes les
+transactions intragroupe significatives effectuées par les entreprises d'assurance et de réassurance du groupe, y compris
+celles effectuées avec une personne physique ayant des liens étroits avec une entreprise du groupe. Les transactions
+intragroupe très significatives sont déclarées sans délai. 
 
 L'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe, identifie, après avoir consulté les
-autres autorités concernées ainsi que l'entreprise mentionnée au premier alinéa de l'article R. 356-8, et en tenant compte du
-groupe concerné et de sa structure de gestion des risques, le type de transactions intragroupe que les entreprises
-d'assurance et de réassurance du groupe déclarent en toutes circonstances. 
+autres autorités concernées ainsi que l'entreprise mentionnée au premier alinéa de l'article R. 356-8 ou l'entreprise
+désignée conformément au 5° de l'article L. 356-15, et en tenant compte du groupe concerné et de sa structure de gestion des
+risques, le type de transactions intragroupe que les entreprises d'assurance et de réassurance du groupe déclarent en toutes
+circonstances. 
 
 Pour identifier les transactions intragroupe significatives à déclarer, l'Autorité de contrôle prudentiel et de résolution en
 tant que contrôleur de groupe, après avoir consulté les autres autorités concernées et le groupe, impose des seuils
@@ -57061,18 +57044,19 @@ La détermination des transactions intragroupe significatives est précisée par
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L356-15 (V)
+  - Code des assurances - art. R356-8
 
 _Cité par_:
 
   - Code des assurances - art. R356-30-1 (VD)
   - Code des assurances - art. R356-31 (VD)
-
-_Cite_:
-
-  - Code des assurances - art. R356-8 (VD)
 
 
 ###### Article R356-30-1
@@ -57113,27 +57097,26 @@ _Cite_:
 Dans le cas mentionné au cinquième alinéa de l'article L. 356-2, l'Autorité de contrôle prudentiel et de résolution exerce un
 contrôle général des transactions entre les entreprises d'assurance ou de réassurance ayant pour entreprise mère une société
 de groupe mixte d'assurance et cette dernière et ses entreprises liées. Les dispositions des articles L. 356-9 et L. 356-10,
-L. 356-21, R. 356-1-3 à R. 356-1-6 et R. 356-30 ainsi que des articles L. 632-1-1 et L. 612-26 du code monétaire et financier
-sont applicables, dans la mesure où ils sont nécessaires à l'exercice de ce contrôle général.
-
-**Nota:**
-
-Au lieu de " R. 356-1-3 à R356-1-6 " il convient de lire " R. 356-3 à R. 356-5-2 " , au lieu de " L. 632-1-1 " il convient de
-lire " L. 632-1 ".
+L. 356-21, R. 356-3, R. 356-5 à R. 356-5-2 et R. 356-30 ainsi que des articles L. 632-1 et L. 612-26 du code monétaire et
+financier sont applicables, dans la mesure où ils sont nécessaires à l'exercice de ce contrôle général.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code monétaire et financier - art. L612-26 (VD)
-  - Code des assurances - art. L356-2 (VD)
-  - Code des assurances - art. L356-21 (VD)
-  - Code des assurances - art. L356-9 (VD)
+  - Code monétaire et financier - art. L612-26
+  - Code monétaire et financier - art. L632-1 (V)
+  - Code des assurances - art. L356-2
+  - Code des assurances - art. L356-21
+  - Code des assurances - art. L356-9
+  - Code des assurances - art. R356-3 (V)
   - Code des assurances - art. R356-30 (VD)
+  - Code des assurances - art. R356-5 (V)
+  - Code des assurances - art. R356-5-2 (V)
 
 
 ##### Section 4 : Système de gouvernance des groupes<a id=486></a>
@@ -57760,49 +57743,49 @@ _Cite_:
 I.-Jusqu'au 1er janvier 2020, les entreprises participantes et mères mentionnées respectivement aux deuxième et troisième
 alinéas de l'article L. 356-2 transmettent à l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de
 groupe le rapport sur la solvabilité et la situation financière, le rapport régulier au contrôleur et les états quantitatifs
-annuels mentionnés au II de l'article L. 356-21 selon le calendrier suivant : 
+annuels mentionnés au II de l'article L. 356-21 selon le calendrier suivant :
 
 a) Au plus tard 26 semaines après la clôture de l'exercice de l'entreprise, pour les exercices clos entre le 30 juin 2016 et
-le 1er janvier 2017 ; 
+le 1er janvier 2017 ;
 
 b) Au plus tard 24 semaines après la clôture de l'exercice de l'entreprise, pour les exercices clos entre le 2 janvier 2017
-et le 1er janvier 2018 ; 
+et le 1er janvier 2018 ;
 
 c) Au plus tard 22 semaines après la clôture de l'exercice de l'entreprise, pour les exercices clos entre le 2 janvier 2018
-et le 29 juin 2019 ; 
+et le 29 juin 2019 ;
 
 d) Au plus tard 20 semaines après la clôture de l'exercice de l'entreprise, pour les exercices clos entre le 30 juin 2019 et
-le 1er janvier 2020. 
+le 1er janvier 2020.
 
 II.-Jusqu'au 1er janvier 2020, les entreprises participantes ou mères mentionnées respectivement aux deuxième et troisième
 alinéas de l'article L. 356-2 transmettent à l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de
-groupe les états quantitatifs trimestriels mentionnés au II de l'article L. 356-21 selon le calendrier suivant : 
+groupe les états quantitatifs trimestriels mentionnés au II de l'article L. 356-21 selon le calendrier suivant :
 
 a) Au plus tard 14 semaines après la fin du trimestre, pour les exercices trimestriels clos entre le 1er janvier 2016 et le
-1er janvier 2017 ; 
+1er janvier 2017 ;
 
 b) Au plus tard 13 semaines après la fin du trimestre, pour les exercices trimestriels clos entre le 2 janvier 2017 et le 1er
-janvier 2018 ; 
+janvier 2018 ;
 
-c) Au plus tard 12 semaines après la fin du trimestre, pour les exercices trimestriels clos entre le 2 janvier 2018 et le 29
-juin 2019 ; 
+c) Au plus tard 12 semaines après la fin du trimestre, pour les exercices trimestriels clos entre le 2 janvier 2018 et le 1er
+janvier 2019 ;
 
-d) Au plus tard 11 semaines après la fin du trimestre, pour les trimestres clos entre le 30 juin 2019 et le 1er janvier
-2020. 
+d) Au plus tard 11 semaines après la fin du trimestre, pour les trimestres clos entre le 2 janvier 2019 et le 1er janvier
+2020.
 
 III.-A compter du 1er janvier 2020, les délais de transmission des informations mentionnées aux I et II sont prévus par
 l'article 373 du règlement délégué (UE) n° 2015/35 de la Commission du 10 octobre 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L356-2 (VD)
-  - Code des assurances - art. L356-21 (VD)
+  - Code des assurances - art. L356-2
+  - Code des assurances - art. L356-21
 
 
 ##### Section 6 : Informations à fournir au public par les groupes<a id=490></a>
@@ -57878,19 +57861,19 @@ L'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de
 participantes et mères mentionnées respectivement aux deuxième et troisième alinéas de l'article L. 356-2 à ne pas publier
 une information dans le rapport sur la solvabilité et la situation financière au niveau du groupe mentionné à l'article L.
 356-23, dans les conditions prévues à l'article R. 355-9. Les conditions dans lesquelles cette autorisation cesse d'être
-valable sont définies à l'article 363 du règlement délégué (UE) n° 2015/35 de la Commission du 10 octobre 2014.
+valable sont définies à l'article 361 du règlement délégué (UE) n° 2015/35 de la Commission du 10 octobre 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L356-2 (VD)
-  - Code des assurances - art. L356-23 (VD)
-  - Code des assurances - art. R355-9 (VD)
+  - Code des assurances - art. L356-2
+  - Code des assurances - art. L356-23
+  - Code des assurances - art. R355-9
 
 
 ###### Article R356-57-1
@@ -57990,29 +57973,29 @@ _Cite_:
 
 La demande, que peuvent présenter les entreprises participantes et mères mentionnées respectivement aux deuxième et troisième
 alinéas de l'article L. 356-2, en vue d'obtenir l'autorisation mentionnée à l'article L. 356-25 doit être déposée auprès de
-l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe au moins cinq mois avant la fin de
-l'exercice sur lequel doit porter le rapport sur la solvabilité et la situation financière unique au niveau du groupe.
-L'Autorité se prononce dans un délai de cinq mois, après avoir consulté les membres du collège des contrôleurs et en tenant
-compte de l'avis et des réserves exprimés par ces derniers. 
+l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe au moins cinq mois avant la fin du
+premier exercice concerné sur lequel porte le rapport sur la solvabilité et la situation financière unique au niveau du
+groupe. L'Autorité se prononce dans un délai de cinq mois, après avoir consulté les membres du collège des contrôleurs et en
+tenant compte de l'avis et des réserves exprimés par ces derniers.
 
 Toutefois, lorsqu'un rapport unique sur la solvabilité et la situation financière au niveau du groupe contient une omission
 substantielle au regard des exigences mentionnées à la section 2 du chapitre V du présent titre pour une entreprise soumise à
 son contrôle, l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe peut exiger que cette
-entreprise publie les informations complémentaires nécessaires. 
+entreprise publie les informations complémentaires nécessaires.
 
 Les dispositions relatives au rapport unique sur la solvabilité et la situation financière au niveau du groupe sont précisées
 aux articles 365 à 370 du règlement délégué (UE) n° 2015/35 de la Commission du 10 octobre 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 4
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L356-2 (VD)
-  - Code des assurances - art. L356-25 (VD)
+  - Code des assurances - art. L356-2
+  - Code des assurances - art. L356-25
 
 
 ##### Sous-section 2 : Dispositions transitoires<a id=492></a>
@@ -58509,14 +58492,15 @@ _Cite_:
 
 Lorsque, dans le cas d'une opération de transfert de portefeuille de contrats mentionnée à l'article L. 384-1, le ou les
 fonds de retraite professionnelle supplémentaire cessionnaires sont sous le contrôle exclusif ou conjoint des entreprises
-d'assurance cédantes, les actifs et passifs apportés dans le cadre de cette opération sont inscrits au bilan du ou des fonds
-cessionnaires sur la base de leur valeur comptable dans les bilans des entreprises cédantes.
+d'assurance mutuelles, unions ou institutions de prévoyance, mutuelles, unions ou institutions de prévoyance cédantes, les
+actifs et passifs apportés dans le cadre de cette opération sont inscrits au bilan du ou des fonds cessionnaires sur la base
+de leur valeur comptable dans les bilans des entreprises, mutuelles, unions ou institutions de prévoyance cédantes.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1171 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -58533,19 +58517,26 @@ _Cite_:
 
 I. – La marge de solvabilité mentionnée à l'article L. 385-2 est constituée, après déduction des pertes, de la part des frais
 d'acquisition reportés dépassant les 25 % du montant de la provision pour primes non acquises et des autres éléments
-incorporels, par les éléments suivants :
+incorporels, par les éléments suivants : 
 
 1° Le capital social versé ou le fonds d'établissement constitué. Toutefois, les actions de préférence définies à l'article
 L. 228-11 du code de commerce ne sont admises que si elles remplissent les conditions, fixées par arrêté du ministre chargé
 de l'économie, relatives notamment aux droits financiers attachés et aux versements correspondants, lesquels doivent pouvoir
-être suspendus et ne sont pas dans ce cas reportés à un exercice ultérieur ;
+être suspendus et ne sont pas dans ce cas reportés à un exercice ultérieur ; 
 
 2° Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
-de capitalisation ;
+de capitalisation ; 
 
-3° Le report du bénéfice, des excédents ou de la perte, déduction faite des dividendes à verser au titre du dernier exercice.
+3° Le report du bénéfice, des excédents ou de la perte, déduction faite des dividendes à verser au titre du dernier
+exercice ; 
 
-II. – La marge de solvabilité peut également être constituée par :
+4° Pour les mutuelles ou unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 du code de la
+mutualité ou les institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la
+sécurité sociale, le ou les emprunts pour fonds de développement. Toutefois, à partir de la moitié de la durée d'un emprunt,
+celui-ci n'est retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d'un montant
+constant égal au double du montant total de cet emprunt divisé par le nombre d'années de sa durée. 
+
+II. – La marge de solvabilité peut également être constituée par : 
 
 1° Les fonds effectivement versés provenant de l'émission de titres ou emprunts subordonnés, ainsi que d'actions de
 préférence définies à l'article L. 228-11 du code de commerce autres que celles à caractère non cumulatif mentionnées au 1°
@@ -58555,45 +58546,50 @@ l'exigence de marge de solvabilité ou de la marge de solvabilité, le montant l
 en compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 %
 de cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux sections 6 ou 7 du chapitre II du titre
 Ier du livre VI du code monétaire et financier, donner lieu à des mesures de police ou de sanction par l'Autorité de contrôle
-prudentiel et de résolution ;
+prudentiel et de résolution ; 
 
 2° La réserve pour fonds de garantie prévue à l'article R. 423-16, à hauteur de la part de cotisation versée par l'entreprise
-et non utilisée par le fonds ;
+et non utilisée par le fonds ; 
 
-3° Les réserves constituées en application de l'article L. 111-6.
+3° Les réserves constituées en application de l'article L. 111-6 et de l'article L. 431-1 du code de la mutualité, y compris
+la part de cotisation versée par la mutuelle de retraite professionnelle supplémentaire et non utilisée par le système
+fédéral de garantie ou le fonds de garantie mentionné au même article L. 431-1. 
 
 III. – Sur demande et justification du fonds de retraite professionnelle supplémentaire et avec l'accord de l'Autorité de
-contrôle prudentiel et de résolution, la marge de solvabilité peut également être constituée par :
+contrôle prudentiel et de résolution, la marge de solvabilité peut également être constituée par : 
 
 1° La moitié de la fraction non versée du capital ou de la part restant à rembourser de l'emprunt pour fonds d'établissement,
 dès que la partie versée atteint 25 % de ce capital ou de ce fonds, à concurrence de 50 % de la marge de solvabilité ou de
-l'exigence de marge de solvabilité, le montant le plus faible étant retenu ;
+l'exigence de marge de solvabilité, le montant le plus faible étant retenu ; 
 
 2° Les plus-values pouvant résulter de la sous-estimation d'éléments d'actif dans la mesure où de telles plus-values n'ont
-pas un caractère exceptionnel ;
+pas un caractère exceptionnel ; 
 
 3° Les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 332-45 et R. 332-46, dès lors
 que les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 332-2
-ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56 ;
+ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56 ; 
 
 Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés aux 2° et
-3° du présent III.
+3° du présent III. 
 
-IV. – La marge de solvabilité disponible est diminuée des éléments suivants :
+Les conditions de prise en compte des plus-values et moins-values latentes sont précisées par arrêté du ministre chargé de
+l'économie. 
 
-1° Les actions propres détenues directement par le fonds de retraite professionnelle supplémentaire ;
+IV. – La marge de solvabilité disponible est diminuée des éléments suivants : 
+
+1° Les actions propres détenues directement par le fonds de retraite professionnelle supplémentaire ; 
 
 2° Les participations que le fonds de retraite professionnelle supplémentaire détient dans un établissement de crédit, une
-société de financement, une entreprise d'investissement ou un établissement financier ;
+société de financement, une entreprise d'investissement ou un établissement financier ; 
 
 3° Les créances subordonnées que le fonds de retraite professionnelle supplémentaire détient sur les entreprises mentionnées
-au 2° dans lesquelles il détient une participation ;
+au 2° dans lesquelles il détient une participation ; 
 
 4° Les certificats mutualistes ou paritaires émis et détenus directement par le fonds de retraite professionnelle
-supplémentaire.
+supplémentaire. 
 
 Toutefois, les éléments mentionnés aux 2° et 3° peuvent ne pas être déduits lorsque les participations qui y sont mentionnées
-sont détenues de manière temporaire en vue d'apporter un soutien financier à ces entreprises.
+sont détenues de manière temporaire en vue d'apporter un soutien financier à ces entreprises. 
 
 V. – Lorsqu'elle estime que l'appréciation du report du bénéfice, de l'excédent ou de la perte mentionnée au 3° du I est
 susceptible d'être faussée par l'existence d'un contrat de réassurance financière limitée souscrit par le fonds de retraite
@@ -58604,26 +58600,29 @@ constaté.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1171 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
   - Code de commerce - art. L228-11
+  - Code de la sécurité sociale. - art. L942-1 (V)
   - Code des assurances - art. L111-6
   - Code des assurances - art. L385-2
   - Code des assurances - art. R*332-45
   - Code des assurances - art. R332-2
   - Code des assurances - art. R332-46
   - Code des assurances - art. R332-56
-  - Code des assurances - art. R423-16 (V)
+  - Code de la mutualité - art. L214-1 (V)
+  - Code de la mutualité - art. L431-1 (V)
 
 _Cité par_:
 
   - Code des assurances - art. A385-1 (V)
   - Code des assurances - art. A385-2 (V)
   - Code des assurances - art. R385-3 (V)
+  - Code des assurances - art. R423-16 (V)
 
 
 ##### Sous-section 2 : Exigence minimale de marge de solvabilité<a id=508></a>
@@ -58631,89 +58630,92 @@ _Cité par_:
 ###### Article R385-2
 
 I. – L'exigence minimale de marge de solvabilité est déterminée, en fonction de la nature et du type des prestations
-garanties proposées dans les contrats, en application des dispositions suivantes :
+garanties proposées dans les contrats, en application des dispositions suivantes : 
 
 1° Pour les garanties exprimées en euros, à l'exception des assurances ou garanties complémentaires en cas d'incapacité et
 d'invalidité, l'exigence minimale de marge de solvabilité est calculée par rapport aux provisions mentionnées aux 1° et 4° de
-l'article R. 343-3 et aux capitaux sous risque. Ce montant est égal à la somme des deux résultats suivants :
+l'article R. 343-3 et aux capitaux sous risque. Ce montant est égal à la somme des deux résultats suivants : 
 
 – le premier résultat est obtenu en multipliant un nombre représentant 4 % de la somme des provisions mentionnées aux 1° et
 4° de l'article R. 343-3, relatives aux opérations d'assurance directe sans déduction des cessions en réassurance et aux
 acceptations en réassurance, par le rapport existant, pour le dernier exercice, entre le montant des provisions mathématiques
 après cessions en réassurance et le montant des provisions mathématiques brut de réassurance, sans que ce rapport puisse être
-inférieur à 85 % ;
+inférieur à 85 % ; 
 
 – le second résultat est obtenu en multipliant un nombre représentant 0,3 % des capitaux sous risque par le rapport existant,
 pour le dernier exercice, entre le montant des capitaux sous risque après cession et rétrocession en réassurance et le
-montant des capitaux sous risque brut de réassurance sans que ce rapport puisse être inférieur à 50 %.
+montant des capitaux sous risque brut de réassurance sans que ce rapport puisse être inférieur à 50 %. 
 
 Pour les assurances temporaires en cas de décès d'une durée maximale de trois années, le facteur multiplicateur des capitaux
 sous risque est égal à 0,1 %. Il est fixé à 0,15 % de ces capitaux pour les assurances temporaires en cas de décès dont la
-durée est supérieure à trois années mais n'excède pas cinq années.
+durée est supérieure à trois années mais n'excède pas cinq années. 
 
-Le capital sous risque est égal au risque décès, déduction faite de la provision mathématique du risque principal ;
+Le capital sous risque est égal au risque décès, déduction faite de la provision mathématique du risque principal ; 
 
 2° Pour les assurances ou garanties complémentaires en cas d'incapacité et d'invalidité mentionnées à l'article L. 143-2,
 l'exigence minimale de marge de solvabilité est égale à l'exigence minimale de marge des entreprises d'assurance prévue par
-l'article R. 334-5 ;
+l'article R. 334-5 ; 
 
-3° Pour les garanties exprimées en unités de compte, l'exigence minimale de marge de solvabilité est égale :
+3° Pour les garanties exprimées en unités de compte, l'exigence minimale de marge de solvabilité est égale : 
 
 a) Lorsque le fonds de retraite professionnelle supplémentaire assume un risque de placement, à un nombre représentant 4 %
 des provisions techniques relatives aux opérations d'assurances directes et d'acceptations brutes de réassurance multiplié
-par le rapport mentionné au premier résultat défini au 1° ;
+par le rapport mentionné au premier résultat défini au 1° ; 
 
 b) Lorsque le fonds de retraite professionnelle supplémentaire n'assume pas de risque de placement, à un nombre représentant
 1 % des provisions techniques des contrats multiplié par le rapport mentionné au premier résultat défini au 1°, à la
 condition que le montant destiné à couvrir les frais de gestion prévus dans ces contrats soit fixé pour une période
-supérieure à cinq années ;
+supérieure à cinq années ; 
 
 c) Lorsque le fonds de retraite professionnelle supplémentaire n'assume pas de risque de placement et pour les contrats qui
 prévoient que les frais de gestion ne sont pas fixés pour une période supérieure à cinq ans, à un montant équivalent à 25 %
-des dépenses de gestion nettes relatives à ces opérations pour le dernier exercice ;
+des dépenses de gestion nettes relatives à ces opérations pour le dernier exercice ; 
 
 d) Lorsque le fonds de retraite professionnelle supplémentaire assume un risque de mortalité, au montant obtenu en ajoutant à
 l'un ou l'autre des résultats déterminés par application des a à c un nombre représentant 0,3 % des capitaux sous risque,
 multiplié par le rapport existant, pour le dernier exercice, entre le montant des capitaux sous risque après cessions et
 rétrocessions en réassurance et le montant des capitaux sous risque brut de réassurance, sans que ce rapport puisse être
-inférieur à 50 % ;
+inférieur à 50 % ; 
 
 4° Pour les garanties exprimées en parts de provision de diversification mentionnée au 9° de l'article R. 343-3, l'exigence
 minimale de marge de solvabilité est fixée à 1 % de la provision de diversification. Lorsque le contrat correspondant à cette
 provision prévoit que les frais de gestion ne sont pas fixés pour une période supérieure à cinq ans, l'exigence minimale de
 marge est fixée à un montant équivalant au produit de 25 % des dépenses de gestion nettes relatives à ces opérations pour le
 dernier exercice par la quote-part de la provision de diversification dans les provisions constituées au titre de la
-comptabilité auxiliaire d'affectation.
+comptabilité auxiliaire d'affectation. 
 
 Toutefois, lorsque le fonds de retraite professionnelle supplémentaire garantit une valeur minimale de provision de
 diversification, l'exigence minimale réglementaire relative à la part de la provision de diversification faisant l'objet de
-cette garantie est calculée dans les conditions définies au a du 3° ;
+cette garantie est calculée dans les conditions définies au a du 3° ; 
 
 5° Pour les garanties exprimées en unités de rente correspondant à des opérations régies par le chapitre Ier du titre IV du
-livre IV, l'exigence minimale de marge de solvabilité est égale, dans la limite de la provision mathématique théorique
-mentionnée à l'article R. 441-21, à un montant de 4 % de la somme de :
+livre IV du présent code, par le chapitre II du titre II du livre II du code de la mutualité et par la section 4 du chapitre
+II du titre III du livre IX du code de la sécurité sociale, l'exigence minimale de marge de solvabilité est égale, dans la
+limite de la provision mathématique théorique mentionnée à l'article R. 441-21 du présent code, à l'article R. 222-16 du code
+de la mutualité et à l'article R. 932-4-15 du code de la sécurité sociale, à un montant de 4 % de la somme de : 
 
 a) La provision technique spéciale calculée après cessions en réassurance, sans que le rapport entre la provision technique
-spéciale brute de réassurance et cette même provision nette de réassurance ne puisse être inférieur à 85 % ;
+spéciale brute de réassurance et cette même provision nette de réassurance ne puisse être inférieur à 85 % ; 
 
-b) Des plus-values ou moins-values latentes nettes sur les actifs affectés à la provision technique spéciale ;
+b) Des plus-values ou moins-values latentes nettes sur les actifs affectés à la provision technique spéciale ; 
 
-c) La provision technique spéciale complémentaire ;
+c) La provision technique spéciale complémentaire ; 
 
-d) Et de la provision technique spéciale de retournement.
+d) Et de la provision technique spéciale de retournement. 
 
 II. – Aux fins du calcul de l'exigence minimale de marge de solvabilité, les acceptations de risques provenant d'autres fonds
-de retraite professionnelle supplémentaire, conformément au troisième alinéa de l'article L. 381-1 sont traitées comme des
-affaires directes et les rétrocessions sont traitées comme des cessions en réassurance.
+de retraite professionnelle supplémentaire, de mutuelles ou unions de retraite professionnelle supplémentaire et
+d'institutions de retraite professionnelle supplémentaire, conformément au troisième alinéa de l'article L. 381-1, sont
+traitées comme des affaires directes et les rétrocessions sont traitées comme des cessions en réassurance. 
 
 Pour la prise en compte de la réassurance financière limitée dans le ratio de réassurance mentionné aux deuxième et troisième
 alinéas du 1° et au c du 3° du I, l'Autorité de contrôle prudentiel et de résolution se fonde sur le transfert de risque
-effectif.
+effectif. 
 
 III. – Sur demande et justification du fonds de retraite professionnelle supplémentaire et avec l'accord de l'Autorité de
 contrôle prudentiel et de résolution, les montants récupérables au titre des risques transférés à un véhicule de titrisation
 mentionnés à l'article L. 310-1-2 peuvent être assimilés à des cessions en réassurance pour le calcul du rapport mentionné
-aux deuxième et troisième alinéas du 1° et au c du 3° du I.
+aux deuxième et troisième alinéas du 1° et au c du 3° du I. 
 
 L'Autorité tient compte du transfert de risque effectif pour apprécier l'ampleur de la réduction d'exigence de marge de
 solvabilité autorisée au titre de chaque opération réalisée avec un véhicule de titrisation. Elle tient également compte de
@@ -58721,12 +58723,13 @@ la capacité de ce véhicule à respecter à tout moment ses engagements.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1171 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
+  - Code de la sécurité sociale. - art. R932-4-15 (V)
   - Code des assurances - art. L143-2
   - Code des assurances - art. L310-1-2
   - Code des assurances - art. L381-1
@@ -58966,8 +58969,9 @@ _Cite_:
 ###### Article R385-11
 
 Les provisions relatives aux risques transférés à un fonds de retraite professionnelle supplémentaire, à une entreprise
-d'assurance, à une entreprise de réassurance peuvent être représentées sans condition par une créance sur ce fonds ou cette
-entreprise.
+d'assurance, à une entreprise de réassurance, à une mutuelle ou union régie par le livre II du code de la mutualité ou à une
+institution de prévoyance ou union régie par le titre III du livre IX du code de la sécurité sociale peuvent être
+représentées sans condition par une créance sur ce fonds, cette entreprise, cette mutuelle ou union ou cette institution.
 
 Par dérogation au premier alinéa, les provisions techniques relatives aux risques transférés par un fonds de retraite
 professionnelle supplémentaire à une entreprise d'assurance ou de réassurance ayant son siège dans un Etat qui n'est pas
@@ -58978,9 +58982,9 @@ concurrence du montant garanti conformément à l'article R. 332-17.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1171 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -59369,20 +59373,24 @@ _Cité par_:
 ###### Article R385-24
 
 Lorsque l'Autorité de contrôle prudentiel et de résolution suspend, restreint ou interdit temporairement la libre disposition
-de tout ou partie des actifs d'un fonds de retraite professionnelle supplémentaire en application de l'article L. 612-33 du
-code monétaire et financier, elle peut en outre faire inscrire sur les immeubles de ce fonds l'hypothèque mentionnée à
-l'article L. 327-3 du présent code.
+de tout ou partie des actifs d'un fonds de retraite professionnelle supplémentaire, d'une mutuelle ou union de retraite
+professionnelle supplémentaire ou d'une institution de retraite professionnelle supplémentaire en application de l'article L.
+612-33 du code monétaire et financier, elle peut en outre faire inscrire sur les immeubles de ce fonds, cette mutuelle ou
+union ou cette institution l'hypothèque mentionnée à l'article L. 327-3 du présent code, à l'article L. 212-24 du code de la
+mutualité et à l'article L. 931-23 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1171 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code monétaire et financier - art. L612-33 (VT)
-  - Code des assurances - art. L327-3 (V)
+  - Code monétaire et financier - art. L612-33
+  - Code de la sécurité sociale. - art. L931-23 (V)
+  - Code des assurances - art. L327-3
+  - Code de la mutualité - art. L212-24 (V)
 
 
 ###### Article R385-25
@@ -65153,33 +65161,32 @@ _Cite_:
 
 ###### Article R441-7
 
-Les provisions techniques des opérations prévues à l'article L. 441-1 sont les suivantes : 
+Les provisions techniques des opérations prévues à l'article L. 441-1 sont les suivantes :
 
 1° La provision technique spéciale, sur laquelle sont prélevées les prestations servies et les chargements de gestion, dans
 les limites prévues par la convention, et à laquelle sont affectées les cotisations versées, nettes des chargements inclus
 dans les cotisations et de taxes, ainsi que la totalité des produits et charges financiers générés par les actifs affectés à
-la provision technique spéciale, y compris les produits correspondant aux éventuels avoirs fiscaux et autres crédits d'impôts
-attachés à la détention de ces mêmes titres et placements et le solde des produits et charges financiers reçus des
-réassureurs au titre de la revalorisation de la part de provision technique spéciale cédée. Cette provision est capitalisée à
-un taux nul ; 
+la provision technique spéciale, y compris les produits correspondant aux éventuels crédits d'impôts attachés à la détention
+de ces mêmes titres et placements et le solde des produits et charges financiers reçus des réassureurs au titre de la
+revalorisation de la part de provision technique spéciale cédée. Cette provision est capitalisée à un taux nul ;
 
 2° La provision technique spéciale complémentaire, à laquelle sont affectés les actifs mentionnés au dernier alinéa de
 l'article R. 441-21 et sur laquelle sont prélevées les prestations servies, dans le cas où les prélèvements sur la provision
-technique spéciale ne permettraient pas de payer ces prestations ; 
+technique spéciale ne permettraient pas de payer ces prestations ;
 
 3° La provision technique spéciale de retournement, à laquelle peuvent être affectés, dans les conditions prévues au III de
 l'article R. 441-7-1, des actifs précédemment affectés à la provision technique spéciale complémentaire et sur laquelle sont
 prélevées les prestations servies, dans le cas où les prélèvements sur la provision technique spéciale et la provision
-technique spéciale complémentaire ne permettraient pas de payer ces prestations. 
+technique spéciale complémentaire ne permettraient pas de payer ces prestations.
 
 Les engagements mentionnés aux 1° à 3° sont à toute époque représentés par les actifs qui font l'objet d'une comptabilité
-auxiliaire d'affectation telle que prévue à l'article L. 441-8, selon les conditions prévues : 
+auxiliaire d'affectation telle que prévue à l'article L. 441-8, selon les conditions prévues :
 
-a) Au chapitre III du titre V du livre III pour les entreprises mentionnées à l'article L. 310-3-1 ; 
+a) Au chapitre III du titre V du livre III pour les entreprises mentionnées à l'article L. 310-3-1 ;
 
 b) Au chapitre II du titre III du même livre pour les entreprises mentionnées à l'article L. 310-3-2. Les articles R. 332-3
 et R. 332-3-1 s'appliquent séparément à chaque portefeuille de titres et de placements qui fait l'objet d'une comptabilité
-auxiliaire d'affectation telle que prévue à l'article L. 441-8 ; 
+auxiliaire d'affectation telle que prévue à l'article L. 441-8 ;
 
 c) A la section 3 du chapitre V du titre VIII du même livre pour les fonds de retraite professionnelle supplémentaire. Les
 articles R. 385-6 à R. 385-8 s'appliquent séparément à chaque portefeuille de titres et de placements qui fait l'objet d'une
@@ -65208,9 +65215,9 @@ _Cité par_:
   - Code des assurances - art. R*441-5 (M)
   - Code des assurances - art. R334-13 (M)
   - Code des assurances - art. R343-1 (VD)
-  - Code des assurances - art. R441-12 (V)
+  - Code des assurances - art. R441-12 (VD)
   - Code des assurances - art. R441-2-2 (V)
-  - Code des assurances - art. R441-28 (VD)
+  - Code des assurances - art. R441-28 (V)
   - Code des assurances - art. R441-7-1 (V)
   - Code des assurances - art. R441-7-3 (VD)
   - Code des assurances - art. R441-7-4 (V)
@@ -65218,7 +65225,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -65280,10 +65287,10 @@ variation de la provision mathématique théorique résultant de cette hausse, d
 provision technique spéciale de retournement. 
 
 V. – Les changements d'affectation d'actifs prévus au I, au dernier alinéa du III et au IV n'emportent pas affectation à la
-convention du produit des droits attachés à ces actifs, y compris les produits correspondant aux éventuels avoirs fiscaux et
-autres crédits d'impôts attachés à la détention de ces mêmes actifs. Les produits et charges financiers générés par les
-actifs ainsi affectés à la provision technique spéciale complémentaire ou à la provision technique spéciale de retournement
-sont enregistrés, au gré de leur constatation comptable, dans le compte de résultat de l'entreprise d'assurance. 
+convention du produit des droits attachés à ces actifs, y compris les produits correspondant aux éventuels crédits d'impôts
+attachés à la détention de ces mêmes actifs. Les produits et charges financiers générés par les actifs ainsi affectés à la
+provision technique spéciale complémentaire ou à la provision technique spéciale de retournement sont enregistrés, au gré de
+leur constatation comptable, dans le compte de résultat de l'entreprise d'assurance. 
 
 Les actifs ainsi affectés à la provision technique spéciale complémentaire ou à la provision technique spéciale de
 retournement sont inscrits au bilan mentionné à l'article R. 441-12 pour leur valeur de réalisation, déterminée conformément
@@ -65302,16 +65309,11 @@ VII. – Les actifs réaffectés à la représentation de réserves ou de provis
 concernée en application des IV et VI sont inscrits au bilan de l'entreprise d'assurance pour leur valeur nette comptable,
 déterminée conformément aux articles R. 343-9 et R. 343-10.
 
-**Nota:**
-
-Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
-vigueur le 1er septembre 2017.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -65323,7 +65325,7 @@ _Cite_:
 _Cité par_:
 
   - Code des assurances - art. R441-12 (V)
-  - Code des assurances - art. R441-21 (VD)
+  - Code des assurances - art. R441-21 (V)
   - Code des assurances - art. R441-7 (VD)
   - Code des assurances - art. R441-7-4 (VD)
 
@@ -65332,24 +65334,19 @@ _Cité par_:
 
 Les actifs représentatifs des engagements relatifs à plusieurs conventions, lorsqu'ils ne font pas l'objet d'un
 enregistrement comptable distinct pour chacune de ces conventions, sont, notamment pour chaque arrêté des comptes mentionnés
-à l'article R. 411-12, réputés répartis uniformément entre ces mêmes conventions au prorata, évalué à la même date, des
+à l'article R. 441-12, réputés répartis uniformément entre ces mêmes conventions au prorata, évalué à la même date, des
 provisions techniques mentionnées aux 1° à 3° de l'article R. 441-7.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
-vigueur le 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. R*411-12
-  - Code des assurances - art. R*441-7
+  - Code des assurances - art. R441-12 (V)
+  - Code des assurances - art. R441-7
 
 
 ###### Article R441-7-4
@@ -65434,21 +65431,21 @@ Pour chaque convention relevant de l'article L. 441-1, il est tenu une comptabil
 pour chaque convention, un compte de résultat d'affectation et un compte de bilan d'affectation, où sont inscrits les actifs
 représentatifs des engagements de la convention et les provisions techniques mentionnées aux 1°, 2° et 3° de l'article R.
 441-7, ainsi qu'un tableau des engagements reçus et donnés, une annexe comportant un inventaire des actifs représentatifs des
-engagements de la convention et un état récapitulatif des opérations mentionnées aux articles R. 441-7-1 et R. 441-7-2. Ces
-documents sont arrêtés par l'entreprise d'assurance à chaque fin d'exercice. Ils précisent que les informations qu'ils
-contiennent ont été ou non certifiées par les commissaires aux comptes de l'entreprise d'assurance. Ils sont tenus à la
-disposition des bénéficiaires qui en font la demande.
+engagements de la convention et un état récapitulatif des opérations mentionnées aux articles R. 441-7-1. Ces documents sont
+arrêtés par l'entreprise d'assurance à chaque fin d'exercice. Ils précisent que les informations qu'ils contiennent ont été
+ou non certifiées par les commissaires aux comptes de l'entreprise d'assurance. Ils sont tenus à la disposition des
+bénéficiaires qui en font la demande.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-571 du 14 juin 2004 - art. 5 () JORF 20 juin 2004
+  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L441-1 (V)
-  - Code des assurances - art. R441-7 (V)
+  - Code des assurances - art. L441-1
+  - Code des assurances - art. R441-7 (VD)
 
 _Cité par_:
 
