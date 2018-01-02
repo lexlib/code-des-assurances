@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-01-03
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -34494,20 +34494,25 @@ attachés aux titres détenus pour la représentation des engagements de ce plan
 adhérents, que ces droits soient en cours de constitution ou en cours de service.
 
 II. ― Lorsque l'entreprise d'assurance délègue directement ou indirectement la gestion financière d'une part supérieure à 5 %
-des actifs détenus en représentation des engagements relatifs à ce plan à une entreprise d'investissement, y compris sous la
-forme d'un organisme de placement collectif, l'entreprise d'assurance en informe le comité de surveillance et lui transmet
-une copie du mandat de gestion ou du règlement ou des statuts de l'organisme de placement collectif correspondant.
+des actifs détenus en représentation des engagements relatifs à ce plan à une entreprise d'investissement ou à une société de
+gestion de portefeuille, l'entreprise d'assurance en informe le comité de surveillance et lui transmet une copie du mandat de
+gestion ou du règlement ou des statuts de l'organisme de placement collectif correspondant.
 
 III. ― Ce mandat de gestion ou ce règlement, ces statuts ou tout autre convention ou contrat conclu entre l'entreprise
 d'assurance et le gestionnaire délégué prévoient que ce dernier accepte de se soumettre aux contrôles et aux expertises sur
 pièces et sur place diligentées par le comité de surveillance du plan, et que les dirigeants et les commissaires aux comptes
 du gestionnaire délégué sont tenus de répondre à toute demande de renseignement formulée par ce même comité.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3
+janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1635 du 23 novembre 2011 - art. 1
+  - Décret n°2017-1253 du 9 août 2017 - art. 10
 
 
 ###### Article R144-23
@@ -39687,7 +39692,7 @@ janvier 2018.
 
 _Modifié par_:
 
-  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
+  - Décret n°2017-1253 du 9 août 2017 - art. 10
 
 _Cite_:
 
@@ -39740,7 +39745,7 @@ européenne ;
 
 2° Le candidat acquéreur est une personne physique ou morale de l'Union européenne qui n'est pas soumise à la réglementation
 européenne relative aux entreprises d'assurance, de réassurance, aux établissements de crédit, aux sociétés de gestion de
-portefeuille ou aux autres entreprises d'investissement.
+portefeuille ou aux entreprises d'investissement.
 
 L'Autorité peut demander des informations complémentaires ou des clarifications. Ces demandes ne peuvent toutefois donner
 lieu à une nouvelle prolongation de la période d'évaluation.
@@ -39773,8 +39778,8 @@ information essentielle ou pertinente en vue de l'évaluation prévue au I, lors
 remplie :
 
 1° Le candidat acquéreur est une entreprise d'assurance ou de réassurance, un établissement de crédit, une société de gestion
-de portefeuille ou une autre entreprise d'investissement agréés dans un Etat membre de l'Union européenne ou agréés dans un
-secteur financier autre que celui dans lequel l'acquisition est envisagée ;
+de portefeuille ou une entreprise d'investissement agréés dans un Etat membre de l'Union européenne ou agréés dans un secteur
+financier autre que celui dans lequel l'acquisition est envisagée ;
 
 2° Le candidat acquéreur est l'entreprise mère d'une entité visée au 1° ;
 
@@ -39791,6 +39796,11 @@ Dans le cas où l'Autorité décide de ne pas autoriser l'opération envisagée,
 acquéreur, au plus tard dans un délai de deux jours ouvrés avant la fin de la période d'évaluation, en indiquant les motifs
 de cette décision. L'Autorité doit rendre publics les motifs de cette décision, à la demande du candidat acquéreur.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3
+janvier 2018.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -39802,12 +39812,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1765 du 26 décembre 2017 - art. 1
+  - Décret n°2017-1253 du 9 août 2017 - art. 10
 
 _Cite_:
 
   - Code des assurances - art. L321-1
   - Code des assurances - art. L321-10
+  - Code des assurances - art. R322-11-1 (VD)
 
 
 ###### Article R322-11-3
@@ -47171,30 +47182,30 @@ _Modifié par_:
 ###### Article R332-14-2
 
 I.-Les organismes de titrisation mentionnés au 2° quater de l'article R. 332-2 et les fonds professionnels spécialisés
-mentionnés au 7° quinquies de l'article R. 332-2 sont des fonds de prêts à l'économie. 
+mentionnés au 7° quinquies de l'article R. 332-2 sont des fonds de prêts à l'économie.
 
 II.-L'actif des fonds de prêts à l'économie est composé, à l'exclusion de tout autre élément : 
 
 1° De créances sur des Etats membres de l'Union européenne, de titres de créances émis par des Etats membres de l'Union
-européenne, ou de créances ou de titres de créances garanties par des Etats membres de l'Union européenne ; 
+européenne, ou de créances ou de titres de créances garanties par des Etats membres de l'Union européenne ;
 
 1° bis De créances sur, ou de titres de créances émis par, des collectivités publiques territoriales ou des établissements
-publics des Etats membres de l'Union européenne ; 
+publics des Etats membres de l'Union européenne ;
 
 1° ter De créances sur, ou de titres de créances émis par, des entreprises individuelles disposant d'un numéro SIREN ou des
 personnes morales de droit privé des Etats membres de l'Union européenne, exerçant à titre principal une activité
 commerciale, industrielle, agricole, artisanale ou immobilière, à l'exclusion des activités financières et des organismes de
-placements collectifs autres que les organismes de placement collectif immobilier ; 
+placements collectifs autres que les organismes de placement collectif immobilier ;
 
 1° quater De créances sur, ou de titres de créances émis par, des personnes morales de droit privé des Etats membres de
 l'Union européenne ayant pour objet exclusivement, ou selon les cas, principalement en plus en plus (1) de la réalisation
 d'une activité commerciale, industrielle, agricole, artisanale ou immobilière, à l'exclusion des activités financières, de
 détenir directement ou indirectement une ou plusieurs participations dans le capital de personnes morales mentionnées au 1°
 ter, ou de financer, au bénéfice d'une personne mentionnée au 1°, 1° bis ou au 1° ter l'exportation, l'acquisition ou
-l'exploitation de biens d'équipements ou d'infrastructures ; 
+l'exploitation de biens d'équipements ou d'infrastructures ;
 
 1° quinquies De droits constitutifs du bénéfice d'une fiducie dont l'actif est exclusivement composé de créances mentionnées
-au 1°, 1° bis ou au 1° ter. 
+au 1°, 1° bis ou au 1° ter.
 
 Les droits, créances ou titres de créances mentionnées aux 1°, 1° bis, 1° ter, 1° quater et 1° quinquies ont une maturité
 résiduelle déterminée, d'au moins deux ans, n'excédant pas la maturité des parts, actions et obligations émises par le fonds,
@@ -47202,34 +47213,34 @@ la société ou le compartiment considéré selon le cas, et sont acquises dans 
 initiale, dans le cas d'une société de titrisation, des actions de la société ou, lorsque cette dernière est à compartiments,
 des actions émises au titre du compartiment considéré ou, le cas échéant, des obligations émises par la société ou ce
 compartiment ou, dans le cas d'un fonds commun de titrisation, des parts de copropriété du fonds ou du compartiment ou, le
-cas échéant, des obligations émises par le fonds ou le compartiment considéré ; 
+cas échéant, des obligations émises par le fonds ou le compartiment considéré ;
 
 2° De sommes momentanément disponibles et en instance d'affectation ou des sommes ou valeurs conservées à titre de réserve ou
-de garantie ; 
+de garantie ;
 
 3° D'actifs qui lui sont transférés au titre de la réalisation ou de la constitution des sûretés, garanties et accessoires
 attachés aux créances ou titres de créances admissibles y compris des titres de capital dans les conditions visées à
-l'article L. 214-169 du code monétaire et financier ; 
+l'article L. 214-169 du code monétaire et financier ;
 
 4° D'actifs qui lui sont transférés au titre des engagements qu'il prend au travers de contrats financiers mentionnés au III
-du présent article. 
+du présent article.
 
 III.-Les fonds de prêts à l'économie ne peuvent conclure des contrats financiers que s'ils ont pour unique objet la
 couverture du risque de variation ou de volatilité de taux d'intérêt ou de change, ou la gestion de la différence de l'écart
 de périodicité entre les flux engendrés, d'une part, par les titres et créances détenus et, d'autre part, par les obligations
-et parts émises. 
+et parts émises.
 
-IV.-L'actif d'un fonds de prêts à l'économie est géré par une société de gestion relevant de l'article L. 532-9 du code
-monétaire et financier. Une personne morale répondant aux conditions mentionnées au II de l'article L. 214-183 du code
-monétaire et financier est désignée dépositaire de la trésorerie et des créances du fonds. 
+IV.-L'actif d'un fonds de prêts à l'économie est géré par une société de gestion de portefeuille relevant de l'article L.
+532-9 du code monétaire et financier. Une personne morale répondant aux conditions mentionnées au II de l'article L. 214-183
+du code monétaire et financier est désignée dépositaire de la trésorerie et des créances du fonds.
 
 V.-Le passif d'un fonds de prêts à l'économie peut être composé d'obligations, de parts ou d'actions, émises en euros, dès
 lors que, économiquement, le risque de crédit associé à la détention de ces titres n'est pas subdivisé en tranches. Un arrêté
 du ministre chargé de l'économie précise les structures de passif garantissant une allocation des pertes équitables entre les
-détenteurs de parts et d'obligations pendant la durée du fonds. 
+détenteurs de parts et d'obligations pendant la durée du fonds.
 
 VI.-Le fonds de prêts à l'économie ne peut, en dehors des obligations qu'il a émises, recourir à l'emprunt ni effectuer en
-qualité de cédant, d'opérations de cession temporaire d'instruments financiers. 
+qualité de cédant, d'opérations de cession temporaire d'instruments financiers.
 
 VII.-La société chargée de la gestion du fonds transmet annuellement à l'entreprise d'assurance qui a souscrit les
 obligations, parts ou actions, avant la clôture annuelle de son exercice comptable, un rapport sur la gestion du fonds et sur
@@ -47237,7 +47248,7 @@ le suivi du risque de crédit de l'ensemble et de chacun des actifs sous-jacents
 par l'entreprise d'assurance pour déterminer s'il y a lieu de considérer que le fonds de prêts à l'économie ne sera pas en
 mesure de respecter ses engagements, soit pour le paiement des intérêts, soit pour le remboursement du principal. La société
 chargée de la gestion du fonds s'assure que les stipulations des contrats permettent de disposer des informations suffisantes
-à l'établissement de ce rapport. 
+à l'établissement de ce rapport.
 
 VIII.-La valeur de réalisation des obligations, parts et actions émises par le fonds de prêts à l'économie font l'objet d'une
 détermination trimestrielle par la société chargée de la gestion du fonds, selon la méthodologie décrite dans le règlement du
@@ -47248,18 +47259,20 @@ chargée de la gestion, ni avec l'entreprise d'assurance.
 
 (1) Au lieu de "en plus en plus" lire "en plus".
 
+Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3
+janvier 2018.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-1530 du 17 décembre 2014 - art. 3
+  - Décret n°2017-1253 du 9 août 2017 - art. 10
 
 _Cité par_:
 
   - Code de la mutualité - art. R212-31 (V)
   - Code de la mutualité - art. R212-47-1 (V)
   - Code de la sécurité sociale. - art. R931-10-21 (V)
-  - Code de la sécurité sociale. - art. R931-10-35-2 (V)
   - Code des assurances - art. A332-3 (V)
   - Code des assurances - art. A332-4 (V)
   - Code des assurances - art. R332-2 (V)
@@ -48053,28 +48066,28 @@ _Cite_:
 
 I.-La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, après déduction des pertes, de la part des frais
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
-suivants : 
+suivants :
 
 1. Le capital social versé ou le fonds d'établissement constitué ; toutefois, les actions de préférence définies à l'article
 L. 228-11 du code de commerce ne sont admises que si elles remplissent les conditions fixées par arrêté du ministre chargé de
 l'économie relatives notamment aux droits financiers attachés et aux versements correspondants, lesquels doivent pouvoir être
-suspendus et ne sont pas dans ce cas reportés à un exercice ultérieur ; 
+suspendus et ne sont pas dans ce cas reportés à un exercice ultérieur ;
 
-2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements ; 
+2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements ;
 
 3. Le report du bénéfice, des excédents ou de la perte, déduction faite des dividendes à verser au titre du dernier
-exercice ; 
+exercice ;
 
 4. L'emprunt ou les emprunts pour fonds social complémentaire ou pour fonds de développement ; toutefois, à partir de la
 moitié de la durée d'un emprunt, celui-ci n'est retenu dans la marge de solvabilité que pour sa valeur progressivement
 réduite chaque année d'un montant constant égal au double du montant total de cet emprunt divisé par le nombre d'années de sa
-durée. 
+durée.
 
-II.-La marge de solvabilité peut également être constituée par : 
+II.-La marge de solvabilité peut également être constituée par :
 
 1. Les fonds effectivement encaissés provenant de l'émission de titres ou emprunts subordonnés, ainsi que d'actions de
 préférence définies à l'article L. 228-11 du code de commerce autres que celles à caractère non cumulatif mentionnées au 1 du
-I ; 
+I ;
 
 Ces titres et emprunts subordonnés et actions de préférence doivent répondre aux conditions, notamment de durée et de
 remboursements, qui sont fixées par arrêté du ministre chargé de l'économie. Ces fonds sont admis jusqu'à concurrence de 50 %
@@ -48082,61 +48095,66 @@ de l'exigence de marge de solvabilité ou de la marge de solvabilité, le montan
 prise en compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à concurrence
 de 25 % de cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux dispositions de la section 6 ou de
 la section 7 du chapitre II du titre Ier du livre VI du code monétaire et financier, donner lieu à des mesures de police ou
-de sanction par l'Autorité de contrôle prudentiel et de résolution ; 
+de sanction par l'Autorité de contrôle prudentiel et de résolution ;
 
 2. La réserve pour fonds de garantie prévue à l'article R. 423-16, à hauteur de la part de cotisation versée par l'entreprise
-et non utilisée par le fonds. 
+et non utilisée par le fonds.
 
 3. Les réserves constituées en application des articles L. 111-6 et L. 431-1 du code de la mutualité, y compris la part de
 cotisation versée par la mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie
-mentionné à l'article L. 431-1 du code de la mutualité. 
+mentionné à l'article L. 431-1 du code de la mutualité.
 
 III.-Sur demande et justification de l'entreprise et avec l'accord de l'Autorité de contrôle, la marge de solvabilité peut
-également être constituée par : 
+également être constituée par :
 
 1. La moitié de la fraction non versée du capital social ou de la part restant à rembourser de l'emprunt pour le fonds
 d'établissement, dès que la partie versée atteint 25 % de ce capital ou de ce fonds, à concurrence, pour les entreprises
 d'assurance régies par le présent code, de 50 % de la marge de solvabilité ou de l'exigence minimale de marge de solvabilité,
 le montant le plus faible étant retenu, et, pour les mutuelles et unions régies par le livre II du code de la mutualité et
 les institutions de prévoyance et unions régies par le titre 3 du livre 9 du code de la sécurité sociale, de la moitié de la
-part restant à rembourser de l'emprunt pour fonds d'établissement ; 
+part restant à rembourser de l'emprunt pour fonds d'établissement ;
 
 2. Les rappels de cotisations que les sociétés d'assurance mutuelle ou les mutuelles et unions régies par le livre II du code
 de la mutualité à cotisations variables peuvent exiger de leurs sociétaires ou de leurs membres participants et honoraires au
 titre de l'exercice, à concurrence de la moitié de la différence entre les cotisations maximales et les cotisations
 effectivement appelées, dans la limite de 50 % de la marge de solvabilité ou de l'exigence minimale de marge, le montant le
-plus faible étant retenu ; 
+plus faible étant retenu ;
 
 3. Les plus-values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'éléments de passif,
-dans la mesure où de telles plus-values n'ont pas un caractère exceptionnel ; 
+dans la mesure où de telles plus-values n'ont pas un caractère exceptionnel ;
 
 4. Les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 332-45 et R. 332-46 lorsque les
 opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 332-2 ou
-réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56. 
+réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56.
 
 Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 3 et au
-4 du III. 
+4 du III.
 
-IV.-La marge de solvabilité est diminuée des éléments suivants : 
+IV.-La marge de solvabilité est diminuée des éléments suivants :
 
-a) Les actions propres détenues directement par l'entreprise d'assurance ; 
+a) Les actions propres détenues directement par l'entreprise d'assurance ;
 
 b) Les participations que l'entreprise d'assurance détient dans un établissement de crédit, une société de financement, une
-entreprise d'investissement ou un établissement financier ; 
+entreprise d'investissement, une société de gestion de portefeuille ou un établissement financier ;
 
 c) Les créances subordonnées que l'entreprise d'assurance détient sur les entreprises mentionnées au b dans lesquelles elle
-détient une participation ; 
+détient une participation ;
 
-d) Les certificats mutualistes ou paritaires émis et détenus directement par l'entreprise d'assurance. 
+d) Les certificats mutualistes ou paritaires émis et détenus directement par l'entreprise d'assurance.
 
 Toutefois, les éléments mentionnés au b et c peuvent ne pas être déduits lorsque les participations mentionnées à ces alinéas
-sont détenues de manière temporaire en vue d'apporter un soutien financier à ces entreprises. 
+sont détenues de manière temporaire en vue d'apporter un soutien financier à ces entreprises.
 
 V.-Lorsqu'elle estime que l'appréciation du report du bénéfice, de l'excédent ou de la perte mentionnée au 3 du I est
 susceptible d'être faussée par l'existence d'un contrat de réassurance financière limitée souscrit par l'entreprise,
 l'Autorité de contrôle peut limiter la prise en compte de ce report, en vue d'y intégrer les charges futures attendues au
 titre de ce contrat. Le cas échéant, le montant de la marge de solvabilité est ajusté au terme du contrat de réassurance
 financière limitée, en fonction du report cumulé effectivement constaté.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3
+janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -48165,7 +48183,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 8
+  - Décret n°2017-1253 du 9 août 2017 - art. 10
 
 _Cite_:
 
@@ -48174,8 +48192,8 @@ _Cite_:
   - Code des assurances - art. R*332-45
   - Code des assurances - art. R332-2
   - Code des assurances - art. R332-56
-  - Code de la mutualité - art. L111-6 (V)
-  - Code de la mutualité - art. L431-1 (V)
+  - Code de la mutualité - art. L111-6
+  - Code de la mutualité - art. L431-1
 
 
 ##### Paragraphe 2 : Exigence minimale de marge de solvabilité<a id=423></a>
@@ -48459,26 +48477,26 @@ _Cite_:
 
 I.-La marge de solvabilité mentionnée à l'article L. 334-1 est constituée, après déduction des pertes, de la part des frais
 d'acquisition non admise en représentation des engagements réglementés et des autres éléments incorporels, par les éléments
-suivants : 
+suivants :
 
 1. Le capital social versé ou le fonds d'établissement constitué ; toutefois, les actions de préférence définies à l'article
 L. 228-11 du code de commerce ne sont admises que si elles remplissent les conditions fixées par arrêté du ministre chargé de
 l'économie relatives notamment aux droits financiers attachés et aux versements correspondants, lesquels doivent pouvoir être
-suspendus et ne sont pas dans ce cas reportés à un exercice ultérieur ; 
+suspendus et ne sont pas dans ce cas reportés à un exercice ultérieur ;
 
 2. Les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas aux engagements, y compris la réserve
-de capitalisation ; 
+de capitalisation ;
 
 3. Le report du bénéfice, des excédents ou de la perte, déduction faite des dividendes à verser au titre du dernier
-exercice ; 
+exercice ;
 
 4. Pour les mutuelles et unions régies par le livre II du code de la mutualité et les institutions de prévoyance et unions
 régies par le titre 3 du livre 9 du code de la sécurité sociale, le ou les emprunts pour fonds de développement. Toutefois, à
 partir de la moitié de la durée d'un emprunt, celui-ci n'est retenu dans la marge de solvabilité que pour sa valeur
 progressivement réduite chaque année d'un montant constant égal au double du montant total de cet emprunt divisé par le
-nombre d'années de sa durée. 
+nombre d'années de sa durée.
 
-II.-La marge de solvabilité peut également être constituée par : 
+II.-La marge de solvabilité peut également être constituée par :
 
 1. Les fonds effectivement versés provenant de l'émission de titres ou emprunts subordonnés, ainsi que d'actions de
 préférence définies à l'article L. 228-11 du code de commerce autres que celles à caractère non cumulatif mentionnées au 1 du
@@ -48488,55 +48506,60 @@ de l'exigence de marge de solvabilité ou la marge de solvabilité, le montant l
 en compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise qu'à concurrence de 25 %
 de cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux dispositions de la section 6 ou de la
 section 7 du chapitre II du titre Ier du livre VI du code monétaire et financier, donner lieu à des mesures de police ou de
-sanction par l'Autorité de contrôle ; 
+sanction par l'Autorité de contrôle ;
 
 2. La réserve pour fonds de garantie prévue à l'article R. 423-16, à hauteur de la part de cotisation versée par l'entreprise
-et non utilisée par le fonds ; 
+et non utilisée par le fonds ;
 
 3. Les réserves constituées en application des articles L. 111-6 et L. 431-1 du code de la mutualité, y compris la part de
 cotisation versée par la mutuelle ou l'union et non utilisée par le système fédéral de garantie ou le fonds de garantie
-mentionné à l'article L. 431-1 du code de la mutualité. 
+mentionné à l'article L. 431-1 du code de la mutualité.
 
 III.-Sur demande et justification de l'entreprise et avec l'accord de l'Autorité de contrôle, la marge de solvabilité peut
-également être constituée par : 
+également être constituée par :
 
 1. La moitié de la fraction non versée du capital ou de la part restant à rembourser de l'emprunt pour fonds d'établissement,
 dès que la partie versée atteint 25 % de ce capital ou de ce fonds, à concurrence, pour les entreprises d'assurance régies
 par le présent code, de 50 % de la marge de solvabilité ou de l'exigence de marge de solvabilité, le montant le plus faible
 étant retenu et, pour les mutuelles et unions régies par le livre II du code de la mutualité et les institutions de
 prévoyance et unions régies par le titre 3 du livre 9 du code de la sécurité sociale, de la moitié de la part restant à
-rembourser de l'emprunt pour fonds d'établissement ; 
+rembourser de l'emprunt pour fonds d'établissement ;
 
 2. Les plus-values pouvant résulter de la sous-estimation d'éléments d'actif et de la surestimation d'élément de passif dans
-la mesure où de telles plus-values n'ont pas un caractère exceptionnel ; 
+la mesure où de telles plus-values n'ont pas un caractère exceptionnel ;
 
 3. Les plus-values latentes sur les instruments financiers à terme mentionnés aux articles R. 332-45 et R. 332-46, dès lors
 que les opérations correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article R. 332-2
-ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56 ; 
+ou réalisées de gré à gré dans la mesure où elles sont garanties dans les conditions prévues à l'article R. 332-56 ;
 
 Les moins-values latentes sur instruments financiers à terme non provisionnées sont déduites des éléments énumérés au 2 et au
-3. 
+3.
 
-IV.-La marge de solvabilité disponible est diminuée des éléments suivants : 
+IV.-La marge de solvabilité disponible est diminuée des éléments suivants :
 
-a) Les actions propres détenus directement par l'entreprise d'assurance ; 
+a) Les actions propres détenus directement par l'entreprise d'assurance ;
 
 b) Les participations que l'entreprise d'assurance détient dans un établissement de crédit, une société de financement, une
-entreprise d'investissement ou un établissement financier ; 
+entreprise d'investissement, une société de gestion de portefeuille ou un établissement financier ;
 
 c) Les créances subordonnées que l'entreprise d'assurance détient sur les entreprises mentionnées au b dans lesquelles elle
-détient une participation ; 
+détient une participation ;
 
-d) Les certificats mutualistes ou paritaires émis et détenus directement par l'entreprise d'assurance. 
+d) Les certificats mutualistes ou paritaires émis et détenus directement par l'entreprise d'assurance.
 
 Toutefois, les éléments mentionnés aux b et c peuvent ne pas être déduits lorsque les participations mentionnées à ces
-alinéas sont détenues de manière temporaire en vue d'apporter un soutien financier à ces entreprises. 
+alinéas sont détenues de manière temporaire en vue d'apporter un soutien financier à ces entreprises.
 
 V.-Lorsqu'elle estime que l'appréciation du report du bénéfice, de l'excédent ou de la perte mentionnée au 3 du I est
 susceptible d'être faussée par l'existence d'un contrat de réassurance financière limitée souscrit par l'entreprise,
 l'Autorité de contrôle peut limiter la prise en compte de ce report, en vue d'y intégrer les charges futures attendues au
 titre de ce contrat. Le cas échéant, le montant de la marge de solvabilité est ajusté au terme du contrat de réassurance
 financière limitée, en fonction du report cumulé effectivement constaté.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3
+janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -48562,7 +48585,7 @@ _Cité par_:
   - Code des assurances - art. R334-16 (VT)
   - Code des assurances - art. R334-17 (V)
   - Code des assurances - art. R334-18 (VT)
-  - Code des assurances - art. R334-26 (VT)
+  - Code des assurances - art. R334-26 (M)
   - Code des assurances - art. R334-42 (V)
   - Code des assurances - art. R352-28 (VD)
   - Code des assurances - art. R391-1 (V)
@@ -48570,18 +48593,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 8
+  - Décret n°2017-1253 du 9 août 2017 - art. 10
 
 _Cite_:
 
-  - Code de commerce - art. L228-11 (V)
+  - Code de commerce - art. L228-11
   - Code des assurances - art. L334-1
   - Code des assurances - art. R*332-45
   - Code des assurances - art. R332-2
   - Code des assurances - art. R332-46
   - Code des assurances - art. R332-56
-  - Code de la mutualité - art. L111-6 (V)
-  - Code de la mutualité - art. L431-1 (V)
+  - Code de la mutualité - art. L111-6
+  - Code de la mutualité - art. L431-1
 
 
 ##### Paragraphe 2 : Exigence minimale de marge de solvabilité<a id=427></a>
@@ -59835,48 +59858,51 @@ Le présent livre dans sa rédaction issue du décret n° 2010-217 du 3 mars 201
 à l'exception de la section 2 du chapitre III, du titre II, des articles R. 324-4 et R. 334-48, de la section 10 du chapitre
 IV et des titres V, VI et VII. 
 
-Les articles R. 322-11-1, R. 322-11-2, 
-R. 323-10, 
-R. 324-5, 
-R. 332-13, R. 334-3, 
-R. 334-11, R. 334-17, R. 334-26, 
-R. 334-28, R. 334-41, R. 334-43 et R. 336-1 y sont applicables dans leur rédaction issue du décret n° 2014-1315 du 3 novembre
-2014 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière financière et relatif aux sociétés
-de financement ; 
+Les articles R. 322-11-1, R. 322-11-2, R. 332-14-2, R. 334-3 et R. 334-11 y sont applicables dans leur rédaction issue du
+décret n° 2017-1253 du 9 août 2017. 
 
-Les articles R. 322-11-6, 
-R. 322-53, R. 322-55-2 y sont applicables dans leur rédaction issue du décret n° 2014-1357 du 13 novembre 2014 relatif au
-contrôle de l'honorabilité et de la compétence des dirigeants et des membres des organes collégiaux dans les organismes
-d'assurance, les établissements de crédit, les sociétés de financement, les entreprises d'investissement autres que les
-sociétés de gestion de portefeuille, les compagnies financières holding, les compagnies financières holding mixtes et les
-entreprises mères de société de financement
+Les articles R. 323-10, R. 324-5, R. 332-13, 
+R. 334-17, R. 334-26, R. 334-28, R. 334-41, R. 334-43 et R. 336-1 y sont applicables dans leur rédaction issue du décret n°
+2014-1315 du 3 novembre 2014 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière financière
+et relatif aux sociétés de financement ; 
+
+Les articles R. 322-11-6, R. 322-53, R. 322-55-2 y sont applicables dans leur rédaction issue du décret n° 2014-1357 du 13
+novembre 2014 relatif au contrôle de l'honorabilité et de la compétence des dirigeants et des membres des organes collégiaux
+dans les organismes d'assurance, les établissements de crédit, les sociétés de financement, les entreprises d'investissement
+autres que les sociétés de gestion de portefeuille, les compagnies financières holding, les compagnies financières holding
+mixtes et les entreprises mères de société de financement
+
+**Nota:**
+
+Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3
+janvier 2018.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Décret n°2010-217 du 3 mars 2010
+  - Décret n°2014-1315 du 3 novembre 2014
+  - Décret n°2014-1357 du 13 novembre 2014
+  - Décret n°2017-1253 du 9 août 2017
   - Code des assurances - art. R*322-53
   - Code des assurances - art. R*323-10
   - Code des assurances - art. R*324-4
   - Code des assurances - art. R*334-26
-  - Code des assurances - art. R*334-28
   - Code des assurances - art. R322-11-1
-  - Code des assurances - art. R322-11-6
-  - Code des assurances - art. R322-55-2
   - Code des assurances - art. R324-5
   - Code des assurances - art. R332-13
+  - Code des assurances - art. R332-14-2
   - Code des assurances - art. R334-11
   - Code des assurances - art. R334-17
   - Code des assurances - art. R334-3
   - Code des assurances - art. R334-41
-  - Code des assurances - art. R334-43
   - Code des assurances - art. R334-48
   - Code des assurances - art. R336-1
 
 _Modifié par_:
 
-  - Décret n°2015-707 du 22 juin 2015 - art. 18
+  - Décret n°2017-1253 du 9 août 2017 - art. 18
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance<a id=516></a>
