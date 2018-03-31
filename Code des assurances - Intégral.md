@@ -1,10 +1,10 @@
 # Code des assurances  
-Version Consolidée au 2018-03-31
+Version Consolidée au 2018-04-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
       - [Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes (art. L111-1 à L114-3)](#3)
-        - [Chapitre Ier : Dispositions générales. (art. L111-1 à L111-8)](#4)
+        - [Chapitre Ier : Dispositions générales. (art. L111-1 à L111-12)](#4)
         - [Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices. (art. L112-1 à L112-10)](#5)
         - [Chapitre III : Obligations de l'assureur et de l'assuré. (art. L113-1 à L113-17)](#6)
         - [Chapitre IV : Compétence et prescription. (art. L114-1 à L114-3)](#7)
@@ -778,16 +778,15 @@ _Cite_:
 ###### Article L111-2
 
 Ne peuvent être modifiées par convention les prescriptions des titres Ier, II, III et IV du présent livre, sauf celles qui
-donnent aux parties une simple faculté et qui sont contenues dans les articles L. 112-1, L. 112-5, L. 112-6, L. 113-10, L.
-121-5 à L. 121-8, L. 121-12, L. 121-14, L. 122-1, L. 122-2, L. 122-6, L. 124-1, L. 124-2, L. 127-6, L. 132-1, L. 132-10, L.
-132-15 et L. 132-19.
+donnent aux parties une simple faculté et qui sont contenues au dernier alinéa du I et au II de l'article L. 111-10 et dans
+les articles L. 112-1, L. 112-5, L. 112-6, L. 113-10, L. 121-5 à L. 121-8, L. 121-12, L. 121-14, L. 122-1, L. 122-2, L.
+122-6, L. 124-1, L. 124-2, L. 127-6, L. 132-1, L. 132-10, L. 132-15 et L. 132-19.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-106 du 30 janvier 2009 - art. 1
-  - Décret n°2015-22 du 13 janvier 2015 - art. 2 (V)
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 1
 
 _Cite_:
 
@@ -984,6 +983,87 @@ _Modifié par_:
   - Loi n°2016-41 du 26 janvier 2016 - art. 191
 
 
+###### Article L111-9
+
+Constitue un support durable, au sens du présent code, tout instrument offrant la possibilité à l'assuré, à l'assureur, à
+l'intermédiaire ou au souscripteur d'un contrat d'assurance de groupe de stocker des informations qui lui sont adressées
+personnellement, afin de pouvoir s'y reporter ultérieurement pendant un laps de temps adapté aux fins auxquelles les
+informations sont destinées, et qui permet la reproduction à l'identique des informations conservées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 1
+
+
+###### Article L111-10
+
+I. - L'assureur, l'intermédiaire ou le souscripteur d'un contrat d'assurance de groupe qui souhaite fournir ou mettre à
+disposition des informations ou des documents à un assuré sur un support durable autre que le papier, vérifie au préalable
+que ce mode de communication est adapté à la situation de celui-ci ; il s'assure qu'il est en mesure de prendre connaissance
+de ces informations et documents sur le support durable envisagé. Lorsque l'assuré fournit à cette fin une adresse
+électronique, celle-ci est vérifiée par l'assureur, l'intermédiaire ou le souscripteur.
+
+Après ces vérifications, l'assureur, l'intermédiaire ou le souscripteur informe l'assuré de façon claire, précise et
+compréhensible de la poursuite de la relation commerciale sur un support durable autre que le papier. Il renouvelle ces
+vérifications annuellement.
+
+Sauf lorsqu'il est indiqué dans le contrat conclu que le service fourni est de nature exclusivement électronique, l'assureur,
+l'intermédiaire ou le souscripteur doit informer l'assuré du droit de celui-ci de s'opposer à l'utilisation de ce support dès
+l'entrée en relation ou à n'importe quel moment ; il est tenu de justifier à tout moment de la relation que cette information
+a bien été portée à la connaissance de l'assuré.
+
+II. - Sauf lorsqu'il est indiqué dans le contrat conclu que le service fourni est de nature exclusivement électronique,
+l'assuré peut, à tout moment et par tout moyen, demander qu'un support papier soit utilisé sans frais pour la poursuite de la
+relation commerciale. Il peut par ailleurs effectuer, dans les mêmes conditions, l'ensemble des formalités et obligations qui
+lui incombent sur tout support durable convenu avec l'assureur, l'intermédiaire ou le souscripteur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 1
+
+
+###### Article L111-11
+
+Lorsque l'assureur, l'intermédiaire ou le souscripteur d'un contrat d'assurance de groupe met à disposition de l'assuré un
+espace personnel sécurisé sur internet, il garantit l'accessibilité des informations et documents conservés dans cet espace
+pendant une durée adaptée à leur finalité. Pour les documents précontractuels et contractuels, cette durée ne peut être
+inférieure à cinq ans après la fin de la relation contractuelle.
+
+Lorsque l'assureur, l'intermédiaire ou le souscripteur envisage de ne plus rendre accessibles ces informations et documents,
+il doit en informer préalablement, dans un délai qui ne peut être inférieur à deux mois, l'assuré par tout moyen adapté à la
+situation de ce dernier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 1
+
+
+###### Article L111-12
+
+Lorsqu'une signature est exigée, celle-ci peut être apposée par écrit ou par tout autre moyen prévu à l'article 1367 du code
+civil. 
+
+L'envoi recommandé électronique est équivalent à l'envoi par lettre recommandée, dès lors qu'il satisfait aux exigences de
+l'article L. 100 du code des postes et communications électroniques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 1
+
+_Cite_:
+
+  - Code civil - art. 1367
+  - Code des postes et des communications électroniques - art. L100
+
+
 #### Chapitre II : Conclusion et preuve du contrat d'assurance - Forme et transmission des polices.<a id=5></a>
 
 ###### Article L112-1
@@ -1039,9 +1119,9 @@ souscription.
 La proposition d'assurance n'engage ni l'assuré, ni l'assureur ; seule la police ou la note de couverture constate leur
 engagement réciproque.
 
-Est considérée comme acceptée la proposition, faite par lettre recommandée, de prolonger ou de modifier un contrat ou de
-remettre en vigueur un contrat suspendu, si l'assureur ne refuse pas cette proposition dans les dix jours après qu'elle lui
-est parvenue.
+Est considérée comme acceptée la proposition, faite par lettre recommandée ou par envoi recommandé électronique, de prolonger
+ou de modifier un contrat ou de remettre en vigueur un contrat suspendu, si l'assureur ne refuse pas cette proposition dans
+les dix jours après qu'elle lui est parvenue.
 
 Les dispositions de l'alinéa précédent ne sont pas applicables aux assurances sur la vie.
 
@@ -1063,7 +1143,6 @@ _Cite_:
 _Cité par_:
 
   - Loi n°2003-706 du 1 août 2003 - art. 80 (V)
-  - Code de la consommation - art. L534-7 (Ab)
   - Code des assurances - art. A112 (V)
   - Code des assurances - art. A112-1 (V)
   - Code des assurances - art. Annexe art. A344-8 (Ab)
@@ -1082,7 +1161,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 3
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 2
 
 _Anciens textes_:
 
@@ -1092,124 +1171,120 @@ _Anciens textes_:
 ###### Article L112-2-1
 
 I.-1° La fourniture à distance d'opérations d'assurance à un consommateur est régie par le présent livre et par les articles
-L. 222-1 à L. 222-3, L. 222-6 et L. 222-13 à L. 222-16, L. 222-18, L. 232-4, L. 242-15 du code de la consommation ;
+L. 222-1 à L. 222-3, L. 222-6 et L. 222-13 à L. 222-16, L. 222-18, L. 232-4, 
+L. 242-15 du code de la consommation ; 
 
-2° Pour l'application du 1°, il y a lieu d'entendre :
+2° Pour l'application du 1°, il y a lieu d'entendre : 
 
 a) " Le souscripteur, personne physique, qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale ou
-professionnelle " là où est mentionné " le consommateur " ;
+professionnelle " là où est mentionné " le consommateur " ; 
 
-b) " L'assureur ou l'intermédiaire d'assurance " là où est mentionné " le fournisseur " ;
+b) " L'assureur ou l'intermédiaire d'assurance " là où est mentionné " le fournisseur " ; 
 
-c) " Le montant total de la prime ou cotisation " là où est mentionné " le prix total " ;
+c) " Le montant total de la prime ou cotisation " là où est mentionné " le prix total " ; 
 
-d) " Droit de renonciation " là où est mentionné " le droit de rétractation " ;
+d) " Droit de renonciation " là où est mentionné " le droit de rétractation " ; 
 
-e) " Le II de l'article L. 112-2-1 du code des assurances " là où est mentionné " l'article L. 222-7, L. 222-9 à L. 222-12" ;
+e) " Le II de l'article L. 112-2-1 du code des assurances " là où est mentionné " l'article L. 222-7, L. 222-9 à L. 222-12
+" ; 
 
-f) " Le III de l'article L. 112-2-1 du code des assurances " là où est mentionné " l'article L. 222-5 " ;
+f) " Le III de l'article L. 112-2-1 du code des assurances " là où est mentionné " l'article L. 222-5 " ; 
 
 3° Pour l'application de l'article L. 222-6 du code de la consommation, les conditions contractuelles doivent comprendre,
-outre les informations prévues selon les cas à l'article L. 112-2 ou à l'article L. 132-5-1, un modèle de lettre destiné à
-faciliter l'exercice du droit de renonciation lorsque ce droit existe.
+outre les informations prévues selon les cas à l'article L. 112-2 ou à l'article L. 132-5-1, un modèle de rédaction destiné à
+faciliter l'exercice du droit de renonciation lorsque ce droit existe. 
 
 II.-1° Toute personne physique ayant conclu à des fins qui n'entrent pas dans le cadre de son activité commerciale ou
 professionnelle un contrat à distance dispose d'un délai de quatorze jours calendaires révolus pour renoncer, sans avoir à
-justifier de motif ni à supporter de pénalités. Ce délai commence à courir :
+justifier de motif ni à supporter de pénalités. Ce délai commence à courir : 
 
-a) Soit à compter du jour où le contrat à distance est conclu ;
+a) Soit à compter du jour où le contrat à distance est conclu ; 
 
 b) Soit à compter du jour où l'intéressé reçoit les conditions contractuelles et les informations, conformément à l'article
-L. 222-6 du code de la consommation, si cette dernière date est postérieure à celle mentionnée au a ;
+L. 222-6 du code de la consommation, si cette dernière date est postérieure à celle mentionnée au a ; 
 
 2° Toutefois, en ce qui concerne les contrats d'assurance vie, le délai précité est porté à trente jours calendaires révolus.
-Ce délai commence à courir :
+Ce délai commence à courir : 
 
-a) Soit à compter du jour où l'intéressé est informé que le contrat à distance a été conclu ;
+a) Soit à compter du jour où l'intéressé est informé que le contrat à distance a été conclu ; 
 
 b) Soit à compter du jour où l'intéressé reçoit les conditions contractuelles et les informations, conformément à l'article
-L. 222-6, si cette dernière date est postérieure à celle mentionnée au a ;
+L. 222-6, si cette dernière date est postérieure à celle mentionnée au a ; 
 
-3° Le droit de renonciation ne s'applique pas :
+3° Le droit de renonciation ne s'applique pas : 
 
 a) Aux polices d'assurance de voyage ou de bagage ou aux polices d'assurance similaires à court terme d'une durée inférieure
-à un mois ;
+à un mois ; 
 
-b) Aux contrats d'assurance mentionnés à l'article L. 211-1 du présent code ;
+b) Aux contrats d'assurance mentionnés à l'article L. 211-1 du présent code ; 
 
 c) Aux contrats exécutés intégralement par les deux parties à la demande expresse du consommateur avant que ce dernier
-n'exerce son droit de renonciation.
+n'exerce son droit de renonciation. 
 
-III.-En temps utile avant la conclusion à distance d'un contrat le souscripteur reçoit les informations suivantes :
+III.-En temps utile avant la conclusion à distance d'un contrat le souscripteur reçoit les informations suivantes : 
 
 1° La dénomination de l'entreprise d'assurance contractante, l'adresse de son siège social, lorsque l'entreprise d'assurance
 est inscrite au registre du commerce et des sociétés, son numéro d'immatriculation, les coordonnées de l'autorité chargée de
-son contrôle ainsi que, le cas échéant, l'adresse de la succursale qui propose la couverture ;
+son contrôle ainsi que, le cas échéant, l'adresse de la succursale qui propose la couverture ; 
 
 2° Le montant total de la prime ou cotisation ou, lorsque ce montant ne peut être indiqué, la base de calcul de cette prime
-ou cotisation permettant au souscripteur de vérifier celle-ci ;
+ou cotisation permettant au souscripteur de vérifier celle-ci ; 
 
-3° La durée minimale du contrat ainsi que les garanties et exclusions prévues par celui-ci ;
+3° La durée minimale du contrat ainsi que les garanties et exclusions prévues par celui-ci ; 
 
 4° La durée pendant laquelle les informations fournies sont valables, les modalités de conclusion du contrat et de paiement
 de la prime ou cotisation ainsi que l'indication, le cas échéant, du coût supplémentaire spécifique à l'utilisation d'une
-technique de commercialisation à distance ;
+technique de commercialisation à distance ; 
 
 5° L'existence ou l'absence d'un droit à renonciation et, si ce droit existe, sa durée, les modalités pratiques de son
 exercice notamment l'adresse à laquelle la notification de la renonciation doit être envoyée. Le souscripteur doit également
 être informé du montant de prime ou de cotisation que l'assureur peut lui réclamer en contrepartie de la prise d'effet de la
-garantie, à sa demande expresse, avant l'expiration du délai de renonciation ;
+garantie, à sa demande expresse, avant l'expiration du délai de renonciation ; 
 
 6° La loi sur laquelle l'assureur se fonde pour établir les relations précontractuelles avec le consommateur ainsi que la loi
 applicable au contrat et la langue que l'assureur s'engage à utiliser, avec l'accord du souscripteur, pendant la durée du
-contrat ;
+contrat ; 
 
 7° Les modalités d'examen des réclamations que le souscripteur peut formuler au sujet du contrat et de recours à un processus
-de médiation dans les conditions prévues au titre V du livre Ier du code de la consommation , sans préjudice pour lui
+de médiation dans les conditions prévues au titre V du livre Ier du code de la consommation, sans préjudice pour lui
 d'intenter une action en justice ainsi que, le cas échéant, l'existence de fonds de garantie ou d'autres mécanismes
-d'indemnisation.
+d'indemnisation. 
 
 Les informations sur les obligations contractuelles communiquées en phase précontractuelle doivent être conformes à la loi
-applicable au contrat.
+applicable au contrat. 
 
 Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont fournies de manière claire et
-compréhensible par tout moyen adapté à la technique de commercialisation à distance utilisée.
+compréhensible par tout moyen adapté à la technique de commercialisation à distance utilisée. 
 
 IV.-L'assureur doit également indiquer, pour les contrats d'assurance vie les informations mentionnées à l'article L.
 132-5-1, notamment le montant maximal des frais qu'il peut prélever et, lorsque les garanties de ces contrats sont exprimées
 en unités de compte, les caractéristiques principales de celles-ci. Dans ce dernier cas, il doit en outre préciser qu'il ne
 s'engage que sur le nombre des unités de compte et non sur leur valeur qui peut être sujette à des fluctuations à la hausse
-comme à la baisse.
+comme à la baisse. 
 
 V.-Un décret en Conseil d'Etat fixe les informations communiquées au souscripteur en cas de communication par téléphonie
-vocale.
+vocale. 
 
 VI.-Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'Autorité de contrôle prudentiel
-et de résolution dans les conditions prévues à la section 2 du chapitre unique du titre Ier du livre III.
+et de résolution dans les conditions prévues à la section 2 du chapitre unique du titre Ier du livre III. 
 
 Les infractions constituées par l'absence matérielle des éléments d'information prévus au III du présent article, ainsi que
 le refus de l'assureur de rembourser le souscripteur personne physique dans les conditions fixées à l'article L. 121-30 du
 code de la consommation peuvent également être recherchées et constatées par les agents mentionnés aux articles L. 511-3 et
-L. 511-21 du même code, dans les conditions prévues à l'article L. 511-6 de ce code du même code.
+L. 511-21 du même code, dans les conditions prévues à l'article L. 511-6 de ce code du même code. 
 
 Les conditions d'application du présent article sont définies en tant que de besoin par décret en Conseil d'Etat.
-
-**Nota:**
-
-Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, l'article 33 s'applique aux contrats conclus après le 13
-juin 2014.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art. 5
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 2
 
 _Cite_:
 
   - Code de la consommation - art. L121-30 (Ab)
-  - Code de la consommation - art. L222-18 (V)
-  - Code de la consommation - art. L222-6 (V)
+  - Code de la consommation - art. L222-1 (V)
   - Code de la consommation - art. L232-4 (V)
   - Code de la consommation - art. L242-15 (V)
 
@@ -1444,35 +1519,36 @@ _Cite_:
 
 I.-Toute personne physique qui fait l'objet d'un démarchage à son domicile, à sa résidence ou à son lieu de travail, même à
 sa demande, et qui signe dans ce cadre une proposition d'assurance ou un contrat à des fins qui n'entrent pas dans le cadre
-de son activité commerciale ou professionnelle, a la faculté d'y renoncer par lettre recommandée avec demande d'avis de
-réception pendant le délai de quatorze jours calendaires révolus à compter du jour de la conclusion du contrat, sans avoir à
-justifier de motifs ni à supporter de pénalités. 
+de son activité commerciale ou professionnelle, a la faculté d'y renoncer par lettre recommandée ou par envoi recommandé
+électronique avec demande d'avis de réception pendant le délai de quatorze jours calendaires révolus à compter du jour de la
+conclusion du contrat, sans avoir à justifier de motifs ni à supporter de pénalités.
 
 La proposition d'assurance ou le contrat comporte, à peine de nullité, la mention du texte du premier alinéa et comprend un
-modèle de lettre destiné à faciliter l'exercice de la faculté de renonciation. 
+modèle de rédaction destiné à faciliter l'exercice de la faculté de renonciation.
 
 L'exercice du droit de renonciation dans le délai prévu au premier alinéa entraîne la résiliation du contrat à compter de la
-date de réception de la lettre recommandée mentionnée au même alinéa. Dès lors qu'il a connaissance d'un sinistre mettant en
-jeu la garantie du contrat, le souscripteur ne peut plus exercer ce droit de renonciation. 
+date de réception de la lettre recommandée ou de l'envoi recommandé électronique mentionnés au même alinéa. Dès lors qu'il a
+connaissance d'un sinistre mettant en jeu la garantie du contrat, le souscripteur ne peut plus exercer ce droit de
+renonciation.
 
 En cas de renonciation, le souscripteur ne peut être tenu qu'au paiement de la partie de prime ou de cotisation correspondant
 à la période pendant laquelle le risque a couru, cette période étant calculée jusqu'à la date de la résiliation. L'entreprise
 d'assurance est tenue de rembourser au souscripteur le solde au plus tard dans les trente jours suivant la date de
-résiliation. Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal. 
+résiliation. Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal.
 
 Toutefois, l'intégralité de la prime reste due à l'entreprise d'assurance si le souscripteur exerce son droit de renonciation
 alors qu'un sinistre mettant en jeu la garantie du contrat et dont il n'a pas eu connaissance est intervenu pendant le délai
-de renonciation. 
+de renonciation.
 
 Le présent article n'est applicable ni aux contrats d'assurance sur la vie ou de capitalisation ni aux contrats d'assurance
-de voyage ou de bagages ni aux contrats d'assurance d'une durée maximum d'un mois. 
+de voyage ou de bagages ni aux contrats d'assurance d'une durée maximum d'un mois.
 
 Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'autorité instituée à l'article L.
-612-1 du code monétaire et financier dans les conditions prévues au livre III du présent code. 
+612-1 du code monétaire et financier dans les conditions prévues au livre III du présent code.
 
 II.-Les infractions constituées par la violation des dispositions du deuxième alinéa et de la deuxième phrase du quatrième
 alinéa du I sont recherchées et constatées par les agents mentionnés aux articles L. 511-3 et L. 511-21 du code de la
-consommation, dans les conditions prévues à l'article L. 511-5 de ce code. 
+consommation, dans les conditions prévues à l'article L. 511-5 de ce code.
 
 Est puni de 15 000 euros d'amende le fait de ne pas rembourser le souscripteur dans les conditions prévues à la deuxième
 phrase du quatrième alinéa du I du présent article.
@@ -1485,13 +1561,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art. 5
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 2
 
 _Cite_:
 
-  - Code de la consommation - art. L511-21 (V)
-  - Code de la consommation - art. L511-3 (V)
-  - Code de la consommation - art. L511-5 (V)
+  - Code de la consommation - art. L511-21
+  - Code de la consommation - art. L511-3
+  - Code de la consommation - art. L511-5
   - Code monétaire et financier - art. L612-1
 
 
@@ -1577,8 +1653,8 @@ par l'assureur les risques qu'il prend en charge ;
 d'en créer de nouveaux et rendent de ce fait inexactes ou caduques les réponses faites à l'assureur, notamment dans le
 formulaire mentionné au 2° ci-dessus.
 
-L'assuré doit, par lettre recommandée, déclarer ces circonstances à l'assureur dans un délai de quinze jours à partir du
-moment où il en a eu connaissance ;
+L'assuré doit, par lettre recommandée ou par envoi recommandé électronique, déclarer ces circonstances à l'assureur dans un
+délai de quinze jours à partir du moment où il en a eu connaissance ;
 
 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai fixé par le contrat, de tout
 sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés.
@@ -1597,15 +1673,7 @@ Les dispositions mentionnées aux 1°, 3° et 4° ci-dessus ne sont pas applicab
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-_Modifié par_:
-
-  - Loi n°89-1014 du 31 décembre 1989 - art. 10 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+  - Décret n°76-666 du 16 juillet 1976
 
 _Cité par_:
 
@@ -1615,6 +1683,10 @@ _Cité par_:
   - Code des assurances - art. L145-1 (V)
   - Code des assurances - art. L326-4 (V)
   - Code des assurances - art. R113-13 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 3
 
 
 ###### Article L113-3
@@ -1926,13 +1998,23 @@ _Cite_:
 
 ###### Article L113-12
 
-La durée du contrat et les conditions de résiliation sont fixées par la police.
+La durée du contrat et les conditions de résiliation, particulièrement le droit pour l'assureur et l'assuré de résilier le
+contrat tous les ans, sont fixées par la police.
 
-Toutefois, l'assuré a le droit de résilier le contrat à l'expiration d'un délai d'un an, en envoyant une lettre recommandée à
-l'assureur au moins deux mois avant la date d'échéance. Ce droit appartient, dans les mêmes conditions, à l'assureur. Il peut
-être dérogé à cette règle pour les contrats individuels d'assurance maladie et pour la couverture des risques autres que ceux
-des particuliers. Le droit de résilier le contrat tous les ans doit être rappelé dans chaque police. Le délai de résiliation
-court à partir de la date figurant sur le cachet de la poste.
+Toutefois, l'assuré a le droit de résilier le contrat à l'expiration d'un délai d'un an, en adressant une lettre recommandée
+ou un envoi recommandé électronique à l'assureur au moins deux mois avant la date d'échéance de ce contrat.
+
+Lorsque l'assuré a souscrit un contrat à des fins professionnelles, l'assureur a aussi le droit de résilier le contrat dans
+les mêmes conditions.
+
+Dans les autres cas, l'assureur peut résilier le contrat à l'expiration d'un délai d'un an, à la condition d'envoyer une
+lettre recommandée à l'assuré au moins deux mois avant la date d'échéance du contrat.
+
+Il peut être dérogé à ces règles de résiliation annuelle pour les contrats individuels d'assurance maladie et pour la
+couverture des risques autres que ceux des particuliers.
+
+Le délai de résiliation court à partir de la date figurant sur le cachet de la poste ou de la date d'expédition de l'envoi
+recommandé électronique.
 
 Les dispositions du présent article ne sont pas applicables aux assurances sur la vie.
 
@@ -1945,16 +2027,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 12 *modalités d'application application aux contrats en cours*, art. 60 *date d'effet*
-  - TXT_ASSOCIE: Code des assurances L113-13 *délais particuliers de résiliation pour certaines branches d'assurance*
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 12 (V) JORF 3 janvier 1990 en vigueur le 1er mai 1990
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 3
 
 _Cité par_:
 
@@ -1963,7 +2040,7 @@ _Cité par_:
   - Code de la consommation - art. L313-31 (VD)
   - Code de la consommation - art. L313-32 (V)
   - Code des assurances - art. L113-12-1 (V)
-  - Code des assurances - art. L113-12-2 (V)
+  - Code des assurances - art. L113-12-2 (VD)
   - Code des assurances - art. L113-13 (Ab)
 
 
@@ -1991,25 +2068,20 @@ risques que ce contrat définit, soit le remboursement total ou partiel du monta
 mentionné au 1° de l'article L. 313-1 du code de la consommation, soit le paiement de tout ou partie des échéances dudit
 prêt, l'assuré peut résilier le contrat dans un délai de douze mois à compter de la signature de l'offre de prêt définie à
 l'article L. 313-24 du même code. L'assuré notifie à l'assureur ou à son représentant sa demande de résiliation par lettre
-recommandée au plus tard quinze jours avant le terme de la période de douze mois susmentionnée. Si l'assuré fait usage du
-droit de résiliation mentionné au présent alinéa ou à l'article L. 113-12 du présent code, il notifie à l'assureur par lettre
-recommandée la décision du prêteur prévue au deuxième alinéa de l'article L. 313-31 du code de la consommation ainsi que la
-date de prise d'effet du contrat d'assurance accepté en substitution par le prêteur. En cas d'acceptation par le prêteur, la
-résiliation du contrat d'assurance prend effet dix jours après la réception par l'assureur de la décision du prêteur ou à la
-date de prise d'effet du contrat accepté en substitution par le prêteur si celle-ci est postérieure. En cas de refus par le
-prêteur, le contrat d'assurance n'est pas résilié. 
+recommandée ou par envoi recommandé électronique au plus tard quinze jours avant le terme de la période de douze mois
+susmentionnée. Si l'assuré fait usage du droit de résiliation mentionné au présent alinéa ou à l'article L. 113-12 du présent
+code, il notifie à l'assureur par lettre recommandée ou par envoi recommandé électronique la décision du prêteur prévue au
+deuxième alinéa de l'article L. 313-31 du code de la consommation ainsi que la date de prise d'effet du contrat d'assurance
+accepté en substitution par le prêteur. En cas d'acceptation par le prêteur, la résiliation du contrat d'assurance prend
+effet dix jours après la réception par l'assureur de la décision du prêteur ou à la date de prise d'effet du contrat accepté
+en substitution par le prêteur si celle-ci est postérieure. En cas de refus par le prêteur, le contrat d'assurance n'est pas
+résilié.
 
-Ce droit de résiliation appartient exclusivement à l'assuré. 
+Ce droit de résiliation appartient exclusivement à l'assuré.
 
 Pendant toute la durée du contrat d'assurance et par dérogation à l'article L. 113-4, l'assureur ne peut pas résilier ce
 contrat d'assurance pour cause d'aggravation du risque, sauf dans certaines conditions définies par décret en Conseil d'Etat,
 résultant d'un changement de comportement volontaire de l'assuré.
-
-**Nota:**
-
-Conformément à l'article 10 IV et V de la loi n° 2017-203 du 21 février 2017, ces dispositions sont applicables aux offres de
-prêts émises à compter de la date de publication de ladite loi et, à compter du 1er janvier 2018, aux contrats d'assurance en
-cours d'exécution à cette date.
 
 **Liens relatifs à cet article**
 
@@ -2025,13 +2097,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-203 du 21 février 2017 - art. 10 (V)
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 3
 
 _Cite_:
 
   - Code de la consommation - art. L313-1
-  - Code de la consommation - art. L313-24
-  - Code des assurances - art. L113-12 (V)
+  - Code de la consommation - art. L313-24 (VD)
+  - Code des assurances - art. L113-12 (VD)
   - Code des assurances - art. L113-4
 
 
@@ -2039,17 +2111,17 @@ _Cite_:
 
 Dans tous les cas où l'assuré a la faculté de demander la résiliation, il peut le faire à son choix, soit par une déclaration
 faite contre récépissé au siège social ou chez le représentant de l'assureur dans la localité, soit par acte extrajudiciaire,
-soit par lettre recommandée, soit par tout autre moyen indiqué dans la police.
+soit par lettre recommandée ou par envoi recommandé électronique, soit par tout autre moyen indiqué dans la police.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Loi n°81-5 du 7 janvier 1981 - art. 28 () JORF 8 janvier 1981 rectificatif JORF 8 février 1981
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 3
 
 _Cité par_:
 
@@ -2088,17 +2160,18 @@ date limite d'exercice par l'assuré du droit à dénonciation du contrat doit �
 annuelle de prime ou de cotisation. Lorsque cet avis lui est adressé moins de quinze jours avant cette date, ou lorsqu'il lui
 est adressé après cette date, l'assuré est informé avec cet avis qu'il dispose d'un délai de vingt jours suivant la date
 d'envoi de cet avis pour dénoncer la reconduction du contrat. Dans ce cas, le délai de dénonciation court à partir de la date
-figurant sur le cachet de la poste. 
+figurant sur le cachet de la poste ou certifiée par un horodatage satisfaisant à des exigences définies par décret.
 
 Lorsque cette information ne lui a pas été adressée conformément aux dispositions du premier alinéa, l'assuré peut mettre un
-terme au contrat, sans pénalités, à tout moment à compter de la date de reconduction en envoyant une lettre recommandée à
-l'assureur. La résiliation prend effet le lendemain de la date figurant sur le cachet de la poste. 
+terme au contrat, sans pénalités, à tout moment à compter de la date de reconduction en adressant une lettre recommandée ou
+un envoi recommandé électronique à l'assureur. La résiliation prend effet le lendemain de la date figurant sur le cachet de
+la poste ou de la date d'expédition de l'envoi recommandé électronique.
 
 L'assuré est tenu au paiement de la partie de prime ou de cotisation correspondant à la période pendant laquelle le risque a
 couru, période calculée jusqu'à la date d'effet de la résiliation. Le cas échéant, l'assureur doit rembourser à l'assuré,
 dans un délai de trente jours à compter de la date d'effet de la résiliation, la partie de prime ou de cotisation
 correspondant à la période pendant laquelle le risque n'a pas couru, période calculée à compter de ladite date d'effet. A
-défaut de remboursement dans ces conditions, les sommes dues sont productives d'intérêts au taux légal. 
+défaut de remboursement dans ces conditions, les sommes dues sont productives d'intérêts au taux légal.
 
 Les dispositions du présent article ne s'appliquent ni aux assurances sur la vie, ni aux assurances de groupe relevant de
 l'article L. 141-1.
@@ -2109,19 +2182,19 @@ _Codifié par_:
 
   - Décret n°76-666 du 16 juillet 1976
 
-_Modifié par_:
-
-  - Loi n°2014-344 du 17 mars 2014 - art. 60
-
 _Cité par_:
 
   - Loi n°2015-1702 du 21 décembre 2015 - art. 61 (V)
   - Décret n°2018-225 du 30 mars 2018 - art. 3 (V)
   - Code des assurances - art. R113-12 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 3
+
 _Cite_:
 
-  - Code des assurances - art. L141-1 (V)
+  - Code des assurances - art. L141-1
 
 
 ###### Article L113-15-2
@@ -2306,15 +2379,16 @@ _Cité par_:
 ###### Article L114-2
 
 La prescription est interrompue par une des causes ordinaires d'interruption de la prescription et par la désignation
-d'experts à la suite d'un sinistre. L'interruption de la prescription de l'action peut, en outre, résulter de l'envoi d'une
-lettre recommandée avec accusé de réception adressée par l'assureur à l'assuré en ce qui concerne l'action en paiement de la
-prime et par l'assuré à l'assureur en ce qui concerne le règlement de l'indemnité.
+d'experts à la suite d'un sinistre. L'interruption de la prescription de l'action peut, en outre,
+résulter de l'envoi d'une lettre recommandée ou d'un envoi recommandé électronique, avec accusé de réception, adressés par
+l'assureur à l'assuré en ce qui concerne l'action en paiement de la prime et par l'assuré à l'assureur en ce qui concerne le
+règlement de l'indemnité.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Cité par_:
 
@@ -2324,14 +2398,9 @@ _Anciens textes_:
 
   - Loi n°1930-07-13 art. 27
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
 _Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 48 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
-  - Loi n°89-1014 du 31 décembre 1989 - art. 51 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 4
 
 
 ###### Article L114-3
@@ -2600,7 +2669,7 @@ transfert de la police à son nom.
 
 En cas d'aliénation de la chose assurée, celui qui aliène reste tenu vis-à-vis de l'assureur au paiement des primes échues,
 mais il est libéré, même comme garant des primes à échoir, à partir du moment où il a informé l'assureur de l'aliénation par
-lettre recommandée.
+lettre recommandée ou par envoi recommandé électronique.
 
 Lorsqu'il y a plusieurs héritiers ou plusieurs acquéreurs, si l'assurance continue, ils sont tenus solidairement du paiement
 des primes.
@@ -2613,24 +2682,20 @@ Les dispositions du présent article ne sont pas applicables au cas d'aliénatio
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
-**Liens**:
+_Anciens textes_:
 
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
+  - Loi n°1930-07-13 art. 19
 
 _Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 13 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 5
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. L111-38 (V)
   - Code des assurances - art. L243-7 (V)
-
-_Anciens textes_:
-
-  - Loi n°1930-07-13 art. 19
 
 
 ###### Article L121-11
@@ -2642,7 +2707,7 @@ l'aliénation ; il peut être résilié, moyennant préavis de dix jours, par ch
 A défaut de remise en vigueur du contrat par accord des parties ou de résiliation par l'une d'elles, la résiliation
 intervient de plein droit à l'expiration d'un délai de six mois à compter de l'aliénation.
 
-L'assuré doit informer l'assureur, par lettre recommandée, de la date d'aliénation.
+L'assuré doit informer l'assureur, par lettre recommandée ou par envoi recommandé électronique, de la date d'aliénation.
 
 Il ne peut être prévu le paiement d'une indemnité à l'assureur, dans les cas de résiliation susmentionnés.
 
@@ -2653,19 +2718,15 @@ que soit le mode de déplacement ou de propulsion utilisé.
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Anciens textes_:
 
   - Loi n°1930-07-13 art. 19 bis
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
 _Modifié par_:
 
-  - Loi n°89-1014 du 31 décembre 1989 - art. 13 () JORF 3 janvier 1990 en vigueur le 1er mai 1990
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 5
 
 _Cité par_:
 
@@ -4663,14 +4724,15 @@ _Anciens textes_:
 ###### Article L132-5-1
 
 Toute personne physique qui a signé une proposition ou un contrat d'assurance sur la vie ou de capitalisation a la faculté
-d'y renoncer par lettre recommandée avec demande d'avis de réception pendant le délai de trente jours calendaires révolus à
-compter du moment où elle est informée que le contrat est conclu. Ce délai expire le dernier jour à vingt-quatre heures. S'il
-expire un samedi, un dimanche ou un jour férié ou chômé, il n'est pas prorogé.
+d'y renoncer par lettre recommandée ou par envoi recommandé électronique, avec demande d'avis de réception, pendant le délai
+de trente jours calendaires révolus à compter du moment où elle est informée que le contrat est conclu. Ce délai expire le
+dernier jour à vingt-quatre heures. S'il expire un samedi, un dimanche ou un jour férié ou chômé, il n'est pas prorogé.
 
 La renonciation entraîne la restitution par l'entreprise d'assurance ou de capitalisation de l'intégralité des sommes versées
 par le contractant, dans le délai maximal de trente jours calendaires révolus à compter de la réception de la lettre
-recommandée. Au-delà de ce délai, les sommes non restituées produisent de plein droit intérêt au taux légal majoré de moitié
-durant deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux légal.
+recommandée ou de l'envoi recommandé électronique. Au-delà de ce délai, les sommes non restituées produisent de plein droit
+intérêt au taux légal majoré de moitié durant deux mois, puis, à l'expiration de ce délai de deux mois, au double du taux
+légal.
 
 Les dispositions du présent article sont précisées, en tant que de besoin, par arrêté ministériel.
 
@@ -4680,7 +4742,7 @@ Elles ne s'appliquent pas aux contrats d'une durée maximale de deux mois.
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Cité par_:
 
@@ -4707,7 +4769,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 4 () JORF 16 décembre 2005
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 6
 
 
 ###### Article L132-5-2
@@ -4725,7 +4787,7 @@ prudentiel et de résolution, fixe le format de cet encadré ainsi que, de faço
 
 La proposition ou le contrat d'assurance ou de capitalisation comprend : 
 
-1° Un modèle de lettre destiné à faciliter l'exercice de la faculté de renonciation ; 
+1°   Un modèle de rédaction destiné à faciliter l'exercice de la faculté de renonciation ; 
 
 2° Une mention dont les termes sont fixés par arrêté du ministre chargé de l'économie, précisant les modalités de
 renonciation. 
@@ -4761,13 +4823,13 @@ _Cité par_:
   - Code des assurances - art. A132-5-2 (V)
   - Code des assurances - art. A132-8 (V)
   - Code des assurances - art. Annexe art. A132-4 (VD)
-  - Code des assurances - art. L132-5-3 (V)
+  - Code des assurances - art. L132-5-3 (VD)
   - Code des assurances - art. L441-2 (V)
   - Code des assurances - art. L441-3 (VD)
 
 _Modifié par_:
 
-  - Loi n°2014-1662 du 30 décembre 2014 - art. 5
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 6
 
 _Cite_:
 
@@ -4781,15 +4843,15 @@ Pour les contrats d'assurance de groupe sur la vie mentionnés à l'article L. 1
 transfert, lorsque le lien qui unit l'adhérent au souscripteur ne rend pas obligatoire l'adhésion au contrat, la notice
 remise par le souscripteur inclut, outre les informations mentionnées au deuxième alinéa de l'article L. 141-4, celles
 contenues dans la note mentionnée à l'article L. 132-5-2. L'encadré mentionné au premier alinéa de l'article L. 132-5-2 est
-inséré en début de notice. Lors de l'adhésion, le souscripteur doit remettre à l'adhérent le modèle de lettre mentionné au
+inséré en début de notice. Lors de l'adhésion, le souscripteur doit remettre à l'adhérent le modèle de rédaction mentionné au
 troisième alinéa de l'article L. 132-5-2. Il communique à l'adhérent la mention visée au quatrième alinéa du même article
 ainsi que, dans les conditions définies au même article, les valeurs de rachat ou de transfert. La faculté de renonciation
-s'exerce conformément aux articles L. 132-5-1 et L. 132-5-2. 
+s'exerce conformément aux articles L. 132-5-1 et L. 132-5-2.
 
-La notice doit indiquer l'objet social et les coordonnées du souscripteur. 
+La notice doit indiquer l'objet social et les coordonnées du souscripteur.
 
 La notice précise que les droits et obligations de l'adhérent peuvent être modifiés par des avenants auxdits contrats. Les
-modalités d'adoption de ces avenants par le souscripteur sont communiquées par ce dernier à l'adhérent. 
+modalités d'adoption de ces avenants par le souscripteur sont communiquées par ce dernier à l'adhérent.
 
 Le souscripteur est tenu de communiquer, chaque année, à l'adhérent les informations établies par l'entreprise d'assurance et
 mentionnées à l'article L. 132-22.
@@ -4798,11 +4860,7 @@ mentionnées à l'article L. 132-22.
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
-
-_Créé par_:
-
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 10 () JORF 16 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°76-666 du 16 juillet 1976
 
 _Cité par_:
 
@@ -4819,13 +4877,17 @@ _Cité par_:
   - Code des assurances - art. L520-1 (VT)
   - Code monétaire et financier - art. L611-3-1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 6
+
 _Cite_:
 
-  - Code des assurances - art. L132-22 (V)
-  - Code des assurances - art. L132-5-1 (V)
-  - Code des assurances - art. L132-5-2 (V)
-  - Code des assurances - art. L141-1 (V)
-  - Code des assurances - art. L141-4 (V)
+  - Code des assurances - art. L132-22
+  - Code des assurances - art. L132-5-1
+  - Code des assurances - art. L132-5-2 (VD)
+  - Code des assurances - art. L141-1
+  - Code des assurances - art. L141-4
 
 
 ###### Article L132-6
@@ -5013,9 +5075,10 @@ _Cité par_:
 
 ###### Article L132-9-2
 
-Toute personne physique ou morale peut demander par lettre à un ou plusieurs organismes professionnels représentatifs,
-habilités à cet effet par arrêté du ministre chargé de l'économie, à être informée de l'existence d'une stipulation effectuée
-à son bénéfice dans une police souscrite par une personne physique dont elle apporte, par tout moyen, la preuve du décès.
+Toute personne physique ou morale peut demander par lettre ou tout autre support durable à un ou plusieurs organismes
+professionnels représentatifs, habilités à cet effet par arrêté du ministre chargé de l'économie, à être informée de
+l'existence d'une stipulation effectuée à son bénéfice dans une police souscrite par une personne physique dont elle apporte,
+par tout moyen, la preuve du décès.
 
 Dans les quinze jours suivant la réception de la lettre mentionnée au premier alinéa, l'organisme transmet cette demande aux
 entreprises agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine. Lorsque la personne
@@ -5026,11 +5089,7 @@ délai d'un mois pour l'informer de l'existence d'un capital ou d'une rente gara
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
-
-_Créé par_:
-
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 8 () JORF 16 décembre 2005
+  - Décret n°76-666 du 16 juillet 1976
 
 _Cité par_:
 
@@ -5050,6 +5109,10 @@ _Cité par_:
   - Code des assurances - art. L132-9-4 (V)
   - Code des assurances - art. L310-9-1 (V)
   - Code monétaire et financier - art. L612-39 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 6
 
 
 ###### Article L132-9-3
@@ -7678,14 +7741,15 @@ _Cite_:
 
 ###### Article L145-8
 
-Le souscripteur et l'entreprise d'assurance peuvent résilier le contrat tous les ans par envoi d'une lettre recommandée à
-l'autre partie au moins deux mois avant la date d'échéance. Ce droit est mentionné dans chaque contrat.
+Le souscripteur et l'entreprise d'assurance peuvent résilier le contrat tous les ans par notification à l'autre partie au
+moins deux mois avant la date d'échéance. Cette notification doit être faite par lettre recommandée ou, dans le cas où la
+résiliation est demandée par l'assuré, par lettre recommandée ou envoi recommandé électronique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-856 du 31 juillet 2014 - art. 51
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 7
 
 
 ###### Article L145-9
@@ -7723,11 +7787,11 @@ _Cite_:
 
 Quiconque prétend avoir été dépossédé par perte, destruction ou vol d'un contrat ou police d'assurance sur la vie, ou d'un
 bon ou contrat de capitalisation ou d'épargne, lorsque le titre est à ordre ou au porteur, doit en faire la déclaration à
-l'entreprise d'assurance, de capitalisation ou d'épargne, à son siège social, par lettre recommandée avec avis de réception.
-L'entreprise destinataire en accuse réception à l'envoyeur, en la même forme, dans les huit jours au plus tard de la remise ;
-elle lui notifie en même temps qu'il doit, à titre conservatoire et tous droits des parties réservés, acquitter à leur
-échéance les primes ou cotisations prévues, dans le cas où le tiers porteur ne les acquitterait pas, afin de conserver au
-contrat frappé d'opposition son plein et entier effet.
+l'entreprise d'assurance, de capitalisation ou d'épargne, à son siège social, par lettre recommandée ou envoi recommandé
+électronique, avec avis de réception. L'entreprise destinataire en accuse réception à l'envoyeur, en la même forme, dans les
+huit jours au plus tard de la remise ; elle lui notifie en même temps qu'il doit, à titre conservatoire et tous droits des
+parties réservés, acquitter à leur échéance les primes ou cotisations prévues, dans le cas où le tiers porteur ne les
+acquitterait pas, afin de conserver au contrat frappé d'opposition son plein et entier effet.
 
 La déclaration mentionnée à l'alinéa précédent emporte opposition au paiement du capital ainsi que de tous accessoires.
 
@@ -7735,7 +7799,7 @@ La déclaration mentionnée à l'alinéa précédent emporte opposition au paiem
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Cité par_:
 
@@ -7744,6 +7808,10 @@ _Cité par_:
 _Anciens textes_:
 
   - Loi n°1930-12-03 art. 1
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 8
 
 
 ###### Article L160-2
@@ -7851,18 +7919,18 @@ _Cité par_:
 La réquisition de la propriété de tout ou partie d'un bien mobilier entraîne de plein droit, dans la limite de la
 réquisition, la résiliation ou la réduction des contrats d'assurance relatifs à ce bien, à compter de la date de dépossession
 de celui-ci. Toutefois, l'assuré a le droit d'obtenir de l'assureur qu'à la résiliation soit substituée la simple suspension
-des effets du contrat en vue de le remettre ultérieurement en vigueur sur les mêmes risques ou sur les risques similaires. 
+des effets du contrat en vue de le remettre ultérieurement en vigueur sur les mêmes risques ou sur les risques similaires.
 
 La réquisition de l'usage de tout ou partie d'un bien mobilier ou immobilier entraîne, de plein droit, la suspension des
 effets des contrats d'assurance relatifs à ce bien, dans la limite de la réquisition, et dans la mesure de la responsabilité
-de l'Etat telle qu'elle est définie à l'article 20 de l'ordonnance n° 59-63 du 6 janvier 1959. 
+de l'Etat telle qu'elle est définie à l'article 20 de l'ordonnance n° 59-63 du 6 janvier 1959.
 
 La suspension prévue aux alinéas précédents ne modifie ni la durée du contrat, ni les droits respectifs des parties quant à
 cette durée. Elle prend effet à la date de dépossession du bien. Le contrat suspendu reprend ses effets, de plein droit, à
 partir du jour de la restitution totale ou partielle du bien requis, s'il n'a pas antérieurement pris fin pour une cause
-légale ou conventionnelle ; l'assuré doit, par lettre recommandée, aviser l'assureur de cette restitution dans le délai d'un
-mois à partir du jour où il en a eu connaissance. Faute de notification dans ce délai, le contrat ne reprend ses effets qu'à
-partir du jour où l'assureur a reçu de l'assuré notification de la restitution.
+légale ou conventionnelle ; l'assuré doit, par lettre recommandée ou par envoi recommandé électronique, aviser l'assureur de
+cette restitution dans le délai d'un mois à partir du jour où il en a eu connaissance. Faute de notification dans ce délai,
+le contrat ne reprend ses effets qu'à partir du jour où l'assureur a reçu de l'assuré notification de la restitution.
 
 **Liens relatifs à cet article**
 
@@ -7872,11 +7940,15 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Ordonnance n°59-63 du 6 janvier 1959 - art. 20 (Ab)
+  - Ordonnance n°59-63 du 6 janvier 1959 - art. 20
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 8
 
 _Cité par_:
 
@@ -7890,20 +7962,21 @@ _Cité par_:
 La réquisition de services, au sens de l'article 2 de l'ordonnance n° 59-63 du 6 janvier 1959 relative aux réquisitions de
 biens et de services, ainsi que dans le cas de logement ou de cantonnement, entraîne de plein droit la suspension des effets
 des contrats d'assurance de dommages, dans la limite de la réquisition, et dans la mesure de la responsabilité de l'Etat
-telle qu'elle est définie à l'article 20 de l'ordonnance n° 59-63 du 6 janvier 1959 précitée. 
+telle qu'elle est définie à l'article 20 de l'ordonnance n° 59-63 du 6 janvier 1959 précitée.
 
 La suspension prévue à l'alinéa précédent ne modifie ni la durée du contrat ni les droits respectifs des parties quant à
 cette durée. Elle prend effet à la date d'entrée en vigueur de la réquisition de services. Le contrat suspendu reprend ses
 effets, de plein droit, à partir du jour de la fin de la réquisition de services, s'il n'a pas antérieurement pris fin pour
-une cause légale ou conventionnelle. L'assuré doit, par lettre recommandée, aviser l'assureur de la fin de la réquisition de
-services dans le délai d'un mois à partir du jour où il en a eu connaissance. Faute de notification dans ce délai, le contrat
-ne reprend ses effets qu'à partir du jour où l'assureur a reçu de l'assuré notification de la cessation de la réquisition. 
+une cause légale ou conventionnelle. L'assuré doit, par lettre recommandée ou par envoi recommandé électronique, aviser
+l'assureur de la fin de la réquisition de services dans le délai d'un mois à partir du jour où il en a eu connaissance. Faute
+de notification dans ce délai, le contrat ne reprend ses effets qu'à partir du jour où l'assureur a reçu de l'assuré
+notification de la cessation de la réquisition.
 
 L'Etat, le prestataire de services et l'assureur peuvent néanmoins décider que les contrats d'assurance de dommages
 continuent leurs effets et couvrent les risques liés à la réquisition, pour la durée déterminée par ces contrats. Dans ce
 cas, les dommages survenant à l'occasion d'une réquisition de services et couverts par un contrat d'assurance sont indemnisés
 par l'assureur. Nonobstant toute disposition contraire, le prestataire de services et l'assureur renoncent de ce fait à
-l'indemnisation par l'Etat de ces dommages. 
+l'indemnisation par l'Etat de ces dommages.
 
 En cas de réquisition de services au sens de l'article 2 de l'ordonnance précitée, les contrats d'assurance de personnes
 continuent leurs effets de plein droit nonobstant toute clause contraire et sans que l'assureur puisse se prévaloir du droit
@@ -7919,41 +7992,41 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Ordonnance n°59-63 du 6 janvier 1959 - art. 2 (Ab)
-  - Ordonnance n°59-63 du 6 janvier 1959 - art. 20 (Ab)
-  - Code des assurances - art. L113-4 (V)
+  - Ordonnance n°59-63 du 6 janvier 1959 - art. 2
+  - Ordonnance n°59-63 du 6 janvier 1959 - art. 20
+  - Code des assurances - art. L113-4
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Loi n°93-1444 du 31 décembre 1993 - art. 19 () JORF 5 janvier 1994
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 8
 
 _Cité par_:
 
   - Code de la défense. - art. L2234-10 (V)
-  - Code des assurances - art. L160-8 (V)
+  - Code des assurances - art. L160-8 (VD)
 
 
 ###### Article L160-8
 
 Dans tous les cas autres que ceux prévus aux troisième et quatrième alinéas de l'article L. 160-7, l'assuré doit, par lettre
-recommandée et dans le délai d'un mois à partir du jour où il a eu connaissance de la dépossession ou de l'entrée en vigueur
-de la réquisition de services, en aviser l'assureur en précisant les biens sur lesquels porte la réquisition. A défaut de
-notification dans ce délai, l'assureur a droit, à titre de dommages-intérêts, à la fraction de prime correspondant au temps
-écoulé entre la date à laquelle l'assuré a eu connaissance de la dépossession ou de l'entrée en vigueur de la réquisition de
-services et la date à laquelle il en a avisé l'assureur. 
+recommandée ou par envoi recommandé électronique et dans le délai d'un mois à partir du jour où il a eu connaissance de la
+dépossession ou de l'entrée en vigueur de la réquisition de services, en aviser l'assureur en précisant les biens sur
+lesquels porte la réquisition. A défaut de notification dans ce délai, l'assureur a droit, à titre de dommages-intérêts, à la
+fraction de prime correspondant au temps écoulé entre la date à laquelle l'assuré a eu connaissance de la dépossession ou de
+l'entrée en vigueur de la réquisition de services et la date à laquelle il en a avisé l'assureur.
 
 En cas de résiliation, l'assureur doit, sous déduction éventuelle des dommages-intérêts prévus ci-dessus, restituer à
-l'assuré la portion de prime payée d'avance et afférente au temps où le risque n'est plus couru. 
+l'assuré la portion de prime payée d'avance et afférente au temps où le risque n'est plus couru.
 
 En cas de suspension, cette portion de prime est conservée par l'assureur au crédit de l'assuré et porte intérêt au taux des
-avances sur titres de la Banque de France à compter de la plus prochaine échéance. 
+avances sur titres de la Banque de France à compter de la plus prochaine échéance.
 
 En cas de réduction, la fraction de prime payée en excédent est également conservée par l'assureur au crédit de l'assuré ;
-elle porte intérêt dans les mêmes conditions et s'impute de plein droit sur les primes à échoir. 
+elle porte intérêt dans les mêmes conditions et s'impute de plein droit sur les primes à échoir.
 
 Si le contrat suspendu, ou réduit, prend fin pendant la réquisition, la portion de prime payée en trop est restituée à
 l'assuré avec les intérêts. Toutefois, elle s'impute de plein droit sur la somme due par l'assuré qui, au cours de la
@@ -7967,11 +8040,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Loi n°93-1444 du 31 décembre 1993 - art. 19 () JORF 5 janvier 1994
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 8
 
 _Cité par_:
 
@@ -7980,7 +8053,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L160-7 (V)
+  - Code des assurances - art. L160-7 (VD)
 
 
 ##### Section V bis : Effet sur les contrats d'assurance sur la vie de la confiscation pénale.<a id=42></a>
@@ -11883,8 +11956,8 @@ _Cité par_:
 
 ###### Article L211-16
 
-La victime peut, par lettre recommandée avec demande d'avis de réception, dénoncer la transaction dans les quinze jours de sa
-conclusion.
+La victime peut, par lettre recommandée, ou par envoi recommandé électronique avec demande d'avis de réception, dénoncer la
+transaction dans les quinze jours de sa conclusion.
 
 Toute clause de la transaction par laquelle la victime abandonne son droit de dénonciation est nulle.
 
@@ -11895,11 +11968,11 @@ transaction à peine de nullité relative de cette dernière.
 
 _Codifié par_:
 
-  - Décret n°88-260 1988-03-18
+  - Décret n°88-260 du 18 mars 1988
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-260 du 18 mars 1988 - art. 2 () JORF 20 mars 1988
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 9
 
 _Cité par_:
 
@@ -20453,7 +20526,8 @@ cette attestation.
 
 Le transfert mentionné au premier alinéa est opposable aux entreprises réassurées qui n'ont pas manifesté leur opposition
 dans un délai de trois mois suivant la notification, par l'entreprise ou la succursale transférant tout ou partie de son
-portefeuille de contrats ou de sinistres à payer, de ce transfert par lettre recommandée avec accusé de réception.
+portefeuille de contrats ou de sinistres à payer, de ce transfert  par lettre recommandée, ou par envoi recommandé
+électronique, avec accusé de réception.
 
 **Liens relatifs à cet article**
 
@@ -20463,7 +20537,6 @@ _Cité par_:
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
   - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 26 (V)
   - Code de la mutualité - art. L211-8-1 (VD)
-  - Code de la mutualité - art. L211-9 (MMN)
   - Code de la mutualité - art. L212-1 (V)
   - Code de la mutualité - art. L212-11-1 (V)
   - Code de la sécurité sociale. - art. L931-16-1 (V)
@@ -20477,12 +20550,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 3
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 10
 
 _Cite_:
 
-  - Code des assurances - art. L310-1-1 (VD)
-  - Code des assurances - art. L352-1 (VD)
+  - Code des assurances - art. L310-1-1
+  - Code des assurances - art. L352-1
 
 
 ###### Article L324-2
@@ -29041,25 +29114,25 @@ _Cité par_:
 ###### Article L441-3
 
 I. – Pour les opérations à adhésion facultative, la notice remise par le souscripteur à l'adhérent lors de l'adhésion inclut,
-outre les informations mentionnées au deuxième alinéa de l'article L. 141-4 :
+outre les informations mentionnées au deuxième alinéa de l'article L. 141-4 : 
 
-a) La dénomination sociale et les coordonnées du souscripteur ;
+a) La dénomination sociale et les coordonnées du souscripteur ; 
 
 b) Les stipulations essentielles de la convention, notamment les possibilités de baisse de la valeur de service de l'unité de
-rente et de conversion de la convention qui peuvent être prévues conformément au II de l'article L. 441-2 ;
+rente et de conversion de la convention qui peuvent être prévues conformément au II de l'article L. 441-2 ; 
 
 c) La mention que les droits et obligations de l'adhérent peuvent être modifiés par des avenants à ladite convention ainsi
-que les modalités d'adoption de ces avenants par le souscripteur ;
+que les modalités d'adoption de ces avenants par le souscripteur ; 
 
-d) Les conditions d'exercice de la faculté de renonciation ainsi qu'un modèle de lettre destiné à faciliter l'exercice de
-cette faculté ;
+d) Les conditions d'exercice de la faculté de renonciation ainsi qu'un  modèle de rédaction destiné à faciliter l'exercice de
+cette faculté ; 
 
 e) Les modalités de la conversion de la convention en rentes viagères selon les conditions fixées par arrêté du ministre
-chargé de l'économie.
+chargé de l'économie. 
 
 Un résumé des caractéristiques essentielles de la convention figure au début de cette notice, dans un format précisé par
 arrêté du même ministre qui en fixe également, de façon limitative, le contenu. Cet arrêté précise également l'ensemble des
-informations qui doivent figurer dans la notice, notamment les stipulations essentielles au sens du b.
+informations qui doivent figurer dans la notice, notamment les stipulations essentielles au sens du b. 
 
 II. – Pour les opérations à adhésion facultative, le défaut de remise de la notice prévue au I du présent article entraîne de
 plein droit la prorogation du délai de renonciation prévu à l'article L. 132-5-1, dans les conditions prévues à l'alinéa 6 de
@@ -29073,7 +29146,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-484 du 6 avril 2017 - art. 12
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 11
 
 _Cité par_:
 
@@ -30592,23 +30665,22 @@ _Cite_:
 
 ###### Article R112-3
 
-La remise des documents visés au deuxième alinéa de l'article L. 112-2 est constatée par une mention signée et datée par le
-souscripteur apposée au bas de la police, par laquelle celui-ci reconnaît avoir reçu au préalable ces documents et précisant
-leur nature et la date de leur remise.
+Le souscripteur atteste par écrit de la date de remise des documents mentionnés au deuxième alinéa de l'article L. 112-2 et
+de leur bonne réception.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°90-827 du 20 septembre 1990 - art. 2 () JORF 21 septembre 1990
+  - Décret n°2018-229 du 30 mars 2018 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L112-2 (V)
+  - Code des assurances - art. L112-2
 
 
 ###### Article R112-4
@@ -30744,9 +30816,12 @@ _Cite_:
 
 ###### Article R113-6
 
-Lorsqu'une partie entend résilier un contrat d'assurance en vertu de l'article L. 113-16, elle doit adresser à l'autre partie
-une lettre recommandée avec demande d'avis de réception, indiquant la nature et la date de l'événement qu'elle invoque et
-donnant toutes précisions de nature à établir que la résiliation est en relation directe avec ledit événement. 
+La résiliation d'un contrat d'assurance en vertu de l'article L. 113-16 résulte de l'envoi d'une lettre recommandée ou d'un
+envoi recommandé électronique, avec demande d'avis de réception, si la résiliation est à l'initiative de l'assuré, ou de
+l'envoi d'une lettre recommandée avec demande d'avis de réception si elle est à l'initiative de l'assureur.
+
+Cette lettre ou cet envoi indique la nature et la date de l'événement qu'elle invoque et donne toutes les précisions de
+nature à établir que la résiliation est en relation directe avec ledit événement.
 
 Lorsque cet événement est constitué ou constaté par une décision juridictionnelle ou lorsqu'il ne peut en être déduit
 d'effets juridiques qu'après une homologation ou un exequatur, la date retenue est celle à laquelle cet acte juridictionnel
@@ -30760,15 +30835,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°92-1356 du 22 décembre 1992 - art. 1 () JORF 29 décembre 1992
+  - Décret n°2018-229 du 30 mars 2018 - art. 2
 
 _Cite_:
 
-  - Code des assurances - art. L113-16 (V)
+  - Code des assurances - art. L113-16
 
 
 ###### Article R113-11
@@ -30805,39 +30880,39 @@ _Cité par_:
 ###### Article R113-12
 
 I.-Pour les contrats mentionnés à l'article R. 113-11, lorsque sont remplies les conditions de résiliation prévues à
-l'article L. 113-15-2, l'assureur applique les dispositions de cet article : 
+l'article L. 113-15-2, l'assureur applique les dispositions de cet article :
 
 1° Lorsque l'assuré dénonce la reconduction tacite du contrat en application de l'article L. 113-15-1, postérieurement à la
-date limite d'exercice du droit de dénonciation du contrat ; 
+date limite d'exercice du droit de dénonciation du contrat ;
 
 2° Lorsque l'assuré demande la résiliation du contrat en se fondant sur un motif prévu par le code des assurances dont
-l'assureur constate qu'il n'est pas applicable ; 
+l'assureur constate qu'il n'est pas applicable ;
 
-3° Ou lorsque l'assuré ne précise pas le fondement de sa demande de résiliation. 
+3° Ou lorsque l'assuré ne précise pas le fondement de sa demande de résiliation.
 
 II.-Pour les contrats mentionnés à l'article R. 113-11, dès réception de la demande de résiliation, que cette demande émane
 de l'assuré ou qu'elle soit effectuée pour le compte de ce dernier par le nouvel assureur selon les modalités définies au
 III, l'assureur communique par tout support durable à l'assuré un avis de résiliation l'informant de la date de prise d'effet
 de la résiliation, en application du premier alinéa de l'article L. 113-15-2. Cet avis rappelle à l'assuré son droit à être
 remboursé du solde mentionné au troisième alinéa de l'article L. 113-15-2 dans un délai de trente jours à compter de cette
-date. 
+date.
 
 III.-L'assuré qui souhaite procéder à la résiliation de contrats visés au quatrième alinéa de l'article L. 113-15-2, en vue
-de contracter avec un nouvel assureur, en transmet la demande à ce dernier par lettre ou tout support durable. Dans sa
-demande, l'assuré manifeste expressément sa volonté de résilier son contrat en cours et de souscrire un nouveau contrat
-auprès du nouvel assureur. Ce dernier doit être en mesure de justifier de la demande qui lui est adressée par l'assuré, avant
-de procéder aux formalités prévues à ce quatrième alinéa. 
+de contracter avec un nouvel assureur, en transmet la demande à ce dernier sur support papier ou tout autre support durable.
+Dans sa demande, l'assuré manifeste expressément sa volonté de résilier son contrat en cours et de souscrire un nouveau
+contrat auprès du nouvel assureur. Ce dernier doit être en mesure de justifier de la demande qui lui est adressée par
+l'assuré, avant de procéder aux formalités prévues à ce quatrième alinéa.
 
-Le nouvel assureur notifie alors au précédent assureur la résiliation du contrat de l'assuré par lettre recommandée, y
-compris électronique. La notification mentionne le numéro du contrat, le nom du souscripteur, le nom du nouvel assureur
-choisi par l'assuré. Elle rappelle que le nouvel assureur s'assure de la continuité de la couverture de l'assuré durant
-l'opération de résiliation. La date de réception de la notification de résiliation est présumée être le premier jour qui suit
-la date d'envoi de cette notification telle qu'elle figure sur le cachet de la poste de la lettre recommandée ou, s'il s'agit
-d'une lettre recommandée électronique, sur la preuve de son dépôt selon les modalités prévues à l'article 2 du décret n°
-2011-144 du 2 février 2011 relatif à l'envoi d'une lettre recommandée par courrier électronique pour la conclusion ou
-l'exécution d'un contrat. 
+Le nouvel assureur notifie alors au précédent assureur la résiliation du contrat de l'assuré par lettre recommandée ou par
+envoi recommandé électronique. La notification mentionne le numéro du contrat, le nom du souscripteur, le nom du nouvel
+assureur choisi par l'assuré. Elle rappelle que le nouvel assureur s'assure de la continuité de la couverture de l'assuré
+durant l'opération de résiliation. La date de réception de la notification de résiliation est présumée être le premier jour
+qui suit la date d'envoi de cette notification telle qu'elle figure sur le cachet de la poste de la lettre recommandée ou,
+s'il s'agit d'une lettre recommandée électronique, sur la preuve de son dépôt selon les modalités prévues à l'article 2 du
+décret n° 2011-144 du 2 février 2011 relatif à l'envoi d'une lettre recommandée par courrier électronique pour la conclusion
+ou l'exécution d'un contrat.
 
-Le nouveau contrat ne peut prendre effet avant la prise d'effet de la résiliation de l'ancien contrat. 
+Le nouveau contrat ne peut prendre effet avant la prise d'effet de la résiliation de l'ancien contrat.
 
 Pour les contrats d'assurance mentionnés au 1° de l'article R. 113-11, lorsque l'assuré le lui demande, l'ancien assureur
 transmet dans les meilleurs délais, et au maximum dans un délai de quinze jours, au nouvel assureur le relevé d'information
@@ -30852,14 +30927,14 @@ de son droit à résiliation dans les conditions prévues à ce même quatrième
 _Cite_:
 
   - Décret n°2011-144 du 2 février 2011 - art. 2
-  - Code des assurances - art. A121-1 (V)
+  - Code des assurances - art. A121-1
   - Code des assurances - art. L113-15-1
   - Code des assurances - art. L113-15-2
   - Code des assurances - art. R113-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1685 du 29 décembre 2014 - art. 1
+  - Décret n°2018-229 du 30 mars 2018 - art. 2
 
 
 ###### Article R113-13
@@ -31549,21 +31624,20 @@ _Créé par_:
 Les mesures prises par l'entreprise d'assurance en application du 2° du I et du 2° du II de l'article L. 131-4 n'ont d'effet
 qu'à l'égard des demandes d'opérations sur le contrat formulées postérieurement à la dernière date de centralisation des
 ordres de rachat par l'organisme de placement collectif concerné précédant sa décision de suspension ou de plafonnement
-temporaire des rachats de ses parts ou actions. 
+temporaire des rachats de ses parts ou actions.
 
 La demande d'opération sur le contrat non exécutée en tout ou partie en raison d'une mesure de restriction prise par
 l'entreprise d'assurance en application du 2° du I ou du 2° du II de l'article L. 131-4 est automatiquement reportée à la
 prochaine date de centralisation des ordres de l'organisme de placement collectif concerné lorsque celui-ci établit sa valeur
 liquidative plus d'une fois par semaine. Toutefois, si le contrat le prévoit, le souscripteur, l'adhérent ou le bénéficiaire
 peut s'opposer au report de la part non exécutée de sa demande d'opération. La demande d'opération sur le contrat non
-exécutée en tout ou partie est automatiquement annulée dans les autres cas. L'entreprise d'assurance informe par tout moyen
-écrit et sans délai le souscripteur, l'adhérent ou le bénéficiaire du report ou de l'annulation de la part de sa demande
-d'opération non exécutée. 
+exécutée en tout ou partie est automatiquement annulée dans les autres cas. L'entreprise d'assurance informe sur support
+papier ou tout autre support durable et sans délai le souscripteur, l'adhérent ou le bénéficiaire du report ou de
+l'annulation de la part de sa demande d'opération non exécutée.
 
 Lorsque l'entreprise d'assurance décide de restreindre les opérations dans les conditions prévues au I de l'article L. 131-4,
 elle ne peut appliquer aux souscripteurs, adhérents ou bénéficiaires une valeur liquidative inférieure à la dernière valeur
-liquidative publiée de l'organisme de placement collectif faisant l'objet d'une suspension du rachat de ses parts ou
-actions. 
+liquidative publiée de l'organisme de placement collectif faisant l'objet d'une suspension du rachat de ses parts ou actions.
 
 Lorsque l'entreprise d'assurance décide de restreindre les opérations sur le contrat dans les conditions prévues au II de
 l'article L. 131-4, elle applique un seuil de restriction dans les mêmes proportions pour chacun des souscripteurs, adhérents
@@ -31573,9 +31647,9 @@ compte du contrat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1104 du 23 juin 2017 - art. 1
+  - Décret n°2018-229 du 30 mars 2018 - art. 3
 
 _Cité par_:
 
@@ -31584,7 +31658,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L131-4 (V)
+  - Code des assurances - art. L131-4
 
 
 ###### Article R131-9
@@ -31624,35 +31698,34 @@ _Cite_:
 
 Lorsqu'elle prend l'une des mesures prévues au 2° du I et au 2° du II de l'article L. 131-4, l'entreprise d'assurance tient à
 la disposition des souscripteurs, adhérents et bénéficiaires, par tout moyen et au moins par une mention sur son site
-internet, l'information comprenant les éléments suivants : 
+internet, l'information comprenant les éléments suivants :
 
-1° La dénomination des unités de compte concernées ; 
+1° La dénomination des unités de compte concernées ;
 
-2° La description des mesures prises et leur durée prévue ou estimée ; 
+2° La description des mesures prises et leur durée prévue ou estimée ;
 
-3° Les modalités de report et de révocabilité de la demande d'opération qui serait non exécutée en tout ou partie ; 
+3° Les modalités de report et de révocabilité de la demande d'opération qui serait non exécutée en tout ou partie ;
 
-4° Les modalités de règlement des opérations sur le contrat. 
+4° Les modalités de règlement des opérations sur le contrat.
 
 Lorsque l'adhérent ou le souscripteur détenteur d'un contrat dont les garanties sont exprimées dans les unités de compte
 concernées par l'une des mesures prévues au 2° du I et au 2° du II de l'article L. 131-4 demande une opération sur une de ces
 unités de compte, l'entreprise d'assurance l'avise par tout moyen, lors de sa demande, de l'information mentionnée au premier
-alinéa. A défaut, ces mesures ne sont pas opposables à l'adhérent ou au souscripteur. 
+alinéa. A défaut, ces mesures ne sont pas opposables à l'adhérent ou au souscripteur.
 
 A l'issue de la période de mise en œuvre des mesures prévues au 2° du I et au 2° du II de l'article L. 131-4, l'entreprise
-d'assurance envoie par voie postale ou électronique à chaque adhérent, souscripteur ou bénéficiaire ayant demandé une
-opération à laquelle ces mesures étaient applicables un relevé détaillant les effets des mesures prises sur les opérations
-effectuées.
+d'assurance fournit à chaque adhérent, souscripteur ou bénéficiaire ayant demandé une opération à laquelle ces mesures
+étaient applicables un relevé détaillant les effets des mesures prises sur les opérations effectuées.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1104 du 23 juin 2017 - art. 1
+  - Décret n°2018-229 du 30 mars 2018 - art. 3
 
 _Cite_:
 
-  - Code des assurances - art. L131-4 (V)
+  - Code des assurances - art. L131-4
 
 
 ###### Article R131-11
@@ -31969,12 +32042,12 @@ _Cite_:
 
 ###### Article R132-5-4
 
-Le relevé d'information spécifique mentionné à l'article L. 132-22 est adressé au contractant dans l'année qui précède la
-date du terme du contrat et au plus tard un mois avant cette date. Les informations visées à l'article L. 132-22 peuvent
-faire l'objet d'un même document. 
+Le relevé d'information spécifique mentionné à l'article L. 132-22 est fourni au contractant dans l'année qui précède la date
+du terme du contrat et au plus tard un mois avant cette date. Les informations visées à l'article L. 132-22 peuvent faire
+l'objet d'un même document.
 
 Pour les contrats à tacite reconduction, le relevé d'information spécifique est adressé dans les conditions prévues au
-premier alinéa avant chaque date de reconduction tacite. 
+premier alinéa avant chaque date de reconduction tacite.
 
 Pour les contrats non reconduits, si le contractant ou le bénéficiaire ne s'est pas manifesté dans l'année qui suit la date
 du terme du contrat, le relevé d'information spécifique est à nouveau adressé dans le mois qui suit le premier anniversaire
@@ -31982,13 +32055,13 @@ du terme du contrat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1092 du 28 août 2015 - art. 2
+  - Décret n°2018-229 du 30 mars 2018 - art. 4
 
 _Cite_:
 
-  - Code des assurances - art. L132-22 (V)
+  - Code des assurances - art. L132-22
 
 
 ###### Article R132-5-5
@@ -32196,32 +32269,32 @@ _Cité par_:
 
 Pour l'exercice de l'option mentionnée au deuxième alinéa du 2° de l'article L. 131-1, le contractant ayant opté
 irrévocablement pour la remise de titres, de parts ou d'actions en application du 2° ou du 3° de l'article L. 131-1, peut, à
-tout moment, adresser au bénéficiaire du contrat, par lettre recommandée, y compris électronique, un avis l'informant de sa
-faculté d'opter pour la remise de ces titres, parts ou actions en cas d'exercice de la clause bénéficiaire et précisant les
-caractéristiques des titres, parts ou actions concernés. 
+tout moment, adresser au bénéficiaire du contrat, par lettre recommandée ou par envoi recommandé électronique, un avis
+l'informant de sa faculté d'opter pour la remise de ces titres, parts ou actions en cas d'exercice de la clause bénéficiaire
+et précisant les caractéristiques des titres, parts ou actions concernés.
 
 Cet avis est accompagné d'un formulaire de notification de l'option que le bénéficiaire doit adresser à l'assureur pour opter
 irrévocablement pour une remise de titres, parts ou actions mentionnés au 2° ou 3° de l'article L. 131-1. Un arrêté du
 ministre chargé de l'économie précise les mentions minimales devant figurer d'une part dans l'avis, d'autre part dans le
-formulaire de notification de l'option. 
+formulaire de notification de l'option.
 
 La date de réception de l'avis relatif à l'exercice de l'option est présumée être le premier jour qui suit la date d'envoi de
 cet avis telle qu'elle figure sur le cachet de la poste de la lettre recommandée ou, s'il s'agit d'une lettre recommandée
 électronique, sur la preuve de son dépôt selon les modalités prévues à l'article 2 du décret n° 2011-144 du 2 février 2011
-relatif à l'envoi d'une lettre recommandée par courrier électronique pour la conclusion ou l'exécution d'un contrat. 
+relatif à l'envoi d'une lettre recommandée par courrier électronique pour la conclusion ou l'exécution d'un contrat.
 
-La notification de l'exercice de l'option par le bénéficiaire a lieu par lettre recommandée, y compris électronique, adressée
-à l'assureur et à laquelle est jointe une copie de l'avis envoyé par le contractant. Le bénéficiaire ne peut notifier
-l'exercice de l'option qu'à l'issue d'un délai de dix jours commençant à la réception de l'avis. A défaut de notification de
-l'exercice de l'option dans le délai de soixante jours, le bénéficiaire est réputé avoir refusé la remise en titres, parts ou
-actions. L'option est réputée être exercée à la date de réception de la notification par l'assureur. Ce dernier informe le
-contractant de l'exercice de l'option par le bénéficiaire.
+La notification de l'exercice de l'option par le bénéficiaire a lieu par lettre recommandée ou par envoi recommandé
+électronique adressé à l'assureur et à laquelle est jointe une copie de l'avis envoyé par le contractant. Le bénéficiaire ne
+peut notifier l'exercice de l'option qu'à l'issue d'un délai de dix jours commençant à la réception de l'avis. A défaut de
+notification de l'exercice de l'option dans le délai de soixante jours, le bénéficiaire est réputé avoir refusé la remise en
+titres, parts ou actions. L'option est réputée être exercée à la date de réception de la notification par l'assureur. Ce
+dernier informe le contractant de l'exercice de l'option par le bénéficiaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1669 du 14 décembre 2015 - art. 1
+  - Décret n°2018-229 du 30 mars 2018 - art. 4
 
 _Cité par_:
 
@@ -34212,8 +34285,8 @@ l'économie. Le contrat prévoit, le cas échéant, les conditions dans lesquell
 d'unités de compte de l'adhérent sont d'office converties en provisions techniques relatives à des engagements de capital
 exprimé en euros afin de vérifier ce ratio.
 
-Toutefois, le plan peut prévoir la possibilité pour l'adhérent de ne pas respecter ce ratio à condition qu'il en fasse par
-écrit la demande dans des conditions déterminées par arrêté du ministre chargé de l'économie.
+Toutefois, le plan peut prévoir la possibilité pour l'adhérent de ne pas respecter ce ratio à condition qu'il en fasse la
+demande dans des conditions déterminées par arrêté du ministre chargé de l'économie.
 
 II. ― Lorsqu'un plan prévoit la possibilité pour un adhérent de demander la liquidation anticipée de ses droits en cas
 d'invalidité, le montant de la rente auquel celui-ci peut prétendre est déterminé en prenant en compte l'intégralité des
@@ -34228,7 +34301,7 @@ déterminés sur la base des droits inscrits au compte de l'adhérent avant la d
 
 _Modifié par_:
 
-  - Décret n°2014-1008 du 4 septembre 2014 - art. 3
+  - Décret n°2018-229 du 30 mars 2018 - art. 5
 
 _Cité par_:
 
@@ -34454,9 +34527,9 @@ _Anciens textes_:
 ###### Article R150-8
 
 En cas de sortie d'un titre à un tirage, l'entreprise doit, avant toute démarche de ses représentants auprès du bénéficiaire,
-adresser par la poste à ce dernier une lettre l'informant que son contrat avec l'entreprise a pris fin et qu'il lui sera
-payé, sans aucune retenue et sans aucune obligation de sa part, ni à l'égard de la personne qui fera le paiement, ni à
-l'égard de l'entreprise, la somme fixée par les conditions générales de son titre et reproduite dans ladite lettre.
+informer ce dernier par support papier ou tout autre support durable que son contrat avec l'entreprise a pris fin et qu'il
+lui sera payé, sans aucune retenue et sans aucune obligation de sa part, ni à l'égard de la personne qui fera le paiement, ni
+à l'égard de l'entreprise, la somme fixée par les conditions générales de son titre et reproduite dans cette information.
 
 **Liens relatifs à cet article**
 
@@ -34466,11 +34539,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Code des assurances R150-4
+  - Décret n°2018-229 du 30 mars 2018 - art. 6
 
 
 ###### Article R150-9
@@ -34607,25 +34680,21 @@ _Cite_:
 ###### Article R150-15
 
 Toutefois, les entreprises qui procèdent à l'impression par tirages et par tarifs des listes mentionnées à l'article R. 150-9
-et les communiquent gratuitement à tout intéressé qui le demande par lettre sont admises à insérer dans la presse des avis ne
-contenant, outre les indications prescrites par l'article R. 150-13, que la liste des contrats ou titres effectivement
-remboursables ou qu'un extrait régional de cette liste. 
+et les communiquent gratuitement à tout intéressé qui le demande sont admises à insérer dans la presse des avis ne contenant,
+outre les indications prescrites par l'article R. 150-13, que la liste des contrats ou titres effectivement remboursables ou
+qu'un extrait régional de cette liste.
 
-Dans ce cas, la liste ou l'extrait régional est suivi de la mention ci-après imprimée en caractères très apparents : 
+Dans ce cas, la liste ou l'extrait régional est suivi de la mention ci-après imprimée en caractères très apparents :
 
-" L'entreprise remet ou envoie gratuitement à tout intéressé, sur sa demande, la liste complète des numéros désignés par le
-sort avec, en regard, les numéros des titres effectivement remboursables ".
+" L'entreprise fournit gratuitement à tout intéressé, sur sa demande, la liste complète des numéros désignés par le sort
+avec, en regard, les numéros des titres effectivement remboursables ".
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code des assurances - art. R150-13 (V)
-  - Code des assurances - art. R150-9 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R150-4
+  - Code des assurances - art. R150-13
+  - Code des assurances - art. R150-9
 
 _Anciens textes_:
 
@@ -34633,11 +34702,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°93-382 du 19 mars 1993 - art. 2 () JORF 20 mars 1993 en vigueur le 1er juillet 1993
+  - Décret n°2018-229 du 30 mars 2018 - art. 6
 
 
 ###### Article R150-16
@@ -34665,8 +34734,8 @@ _Anciens textes_:
 ###### Article R*160-4
 
 S'il se manifeste un tiers porteur du contrat frappé d'opposition, l'entreprise en avise l'opposant dans le mois, par lettre
-recommandée avec avis de réception ; elle doit également en aviser, dans la même forme, le souscripteur originel du contrat,
-s'il est autre que l'opposant.
+recommandée ou par envoi recommandé électronique avec avis de réception ; elle doit également en aviser, dans la même forme,
+le souscripteur originel du contrat, s'il est autre que l'opposant.
 
 Cet avis mentionne l'obligation d'introduire dans le mois une action en revendication, à peine de mainlevée de l'opposition.
 
@@ -34674,11 +34743,15 @@ Cet avis mentionne l'obligation d'introduire dans le mois une action en revendic
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
+
+_Modifié par_:
+
+  - Décret n°2018-229 du 30 mars 2018 - art. 7
 
 _Cité par_:
 
-  - Code des assurances - art. R*160-5 (M)
+  - Code des assurances - art. R*160-5 (V)
 
 _Anciens textes_:
 
@@ -34688,11 +34761,11 @@ _Anciens textes_:
 ###### Article R*160-5
 
 Dans le mois qui suit la réception de la lettre prévue à l'article R. 160-4, l'opposant doit saisir de son action la
-juridiction compétente et notifier, par lettre recommandée avec avis de réception, à l'entreprise, l'introduction de cette
-demande en spécifiant la date de l'assignation et le nom de l'huissier qui l'a délivrée. 
+juridiction compétente et notifier, ou par envoi recommandé électronique avec avis de réception, à l'entreprise,
+l'introduction de cette demande en spécifiant la date de l'assignation et le nom de l'huissier qui l'a délivrée.
 
 Faute par l'opposant d'avoir introduit et notifié son action dans ledit délai, l'opposition est levée de plein droit et
-mention de cette mainlevée est faite sur le registre des oppositions. 
+mention de cette mainlevée est faite sur le registre des oppositions.
 
 Toutefois, si l'opposant justifie d'une cause légitime l'ayant empêché d'agir ou en cas de fraude, il peut exercer son
 recours contre le tiers porteur et toute personne responsable de la fraude.
@@ -34701,7 +34774,11 @@ recours contre le tiers porteur et toute personne responsable de la fraude.
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
+
+_Modifié par_:
+
+  - Décret n°2018-229 du 30 mars 2018 - art. 7
 
 _Cite_:
 
@@ -34738,8 +34815,9 @@ _Anciens textes_:
 ###### Article R*160-9
 
 L'assuré qui désire obtenir de l'assureur qu'à la résiliation du contrat d'assurance, prévue par l'article L. 160-6, soit
-substituée la simple suspension du contrat, doit en faire la demande à l'assureur, par lettre recommandée avec demande d'avis
-de réception, dans le délai d'un mois à partir du jour où il a eu connaissance de la dépossession.
+substituée la simple suspension du contrat, doit en faire la demande à l'assureur, par lettre recommandée ou par envoi
+recommandé électronique avec demande d'avis de réception, dans le délai d'un mois à partir du jour où il a eu connaissance de
+la dépossession.
 
 **Liens relatifs à cet article**
 
@@ -34749,7 +34827,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
+
+_Modifié par_:
+
+  - Décret n°2018-229 du 30 mars 2018 - art. 7
 
 _Cité par_:
 
@@ -34758,7 +34840,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L160-6 (V)
+  - Code des assurances - art. L160-6
 
 
 ###### Article R*160-11
@@ -34860,7 +34942,7 @@ _Codifié par_:
 
 ###### Article R172-2
 
-Avant l'établissement de la police ou d'un avenant, la preuve de l'engagement des parties peut être établie par tout écrit,
+Avant l'établissement de la police ou d'un avenant, la preuve de l'engagement des parties peut être établie par tout moyen,
 notamment par arrêté d'assurance ou note de couverture.
 
 **Liens relatifs à cet article**
@@ -34875,7 +34957,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-849 du 4 juillet 2012 - art. 5
+  - Décret n°2018-229 du 30 mars 2018 - art. 8
 
 
 ###### Article R172-3
@@ -34933,10 +35015,9 @@ _Créé par_:
 
 ###### Article R172-4
 
-Le délaissement est notifié à l'assureur par lettre recommandée ou par acte extrajudiciaire.
-
-Il doit intervenir dans les trois mois de la connaissance de l'événement qui y donne lieu, ou de l'expiration du délai qui le
-permet.
+Le délaissement est notifié à l'assureur par lettre recommandée, par envoi recommandé électronique ou par acte
+extrajudiciaire. Il doit intervenir dans les trois mois de la connaissance de l'événement qui y donne lieu, ou de
+l'expiration du délai qui le permet.
 
 **Liens relatifs à cet article**
 
@@ -34946,7 +35027,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
+
+_Modifié par_:
+
+  - Décret n°2018-229 du 30 mars 2018 - art. 8
 
 
 ###### Article R172-5
@@ -35053,14 +35138,14 @@ _Créé par_:
 
 ###### Article R175-3
 
-Avant l'établissement de la police ou d'un avenant, la preuve de l'engagement des parties peut être établie par tout écrit,
+Avant l'établissement de la police ou d'un avenant, la preuve de l'engagement des parties peut être établie par tout moyen,
 notamment par arrêté d'assurance ou note de couverture.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-849 du 4 juillet 2012 - art. 7
+  - Décret n°2018-229 du 30 mars 2018 - art. 9
 
 
 ###### Article R175-4
@@ -36441,24 +36526,24 @@ _Cite_:
 Si, dans un délai de six semaines à compter de la présentation de la correspondance qui est prévue au premier alinéa de
 l'article L. 211-10 et par laquelle l'assureur demande les renseignements qui doivent lui être adressés conformément aux
 articles R. 211-37 ou R. 211-38, l'assureur n'a reçu aucune réponse ou qu'une réponse incomplète, le délai prévu au premier
-alinéa de l'article L. 211-9 est suspendu à compter de l'expiration du délai de six semaines et jusqu'à la réception de la
-lettre contenant les renseignements demandés.
+alinéa de l'article L. 211-9 est suspendu à compter de l'expiration du délai de six semaines et jusqu'à la réception des
+renseignements demandés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°88-261 1988-03-18
+  - Décret n°88-261 du 18 mars 1988
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-261 1988-03-18 art. 2 2° JORF 20 mars 1988
+  - Décret n°2018-229 du 30 mars 2018 - art. 10
 
 _Cite_:
 
-  - Code des assurances - art. L211-10 (V)
-  - Code des assurances - art. L211-9 (V)
-  - Code des assurances - art. R211-37 (V)
+  - Code des assurances - art. L211-10
+  - Code des assurances - art. L211-9
+  - Code des assurances - art. R211-37
 
 _Cité par_:
 
@@ -37378,32 +37463,26 @@ l'article L. 211-1, ou à l'obligation d'assurance de responsabilité civile des
 copropriétaires ou des syndicats de copropriétaires en vertu des articles L. 215-1 et L. 215-2 ou à l'obligation d'assurance
 des engins de remontée mécanique en vertu de l'article L. 220-1, ou à l'obligation d'assurance des travaux de construction en
 vertu des articles L. 241-1 à L. 242-1, ou à l'obligation d'assurance de responsabilité médicale en vertu de l'article L.
-251-1, que si l'assurance a été sollicitée par lettre recommandée avec demande d'avis de réception au siège de l'entreprise
-d'assurance ou y a été déposée contre récépissé. 
+251-1, que si l'assurance a été sollicitée par lettre recommandée ou par envoi recommandé électronique, avec demande d'avis
+de réception au siège de l'entreprise d'assurance ou y a été déposée contre récépissé.
 
-Le Bureau central de tarification est saisi par lettre recommandée avec demande d'avis de réception dans le délai de quinze
-jours, sous peine d'irrecevabilité, à compter du refus de l'assureur sollicité ou, dans les cas mentionnés aux articles L.
-125-6, L. 220-5 et L. 252-1 du dernier assureur sollicité. 
+Le Bureau central de tarification est saisi par lettre recommandée ou par envoi recommandé électronique, avec demande d'avis
+de réception dans le délai de quinze jours, sous peine d'irrecevabilité, à compter du refus de l'assureur sollicité ou, dans
+les cas mentionnés aux articles L. 125-6, L. 220-5 et L. 252-1 du dernier assureur sollicité.
 
 Lorsqu'il s'agit de la souscription d'un contrat nouveau, est considéré comme un refus implicite d'assurance le silence gardé
 par l'assureur pendant plus de quinze jours après réception de la demande de souscription adressée en vertu des articles L.
 125-6, L. 212-1, L. 215-1, L. 215-2 ou L. 220-5 et pendant plus de quarante-cinq jours après réception de la demande de
-souscription adressée en vertu de l'article L. 243-4 ou L. 252-1. 
+souscription adressée en vertu de l'article L. 243-4 ou L. 252-1.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une demande de souscription d'assurance, de subordonner son
 acceptation à la couverture de risques non mentionnés dans l'obligation d'assurance ou dont l'étendue excéderait les limites
-de l'obligation d'assurance. 
+de l'obligation d'assurance.
 
 Lorsqu'un assuré a fait usage du droit de résiliation prévu au deuxième alinéa de l'article R. 113-10, il ne peut, pendant le
 délai d'un an, saisir le Bureau central de tarification du refus, opposé par l'entreprise d'assurance qui le garantissait, à
 une demande de souscription formulée en application des articles L. 125-1 et L. 125-2, L. 211-1, L. 215-1, L. 215-2, L.
 220-1, L. 241-1 à L. 242-1 et L. 252-1.
-
-**Nota:**
-
-Conformément à l'article 5 du décret n° 2015-518 du 11 mai 2015, les présentes dispositions entrent en vigueur à la date de
-la première réunion de chacune des formations mentionnées au 1° à 5° de l'article R. 250-1 du code des assurances dans leur
-composition résultant de l'article 1er dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -37415,14 +37494,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-518 du 11 mai 2015 - art. 2
+  - Décret n°2018-229 du 30 mars 2018 - art. 11
 
 _Cite_:
 
   - Code des assurances - art. L125-1
   - Code des assurances - art. L125-6
   - Code des assurances - art. L211-1
-  - Code des assurances - art. L215-1 (VT)
+  - Code des assurances - art. L215-1
   - Code des assurances - art. L220-1
   - Code des assurances - art. L220-5
   - Code des assurances - art. L241-1
@@ -37436,20 +37515,20 @@ _Cite_:
 
 Dans les cas prévus aux quatrième et cinquième alinéas de l'article L. 125-6, l'entreprise d'assurance ne peut saisir le
 Bureau central de tarification aux fins d'apporter au contrat d'assurance une dérogation aux dispositions du second alinéa de
-l'article L. 125-2 qu'après avoir notifié cette proposition de dérogation à l'assuré par lettre recommandée avec avis de
-réception. 
+l'article L. 125-2 qu'après avoir notifié cette proposition de dérogation à l'assuré par lettre recommandée ou par envoi
+recommandé électronique, avec avis de réception.
 
 La dérogation peut porter soit sur l'exclusion d'un bien mentionné au contrat, soit sur le montant de la franchise qui en cas
 de sinistre demeure à la charge de l'assuré, soit sur l'un et l'autre de ces éléments du contrat. Le montant de la franchise
 objet de la dérogation peut être supérieur à celui mentionné dans les clauses types prévues à l'article L. 125-3 sans pouvoir
-excéder une limite fixée pour chaque catégorie de contrats par arrêté du ministre de l'économie et des finances. 
+excéder une limite fixée pour chaque catégorie de contrats par arrêté du ministre de l'économie et des finances.
 
 Pour l'application de l'alinéa précédent, les contrats sont rangés en quatre catégories : dommages aux corps de véhicules
 terrestres à moteur, dommages aux biens à usage non professionnel, dommages aux biens à usage professionnel, pertes
-d'exploitation. 
+d'exploitation.
 
 A peine d'irrecevabilité, la saisine du bureau doit intervenir dans un délai de vingt et un jours à compter de la date de
-notification de la proposition de dérogation à l'assuré. 
+notification de la proposition de dérogation à l'assuré.
 
 Le Bureau central de tarification peut accorder la dérogation sollicitée s'il estime, compte tenu des circonstances de
 l'espèce, que les risques concernés présentent une gravité exceptionnelle.
@@ -37458,17 +37537,17 @@ l'espèce, que les risques concernés présentent une gravité exceptionnelle.
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-1241 du 27 novembre 1992 - art. 2 () JORF 28 novembre 1992 en vigueur le 1er janvier 1993
+  - Décret n°2018-229 du 30 mars 2018 - art. 11
 
 _Cite_:
 
-  - Code des assurances - art. L125-2 (V)
-  - Code des assurances - art. L125-3 (V)
-  - Code des assurances - art. L125-6 (V)
+  - Code des assurances - art. L125-2
+  - Code des assurances - art. L125-3
+  - Code des assurances - art. L125-6
 
 
 ###### Article R250-4
@@ -41728,10 +41807,16 @@ L'ordre du jour ne peut contenir que les propositions du conseil d'administratio
 surveillance et celles qui lui auront été communiquées vingt jours au moins avant la réunion de l'assemblée générale avec la
 signature d'un dixième des sociétaires au moins, ou de cent sociétaires si le dixième est supérieur à cent.
 
-Tous les sociétaires qui en auront fait la demande devront être informés de la réunion de chaque assemblée générale par une
-lettre affranchie à leurs frais et expédiée dans le délai imparti pour la convocation de cette assemblée.
+Tous les sociétaires qui en auront fait la demande devront être informés de la réunion de chaque assemblée générale dans le
+délai imparti pour la convocation de cette assemblée.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des assurances - art. R*322-102 (V)
+  - Code des assurances - art. R322-119-2 (V)
+  - Code des assurances - art. R322-63 (V)
 
 _Anciens textes_:
 
@@ -41739,18 +41824,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
-  - Décret n°2005-7 du 3 janvier 2005 - art. 3 () JORF 7 janvier 2005
-
-_Cité par_:
-
-  - Code des assurances - art. R*322-102 (V)
-  - Code des assurances - art. R322-119-2 (M)
-  - Code des assurances - art. R322-63 (V)
+  - Décret n°2018-229 du 30 mars 2018 - art. 12
 
 
 ###### Article R322-62
@@ -41912,10 +41990,9 @@ _Anciens textes_:
 ###### Article R322-66
 
 Toute modification des statuts est portée à la connaissance des sociétaires soit par remise du texte contre reçu, soit par
-pli recommandé, soit, au plus tard, avec le premier avis d'échéance ou récépissé de cotisations qui leur est adressé. Cette
-modification est également mentionnée sur les avenants aux contrats en cours.
-
-Les modifications des statuts non notifiées à un sociétaire dans les formes prévues au précédent alinéa, ne lui sont pas
+lettre recommandée ou par envoi recommandé électronique, soit, au plus tard, avec le premier avis d'échéance ou récépissé de
+cotisations qui leur est adressé. Cette modification est également mentionnée sur les avenants aux contrats en cours. Les
+modifications des statuts non notifiées à un sociétaire dans les formes prévues au précédent alinéa, ne lui sont pas
 opposables.
 
 **Liens relatifs à cet article**
@@ -41926,11 +42003,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+  - Décret n°2018-229 du 30 mars 2018 - art. 12
 
 _Cité par_:
 
@@ -42410,10 +42487,10 @@ résolution et du document mentionné ci-dessus, et en l'absence de décision ex
 considérée comme accordée. La résolution détermine quels sociétaires doivent souscrire à l'emprunt, sans que cette obligation
 puisse porter sur les sociétaires dont les contrats étaient en cours au moment où les statuts ont été modifiés. La
 participation des sociétaires déjà adhérents de la société au moment où celle-ci décide d'émettre un emprunt ne peut être
-supérieure à 10 % de leur cotisation annuelle. 
+supérieure à 10 % de leur cotisation annuelle.
 
-Le titre remis à tout sociétaire ayant souscrit à un emprunt pour constitution ou alimentation du fonds social complémentaire
-doit être établi dans la forme prévue par arrêté du ministre de l'économie et des finances. 
+Il est remis un titre à tout sociétaire ayant souscrit à un emprunt pour constitution ou alimentation du fonds social
+complémentaire.
 
 La société est tenue d'informer au moins une fois par an chaque sociétaire du montant et de l'échéance de sa créance au titre
 de l'emprunt pour fonds social complémentaire.
@@ -42422,16 +42499,16 @@ de l'emprunt pour fonds social complémentaire.
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Décret n°2018-229 du 30 mars 2018 - art. 12
+
+_Cite_:
+
+  - Code des assurances - art. R*322-63
+  - Code des assurances - art. R322-79
 
 _Cité par_:
 
   - Code des assurances - art. R322-49 (V)
-
-_Cite_:
-
-  - Code des assurances - art. R322-63 (V)
-  - Code des assurances - art. R322-79 (V)
 
 
 ###### Article R322-80-2
@@ -42515,9 +42592,9 @@ _Modifié par_:
 Tout traité de réassurance par lequel une société régie par la présente section cède à une ou plusieurs entreprises ses
 risques dans une proportion qui dépasse 90 % du total des cotisations afférentes aux risques réassurés, doit être soumis à
 l'approbation d'une assemblée générale délibérant comme il est dit à l'article R. 322-65 et convoquée par lettre recommandée
-adressée à chaque sociétaire et mentionnant le motif de l'approbation demandée à l'assemblée ; dans ce cas, tout sociétaire a
-le droit de résilier son engagement dans un délai de trois mois à dater de la notification qui lui aura été faite dans les
-formes prévues au présent article. 
+ou par envoi recommandé électronique adressé à chaque sociétaire et mentionnant le motif de l'approbation demandée à
+l'assemblée ; dans ce cas, tout sociétaire a le droit de résilier son engagement dans un délai de trois mois à dater de la
+notification qui lui aura été faite dans les formes prévues au présent article.
 
 Les dispositions du présent article ne s'appliquent pas aux sociétés pratiquant une ou plusieurs des branches mentionnées aux
 20 à 26 de l'article R. 321-1.
@@ -42526,20 +42603,16 @@ Les dispositions du présent article ne s'appliquent pas aux sociétés pratiqua
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°94-799 1994-09-09 art. 27 *spécificités d'application*, art. 28 *champ d'application*
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+  - Décret n°2018-229 du 30 mars 2018 - art. 12
 
 _Cite_:
 
-  - Code des assurances - art. R321-1 (V)
-  - Code des assurances - art. R322-65 (V)
+  - Code des assurances - art. R*321-1
+  - Code des assurances - art. R*322-65
 
 _Cité par_:
 
@@ -43679,8 +43752,8 @@ gérants, administrateurs ou membres du conseil de surveillance des sociétés q
 2° Les assemblées générales sont composées de toutes les sociétés faisant partie de l'union, représentées chacune
 exclusivement par un de ses gérants, administrateurs ou membres du conseil de surveillance dûment mandaté ;
 
-3° La convocation à l'assemblée générale doit être faite par lettre recommandée adressée aux sociétés faisant partie de
-l'union, quinze jours au moins avant la date fixée pour la réunion de l'assemblée ;
+3° La convocation à l'assemblée générale doit être faite par lettre recommandée ou par envoi recommandé électronique adressé
+aux sociétés faisant partie de l'union, quinze jours au moins avant la date fixée pour la réunion de l'assemblée ;
 
 4° (paragraphe abrogé).
 
@@ -43695,11 +43768,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 3 () JORF 7 janvier 2005
+  - Décret n°2018-229 du 30 mars 2018 - art. 12
 
 
 ###### Article R322-111
@@ -44023,26 +44096,25 @@ _Cite_:
 
 ###### Article R322-119-2
 
-Par dérogation aux dispositions de l'article R. 322-59, alinéa 1er, les convocations aux assemblées générales sont faites par
-simples lettres adressées aux sociétaires ou par annonces, quinze jours au moins avant la date de la réunion, dans au moins
-deux journaux de la presse quotidienne ou hebdomadaire diffusés dans la circonscription de la société ou de la caisse. 
-
-Les dispositions du sixième alinéa de l'article R. 322-58 ne sont pas applicables si les statuts stipulent qu'un sociétaire
-ne peut se faire représenter que par un autre sociétaire.
+Par dérogation aux dispositions de l'article R. 322-59, alinéa 1er, les convocations aux assemblées générales sont
+communiquées aux sociétaires ou par annonces, quinze jours au moins avant la date de la réunion, dans au moins deux journaux
+de la presse quotidienne ou hebdomadaire diffusés dans la circonscription de la société ou de la caisse. Les dispositions du
+sixième alinéa de l'article R. 322-58 ne sont pas applicables si les statuts stipulent qu'un sociétaire ne peut se faire
+représenter que par un autre sociétaire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-799 du 9 septembre 1994 - art. 17 () JORF 15 septembre 1994
+  - Décret n°2018-229 du 30 mars 2018 - art. 12
 
 _Cite_:
 
-  - Code des assurances - art. R*322-58 (V)
+  - Code des assurances - art. R*322-58
   - Code des assurances - art. R322-59 (V)
 
 
@@ -60241,25 +60313,25 @@ _Cité par_:
 ###### Article R421-5
 
 Lorsque l'assureur entend invoquer la nullité du contrat d'assurance, sa suspension ou la suspension de la garantie, une non-
-assurance ou une assurance partielle opposables à la victime ou à ses ayants droit, il doit, par lettre recommandée avec
-demande d'avis de réception, le déclarer au fonds de garantie et joindre à sa déclaration les pièces justificatives de son
-exception ; il doit en aviser en même temps et dans les mêmes formes la victime ou ses ayants droit en précisant le numéro du
-contrat. 
+assurance ou une assurance partielle opposables à la victime ou à ses ayants droit, il doit, par lettre recommandée ou par
+envoi recommandé électronique, avec demande d'avis de réception, le déclarer au fonds de garantie et joindre à sa déclaration
+les pièces justificatives de son exception ; il doit en aviser en même temps et dans les mêmes formes la victime ou ses
+ayants droit en précisant le numéro du contrat.
 
 Si l'assureur entend contester l'existence du contrat d'assurance, nonobstant la présentation par le responsable de
 l'accident du document justificatif mentionné à l'article R. 211-15, il doit, d'une part, le déclarer sans délai au fonds de
-garantie par lettre recommandée avec demande d'avis de réception et, d'autre part, en aviser en même temps et dans les mêmes
-formes la victime ou ses ayants droit.
+garantie par lettre recommandée ou par envoi recommandé électronique, avec demande d'avis de réception et, d'autre part, en
+aviser en même temps et dans les mêmes formes la victime ou ses ayants droit.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°2018-229 du 30 mars 2018 - art. 13
 
 _Anciens textes_:
 
@@ -60268,12 +60340,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code des assurances - art. R211-15 (VT)
+  - Code des assurances - art. R211-15
 
 _Cité par_:
 
   - Code des assurances - art. R421-1 (V)
-  - Code des assurances - art. R421-15 (M)
+  - Code des assurances - art. R421-15 (V)
   - Code des assurances - art. R421-6 (V)
 
 
@@ -60464,22 +60536,22 @@ _Cite_:
 
 Toute transaction ayant pour objet de fixer ou de régler les indemnités dues par les responsables non assurés de dommages
 résultant des atteintes à la personne nés d'un accident mentionné à l'article L. 421-1 doit être notifiée au fonds de
-garantie par le débiteur de l'indemnité dans un délai d'un mois par lettre recommandée avec demande d'avis de réception, sous
-peine de l'amende prévue pour les contraventions de troisième classe.
+garantie par le débiteur de l'indemnité dans un délai d'un mois par lettre recommandée ou par envoi recommandé électronique,
+avec demande d'avis de réception, sous peine de l'amende prévue pour les contraventions de troisième classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°2018-229 du 30 mars 2018 - art. 13
 
 _Cite_:
 
-  - Code des assurances - art. L421-1 (V)
+  - Code des assurances - art. L421-1
 
 _Anciens textes_:
 
@@ -60540,7 +60612,8 @@ _Cité par_:
 ###### Article R421-13
 
 Les victimes d'accidents ou leurs ayants droit doivent adresser au fonds de garantie leurs demandes d'indemnité par lettre
-recommandée avec demande d'avis de réception. A l'appui de leur demande, ils sont tenus de justifier : 
+recommandée ou par envoi recommandé électronique, avec demande d'avis de réception. A l'appui de leur demande, ils sont tenus
+de justifier :
 
 1° Soit qu'ils sont français ;
 
@@ -60551,18 +60624,18 @@ conditions fixées par cet accord ;
 
 - Soit enfin, pour les accidents dans lesquels sont impliqués des véhicules définis à l'article R. 421-1, 2e alinéa, qu'ils
 sont ressortissants d'un Etat membre de la Communauté économique européenne autre que la France, du Saint-Siège, de Saint-
-Marin ou de Monaco, ou qu'ils ont leur résidence principale dans un de ces Etats. 
+Marin ou de Monaco, ou qu'ils ont leur résidence principale dans un de ces Etats.
 
 2° Que l'accident ouvre droit à réparation à leur profit dans les termes de la législation française sur la responsabilité
 civile et qu'il ne peut donner droit à indemnisation complète à aucun titre. Si la victime ou ses ayants droit peuvent
 prétendre à une indemnisation partielle à un autre titre, le fonds de garantie ne prend en charge que le complément. Pour
 permettre de déterminer le préjudice complémentaire de la victime ou de ses ayants droit, les tiers payeurs, définis par la
 loi n° 85-677 du 5 juillet 1985, doivent faire connaître au fonds de garantie le montant des versements effectués au profit
-de ceux-ci, au plus tard dans un délai de quatre mois à compter de la demande émanant du fonds. 
+de ceux-ci, au plus tard dans un délai de quatre mois à compter de la demande émanant du fonds.
 
 Les réclamants doivent également justifier soit que le responsable de l'accident n'a pu être identifié, soit qu'il n'est pas
 assuré ou que son assureur est totalement ou partiellement insolvable après la fixation de l'indemnité par une transaction ou
-une décision de justice exécutoire. 
+une décision de justice exécutoire.
 
 L'insolvabilité de l'assureur résulte du retrait de l'agrément administratif.
 
@@ -60570,16 +60643,16 @@ L'insolvabilité de l'assureur résulte du retrait de l'agrément administratif.
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Cite_:
 
-  - Loi n°85-677 du 5 juillet 1985 (V)
-  - Code des assurances - art. R421-1 (V)
+  - Loi n°85-677 du 5 juillet 1985
+  - Code des assurances - art. R421-1
 
 _Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°2018-229 du 30 mars 2018 - art. 13
 
 _Anciens textes_:
 
@@ -60642,35 +60715,34 @@ Le fonds de garantie peut intervenir même devant les juridictions répressives 
 en vue, notamment, de contester le principe ou le montant de l'indemnité réclamée, dans toutes les instances engagées entre
 les victimes d'accidents corporels ou leurs ayants droit, d'une part, les responsables ou leurs assureurs, d'autre part. Il
 intervient alors à titre principal et peut user de toutes les voies de recours ouvertes par la loi. En aucun cas, cette
-intervention ne peut motiver une condamnation conjointe ou solidaire du fonds de garantie et du responsable. 
+intervention ne peut motiver une condamnation conjointe ou solidaire du fonds de garantie et du responsable.
 
 Sous réserve des dispositions du quatrième alinéa du présent article, la victime ou ses ayants droit doivent adresser sans
-délai au fonds de garantie, par lettre recommandée avec demande d'avis de réception, une copie de tout acte introductif
-d'instance ayant pour objet de saisir la juridiction compétente d'une demande d'indemnité dirigée contre un défendeur dont il
-n'est pas établi que la responsabilité civile est couverte par une assurance. 
+délai au fonds de garantie, par lettre recommandée ou par envoi recommandé électronique, avec demande d'avis de réception,
+une copie de tout acte introductif d'instance ayant pour objet de saisir la juridiction compétente d'une demande d'indemnité
+dirigée contre un défendeur dont il n'est pas établi que la responsabilité civile est couverte par une assurance.
 
 Tout acte introductif d'instance, dont une copie doit être adressée au fonds de garantie en application de l'alinéa
 précédent, doit contenir les précisions suivantes : date et lieu de l'accident, nature du véhicule ou agent ou instrument du
 dommage, autorité ayant dressé le procès-verbal ou le rapport mentionné à l'article R. 421-3, montant de la demande en ce qui
 concerne la réparation des dommages résultant d'atteintes à la personne ou, à défaut, nature et gravité de ces dommages. Il
 doit, en outre, mentionner d'après les indications contenues dans le procès-verbal ou le rapport précité ou celles
-recueillies ultérieurement, notamment celles fournies par l'assureur en application du premier alinéa de l'article R.
-421-5 : 
+recueillies ultérieurement, notamment celles fournies par l'assureur en application du premier alinéa de l'article R. 421-5 :
 
-Soit que la responsabilité civile du défendeur n'est pas couverte par un contrat d'assurance ; 
+Soit que la responsabilité civile du défendeur n'est pas couverte par un contrat d'assurance ;
 
 Soit que l'assureur, dont les nom et adresse doivent être précisés ainsi que le numéro du contrat, entend contester sa
-garantie ou invoquer la limitation de celle-ci ; 
+garantie ou invoquer la limitation de celle-ci ;
 
 Soit que le demandeur ne possède aucun des deux renseignements ci-dessus, les éléments lui permettant de douter de
-l'existence d'une assurance couvrant les dommages dont il est demandé réparation devant être mentionnés le cas échéant. 
+l'existence d'une assurance couvrant les dommages dont il est demandé réparation devant être mentionnés le cas échéant.
 
 Les dispositions des deux alinéas qui précèdent ne sont pas applicables lorsque la demande d'indemnité est portée devant une
 juridiction répressive. Dans ce cas, la victime ou ses ayants droit doivent, dix jours au moins avant l'audience retenue pour
-les débats, aviser le fonds de garantie par lettre recommandée avec demande d'avis de réception de leur constitution de
-partie civile ou de l'éventualité de cette constitution. Cet avis doit mentionner, outre les diverses indications prévues au
-troisième alinéa du présent article, les nom, prénoms et adresse de l'auteur des dommages et, le cas écheant, du civilement
-responsable ainsi que la juridiction saisie de l'action publique et la date de l'audience. 
+les débats, aviser le fonds de garantie par lettre recommandée ou par envoi recommandé électronique, avec demande d'avis de
+réception, de leur constitution de partie civile ou de l'éventualité de cette constitution. Cet avis doit mentionner, outre
+les diverses indications prévues au troisième alinéa du présent article, les nom, prénoms et adresse de l'auteur des dommages
+et, le cas écheant, du civilement responsable ainsi que la juridiction saisie de l'action publique et la date de l'audience.
 
 Les notifications effectuées dans les conditions prévues aux alinéas précédents ont pour effet, même si le fonds de garantie
 n'est pas intervenu à l'instance, de rendre opposable à celui-ci la décision rendue sur la demande d'indemnité. Toute mention
@@ -60681,11 +60753,11 @@ demandeur contre le fonds de garantie.
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°2018-229 du 30 mars 2018 - art. 13
 
 _Anciens textes_:
 
@@ -60695,11 +60767,11 @@ _Anciens textes_:
 _Cité par_:
 
   - Code des assurances - art. R421-14 (V)
-  - Code des assurances - art. R421-24 (M)
+  - Code des assurances - art. R421-24 (V)
 
 _Cite_:
 
-  - Code des assurances - art. R421-3 (V)
+  - Code des assurances - art. R421-3
   - Code des assurances - art. R421-5 (V)
 
 
@@ -61038,45 +61110,46 @@ _Cité par_:
 Lorsqu'un contrat d'assurance a été souscrit pour garantir les conséquences pécuniaires de la responsabilité civile de
 l'auteur d'un accident résultant d'actes de chasse ou de destruction d'animaux nuisibles, les dispositions des articles R.
 421-4 à R. 421-10 sont applicables aux droits et obligations du responsable, de la victime, de l'assureur et du fonds de
-garantie. 
+garantie.
 
 Les dispositions des articles R. 421-12 à R. 421-17 sont applicables à l'indemnisation par le fonds de garantie des dommages
 de chasse résultant d'atteintes à la personne mentionnés à l'article L. 421-8 du code des assurances, étant précisé qu'en
 matière d'accidents de chasse l'interdiction de citation en justice mentionnée par l'article R. 421-14 s'applique aux
 citations pour l'application de l'article L. 421-8 du code des assurances et que, dans la même matière, le rapport mentionné
-au 3e alinéa de l'article R. 421-15 est celui qui est prévu par l'article R. 421-23. 
+au 3e alinéa de l'article R. 421-15 est celui qui est prévu par l'article R. 421-23.
 
 Toutefois, le bénéfice du fonds n'est donné que lorsqu'il est justifié que la victime a la nationalité française ou a sa
 résidence principale sur le territoire de la République française ou est ressortissant d'un Etat ayant conclu avec la France
-un accord de réciprocité et remplit les conditions fixées par cet accord. 
+un accord de réciprocité et remplit les conditions fixées par cet accord.
 
 La contribution que le fonds peut recouvrer, le cas échéant, sur le débiteur de l'indemnité est, en matière de chasse, celle
-prévue au 2° de l'article R. 421-38. 
+prévue au 2° de l'article R. 421-38.
 
 Toute transaction ayant pour objet de fixer ou de régler les indemnités dues par les responsables non assurés d'accidents
 corporels de chasse ou de destruction des animaux nuisibles définis à l'article L. 421-8 du code des assurances doit être
-notifiée au fonds de garantie par le débiteur de l'indemnité dans un délai d'un mois par lettre recommandée avec demande
-d'avis de réception sous peine de l'amende prévue pour les contraventions de troisième classe.
+notifiée au fonds de garantie par le débiteur de l'indemnité dans un délai d'un mois par lettre recommandée ou par envoi
+recommandé électronique, avec demande d'avis de réception, sous peine de l'amende prévue pour les contraventions de troisième
+classe.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°2018-229 du 30 mars 2018 - art. 13
 
 _Cite_:
 
-  - Code des assurances - art. L421-8 (V)
-  - Code des assurances - art. R421-12 (V)
-  - Code des assurances - art. R421-14 (V)
+  - Code des assurances - art. L421-8
+  - Code des assurances - art. R421-12
+  - Code des assurances - art. R421-14
   - Code des assurances - art. R421-15 (V)
-  - Code des assurances - art. R421-23 (V)
-  - Code des assurances - art. R421-38 (V)
-  - Code des assurances - art. R421-4 (V)
+  - Code des assurances - art. R421-23
+  - Code des assurances - art. R421-38
+  - Code des assurances - art. R421-4
 
 _Anciens textes_:
 
@@ -62599,8 +62672,8 @@ _Modifié par_:
 ###### Article R421-73
 
 Les propriétaires susceptibles de bénéficier des dispositions de l'article L. 421-17 adressent au fonds de garantie une
-demande d'indemnité, par lettre recommandée avec demande d'accusé de réception, dans un délai de six mois à compter de la
-survenance des dommages. 
+demande d'indemnité, par lettre recommandée ou un envoi recommandé électronique, avec demande d'accusé de réception, dans un
+délai de six mois à compter de la survenance des dommages.
 
 Toutefois, pour les dommages survenus entre le 1er septembre 1998 et le 23 avril 2004, le délai de six mois ne court qu'à
 compter de cette dernière date.
@@ -62609,15 +62682,15 @@ compter de cette dernière date.
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-348 du 22 avril 2004 - art. 1 () JORF 23 avril 2004
+  - Décret n°2018-229 du 30 mars 2018 - art. 13
 
 _Cite_:
 
-  - Code des assurances - art. L421-17 (V)
+  - Code des assurances - art. L421-17
 
 
 ###### Article R421-75
@@ -65427,33 +65500,33 @@ _Créé par_:
 
 ###### Article R441-2-2
 
-I. – Les informations techniques et financières prévues aux 7° et 8° du I de l'article L. 441-3-1 comprennent les éléments
-suivants : 
+I. – Les informations techniques et financières prévues au 5° du I de l'article L. 441-3-1 comprennent les éléments
+suivants :
 
-1° Le montant de la provision mathématique théorique calculée au 31 décembre de l'exercice clos ; 
+1° Le montant de la provision mathématique théorique calculée au 31 décembre de l'exercice clos ;
 
-2° Le montant des provisions techniques mentionnées aux 1° à 3° de l'article R. 441-7 à cette même date ; 
+2° Le montant des provisions techniques mentionnées aux 1° à 3° de l'article R. 441-7 à cette même date ;
 
 3° Le rapport entre, d'une part, la somme de la provision technique spéciale et des plus-values et moins-values latentes
 nettes sur les actifs affectés à la provision technique spéciale et, d'autre part, la provision mathématique théorique à
 cette même date et à la date de clôture des neuf exercices qui la précèdent, sans inclure les exercices clôturés avant le 1er
-janvier 2017 ; 
+janvier 2017 ;
 
 4° Une mention expliquant de façon claire et non ambiguë si, au regard des conditions prévues par la convention, en
 application de l'article L. 441-2, une baisse de la valeur de service de la convention est susceptible d'être appliquée dans
-les douze mois à venir, selon quelles modalités et dans quelle proportion ; 
+les douze mois à venir, selon quelles modalités et dans quelle proportion ;
 
 5° L'évolution de la valeur de service au cours des cinq derniers exercices ainsi que son évolution cumulée sur cette
-période. 
+période.
 
 II. – Le souscripteur peut décider de faire figurer les informations mentionnées au I sur son site internet et renvoyer de
 façon précise à ce dernier dans la communication annuelle qu'il fournit à l'ensemble des adhérents en application de
-l'article L. 441-3-1. 
+l'article L. 441-3-1.
 
 III. – Lorsque l'entreprise d'assurance ou le fonds de retraite professionnelle supplémentaire inclut les informations
 mentionnées au I dans son rapport sur la solvabilité et la situation financière, le souscripteur peut renvoyer de façon
 précise à ce dernier dans la communication annuelle qu'il fournit à l'ensemble des adhérents en application de l'article L.
-441-3-1. 
+441-3-1.
 
 Pour les conventions relevant du chapitre III du titre IV du livre Ier pour lesquelles l'entreprise d'assurance ou le fonds
 de retraite professionnelle supplémentaire établit un rapport, en application de l'article L. 143-2-2, et y inclut les
@@ -65461,16 +65534,11 @@ informations mentionnées au I, ou pour les conventions relevant de l'article L.
 d'assurance établit un rapport, en application du III de l'article L. 144-2, et y inclut les informations mentionnées au I,
 le souscripteur peut renvoyer de façon précise à ce dernier rapport dans sa communication annuelle.
 
-**Nota:**
-
-Conformément aux dispositions du I de l'article 2 du décret n° 2017-1172 du 18 juillet 2017, ces dispositions entrent en
-vigueur le 1er septembre 2017.
-
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1172 du 18 juillet 2017 - art. 1
+  - Décret n°2018-229 du 30 mars 2018 - art. 14
 
 _Cite_:
 
@@ -68715,163 +68783,163 @@ _Cite_:
 
 ###### Article Annexe à l'article A112
 
-Fiche d'information relative au fonctionnement des garanties " responsabilité civile " dans le temps Avertissement 
+Fiche d'information relative au fonctionnement des garanties " responsabilité civile " dans le temps Avertissement
 
-La présente fiche d'information vous est délivrée en application de l'article L. 112-2 du code des assurances. 
+La présente fiche d'information vous est délivrée en application de l'article L. 112-2 du code des assurances.
 
 Elle a pour objet d'apporter les informations nécessaires à une bonne compréhension du fonctionnement de la garantie de
-responsabilité civile dans le temps. 
+responsabilité civile dans le temps.
 
 Elle concerne les contrats souscrits ou reconduits postérieurement à l'entrée en vigueur le 3 novembre 2003 de l'article 80
 de la loi n° 2003-706. Les contrats souscrits antérieurement font l'objet de dispositions particulières précisées dans la
-même loi. 
+même loi.
 
-Comprendre les termes 
+Comprendre les termes
 
-Fait dommageable : 
+Fait dommageable :
 
-Fait, acte ou événement à l'origine des dommages subis par la victime et faisant l'objet d'une réclamation. 
+Fait, acte ou événement à l'origine des dommages subis par la victime et faisant l'objet d'une réclamation.
 
-Réclamation : 
+Réclamation :
 
-Mise en cause de votre responsabilité, soit par lettre adressée à l'assuré ou à l'assureur, soit par assignation devant un
-tribunal civil ou administratif. Un même sinistre peut faire l'objet de plusieurs réclamations, soit d'une même victime, soit
-de plusieurs victimes. 
+Mise en cause de votre responsabilité, soit par lettre ou tout autre support durable adressé à l'assuré ou à l'assureur, soit
+par assignation devant un tribunal civil ou administratif. Un même sinistre peut faire l'objet de plusieurs réclamations,
+soit d'une même victime, soit de plusieurs victimes.
 
-Période de validité de la garantie : 
+Période de validité de la garantie :
 
 Période comprise entre la date de prise d'effet de la garantie et, après d'éventuelles reconductions, sa date de résiliation
-ou d'expiration. 
+ou d'expiration.
 
-Période subséquente : 
+Période subséquente :
 
 Période se situant après la date de résiliation ou d'expiration de la garantie. Sa durée est précisée par le contrat. Elle ne
-peut être inférieure à cinq ans. 
+peut être inférieure à cinq ans.
 
-Si votre contrat garantit exclusivement votre responsabilité civile vie privée, reportez-vous au I. 
+Si votre contrat garantit exclusivement votre responsabilité civile vie privée, reportez-vous au I.
 
-Sinon, reportez-vous au I et au II. 
+Sinon, reportez-vous au I et au II.
 
-I.-Le contrat garantit votre responsabilité civile vie privée 
+I.-Le contrat garantit votre responsabilité civile vie privée
 
-En dehors de toute activité professionnelle, la garantie est déclenchée par le fait dommageable. 
+En dehors de toute activité professionnelle, la garantie est déclenchée par le fait dommageable.
 
 L'assureur apporte sa garantie lorsqu'une réclamation consécutive à des dommages causés à autrui est formulée et que votre
 responsabilité ou celle des autres personnes garanties par le contrat est engagée, dès lors que le fait à l'origine de ces
-dommages est survenu entre la date de prise d'effet et la date de résiliation ou d'expiration de la garantie. 
+dommages est survenu entre la date de prise d'effet et la date de résiliation ou d'expiration de la garantie.
 
 La déclaration de sinistre doit être adressée à l'assureur dont la garantie est ou était en cours de validité au moment où le
-fait dommageable s'est produit. 
+fait dommageable s'est produit.
 
-II.-Le contrat garantit la responsabilité civile 
+II.-Le contrat garantit la responsabilité civile
 
-encourue du fait d'une activité professionnelle 
+encourue du fait d'une activité professionnelle
 
 Le contrat d'assurance doit préciser si la garantie est déclenchée par le " fait dommageable " ou si elle l'est par " la
-réclamation ". 
+réclamation ".
 
 Lorsque le contrat contient à la fois des garanties couvrant votre responsabilité civile du fait d'activité professionnelle
 et des garanties couvrant votre responsabilité civile vie privée, ces dernières sont déclenchées par le fait dommageable (cf.
-I). 
+I).
 
 Certains contrats, pour lesquels la loi prévoit des dispositions particulières dérogent cependant à cette disposition ; c'est
-le cas par exemple en matière d'assurance décennale obligatoire des activités de construction. 
+le cas par exemple en matière d'assurance décennale obligatoire des activités de construction.
 
-1. Comment fonctionne le mode de déclenchement par le fait dommageable " ? 
+1. Comment fonctionne le mode de déclenchement par le fait dommageable " ?
 
 L'assureur apporte sa garantie lorsqu'une réclamation consécutive à des dommages causés à autrui est formulée et que votre
 responsabilité ou celle des autres personnes garanties par le contrat est engagée, dès lors que le fait à l'origine de ces
-dommages est survenu entre la date de prise d'effet et la date de résiliation ou d'expiration de la garantie. 
+dommages est survenu entre la date de prise d'effet et la date de résiliation ou d'expiration de la garantie.
 
 La déclaration de sinistre doit être adressée à l'assureur dont la garantie est ou était en cours de validité au moment où le
-fait dommageable s'est produit. 
+fait dommageable s'est produit.
 
-2. Comment fonctionne le mode de déclenchement " par la réclamation " ? 
+2. Comment fonctionne le mode de déclenchement " par la réclamation " ?
 
 Quel que soit le cas, la garantie de l'assureur n'est pas due si l'assuré avait connaissance du fait dommageable au jour de
-la souscription de celle-ci. 
+la souscription de celle-ci.
 
 2.1. Premier cas : la réclamation du tiers est adressée à l'assuré ou à l'assureur pendant la période de validité de la
-garantie souscrite. 
+garantie souscrite.
 
-L'assureur apporte sa garantie, même si le fait à l'origine du sinistre s'est produit avant la souscription de la garantie. 
+L'assureur apporte sa garantie, même si le fait à l'origine du sinistre s'est produit avant la souscription de la garantie.
 
-2.2. Second cas : la réclamation est adressée à l'assuré ou à l'assureur pendant la période subséquente. 
+2.2. Second cas : la réclamation est adressée à l'assuré ou à l'assureur pendant la période subséquente.
 
 Cas 2.2.1 : l'assuré n'a pas souscrit de nouvelle garantie de responsabilité déclenchée par la réclamation couvrant le même
-risque. 
+risque.
 
-L'assureur apporte sa garantie. 
+L'assureur apporte sa garantie.
 
 Cas 2.2.2 : l'assuré a souscrit une nouvelle garantie de responsabilité déclenchée par la réclamation auprès d'un nouvel
-assureur couvrant le même risque. 
+assureur couvrant le même risque.
 
 C'est la nouvelle garantie qui est mise en oeuvre, sauf si l'assuré avait connaissance du fait dommageable au jour de la
-souscription de celle-ci, auquel cas, c'est la garantie précédente qui intervient. 
+souscription de celle-ci, auquel cas, c'est la garantie précédente qui intervient.
 
 Aussi, dès lors qu'il n'y a pas d'interruption entre deux garanties successives et que la réclamation est adressée à l'assuré
 ou à son assureur avant l'expiration du délai subséquent de la garantie initiale, l'un des deux assureurs est nécessairement
-compétent et prend en charge la réclamation. 
+compétent et prend en charge la réclamation.
 
 Lorsque la garantie initiale est déclenchée pendant la période subséquente, le plafond de l'indemnisation ne peut être
-inférieur à celui de la garantie déclenchée pendant l'année précédant la date de sa résiliation ou de son expiration. 
+inférieur à celui de la garantie déclenchée pendant l'année précédant la date de sa résiliation ou de son expiration.
 
-3. En cas de changement d'assureur. 
+3. En cas de changement d'assureur.
 
 Si vous avez changé d'assureur et si un sinistre, dont le fait dommageable est intervenu avant la souscription de votre
 nouveau contrat, n'est l'objet d'une réclamation qu'au cours de votre nouveau contrat, il faut déterminer l'assureur qui vous
 indemnisera. Selon le type de contrats, l'ancien ou le nouvel assureur pourra être valablement saisi. Reportez-vous aux cas
-types ci-dessous : 
+types ci-dessous :
 
-3.1. L'ancienne et la nouvelle garanties sont déclenchées par le fait dommageable. 
+3.1. L'ancienne et la nouvelle garanties sont déclenchées par le fait dommageable.
 
 La garantie qui est activée par la réclamation est celle qui est ou était en cours de validité à la date de survenance du
-fait dommageable. 
+fait dommageable.
 
-3.2. L'ancienne et la nouvelle garantie sont déclenchées par la réclamation. 
+3.2. L'ancienne et la nouvelle garantie sont déclenchées par la réclamation.
 
 Votre ancien assureur devra traiter la réclamation si vous avez eu connaissance du fait dommageable avant la souscription de
 votre nouvelle garantie. Aucune garantie n'est due par votre ancien assureur si la réclamation vous est adressée ou l'est à
-votre ancien assureur après l'expiration du délai subséquent. 
+votre ancien assureur après l'expiration du délai subséquent.
 
 Si vous n'avez pas eu connaissance du fait dommageable avant la souscription de votre nouvelle garantie, c'est votre nouvel
-assureur qui accueillera votre réclamation. 
+assureur qui accueillera votre réclamation.
 
-3.3. L'ancienne garantie est déclenchée par le fait dommageable et la nouvelle garantie est déclenchée par la réclamation. 
+3.3. L'ancienne garantie est déclenchée par le fait dommageable et la nouvelle garantie est déclenchée par la réclamation.
 
 Si le fait dommageable s'est produit pendant la période de validité de l'ancienne garantie, c'est l'ancien assureur qui doit
-traiter les réclamations portant sur les dommages qui résultent de ce fait dommageable. 
+traiter les réclamations portant sur les dommages qui résultent de ce fait dommageable.
 
 Dans l'hypothèse où le montant de cette garantie serait insuffisant, la garantie nouvelle déclenchée par la réclamation sera
 alors amenée à compléter cette insuffisance pour autant que vous n'ayez pas eu connaissance du fait dommageable avant la date
-de souscription de votre nouvelle garantie. 
+de souscription de votre nouvelle garantie.
 
 Si le fait dommageable s'est produit avant la prise d'effet de l'ancienne garantie et est demeuré inconnu de l'assuré à la
 date de souscription de la nouvelle garantie, c'est le nouvel assureur qui doit traiter les réclamations portant sur les
-dommages qui résultent de ce fait dommageable. 
+dommages qui résultent de ce fait dommageable.
 
-3.4. L'ancienne garantie est déclenchée par la réclamation et la nouvelle garantie est déclenchée par le fait dommageable. 
+3.4. L'ancienne garantie est déclenchée par la réclamation et la nouvelle garantie est déclenchée par le fait dommageable.
 
 Si le fait dommageable s'est produit avant la date de souscription de la nouvelle garantie, c'est l'ancien assureur qui doit
 traiter les réclamations. Aucune garantie n'est due par votre ancien assureur si la réclamation est adressée à l'assuré ou à
-votre ancien assureur après l'expiration du délai subséquent. 
+votre ancien assureur après l'expiration du délai subséquent.
 
 Si le fait dommageable s'est produit pendant la période de validité de la nouvelle garantie, c'est bien entendu l'assureur de
-cette dernière qui doit traiter la réclamation. 
+cette dernière qui doit traiter la réclamation.
 
-4. En cas de réclamations multiples relatives au même fait dommageable. 
+4. En cas de réclamations multiples relatives au même fait dommageable.
 
 Un même fait dommageable peut être à l'origine de dommages multiples qui interviennent ou se révèlent à des moments
 différents. Plusieurs réclamations ont alors vocation à être successivement adressées par les différents tiers concernés.
 Dans ce cas, le sinistre est considéré comme unique. En conséquence, c'est le même assureur qui prend en charge l'ensemble
-des réclamations. 
+des réclamations.
 
 Si le fait dommageable s'est produit alors que votre contrat était déclenché sur la base du fait dommageable, c'est donc
-votre assureur à la date où le fait dommageable s'est produit qui doit traiter les réclamations. 
+votre assureur à la date où le fait dommageable s'est produit qui doit traiter les réclamations.
 
 Si vous n'étiez pas couvert sur la base du fait dommageable à la date du fait dommageable, l'assureur qui doit être désigné
 est celui qui est compétent, dans les conditions précisées aux paragraphes II-1, II-2 et II-3 ci-dessus, au moment de la
-formulation de la première réclamation. 
+formulation de la première réclamation.
 
 Dès lors que cet assureur est compétent au titre de la première réclamation, les réclamations ultérieures seront alors
 traitées par ce même assureur quelle que soit la date à laquelle ces réclamations sont formulées, même si la période
@@ -68879,17 +68947,18 @@ subséquente est dépassée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrête 2003-10-31 annexe JORF 7 novembre 2003
-
 _Codifié par_:
 
   - Arrêté  1976-07-16
 
 _Cite_:
 
-  - Code des assurances - art. L112-2 (V)
+  - Loi n°2003-706 du 1 août 2003 - art. 80
+  - Code des assurances - art. L112-2
+
+_Modifié par_:
+
+  - Arrêté du 27 mars 2018 - art. 1
 
 
 ###### Article Annexe à l'article A112-1
@@ -69130,100 +69199,99 @@ _Cite_:
 Art. 1 
   <sup>er</sup>.-Lors de chaque échéance annuelle du contrat, la prime due par l'assuré est déterminée en multipliant le
 montant de la prime de référence, telle qu'elle est définie à l'article 2, par un coefficient dit coefficient de réduction-
-majoration , fixé conformément aux articles 4 et 5 suivants. 
+majoration , fixé conformément aux articles 4 et 5 suivants.
 
-Le coefficient d'origine est de 1. 
+Le coefficient d'origine est de 1.
 
 Art. 2.-La prime de référence est la prime établie par l'assureur pour le risque présentant les mêmes caractéristiques
 techniques que celles présentées par l'assuré et figurant au tarif communiqué par l'assureur au ministre chargé de l'Économie
-et des Finances dans les conditions prévues à l'article R. 310-6. 
+et des Finances dans les conditions prévues à l'article R. 310-6.
 
 Les caractéristiques techniques concernent le véhicule, la zone géographique de circulation ou de garage, l'usage
 socioprofessionnel ou le kilométrage parcouru, éventuellement la conduite exclusive du véhicule, ainsi que les réductions
-éventuelles figurant au tarif des entreprises d'assurance. 
+éventuelles figurant au tarif des entreprises d'assurance.
 
 Cette prime de référence ne comprend pas les majorations éventuellement prévues pour les circonstances aggravantes énumérées
 à l'article A. 121-1-2 du Code des assurances. En revanche, pour l'application des dispositions de la clause, cette prime de
 référence comprend la surprime éventuellement prévue pour les conducteurs novices à l'article A. 121-1-1 du Code des
-assurances ainsi que les réductions éventuelles mentionnées à l'article A. 335-9-3. 
+assurances ainsi que les réductions éventuelles mentionnées à l'article A. 335-9-3.
 
 Art. 3.-La prime sur laquelle s'applique le coefficient de réduction-majoration est la prime de référence définie à l'article
 précédent, pour la garantie des risques de responsabilité civile, de dommages au véhicule, de vol, d'incendie, de bris de
-glaces et de catastrophes naturelles. 
+glaces et de catastrophes naturelles.
 
 Art. 4.-Après chaque période annuelle d'assurance sans sinistre, le coefficient applicable est celui utilisé à la précédente
 échéance réduit de 5 %, arrêté à la deuxième décimale et arrondi par défaut ; toutefois, lorsque le contrat garantit un
-véhicule utilisé pour un usage Tournées  ou Tous Déplacements , la réduction est égale à 7 %. 
+véhicule utilisé pour un usage Tournées ou Tous Déplacements , la réduction est égale à 7 %.
 
 Le coefficient de réduction-majoration ne peut être inférieur à 0, 50. Aucune majoration n'est appliquée pour le premier
 sinistre survenu après une première période d'au moins trois ans au cours de laquelle le coefficient de réduction-majoration
-a été égal à 0, 50. 
+a été égal à 0, 50.
 
 Art. 5.-Un sinistre survenu au cours de la période annuelle d'assurance majore le coefficient de 25 % ; un second sinistre
-majore le coefficient obtenu de 25 %, et il en est de même pour chaque sinistre supplémentaire. 
+majore le coefficient obtenu de 25 %, et il en est de même pour chaque sinistre supplémentaire.
 
-Le coefficient obtenu est arrêté à la deuxième décimale et arrondi par défaut. 
+Le coefficient obtenu est arrêté à la deuxième décimale et arrondi par défaut.
 
-Si le véhicule assuré est utilisé pour un usage Tournées  ou Tous Déplacements , la majoration est égale à 20 % par
-sinistre. 
+Si le véhicule assuré est utilisé pour un usage Tournées ou Tous Déplacements , la majoration est égale à 20 % par sinistre.
 
 La majoration est, toutefois, réduite de moitié lorsque la responsabilité du conducteur n'est que partiellement engagée
-notamment lors d'un accident mettant en cause un piéton ou un cycliste. 
+notamment lors d'un accident mettant en cause un piéton ou un cycliste.
 
-En aucun cas le coefficient de réduction-majoration ne peut être supérieur à 3, 50. 
+En aucun cas le coefficient de réduction-majoration ne peut être supérieur à 3, 50.
 
-Après deux années consécutives sans sinistre, le coefficient applicable ne peut être supérieur à 1. 
+Après deux années consécutives sans sinistre, le coefficient applicable ne peut être supérieur à 1.
 
 Art. 6.-Ne sont pas à prendre en considération pour l'application d'une majoration les sinistres devant donner lieu ou non à
-une indemnisation, lorsque : 
+une indemnisation, lorsque :
 
 1 
   <sup>o </sup>l'auteur de l'accident conduit le véhicule à l'insu du propriétaire ou de l'un des conducteurs désignés, sauf
-s'il vit habituellement au foyer de l'un de ceux-ci ; 
+s'il vit habituellement au foyer de l'un de ceux-ci ;
 
 2 
   <sup>o </sup>la cause de l'accident est un événement, non imputable à l'assuré, ayant les caractéristiques de la force
-majeure ; 
+majeure ;
 
 3 
-  <sup>o </sup>la cause de l'accident est entièrement imputable à la victime ou à un tiers. 
+  <sup>o </sup>la cause de l'accident est entièrement imputable à la victime ou à un tiers.
 
 Art. 7.-Le sinistre survenu à un véhicule en stationnement par le fait d'un tiers non identifié alors que la responsabilité
 de l'assuré n'est engagée à aucun titre, ou lorsque le sinistre mettant en jeu uniquement l'une des garanties suivantes :
 vol, incendie, bris de glace, n'entraîne pas l'application de la majoration prévue à l'article 5 et ne fait pas obstacle à la
-réduction visée à l'article 4. 
+réduction visée à l'article 4.
 
 Art. 8.-Lorsqu'il est constaté qu'un sinistre ne correspond pas à la qualification qui lui avait été donnée initialement, la
 rectification de la prime peut être opérée soit par le moyen d'une quittance complémentaire, soit à l'occasion de l'échéance
-annuelle suivant cette constatation. 
+annuelle suivant cette constatation.
 
 Aucune rectification de prime ne sera, toutefois, effectuée si la constatation est faite au-delà d'un délai de deux ans
-suivant l'échéance annuelle postérieure à ce sinistre. 
+suivant l'échéance annuelle postérieure à ce sinistre.
 
 Art. 9.-La période annuelle prise en compte pour l'application des dispositions de la présente clause est la période de douze
-mois consécutifs précédant de deux mois l'échéance annuelle du contrat. 
+mois consécutifs précédant de deux mois l'échéance annuelle du contrat.
 
 Si le contrat est interrompu ou suspendu pour quelque cause que ce soit, le taux de réduction ou de majoration appliqué à
 l'échéance précédente reste acquis à l'assuré mais aucune réduction nouvelle n'est appliquée, sauf si l'interruption ou la
-suspension est au plus égale à trois mois. 
+suspension est au plus égale à trois mois.
 
 Par exception aux dispositions précédentes, la première période d'assurance prise en compte peut être comprise entre neuf et
-douze mois. 
+douze mois.
 
 Art. 10.-Le coefficient de réduction-majoration acquis au titre du véhicule désigné au contrat est automatiquement transféré
-en cas de remplacement de ce véhicule ou en cas d'acquisition d'un ou plusieurs véhicules supplémentaires. 
+en cas de remplacement de ce véhicule ou en cas d'acquisition d'un ou plusieurs véhicules supplémentaires.
 
 Toutefois, le transfert de la réduction n'est applicable que si le ou les conducteurs habituels du ou des véhicules désignés
-aux conditions particulières du contrat demeurent les mêmes, sauf en cas de réduction du nombre des conducteurs. 
+aux conditions particulières du contrat demeurent les mêmes, sauf en cas de réduction du nombre des conducteurs.
 
 Art. 11.-Si le contrat concerne un véhicule précédemment garanti par un autre assureur, le coefficient de réduction-
 majoration applicable à la première prime est calculé en tenant compte des indications qui figurent sur le relevé
-d'informations mentionné à l'article 12 ci-dessous, et des déclarations complémentaires de l'assuré. 
+d'informations mentionné à l'article 12 ci-dessous, et des déclarations complémentaires de l'assuré.
 
-Art. 12.-L'assureur délivre au souscripteur un relevé d'informations lors de la résiliation du contrat par l'une des parties
-et dans les quinze jours à compter d'une demande expresse du souscripteur. 
+Art. 12.-L'assureur fournit au souscripteur un relevé d'informations lors de la résiliation du contrat par l'une des parties
+et dans les quinze jours à compter d'une demande expresse du souscripteur.
 
-Ce relevé comporte notamment  les indications suivantes :
+Ce relevé comporte notamment les indications suivantes :
 
 - date de souscription du contrat ;
 
@@ -69237,10 +69305,10 @@ précédant l'établissement du relevé d'informations, ainsi que la part de res
 
 - le coefficient de réduction-majoration appliqué à la dernière échéance annuelle ;
 
-- la date à laquelle les informations ci-dessus ont été arrêtées. 
+- la date à laquelle les informations ci-dessus ont été arrêtées.
 
 Art. 13.-Le conducteur qui désire être assuré auprès d'un nouvel assureur s'engage à fournir à celui-ci le relevé
-d'informations délivré par l'assureur du contrat qui le garantissait précédemment, au souscripteur de ce contrat. 
+d'informations délivré par l'assureur du contrat qui le garantissait précédemment, au souscripteur de ce contrat.
 
 Art. 14.-L'assureur doit indiquer sur l'avis d'échéance ou la quittance de prime remis à l'assuré :
 
@@ -69258,7 +69326,7 @@ Art. 14.-L'assureur doit indiquer sur l'avis d'échéance ou la quittance de pri
 
 _Modifié par_:
 
-  - Arrêté du 28 décembre 2015 - art. 3
+  - Arrêté du 27 mars 2018 - art. 2
 
 _Cite_:
 
@@ -70022,16 +70090,17 @@ _Cité par_:
 
 ###### Article A132-4-2
 
-La mention visée aux articles L. 132-5-2 et L. 132-5-3 précède la signature du souscripteur. 
+La mention visée aux articles L. 132-5-2 et L. 132-5-3 précède la signature du souscripteur.
 
-I.-Pour les contrats ne relevant pas de l'article L. 132-5-3, elle est ainsi rédigée : 
+I.-Pour les contrats ne relevant pas de l'article L. 132-5-3, elle est ainsi rédigée :
 
 Le souscripteur peut renoncer au présent contrat pendant trente jours calendaires révolus à compter du " moment où le preneur
 est informé que le contrat est conclu ". Cette renonciation doit être faite par lettre recommandée avec avis de réception,
-envoyée à l'adresse suivante " adresse à laquelle la lettre de renonciation doit être envoyée ". Elle peut être faite suivant
-le modèle de lettre inclus dans la proposition d'assurance ou le contrat. 
+envoyée à l'adresse suivante " adresse à laquelle la lettre de renonciation doit être envoyée " ou par envoi recommandé
+électronique à l'adresse électronique suivante “ adresse électronique à laquelle le courrier électronique de renonciation
+doit être envoyé ”. Elle peut être faite suivant le modèle de rédaction inclus dans la proposition d'assurance ou le contrat.
 
-II.-Pour les contrats relevant de l'article L. 132-5-3, la mention est ainsi rédigée : 
+II.-Pour les contrats relevant de l'article L. 132-5-3, la mention est ainsi rédigée :
 
 L'adhérent peut renoncer à son adhésion au présent contrat pendant trente jours calendaires révolus à compter du " moment où
 le preneur est informé de l'adhésion au contrat ". Cette renonciation doit être faite par lettre recommandée avec accusé de
@@ -70046,11 +70115,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2007-04-23 art. 1 JORF 2 mai 2007
+  - Arrêté du 27 mars 2018 - art. 3
 
 _Cite_:
 
-  - Code des assurances - art. L132-5-2 (V)
+  - Code des assurances - art. L132-5-2
 
 
 ###### Article A132-4-3
@@ -70059,10 +70128,10 @@ Pour les contrats d'assurance sur la vie ou de capitalisation, lorsque le souscr
 droits individuels en des droits exprimés en unités de compte qui n'avaient pas été sélectionnées lors de la souscription
 dudit contrat ou de l'adhésion à celui-ci et dont l'indication des caractéristiques principales n'avaient pas été effectuées
 lors de cette même souscription ou adhésion, lesdites caractéristiques principales sont indiquées lors de la conversion soit
-dans l'avenant, soit par remise du document d'information clé pour l'investisseur ou, le cas échéant, de la note détaillée
-mentionnés au f du 2° de l'annexe de l'article A. 132-4. En cas de non-remise dudit document ou de ladite note, l'adhérent ou
-souscripteur est informé de ses modalités d'obtention, ainsi que, le cas échéant, de l'adresse électronique où se procurer ce
-document ou, le cas échéant, cette note.
+dans l'avenant, soit par la fourniture du document d'information clé pour l'investisseur ou, le cas échéant, de la note
+détaillée mentionnés au f du 2° de l'annexe de l'article A. 132-4. En cas d'absence de fourniture dudit document ou de ladite
+note, l'adhérent ou souscripteur est informé de ses modalités d'obtention, ainsi que, le cas échéant, de l'adresse
+électronique où se procurer ce document ou, le cas échéant, cette note.
 
 **Liens relatifs à cet article**
 
@@ -70070,13 +70139,13 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Modifié par_:
-
-  - Arrêté du 3 octobre 2011 - art. 1
-
 _Cité par_:
 
   - Arrêté du 3 octobre 2011 - art. 2 (V)
+
+_Modifié par_:
+
+  - Arrêté du 27 mars 2018 - art. 4
 
 _Cite_:
 
@@ -70211,16 +70280,18 @@ _Cité par_:
 La faculté de revenir sur la première décision de conversion offerte au souscripteur ou adhérent d'un contrat d'assurance sur
 la vie ou de capitalisation, dans les conditions prévues au I de l'article 3 de l'ordonnance n° 2014-696 du 26 juin 2014 et
 ses modalités d'application, sont rappelées dans le document formalisant la première demande de conversion. Pour ce faire, la
-mention suivante précède la signature du souscripteur ou de l'adhérent. 
+mention suivante précède la signature du souscripteur ou de l'adhérent.
 
-Cette mention est ainsi rédigée : 
+Cette mention est ainsi rédigée :
 
 Le souscripteur ou l'adhérent dispose de la faculté de revenir sur sa première décision de conversion d'engagements en euros
 vers des engagements donnant lieu à la constitution d'une provision pour diversification pendant trente jours calendaires
 révolus à compter de la date de la première demande de conversion, exprimée sur tout support durable. Cette faculté de
 revenir sur la décision de conversion doit être exercée par lettre recommandée avec demande d'avis de réception, envoyée à
 l'adresse suivante " adresse à laquelle la lettre d'exercice de la faculté de revenir sur la décision de conversion doit être
-envoyée ". Elle peut être exercée suivant le modèle de lettre joint au document d'information.
+envoyée " ou par un envoi recommandé électronique avec demande d'avis de réception envoyé à l'adresse électronique suivante “
+adresse électronique à laquelle le courrier électronique d'exercice de la faculté de revenir sur la décision de conversion
+doit être envoyé ”. Elle peut être exercée suivant le modèle de rédaction joint au document d'information.
 
 **Liens relatifs à cet article**
 
@@ -70228,49 +70299,44 @@ _Cite_:
 
   - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 3
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 12 septembre 2014 - art. 1
+  - Arrêté du 27 mars 2018 - art. 5
 
 
 ###### Article A132-4-7
 
 La faculté de revenir sur la première décision de conversion offerte au souscripteur ou adhérent d'un contrat d'assurance sur
 la vie ou de capitalisation, dans les conditions prévues au I de l'article 3 de l'ordonnance n° 2014-696 du 26 juin 2014,
-peut s'exercer par l'envoi d'une lettre rédigée selon le modèle ci-annexé, joint au document d'information. 
+peut s'exercer par l'envoi d'une lettre ou de tout autre support durable rédigé selon le modèle ci-annexé, joint au document
+d'information.
 
-Annexe à l'article A. 132-4-7 du code des assurances 
+Annexe à l'article A. 132-4-7 du code des assurances
 
-Modèle de lettre : 
+Modèle de rédaction :
 
-Nom 
+Nom
 
-Adresse 
+Adresse
 
-Nom et adresse de l'assureur 
+Nom et adresse de l'assureur
 
-Date 
+Date
 
-Référence du contrat 
-
-Lettre recommandée avec demande d'avis de réception 
+Référence du contrat
 
 Objet : exercice de la faculté de revenir sur ma décision de conversion d'engagements en euros vers des engagements donnant
-lieu à la constitution d'une provision de diversification. 
-
-Monsieur (ou Madame), 
+lieu à la constitution d'une provision de diversification.
 
 J'ai souscrit/ je suis adhérent d'un contrat d'assurance vie ou de capitalisation qui porte les références suivantes :
 (indiquer les références). J'ai demandé le (date) une conversion d'engagements en euros vers des engagements donnant lieu à
-la constitution d'une provision de diversification. 
+la constitution d'une provision de diversification.
 
 Conformément aux dispositions du IV de l'article 3 de l'ordonnance n° 2014-696 du 26 juin 2014, je souhaite exercer la
-faculté dont je dispose de revenir sur cette décision de conversion. 
+faculté dont je dispose de revenir sur cette décision de conversion.
 
 Je vous remercie de bien vouloir procéder au rétablissement de la situation prévalant avant ma demande de conversion
-d'engagements exprimés en euros. 
-
-Veuillez croire, Monsieur (ou Madame) (formule de politesse) 
+d'engagements exprimés en euros.
 
 Signature
 
@@ -70280,9 +70346,9 @@ _Cite_:
 
   - ORDONNANCE n°2014-696 du 26 juin 2014 - art. 3
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 12 septembre 2014 - art. 1
+  - Arrêté du 27 mars 2018 - art. 6
 
 
 ###### Article A132-4-8
@@ -70343,10 +70409,10 @@ _Cite_:
 
 Pour l'application de l'article A. 132-4-1 aux plans d'épargne retraite populaire prévoyant une provision de diversification,
 l'obligation d'information sur les valeurs de transfert mentionnée à l'article L. 132-5-3 peut être valablement remplie au b
-du 3° du modèle de note d'information annexé à l'article A. 132-4 comme suit. 
+du 3° du modèle de note d'information annexé à l'article A. 132-4 comme suit.
 
 I. ― Information générale sur les valeurs de transfert des droits individuels des contrats comportant des engagements donnant
-lieu à une provision de diversification. 
+lieu à une provision de diversification.
 
 1° La valeur de transfert est indiquée dans un tableau pour les huit premières années au moins. Le tableau distingue
 clairement la part de la valeur de transfert au titre de la provision de diversification et de la provision mathématique des
@@ -70355,16 +70421,16 @@ des engagements en unités de compte et des engagements en euros. La valeur de t
 diversification est exprimée en nombre de parts. Au moment de l'adhésion, le montant de la cotisation affecté à la provision
 de diversification peut être déterminé ; le nombre exact de parts n'étant connu qu'au prochain arrêté du compte de
 participation aux résultats mentionné au III de l'article A. 132-11 ou au prochain arrêté intermédiaire mentionné à l'article
-A. 134-4, la valeur de transfert des huit premières années est indiquée pour un nombre de parts générique. 
+A. 134-4, la valeur de transfert des huit premières années est indiquée pour un nombre de parts générique.
 
 2° Il est indiqué en caractères très apparents que l'organisme d'assurance ne s'engage que sur le nombre de parts, sous
 réserve des indications figurant aux 3°, 4° et 5°, et non sur la valeur de la part de provision de diversification, qui est
-sujette à des fluctuations à la hausse comme à la baisse. 
+sujette à des fluctuations à la hausse comme à la baisse.
 
-Lorsque certains prélèvements ne peuvent être déterminés lors de la remise de la notice, il est indiqué en caractères très
-apparents immédiatement après le tableau mentionné à l'article L. 132-5-2 que la valeur de transfert ne tient pas compte
+Lorsque certains prélèvements ne peuvent être déterminés lors de la fourniture de la notice, il est indiqué en caractères
+très apparents immédiatement après le tableau mentionné à l'article L. 132-5-2 que la valeur de transfert ne tient pas compte
 desdits prélèvements, en précisant lorsque tel est le cas, également en caractères très apparents, que les prélèvements ne
-sont pas plafonnés en nombre de parts de provisions de diversification. 
+sont pas plafonnés en nombre de parts de provisions de diversification.
 
 3° Il est indiqué en caractères très apparents que les parts de provision de diversification peuvent être annulées en cas de
 mise en oeuvre d'un éventuel accord de représentation des engagements, selon les dispositions prévues à l'article R. 144-19.
@@ -70374,9 +70440,9 @@ techniques et financiers, conformément aux articles R. 134-1, R. 134-5 et R. 13
 
 5° Lorsque le plan prévoit que la valeur de transfert est réduite d'une indemnité acquise au plan, les modalités de calcul de
 cette indemnité sont indiquées, précision donnée qu'elle est nulle à l'issue d'une période de dix ans à compter de la date
-d'adhésion au plan. 
+d'adhésion au plan.
 
-6° Les frais prélevés, le cas échéant, par l'organisme d'assurance sur les montants transférés sont également indiqués. 
+6° Les frais prélevés, le cas échéant, par l'organisme d'assurance sur les montants transférés sont également indiqués.
 
 II. et III. (alinéas abrogés)
 
@@ -70388,14 +70454,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 28 décembre 2015 - art. 3
+  - Arrêté du 27 mars 2018 - art. 7
 
 _Cite_:
 
-  - Code des assurances - art. A132-11 (V)
+  - Code des assurances - art. A132-11
   - Code des assurances - art. A132-4-1
-  - Code des assurances - art. A134-4 (V)
-  - Code des assurances - art. L132-5-2 (V)
+  - Code des assurances - art. A134-4
+  - Code des assurances - art. L132-5-2
   - Code des assurances - art. L132-5-3
   - Code des assurances - art. R134-1
   - Code des assurances - art. R144-19
@@ -70832,27 +70898,23 @@ _Cite_:
 
 ###### Article A132-9-1
 
-I. ― Les organismes professionnels mentionnés à l'article L. 132-9-2 sont la Fédération française des sociétés d'assurance,
-le Groupement des entreprises mutuelles d'assurances et le Centre technique des institutions de prévoyance. 
+I. ― Les organismes professionnels mentionnés à l'article L. 132-9-2 sont la Fédération française de l'assurance et le Centre
+technique des institutions de prévoyance.
 
-II. ― Dans un délai de quinze jours calendaires révolus à compter de la réception de la lettre mentionnée au premier alinéa
+II. ― Dans un délai de quinze jours calendaires révolus à compter de la réception de la demande mentionnée au premier alinéa
 de l'article L. 132-9-2, adressée par une personne physique ou morale ou transmise par un autre organisme professionnel
 mentionné au I ou par un autre organisme professionnel habilité conformément à l'article L. 223-10-1 du code de la mutualité,
-l'organisme professionnel mentionné au I en avise : 
+l'organisme professionnel mentionné au I en avise :
 
-― pour la Fédération française des sociétés d'assurance, les entreprises mentionnées à l'article L. 310-1 agréées pour
-exercer les opérations d'assurance dépendant de la durée de la vie humaine et n'adhérant pas au Groupement des entreprises
-mutuelles d'assurances ; 
-
-― pour le Groupement des entreprises mutuelles d'assurances, les entreprises mentionnées à l'article L. 310-1 agréées pour
-exercer les opérations d'assurance dépendant de la durée de la vie humaine et adhérant audit groupement ; 
+― pour la Fédération française de l'assurance, les entreprises mentionnées à l'article L. 310-1 agréées pour exercer les
+opérations d'assurance dépendant de la durée de la vie humaine ;
 
 ― pour le Centre technique des institutions de prévoyance, les institutions de prévoyance mentionnées à l'article L. 931-1 du
-code de la sécurité sociale et agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine. 
+code de la sécurité sociale et agréées pour exercer les opérations d'assurance dépendant de la durée de la vie humaine.
 
-L'organisme professionnel mentionné au I qui a reçu la lettre envoyée par la personne physique ou morale en avise également
-les autres organismes professionnels mentionnés au I et le ou les autres organismes professionnels habilités conformément à
-l'article L. 223-10-1 du code de la mutualité. 
+L'organisme professionnel mentionné au I qui a reçu la demande en avise également les autres organismes professionnels
+mentionnés au I et le ou les autres organismes professionnels habilités conformément à l'article L. 223-10-1 du code de la
+mutualité.
 
 III. ― Pour les entreprises d'assurance mentionnées à l'article L. 310-1 agréées pour exercer les opérations d'assurance
 dépendant de la durée de la vie humaine, le délai d'un mois mentionné au deuxième alinéa de l'article L. 132-9-2 court à
@@ -70866,49 +70928,49 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2007-04-23 art. 1 JORF 2 mai 2007
+  - Arrêté du 27 mars 2018 - art. 9
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L931-1 (V)
-  - Code des assurances - art. L132-9-2 (V)
-  - Code des assurances - art. L310-1 (V)
-  - Code de la mutualité - art. L223-10-1 (V)
+  - Code de la sécurité sociale. - art. L931-1
+  - Code des assurances - art. L132-9-2
+  - Code des assurances - art. L310-1
+  - Code de la mutualité - art. L223-10-1
 
 
 ###### Article A132-9-2
 
 L'avis adressé par le contractant au bénéficiaire l'informant de sa faculté d'opter irrévocablement pour la remise de titres,
-parts ou actions dans les conditions prévues par l'article R. 132-5-7 comporte les informations suivantes : 
+parts ou actions dans les conditions prévues par l'article R. 132-5-7 comporte les informations suivantes :
 
-a) Les nom et adresse du contractant ; 
+a) Les nom et adresse du contractant ;
 
-b) La référence du contrat ; 
+b) La référence du contrat ;
 
 c) Une liste indicative des catégories de titres, parts ou actions qui feront l'objet d'une remise en titres, parts ou
-actions en cas d'exercice de la clause bénéficiaire en application du 2° de l'article L. 131-1 du présent code ; 
+actions en cas d'exercice de la clause bénéficiaire en application du 2° de l'article L. 131-1 du présent code ;
 
 d) Les informations relatives aux caractéristiques principales des unités de comptes sélectionnées prévues par le f du 2° de
-l'annexe de l'article A. 132-4, notamment par la remise du document d'information clé pour l'investisseur ; 
+l'annexe de l'article A. 132-4, notamment par la remise du document d'information clé pour l'investisseur ;
 
 e) L'existence, le cas échéant, d'une clause suspensive du contrat conditionnant le versement sur une unité de compte
 constituée sous la forme de titres ou parts non négociés sur un marché réglementé, ou de parts ou actions de fonds
 d'investissements alternatifs à l'exercice par le contractant et le bénéficiaire de l'option de remise de ces titres, parts
-ou actions ; 
+ou actions ;
 
 f) L'existence, le cas échéant, d'une clause prévoyant le rachat obligatoire par le souscripteur des titres, parts ou actions
-mentionnées au c du présent article en cas de changement de bénéficiaire. 
+mentionnées au c du présent article en cas de changement de bénéficiaire.
 
-Les mentions suivantes doivent être reproduites dans l'avis : 
+Les mentions suivantes doivent être reproduites dans l'avis :
 
 Je vous informe de la faculté dont vous disposez, en tant que bénéficiaire potentiel d'un contrat d'assurance-vie dont je
 suis le souscripteur, d'opter irrévocablement pour une remise de titres, parts ou actions non négociés sur un marché
 réglementé ou de parts ou actions de fonds d'investissements alternatifs, au lieu d'un règlement en espèces, conformément aux
-dispositions de l'article L. 131-1 du code des assurances. 
+dispositions de l'article L. 131-1 du code des assurances.
 
 Si vous optez pour la remise de tels titres, parts ou actions, vous renoncez de manière irrévocable au règlement en espèces
 du capital ou de la rente garantie exprimés en unités de compte lors du dénouement du contrat, en cas d'exercice de la clause
-bénéficiaire. 
+bénéficiaire.
 
 Je vous précise que ces titres, parts ou actions, dont les caractéristiques sont jointes au présent avis, peuvent changer
 avant le dénouement du contrat et je porte à votre connaissance le fait que la valeur de ces titres, parts ou actions peut
@@ -70918,60 +70980,60 @@ actions. En outre, certaines unités de compte pouvant faire l'objet d'une remis
 associées à l'existence de dettes ou obligations susceptibles d'être mises à votre charge ou d'engager votre responsabilité
 au-delà de la valeur de ces unités de compte. Lors du dénouement du contrat, vous avez la possibilité, avant d'en accepter le
 bénéfice, de demander à l'assureur de vous informer non seulement de la contre-valeur en euros des unités de comptes mais
-également des éventuelles dettes ou obligations associées. 
+également des éventuelles dettes ou obligations associées.
 
 L'exercice de cette option de remise de titres, parts ou actions n'emporte pas acceptation de la clause bénéficiaire du
-contrat, conformément aux termes du deuxième alinéa du 2° de l'article L. 131-1 du code des assurances. 
+contrat, conformément aux termes du deuxième alinéa du 2° de l'article L. 131-1 du code des assurances.
 
 Si vous décidez d'exercer cette option, vous devez utiliser le formulaire de notification ci-joint. La notification à
-l'assureur de l'exercice de l'option a lieu par lettre recommandée, y compris électronique. Pour exercer cette option de
-remise de titres, parts ou actions, vous disposez d'un délai compris entre le dixième jour et le soixantième jour suivant la
-date de réception du présent avis. L'absence de notification à l'assureur de votre part vaut refus d'exercice de cette
-option. L'option est réputée être exercée à la date de la réception du formulaire de notification par l'assureur.
+l'assureur de l'exercice de l'option a lieu par lettre recommandée ou par envoi recommandé électronique. Pour exercer cette
+option de remise de titres, parts ou actions, vous disposez d'un délai compris entre le dixième jour et le soixantième jour
+suivant la date de réception du présent avis. L'absence de notification à l'assureur de votre part vaut refus d'exercice de
+cette option. L'option est réputée être exercée à la date de la réception du formulaire de notification par l'assureur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 13 janvier 2016 - art. 2
+  - Arrêté du 27 mars 2018 - art. 10
 
 _Cite_:
 
   - Code des assurances - art. L131-1
-  - Code des assurances - art. R132-5-7 (V)
+  - Code des assurances - art. R132-5-7
 
 
 ###### Article A132-9-3
 
 La faculté pour un bénéficiaire d'opter pour la remise de titres, parts ou actions dans les conditions prévues par l'article
-R. 132-5-7 s'exerce par l'envoi d'un formulaire de notification de l'option à l'assureur, auquel est joint l'avis envoyé par
-le contractant et qui comporte les informations suivantes : 
+R. 132-5-7 s'exerce par la notification de l'option à l'assureur, auquel est joint l'avis envoyé par le contractant et qui
+comporte les informations suivantes :
 
-a) Les nom et adresse du bénéficiaire ; 
+a) Les nom et adresse du bénéficiaire ;
 
-b) La référence du contrat ; 
+b) La référence du contrat ;
 
-c) La date de réception de l'avis envoyé par le contractant. 
+c) La date de réception de l'avis envoyé par le contractant.
 
-Les mentions suivantes doivent être reproduites dans le formulaire de notification de l'option à l'assureur : 
+Les mentions suivantes doivent être reproduites dans le formulaire de notification de l'option à l'assureur :
 
 J'ai compris que je renonce irrévocablement au règlement en espèces du capital ou de la rente garantis exprimés en unités de
 compte en cas d'exercice de la clause bénéficiaire en application du 2° et du 3° de l'article L. 131-1 du code des
-assurances. 
+assurances.
 
 J'ai été informé (e) du fait que la valeur de ces titres, parts ou actions peut fluctuer, à la hausse comme à la baisse, et
-qu'il n'existe aucune garantie d'obtenir ultérieurement une contrepartie en espèces de ces titres, parts ou actions. 
+qu'il n'existe aucune garantie d'obtenir ultérieurement une contrepartie en espèces de ces titres, parts ou actions.
 
-J'ai connaissance du fait que l'exercice de cette option n'emporte pas acceptation de la clause bénéficiaire du contrat. 
+J'ai connaissance du fait que l'exercice de cette option n'emporte pas acceptation de la clause bénéficiaire du contrat.
 
 Conformément aux dispositions du 2° et du 3° de l'article L. 131-1 du code des assurances, je souhaite exercer de manière
 irrévocable la faculté d'opter pour cette remise de titres, parts ou actions.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 13 janvier 2016 - art. 3
+  - Arrêté du 27 mars 2018 - art. 11
 
 _Cite_:
 
@@ -72502,8 +72564,7 @@ _Cite_:
 ###### Article A141-1
 
 L'information préalable de l'adhérent mentionnée au premier alinéa de l'article L. 141-6 du code des assurances est fournie
-sous la forme d'un document spécifique, distinct de tous autres documents contractuels ou précontractuels. Etabli en double
-exemplaire, il est signé et daté par l'adhérent, qui conserve l'original. 
+sous la forme d'un document spécifique, distinct de tous autres documents contractuels ou précontractuels.
 
 Ce document spécifique comporte la mention des actes dont l'entreprise d'assurance entend informer l'adhérent qu'elle n'a pas
 donné pouvoir au souscripteur de les accomplir. Il doit indiquer de même qui a pouvoir d'accomplir ces actes.
@@ -72514,9 +72575,9 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2006-07-26 art. 1 2° JORF 27 juillet 2006
+  - Arrêté du 27 mars 2018 - art. 12
 
 _Anciens textes_:
 
@@ -72524,7 +72585,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code des assurances - art. L141-6 (V)
+  - Code des assurances - art. L141-6
 
 
 #### Chapitre III : Contrats de retraite professionnelle supplémentaire<a id=619></a>
@@ -72680,34 +72741,34 @@ _Cite_:
 
 I. ― Pour chaque adhérent, le rapport mentionné à l'article R. 144-26 dépend de la durée séparant la date d'arrêté des
 comptes annuels du plan de la date de liquidation des droits de l'adhérent telle que prévue dans les dispositions du plan
-lors de l'adhésion de l'adhérent et prennent les valeurs suivantes : 
+lors de l'adhésion de l'adhérent et prennent les valeurs suivantes :
 
-Moins de deux ans : 90 % ; 
+Moins de deux ans : 90 % ;
 
-Entre deux et cinq ans : 80 % ; 
+Entre deux et cinq ans : 80 % ;
 
-Entre cinq et dix ans : 65 % ; 
+Entre cinq et dix ans : 65 % ;
 
-Entre dix et vingt ans : 40 %. 
+Entre dix et vingt ans : 40 %.
 
-II. ― La demande mentionnée au deuxième alinéa de l'article R. 144-26 est signée par l'adhérent et comporte : 
+II. ― La demande mentionnée au deuxième alinéa de l'article R. 144-26 est signée par l'adhérent et comporte :
 
-1° L'indication de la ventilation demandée des cotisations entre les différents supports d'investissement choisis ; 
+1° L'indication de la ventilation demandée des cotisations entre les différents supports d'investissement choisis ;
 
-2° La mention écrite suivante : 
+2° La mention suivante :
 
 " Conformément à la possibilité qui m'est donnée par l'article R. 144-26 du code des assurances, j'accepte expressément que
 l'organisme d'assurance gestionnaire du plan d'épargne retraite populaire auquel j'ai adhéré n'applique pas aux droits que je
-détiens au titre de ce plan la règle de sécurisation progressive telle que le prévoit ledit article. 
+détiens au titre de ce plan la règle de sécurisation progressive telle que le prévoit ledit article.
 
 " J'ai parfaitement conscience que ma demande peut avoir pour conséquence une diminution significative de la rente qui me
-sera versée lors de la liquidation de mes droits si l'évolution des marchés financiers d'ici là a été défavorable. ”  ;
+sera versée lors de la liquidation de mes droits si l'évolution des marchés financiers d'ici là a été défavorable. ” ;
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 23 novembre 2011 - art. 1
+  - Arrêté du 27 mars 2018 - art. 13
 
 _Cite_:
 
@@ -72754,95 +72815,95 @@ _Cite_:
 
 ###### Article Annexe à l'article A160-1
 
-<table border="1" cellspacing="0" cellpadding="0" align="center">
+<table cellpadding="0" cellspacing="0" align="center" border="1">
   <tbody>
     <tr>
-      <td width="58" rowspan="2">
+      <td rowspan="2">
 
 Numéros d'ordre
 
 </td>
-      <td width="83" rowspan="2">
+      <td rowspan="2">
 
 Identification du titre (numéro du titre, s'il y a lieu, et indication de toutes autres circonstances de nature à
 l'identifier)
 
 </td>
-      <td width="81" rowspan="2">
+      <td rowspan="2">
 
 Identification de l'opposant (nom, prénoms, profession, domicile)
 
 </td>
-      <td colspan="5" width="366">
-        <h1 align="center">
-          <font size="1">Dates</font>
-        </h1>
-      </td>
-    </tr>
-    <tr>
-      <td width="76">
+      <td colspan="5">
 
-De réception de la lettre recommandée de l'opposant
+Dates
 
 </td>
-      <td width="83">
+    </tr>
+    <tr>
+      <td>
+
+De réception de la lettre recommandée ou de l'envoi recommandé électronique de l'opposant
+
+</td>
+      <td>
 
 De l'intervention du tiers porteur
 
 </td>
-      <td width="75">
+      <td>
 
 De l'avis donné à l'opposant et au souscripteur originaire
 
 </td>
-      <td width="69">
+      <td>
 
 De la mainlevée de l'opposition
 
 </td>
-      <td width="64">
+      <td>
 
 De la délivrance du duplicata
 
 </td>
     </tr>
     <tr>
-      <td width="58">
+      <td>
 
 1
 
 </td>
-      <td width="83">
+      <td>
 
 2
 
 </td>
-      <td width="81">
+      <td>
 
 3
 
 </td>
-      <td width="76">
+      <td>
 
 4
 
 </td>
-      <td width="83">
+      <td>
 
 5
 
 </td>
-      <td width="75">
+      <td>
 
 6
 
 </td>
-      <td width="69">
+      <td>
 
 7
 
 </td>
-      <td width="64">
+      <td>
 
 8
 
@@ -72851,6 +72912,11 @@ De la délivrance du duplicata
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 27 mars 2018 - art. 14
 
 
 ##### Section IV : Rachat par les entreprises d'assurance sur la vie des rentes inférieures à un certain montant minimal.<a id=627></a>
@@ -73280,15 +73346,15 @@ _Cite_:
 
 ###### Article Annexe art. A211-11
 
-**Notice destinée aux victimes d'accidents de la circulation mettant en cause un véhicule terrestre à moteur **
+Notice destinée aux victimes d'accidents de la circulation mettant en cause un véhicule terrestre à moteur
 
-Les informations suivantes ont pour but de vous expliquer ce que vous devez entreprendre et comment vous serez indemnisé. 
+Les informations suivantes ont pour but de vous expliquer ce que vous devez entreprendre et comment vous serez indemnisé.
 
 Elles ont été volontairement limitées à l'essentiel. Pour en savoir plus, il vous faut consulter :
 
 - la loi n° 85-677 du 5 juillet 1985 publiée au Journal officiel du 6 juillet 1985 ;
 
-- le décret n° 86-15 du 6 janvier 1986 publié au Journal officiel du 7 janvier 1986. 
+- le décret n° 86-15 du 6 janvier 1986 publié au Journal officiel du 7 janvier 1986.
 
 La loi du 5 juillet 1985 a amélioré la situation des victimes d'accident de la circulation dans lequel est impliqué un
 véhicule terrestre à moteur, ainsi que ses remorques ou semi-remorques, à l'exception des chemins de fer et des tramways
@@ -73296,7 +73362,7 @@ circulant sur des voies qui leur sont propres :
 
 - les cas de non-indemnisation sont désormais limités ;
 
-- une offre d'indemnité doit être faite par l'assureur dans un délai de huit mois en cas d'accident corporel. 
+- une offre d'indemnité doit être faite par l'assureur dans un délai de huit mois en cas d'accident corporel.
 
 _Qui a droit à indemnisation ? _
 
@@ -73306,20 +73372,20 @@ Pour les dommages corporels :
 
 - recherché volontairement son dommage ;
 
-- commis une faute inexcusable, cause exclusive de l'accident. 
+- commis une faute inexcusable, cause exclusive de l'accident.
 
 Toutefois, cette faute ne peut être opposée à la victime si elle est âgée de moins de seize ans ou de plus de soixante-dix
 ans ou encore si elle est atteinte d'une incapacité permanente ou d'une invalidité au moins égale à 80 % ;
 
 - les conducteurs de véhicule terrestre à moteur, sauf lorsqu'ils sont responsables de l'accident (la faute du conducteur
-peut en effet limiter voire exclure son droit à indemnisation). 
+peut en effet limiter voire exclure son droit à indemnisation).
 
 Pour les dommages matériels :
 
-- toutes les victimes dans la mesure où elles ne sont pas responsables de l'accident. 
+- toutes les victimes dans la mesure où elles ne sont pas responsables de l'accident.
 
 Attention.-Même si vous êtes indemnisé de vos dommages, vous pouvez être tenu de réparer ceux que vous avez causés à autrui
-si vous êtes responsable. 
+si vous êtes responsable.
 
 Comment se déroule l'indemnisation ?
 
@@ -73333,7 +73399,7 @@ Comment se déroule l'indemnisation ?
 
 - vous acceptez l'offre, l'assureur vous indemnise ;
 
-- vous refusez l'offre, vous devez alors réclamer l'indemnisation devant le tribunal. 
+- vous refusez l'offre, vous devez alors réclamer l'indemnisation devant le tribunal.
 
 _Qui doit vous contacter ?_
 
@@ -73347,61 +73413,61 @@ sont impliqués, un seul assureur fait l'offre pour le compte de tous ;
 - si l'auteur de l'accident est inconnu ou non assuré, il vous appartient de saisir le Fonds de garantie (64, rue Defrance,
 94307 Vincennes Cedex).
 
-A la première correspondance, il vous est demandé de fournir les renseignements nécessaires à votre indemnisation. 
+A la première correspondance, il vous est demandé de fournir les renseignements nécessaires à votre indemnisation.
 
 Vous pouvez :
 
 - vous faire assister d'un avocat de votre choix ;
 
-- obtenir, sans frais, copie du rapport de police ou de gendarmerie. 
+- obtenir, sans frais, copie du rapport de police ou de gendarmerie.
 
 _Vous devez communiquer à l'assureur : _
 
-1° vos nom et prénoms ; 
+1° vos nom et prénoms ;
 
-2° vos date et lieu de naissance ; 
+2° vos date et lieu de naissance ;
 
-3° votre activité professionnelle et l'adresse de votre ou de vos employeurs ; 
+3° votre activité professionnelle et l'adresse de votre ou de vos employeurs ;
 
-4° le montant de vos revenus professionnels avec les justifications utiles ; 
+4° le montant de vos revenus professionnels avec les justifications utiles ;
 
 5° la description des atteintes à votre personne accompagnée d'une copie du certificat médical initial et autres pièces
-justificatives en cas de consolidation ; 
+justificatives en cas de consolidation ;
 
-6° la description des dommages causés à vos biens ; 
+6° la description des dommages causés à vos biens ;
 
-7° les nom, prénoms et adresse des personnes à votre charge au moment de l'accident ; 
+7° les nom, prénoms et adresse des personnes à votre charge au moment de l'accident ;
 
-8° votre numéro d'immatriculation à la Sécurité sociale et l'adresse de la caisse d'assurance maladie dont vous relevez ; 
+8° votre numéro d'immatriculation à la Sécurité sociale et l'adresse de la caisse d'assurance maladie dont vous relevez ;
 
-9° la liste des tiers payeurs appelés à vous verser des prestations, ainsi que leurs adresses ; 
+9° la liste des tiers payeurs appelés à vous verser des prestations, ainsi que leurs adresses ;
 
-10° le lieu où les correspondances doivent être adressées. 
+10° le lieu où les correspondances doivent être adressées.
 
-Si la victime décède, le conjoint et chacun des héritiers doivent communiquer à l'assureur : 
+Si la victime décède, le conjoint et chacun des héritiers doivent communiquer à l'assureur :
 
-1° ses nom et prénoms ; 
+1° ses nom et prénoms ;
 
-2° ses date et lieu de naissance ; 
+2° ses date et lieu de naissance ;
 
-3° les nom et prénoms, date et lieu de naissance de la victime ; 
+3° les nom et prénoms, date et lieu de naissance de la victime ;
 
-4° ses liens avec la victime ; 
+4° ses liens avec la victime ;
 
-5° son activité professionnelle et l'adresse de son ou de ses employeurs ; 
+5° son activité professionnelle et l'adresse de son ou de ses employeurs ;
 
-6° le montant de ses revenus avec les justifications utiles ; 
+6° le montant de ses revenus avec les justifications utiles ;
 
-7° la description de son préjudice, notamment les frais de toute nature qu'il a exposés du fait de l'accident ; 
+7° la description de son préjudice, notamment les frais de toute nature qu'il a exposés du fait de l'accident ;
 
-8° son numéro d'immatriculation à la Sécurité sociale et l'adresse de la caisse d'assurance maladie dont il relève ; 
+8° son numéro d'immatriculation à la Sécurité sociale et l'adresse de la caisse d'assurance maladie dont il relève ;
 
-9° la liste des tiers payeurs appelés à lui verser des prestations, ainsi que leurs adresses ; 
+9° la liste des tiers payeurs appelés à lui verser des prestations, ainsi que leurs adresses ;
 
-10° le lieu où les correspondances doivent être adressées. 
+10° le lieu où les correspondances doivent être adressées.
 
 Vous devez répondre à toutes ces questions dans un délai de six semaines. Si vous tardez ou si votre réponse est incomplète,
-vous retardez l'indemnisation. 
+vous retardez l'indemnisation.
 
 _Vous êtes convoqué à un examen médical. _
 
@@ -73413,9 +73479,9 @@ Vous êtes avisé au moins quinze jours avant l'examen médical :
 
 - de l'objet de l'examen ;
 
-- du nom de l'assureur pour le compte duquel l'examen est demandé. 
+- du nom de l'assureur pour le compte duquel l'examen est demandé.
 
-Vous recevrez copie du rapport dans les vingt jours. 
+Vous recevrez copie du rapport dans les vingt jours.
 
 Vous pouvez :
 
@@ -73426,7 +73492,7 @@ Vous pouvez :
 - refuser de vous faire examiner par le médecin choisi par l'assureur ; dans ce cas, l'assureur peut vous proposer un autre
 médecin ou demander au tribunal d'en désigner un ;
 
-- demander vous-même au tribunal la désignation d'un médecin expert. 
+- demander vous-même au tribunal la désignation d'un médecin expert.
 
 _Que contient l'offre d'indemnisation ? _
 
@@ -73435,7 +73501,7 @@ d'indemnisation comprenant la réparation :
 
 - du préjudice corporel ;
 
-- du préjudice matériel lorsqu'il n'a pas fait l'objet d'un règlement préalable. 
+- du préjudice matériel lorsqu'il n'a pas fait l'objet d'un règlement préalable.
 
 Selon votre état de santé, cette offre peut être :
 
@@ -73444,7 +73510,7 @@ Selon votre état de santé, cette offre peut être :
 - provisionnelle dans le cas contraire, l'offre définitive vous sera présentée au plus tard cinq mois après que l'assureur
 aura été informé de votre consolidation.
 
-L'offre doit couvrir tous les éléments de votre préjudice, c'est-à-dire : 
+L'offre doit couvrir tous les éléments de votre préjudice, c'est-à-dire :
 
 En cas de blessure :
 
@@ -73459,7 +73525,7 @@ rémunérée, des indemnités forfaitaires peuvent vous être allouées ;
 
 - l'indemnisation des souffrances endurées ;
 
-- les autres préjudices (esthétique, d'agrément...) ; 
+- les autres préjudices (esthétique, d'agrément...) ;
 
 En cas de décès :
 
@@ -73469,18 +73535,18 @@ En cas de décès :
 
 - les préjudices économiques ;
 
-- les autres préjudices ; 
+- les autres préjudices ;
 
 Dans tous les cas :
 
-- les préjudices matériels annexes aux préjudices corporels ou mortels (vêtements, prothèses...). 
+- les préjudices matériels annexes aux préjudices corporels ou mortels (vêtements, prothèses...).
 
 Attention.-Les sommes calculées subissent, s'il y a lieu, une réduction résultant :
 
 - de votre responsabilité ;
 
 - des sommes payées ou à payer par les organismes participant à l'indemnisation de votre préjudice (organismes sociaux,
-employeurs, assureurs d'avances sur indemnités...) ; une copie des décomptes de ces organismes est jointe à l'offre. 
+employeurs, assureurs d'avances sur indemnités...) ; une copie des décomptes de ces organismes est jointe à l'offre.
 
 _Qui doit recevoir l'offre d'indemnisation ?_
 
@@ -73489,64 +73555,65 @@ _Qui doit recevoir l'offre d'indemnisation ?_
 - les héritiers et le conjoint (en cas de décès) ;
 
 - le représentant légal et, selon le cas, le juge des tutelles ou le conseil de famille si la victime est mineure ou majeure
-incapable. 
+incapable.
 
 _Les suites à donner. _
 
-Lorsque vous recevez l'offre, vous pouvez : 
+Lorsque vous recevez l'offre, vous pouvez :
 
-Accepter. 
+Accepter.
 
-Dans les quinze jours qui suivent votre accord, vous pouvez le dénoncer par lettre recommandée avec accusé de réception. 
+Dans les quinze jours qui suivent votre accord, vous pouvez le dénoncer par lettre recommandée ou par envoi recommandé
+électronique avec accusé de réception.
 
 Si vous agissez en tant que représentant légal d'un mineur ou d'un majeur incapable, il vous faut l'accord du juge des
-tutelles ou du conseil de famille. 
+tutelles ou du conseil de famille.
 
-Discuter. 
+Discuter.
 
-Refuser. 
+Refuser.
 
 Vous pouvez :
 
 - vous adresser aux tribunaux pour obtenir l'indemnisation ;
 
-- réclamer des dommages-intérêts en cas d'offre manifestement insuffisante. 
+- réclamer des dommages-intérêts en cas d'offre manifestement insuffisante.
 
-Dans tous les cas, faites part de votre décision à l'assureur qui vous a présenté l'offre d'indemnisation. 
+Dans tous les cas, faites part de votre décision à l'assureur qui vous a présenté l'offre d'indemnisation.
 
 Attention.-Vous devez informer votre caisse d'assurance maladie de toute transaction intervenue avec l'assureur ou de toute
-action judiciaire. 
+action judiciaire.
 
-Quand êtes-vous indemnisé ? 
+Quand êtes-vous indemnisé ?
 
 Vous êtes indemnisé :
 
 - au plus tard quarante-cinq jours après l'accord conclu entre l'assureur et vous ;
 
-- en cas de procès, à l'issue de celui-ci. 
+- en cas de procès, à l'issue de celui-ci.
 
-Vous pouvez réclamer des intérêts en cas de retard imputable à l'assureur. 
+Vous pouvez réclamer des intérêts en cas de retard imputable à l'assureur.
 
-Conseils pratiques. 
+Conseils pratiques.
 
 Vous pouvez confier la défense de vos intérêts à toute personne de votre choix ; en cas de procès, un avocat doit vous
-représenter devant le tribunal de grande instance. 
+représenter devant le tribunal de grande instance.
 
-En adressant une feuille de soins à la Sécurité sociale, précisez bien qu'il s'agit d'un accident et indiquez sa date. 
+En adressant une feuille de soins à la Sécurité sociale, précisez bien qu'il s'agit d'un accident et indiquez sa date.
 
 Constituez votre dossier en conservant l'original ou à défaut la copie de toute pièce médicale, les décomptes de la Sécurité
-sociale, les justificatifs de vos frais ainsi qu'une copie de toute correspondance. 
+sociale, les justificatifs de vos frais ainsi qu'une copie de toute correspondance.
 
-Vous devez adresser à l'assureur les pièces justifiant les préjudices que vous avez subis. 
+Vous devez adresser à l'assureur les pièces justifiant les préjudices que vous avez subis.
 
 Vous pouvez prendre l'avis de spécialistes, agent ou courtier d'assurances, avocat, conseiller juridique, médecin...
 Toutefois, les frais et honoraires de ces intervenants peuvent rester à votre charge sauf si vous bénéficiez d'une garantie
-de protection juridique ou de l'aide judiciaire en cas de procès. 
+de protection juridique ou de l'aide judiciaire en cas de procès.
 
 Surveillez les délais afin d'accélérer le règlement de votre dossier. En particulier si un mois après l'accident vous n'avez
-aucune nouvelle de l'assureur du responsable, prenez contact avec lui. 
+aucune nouvelle de l'assureur du responsable, prenez contact avec lui.
 
-Remarque. 
+Remarque.
 
 Le dispositif mis en place par la loi a pour objet de réduire le nombre de procès et d'accélérer l'indemnisation des
 victimes. Cependant, vous avez la possibilité à tout moment :
@@ -73569,8 +73636,12 @@ estimez responsables.
 
 _Cite_:
 
-  - Loi n°85-677 du 5 juillet 1985 (V)
-  - Décret n°86-15 du 6 janvier 1986 (V)
+  - Loi n°85-677 du 5 juillet 1985
+  - Décret n°86-15 du 6 janvier 1986
+
+_Modifié par_:
+
+  - Arrêté du 27 mars 2018 - art. 15
 
 
 ### Titre II : L'assurance des engins de remontée mécanique<a id=637></a>
@@ -74315,53 +74386,53 @@ _Cite_:
 
 ###### Article Annexe II art A243-1
 
-CLAUSES-TYPES APPLICABLES AUX CONTRATS D'ASSURANCE DE DOMMAGES OUVRAGE 
+CLAUSES-TYPES APPLICABLES AUX CONTRATS D'ASSURANCE DE DOMMAGES OUVRAGE
 
-Définitions 
+Définitions
 
-a) Souscripteur. 
+a) Souscripteur.
 
 La personne, physique ou morale, désignée aux conditions particulières, qui fait réaliser des travaux de construction et qui
 est, en sa qualité définie aux mêmes conditions particulières, soumise à l'obligation d'assurance prévue par l'article L.
-242-1 du présent code, tant pour son propre compte que pour celui des propriétaires successifs. 
+242-1 du présent code, tant pour son propre compte que pour celui des propriétaires successifs.
 
-b) Assuré. 
+b) Assuré.
 
-Le souscripteur et les propriétaires successifs de l'ouvrage au bénéfice desquels est souscrit le contrat. 
+Le souscripteur et les propriétaires successifs de l'ouvrage au bénéfice desquels est souscrit le contrat.
 
-c) Réalisateurs. 
+c) Réalisateurs.
 
 L'ensemble des constructeurs désignés aux conditions particulières ou dont l'identité est portée ultérieurement à la
 connaissance de l'assureur, qui sont mentionnés au 1° de l'article 1792-1 du code civil et sont liés, à ce titre, au maître
 de l'ouvrage par un contrat de louage d'ouvrage en qualité de concepteur ou de conseil (architecte, technicien ou autre) ou
-en qualité d'entrepreneur, et qui participent à la réalisation de l'opération de construction. 
+en qualité d'entrepreneur, et qui participent à la réalisation de l'opération de construction.
 
-d) Maître de l'ouvrage. 
+d) Maître de l'ouvrage.
 
 La personne, physique ou morale, désignée aux conditions particulières, qui conclut avec les réalisateurs les contrats de
-louage d'ouvrage afférents à la conception et à l'exécution de l'opération de construction. 
+louage d'ouvrage afférents à la conception et à l'exécution de l'opération de construction.
 
-e) Contrôleur technique (lorsqu'il est désigné un contrôleur technique). 
+e) Contrôleur technique (lorsqu'il est désigné un contrôleur technique).
 
 La personne, désignée aux conditions particulières, agréée ou exerçant dans les conditions prévues par l'article L. 111-25 du
 code de la construction et de l'habitation, et appelée à intervenir, à la demande du maître de l'ouvrage, pour effectuer le
-contrôle technique des études et des travaux ayant pour objet la réalisation de l'opération de construction. 
+contrôle technique des études et des travaux ayant pour objet la réalisation de l'opération de construction.
 
-f) Réception. 
+f) Réception.
 
 L'acte par lequel le maître de l'ouvrage accepte les travaux exécutés, dans les conditions fixées par l'article 1792-6 du
-code civil. 
+code civil.
 
-g) Sinistre. 
+g) Sinistre.
 
 La survenance de dommages, au sens de l'article L. 242-1 du présent code, ayant pour effet d'entraîner la garantie de
-l'assureur. 
+l'assureur.
 
-Nature de la garantie 
+Nature de la garantie
 
 Le contrat a pour objet de garantir, en dehors de toute recherche de responsabilité, le paiement des travaux de réparation
 des dommages à l'ouvrage réalisé ainsi qu'aux ouvrages existants, totalement incorporés dans l'ouvrage neuf et qui en
-deviennent techniquement indivisibles, au sens du II de l'article L. 243-1-1 du présent code. 
+deviennent techniquement indivisibles, au sens du II de l'article L. 243-1-1 du présent code.
 
 La garantie couvre les dommages, même résultant d'un vice du sol, de la nature de ceux dont sont responsables les
 constructeurs, au sens de l'article 1792-1 du code civil, les fabricants et les importateurs ou le contrôleur technique, et
@@ -74373,27 +74444,27 @@ qui :
 impropres à leur destination ;
 
 - affectent la solidité de l'un des éléments d'équipement indissociables des ouvrages de viabilité, de fondation, d'ossature,
-de clos et de couvert, au sens de l'article 1792-2 du code civil. 
+de clos et de couvert, au sens de l'article 1792-2 du code civil.
 
 Les travaux de réparation des dommages comprennent également les travaux de démolition, déblaiement, dépose ou démontage
-éventuellement nécessaires. 
+éventuellement nécessaires.
 
-Montant et limite de la garantie 
+Montant et limite de la garantie
 
 La garantie couvre le coût de l'ensemble des travaux afférents à la remise en état des ouvrages ou éléments d'équipement de
 l'opération de construction endommagés à la suite d'un sinistre, ainsi que des ouvrages existants, totalement incorporés dans
-l'ouvrage neuf et qui en deviennent techniquement indivisibles, au sens du II de l'article L. 243-1-1 du présent code. 
+l'ouvrage neuf et qui en deviennent techniquement indivisibles, au sens du II de l'article L. 243-1-1 du présent code.
 
 Pour les constructions destinées à un usage autre que l'habitation, la garantie peut être limitée au montant du coût total de
 construction déclaré aux conditions particulières ou à un montant inférieur au coût total de construction déclaré aux
 conditions particulières, si ce coût est supérieur au montant prévu au I de l'article R. 243-3 du présent code, sans
-toutefois pouvoir être inférieur à ce dernier montant. 
+toutefois pouvoir être inférieur à ce dernier montant.
 
 Le montant de garantie est revalorisé selon les modalités prévues aux conditions particulières, pour tenir compte de
 l'évolution générale des coûts de construction entre la date de souscription du contrat et celle de la réparation du
-sinistre. 
+sinistre.
 
-Les conditions particulières précisent les modalités de reconstitution de la garantie après sinistre. 
+Les conditions particulières précisent les modalités de reconstitution de la garantie après sinistre.
 
 Le coût total de la construction déclaré s'entend de celui résultant du montant définitif des dépenses de l'ensemble des
 travaux afférents à la réalisation de l'opération de construction, toutes révisions, honoraires, taxes et, s'il y a lieu,
@@ -74401,23 +74472,23 @@ travaux supplémentaires compris. Ce coût intègre la valeur de reconstruction 
 l'ouvrage neuf et qui en deviennent techniquement indivisibles au sens du II de l'article L. 243-1-1 du présent code. En
 aucun cas ce coût ne peut toutefois comprendre les primes ou bonifications accordées par le maître de l'ouvrage au titre
 d'une exécution plus rapide que celle prévue contractuellement ni se trouver amputé des pénalités pour retard infligées à
-l'entrepreneur responsable d'un dépassement des délais contractuels d'exécution. 
+l'entrepreneur responsable d'un dépassement des délais contractuels d'exécution.
 
-Exclusions 
+Exclusions
 
-La garantie du contrat ne s'applique pas aux dommages résultant exclusivement : 
+La garantie du contrat ne s'applique pas aux dommages résultant exclusivement :
 
-a) Du fait intentionnel ou du dol du souscripteur ou de l'assuré ; 
+a) Du fait intentionnel ou du dol du souscripteur ou de l'assuré ;
 
-b) Des effets de l'usure normale, du défaut d'entretien ou de l'usage anormal ; 
+b) Des effets de l'usure normale, du défaut d'entretien ou de l'usage anormal ;
 
-c) De la cause étrangère. 
+c) De la cause étrangère.
 
-Point de départ et durée de la garantie 
+Point de départ et durée de la garantie
 
 a) La période de garantie est précisée aux conditions particulières ; elle commence au plus tôt, sous réserve des
 dispositions du b, à l'expiration du délai de garantie de parfait achèvement défini à l'article 1792-6 du code civil. Elle
-prend fin à l'expiration d'une période de dix ans à compter de la réception. 
+prend fin à l'expiration d'une période de dix ans à compter de la réception.
 
 b) Toutefois, elle garantit le paiement des réparations nécessaires lorsque :
 
@@ -74426,44 +74497,45 @@ est résilié pour inexécution, par celui-ci, de ses obligations ;
 
 - après la réception, et avant l'expiration du délai de la garantie de parfait achèvement au sens de l'article 1792-6 du code
 civil, lorsque l'entrepreneur n'a pas exécuté ses obligations au titre de cette garantie, après mise en demeure par lettre
-recommandée avec demande d'avis de réception restée infructueuse. 
+recommandée ou par envoi recommandé électronique, avec demande d'avis de réception, resté infructueux.
 
-Obligations réciproques des parties 
+Obligations réciproques des parties
 
 Les déclarations ou notifications auxquelles il est procédé entre les parties en application de paragraphes A (1°, c), A
-(3°), B (2°, a), B (2°, c), B (3°, a), de la présente clause, sont faites par écrit soit contre récépissé, soit par lettre
-recommandée avec demande d'avis de réception. 
+(3°), B (2°, a), B (2°, c), B (3°, a), de la présente clause, sont faites par écrit soit contre récépissé, sur support papier
+ou tout autre support durable, soit par lettre recommandée ou par envoi recommandé électronique avec demande d'avis de
+réception.
 
-A.-Obligations de l'assuré 
+A.-Obligations de l'assuré
 
-1° L'assuré s'engage : 
+1° L'assuré s'engage :
 
 a) A fournir à l'assureur, sur sa demande, la preuve de l'existence des contrats d'assurance de responsabilité décennale
-souscrits par les réalisateurs et le contrôleur technique ; 
+souscrits par les réalisateurs et le contrôleur technique ;
 
 b) A lui déclarer les réceptions de travaux, ainsi qu'à lui remettre dans le mois de leur prononcé, le ou les procès-verbaux
-desdites réceptions, ainsi que le relevé des observations ou réserves demeurées non levées du contrôleur technique ; 
+desdites réceptions, ainsi que le relevé des observations ou réserves demeurées non levées du contrôleur technique ;
 
 c) A lui adresser un dossier technique comportant au moins les plans et descriptifs de l'ensemble des travaux effectivement
-réalisés, dans le délai maximal d'un mois à compter de leur achèvement ; 
+réalisés, dans le délai maximal d'un mois à compter de leur achèvement ;
 
 d) A lui notifier dans le même délai, le constat de l'exécution des travaux éventuellement effectués au titre de la garantie
 de parfait achèvement au sens de l'article 1792-6 du code civil ainsi que le relevé des observations ou réserves demeurées
-non levées du contrôleur technique ; 
+non levées du contrôleur technique ;
 
-e) A lui faire tenir la déclaration de tout arrêt de travaux devant excéder trente jours ; 
+e) A lui faire tenir la déclaration de tout arrêt de travaux devant excéder trente jours ;
 
 f) A communiquer les avis, observations et réserves du contrôleur technique, simultanément, tant à l'assureur qu'au
 réalisateur concerné, et à ne pas s'opposer à ce que l'assureur puisse, à ses frais, demander au contrôleur technique, sous
-son couvert, les informations complémentaires dont il estimerait avoir besoin pour l'appréciation des risques assurés. 
+son couvert, les informations complémentaires dont il estimerait avoir besoin pour l'appréciation des risques assurés.
 
 Dans le cas où il n'est pas lui-même le maître de l'ouvrage, l'assuré s'engage à obtenir de celui-ci que les avis,
 observations et réserves du contrôleur technique soient pareillement communiqués à l'assureur et au réalisateur concerné, et
 que, dans les mêmes conditions, l'assureur puisse demander au contrôleur technique les informations complémentaires dont il
-estimerait avoir besoin pour l'appréciation des risques assurés. 
+estimerait avoir besoin pour l'appréciation des risques assurés.
 
 2° En cas de sinistre susceptible de mettre en jeu les garanties du contrat, l'assuré est tenu d'en faire la déclaration à
-l'assureur. 
+l'assureur.
 
 La déclaration de sinistre est réputée constituée dès qu'elle comporte au moins les renseignements suivants :
 
@@ -74478,75 +74550,75 @@ La déclaration de sinistre est réputée constituée dès qu'elle comporte au m
 - la date d'apparition des dommages ainsi que leur description et localisation ;
 
 - si la déclaration survient pendant la période de parfait achèvement au sens de l'article 1792-6 du code civil, la copie de
-la mise en demeure effectuée au titre de la garantie de parfait achèvement. 
+la mise en demeure effectuée au titre de la garantie de parfait achèvement.
 
 A compter de la réception de la déclaration de sinistre, l'assureur dispose d'un délai de dix jours pour signifier à l'assuré
 que la déclaration n'est pas réputée constituée et réclamer les renseignements manquants susvisés. Les délais visés à
 l'article L. 242-1 du présent code commencent à courir du jour où la déclaration de sinistre réputée constituée est reçue par
-l'assureur. 
+l'assureur.
 
 3° L'assuré s'engage à autoriser l'assureur à constater l'état d'exécution des travaux de réparation des dommages ayant fait
-l'objet d'une indemnisation en cas de sinistre. 
+l'objet d'une indemnisation en cas de sinistre.
 
 4° Pour permettre l'exercice éventuel du droit de subrogation ouvert au profit de l'assureur par l'article L. 121-12 du code
-des assurances, l'assuré s'engage également : 
+des assurances, l'assuré s'engage également :
 
 a) A autoriser l'assureur à accéder à tout moment au chantier pendant la période d'exécution des travaux de construction,
 jusqu'à l'expiration du délai de garantie de parfait achèvement au sens de l'article 1792-6 du code civil, et, à cet effet, à
 prendre les dispositions nécessaires dans les contrats et marchés à passer avec les réalisateurs ayant la responsabilité de
 la garde du chantier. En cas de sinistre survenant au-delà de la date d'expiration de la garantie de parfait achèvement,
-l'assuré s'engage à accorder à l'assureur toutes facilités pour accéder aux lieux du sinistre ; 
+l'assuré s'engage à accorder à l'assureur toutes facilités pour accéder aux lieux du sinistre ;
 
 b) En cas de sinistre, à autoriser les assureurs couvrant la responsabilité décennale des réalisateurs, des fabricants au
 sens de l'article 1792-4 du code civil, et du contrôleur technique à accéder aux lieux du sinistre sur l'invitation qui leur
-en est faite par la personne désignée au paragraphe B (1°, a) ; 
+en est faite par la personne désignée au paragraphe B (1°, a) ;
 
 c) A autoriser ladite personne à pratiquer les investigations qui lui apparaîtraient nécessaires en vue de l'établissement, à
 l'intention de l'assureur, d'un rapport complémentaire qui, reprenant les conclusions du rapport d'expertise défini au
 paragraphe B (1°, c et b) en approfondit, en tant que de besoin, l'analyse, en vue notamment de la recherche des faits
-générateurs du sinistre et des éléments propres à étayer le recours de l'assureur. 
+générateurs du sinistre et des éléments propres à étayer le recours de l'assureur.
 
-B.-Obligations de l'assureur en cas de sinistre 
+B.-Obligations de l'assureur en cas de sinistre
 
-1° Constat des dommages, expertise : 
+1° Constat des dommages, expertise :
 
 a) Sous réserve des dispositions du d ci-dessous, les dommages sont constatés, décrits et évalués par les soins d'un expert,
-personne physique ou morale, désigné par l'assureur. 
+personne physique ou morale, désigné par l'assureur.
 
 L'expert peut faire l'objet d'une récusation dans les huit jours de la notification à l'assuré de sa désignation. En cas de
-seconde récusation par l'assuré, l'assureur fait désigner l'expert par le juge des référés. 
+seconde récusation par l'assuré, l'assureur fait désigner l'expert par le juge des référés.
 
 Lorsque l'expert est une personne morale, celle-ci fait connaître aux parties le nom de la ou des personnes physiques
-chargées d'effectuer la mission donnée, en son nom et sous sa responsabilité. 
+chargées d'effectuer la mission donnée, en son nom et sous sa responsabilité.
 
 Lors de la première demande de récusation, les délais d'instruction et de règlement de sinistre prévus ci-après par la
 présente clause-type sont augmentés de dix jours. En cas de désignation de l'expert par le juge des référés, ces mêmes délais
-sont augmentés de trente jours. 
+sont augmentés de trente jours.
 
 Les opérations de l'expert revêtent un caractère contradictoire. L'assuré peut se faire assister ou représenter. Les
-observations éventuelles de l'assuré sont consignées dans le rapport de l'expert ; 
+observations éventuelles de l'assuré sont consignées dans le rapport de l'expert ;
 
 b) L'assureur s'engage envers l'assuré à donner à l'expert les instructions nécessaires pour que les réalisateurs, les
 fabricants au sens de l'article 1792-4 du code civil et le contrôleur technique, ainsi que les assureurs couvrant leur
 responsabilité décennale et celle de l'assuré soient, d'une façon générale, consultés pour avis par ledit expert, chaque fois
 que celui-ci l'estime nécessaire et, en tout cas, obligatoirement avant le dépôt entre les mains de l'assureur de chacun des
 deux documents définis en c, et soient, en outre, systématiquement informés par lui du déroulement des différentes phases du
-constat des dommages et du règlement des indemnités ; 
+constat des dommages et du règlement des indemnités ;
 
 c) La mission d'expertise définie en a est limitée à la recherche et au rassemblement des données strictement indispensables
-à la non-aggravation et à la réparation rapide des dommages garantis. 
+à la non-aggravation et à la réparation rapide des dommages garantis.
 
-Les conclusions écrites de l'expert sont, en conséquence, consignées au moyen de deux documents distincts : 
+Les conclusions écrites de l'expert sont, en conséquence, consignées au moyen de deux documents distincts :
 
 c. a) un rapport préliminaire, qui comporte l'indication descriptive et estimative des mesures conservatoires jugées
 nécessaires à la non-aggravation des dommages, compte tenu, s'il y a lieu, des mesures conservatoires prises par l'assuré,
 ainsi que les indications sommaires sur les circonstances et les caractéristiques techniques du sinistre, permettant à
 l'assureur de se prononcer dans le délai prévu au paragraphe 2°, a, sur le principe de la mise en jeu des garanties du
-contrat ; 
+contrat ;
 
 c. b) un rapport d'expertise, exclusivement consacré à la description des caractéristiques techniques du sinistre et à
 l'établissement des propositions, descriptions et estimations, concernant les différentes mesures à prendre et les différents
-travaux à exécuter en vue de la réparation intégrale des dommages constatés ; 
+travaux à exécuter en vue de la réparation intégrale des dommages constatés ;
 
 d) L'assureur n'est pas tenu de recourir à une expertise lorsque, au vu de la déclaration de sinistre :
 
@@ -74554,46 +74626,45 @@ d) L'assureur n'est pas tenu de recourir à une expertise lorsque, au vu de la d
 
 - ou
 
-- la mise en jeu de la garantie est manifestement injustifiée. 
+- la mise en jeu de la garantie est manifestement injustifiée.
 
 Lorsqu'il décide de ne pas recourir à une expertise, l'assureur notifie à l'assuré son offre d'indemnité ou sa décision de
-refus de garantie dans le délai de quinze jours à compter de la réception de la déclaration de sinistre réputée constituée. 
+refus de garantie dans le délai de quinze jours à compter de la réception de la déclaration de sinistre réputée constituée.
 
-En cas de contestation de l'assuré, celui-ci peut obtenir la désignation d'un expert. 
+En cas de contestation de l'assuré, celui-ci peut obtenir la désignation d'un expert.
 
-La notification reproduit de façon apparente l'alinéa précédent. 
+La notification reproduit de façon apparente l'alinéa précédent.
 
-2° Rapport préliminaire, mise en jeu des garanties, mesures conservatoires : 
+2° Rapport préliminaire, mise en jeu des garanties, mesures conservatoires :
 
 a) Dans un délai maximum de soixante jours courant à compter de la réception de la déclaration du sinistre réputée
 constituée, l'assureur, sauf s'il a fait application des dispositions du deuxième alinéa du d du 1°, sur le vu du rapport
 préliminaire établi par l'expert, notifie à celui-ci sa décision quant au principe de la mise en jeu des garanties du
-contrat. L'assureur communique à l'assuré ce rapport préliminaire, préalablement ou au plus tard lors de cette
-notification ; 
+contrat. L'assureur communique à l'assuré ce rapport préliminaire, préalablement ou au plus tard lors de cette notification ;
 
 Toute décision négative de l'assureur, ayant pour effet de rejeter la demande d'indemnisation, doit être expressément
-motivée. 
+motivée.
 
 Si l'assureur ne conteste pas la mise en jeu des garanties du contrat, la notification de sa décision comporte l'indication
 du montant de l'indemnité destinée à couvrir les dépenses correspondant à l'exécution des mesures conservatoires nécessaires
 à la non-aggravation des dommages. Cette indemnité tient compte, s'il y a lieu, des dépenses qui ont pu être précédemment
-engagées par l'assuré lui-même, au titre des mesures conservatoires. 
+engagées par l'assuré lui-même, au titre des mesures conservatoires.
 
 b) L'assureur prend les dispositions nécessaires pour que l'assuré puisse être saisi du rapport préliminaire en temps utile
-et, en tout cas, dans un délai compatible avec celui qu'il est lui-même tenu d'observer en vertu du paragraphe a ; 
+et, en tout cas, dans un délai compatible avec celui qu'il est lui-même tenu d'observer en vertu du paragraphe a ;
 
 c) Faute, pour l'assureur, de respecter le délai fixé au paragraphe a, et sur simple notification faite à l'assureur, les
 garanties du présent contrat jouent pour ce qui concerne le sinistre déclaré, et l'assuré est autorisé à engager les dépenses
 correspondant à l'exécution des mesures conservatoires nécessaires à la non-aggravation des dommages, dans la limite de
 l'estimation portée dans le rapport préliminaire de l'expert. Si, dans le même délai, l'assuré n'a pu avoir connaissance du
 rapport préliminaire, il est autorisé de la même manière à engager les dépenses en cause dans la limite de l'estimation qu'il
-a pu en faire lui-même. 
+a pu en faire lui-même.
 
-3° Rapport d'expertise, détermination et règlement de l'indemnité : 
+3° Rapport d'expertise, détermination et règlement de l'indemnité :
 
 a) L'assureur, sauf s'il a fait application des dispositions du deuxième alinéa d du 1° sur le vu du rapport d'expertise,
 notifie à celui-ci ses propositions quant au montant de l'indemnité destinée au paiement des travaux de réparation des
-dommages. L'assureur communique à l'assuré ce rapport d'expertise, préalablement ou au plus tard lors de cette notification. 
+dommages. L'assureur communique à l'assuré ce rapport d'expertise, préalablement ou au plus tard lors de cette notification.
 
 Ces propositions font l'objet d'une actualisation ou d'une révision de prix selon les modalités prévues à cet effet aux
 conditions particulières ; elles sont obligatoirement ventilées entre les différents postes de dépenses retenus et appuyées
@@ -74601,10 +74672,10 @@ des justifications nécessaires, tant en ce qui concerne les quantités que les 
 dépenses de travaux proprement dits, les frais annexes nécessaires à la mise en œuvre desdits travaux, tels qu'honoraires,
 essais, analyses, ainsi que les taxes applicables. Elles tiennent compte, s'il y a lieu, des dépenses qui ont pu être
 précédemment engagées ou retenues, ainsi que des indemnités qui ont pu être antérieurement versées au titre des mesures
-conservatoires ; 
+conservatoires ;
 
 b) Au cas où une expertise a été requise, l'assureur prend les dispositions nécessaires pour que l'assuré puisse être saisi
-du rapport d'expertise en temps utile ; 
+du rapport d'expertise en temps utile ;
 
 c) En tout état de cause, l'assuré qui a fait connaître à l'assureur qu'il n'acquiesce pas aux propositions de règlement dont
 il a été saisi, s'il estime ne pas devoir cependant différer l'exécution des travaux de réparation, reçoit sur sa demande, de
@@ -74612,15 +74683,15 @@ l'assureur, sans préjudice des décisions éventuelles de justice à intervenir
 quarts du montant de l'indemnité qui lui a été notifié selon les modalités définies en a. Cette avance, forfaitaire et non
 revalorisable, et à valoir sur le montant définitif de l'indemnité qui sera mise à la charge de l'assureur, est versée en une
 seule fois, dans un délai maximum de quinze jours courant à compter de la réception, par l'assureur, de la demande de
-l'assuré. 
+l'assuré.
 
 L'assuré s'engage à autoriser l'assureur à constater l'exécution des travaux de réparation des dommages ayant fait l'objet
-d'une avance ; 
+d'une avance ;
 
 d) Si l'assuré ayant demandé le bénéfice des dispositions du paragraphe c n'a pas reçu, dans le délai fixé au même
 paragraphe, les sommes représentatives de l'avance due par l'assureur, il est autorisé à engager les dépenses afférentes aux
 travaux de réparation qu'il entreprend, dans la limite des propositions d'indemnisation qui lui ont été précédemment
-notifiées. 
+notifiées.
 
 4° L'assureur est tenu de notifier à l'assuré, pour l'information de celui-ci, la position définitive que, sur le vu du
 rapport complémentaire, il estime devoir prendre en ce qui concerne l'exercice du droit de subrogation ouvert à son profit
@@ -74630,18 +74701,18 @@ par l'article L. 121-12.
 
 _Modifié par_:
 
-  - Arrêté du 19 novembre 2009 - art.
+  - Arrêté du 27 mars 2018 - art. 16
 
 _Cite_:
 
-  - Code civil - art. 1792-1 (V)
-  - Code civil - art. 1792-4 (V)
-  - Code civil - art. 1792-6 (V)
-  - Code des assurances - art. L121-12 (V)
-  - Code des assurances - art. L242-1 (V)
-  - Code des assurances - art. L243-1-1 (V)
-  - Code des assurances - art. R243-3 (V)
-  - Code de la construction et de l'habitation. - art. L111-25 (V)
+  - Code civil - art. 1792-1
+  - Code civil - art. 1792-4
+  - Code civil - art. 1792-6
+  - Code des assurances - art. L121-12
+  - Code des assurances - art. L242-1
+  - Code des assurances - art. L243-1-1
+  - Code des assurances - art. R243-3
+  - Code de la construction et de l'habitation. - art. L111-25
 
 
 ###### Article Annexe III art A243-1
@@ -77596,7 +77667,7 @@ _Modifié par_:
 
 En cas de réalisation de l'un des risques politiques, catastrophiques, ou de transfert couverts par la police, l'indemnité
 correspondante est, dans la mesure où le sinistre subsiste, versée à l'assuré six mois après réception par l'organisme
-mentionné à l'article L. 432-2 d'une lettre recommandée l'informant de ce sinistre. 
+mentionné à l'article L. 432-2 d'une lettre recommandée ou d'un envoi recommandé électronique l'informant de ce sinistre.
 
 Toutefois, ledit organisme a la faculté, à titre exceptionnel, sous réserve de l'accord de la commission des garanties et du
 crédit au commerce extérieur, de régler l'indemnité dès réception de la déclaration du sinistre.
@@ -77613,11 +77684,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 22 décembre 2016 - art. 2
+  - Arrêté du 27 mars 2018 - art. 17
 
 _Cite_:
 
-  - Code des assurances - art. L432-2 (V)
+  - Code des assurances - art. L432-2
 
 
 ###### Article A432-5
