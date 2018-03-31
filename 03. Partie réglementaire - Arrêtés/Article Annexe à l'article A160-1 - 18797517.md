@@ -1,94 +1,94 @@
 # Article Annexe à l'article A160-1
 
-<table cellpadding="0" align="center" border="1" cellspacing="0">
+<table cellpadding="0" border="1" cellspacing="0" align="center">
   <tbody>
     <tr>
-      <td width="58" rowspan="2">
+      <td rowspan="2">
 
 Numéros d'ordre
 
 </td>
-      <td rowspan="2" width="83">
+      <td rowspan="2">
 
 Identification du titre (numéro du titre, s'il y a lieu, et indication de toutes autres circonstances de nature à
 l'identifier)
 
 </td>
-      <td rowspan="2" width="81">
+      <td rowspan="2">
 
 Identification de l'opposant (nom, prénoms, profession, domicile)
 
 </td>
-      <td colspan="5" width="366">
-        <h1 align="center">
-          <font size="1">Dates</font>
-        </h1>
-      </td>
-    </tr>
-    <tr>
-      <td width="76">
+      <td colspan="5">
 
-De réception de la lettre recommandée de l'opposant
+Dates
 
 </td>
-      <td width="83">
+    </tr>
+    <tr>
+      <td>
+
+De réception de la lettre recommandée ou de l'envoi recommandé électronique de l'opposant
+
+</td>
+      <td>
 
 De l'intervention du tiers porteur
 
 </td>
-      <td width="75">
+      <td>
 
 De l'avis donné à l'opposant et au souscripteur originaire
 
 </td>
-      <td width="69">
+      <td>
 
 De la mainlevée de l'opposition
 
 </td>
-      <td width="64">
+      <td>
 
 De la délivrance du duplicata
 
 </td>
     </tr>
     <tr>
-      <td width="58">
+      <td>
 
 1
 
 </td>
-      <td width="83">
+      <td>
 
 2
 
 </td>
-      <td width="81">
+      <td>
 
 3
 
 </td>
-      <td width="76">
+      <td>
 
 4
 
 </td>
-      <td width="83">
+      <td>
 
 5
 
 </td>
-      <td width="75">
+      <td>
 
 6
 
 </td>
-      <td width="69">
+      <td>
 
 7
 
 </td>
-      <td width="64">
+      <td>
 
 8
 
@@ -97,3 +97,8 @@ De la délivrance du duplicata
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 27 mars 2018 - art. 14
