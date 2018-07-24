@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2018-07-18
+Version Consolidée au 2018-07-25
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -528,7 +528,7 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#305)
           - [Section V : Informations à fournir au public (art. R385-18 à R385-21)](#523)
           - [Section VI : Mesures de sauvegarde (art. R385-22 à R385-25)](#524)
       - [Titre IX  : Dispositions applicables dans les îles Wallis et Futuna (art. R391-1)](#525)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R421-1 à R451-1)](#526)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R421-1 à R451-5)](#526)
       - [Titre II : Les fonds de garantie (art. R421-1 à R427-15)](#527)
         - [Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages. (art. R421-1 à R421-78)](#528)
           - [Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et à Mayotte (art. R421-1 à R421-20)](#529)
@@ -584,7 +584,7 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#305)
           - [Section III : Opérations d'investissement. (art. R442-9-1 à R442-9-3)](#579)
           - [Section IV : Opérations d'importation. (art. R442-10-1 à R442-10-4)](#580)
           - [Section V : Opérations d'achat par des entreprises françaises auprès de fournisseurs français en concurrence avec une entreprise étrangère bénéficiant d'un soutien public à l'exportation (art. R442-10-6 à R442-10-10)](#581)
-      - [Titre V : Organisme d'information (art. R451-1)](#582)
+      - [Titre V : Organisme d'information (art. R451-1 à R451-5)](#582)
     - [Livre V : Intermédiaires d'assurance (art. R511-1 à R541-1)](#583)
       - [Titre Ier : Intermédiation en assurance (art. R511-1 à R514-5)](#584)
         - [Chapitre Ier : Définitions. (art. R511-1 à R511-3)](#585)
@@ -29864,47 +29864,116 @@ _Cite_:
   - Code des assurances - art. L211-1 (V)
 
 
+###### Article L451-1-1
+
+I.-L'organisme d'information mentionné à l'article L. 451-1 est chargé de la mise en place d'un fichier des véhicules
+terrestres à moteur assurés conformément au chapitre Ier du titre Ier du livre II et des véhicules de l'Etat non soumis à
+cette obligation d'assurance, en vue de permettre, à partir des immatriculations, des données techniques et de la couverture
+d'assurance responsabilité civile desdits véhicules, l'information : 
+
+1° Des personnes prévue à l'article L. 451-1 ; 
+
+2° De l'Etat dans le cadre de sa mission de contrôle de l'obligation d'assurance de responsabilité civile automobile prévue
+au chapitre Ier du titre Ier du livre II ; 
+
+3° Du fonds de garantie des assurances obligatoires de dommages dans le cadre de ses missions prévues au V de l'article L.
+421-1. 
+
+D'autres organismes peuvent interroger l'organisme d'information à des fins de sécurisation de leurs activités, dans des
+conditions fixées par décret en Conseil d'Etat. 
+
+II.-Un fichier des véhicules susceptibles de ne pas satisfaire à l'obligation d'assurance prévue au chapitre Ier du titre Ier
+du livre II est mis en place sur la base des informations figurant dans le fichier prévu au I du présent article et dans les
+conditions fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+Conformément aux dispositions des 1° du I et du II de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions
+de l'article L. 451-1-1 entrent en vigueur le 25 juillet 2018 à l'exception du dernier alinéa du I qui entre en vigueur le 31
+décembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
+
+_Cité par_:
+
+  - Décret n°2018-644 du 20 juillet 2018 - art. 3 (V)
+
+
 ###### Article L451-2
 
-Toute entreprise d'assurance couvrant sur le territoire de la République française les risques de responsabilité civile
+I. - Toute entreprise d'assurance couvrant sur le territoire de la République française les risques de responsabilité civile
 résultant de l'emploi de véhicules terrestres à moteur, à l'exclusion de la responsabilité du transporteur, adhère à
 l'organisme d'information visé à l'article L. 451-1. 
 
 Toute entreprise d'assurance qui ne se conforme pas à cette obligation est considérée comme ne fonctionnant plus conformément
-à la législation en vigueur. Elle encourt, selon le cas, les sanctions prévuesaux articles L. 612-39 du code monétaire et
-financier, ou L. 363-4 du présent code. 
+à la législation en vigueur. Elle encourt, selon le cas, les sanctions prévues aux articles L. 612-39 du code monétaire et
+financier, ou L. 363-4 du présent code.
 
-Afin de permettre à l'organisme d'information de répondre aux demandes d'information prévues aux articles L. 451-1 et L.
-451-3 pendant un délai de sept ans après l'accident, les entreprises d'assurance mentionnées à l'article L. 451-1 ont
-l'obligation de lui communiquer, si l'accident est survenu pendant la période de validité du contrat : 
+Pour permettre à l'organisme d'information d'accomplir les missions prévues aux articles L. 451-1 à L. 451-1-2 et L. 451-3,
+les entreprises d'assurance mentionnées au deuxième alinéa du présent article lui communiquent, selon des modalités fixées
+par décret en Conseil d'Etat, pour tous les véhicules qu'elles assurent par un contrat de responsabilité civile automobile,
+les informations suivantes : 
 
-1° Le numéro du contrat d'assurance de responsabilité civile résultant de l'emploi de véhicules terrestres à moteur ayant
-leur stationnement habituel sur le territoire de la République française ; 
+1° La dénomination et l'adresse de l'entreprise d'assurance couvrant la responsabilité civile mentionnée à l'article L.
+211-1 ; 
 
-2° Le numéro de carte internationale d'assurance ou du contrat d'assurance frontière, si le véhicule est couvert par l'un de
-ces documents ; 
+2° Le numéro du contrat d'assurance et sa période de validité ; 
 
-3° Si la personne lésée y a un intérêt légitime, le nom et l'adresse du propriétaire ou du conducteur habituel ou du
-détenteur déclaré du véhicule. 
+3° Le numéro d'immatriculation du véhicule. 
 
-Les entreprises d'assurance sont tenues de conserver ces données, ainsi que les numéros d'immatriculation correspondants,
-pendant un délai de sept ans après l'expiration du contrat d'assurance. Cette obligation repose sur l'entreprise d'assurance
-nouvelle en cas de transfert de portefeuille. 
+II.-Pour permettre à l'organisme d'information d'accomplir les missions prévues aux articles L. 451-1 à L. 451-1-2 et L.
+451-3, l'Etat lui communique, selon des modalités fixées par décret en Conseil d'Etat, pour l'ensemble des véhicules
+dérogataires à l'obligation d'assurance prévue à l'article L. 211-1 : 
+
+1° Le numéro d'immatriculation du véhicule ; 
+
+2° Les coordonnées des autorités qui en sont responsables. 
+
+III.-L'organisme d'information est tenu de conserver les informations mentionnées aux I et II du présent article pendant un
+délai de sept ans à compter de la fin du contrat d'assurance. 
+
+Les entreprises d'assurance sont également tenues de conserver, pendant un délai de sept ans à compter de la fin du contrat
+d'assurance, le nom et l'adresse du propriétaire ou du conducteur habituel ou du détenteur déclaré du véhicule, pour
+permettre à l'organisme d'information de répondre à la demande de la personne lésée dans un accident de la circulation qui y
+a un intérêt légitime. Cette obligation repose sur l'entreprise d'assurance nouvelle en cas de transfert de portefeuille. 
 
 Les organismes immatriculant les véhicules bénéficiant de la dérogation à l'obligation d'assurance prévue à l'article L.
-211-1 sont tenus de conserver le nom et l'adresse du service gestionnaire de ces véhicules pendant un délai de sept ans après
-la fin de leur immatriculation. 
+211-1 sont tenus de conserver le nom et l'adresse du service gestionnaire de ces véhicules pendant un délai de sept ans à
+compter de la fin de leur immatriculation.
 
-Afin de permettre à l'organisme d'information de répondre aux demandes des personnes lésées dans un accident de la
-circulation mettant en cause un véhicule bénéficiant de l'exonération prévue à l'article L. 211-1, l'Etat répond aux demandes
-d'identification formulées par l'organisme d'information et lui communique les coordonnées des autorités chargées de
-l'indemnisation.
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+Les dispositions du 1° du I de l'article 3 du décret n° 2018-644 du 20 juillet 2018, ont fixé l'entrée en vigueur des
+dispositions de l'article L. 451-2 au 25 juillet 2018.
+
+Conformément au II de l'article 35 de la loi n° 2016-1547 du 18 novembre 2016, les dispositions de l'article L. 451-2 dans
+leur rédaction antérieure à ladite loi, restent applicables pendant une durée fixée par décret en Conseil d'Etat.
+
+Aux termes du II de l'article 4 du décret n° 2018-644 du 20 juillet 2018, les obligations de conservation et de communication
+des données mentionnées à l'article L. 451-2 dans sa rédaction antérieure à celle résultant de l'article 35 de la loi n°
+2016-644 du 18 novembre 2016 demeurent applicables :
+
+1° Aux contrats d'assurance dont les garanties de responsabilité civile automobile ont cessé antérieurement à l'entrée en
+vigueur dudit décret ;
+
+2° Aux véhicules de l'Etat dérogataires à l'obligation d'assurance fixée à l'article L. 211-1 du code des assurances dont
+l'immatriculation a pris fin antérieurement à l'entrée en vigueur du même décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 8
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 _Cité par_:
 
@@ -29950,28 +30019,37 @@ _Cité par_:
 
 ###### Article L451-4
 
-Afin de répondre à la personne lésée qui a prouvé un intérêt légitime à obtenir de l'organisme d'information le nom et
+I.-Dans le cadre des missions prévues aux articles L. 451-1 à L. 451-1-2 et L. 451-3, l'organisme d'information mentionné à
+l'article L. 451-1 du présent code et les entreprises d'assurance, par son intermédiaire, ont accès, dans les conditions
+prévues à l'article L. 330-5 du code de la route, aux immatriculations et aux données techniques du fichier des pièces
+administratives et décisions prévu à l'article L. 330-1 du même code. 
+
+II.-Afin de répondre à la personne lésée qui a prouvé un intérêt légitime à obtenir de l'organisme d'information le nom et
 l'adresse du propriétaire ou du conducteur habituel ou du détenteur déclaré du véhicule impliqué dans l'accident, l'organisme
-d'information peut interroger le fichier national des immatriculations institué par l'article L. 330-1 du code de la route,
-lorsque le véhicule n'est pas assuré.
+d'information peut interroger le fichier des pièces administratives et décisions prévu à l'article L. 330-1 du code de la
+route, lorsque le véhicule n'est pas assuré.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+Conformément aux dispositions du 1° du I de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions de
+l'article L. 451-4 entrent en vigueur le 25 juillet 2018.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 83 () JORF 2 août 2003
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 _Cité par_:
 
   - Décret n°2018-644 du 20 juillet 2018 - art. 3 (V)
-
-_Cite_:
-
-  - Code de la route. - art. L330-1 (V)
 
 
 ### Titre VII : Dispositions applicables dans les îles Wallis et Futuna<a id=251></a>
@@ -67762,6 +67840,52 @@ _Créé par_:
 _Cite_:
 
   - Code des assurances - art. L451-1 (V)
+
+
+###### Article R451-3
+
+Le fichier mentionné au II de l'article L. 451-1-1 est constitué par l'organisme d'information mentionné à l'article L.
+451-1, à partir du croisement, effectué chaque jour, des informations provenant du fichier prévu au I du même article L.
+451-1-1 et des informations mentionnées à l'article L. 330-1 du code de la route.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-644 du 20 juillet 2018 - art. 2
+
+_Cite_:
+
+  - Code de la route. - art. L330-1
+
+
+###### Article R451-5
+
+Les entreprises d'assurance, ainsi que les intermédiaires d'assurance ayant reçu à cet effet de la part de ces entreprises
+une délégation de gestion, communiquent à l'organisme d'information mentionné à l'article L. 451-1 les informations prévues
+au I de l'article L. 451-2 dans des délais permettant que ces informations puissent être disponibles au sein du fichier
+mentionné au I de l'article L. 451-1-1 et communicables par l'organisme d'information au plus tard dans les soixante-douze
+heures suivant l'entrée en vigueur ou la cessation de la garantie de responsabilité civile automobile.
+
+L'Etat communique chaque jour au même organisme les informations prévues au II de l'article L. 451-2 à partir des
+informations mentionnées à l'article L. 330-1 du code de la route.
+
+**Nota:**
+
+Conformément aux dispositions du I de l’article 4 du décret n° 2018-644 du 20 juillet 2018, les personnes mentionnées au
+premier et au second alinéa de l'article R. 451-5 communiquent les informations mentionnées dans les dispositions de ces
+alinéas dans des délais permettant que ces informations soient communicables par l'organisme d'information mentionné à
+l'article L. 451-1 à compter du 1er janvier 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-644 du 20 juillet 2018 - art. 2
+
+_Cite_:
+
+  - Code de la route. - art. L330-1
 
 
 ## Livre V : Intermédiaires d'assurance<a id=583></a>
