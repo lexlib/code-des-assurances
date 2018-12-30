@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2018-12-28
+Version Consolidée au 2018-12-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -251,7 +251,7 @@ relative à une opération spatiale (art. L176-1 à L176-5)](#61)
           - [Section II : Régime obligatoire d'assurance maladie, invalidité et maternité des exploitants agricoles et des membres non salariés de leur famille (AMEXA). (art. L442-3)](#247)
           - [Section III : Assurance des exploitants agricoles contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles. (art. L442-4 à L442-5)](#248)
         - [Chapitre III :  Dispositions relatives aux engagements de caution (art. L443-1)](#249)
-      - [Titre V : Organisme d'information (art. L451-1 à L451-4)](#250)
+      - [Titre V : Organisme d'information (art. L451-1 à L451-5)](#250)
       - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna (art. L471-1)](#251)
     - [Livre V : Distributeurs d'assurances (art. L500 à L561-1)](#252)
       - [Titre Ier : Distribution d'assurances (art. L511-1 à L516-2)](#253)
@@ -544,7 +544,7 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#321)
           - [Section V : Informations à fournir au public (art. R385-18 à R385-21)](#539)
           - [Section VI : Mesures de sauvegarde (art. R385-22 à R385-25)](#540)
       - [Titre IX  : Dispositions applicables dans les îles Wallis et Futuna (art. R391-1)](#541)
-    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R421-1 à R451-5)](#542)
+    - [Livre IV : Organisations et régimes particuliers d'assurance (art. R421-1 à R451-6)](#542)
       - [Titre II : Les fonds de garantie (art. R421-1 à R427-15)](#543)
         - [Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages. (art. R421-1 à R421-78)](#544)
           - [Section I : Dispositions applicables aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et à Mayotte (art. R421-1 à R421-20)](#545)
@@ -601,7 +601,7 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#321)
           - [Section IV : Opérations d'importation. (art. R442-10-1 à R442-10-4)](#596)
           - [Section V : Opérations d'achat par des entreprises françaises auprès de fournisseurs français en concurrence avec une entreprise étrangère bénéficiant d'un soutien public à l'exportation (art. R442-10-6 à R442-10-10)](#597)
           - [Section VI : Opérations présentant un intérêt stratégique pour l'économie française réalisées à l'étranger par des entreprises françaises (art. R442-11-1 à R442-11-4)](#598)
-      - [Titre V : Organisme d'information (art. R451-1 à R451-5)](#599)
+      - [Titre V : Organisme d'information (art. R451-1 à R451-6)](#599)
     - [Livre V : Distributeurs d'assurances (art. R511-1 à R541-1)](#600)
       - [Titre Ier : Distribution d'assurances (art. R511-1 à R514-5)](#601)
         - [Chapitre Ier : Champ d'application, définitions et exigences professionnelles et organisationnelles (art. R511-1 à R511-3)](#602)
@@ -12284,9 +12284,10 @@ _Cité par_:
 
 ###### Article L211-27
 
-Les amendes prononcées pour violation de l'obligation d'assurance prévue par l'article L. 211-1, y compris les amendes qu'une
-mesure de grâce aurait substituées à l'emprisonnement, sont affectées d'une majoration de 50 % perçue, lors de leur
-recouvrement, au profit du Fonds de garantie institué par l'article L. 420-1. 
+Les amendes forfaitaires, les amendes de composition pénale et les amendes prononcées pour violation de l'obligation
+d'assurance prévue par l'article L. 211-1, y compris les amendes qu'une mesure de grâce aurait substituées à
+l'emprisonnement, sont affectées d'une majoration de 50 % perçue, lors de leur recouvrement, au profit du Fonds de garantie
+institué par l'article L. 420-1. 
 
 Si la juridiction civile est saisie d'une contestation sérieuse, portant sur l'existence ou la validité de l'assurance, la
 juridiction pénale appelée à se prononcer sur les poursuites exercées pour violation de l'obligation d'assurance sursoit à
@@ -12296,15 +12297,30 @@ Les dispositions du présent article ne sont pas applicables lorsque l'assurance
 véhicules ayant leur stationnement habituel sur le territoire d'un Etat visé à l'article L. 211-4 à l'exception de la France
 et de Monaco.
 
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+Conformément à l'article 4 du décret n° 2017-429 du 28 mars 2017, ces dispositions entrent en vigueur le premier jour du mois
+suivant la publication au Journal officiel de l'arrêté prévu par l'article D. 45-21.
+
+Conformément à l'article 11 du décret n° 2017-1523 du 3 novembre 2017, ces dispositions entrent en vigueur :
+
+1° Le même jour que les dispositions de l'article 1er du décret du 28 mars 2017 susvisé, en tant qu'elles concernent les
+amendes forfaitaires ;
+
+2° Le 1er janvier 2018, en tant qu'elles concernent les amendes de composition pénale.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 59 (V) JORF 10 mars 2004
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 _Cité par_:
 
@@ -12316,9 +12332,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L211-1 (V)
-  - Code des assurances - art. L211-4 (V)
-  - Code des assurances - art. L420-1 (T)
+  - Code des assurances - art. L211-1
+  - Code des assurances - art. L211-4
+  - Code des assurances - art. L420-1
 
 _Anciens textes_:
 
@@ -26129,9 +26145,9 @@ _Modifié par_:
 
 ###### Article L421-1
 
-I.-Le fonds de garantie des assurances obligatoires de dommages indemnise, dans les conditions prévues aux 1 et 2 du présent
-I, les victimes ou les ayants droit des victimes des dommages nés d'un accident survenu en France dans lequel est impliqué un
-véhicule au sens de l'article L. 211-1.
+I. - Le fonds de garantie des assurances obligatoires de dommages indemnise, dans les conditions prévues aux 1 et 2 du
+présent I, les victimes ou les ayants droit des victimes des dommages nés d'un accident survenu en France dans lequel est
+impliqué un véhicule au sens de l'article L. 211-1.
 
 1. Le fonds de garantie indemnise les dommages résultant d'atteintes à la personne :
 
@@ -26151,7 +26167,7 @@ Dans le cas d'un accident impliquant un véhicule expédié d'un Etat membre de 
 survenant dans les trente jours suivant l'acceptation de la livraison du véhicule par l'acheteur, le fonds de garantie est
 tenu d'intervenir au titre du b des 1 et 2, quel que soit l'Etat membre sur le territoire duquel survient l'accident.
 
-II.-Le fonds de garantie indemnise également, dans les conditions prévues aux 1 et 2 du présent II, les victimes ou les
+II. - Le fonds de garantie indemnise également, dans les conditions prévues aux 1 et 2 du présent II, les victimes ou les
 ayants droit des victimes de dommages nés d'un accident de la circulation causé, dans les lieux ouverts à la circulation
 publique, par une personne circulant sur le sol ou un animal.
 
@@ -26171,7 +26187,7 @@ personne ;
 
 c) Lorsque le propriétaire de l'animal responsable du dommage n'est pas assuré.
 
-III.-Lorsque le fonds de garantie intervient au titre des I et II, les indemnités doivent résulter soit d'une décision
+III. - Lorsque le fonds de garantie intervient au titre des I et II, les indemnités doivent résulter soit d'une décision
 juridictionnelle exécutoire, soit d'une transaction ayant reçu l'assentiment du fonds de garantie.
 
 Lorsque le fonds de garantie intervient au titre des I et II, il paie les indemnités allouées aux victimes ou à leurs ayants
@@ -26179,7 +26195,7 @@ droit qui ne peuvent être prises en charge à aucun autre titre lorsque l'accid
 effectués au profit des victimes ou de leurs ayants droit et qui ne peuvent pas donner lieu à une action récursoire contre le
 responsable des dommages ne sont pas considérés comme une indemnisation à un autre titre.
 
-IV.-Le fonds de garantie est également chargé de gérer et de financer, pour les rentes allouées au titre des accidents
+IV. - Le fonds de garantie est également chargé de gérer et de financer, pour les rentes allouées au titre des accidents
 survenus avant le 1er janvier 2013, les majorations de rentes prévues à l'article 1er de la loi n° 74-1118 du 27 décembre
 1974 relative à la revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à
 moteur et portant diverses dispositions d'ordre civil et à l'article 1er de la loi n° 51-695 du 24 mai 1951 portant
@@ -26191,20 +26207,34 @@ des renseignements fournis par les organismes débirentiers.
 La gestion de cette mission par le fonds fait l'objet d'une comptabilité séparée des autres missions, selon des modalités
 fixées par arrêté du ministre chargé de l'économie.
 
-V.-Le fonds de garantie peut financer, selon des modalités et dans des limites fixées par décret en Conseil d'Etat, des
+V. - Le fonds de garantie peut financer, selon des modalités et dans des limites fixées par décret en Conseil d'Etat, des
 actions visant à réduire le nombre des accidents de la circulation et à prévenir l'absence d'assurance de responsabilité
 civile automobile.
 
-VI.-Le fonds de garantie est l'organisme chargé des missions mentionnées aux articles L. 424-1 à L. 424-7.
+Le fonds de garantie peut également mener directement, selon des modalités fixées par décret en Conseil d'Etat, des actions
+visant à limiter les cas de défaut d'assurance de responsabilité civile automobile. Pour mener ces actions, le fonds de
+garantie est autorisé à conserver pendant une durée de sept ans les informations communiquées par l'organisme d'information
+mentionné à l'article L. 451-1 relatives aux véhicules terrestres à moteur ne répondant pas à l'obligation d'assurance
+mentionnée à l'article L. 211-1.
+
+VI. - Le fonds de garantie est l'organisme chargé des missions mentionnées aux articles L. 424-1 à L. 424-7.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+Conformément aux dispositions du 1° du II de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions de
+l'article L. 421-1 entrent en vigueur le 31 décembre 2018.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°51-695 du 24 mai 1951 - art. 1 (V)
-  - Loi n°74-1118 du 27 décembre 1974 - art. 1 (V)
-  - Code des assurances - art. L211-1 (V)
-  - Code des assurances - art. L424-1 (V)
+  - Loi n°51-695 du 24 mai 1951 - art. 1
+  - Loi n°74-1118 du 27 décembre 1974 - art. 1
+  - Code des assurances - art. L211-1
+  - Code des assurances - art. L424-1
 
 _Cité par_:
 
@@ -26264,7 +26294,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1609 du 27 novembre 2017 - art. 1
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 _Anciens textes_:
 
@@ -26453,7 +26483,7 @@ limites suivantes :
 1° Pour la contribution des assurés, ce taux est compris entre 0 % et 2 % des primes mentionnées au 1° du même article ;
 
 2° Pour la contribution des entreprises d'assurance au titre de la section " automobile ”, ce taux est compris entre 0 % et
-12 % de la totalité des charges de cette section ;
+14 % de la totalité des charges de cette section ;
 
 3° (abrogé) ;
 
@@ -26462,17 +26492,11 @@ charge. Toutefois, ce taux peut être ramené à 5 % lorsque l'accident a été 
 un Etat étranger. Il est également ramené à 5 % des indemnités restant à leur propre charge pour les bénéficiaires d'une
 assurance avec franchise.
 
-**Nota:**
-
-Conformément à l'article 15 de l'ordonnance n° 2017-1609 du 27 novembre 2017, ces dispositions s'appliquent aux contrats
-d'assurance conclus ou renouvelés à compter de la date d'entrée en vigueur de ladite ordonnance qui sera fixée par décret et
-au plus tard le 1er juillet 2018.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1609 du 27 novembre 2017 - art. 4
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 124
 
 _Cité par_:
 
@@ -29904,6 +29928,40 @@ _Cité par_:
   - Décret n°2018-644 du 20 juillet 2018 - art. 3 (V)
 
 
+###### Article L451-1-2
+
+L'organisme d'information mentionné à l'article L. 451-1 communique à l'Etat, selon des modalités fixées par décret en
+Conseil d'Etat, les informations relatives à l'ensemble des véhicules terrestres à moteur susceptibles de ne pas satisfaire à
+l'obligation d'assurance prévue au chapitre Ier du titre Ier du livre II. 
+
+Lorsque l'Etat en fait la demande dans le cadre de sa mission de contrôle de l'obligation d'assurance de responsabilité
+civile automobile, l'organisme d'information lui indique, selon des modalités fixées par décret en Conseil d'Etat, si le
+véhicule contrôlé répond à l'obligation d'assurance prévue au chapitre Ier du titre Ier du livre II ou s'il bénéficie de
+l'exonération prévue à l'article L. 211-1. 
+
+Pour permettre au fonds de garantie de répondre à ses missions prévues au V de l'article L. 421-1, l'organisme d'information
+lui communique, selon des modalités fixées par décret en Conseil d'Etat, les numéros d'immatriculation des véhicules
+susceptibles de ne pas satisfaire à l'obligation d'assurance prévue au chapitre Ier du titre Ier du livre II
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+Conformément aux dispositions du 1° du II de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions de
+l'article L. 451-1-2 entrent en vigueur le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
+
+_Cité par_:
+
+  - Décret n°2018-644 du 20 juillet 2018 - art. 3 (V)
+
+
 ###### Article L451-2
 
 I. - Toute entreprise d'assurance couvrant sur le territoire de la République française les risques de responsabilité civile
@@ -30042,6 +30100,30 @@ _Codifié par_:
   - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
+
+_Cité par_:
+
+  - Décret n°2018-644 du 20 juillet 2018 - art. 3 (V)
+
+
+###### Article L451-5
+
+Il est institué une commission de suivi, chargée de veiller au bon fonctionnement des fichiers prévus à l'article L. 451-1-1.
+Les membres de la commission sont désignés par voie réglementaire.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+Conformément aux dispositions du 1° du II de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions de
+l'article L. 451-5 entrent en vigueur le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
 
   - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
@@ -63765,18 +63847,27 @@ _Cite_:
 
 ###### Article R421-72
 
-Le financement des actions mentionnées à l'avant-dernier alinéa de l'article L. 421-1 est décidé par le conseil
-d'administration du fonds de garantie, dans la limite d'un plafond annuel de cinq millions d'euros.
+Le financement des actions mentionnées au premier alinéa du V de l'article L. 421-1 est décidé par le conseil
+d'administration du fonds de garantie, dans la limite d'un plafond annuel de cinq millions d'euros. 
+
+En application du second alinéa du V de l'article L. 421-1, le fonds de garantie peut mener toute action de sensibilisation
+ou d'information directement auprès du propriétaire d'un véhicule susceptible de ne pas satisfaire à l'obligation d'assurance
+mentionnée à l'article L. 211-1.
+
+**Nota:**
+
+Conformément aux dispositions du 2° du II de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions de
+l'article R. 421-72 entrent en vigueur le 31 décembre 2018.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 7 () JORF 24 février 2004 rectificatif JORF 20 mars 2004
+  - Décret n°2018-644 du 20 juillet 2018 - art. 1
 
 _Cité par_:
 
@@ -63784,7 +63875,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L421-1 (V)
+  - Code des assurances - art. L211-1
+  - Code des assurances - art. L421-1
 
 
 ##### Section X : Dispositions particulières applicables aux dommages immobiliers d'origine minière<a id=563></a>
@@ -68727,6 +68819,39 @@ _Cite_:
   - Code des assurances - art. L451-1 (V)
 
 
+###### Article R451-2
+
+Les organismes mentionnés au dernier alinéa du I de l'article L. 451-1-1 sont les suivants :
+
+1° Les entreprises d'assurance mentionnées au I de l'article L. 451-2 et les intermédiaires d'assurance mentionnés à
+l'article L. 511-1 ayant reçu à cet effet de ces entreprises d'assurance une délégation de gestion, à des fins de gestion de
+leurs contrats ;
+
+2° Les organismes mentionnés à l'article L. 451-3, pour les sinistres qu'ils prennent en charge ;
+
+3° Les organismes dont la liste est fixée par arrêté du ministre chargé de la sécurité routière et du ministre chargé de
+l'économie, et dont l'objet est de faciliter, ou nécessite, l'identification de l'entreprise d'assurance couvrant pour un
+véhicule donné la responsabilité civile mentionnée à l'article L. 211-1.
+
+Les organismes énumérés au présent article peuvent interroger l'organisme d'information mentionné à l'article L. 451-1 par
+voie électronique.
+
+**Nota:**
+
+Conformément aux dispositions du 2° du II de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions de
+l'article R. 451-2 entrent en vigueur le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-644 du 20 juillet 2018 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 14 janvier 2019 - art. 1 (V)
+
+
 ###### Article R451-3
 
 Le fichier mentionné au II de l'article L. 451-1-1 est constitué par l'organisme d'information mentionné à l'article L.
@@ -68742,6 +68867,27 @@ _Créé par_:
 _Cite_:
 
   - Code de la route. - art. L330-1
+
+
+###### Article R451-4
+
+L'organisme d'information mentionné à l'article L. 451-1 transmet à l'Etat et au fonds de garantie des assurances
+obligatoires de dommages par tous moyens, et notamment par voie électronique, les informations contenues dans les fichiers
+mentionnés au I et au II de l'article L. 451-1-1. Il répond par les mêmes moyens aux demandes de l'Etat.
+
+L'Etat et le fonds de garantie des assurances obligatoires de dommages peuvent interroger l'organisme d'information par voie
+électronique.
+
+**Nota:**
+
+Conformément aux dispositions du 2° du II de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions de
+l'article R. 451-4 entrent en vigueur le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-644 du 20 juillet 2018 - art. 2
 
 
 ###### Article R451-5
@@ -68771,6 +68917,45 @@ _Créé par_:
 _Cite_:
 
   - Code de la route. - art. L330-1
+
+
+###### Article R451-6
+
+I.-Placée auprès du ministre chargé de la sécurité routière, la commission de suivi mentionnée à l'article L. 451-5 comprend
+les membres suivants :
+
+1° Le délégué à la sécurité routière ou son représentant, président de la commission ;
+
+2° Le directeur général du Trésor ou son représentant ;
+
+3° Le chef de l'unité de coordination de lutte contre l'insécurité routière ou son représentant, placé auprès du ministre de
+l'intérieur ;
+
+4° Le directeur général du fonds de garantie des assurances obligatoires de dommages mentionné à l'article L. 421-1 ou son
+représentant ;
+
+5° Le président de l'organisme d'information mentionné à l'article L. 451-1 ou son représentant ;
+
+6° Le président de la Fédération française de l'assurance ou son représentant.
+
+II.-La commission de suivi peut formuler des recommandations relatives au fonctionnement des fichiers prévus à l'article L.
+451-1-1.
+
+La commission se réunit sur convocation de son président, qui fixe l'ordre du jour. Son secrétariat est assuré par la
+délégation à la sécurité routière.
+
+La commission établit son règlement intérieur, lequel précise notamment les modalités d'adoption des recommandations.
+
+**Nota:**
+
+Conformément aux dispositions du 2° du II de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions de
+l'article R. 451-6 entrent en vigueur le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-644 du 20 juillet 2018 - art. 2
 
 
 ## Livre V : Distributeurs d'assurances<a id=600></a>
