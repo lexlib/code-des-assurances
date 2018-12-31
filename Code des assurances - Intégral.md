@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2018-12-31
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -707,8 +707,8 @@ au plan d'épargne retraite populaire (art. A144-1)](#637)
         - [Chapitre Ier : Le fonds de garantie des assurances obligatoires de dommages (art. A421-1 à A421-13)](#701)
           - [Section I : Dispositions spéciales aux accidents de la circulation survenus en France métropolitaine, dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. (art. A421-1 à A421-1-1)](#702)
             - [Paragraphe 1 : Dispositions communes à l'indemnisation des dommages résultant d'atteintes à la personne et des dommages aux biens. (art. A421-1 à A421-1-1)](#703)
-          - [Section IV : Régime financier du fonds de garantie. (art. A421-2 à A421-4)](#704)
-            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-2 à A421-3)](#705)
+          - [Section IV : Régime financier du fonds de garantie. (art. A421-3 à A421-4)](#704)
+            - [Paragraphe 1 : Dispositions spéciales aux accidents de la circulation. (art. A421-3)](#705)
             - [Paragraphe 2 : Dispositions spéciales aux accidents de chasse. (art. A421-4)](#706)
           - [Section V : Intervention du fonds en cas de retrait d'agrément administratif d'une entreprise d'assurance (art. A421-5 à A421-13)](#707)
             - [Paragraphe 1 : Dispositions spéciales à l'assurance automobile (art. A421-5 à A421-8)](#708)
@@ -5411,16 +5411,18 @@ _Cité par_:
 
 ###### Article L132-14
 
-Sous réserve des dispositions des articles L. 263-0 A et L. 273 A du livre des procédures fiscales, de l'article L. 1617-5 du
-code général des collectivités territoriales et du II de l'article 128 de la loi n° 2004-1485 du 30 décembre 2004 de finances
-rectificative pour 2004, le capital ou la rente garantis au profit d'un bénéficiaire déterminé ne peuvent être réclamés par
-les créanciers du contractant. Ces derniers ont seulement droit au remboursement des primes, dans le cas indiqué par
-l'article L. 132-13, deuxième alinéa, en vertu soit de l'article 1341-2 du code civil, soit des articles L. 621-107 et L.
+Sous réserve des dispositions des articles
+    L. 262, L. 263 B et L. 273 A du livre des procédures fiscales, de l'article 387 bis du code des douanes, de l'article L.
+1617-5 du code général des collectivités territoriales et du II de l'article 128 de la loi n° 2004-1485 du 30 décembre 2004
+de finances rectificative pour 2004, le capital ou la rente garantis au profit d'un bénéficiaire déterminé ne peuvent être
+réclamés par les créanciers du contractant. Ces derniers ont seulement droit au remboursement des primes, dans le cas indiqué
+par l'article L. 132-13, deuxième alinéa, en vertu soit de l'article 1341-2 du code civil, soit des articles L. 621-107 et L.
 621-108 du code de commerce.
 
 **Nota:**
 
-
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -5435,11 +5437,11 @@ _Cite_:
   - Livre des procédures fiscales - art. L263-0 A
   - Livre des procédures fiscales - art. L273 A
   - Code général des collectivités territoriales - art. L1617-5
-  - Code civil - art. 1341-2 (VD)
+  - Code civil - art. 1341-2
 
 _Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 _Anciens textes_:
 
@@ -79085,77 +79087,32 @@ _Modifié par_:
 
 ##### Paragraphe 1 : Dispositions spéciales aux accidents de la circulation.<a id=705></a>
 
-###### Article A421-2
-
-La contribution des assurés prévue au 3° de l'article R. 420-27 est recouvrée et reversée suivant les modalités applicables
-en matière de taxe unique sur les contrats d'assurance. 
-
-Elle fait l'objet de versements distincts à l'appui desquels il est déposé : 
-
-1° Par les entreprises d'assurance, des états spéciaux, établis en double exemplaire pour chaque versement trimestriel ; 
-
-2° Par les courtiers et intermédiaires mentionnés à l'article 388 de l'annexe III du code général des impôts, une déclaration
-en double exemplaire indiquant le montant des sommes stipulées au profit des assureurs au cours du trimestre considéré et de
-leurs accessoires, ainsi que le montant de la contribution correspondante. 
-
-Les états et déclaration prévus aux deux précédents alinéas sont établis sur des formules imprimées mises à la disposition
-des assujettis par la direction générale des impôts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1976-07-16
-
-_Modifié par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
-
-_Abrogé par_:
-
-  - Arrêté du 28 février 2019 - art. 1
-
-_Cite_:
-
-  - Code général des impôts, annexe 3, CGIAN3. - art. 388
-  - Code des assurances - art. R*420-27
-
-_Cité par_:
-
-  - Code des assurances - art. A421-3 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances R420-35
-
-
 ###### Article A421-3
 
-Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
-application des articles R. 421-27 et R. 421-28 du code des assurances sont fixées comme suit :
+Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages, en
+application des articles L. 421-4 à L. 421-4-2, sont fixés comme suit : 
 
-Contribution des entreprises d'assurance au titre du 3° de l'article R. 421-27 : 12 % de la totalité des charges de la
-section automobile ;
+Contribution des assurés, au titre du 1° de l'article L. 421-4-2 : 1,2 % des primes ; 
 
-Contribution des responsables d'accidents non assurés au titre du 4° de l'article R. 421-27 :
+Contribution des entreprises d'assurance, au titre du 2° de l'article L. 421-4-2 : 14 % de la totalité des charges de la
+section “ automobile ” ; 
+
+Contribution des responsables d'accidents non assurés, au titre du 4° de l'article L. 421-4-2 :
 
 - taux normal : 10 % des indemnités restant à leur charge ;
 
-- taux réduit : 5 % ;
-
-Contribution des assurés au titre du 5° de l'article R. 421-27 : 1, 2 % des primes.
+- taux réduit : 5 %.
 
 **Nota:**
 
-Conformément à l'article 3 de l’arrêté du 30 juin 2018, ces dispositions sont applicables aux opérations exécutées par le
-fonds de garantie des assurances obligatoires de dommages, en vertu de l'article L. 421-9 du code des assurances, relatives
-aux contrats d'assurance conclus ou renouvelés à compter du 1er juillet 2018.
+Conformément à l'article 2 de l’arrêté du 28 février 2019, ces dispositions sont applicables aux exercices ouverts à compter
+du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 30 juin 2018 - art. 1
+  - Arrêté du 28 février 2019 - art. 1
 
 **Liens**:
 
@@ -79163,7 +79120,8 @@ _Modifié par_:
 
 _Cite_:
 
-  - Code des assurances - art. R421-27
+  - Code des assurances - art. L421-4
+  - Code des assurances - art. L421-4-2
 
 _Cité par_:
 
@@ -79174,20 +79132,25 @@ _Cité par_:
 
 ###### Article A421-4
 
-Les taux des contributions prévus pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
-application des articles R. 421-38 et R. 421-39 sont fixés comme suit : 
+Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages, en
+application des articles L. 421-8 et R. 421-39, sont fixés comme suit : 
 
-Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-38 : 1 % de la totalité des charges des
-opérations du fonds de garantie afférentes à la chasse et à la destruction des animaux nuisibles ; 
+Contribution forfaitaire des assurés, au titre du a de l'article L. 421-8 : 0,02 euro par personne garantie ; 
 
-Contribution des responsables d'accidents corporels non assurés au titre du 2° de l'article R. 421-38 :
+Contribution des entreprises d'assurance, au titre du b de l'article L. 421-8 : 1 % de la totalité des charges des opérations
+du fonds de garantie afférentes à la chasse et à la destruction des animaux susceptibles d'occasionner des dégâts ; 
+
+Contribution des responsables d'accidents corporels non assurés, au titre du troisième alinéa de l'article R. 421-39 :
 
 - taux normal : 10 % des indemnités restant à leur charge ;
 
-- taux réduit, lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des
-articles 393 à 395 du code rural : 5 % ; 
+- taux réduit, lorsque l'accident résulte d'une opération de destruction des animaux d'espèces non domestiques effectuée en
+vertu des articles L. 427-1 à L. 427-11 du code de l'environnement : 5 %.
 
-Contribution forfaitaire des assurés au titre du 3° de l'article R. 421-38 : 0,02 euro par personne garantie.
+**Nota:**
+
+Conformément à l'article 2 de l’arrêté du 28 février 2019, ces dispositions sont applicables aux exercices ouverts à compter
+du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -79195,13 +79158,15 @@ _Codifié par_:
 
   - Arrêté 1976-07-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2004-07-16 art. 2 JORF 5 août 2004
+  - Arrêté du 28 février 2019 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. R421-38 (V)
+  - Code des assurances - art. L421-8
+  - Code des assurances - art. R421-39
+  - Code de l'environnement - art. L427-1
 
 _Cité par_:
 
