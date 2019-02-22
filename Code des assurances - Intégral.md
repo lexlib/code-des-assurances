@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-02-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -607,7 +607,7 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#321)
         - [Chapitre II : Principes généraux relatifs à l'intermédiation d'assurance (art. R512-1 à R512-17)](#602)
           - [Section I : Obligation d'immatriculation. (art. R512-1 à R512-6)](#603)
           - [Section II : Autres conditions d'accès et d'exercice. (art. R512-7 à R512-17)](#604)
-            - [Sous-section 2 : Conditions de capacité professionnelle. (art. R512-8 à R512-13)](#605)
+            - [Sous-section 2 : Conditions de capacité professionnelle. (art. R512-8 à R512-13-1)](#605)
             - [Sous-section 3 : Assurance de responsabilité civile. (art. R512-14)](#606)
             - [Sous-section 4 : Garantie financière. (art. R512-15 à R512-17)](#607)
         - [Chapitre IV : Contrôle des conditions d'accès et d'exercice de l'activité de distribution (art. R514-1 à R514-5)](#608)
@@ -616,7 +616,7 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#321)
       - [Titre II : Informations à fournir par les distributeurs et règles de conduite (art. R521-1 à R521-4)](#611)
         - [Chapitre unique  : Dispositions applicables à l'ensemble des contrats d'assurance (art. R521-1 à R521-4)](#612)
       - [Titre IV : Dispositions applicables dans les îles Wallis et Futuna (art. R541-1)](#613)
-  - [Partie réglementaire - Arrêtés (art. A111-1 à A512-7)](#614)
+  - [Partie réglementaire - Arrêtés (art. A111-1 à A512-8)](#614)
     - [Livre Ier : Le contrat (art. A111-1 à A160-4)](#615)
       - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A111-1 à A113-1)](#616)
         - [Chapitre Ier : Dispositions générales. (art. A111-1 à A111-6)](#617)
@@ -727,11 +727,11 @@ au plan d'épargne retraite populaire (art. A144-1)](#636)
       - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#721)
         - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#722)
           - [Section II : Règles techniques et comptables. (art. A441-1 à A441-6)](#723)
-    - [Livre V : Intermédiaires d'assurance (art. A512-1 à A512-7)](#724)
-      - [Titre Ier : Intermédiation en assurance (art. A512-1 à A512-7)](#725)
-        - [Chapitre II : Principes généraux (art. A512-1 à A512-7)](#726)
+    - [Livre V : Intermédiaires d'assurance (art. A512-1 à A512-8)](#724)
+      - [Titre Ier : Intermédiation en assurance (art. A512-1 à A512-8)](#725)
+        - [Chapitre II : Principes généraux (art. A512-1 à A512-8)](#726)
           - [Section I : Obligation d'immatriculation. (art. A512-1 à A512-3)](#727)
-          - [Section II : Autres conditions d'accès et d'exercice. (art. A512-4 à A512-7)](#728)
+          - [Section II : Autres conditions d'accès et d'exercice. (art. A512-4 à A512-8)](#728)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -69470,6 +69470,49 @@ _Cite_:
   - Code des assurances - art. R511-2
 
 
+###### Article R512-13-1
+
+I.-La durée consacrée à la formation ou au développement professionnels continus mentionnés au II de l'article L. 511-2 ne
+peut être inférieure à quinze heures par an.
+
+II.-La formation ou le développement professionnels continus mentionnés au I peuvent donner lieu à des prestations dispensées
+en présentiel ou à distance, organisées en une ou plusieurs séquences, consécutives ou non. Ils peuvent être assurés par un
+organisme de formation, une entreprise d'assurance ou de réassurance, un intermédiaire d'assurance ou de réassurance, un
+établissement de crédit ou une société de financement. Ils doivent permettre d'actualiser régulièrement les compétences
+nécessaires à l'exercice des fonctions occupées.
+
+Un arrêté du ministre chargé de l'économie détermine la liste des compétences susmentionnées, en fonction de la nature des
+produits distribués, des modes de distribution et des fonctions exercées, ainsi que le contenu et les caractéristiques des
+actions de formation ou de développement professionnel continus correspondantes.
+
+Les entreprises d'assurance et de réassurance et les intermédiaires d'assurance doivent être en mesure de produire, d'une
+part, pour eux-mêmes et pour tout membre de leur personnel concerné par les dispositions susmentionnées, la liste des
+formations suivies au titre du présent article, y compris lorsqu'elles ont été réalisées en application d'autres obligations
+réglementaires, d'autre part, pour chacune de ces formations, le nom de l'entité ayant délivré la formation, la date, la
+durée et les modalités de celle-ci ainsi que les thèmes traités.
+
+III.-Tout ou partie des heures de formation ou de développement professionnels continus mentionnées au I peut être retenue,
+dans le cadre d'une certification inscrite en catégorie A, au titre des certifications et habilitations recensées à
+l'inventaire mentionné au  onzième alinéa de l'article L. 335-6 du code de l'éducation . Dans le cadre de cette
+certification, les compétences évaluées correspondent à une ou plusieurs thématiques de la liste de compétences mentionnées
+au II.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-431 du 1er juin 2018 - art. 3
+
+_Cité par_:
+
+  - Arrêté du 26 septembre 2018 (VD)
+  - Code des assurances - art. A512-8 (VD)
+
+_Cite_:
+
+  - Code de l'éducation - art. L335-6
+
+
 ##### Sous-section 3 : Assurance de responsabilité civile.<a id=606></a>
 
 ###### Article R512-14
@@ -80266,5 +80309,148 @@ _Cite_:
 _Créé par_:
 
   - Arrêté du 18 février 2008 - art. 1
+
+
+###### Article A512-8
+
+I.-En application du II de l'article R. 512-13-1, les compétences nécessaires à l'exercice des fonctions mentionnées au II de
+l'article L. 511-2, ainsi que les actions de formation ou de développement professionnel continus correspondantes, sont : 
+
+1° Au titre des compétences professionnelles générales : 
+
+a) Appréhender l'activité et l'environnement de la distribution d'assurances et ses évolutions au regard des fonctions
+exercées :
+
+- Maîtriser les conditions d'accès et d'exercice de l'activité de distributeur ;
+
+- Appréhender les différents acteurs de la distribution d'assurances ;
+
+- Maîtriser les règles de gouvernance et de surveillance des produits, de protection de la clientèle, d'information et de
+conseil, de gestion des conflits d'intérêts, de rémunération, de traitement des réclamations, ainsi que le dispositif de
+médiation ;
+
+- Identifier les évolutions juridiques, économiques, financières, démographiques, technologiques ou sociétales, et leurs
+impacts sur la distribution d'assurances ;
+
+- Tirer les conséquences de ces évolutions sur son activité en matière de distribution d'assurances. 
+
+b) Maîtriser la relation client :
+
+- Maîtriser l'information sur les produits présentés au client ;
+
+- Appréhender l'ensemble des composantes de la situation du client ;
+
+- Identifier et analyser les besoins du client, le conseiller et proposer une solution cohérente ou appropriée ;
+
+- Maîtriser le processus de la recommandation personnalisée ;
+
+- Formaliser l'information et le conseil, notamment la traçabilité du questionnement du client sur ses besoins et demandes
+ainsi que des solutions proposées, et la traçabilité de l'ensemble des informations et documents remis au client ;
+
+- Identifier et prendre en compte les évolutions de la situation et des besoins du client nécessitant une évolution du
+contrat. 
+
+c) Mettre en œuvre les mesures de prévention et de conformité :
+
+- Appliquer les règles en matière de contrôle interne, de prévention des risques, de protection des données personnelles, de
+lutte contre la fraude, de lutte contre le blanchiment et le financement du terrorisme et de lutte contre la corruption ;
+
+- Appliquer les règles déontologiques. 
+
+d) S'adapter aux évolutions organisationnelles et technologiques :
+
+- Maîtriser les outils de l'environnement de travail dont les outils du parcours client y compris les outils digitaux ;
+
+- S'approprier la culture de l'entreprise en vue de favoriser l'intérêt du client tout au long du processus de
+distribution ; 
+
+e) Développer un portefeuille dans le respect de la réglementation :
+
+- Prospecter, commercialiser et négocier de manière adaptée à la clientèle concernée ;
+
+- Traiter les données des clients en vue d'adapter l'offre ;
+
+- Maîtriser les règles applicables en matière de collecte, mise à jour, gestion et exploitation des données client. 
+
+2° Au titre des compétences professionnelles spécifiques à la nature des produits distribués : 
+
+a) Assurance de personnes-vie, capitalisation :
+
+- Appréhender les marchés des produits d'épargne pertinents ;
+
+- Appréhender les régimes matrimoniaux, successoraux et fiscaux applicables ;
+
+- Apprécier les avantages et risques liés aux différentes options d'investissement. 
+
+b) Assurances de personnes en prévoyance, santé, retraite :
+
+- Appréhender les règles du droit fiscal, social et du travail ;
+
+- Appréhender les marchés de produits santé, prévoyance et retraite pertinents et maîtriser l'articulation entre la
+protection sociale obligatoire et les garanties distribuées ;
+
+- Maîtriser les mécanismes de l'assurance collective. 
+
+c) Assurance dommages aux biens et responsabilités
+
+- Appréhender le marché des produits d'assurance de biens et responsabilités pertinents ;
+
+- Comprendre les règles spécifiques applicables notamment celles relatives à la protection de la clientèle. 
+
+3° Au titre des compétences professionnelles spécifiques à certains modes de distribution :
+
+- Maîtriser les spécificités et les règles applicables au démarchage ;
+
+- Maîtriser les spécificités et les règles applicables à la vente à distance ;
+
+- Maîtriser les techniques et les outils permettant de gérer les différentes étapes de la relation client à distance. 
+
+4° Au titre des compétences professionnelles spécifiques à certaines fonctions : 
+
+a) Intermédiaires personnes physiques et mandataires sociaux des intermédiaires personnes morales, en contact direct avec la
+clientèle ou qui encadrent habituellement des personnes en contact direct avec la clientèle :
+
+- Concevoir ou mettre en œuvre un plan d'actions commerciales ;
+
+- Adapter la commercialisation à l'évolution de l'environnement économique, de la réglementation applicable ou le cas échéant
+de l'offre de produits ;
+
+- Encadrer et animer les activités des salariés assurant des fonctions de distribution ;
+
+- Connaître les procédures de l'Autorité de contrôle prudentiel et de résolution en matière de contrôle et de sanction ou les
+procédures de contrôle interne déclinées au sein de l'entité. 
+
+b) Personnes directement responsables d'un bureau de production ou de l'animation d'un réseau de personnes en lien direct
+avec la clientèle :
+
+- Concevoir ou mettre en œuvre un plan d'actions commerciales ;
+
+- Adapter l'organisation interne et la commercialisation à l'évolution de l'environnement économique, de l'offre de produits
+le cas échéant, ou le droit applicable ;
+
+- Mettre en place ou appliquer les règles des procédures internes ;
+
+- Encadrer et animer les activités des salariés assurant des fonctions de distribution placés sous sa responsabilité ;
+
+- Connaître les procédures de l'Autorité de contrôle prudentiel et de résolution en matière de contrôle et de sanction ou les
+procédures de contrôle interne déclinées au sein de l'entité. 
+
+II.-Les actions de formation ou de développement professionnel continus portent sur un ou plusieurs ensembles de compétences
+générales ou spécifiques mentionnés au I. Afin de répondre aux exigences de formation mentionnées au II de l'article L.
+511-2, les compétences spécifiques sont adaptées à la personne concernée en fonction de la nature des produits qu'elle
+distribue, des modes de distribution auxquels elle recoure et des fonctions qu'elle exerce. Les actions de formation
+permettent d'actualiser régulièrement les compétences générales ou spécifiques au poste occupé par la personne concernée,
+notamment celles relatives à la connaissance des évolutions de la réglementation relative à la distribution d'assurances.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 26 septembre 2018 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L511-2
+  - Code des assurances - art. R512-13-1 (VD)
 
 
