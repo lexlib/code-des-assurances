@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-02-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -608,7 +608,7 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#321)
         - [Chapitre II : Principes généraux relatifs à l'intermédiation d'assurance (art. R512-1 à R512-17)](#603)
           - [Section I : Obligation d'immatriculation. (art. R512-1 à R512-6)](#604)
           - [Section II : Autres conditions d'accès et d'exercice. (art. R512-7 à R512-17)](#605)
-            - [Sous-section 2 : Conditions de capacité professionnelle. (art. R512-8 à R512-13)](#606)
+            - [Sous-section 2 : Conditions de capacité professionnelle. (art. R512-8 à R512-13-1)](#606)
             - [Sous-section 3 : Assurance de responsabilité civile. (art. R512-14)](#607)
             - [Sous-section 4 : Garantie financière. (art. R512-15 à R512-17)](#608)
         - [Chapitre IV : Contrôle des conditions d'accès et d'exercice de l'activité de distribution (art. R514-1 à R514-5)](#609)
@@ -69268,6 +69268,43 @@ _Modifié par_:
 _Cite_:
 
   - Code des assurances - art. R511-2
+
+
+###### Article R512-13-1
+
+I.-La durée consacrée à la formation ou au développement professionnels continus mentionnés au II de l'article L. 511-2 ne
+peut être inférieure à quinze heures par an.
+
+II.-La formation ou le développement professionnels continus mentionnés au I peuvent donner lieu à des prestations dispensées
+en présentiel ou à distance, organisées en une ou plusieurs séquences, consécutives ou non. Ils peuvent être assurés par un
+organisme de formation, une entreprise d'assurance ou de réassurance, un intermédiaire d'assurance ou de réassurance, un
+établissement de crédit ou une société de financement. Ils doivent permettre d'actualiser régulièrement les compétences
+nécessaires à l'exercice des fonctions occupées.
+
+Un arrêté du ministre chargé de l'économie détermine la liste des compétences susmentionnées, en fonction de la nature des
+produits distribués, des modes de distribution et des fonctions exercées, ainsi que le contenu et les caractéristiques des
+actions de formation ou de développement professionnel continus correspondantes.
+
+Les entreprises d'assurance et de réassurance et les intermédiaires d'assurance doivent être en mesure de produire, d'une
+part, pour eux-mêmes et pour tout membre de leur personnel concerné par les dispositions susmentionnées, la liste des
+formations suivies au titre du présent article, y compris lorsqu'elles ont été réalisées en application d'autres obligations
+réglementaires, d'autre part, pour chacune de ces formations, le nom de l'entité ayant délivré la formation, la date, la
+durée et les modalités de celle-ci ainsi que les thèmes traités.
+
+III.-Tout ou partie des heures de formation ou de développement professionnels continus mentionnées au I peut être retenue,
+dans le cadre d'une certification inscrite en catégorie A, au titre des certifications et habilitations recensées à
+l'inventaire mentionné au onzième alinéa de l'article L. 335-6 du code de l'éducation. Dans le cadre de cette certification,
+les compétences évaluées correspondent à une ou plusieurs thématiques de la liste de compétences mentionnées au II.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-431 du 1er juin 2018 - art. 3
+
+_Cite_:
+
+  - Code de l'éducation - art. L335-6
 
 
 ##### Sous-section 3 : Assurance de responsabilité civile.<a id=607></a>
