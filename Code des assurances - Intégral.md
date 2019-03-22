@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-02-23
+Version Consolidée au 2019-03-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -38135,10 +38135,6 @@ le modèle est fixé par le bureau central français.
 Lorsqu'elle est souscrite auprès du groupement de coassurance "Assurance frontière", l'attestation peut être délivrée par
 l'administration des douanes qui peut effectuer l'encaissement des primes correspondantes.
 
-Sur les encaissements effectués par l'administration des douanes, il est opéré un prélèvement, qui est rattaché au budget du
-ministère chargé du budget et sert à couvrir les dépenses de matériel et de personnel résultant des recouvrements. Les
-modalités d'application du présent alinéa sont déterminées par arrêté du ministre chargé de l'économie.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -38147,11 +38143,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2007-1118 2007-07-19 art. 2 8° JORF 21 juillet 2007
+  - Décret n°2019-214 du 20 mars 2019 - art. 1
 
 _Cité par_:
 
@@ -38675,14 +38671,9 @@ _Modifié par_:
 
 ###### Article R*214-3
 
-Les prescriptions de l'article L. 211-4 et des articles R. 211-22, R. 211-23, R. 211-25 et R. 211-26 ne sont pas applicables
-dans les départements d'outre-mer aux personnes résidant hors de ces départements qui y font pénétrer un véhicule immatriculé
-hors desdits départements ou un véhicule non soumis à immatriculation dont le lieu de stationnement habituel est situé hors
-de ces départements. 
-
-Pour les véhicules autres que ceux mentionnés à l'article R. 214-2, la justification de la souscription d'une assurance
-comportant des garanties au moins équivalentes à celles fixées par la section II du chapitre Ier du présent titre peut être
-apportée par tous les moyens.
+Par dérogation au second alinéa de l'article R. 211-23, l'assurance frontière souscrite pour faire circuler en Guyane un
+véhicule qui n'a pas son lieu de stationnement habituel en France ou dans un Etat mentionné à l'article L. 211-4 peut prévoir
+une garantie pour une période de quinze jours à un an.
 
 **Liens relatifs à cet article**
 
@@ -38692,19 +38683,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°94-182 du 1 mars 1994 - art. 3 () JORF 3 mars 1994
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2019-214 du 20 mars 2019 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. L211-4 (V)
-  - Code des assurances - art. R*211-22 (V)
-  - Code des assurances - art. R*211-25 (V)
-  - Code des assurances - art. R214-2 (V)
+  - Code des assurances - art. L211-4
+  - Code des assurances - art. R*211-23
 
 
 ###### Article R*214-4
