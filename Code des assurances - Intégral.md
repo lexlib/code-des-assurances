@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-03-23
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -4639,7 +4639,9 @@ _Cité par_:
 ###### Article L132-3
 
 Il est défendu à toute personne de contracter une assurance en cas de décès sur la tête d'un mineur âgé de moins de douze
-ans, d'un majeur en tutelle, d'une personne placée dans un établissement psychiatrique d'hospitalisation.
+ans, d'un majeur en tutelle, d'une personne placée dans un établissement psychiatrique d'hospitalisation. Toutefois, cette
+prohibition n'est pas applicable aux formules de financement d'obsèques mentionnées à l'article L. 2223-33-1 du code général
+des collectivités territoriales souscrites sur la tête d'un majeur en tutelle.
 
 Toute assurance contractée en violation de cette prohibition est nulle.
 
@@ -4659,7 +4661,11 @@ d'une des personnes mentionnées au premier alinéa ci-dessus.
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2223-33-1
 
 _Cité par_:
 
@@ -4674,8 +4680,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 85 (V) JORF 12 février 2005
-  - Loi n°2005-102 du 11 février 2005 - art. 85 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
 
 
 ###### Article L132-4
@@ -4714,6 +4719,10 @@ ainsi que la désignation ou la substitution du bénéficiaire ne peuvent être 
 tutelles ou du conseil de famille s'il a été constitué. Après l'ouverture d'une curatelle, ces mêmes actes ne peuvent être
 accomplis qu'avec l'assistance du curateur.
 
+Par dérogation à la première phrase du premier alinéa, aucune autorisation n'est requise pour les formules de financement
+d'obsèques mentionnées à l'article L. 2223-33-1 du code général des collectivités territoriales souscrites sur la tête d'un
+majeur en tutelle.
+
 Pour l'application du premier alinéa, lorsque le bénéficiaire du contrat d'assurance sur la vie est le curateur ou le tuteur,
 il est réputé être en opposition d'intérêts avec la personne protégée.
 
@@ -4721,21 +4730,20 @@ L'acceptation du bénéfice d'un contrat d'assurance sur la vie conclu moins de 
 d'ouverture de la curatelle ou de la tutelle du stipulant peut être annulée sur la seule preuve que l'incapacité était
 notoire ou connue du cocontractant à l'époque où les actes ont été passés.
 
-**Nota:**
-
-Loi 2007-1775 du 17 décembre 2007 art. 9 : Les dispositions du présent article s'appliquent aux contrats en cours à la date
-de publication de la présente loi.
-
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2007-1775 du 17 décembre 2007 - art. 9
 
 _Cité par_:
 
   - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
   - Code des assurances - art. L132-9 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2223-33-1
 
 
 ###### Article L132-5
