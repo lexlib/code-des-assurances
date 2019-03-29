@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-02-23
+Version Consolidée au 2019-03-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -14518,6 +14518,32 @@ _Cite_:
   - Code des assurances - art. L451-1 (V)
 
 
+###### Article L310-2-3
+
+I.-Lorsqu'une entreprise étrangère régulièrement établie dans un pays tiers a conclu un contrat en vertu du 2° du I de
+l'article L. 310-2 et ne se trouve plus dans une des situations prévues au I du même article, le contrat ne peut donner lieu
+à une reconduction ou à toutes opérations d'assurance directe comprenant l'émission de primes.
+
+II.-Sont nuls les contrats reconduits ou faisant l'objet d'opérations d'assurance directe comprenant l'émission de primes par
+une entreprise mentionnée au I. Toutefois, cette nullité n'est pas opposable aux assurés, aux souscripteurs et aux
+bénéficiaires des contrats.
+
+III.-Les entreprises ne se trouvant plus dans une des situations prévues au I de l'article L. 310-2 en informent leurs
+assurés et souscripteurs suivant des modalités précisées par voie réglementaire.
+
+**Nota:**
+
+Conformément à l’article 6 de l’ordonnance n° 2019-75 du 6 février 2019, ces dispositions entrent en vigueur à compter de la
+date de retrait du Royaume-Uni de l'Union européenne sans accord conclu conformément à l'article 50 du traité sur l'Union
+européenne.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-75 du 6 février 2019 - art. 2
+
+
 ###### Article L310-3
 
 Dans le présent code : 
@@ -15617,22 +15643,28 @@ _Cité par_:
 ###### Article L310-27
 
 Le fait de pratiquer sur le territoire de la République une des opérations mentionnées aux 1°, 2° et 3° de l'article L. 310-1
-sans se conformer aux dispositions des articles L. 310-2 et L. 310-6 est puni d'un emprisonnement de trois ans et d'une
-amende de 75 000 euros. 
+sans se conformer aux dispositions des articles L. 310-2 et L. 310-6  ou aux dispositions du I de l'article L. 310-2-3 est
+puni d'un emprisonnement de trois ans et d'une amende de 75 000 euros.
 
 Le fait de pratiquer une des opérations mentionnées au I de l'article L. 310-1-1 sur le territoire de la République sans se
-conformer aux dispositions du III de l'article L. 310-1-1 est puni des mêmes peines. 
+conformer aux dispositions du III de l'article L. 310-1-1 est puni des mêmes peines.
 
 Lorsqu'une personne physique a commis l'une des infractions prévues au précédent alinéa, la diffusion de la décision, dans
-les conditions prévues par l'article 131-35 du code pénal, peut être prononcée à titre de peine complémentaire. 
+les conditions prévues par l'article 131-35 du code pénal, peut être prononcée à titre de peine complémentaire.
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
 infractions définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code
-pénal, la peine prévue par le 4° de l'article 131-39 du même code. 
+pénal, la peine prévue par le 4° de l'article 131-39 du même code.
 
 Les personnes ayant souscrit de bonne foi un contrat auprès de l'entreprise dont la fermeture a été ordonnée par le tribunal
 bénéficient des mêmes privilèges et garanties que ceux réservés par le présent code aux souscripteurs et bénéficiaires de
 contrats en cas de liquidation d'une entreprise d'assurance.
+
+**Nota:**
+
+Conformément à l’article 6 de l’ordonnance n° 2019-75 du 6 février 2019, ces dispositions entrent en vigueur à compter de la
+date de retrait du Royaume-Uni de l'Union européenne sans accord conclu conformément à l'article 50 du traité sur l'Union
+européenne.
 
 **Liens relatifs à cet article**
 
@@ -15642,14 +15674,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 125
+  - Ordonnance n°2019-75 du 6 février 2019 - art. 2
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 121-2
   - Code pénal - art. 131-35
-  - Code pénal - art. 131-38 (V)
-  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
   - Code des assurances - art. L310-1
   - Code des assurances - art. L310-1-1
   - Code des assurances - art. L310-2
