@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-04-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -3747,16 +3747,30 @@ _Cite_:
 ###### Article L126-1
 
 Les victimes d'actes de terrorisme commis sur le territoire national, les personnes de nationalité française victimes à
-l'étranger de ces mêmes actes ainsi que leurs ayants droit, quelle que soit leur nationalité, sont indemnisés dans les
-conditions définies aux articles L. 422-1 à L. 422-3. 
+l'étranger de ces mêmes actes, y compris tout agent public ou tout militaire, ainsi que leurs ayants droit, quelle que soit
+leur nationalité, sont indemnisés dans les conditions définies aux articles L. 422-1 à L. 422-3.
 
 La réparation peut être refusée ou son montant réduit à raison de la faute de la victime.
+
+**Nota:**
+
+Conformément aux dispositions du VIII de l'article 64 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en
+vigueur le premier jour du mois suivant la publication de ladite loi. A cette date, les procédures en cours devant les
+juridictions civiles sont transférées en l'état au tribunal de grande instance de Paris.
+
+Les affaires peuvent être renvoyées par la juridiction initialement saisie avant la date mentionnée au premier alinéa dudit
+VIII pour une audience postérieure à cette date devant le tribunal de grande instance de Paris.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus avant le transfert des
+procédures. Les parties sont informées par la juridiction antérieurement compétente qu'il leur appartient d'accomplir les
+actes de la procédure devant le tribunal de grande instance de Paris. Les archives et les minutes du secrétariat de la
+juridiction antérieurement compétente sont transférées au greffe du tribunal de grande instance de Paris.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°88-260 1988-03-18
+  - Décret n°88-260 du 18 mars 1988
 
 _Cité par_:
 
@@ -3765,12 +3779,13 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L169-1 (V)
   - Code de procédure pénale - art. 706-3 (V)
   - Code des assurances - art. L422-1 (VD)
+  - Code des assurances - art. L422-1-1 (V)
   - Code des assurances - art. L422-2 (VD)
   - Code des assurances - art. R422-6 (M)
 
 _Modifié par_:
 
-  - Loi n°2006-64 du 23 janvier 2006 - art. 20 () JORF 24 janvier 2006
+  - Loi n°2019-222 du 23 mars 2019 - art. 64 (V)
 
 
 ##### Section II : Dommages matériels.<a id=16></a>
@@ -27835,33 +27850,85 @@ _Modifié par_:
   - Loi n°2014-896 du 15 août 2014 - art. 27
 
 
+###### Article L422-1-1
+
+Le fonds de garantie mentionné à l'article L. 422-1 peut requérir de toute administration ou tout service de l'Etat et des
+collectivités publiques, de tout organisme de sécurité sociale, de tout organisme assurant la gestion des prestations
+sociales, de tout employeur ainsi que des établissements financiers ou entreprises d'assurance susceptibles de réparer tout
+ou partie du préjudice la réunion et la communication des renseignements dont ceux-ci disposent ou peuvent disposer relatifs
+à l'exécution de leurs obligations éventuelles, sans que ne puisse lui être opposé le secret professionnel. 
+
+Le fonds de garantie informe la victime mentionnée à l'article L. 126-1 avant toute réquisition susceptible de porter sur des
+renseignements relatifs à sa personne ou à sa situation et sollicite son accord préalable lorsque la réquisition est adressée
+à son employeur. 
+
+Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins que l'instruction du dossier d'indemnisation et
+leur divulgation est interdite. Les personnes qui ont à connaître des documents et informations fournis au fonds de garantie
+sont tenues au secret professionnel dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code
+pénal.
+
+**Nota:**
+
+Conformément aux dispositions du VIII de l'article 64 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en
+vigueur le premier jour du mois suivant la publication de ladite loi. A cette date, les procédures en cours devant les
+juridictions civiles sont transférées en l'état au tribunal de grande instance de Paris.
+
+Les affaires peuvent être renvoyées par la juridiction initialement saisie avant la date mentionnée au premier alinéa dudit
+VIII pour une audience postérieure à cette date devant le tribunal de grande instance de Paris.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus avant le transfert des
+procédures. Les parties sont informées par la juridiction antérieurement compétente qu'il leur appartient d'accomplir les
+actes de la procédure devant le tribunal de grande instance de Paris. Les archives et les minutes du secrétariat de la
+juridiction antérieurement compétente sont transférées au greffe du tribunal de grande instance de Paris.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 64 (V)
+
+_Cite_:
+
+  - Code pénal - art. 226-13
+  - Code pénal - art. 226-14
+  - Code des assurances - art. L126-1 (V)
+  - Code des assurances - art. L422-1
+
+
 ###### Article L422-2
 
 Le fonds de garantie est tenu, dans un délai d'un mois à compter de la demande qui lui est faite, de verser une ou plusieurs
 provisions à la victime qui a subi une atteinte à sa personne ou, en cas de décès de la victime, à ses ayants droit, sans
-préjudice du droit pour ces victimes de saisir le juge des référés. 
+préjudice du droit pour ces victimes de saisir le juge des référés.
 
 Le fonds de garantie est tenu de présenter à toute victime une offre d'indemnisation dans un délai de trois mois à compter du
 jour où il reçoit de celle-ci la justification de ses préjudices. Cette disposition est également applicable en cas
-d'aggravation du dommage. 
+d'aggravation du dommage.
 
 Les articles L. 211-15 à L. 211-18 sont applicables à ces offres d'indemnisation. Les offres tardives ou manifestement
-insuffisantes peuvent ouvrir droit à des dommages et intérêts au profit de la victime. 
+insuffisantes peuvent ouvrir droit à des dommages et intérêts au profit de la victime.
 
 Le fonds rembourse aux régimes d'assurance maladie les dépenses mentionnées au 1° et au a du 2° du II de l'article L. 169-10
 du code de la sécurité sociale.
 
+Le présent article s'applique lorsque la juridiction reconnaît le droit à indemnisation de la victime. En ce cas, le délai
+mentionné au deuxième alinéa court à compter du jour où la décision de la juridiction est exécutoire.
+
 **Nota:**
 
-Conformément au VI de l'article 60 de la loi n° 2016-1827 du 23 décembre 2016, ces dispositions sont applicables aux actes et
-prestations inscrits sur la liste prévue à l'article L. 162-1-7 et à la délivrance de produits et prestation inscrits sur la
-liste mentionnée à l'article L. 165-1 intervenus postérieurement au 14 juillet 2016.
+Conformément aux dispositions du VIII de l'article 64 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en
+vigueur le premier jour du mois suivant la publication de ladite loi. A cette date, les procédures en cours devant les
+juridictions civiles sont transférées en l'état au tribunal de grande instance de Paris.
+
+Les affaires peuvent être renvoyées par la juridiction initialement saisie avant la date mentionnée au premier alinéa dudit
+VIII pour une audience postérieure à cette date devant le tribunal de grande instance de Paris.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus avant le transfert des
+procédures. Les parties sont informées par la juridiction antérieurement compétente qu'il leur appartient d'accomplir les
+actes de la procédure devant le tribunal de grande instance de Paris. Les archives et les minutes du secrétariat de la
+juridiction antérieurement compétente sont transférées au greffe du tribunal de grande instance de Paris.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2016-1827 du 23 décembre 2016 - art. 60 (V)
 
 _Cité par_:
 
@@ -27870,10 +27937,15 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D169-4 (V)
   - Code de la sécurité sociale. - art. L169-1 (V)
   - Code de la sécurité sociale. - art. L169-10 (VD)
-  - Code de la sécurité sociale. - art. L169-4 (V)
+  - Code de la sécurité sociale. - art. L169-4 (VD)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 64 (V)
 
 _Cite_:
 
+  - Code des assurances - art. L126-1
   - Code des assurances - art. L211-15
 
 
