@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-05-24
+Version Consolidée au 2019-06-10
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -205,7 +205,7 @@ relative à une opération spatiale (art. L176-1 à L176-5)](#61)
           - [Section 3 : Investissements (art. L385-4)](#201)
           - [Section 4 : Système de gouvernance (art. L385-5)](#202)
           - [Section 5 : Informations à fournir à l'Autorité de contrôle prudentiel et de résolution (art. L385-6)](#203)
-          - [Section 6 : Informations à fournir au public (art. L385-7)](#204)
+          - [Section 6 : Informations à fournir au public (art. L385-7 à L385-7-1)](#204)
           - [Section 7 : Mesures de sauvegarde (art. L385-8)](#205)
           - [Section 8 : Dispositions applicables aux fonds de retraite professionnelle supplémentaire appartenant à un groupe d'assurance et à un conglomérat financier (art. L385-9)](#206)
       - [Titre IX : Dispositions applicables dans les îles Wallis et Futuna (art. L390-1)](#207)
@@ -14502,6 +14502,58 @@ _Cité par_:
   - Code des assurances - art. L390-1 (V)
 
 
+###### Article L310-1-1-2
+
+I.-Les entreprises mentionnées au 1° de l'article L. 310-1 et celles mentionnées au 1° du III de l'article L. 310-1-1 qui
+réassurent des engagements mentionnés au 1° de l'article L. 310-1 sont soumises aux dispositions du I de l'article L. 533-22
+du code monétaire et financier, dans la mesure où elles investissent dans des actions admises aux négociations sur un marché
+réglementé, directement ou par l'intermédiaire soit d'une société de gestion de portefeuille mentionnée à l'article L. 532-9
+du même code, à l'exception de celles qui gèrent exclusivement des FIA relevant du I de l'article L. 214-167 dudit code, des
+FIA relevant du IV de l'article L. 532-9 du même code, des FIA relevant du second alinéa du III de l'article L. 532-9 du même
+code ou qui gèrent d'autres placements collectifs mentionnés à l'article L. 214-191 du même code, soit d'une entreprise
+d'investissement qui fournit les services d'investissement mentionnés au 4° de l'article L. 321-1 du même code.
+
+Lorsque la politique d'engagement actionnarial mentionnée au I de l'article L. 533-22 du code monétaire et financier est mise
+en œuvre, y compris en matière de vote, par une société de gestion de portefeuille mentionnée à l'article L. 532-9 du même
+code, à l'exception de celles qui gèrent exclusivement des FIA relevant du I de l'article L. 214-167 dudit code, ou par une
+entreprise d'investissement qui fournit les services d'investissement mentionnés au 4° de l'article L. 321-1 du même code,
+pour le compte d'une personne mentionnée au présent I, cette dernière indique sur son site internet l'endroit où la société
+de gestion de portefeuille ou l'entreprise d'investissement a publié les informations en matière de vote.
+
+II.-Les entreprises mentionnées au premier alinéa du I publient la manière dont les principaux éléments de leur stratégie
+d'investissement en actions sont compatibles avec le profil et la durée de leurs passifs, en particulier de leurs passifs de
+long terme, et la manière dont ils contribuent aux performances de leurs actifs à moyen et à long termes.
+
+Lorsqu'elles investissent sur la base d'un mandat de gestion de portefeuille ou de souscription à un placement collectif
+mentionné à l'article L. 214-1 du code monétaire et financier, par l'intermédiaire soit d'une société de gestion de
+portefeuille mentionnée à l'article L. 532-9 du même code, à l'exception de celles qui gèrent exclusivement des FIA relevant
+du I de l'article L. 214-167 dudit code, des FIA relevant du IV de l'article L. 532-9 du même code, des FIA relevant du
+second alinéa du III de l'article L. 532-9 du même code ou des autres placements collectifs mentionnés à l'article L. 214-191
+du même code, soit d'une entreprise d'investissement fournissant des services mentionnés au 4° de l'article L. 321-1 du même
+code, ces entreprises publient les informations relatives à ce contrat.
+
+Le contenu et les modalités de publicité des informations mentionnées au deuxième alinéa du présent II sont fixés par décret
+en Conseil d'Etat.
+
+III.-Lorsqu'une personne soumise au présent article n'en respecte pas une ou plusieurs dispositions, toute personne
+intéressée peut demander au président du tribunal de lui enjoindre, le cas échéant sous astreinte, de les respecter.
+
+**Nota:**
+
+Conformément au V de l'article 198 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur à une date fixée
+par décret, et au plus tard le 10 juin 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 198 (V)
+
+_Cité par_:
+
+  - Code des assurances - art. L385-7-1 (V)
+
+
 ###### Article L310-1-2
 
 I.-Un "véhicule de titrisation" est une entité juridique, dotée ou non de la personnalité morale, autre qu'un organisme
@@ -26238,6 +26290,48 @@ _Cité par_:
   - Code des assurances - art. R385-18 (V)
   - Code des assurances - art. R385-20 (V)
   - Code des assurances - art. R385-21 (V)
+
+
+###### Article L385-7-1
+
+I.-Les dispositions du I de l'article L. 533-22 du code monétaire et financier sont applicables aux fonds de retraite
+professionnelle supplémentaire, dans la mesure où ils investissent dans des actions admises aux négociations sur un marché
+réglementé, directement ou par l'intermédiaire soit d'une société de gestion de portefeuille mentionnée à l'article L. 532-9
+du même code, à l'exception de celles qui gèrent exclusivement des FIA relevant du I de l'article L. 214-167 dudit code, des
+FIA relevant du IV de l'article L. 532-9 du même code, des FIA relevant du second alinéa du III de l'article L. 532-9 du même
+code ou qui gèrent d'autres placements collectifs mentionnés à l'article L. 214-191 du même code, soit d'une entreprise
+d'investissement qui fournit les services d'investissement mentionnés au 4° de l'article L. 321-1 du même code. 
+
+Lorsque la politique d'engagement actionnarial mentionnée au I de l'article L. 533-22 du code monétaire et financier est mise
+en œuvre, y compris en matière de vote, soit par une société de gestion de portefeuille mentionnée à l'article L. 532-9 du
+même code, à l'exception de celles qui gèrent exclusivement des FIA relevant du I de l'article L. 214-167 dudit code, des FIA
+relevant du IV de l'article L. 532-9 du même code, des FIA relevant du second alinéa du III de l'article L. 532-9 du même
+code ou qui gèrent d'autres placements collectifs mentionnés à l'article L. 214-191 du même code, soit par une entreprise
+d'investissement qui fournit les services d'investissement mentionnés au 4° de l'article L. 321-1 du même code, pour le
+compte d'une personne mentionnée au présent I, cette dernière indique sur son site internet l'endroit où la société de
+gestion de portefeuille ou l'entreprise d'investissement a publié les informations en matière de vote. 
+
+II.-Les II et III de l'article L. 310-1-1-2 sont applicables aux fonds de retraite professionnelle supplémentaire.
+
+**Nota:**
+
+Conformément au V de l'article 198 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur à une date fixée
+par décret, et au plus tard le 10 juin 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 198 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-167 (V)
+  - Code monétaire et financier - art. L214-191 (V)
+  - Code monétaire et financier - art. L321-1 (V)
+  - Code monétaire et financier - art. L532-9 (V)
+  - Code monétaire et financier - art. L533-22 (V)
+  - Code des assurances - art. L310-1-1-2 (V)
 
 
 ##### Section 7 : Mesures de sauvegarde<a id=205></a>
