@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-06-14
+Version Consolidée au 2019-07-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -642,7 +642,7 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#324)
         - [Chapitre IV : Engagements donnant lieu à constitution d'une provision de diversification (art. A134-1 à A134-7)](#637)
       - [Titre IV : Les assurances de groupe (art. A141-1 à A144-4)](#638)
         - [Chapitre Ier. (art. A141-1)](#639)
-        - [Chapitre III : Contrats de retraite professionnelle supplémentaire (art. A143-1 à A143-3)](#640)
+        - [Chapitre III : Contrats de retraite professionnelle supplémentaire (art. A143-1 à A143-3-4)](#640)
         - [Chapitre IV : Contrats de retraite supplémentaire associatifs (art. A144-1 à A144-4)](#641)
           - [Section III : Dispositions particulières au plan d'épargne retraite populaire (art. A144-1 à A144-4)](#642)
             - [Sous-section I : Dispositions techniques spécifiques 
@@ -73909,52 +73909,55 @@ _Cite_:
 
 ###### Article A132-7
 
-I. ― Pour l'application du septième alinéa de l'article L. 132-22, les informations suivantes sont communiquées à l'assuré : 
+I. – Pour l'application du septième alinéa de l'article L. 132-22, les informations suivantes sont communiquées à l'assuré :
 
-― le taux d'intérêt garanti par le contrat et le taux d'intérêt correspondant au montant affecté aux provisions mathématiques
-du contrat provenant de la participation aux bénéfices ou des reprises de provision pour participation aux bénéfices ; 
+– le taux d'intérêt garanti par le contrat et le taux d'intérêt correspondant au montant affecté aux provisions mathématiques
+du contrat provenant de la participation aux bénéfices ou des reprises de provision pour participation aux bénéfices ;
 
-― le taux des frais prélevés par l'entreprise ; 
+– le taux des frais prélevés par l'entreprise ;
 
-― le taux des taxes et prélèvements sociaux ; 
+– le taux des taxes et prélèvements sociaux ;
 
-― le taux d'intérêt servi à l'assuré, net de frais et, le cas échéant, des taxes et des prélèvements sociaux prélevés lors de
-l'inscription des intérêts au contrat. 
+– le taux d'intérêt servi à l'assuré, net de frais et, le cas échéant, des taxes et des prélèvements sociaux prélevés lors de
+l'inscription des intérêts au contrat.
 
-II. ― Pour l'application du huitième alinéa de l'article L. 132-22, les informations communiquées à l'assuré sont les
-suivantes : 
+II. – Pour l'application du huitième alinéa de l'article L. 132-22, les informations communiquées à l'assuré sont les
+suivantes :
 
 1° Pour les contrats auxquels des actifs sont affectés en vertu de dispositions législatives, le taux de rendement de ces
-actifs ; 
+actifs ;
 
 2° Pour les contrats de groupe prévoyant que les engagements sont représentés par des actifs faisant l'objet d'une
-identification distincte pour satisfaire à des stipulations contractuelles, le taux de rendement de ces actifs ; 
+identification distincte pour satisfaire à des stipulations contractuelles, le taux de rendement de ces actifs ;
 
 3° Dans les autres cas, le taux de rendement des placements défini au 1 de l'article A. 132-14 et le taux moyen des montants,
 y compris ceux provenant de la participation aux bénéfices, affectés aux provisions mathématiques relatives à la catégorie
-d'opérations mentionnée à l'article A. 344-2, dont relève le contrat. 
+d'opérations mentionnée à l'article A. 344-2, dont relève le contrat.
 
-III. ― Pour l'application du neuvième alinéa de l'article L. 132-22, l'information annuelle du souscripteur ou, en cas de
-contrat de groupe, de l'adhérent comporte : 
+III. – Pour l'application du neuvième alinéa de l'article L. 132-22, l'information annuelle du souscripteur ou, en cas de
+contrat de groupe, de l'adhérent comporte :
 
-― la valeur des unités de compte sélectionnées ; 
+– la valeur des unités de compte sélectionnées ;
 
-― les frais prélevés par l'entreprise d'assurance au titre de chaque unité de compte ; 
+– les frais prélevés par l'entreprise d'assurance au titre de chaque unité de compte ;
 
-― le total des frais supportés par l'unité de compte, au cours du dernier exercice connu ; 
+– le total des frais supportés par l'unité de compte, au cours du dernier exercice connu ;
 
-― pour les unités de compte qui en comportent, les valeurs des indicateurs de référence ; 
+– pour les unités de compte qui en comportent, les valeurs des indicateurs de référence ;
 
-― le cas échéant, le produit des droits attachés à la détention de l'unité de compte conservé par l'entreprise d'assurance. 
+– le cas échéant, le produit des droits attachés à la détention de l'unité de compte conservé par l'entreprise d'assurance.
 
 Les modifications significatives affectant chaque unité de compte sélectionnée, constituée sous la forme d'une part ou d'une
 action d'organisme de placement collectif, sont celles affectant ses caractéristiques principales, telles que définies à
-l'article A. 132-6. 
+l'article A. 132-6.
 
-IV. ― 1° Pour l'application du douzième alinéa de l'article L. 132-22, l'estimation du montant de la rente viagère qui serait
-versée à l'adhérent au titre des droits exprimés en euros peut être présentée distinctement de l'estimation établie à partir
-des droits exprimés en unités de comptes, qui elle-même peut être présentée distinctement de celle établie à partir des
-droits exprimés en parts de provision de diversification. 
+IV. – 1° Pour l'application du treizième alinéa de l'article L. 132-22, l'estimation du montant de la rente viagère qui
+serait versée à l'adhérent au titre des droits exprimés en euros peut être présentée distinctement de l'estimation établie à
+partir des droits exprimés en unités de comptes, qui elle-même peut être présentée distinctement de celle établie à partir
+des droits exprimés en parts de provision de diversification. L'estimation du montant de la rente viagère et celles réalisées
+dans un scénario moins favorable sont présentées distinctement et en précisant clairement les hypothèses avec lesquelles
+elles sont réalisées. Ces hypothèses sont déterminées en fonction des risques susceptibles d'affecter le résultat final de
+l'évaluation.
 
 2° Chaque estimation mentionnée au 1° est établie en fonction de la provision mathématique constituée à la fin de l'exercice
 considéré et des tables de mortalité et du taux d'intérêt technique applicables au contrat. Chaque estimation est communiquée
@@ -73963,13 +73966,13 @@ nette des frais de sorties mentionnés au quatrième alinéa du 5° de l'article
 Pour les adhérents qui n'ont pas atteint l'âge mentionné au premier alinéa de l'article L. 161-17-2 du code de la sécurité
 sociale à la fin de l'exercice considéré, au moins deux estimations sont mentionnées, la première en retenant l'hypothèse
 d'âge de départ à la retraite mentionné au premier alinéa de l'article L. 161-17-2 du code de la sécurité sociale et la
-deuxième en retenant cet âge majoré de cinq ans. 
+deuxième en retenant cet âge majoré de cinq ans.
 
 Pour les adhérents qui ont dépassé l'âge mentionné au premier alinéa de l'article L. 161-17-2 du code de la sécurité sociale
 à la fin de l'exercice considéré, au moins une estimation est établie, en retenant une hypothèse d'âge de départ à la
 retraite égale à l'âge mentionné au premier alinéa de l'article L. 161-17-2 du code de la sécurité sociale majoré de cinq
 ans, en retenant une hypothèse d'âge de départ à la retraite supérieur pour les adhérents qui ont dépassé cet âge à la fin de
-l'exercice considéré. 
+l'exercice considéré.
 
 3° La présentation des estimations mentionnées au 1° est complétée par la mention : " Ces estimations sont fournies à titre
 indicatif et n'ont pas de caractère contractuel car elles sont réalisées sur la base de paramètres qui peuvent varier ou être
@@ -73977,6 +73980,21 @@ modifiés en cours de contrat, notamment la table de mortalité et le taux techn
 l'entreprise d'assurance, ils sont détaillés dans votre contrat. Ces estimations retiennent des hypothèses d'âge de
 liquidation de la rente qui peuvent être différents de l'âge exact d'ouverture de vos droits à retraite ainsi que de celui à
 compter duquel vous pouvez liquider votre retraite obligatoire à taux plein. "
+
+4° La présentation des estimations mentionnées au 1° est complétée par une information sur les modalités de chacune des
+évaluations. Cette information précise :
+
+a) Le taux technique retenu ;
+
+b) Le taux annuel de rendement nominal des investissements, le taux d'inflation annuel et l'évolution future des salaires ;
+
+c) Les données concernant l'affilié, y compris une indication de l'âge mentionné au premier alinéa de l'article L. 161-17-2
+du code de la sécurité sociale à la fin de l'exercice considéré ;
+
+d) Le nombre moyen d'arrérages pour la cohorte d'âge dont fait partie l'affilié selon la table de mortalité applicable à la
+date de l'information, en précisant si cette table est susceptible d'évoluer avant la phase de service de la rente de
+l'affilié. Cette information est accompagnée d'une mention précisant que ces indications sont d'ordre statistique et ne
+constituent pas une évaluation de l'espérance de vie réelle de l'affilié.
 
 **Liens relatifs à cet article**
 
@@ -73986,16 +74004,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 24 juin 2016 - art. 3
+  - Arrêté du 27 juin 2019 - art. 1
 
 _Cite_:
 
   - Code de la sécurité sociale. - art. L161-17-2
-  - Code des assurances - art. A132-14 (V)
+  - Code des assurances - art. A132-14
   - Code des assurances - art. A132-6
   - Code des assurances - art. A132-8
-  - Code des assurances - art. A344-2 (V)
-  - Code des assurances - art. L132-22 (V)
+  - Code des assurances - art. A344-2
+  - Code des assurances - art. L132-22
 
 _Cité par_:
 
@@ -74004,6 +74022,52 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code des assurances - art. A331-9 (Ab)
+
+
+###### Article A132-7-1
+
+I.-Pour l'application de l'article L. 132-22 aux contrats mentionnés à l'article L. 143-1 et L. 144-2, les informations
+suivantes sont communiquées annuellement : 
+
+1° La date exacte de référence des informations figurant dans le relevé des droits à retraite, indiquée de manière
+évidente ; 
+
+2° Le nom de l'organisme d'assurance ou de retraite professionnelle supplémentaire et son adresse de contact, ainsi que
+l'identification du régime de retraite de l'affilié ; 
+
+3° Une indication claire en cas de changement important dans les informations contenues dans le relevé des droits par rapport
+à l'année précédente ; 
+
+4° Des informations sur les cotisations versées par l'entreprise souscriptrice et l'affilié au cours des douze derniers
+mois ; 
+
+5° Une ventilation des chargements prélevés au moins au cours des douze derniers mois. 
+
+Pour les contrats mentionnés à l'article L. 143-1 et L. 144-2, le titre de la notice prévue à l'article L. 132-22 contient
+l'expression “ relevé des droits à retraite ”. 
+
+II.-Pour l'application de l'article L. 132-22 et du quatrième alinéa de l'article L. 132-5-3 aux contrats mentionnés à
+l'article L. 143-1 et L. 144-2, les informations suivantes sont communiquées annuellement aux affiliés dont les droits sont
+en cours de service :
+
+- le montant et la durée résiduelle des prestations qui leurs sont dues et un rappel des options de versement
+correspondantes ;
+
+- pour les contrats dont les garanties sont exprimées en unités de compte au cours de la phase de versement, une information
+du bénéficiaire sur ce risque et l'impact qu'il pourrait avoir en cas d'aléa défavorable.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 27 juin 2019 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L132-22
+  - Code des assurances - art. L132-5-3
+  - Code des assurances - art. L143-1
+  - Code des assurances - art. L144-2
 
 
 ###### Article A132-8
@@ -75126,86 +75190,86 @@ _Cite_:
 ###### Article A132-11
 
 I. – Pour les opérations de chaque entreprise mentionnées au 1° de l'article L. 310-1 et de chaque fonds de retraite
-professionnelle supplémentaire mentionnées à l'article L. 381-1, autres que celles mentionnées aux catégories 8 à 11 et 13 à
-15 de l'article A. 344-2, le montant minimal de la participation aux bénéfices à attribuer au titre d'un exercice est
-déterminé globalement à partir d'un compte de participation aux résultats. 
+professionnelle supplémentaire mentionnées à l'article L. 381-1, autres que celles mentionnées aux catégories 8 à 15 de
+l'article A. 344-2, le montant minimal de la participation aux bénéfices à attribuer au titre d'un exercice est déterminé
+globalement à partir d'un compte de participation aux résultats.
 
-Ce compte comporte les éléments de dépenses et de recettes concernant les catégories 1,2,3,4,5,6,7,12 et 16 de l'article A.
-344-2 et figurant, à l'article 423-28 du règlement n° 2015-11 du 26 novembre 2015 de l'Autorité des normes comptables relatif
-au cadre comptable des entreprises d'assurance, dans la ventilation de l'ensemble des produits et charges des opérations par
-catégorie (modèle A, " Catégories 1 à 19 "), aux sous-totaux " A. – Solde de souscription " et " B. – Charges d'acquisition
-et de gestion nettes ". Le compte comprend également pour les contrats relevant de la catégorie 6 de l'article A. 344-2 les
-éléments de dépenses et de recettes concernant les garanties accessoires correspondant à la catégorie 21 dudit article et
-figurant, à l'article 423-28 du règlement n° 2015-11 du 26 novembre 2015 de l'Autorité des normes comptables relatif au cadre
-comptable des entreprises d'assurance, dans la ventilation de l'ensemble des opérations par catégories (modèle B, "
-Catégories 20 à 39 ") aux sous-totaux " A. – Solde de souscription " et " B. – Charges d'acquisition et de gestion nettes ",
-dès lors que le solde de ces éléments de dépenses et de recettes est débiteur. Toutefois, ce solde débiteur ne s'impute qu'à
-hauteur maximale du solde créditeur de la catégorie 6, le solde non imputé pouvant s'imputer dans les mêmes conditions au
-titre d'un exercice ultérieur. Le compte de participation comporte également en dépenses la participation de l'assureur aux
-bénéfices de la gestion technique, qui est constituée par le montant le plus élevé entre 10 % du solde créditeur des éléments
-précédents et 4,5 % des primes annuelles correspondant aux opérations relevant des catégories 3 et 6 de l'article A. 344-2. 
+Ce compte comporte les éléments de dépenses et de recettes concernant les catégories 1, 2, 3, 4, 5, 6, 7 et 16 de l'article
+A. 344-2 et figurant, à l'article 423-28 du règlement n° 2015-11 du 26 novembre 2015 de l'Autorité des normes comptables
+relatif au cadre comptable des entreprises d'assurance, dans la ventilation de l'ensemble des produits et charges des
+opérations par catégorie (modèle A, " Catégories 1 à 19 "), aux sous-totaux " A. – Solde de souscription " et " B. – Charges
+d'acquisition et de gestion nettes ". Le compte comprend également pour les contrats relevant de la catégorie 6 de l'article
+A. 344-2 les éléments de dépenses et de recettes concernant les garanties accessoires correspondant à la catégorie 21 dudit
+article et figurant, à l'article 423-28 du règlement n° 2015-11 du 26 novembre 2015 de l'Autorité des normes comptables
+relatif au cadre comptable des entreprises d'assurance, dans la ventilation de l'ensemble des opérations par catégories
+(modèle B, " Catégories 20 à 39 ") aux sous-totaux " A. – Solde de souscription " et " B. – Charges d'acquisition et de
+gestion nettes ", dès lors que le solde de ces éléments de dépenses et de recettes est débiteur. Toutefois, ce solde débiteur
+ne s'impute qu'à hauteur maximale du solde créditeur de la catégorie 6, le solde non imputé pouvant s'imputer dans les mêmes
+conditions au titre d'un exercice ultérieur. Le compte de participation comporte également en dépenses la participation de
+l'assureur aux bénéfices de la gestion technique, qui est constituée par le montant le plus élevé entre 10 % du solde
+créditeur des éléments précédents et 4,5 % des primes annuelles correspondant aux opérations relevant des catégories 3 et 6
+de l'article A. 344-2.
 
 Il est ajouté en recette du compte de participation aux résultats une part des produits financiers. Cette part est égale à 85
 % du solde d'un compte financier comportant les éléments prévus à l'article A. 132-13. Le compte de participation aux
 résultats comporte en outre les sommes correspondant aux " solde de réassurance cédée ", calculées conformément aux
 dispositions de l'article A. 132-15 et, s'il y a lieu, le solde débiteur du compte de participation aux résultats de
-l'exercice précédent. 
+l'exercice précédent.
 
 II. – a) Pour les engagements relevant de l'article L. 134-1 et ne relevant pas du IV de l'article R. 134-1, y compris ceux
 relevant de l'article L. 144-2 et ne relevant pas du IV de l'article R. 134-1, le montant de la participation aux bénéfices
 techniques et financiers mentionnée à l'article R. 342-6 est déterminé à partir d'un compte de participation aux résultats
-spécifique relatif aux seules opérations relevant de la comptabilité auxiliaire d'affectation. 
+spécifique relatif aux seules opérations relevant de la comptabilité auxiliaire d'affectation.
 
 b) Le compte mentionné au a est établi à la date de chaque échéance, qui est au moins trimestrielle. Ce compte comporte en
-produits : 
+produits :
 
-1° Le montant des primes versées et des montants transférés ; 
+1° Le montant des primes versées et des montants transférés ;
 
-2° Les produits nets des placements ; 
+2° Les produits nets des placements ;
 
-3° La variation des plus-ou moins-values latentes des actifs de la comptabilité auxiliaire d'affectation ; 
+3° La variation des plus-ou moins-values latentes des actifs de la comptabilité auxiliaire d'affectation ;
 
-4° Les éventuelles rétrocessions de commission mentionnées au II de l'article R. 134-11 ; 
+4° Les éventuelles rétrocessions de commission mentionnées au II de l'article R. 134-11 ;
 
-5° Les montants arbitrés entrants ; 
+5° Les montants arbitrés entrants ;
 
-Il comporte en charges : 
+Il comporte en charges :
 
-1° Les charges des prestations versées et des montants transférés ; 
+1° Les charges des prestations versées et des montants transférés ;
 
 2° Les charges, avant attribution de participation aux résultats au titre de la période, des provisions techniques,
-mentionnées aux 1° et 7° de l'article R. 343-3, y compris celles résultant d'écarts actuariels des provisions
-mathématiques ; 
+mentionnées aux 1° et 7° de l'article R. 343-3, y compris celles résultant d'écarts actuariels des provisions mathématiques ;
 
 3° Les mouvements, avant attribution de participation aux résultats au titre de la période, de la provision de
 diversification, mentionnée au 9° de l'article R. 343-3, pour la part imputable aux primes versées, aux prestations servies,
-aux conversions en provision mathématique, aux arbitrages et aux prélèvements de chargements ; 
+aux conversions en provision mathématique, aux arbitrages et aux prélèvements de chargements ;
 
-4° Les frais mentionnés à l'article R. 134-11, à l'exception de ceux mentionnés au d dudit article ; 
+4° Les frais mentionnés à l'article R. 134-11, à l'exception de ceux mentionnés au d dudit article ;
 
-5° Le cas échéant, le solde débiteur net de déduction de l'exercice précédent prévue au c du II du présent article ; 
+5° Le cas échéant, le solde débiteur net de déduction de l'exercice précédent prévue au c du II du présent article ;
 
-6° Les montants arbitrés sortants ; 
+6° Les montants arbitrés sortants ;
 
 Le compte de participation aux résultats comporte en outre les sommes correspondant au solde de réassurance cédée calculées
-conformément à l'article A. 132-15. 
+conformément à l'article A. 132-15.
 
 Le montant de la participation aux résultats techniques et financiers est le solde créditeur du compte de participation aux
-résultats défini au présent II. 
+résultats défini au présent II.
 
 Pour l'application du d de l'article R. 134-11, et lorsque ne sont pas appliqués les frais mentionnés au f, ce montant peut
-être diminué d'au plus 15 % dudit solde. 
+être diminué d'au plus 15 % dudit solde.
 
 c) Le solde débiteur du compte de participation aux résultats doit être compensé, à la clôture de chaque établissement du
 compte, par une reprise de la provision de diversification, dans la limite de la valeur minimale de cette provision
 mentionnée au II de l'article R. 134-5 ou par la reprise de la provision collective de diversification différée mentionnée au
 10° de l'article R. 343-3 ou encore par la reprise de ces deux provisions. Le solde débiteur restant, après ces reprises, est
-reporté au débit du compte de participation aux résultats arrêté à l'échéance suivante. 
+reporté au débit du compte de participation aux résultats arrêté à l'échéance suivante.
 
 d) Le montant de la participation aux résultats techniques et financiers est attribué, à la clôture de chaque établissement
 du compte, en provision mathématique ou en provision de diversification, dans le respect des conditions mentionnées au II de
 l'article R. 134-6, entre les adhérents ou souscripteurs d'engagements relevant de la comptabilité auxiliaire d'affectation
-ou porté à la provision collective de diversification différée mentionnée au 10° de l'article R. 343-3. 
+ou porté à la provision collective de diversification différée mentionnée au 10° de l'article R. 343-3.
 
 e) L'attribution de la participation aux résultats techniques et financiers, entre les souscripteurs ou adhérents,
 s'effectue, dans le respect des conditions mentionnées au II de l'article R. 134-6, par la revalorisation des engagements de
@@ -75213,58 +75277,76 @@ rente ou de capital exprimés en euros, par l'affectation à la provision de div
 revalorisation de la valeur de la part, soit au moyen de l'affectation de parts nouvelles aux souscripteurs ou adhérents. Le
 montant de la participation aux résultats techniques et financiers affecté à la provision de diversification, peut être
 augmenté par une reprise de la provision collective de diversification différée, pour la revalorisation de la valeur de la
-part ou l'affectation de parts nouvelles. 
+part ou l'affectation de parts nouvelles.
 
 La revalorisation des engagements de rente ou de capital exprimés en euros est déterminée selon un taux identique pour tous
 les souscripteurs ou adhérents, net du taux retenu pour l'établissement du tarif de chaque souscripteur ou adhérent. Elle ne
 peut être modulée en prenant en compte les différences de résultats techniques des comptes des participants dont les droits
-individuels ont été liquidés et de ceux dont les droits individuels sont en cours de constitution. 
+individuels ont été liquidés et de ceux dont les droits individuels sont en cours de constitution.
 
 f) La dotation à la provision collective de diversification différée n'est possible que si le montant de la provision
 collective de diversification différée n'excède pas, après la dotation, 8 % du maximum entre, d'une part, le montant des
 provisions mathématiques de la comptabilité auxiliaire d'affectation qui seraient à inscrire si le taux d'actualisation
-retenu pour leur calcul était nul et, d'autre part, la valeur des actifs de la comptabilité auxiliaire d'affectation. 
+retenu pour leur calcul était nul et, d'autre part, la valeur des actifs de la comptabilité auxiliaire d'affectation.
 
 g) Les reprises, prévues aux c et e du présent II, s'effectuent dans un délai ne pouvant excéder huit ans à compter de la
-date à laquelle les sommes ont été portées à la provision collective de diversification différée. 
+date à laquelle les sommes ont été portées à la provision collective de diversification différée.
 
 III. – Les modalités d'attribution et de répartition entre les adhérents d'un plan relevant de l'article L. 144-2 mais ne
 relevant pas de l'article L. 134-1 ou de l'article L. 441-1 des résultats techniques et financiers du plan sont déterminées
-comme suit. Les dispositions du présent III ne s'appliquent pas aux supports à capital variable. 
+comme suit. Les dispositions du présent III ne s'appliquent pas aux supports à capital variable.
 
 a) Pour chaque plan, il est établi un compte de participation aux résultats, selon une périodicité au moins annuelle. Ce
-compte comporte en recettes : 
+compte comporte en recettes :
 
-1° Le montant des cotisations versées et les montants transférés au plan ; 
+1° Le montant des cotisations versées et les montants transférés au plan ;
 
-2° Les produits nets des placements ; 
+2° Les produits nets des placements ;
 
-3° Les éventuelles rétrocessions de commission mentionnées à l'article R. 144-21. 
+3° Les éventuelles rétrocessions de commission mentionnées à l'article R. 144-21.
 
-Il comporte en dépenses : 
+Il comporte en dépenses :
 
-1° Les charges des prestations versées aux participants et les montants transférés par les participants à d'autres plans ; 
+1° Les charges des prestations versées aux participants et les montants transférés par les participants à d'autres plans ;
 
 2° Les charges des provisions techniques, y compris celles résultant d'écarts actuariels des provisions mathématiques, avant
-attribution de participation aux résultats ; 
+attribution de participation aux résultats ;
 
 3° Les frais prélevés par l'organisme d'assurance mentionnés à l'article R. 144-25 et, le cas échéant, les frais de
-fonctionnement du comité de surveillance. 
+fonctionnement du comité de surveillance.
 
 Le compte de participation aux résultats comporte en outre les sommes correspondant au solde de réassurance cédée calculées
-conformément à l'article A. 132-15. 
+conformément à l'article A. 132-15.
 
-b) Le montant de la participation aux résultats est le solde créditeur du compte de participation aux résultats défini au a. 
+b) Le montant de la participation aux résultats est le solde créditeur du compte de participation aux résultats défini au a.
 
 Lorsque ce compte présente un solde débiteur, ce solde est reporté en dépenses du compte de participation aux résultats
-arrêté à l'échéance suivante. 
+arrêté à l'échéance suivante.
 
-Les dispositions de la deuxième phrase de l'article A. 132-16 ne s'appliquent pas au plan. 
+Les dispositions de la deuxième phrase de l'article A. 132-16 ne s'appliquent pas au plan.
 
 c) La revalorisation des engagements de rente ou de capital exprimés en euros est déterminée selon un taux identique pour
 tous les adhérents, qui peut toutefois être modulé en prenant en compte les différences de résultats techniques des comptes
 des adhérents dont les droits individuels ont été liquidés et de ceux dont les droits individuels sont en cours de
 constitution.
+
+IV. - Pour les engagements relevant de la catégorie 12 et ne relevant pas de l'article L. 144-2, le montant minimal de la
+participation aux bénéfices à attribuer au titre d'un exercice est déterminé à partir d'un compte de participation aux
+résultats établi pour chaque comptabilité auxiliaire d'affectation. Ce compte est établi globalement pour le canton selon les
+modalités prévues aux deux alinéas suivants.
+
+Ce compte comporte les éléments de dépenses et de recettes concernant le canton et figurant, à l'article 423-28 du règlement
+n° 2015-11 du 26 novembre 2015 de l'Autorité des normes comptables relatif au cadre comptable des entreprises d'assurance,
+dans la ventilation de l'ensemble des produits et charges des opérations par catégorie (modèle A, “ Catégories 1 à 19 ”), aux
+sous-totaux “ A.-Solde de souscription ” et “ B.-Charges d'acquisition et de gestion nettes ”. Le compte de participation
+comporte également en dépenses la participation de l'assureur aux bénéfices de la gestion technique, qui est de 10 % du solde
+créditeur des éléments précédents.
+
+Il est ajouté en recette du compte de participation aux résultats une part des produits financiers relatifs au canton. Cette
+part est égale à 85 % du solde d'un compte financier comportant les éléments prévus à l'article A. 132-13 et relatifs au
+canton. Le compte de participation aux résultats comporte en outre les sommes correspondant aux “ soldes de réassurance cédée
+”, calculées conformément aux dispositions de l'article A. 132-15 et, s'il y a lieu, le solde débiteur du compte de
+participation aux résultats de l'exercice précédent.
 
 **Liens relatifs à cet article**
 
@@ -75289,13 +75371,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 14 août 2017 - art. 1
+  - Arrêté du 27 juin 2019 - art. 1
 
 _Cite_:
 
   - Code des assurances - art. A132-15
-  - Code des assurances - art. A132-16 (M)
-  - Code des assurances - art. A344-2 (M)
+  - Code des assurances - art. A132-16
+  - Code des assurances - art. A344-2
   - Code des assurances - art. L134-1
   - Code des assurances - art. L144-2
   - Code des assurances - art. L310-1
@@ -75394,26 +75476,27 @@ Le taux de rendement prévu au 1 du présent article est égal au rapport :
 – du produit net des placements considérés, figurant à l'article 422-4 du règlement n° 2015-11 du 26 novembre 2015 de
 l'Autorité des normes comptables relatif au cadre comptable des entreprises d'assurance, au compte technique de l'assurance
 vie, à la rubrique II. 2 “ Produits des placements ” diminuée de la rubrique II. 9 “ Charges des placements ”, déduction
-faite des produits des placements mentionnés aux a, b et c du I de l'article R. 344-1 ;
+faite des produits des placements mentionnés aux a, b et c du I de l'article R. 344-1 et des dividendes relatifs aux
+participations directes dans un fonds de retraite professionnelle supplémentaire ;
 
 – au montant moyen, au cours de l'exercice, des placements, autres que ceux mentionnés aux a, b et c du I de l'article R.
-344-1.
+344-1 et des placements relatifs aux participations directes dans un fonds de retraite professionnelle supplémentaire.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Arrêté du 17 février 2014 - art. 1 (V)
-  - Code des assurances - art. A132-13 (V)
+  - Code des assurances - art. A132-13 (M)
   - Code des assurances - art. A132-7 (VD)
 
 _Modifié par_:
 
-  - Arrêté du 14 août 2017 - art. 1
+  - Arrêté du 27 juin 2019 - art. 1
 
 _Cite_:
 
-  - Code des assurances - art. A344-2
+  - Code des assurances - art. A344-2 (M)
   - Code des assurances - art. L310-1
   - Code des assurances - art. L324-7
   - Code des assurances - art. R343-9
@@ -75453,16 +75536,20 @@ _Cité par_:
 Le montant des participations aux bénéfices peut être affecté directement aux provisions mathématiques ou porté,
 partiellement ou totalement, à la provision pour participation aux bénéfices mentionnée à l'article R. 343-3. Les sommes
 portées à cette dernière provision sont affectées à la provision mathématique ou versées aux souscripteurs au cours des huit
-exercices suivant celui au titre duquel elles ont été portées à la provision pour participation aux bénéfices.
+exercices suivant celui au titre duquel elles ont été portées à la provision pour participation aux bénéfices. 
 
 Dans le cas des fonds de retraite professionnelle supplémentaire, la durée maximale pour la reprise des sommes portées à la
-provision pour participation aux bénéfices est de quinze ans.
+provision pour participation aux bénéfices est de quinze ans. Le montant de la participation aux bénéfices évalué pour une
+comptabilité auxiliaire d'affectation prévue au premier alinéa de l'article L. 381-2 est attribué aux engagements de cette
+comptabilité dans un délai maximum de quinze ans. Le montant de la participation aux bénéfices évalué pour les engagements ne
+faisant pas l'objet d'une comptabilité auxiliaire d'affectation est affecté aux contrats représentatifs de ces engagements
+dans ce même délai.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 14 août 2017 - art. 1
+  - Arrêté du 27 juin 2019 - art. 1
 
 _Cité par_:
 
@@ -75471,6 +75558,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code des assurances - art. L381-2
   - Code des assurances - art. R343-3
 
 
@@ -75864,39 +75952,53 @@ _Cite_:
 
 ###### Article A143-2
 
-I. – En application de l'article L. 143-2-2, sont remis sur demande aux adhérents d'un contrat mentionné à l'article L.
-143-1, dans un délai qui ne peut excéder un mois :
+I.-En application de l'article L. 143-2-2, sont remis sur demande aux adhérents d'un contrat mentionné au premier alinéa de
+l'article L. 381-1 et garanti par un fonds de retraite professionnelle supplémentaire, dans un délai qui ne peut excéder un
+mois :
 
-– le rapport de gestion et les comptes annuels relatifs à la ou aux comptabilités auxiliaires d'affectation mentionnées aux
+- le rapport de gestion et les comptes annuels relatifs à la ou aux comptabilités auxiliaires d'affectation mentionnées aux
 articles L. 143-4 et L. 381-2 ;
 
-– les modalités d'exercice du transfert ;
+- le rapport indiquant la politique de placement et les risques techniques et financiers correspondants mentionné à l'article
+L. 143-2-2 ;
 
-– le montant dû en cas d'exercice de la faculté de rachat lorsque survient l'un des événements mentionnés à l'article L.
+- les modalités d'exercice du transfert ;
+
+- le montant dû en cas d'exercice de la faculté de rachat lorsque survient l'un des événements mentionnés à l'article L.
 132-23 ;
 
-– le niveau que les prestations de retraite doivent atteindre, le cas échéant.
+- pour les contrats dont les garanties sont exprimées en unités de compte et pour lesquels une option d'investissement est
+active, des informations supplémentaires sur cette option d'investissement et les supports correspondants ;
 
-II. – Les assurés reçoivent chaque année des informations succinctes sur la situation de l'entreprise d'assurance ou du fonds
-de retraite professionnelle supplémentaire.
+- une description des options à la disposition des affiliés pour obtenir le versement de leurs prestations ;
 
-III. – Lorsque le salarié fait liquider ses droits à la retraite ou que d'autres prestations deviennent exigibles,
-l'entreprise d'assurance ou du fonds de retraite professionnelle supplémentaire lui adresse, ou au bénéficiaire le cas
-échéant, dans un délai de deux mois, une information adéquate sur les prestations qui lui sont dues et sur les options de
-paiement correspondantes.
+- le niveau que les prestations de retraite doivent atteindre, le cas échéant, ainsi que des informations sur les hypothèses
+utilisées pour estimer les montants exprimés en rente viagère, en particulier le taux technique, le type de prestation et la
+durée moyenne de la rente selon la table utilisée. 
+
+Le relevé prévu à l'article L. 132-22 précise les modalités d'obtention des informations du présent I. 
+
+II.-Les assurés reçoivent chaque année, dans le cadre de l'information prévue à l'article L. 132-22, des informations
+succinctes sur la situation de l'entreprise d'assurance ou du fonds de retraite professionnelle supplémentaire ainsi que sur
+le niveau de financement du régime de retraite dans son ensemble. 
+
+III.-Lorsque le salarié fait liquider ses droits à la retraite ou que d'autres prestations deviennent exigibles, l'entreprise
+d'assurance ou le fonds de retraite professionnelle supplémentaire lui adresse, ou au bénéficiaire le cas échéant, dans un
+délai de deux mois, une information adéquate sur les prestations qui lui sont dues et sur les options de paiement
+correspondantes.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 14 août 2017 - art. 2
+  - Arrêté du 27 juin 2019 - art. 1
 
 _Cite_:
 
   - Code des assurances - art. L132-23
-  - Code des assurances - art. L143-1
   - Code des assurances - art. L143-2-2
   - Code des assurances - art. L143-4
+  - Code des assurances - art. L381-1
   - Code des assurances - art. L381-2
 
 
@@ -75916,6 +76018,69 @@ _Modifié par_:
 _Cite_:
 
   - Code des assurances - art. L143-1
+
+
+###### Article A143-3-4
+
+La notice mentionnée au premier alinéa de l'article L. 143-2-2 contient les informations suivantes : 
+
+1° Le nom, le pays d'origine et le nom de l'autorité en charge du contrôle du fonds de retraite professionnelle
+supplémentaire, de l'institution de retraite professionnelle ou de l'entreprise d'assurance garantissant le contrat ; 
+
+2° La dénomination sociale et les coordonnées du souscripteur ; 
+
+3° Les stipulations essentielles du contrat, notamment les garanties offertes aux affiliés et les modalités de conversion des
+droits en prestation de retraite ; 
+
+4° Les conditions dans lesquelles le contrat peut être modifié et les conséquences en cas de non-respect de ces conditions ; 
+
+5° Des informations sur le profil d'investissement ; 
+
+6° La nature des risques financiers pris par les affiliés et les bénéficiaires ; 
+
+7° Une description des garanties offertes par le contrat aux affiliés, sans omettre les limites des garanties offertes et les
+éléments non garantis ; 
+
+8° Le niveau des prestations ou, lorsqu'aucune garantie n'est prévue au titre du régime de retraite, une déclaration à cet
+effet ainsi que la méthode d'évaluation du montant des prestations avant leur versement ; 
+
+9° Les conditions dans lesquelles les affiliés participent aux bénéfices techniques et financiers ; 
+
+10° Les modalités de protection des droits accumulés et de modulation des prestations, le cas échéant ; 
+
+11° Lorsque les droits peuvent être exprimés en unités de compte ou que les affiliés disposent d'une capacité d'arbitrage
+entre des supports, les informations relatives aux performances passées des investissements liés au régime de retraite sur
+une période minimale de cinq ans, ou sur toute la période de fonctionnement du régime si elle est inférieure à cinq ans ; 
+
+12° La structure des coûts supportés par les affiliés et les bénéficiaires, pour les régimes qui ne prévoient pas un niveau
+donné de prestations ; 
+
+13° Les options à la disposition des affiliés et des bénéficiaires pour obtenir le versement de leurs prestations de
+retraite ; 
+
+14° Conformément au II de l'article D. 132-7, les conditions dans lesquelles l'affilié dispose d'une capacité de transférer
+ses droits à la retraite à un autre organisme ; 
+
+15° Des informations indiquant si et de quelle manière les facteurs environnementaux, climatiques, sociaux et de gouvernance
+d'entreprise sont pris en considération dans la stratégie d'investissement ; 
+
+16° La liste et le moyen d'accès à des informations complémentaires, notamment des informations sur les supports
+d'investissement et la situation financière de l'organisme garantissant le contrat. 
+
+Pour les contrats prévoyant que certains droits puissent être exprimés en unités de compte ou que des arbitrages puissent
+être réalisés vers ces supports, les affiliés sont informés de l'ensemble des supports disponibles et, le cas échéant, de
+l'option d'investissement par défaut et des conditions de rattachement d'un affilié donné à une option d'investissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 27 juin 2019 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. D132-7
+  - Code des assurances - art. L143-2-2
 
 
 #### Chapitre IV : Contrats de retraite supplémentaire associatifs<a id=641></a>
@@ -79869,12 +80034,13 @@ auxiliaire d'affectation et ne relevant pas du 15 ;
 
 13 Opérations relevant de l'article L. 134-1 mais ne relevant pas des articles L. 143-1 et L. 144-2 ;
 
-14. Opérations relevant de l'article L. 134-1 et opérations relevant de l'article L. 143-1 mais ne relevant pas du 12 ;
+14 Contrats de retraite professionnelle supplémentaire régis par l'article L. 134-1 et relevant de l'article L. 143-1 mais ne
+relevant pas du 12 ;
 
-15. Contrats de retraite professionnelle supplémentaire régis par l'article L. 143-1 ne relevant pas du 14 et dont les droits
-sont exprimés en unités de compte ;
+15 Contrats de retraite professionnelle supplémentaire régis par l'article L. 143-1 et dont les droits sont exprimés en
+unités de compte ;
 
-16. Contrats de retraite professionnelle supplémentaire régis par l'article L. 143-1 ne relevant pas des 12, 14 ou 15 ;
+16 Contrats de retraite professionnelle supplémentaire régis par l'article L. 143-1 ne relevant pas des 12, 14 ou 15 ;
 
 19 Acceptations en réassurance (vie) ;
 
@@ -79973,7 +80139,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 14 août 2017 - art. 3
+  - Arrêté du 27 juin 2019 - art. 2
 
 _Cite_:
 
@@ -80176,18 +80342,18 @@ _Cite_:
 ###### Article A370-1
 
 Les documents transmis par les autorités compétentes de l'Etat où l'institution visée à l'article L. 370-1 a son siège social
-ou son administration principale et mentionnés au premier alinéa de l'article L. 370-3 sont : 
+ou son administration principale et mentionnés au premier alinéa de l'article L. 370-3 sont :
 
-a) Le nom et les coordonnées de l'entreprise d'affiliation sur le territoire de la République française ; 
+a) Le nom et les coordonnées de l'organisme souscripteur sur le territoire de la République française ;
 
-b) Les principales caractéristiques du régime de retraite supplémentaire mentionné à l'article L. 143-1, en ce compris les
-garanties offertes et les modalités de versement des cotisations ; 
+b) Les principales caractéristiques du régime de retraite supplémentaire mentionné au premier alinéa de l'article L. 381-1,
+en ce compris les garanties offertes et les modalités de versement des cotisations ;
 
-c) La liste des Etats membres dans lesquels l'institution fournit des services de retraite professionnelle supplémentaire ; 
+c) La liste des Etats membres dans lesquels l'institution fournit des services de retraite professionnelle supplémentaire ;
 
-d) Le nom, les coordonnées et le statut légal de l'institution ; 
+d) Le nom, les coordonnées et le statut légal de l'institution ;
 
-e) La précision que les opérations concernées font ou non l'objet d'une comptabilité auxiliaire d'affectation. 
+e) La précision que les opérations concernées font ou non l'objet d'une comptabilité auxiliaire d'affectation.
 
 Ces documents sont transmis en langue française. L'Autorité de contrôle prudentiel et de résolution accuse réception de ces
 documents. Cet accusé fait courir le délai de deux mois mentionné au premier alinéa de l'article L. 370-3.
@@ -80196,13 +80362,12 @@ documents. Cet accusé fait courir le délai de deux mois mentionné au premier 
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Arrêté du 27 juin 2019 - art. 2
 
 _Cite_:
 
-  - Code des assurances - art. L143-1 (V)
-  - Code des assurances - art. L370-1 (V)
-  - Code des assurances - art. L370-3 (V)
+  - Code des assurances - art. L370-1
+  - Code des assurances - art. L370-3
 
 
 ###### Article A370-2
