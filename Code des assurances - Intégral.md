@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-08-12
+Version Consolidée au 2019-09-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -5837,7 +5837,7 @@ L'entreprise d'assurance ou de capitalisation communique chaque année au contra
 
 - le montant des capitaux garantis ;
 
-- la prime du contrat. 
+- la prime du contrat.
 
 Elle communique également chaque année au contractant dans des conditions précisées par arrêté du ministre chargé de
 l'économie :
@@ -5862,40 +5862,41 @@ chaque unité de compte, les frais supportés par l'actif en représentation de 
 dernier exercice connu et, le cas échéant, les rétrocessions de commission perçues au titre de la gestion financière des
 actifs représentatifs des engagements exprimés en unités de compte par l'entreprise d'assurance, par ses gestionnaires
 délégués, y compris sous la forme d'un organisme de placement collectif, ou par le dépositaire des actifs du contrat, ainsi
-que les modifications significatives affectant chaque unité de compte. 
+que les modifications significatives affectant chaque unité de compte.
 
 Pour les contrats dont les garanties sont exprimées en unités de compte ou pour les engagements mentionnés à l'article L.
 134-1, l'entreprise d'assurance met à disposition du contractant par tout support durable, à une fréquence au moins
 trimestrielle, les informations prévues aux deuxième et neuvième alinéas du présent article, ainsi que l'évolution de la
-valeur de rachat des engagements mentionnés à l'article L. 134-1. 
+valeur de rachat des engagements mentionnés à l'article L. 134-1.
 
-Ces montants ne peuvent tenir compte de participations bénéficiaires qui ne seraient pas attribuées à titre définitif. 
+Ces montants ne peuvent tenir compte de participations bénéficiaires qui ne seraient pas attribuées à titre définitif.
 
 L'entreprise d'assurance ou de capitalisation indique en termes précis et clairs dans cette communication annuelle ce que
 signifient les opérations de rachat, de transfert et de réduction et quelles sont leurs conséquences légales et
 contractuelles. Une fois par an, l'entreprise d'assurance est tenue de communiquer au contractant les informations concernant
-la possibilité et les conditions de transformation de son contrat. 
+la possibilité et les conditions de transformation de son contrat.
 
 Pour les contrats relevant du chapitre IV, l'entreprise d'assurance ou de capitalisation indique les modalités et conditions
-de rachat. 
+de rachat.
 
 Pour les contrats liés à la cessation d'activité professionnelle, l'entreprise d'assurance ou de capitalisation fournit, dans
-cette communication annuelle, une estimation du montant de la rente viagère qui serait versée à l'assuré à partir de ses
-droits personnels. Elle précise, le cas échéant, les conditions dans lesquelles l'assuré peut demander le transfert de son
-contrat auprès d'une autre entreprise d'assurance, d'une mutuelle ou d'une institution de prévoyance. Un arrêté précise les
-conditions d'application du présent alinéa. 
+cette communication annuelle, une estimation du montant probable de la rente viagère qui serait versée à l'assuré à partir de
+ses droits personnels. Cette estimation est également accompagnée d'évaluations réalisées dans un scénario moins favorable,
+en tenant compte des caractéristiques propres des engagements de retraite. Elle précise, le cas échéant, les conditions dans
+lesquelles l'assuré peut demander le transfert de son contrat auprès d'une autre entreprise d'assurance, d'une mutuelle ou
+d'une institution de prévoyance. Un arrêté précise les conditions d'application du présent alinéa.
 
 Pour les contrats comportant un terme, l'entreprise d'assurance ou de capitalisation adresse au contractant, un mois avant la
 date du terme, un relevé d'information spécifique. Ce relevé contient, outre les informations mentionnées aux alinéas
 précédents, le rappel en caractères très apparents de la date du terme du contrat, et, le cas échéant, de sa prorogation
-tacite, et du fait que la revalorisation cesse à compter de cette date, sauf stipulation contractuelle contraire. 
+tacite, et du fait que la revalorisation cesse à compter de cette date, sauf stipulation contractuelle contraire.
 
 Le relevé spécifique mentionné au quinzième alinéa est adressé à nouveau par l'entreprise d'assurance ou de capitalisation au
-contractant un an après le terme du contrat si le contractant ne s'est pas manifesté depuis le terme. 
+contractant un an après le terme du contrat si le contractant ne s'est pas manifesté depuis le terme.
 
-Le contrat fait référence à l'obligation d'information prévue aux alinéas précédents. 
+Le contrat fait référence à l'obligation d'information prévue aux alinéas précédents.
 
-L'entreprise d'assurance ou de capitalisation communique également au contractant la date d'échéance du contrat. 
+L'entreprise d'assurance ou de capitalisation communique également au contractant la date d'échéance du contrat.
 
 L'entreprise d'assurance publie annuellement sur son site internet le rendement garanti moyen et le taux moyen de la
 participation aux bénéfices attribué pour chacun de ses contrats d'assurance vie ou de capitalisation. Cette publication
@@ -5928,7 +5929,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 72 (V)
+  - Ordonnance n°2019-575 du 12 juin 2019 - art. 1
 
 _Cite_:
 
