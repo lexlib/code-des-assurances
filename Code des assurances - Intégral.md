@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-10-01
+Version Consolidée au 2019-10-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -19824,16 +19824,15 @@ I.-Les sociétés d'assurance mutuelles et les caisses d'assurance et de réassu
 participatifs et des titres subordonnés dans les conditions prévues par les articles L. 228-1, L. 228-5, L. 228-36 à L.
 228-90 et L. 228-97 du code de commerce, et sous les sanctions prévues par les articles L. 242-10 et L. 242-30 dudit code et,
 pour les obligations, par les articles L. 245-8 à L. 245-12 (1° à 5°) et L. 245-13 à L. 245-17 dudit code. L'émission peut
-être effectuée par offre au public et est alors soumise au contrôle de l'Autorité des marchés financiers dans les conditions
-prévues par le code monétaire et financier. 
+être effectuée par offre au public.
 
 Pour l'application de la loi n° 66-537 du 24 juillet 1966, le mot " actionnaires " désigne les " sociétaires ". Les sanctions
 relatives aux conseil d'administration, directoire ou gérant de société prévues par les dispositions mentionnées à l'alinéa
 précédent s'appliquent aux personnes ou organes qui sont chargés de l'administration ou de la gestion conformément aux
-statuts. 
+statuts.
 
 Préalablement à l'émission d'obligations, de titres participatifs ou de titres subordonnés, toute société ou caisse concernée
-doit être inscrite au registre du commerce et des sociétés. 
+doit être inscrite au registre du commerce et des sociétés.
 
 II.-Nonobstant l'article L. 228-41 du code précité, l'assemblée générale des sociétaires est seule habilitée à fixer les
 caractéristiques essentielles de l'émission d'obligations, de titres participatifs ou de titres subordonnés. Elle peut
@@ -19842,10 +19841,10 @@ arrêter les modalités pratiques. Il est rendu compte par le conseil d'administ
 assemblée générale de l'exercice de cette délégation. Les contrats d'émission ne peuvent en aucun cas avoir pour but de
 privilégier une catégorie de sociétaires, des personnes qui sont liées à la société par un contrat de travail, des dirigeants
 de droit ou de fait de celle-ci ou toute autre personne. Les contrats conclus en violation de cette disposition sont frappés
-de nullité absolue. 
+de nullité absolue.
 
 III.-En ce qui concerne la rémunération des titres participatifs, la partie variable ne peut être calculée par référence à un
-critère représentatif du volume d'activité de la société émettrice. 
+critère représentatif du volume d'activité de la société émettrice.
 
 IV.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment le contrôle exercé par
 l'Autorité de contrôle prudentiel et de résolution sur ces émissions.
@@ -19855,15 +19854,15 @@ l'Autorité de contrôle prudentiel et de résolution sur ces émissions.
 _Cite_:
 
   - Loi n°66-537 du 24 juillet 1966
-  - Code de commerce - art. L228-1 (V)
-  - Code de commerce - art. L228-36 (V)
+  - Code de commerce - art. L228-1
+  - Code de commerce - art. L228-36
   - Code de commerce - art. L228-41
-  - Code de commerce - art. L228-5 (V)
-  - Code de commerce - art. L228-97 (V)
+  - Code de commerce - art. L228-5
+  - Code de commerce - art. L228-97
   - Code de commerce - art. L242-10
   - Code de commerce - art. L242-30
-  - Code de commerce - art. L245-13 (V)
-  - Code de commerce - art. L245-8 (Ab)
+  - Code de commerce - art. L245-13
+  - Code de commerce - art. L245-8
   - Code monétaire et financier
 
 _Cité par_:
@@ -19880,7 +19879,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Ordonnance n°2019-1067 du 21 octobre 2019 - art. 17
 
 _Nouveaux textes_:
 
