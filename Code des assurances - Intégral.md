@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-10-23
+Version Consolidée au 2019-10-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -46499,37 +46499,43 @@ _Cite_:
 ###### Article R322-106-6
 
 Le projet de fusion est déposé au greffe du tribunal de grande instance du siège social de chacune des sociétés
-participantes.
+participantes. 
 
-Le projet de fusion fait l'objet d'un avis,  inséré par chacune des sociétés participant à l'opération, dans un  journal
-habilité à recevoir des annonces légales du département du siège  social. Au cas où l'une au moins de ces sociétés fait une
-offre au  public de titres financiers, l'avis est en outre inséré au Bulletin des  annonces légales obligatoires.
+Le projet de fusion fait l'objet d'un avis, inséré par chacune des sociétés participant à l'opération, dans un journal
+habilité à recevoir des annonces légales du département du siège social. Au cas où l'une au moins de ces sociétés fait une
+offre au public de titres financiers, autre que celles mentionnées au 1° ou au 2° de l'article L. 411-2 du code monétaire et
+financier ou à l'article L. 411-2-1 du même code, l'avis est en outre inséré au Bulletin des annonces légales obligatoires. 
 
-Cet avis contient les indications suivantes :
+Cet avis contient les indications suivantes : 
 
-1° La dénomination sociale suivie, le cas  échéant, de son sigle, la forme, l'adresse du siège, le numéro unique
-d'identification de l'entreprise attribué lors de l'inscription au  répertoire des entreprises et, le cas échéant, la mention
-RCS suivie du  nom de la commune où se trouve le greffe où elle est immatriculée, pour  chacune des sociétés participant à
-l'opération ;
+1° La dénomination sociale suivie, le cas échéant, de son sigle, la forme, l'adresse du siège, le numéro unique
+d'identification de l'entreprise attribué lors de l'inscription au répertoire des entreprises et, le cas échéant, la mention
+RCS suivie du nom de la commune où se trouve le greffe où elle est immatriculée, pour chacune des sociétés participant à
+l'opération ; 
 
-2° La dénomination sociale suivie, le cas  échéant, de son sigle, la forme, l'adresse du siège de la société  nouvelle qui
-résulte de l'opération de fusion ;
+2° La dénomination sociale suivie, le cas échéant, de son sigle, la forme, l'adresse du siège de la société nouvelle qui
+résulte de l'opération de fusion ; 
 
-3° L'évaluation de l'actif et du passif dont la transmission à la société absorbante ou nouvelle est prévue ;
+3° L'évaluation de l'actif et du passif dont la transmission à la société absorbante ou nouvelle est prévue ; 
 
-4° La date d'effet du projet ainsi que les date et lieu du dépôt prescrit par le premier alinéa du présent article ;
+4° La date d'effet du projet ainsi que les date et lieu du dépôt prescrit par le premier alinéa du présent article ; 
 
-5° La mention selon laquelle, par l'effet de la  fusion, les sociétaires de la ou des sociétés d'assurance mutuelles
-absorbées ou fusionnées deviendront sociétaires de la société absorbante  ou nouvelle.
+5° La mention selon laquelle, par l'effet de la fusion, les sociétaires de la ou des sociétés d'assurance mutuelles absorbées
+ou fusionnées deviendront sociétaires de la société absorbante ou nouvelle. 
 
-Le dépôt au greffe et la publicité prévus au  présent article ont lieu un mois au moins avant la date de la première
-assemblée générale appelée à statuer sur l'opération.
+Le dépôt au greffe et la publicité prévus au présent article ont lieu un mois au moins avant la date de la première assemblée
+générale appelée à statuer sur l'opération.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-12 du 8 janvier 2014 - art. 1
+  - Décret n°2019-1097 du 28 octobre 2019 - art. 14
+
+_Cite_:
+
+  - Code monétaire et financier - art. L411-2
+  - Code monétaire et financier - art. L411-2-1
 
 _Cité par_:
 
