@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-10-31
+Version Consolidée au 2019-11-10
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -210,7 +210,7 @@ relative à une opération spatiale (art. L176-1 à L176-5)](#64)
           - [Section 3 : Investissements (art. L385-4)](#206)
           - [Section 4 : Système de gouvernance (art. L385-5)](#207)
           - [Section 5 : Informations à fournir à l'Autorité de contrôle prudentiel et de résolution (art. L385-6)](#208)
-          - [Section 6 : Informations à fournir au public (art. L385-7 à L385-7-1)](#209)
+          - [Section 6 : Informations à fournir au public (art. L385-7 à L385-7-2)](#209)
           - [Section 7 : Mesures de sauvegarde (art. L385-8)](#210)
           - [Section 8 : Dispositions applicables aux fonds de retraite professionnelle supplémentaire appartenant à un groupe d'assurance et à un conglomérat financier (art. L385-9)](#211)
           - [Section 9 : Financement (art. L385-10)](#212)
@@ -15249,6 +15249,26 @@ _Cité par_:
   - Code des assurances - art. L385-7-1 (V)
 
 
+###### Article L310-1-1-3
+
+Les entreprises mentionnées au 1° de l'article L. 310-1 et au 1° du III de l'article L. 310-1-1 qui réassurent des
+engagements mentionnés au 1° de l'article L. 310-1 sont soumises aux dispositions de l'article L. 533-22-1 du code monétaire
+et financier.
+
+**Nota:**
+
+Conformément au V de l'article 29 de la loi n° 2019-1147 du 8 novembre 2019, les présentes dispositions entrent en vigueur à
+compter de la date d'application de l'article 3 du règlement du Parlement européen et du Conseil sur la publication
+d'informations relatives aux investissements durables et aux risques en matière de durabilité et modifiant la directive (UE)
+2016/2341.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 29 (V)
+
+
 ###### Article L310-1-2
 
 I.-Un "véhicule de titrisation" est une entité juridique, dotée ou non de la personnalité morale, autre qu'un organisme
@@ -27245,6 +27265,24 @@ _Cite_:
   - Code monétaire et financier - art. L532-9 (V)
   - Code monétaire et financier - art. L533-22 (V)
   - Code des assurances - art. L310-1-1-2 (V)
+
+
+###### Article L385-7-2
+
+L'article L. 533-22-1 du code monétaire et financier est applicable aux fonds de retraite professionnelle supplémentaire.
+
+**Nota:**
+
+Conformément au V de l'article 29 de la loi n° 2019-1147 du 8 novembre 2019, les présentes dispositions entrent en vigueur à
+compter de la date d'application de l'article 3 du règlement du Parlement européen et du Conseil sur la publication
+d'informations relatives aux investissements durables et aux risques en matière de durabilité et modifiant la directive (UE)
+2016/2341.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 29 (V)
 
 
 ##### Section 7 : Mesures de sauvegarde<a id=210></a>
