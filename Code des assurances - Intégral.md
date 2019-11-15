@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-11-10
+Version Consolidée au 2019-11-16
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -311,8 +311,8 @@ relative à une opération spatiale (art. L176-1 à L176-5)](#64)
           - [Section II : Dommages matériels (art. R126-2)](#307)
         - [Chapitre VII : L'assurance de protection juridique. (art. R127-1)](#308)
         - [Chapitre VIII : L'assurance des risques de catastrophes technologiques. (art. R128-1 à R128-4)](#309)
-      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. R131-1 à R134-14)](#310)
-        - [Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte. (art. R131-1 à R131-11)](#311)
+      - [Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation (art. D131-1-3 à R134-14)](#310)
+        - [Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte. (art. D131-1-3 à R131-11)](#311)
         - [Chapitre II : Les assurances sur la vie et les opérations de capitalisation (art. R132-2 à D132-10)](#312)
           - [Section I : Dispositions générales. (art. R132-2 à R132-5-7)](#313)
           - [Section V : Transfert des contrats liés à la cessation d'activité professionnelle (art. D132-6 à D132-10)](#314)
@@ -34083,6 +34083,36 @@ _Créé par_:
 
 #### Chapitre Ier : Contrats d'assurance sur la vie ou de capitalisation se référant à des unités de compte.<a id=311></a>
 
+###### Article D131-1-3
+
+Afin de sélectionner une unité de compte mentionnée à l'article R. 131-1-1 en application du 1° de l'article R. 131-1-2, le
+souscripteur ou l'adhérent suit la procédure ci-après :
+
+1° Le souscripteur ou l'adhérent notifie sur support papier ou tout autre support durable à l'intermédiaire ou l'entreprise
+d'assurance ou de capitalisation son souhait d'être traité comme un client possédant l'expérience, les connaissances et la
+compétence nécessaires pour comprendre les risques qu'il encourt en sélectionnant des unités de compte composées de fonds
+d'investissement alternatifs ouverts à des professionnels et prendre ses propres décisions d'investissement, soit à tout
+moment, soit pour un arbitrage déterminé ;
+
+2° L'entreprise ou l'intermédiaire d'assurance précise à l'intéressé, clairement et sur support papier ou tout autre support
+durable, les risques liés à la sélection d'unités de compte mentionnées à l'article R. 131-1-1 ;
+
+3° Le souscripteur ou l'adhérent déclare sur support papier ou tout autre support durable, dans un document distinct du
+contrat, qu'il est conscient des conséquences de sa décision de sélectionner des unités de compte mentionnées à l'article R.
+131-1-1.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-1172 du 14 novembre 2019 : L'article D. 131-1-3 créé par le 2° de l'article 1er
+peut être modifié par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1172 du 14 novembre 2019 - art. 1
+
+
 ###### Article R131-1
 
 I.-Les unités de comptes visées à l'article L. 131-1 sont :
@@ -34091,10 +34121,11 @@ I.-Les unités de comptes visées à l'article L. 131-1 sont :
 
 2° Dans les conditions fixées aux articles R. 131-2 à R. 131-4, les parts ou actions visées au 9° bis de l'article R. 332-2 ;
 
-3° Les parts visées au 7° de l'article R. 332-2 et les actions de sociétés commerciales mentionnées au 6° de l'article R.
-332-2 ;
+3° Les parts visées au 7° de l'article R. 332-2 et les actions de sociétés commerciales qui satisfont aux conditions prévues
+à l'article 1-1 de la loi n° 85-695 du 11 juillet 1985 ;
 
-4° Les parts ou actions mentionnées au 7° ter de l'article R. 332-2 ;
+4° Les actions de sociétés commerciales mentionnées au 6° de l'article R. 332-2 à l'exclusion de celles mentionnées au 3° du
+I du présent article ;
 
 5° Les parts ou actions mentionnées au 7° quater de l'article R. 332-2 ;
 
@@ -34109,11 +34140,11 @@ financier, uniquement dans le cadre des plans d'épargne retraite d'entreprise m
 
 II.-La structure des engagements du contrat respecte les règles suivantes :
 
-1° L'encours des engagements exprimés en unités de compte relevant du 3° et du 4° du I ne dépasse pas 10 % de l'ensemble de
-l'encours du contrat ;
+1° L'encours des engagements exprimés en unités de compte relevant du 4° du I ne dépasse pas 10 % de l'ensemble de l'encours
+du contrat ;
 
-2° L'encours des engagements exprimés en unités de compte relevant du 3°, du 4° et du 5° du I ne dépasse pas 30 % de
-l'ensemble de l'encours du contrat ;
+2° L'encours des engagements exprimés en unités de compte relevant du 4° et du 5° du I ne dépasse pas 30 % de l'ensemble de
+l'encours du contrat ;
 
 3° Pour les contrats relevant du I bis de l'article 990-I du code général des impôts, les plafonds définis au 1° et au 2°
 sont portés à 33 % ;
@@ -34136,8 +34167,11 @@ compte de même nature lui est substituée, par un avenant au contrat.
 
 **Nota:**
 
-Conformément aux dispositions du IV de l'article 9 du décret n° 2019-807 du 30 juillet 2019, ces dispositions entrent en
-vigueur le 1er octobre 2019.
+Conformément à l'article 2 du décret n° 2019-1172 du 14 novembre 2019 : Les contrats conclus avant l'entrée en vigueur du
+présent décret et proposant des unités de compte constituées de parts ou d'actions mentionnées au 7° ter de l'article R.
+332-2 du code des assurances, ainsi que les nouvelles adhésions à ces contrats, peuvent exprimer le capital ou la rente
+garantis en unités de compte constituées de ces actifs dans le respect des conditions prévues à l'article R. 131-1 du code
+des assurances dans sa rédaction antérieure au présent décret.
 
 **Liens relatifs à cet article**
 
@@ -34156,7 +34190,7 @@ _Cité par_:
   - Code de la mutualité - art. R223-1 (VD)
   - Code des assurances - art. R131-2 (V)
   - Code des assurances - art. R131-3 (V)
-  - Code des assurances - art. R131-4 (M)
+  - Code des assurances - art. R131-4 (V)
   - Code des assurances - art. R131-5 (V)
   - Code des assurances - art. R131-6 (V)
   - Code des assurances - art. R134-14 (Ab)
@@ -34167,13 +34201,106 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-807 du 30 juillet 2019 - art. 1
+  - Décret n°2019-1172 du 14 novembre 2019 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 990 I
   - Code des assurances - art. L131-1
   - Code des assurances - art. R332-2
+
+
+###### Article R131-1-1
+
+Les unités de compte définies à l'article L. 131-1-1 sont :
+
+1° Les parts ou actions de fonds professionnels à vocation générale mentionnés à l'article L. 214-144 du code monétaire et
+financier ;
+
+2° Les parts ou actions de fonds professionnels de capital investissement mentionnés à l'article L. 214-159 du code monétaire
+et financier ;
+
+3° Les parts ou actions de fonds professionnels spécialisés mentionnés à l'article L. 214-154 du code monétaire et financier,
+à condition que ceux-ci respectent, directement ou indirectement :
+
+a) Le quota prévu au I de l'article L. 214-28 du même code. Les avances en compte courant mentionnées au dernier alinéa de
+l'article L. 214-154 du même code sont prises en compte pour le calcul dudit quota lorsqu'elles sont consenties à des
+sociétés remplissant les conditions pour être retenues dans ce quota ;
+
+b) Les limites fixées au troisième alinéa du II de l'article L. 214-160 relatives aux actifs numériques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1172 du 14 novembre 2019 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-144
+  - Code monétaire et financier - art. L214-154
+  - Code monétaire et financier - art. L214-159
+
+
+###### Article R131-1-2
+
+La sélection des unités de compte mentionnées à l'article R. 131-1-1 est réservée :
+
+1° Soit aux souscripteurs ou adhérents considérés, après évaluation, comme possédant l'expérience, les connaissances et la
+compétence nécessaires pour prendre leurs propres décisions d'investissement et évaluer correctement les risques encourus ;
+
+2° Soit aux souscripteurs ou adhérents qui affectent à l'acquisition de droits exprimés en ces unités de compte une prime
+supérieure ou égale à 100 000 euros ;
+
+3° Soit, lorsque les parts ou actions des fonds visés aux 1° à 3° de l'article R. 131-1-1 ont reçu l'autorisation d'utiliser
+la dénomination “ ELTIF ” en application du règlement (UE) n° 2015/760 du Parlement européen et du Conseil du 29 avril 2015
+relatif aux fonds européens d'investissement à long terme, aux souscripteurs ou adhérents qui affectent à l'acquisition de
+droits exprimés en ces unités de compte une prime supérieure ou égale à 10 000 euros.
+
+L'encours des engagements exprimés en unités de compte sélectionnées en application du 1°, 2° ou 3° ne dépasse pas 50 % de
+l'encours du contrat. L'encours des engagements exprimés en unités de compte sélectionnées en application du 3° par des
+souscripteurs ou adhérents autres que ceux mentionnés au 1° et au 2° ne dépasse pas 10 % de l'ensemble de l'encours du
+contrat.
+
+Ces plafonds sont appréciés lors du versement d'une prime ou de la réalisation d'un arbitrage. Si, en dehors de ces
+opérations, l'un de ces plafonds est dépassé, le contrat est réputé respecter ces derniers. Par dérogation, une opération
+ayant pour conséquence de réduire l'écart au plafond lorsque celui-ci est dépassé est autorisée.
+
+Le contrat doit prévoir les modalités selon lesquelles, en cas de disparition d'une unité de compte, une autre unité de
+compte de même nature lui est substituée, par un avenant au contrat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1172 du 14 novembre 2019 - art. 1
+
+
+###### Article R131-1-4
+
+Préalablement à la sélection d'unités de compte par le souscripteur ou l'adhérent en application du 1° de l'article R.
+131-1-2, l'entreprise ou intermédiaire d'assurance procède à une évaluation adéquate de sa compétence, de son expérience et
+de ses connaissances, de nature à lui procurer l'assurance raisonnable que le souscripteur ou l'adhérent est en mesure de
+prendre ses décisions d'investissement et de comprendre les risques qu'il encourt en sélectionnant des unités de compte
+composées de fonds d'investissement alternatifs ouverts à des professionnels.
+
+Dans le cadre de cette évaluation, au moins deux des critères suivants sont réunis :
+
+1° La détention d'un portefeuille d'instruments financiers défini comme comprenant les dépôts bancaires et les instruments
+financiers d'une valeur supérieure à 500 000 euros ;
+
+2° La réalisation d'opérations, chacune d'une taille significative telle que déterminée par le règlement général de
+l'Autorité des marchés financiers, sur des instruments financiers, à raison d'au moins dix par trimestre en moyenne sur les
+quatre trimestres précédents ;
+
+3° L'occupation pendant au moins un an, dans le secteur financier, d'une position professionnelle exigeant une connaissance
+de l'investissement en instruments financiers.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1172 du 14 novembre 2019 - art. 1
 
 
 ###### Article R131-2
@@ -34269,15 +34396,15 @@ _Cite_:
 En cours de contrat, l'assureur peut effectuer pour les contrats l'ayant prévu la substitution d'une unité de compte visée au
 2° de l'article R. 131-1 au profit d'unités de compte de nature comparable si l'unité de compte initiale ne remplit plus les
 conditions définies au 2° de l'article R. 131-3 ou si l'assureur qui en fait la demande y est autorisé par l'Autorité de
-contrôle prudentiel et de résolution. 
+contrôle prudentiel et de résolution.
 
-Les modalités d'application du présent article sont définies par arrêté du ministre de l'économie et des finances.
+Les modalités d'application du présent article sont définies par arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+  - Décret n°2019-1172 du 14 novembre 2019 - art. 1
 
 _Cité par_:
 
@@ -34286,7 +34413,7 @@ _Cité par_:
 _Cite_:
 
   - Code des assurances - art. R131-1 (V)
-  - Code des assurances - art. R131-3 (V)
+  - Code des assurances - art. R131-3
 
 
 ###### Article R131-5
