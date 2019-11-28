@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-11-16
+Version Consolidée au 2019-11-29
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -365,10 +365,10 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#327)
       - [Titre IV : L'assurance des travaux de bâtiment. (art. R243-1 à R243-3)](#360)
       - [Titre V : Dispositions relatives au Bureau central de tarification. (art. R250-1 à R250-6)](#361)
       - [Titre V bis : L'assurance de la responsabilité civile médicale. (art. R251-1)](#362)
-    - [Livre III : Les entreprises (art. R310-5 à R391-1)](#363)
-      - [Titre Ier : Dispositions générales et contrôle de l'Etat (art. R310-5 à R311-26)](#364)
-        - [Chapitre Ier : Dispositions générales. (art. R310-5 à R310-10-3)](#365)
-          - [Section I : Dispositions générales applicables aux entreprises d'assurance. (art. R310-5 à R310-10-1)](#366)
+    - [Livre III : Les entreprises (art. R310-4 à R391-1)](#363)
+      - [Titre Ier : Dispositions générales et contrôle de l'Etat (art. R310-4 à R311-26)](#364)
+        - [Chapitre Ier : Dispositions générales. (art. R310-4 à R310-10-3)](#365)
+          - [Section I : Dispositions générales applicables aux entreprises d'assurance. (art. R310-4 à R310-10-1)](#366)
           - [Section II : Dispositions générales applicables aux entreprises de réassurance. (art. R310-10-3)](#367)
         - [Chapitre II : Autorité de contrôle prudentiel et de résolution (art. R310-11 à R310-23)](#368)
           - [Section I : Dispositions générales (art. R310-11)](#369)
@@ -40665,6 +40665,53 @@ _Cite_:
 
 ##### Section I : Dispositions générales applicables aux entreprises d'assurance.<a id=366></a>
 
+###### Article R310-4
+
+I.-Les informations relatives au contrat de mandat de gestion de portefeuille ou au contrat de souscription à un placement
+collectif mentionnées au II de l'article L. 310-1-1-2 sont les suivantes :
+
+1° La manière dont ce contrat incite la société de gestion de portefeuille ou l'entreprise d'investissement à aligner sa
+stratégie et ses décisions d'investissement sur le profil et la durée des passifs de l'entreprise cocontractante, notamment
+de ses passifs de long terme ;
+
+2° La manière dont ce contrat incite la société de gestion de portefeuille ou l'entreprise d'investissement à prendre des
+décisions d'investissement fondées sur des évaluations des performances à moyen et à long terme, financières et non
+financières, des sociétés dont des titres de capital sont détenus et à s'impliquer, en tant qu'actionnaire, à l'égard de ces
+sociétés afin d'améliorer leurs performances à moyen et à long terme ;
+
+3° La manière dont la méthode et l'horizon temporel de l'évaluation des performances de la société de gestion de portefeuille
+ou de l'entreprise d'investissement et la rémunération des services de gestion d'actifs sont en adéquation avec le profil et
+la durée des passifs de l'entreprise cocontractante, notamment de ses passifs de long terme, et tiennent compte des
+performances absolues de long terme ;
+
+4° La manière dont l'entreprise cocontractante contrôle les coûts de rotation du portefeuille de la société de gestion de
+portefeuille ou de l'entreprise d'investissement et la manière dont elle définit et contrôle la rotation ou le taux de
+rotation d'un portefeuille cible ;
+
+5° La durée du contrat ;
+
+Lorsque le contrat avec la société de gestion de portefeuille ou l'entreprise d'investissement ne contient pas un ou
+plusieurs de ces éléments, l'entreprise cocontractante en précise les motifs.
+
+II.-Les informations visées au premier alinéa du II de l'article L. 310-1-1-2 et celles visées au I du présent article sont
+mises à disposition gratuitement sur le site internet de l'entreprise à laquelle l'article L. 310-1-1-2 est applicable et
+sont mises à jour sur une base annuelle ou à la suite d'une modification substantielle. Les entreprises d'assurance et de
+réassurance publiant un rapport sur leur solvabilité et leur situation financière dans les conditions prévues à l'article L.
+355-5, peuvent en outre y faire figurer ces informations.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-1235 du 27 novembre 2019, les personnes soumises à une obligation de
+communication ou de publication d'informations en application des articles 4, 5 et 6 communiquent ou publient ces
+informations au plus tard trois mois après la publication du présent décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1235 du 27 novembre 2019 - art. 5
+
+
 ###### Article R310-5
 
 Les titres de toute nature, les prospectus, les affiches, les circulaires, les plaques, les imprimés et tous les autres
@@ -63459,15 +63506,19 @@ _Cite_:
 
 Le présent livre dans sa rédaction issue du décret n° 2010-217 du 3 mars 2010 est applicable dans les îles Wallis et Futuna,
 à l'exception de la section 2 du chapitre III, du titre II, des articles R. 324-4 et R. 334-48, de la section 10 du chapitre
-IV et des titres V, VI et VII. 
+IV et des titres V, VI et VII.
+
+“ L'article R. 310-4 est applicable dans sa rédaction issue du décret n° 2019-1235 du 27 novembre 2019 portant transposition
+des dispositions réglementaires de la directive (UE) 2017/828 du 17 mai 2017 modifiant la directive 2007/36/ CE en vue de
+promouvoir l'engagement à long terme des actionnaires ”
 
 Les articles R. 322-11-1, R. 322-11-2, R. 332-14-2, R. 334-3 et R. 334-11 y sont applicables dans leur rédaction issue du
-décret n° 2017-1253 du 9 août 2017. 
+décret n° 2017-1253 du 9 août 2017.
 
 Les articles R. 323-10, R. 324-5, R. 332-13, 
 R. 334-17, R. 334-26, R. 334-28, R. 334-41, R. 334-43 et R. 336-1 y sont applicables dans leur rédaction issue du décret n°
 2014-1315 du 3 novembre 2014 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière financière
-et relatif aux sociétés de financement ; 
+et relatif aux sociétés de financement ;
 
 Les articles R. 322-11-6, R. 322-53, R. 322-55-2 y sont applicables dans leur rédaction issue du décret n° 2014-1357 du 13
 novembre 2014 relatif au contrôle de l'honorabilité et de la compétence des dirigeants et des membres des organes collégiaux
@@ -63477,8 +63528,9 @@ mixtes et les entreprises mères de société de financement
 
 **Nota:**
 
-Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3
-janvier 2018.
+Conformément à l’article 9 du décret n° 2019-1235 du 27 novembre 2019, les personnes soumises à une obligation de
+communication ou de publication d'informations en application des articles 4, 5 et 6 communiquent ou publient ces
+informations au plus tard trois mois après la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -63505,7 +63557,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1253 du 9 août 2017 - art. 18
+  - Décret n°2019-1235 du 27 novembre 2019 - art. 5
 
 
 ## Livre IV : Organisations et régimes particuliers d'assurance<a id=551></a>
