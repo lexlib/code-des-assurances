@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-12-29
+Version Consolidée au 2019-12-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -30310,10 +30310,19 @@ Le ministre chargé de l'économie est également autorisé, dans les mêmes con
 opérations de gestion des opérations et garanties de couverture du risque monétaire de l'organisme mentionné au premier
 alinéa de l'article L. 432-2 du présent code.
 
-**Nota:**
+La garantie de l'Etat prévue au présent article ne peut être accordée pour des opérations ayant pour objet la recherche,
+l'exploitation et la production de charbon ainsi que la production d'énergie à partir de charbon, sans préjudice des
+opérations ayant pour effet de réduire l'impact environnemental négatif d'installations de production d'énergie existantes
+sans augmenter la durée de vie ou la capacité de production.
 
-Loi n° 2015-1786 du 29 décembre 2015, article 103 VI : le présent article entre en vigueur à une date fixée par décret, et au
-plus tard le 31 décembre 2016.
+La garantie de l'Etat prévue au présent article ne peut être accordée pour couvrir des prêts octroyés à des acheteurs
+étrangers en vue d'exporter des biens et services dans le cadre des opérations ayant pour objet la recherche, l'exploitation
+et la production d'hydrocarbures liquides ou gazeux par fracturation hydraulique ou par toute autre méthode non
+conventionnelle, telles que définies à l'article L. 111-13 du code minier.
+
+La garantie de l'Etat prévue au présent article ne peut être accordée pour couvrir des prêts octroyés à des acheteurs
+étrangers en vue d'exporter des biens et services dans le cadre des projets de production d'hydrocarbures liquides prévoyant
+un torchage de routine du gaz émis lors de l'exploitation du gisement.
 
 **Liens relatifs à cet article**
 
@@ -30325,7 +30334,7 @@ _Anciens textes_:
 _Cité par_:
 
   - Décret n°2016-1701 du 12 décembre 2016 (V)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 47 (M)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 47 (V)
   - Arrêté du 16 février 2017 - art. 2 (V)
   - Arrêté du 13 février 2018 - art. 6 (VT)
   - Décret n°2018-1162 du 17 décembre 2018 (V)
@@ -30335,10 +30344,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 84
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 201 (V)
 
 _Cite_:
 
+  - Code de commerce - art. L233-3
   - Code monétaire et financier - art. L214-1
 
 
@@ -30598,19 +30608,21 @@ _Cité par_:
 ###### Article L432-4-2
 
 A l'occasion de la présentation du projet de loi de finances de l'année, le Gouvernement transmet aux commissions permanentes
-chargées des finances de l'Assemblée nationale et du Sénat un rapport sur les opérations effectuées pour le compte de l'Etat
-par l'organisme mentionné au premier alinéa de l'article L. 432-2.
+chargées des finances de l'Assemblée nationale et du Sénat un rapport sur l'état de l'ensemble des garanties octroyées dans
+le domaine de l'énergie et les opérations effectuées pour le compte de l'Etat par l'organisme mentionné au premier alinéa de
+l'article L. 432-2.
 
-**Nota:**
-
-Loi n° 2015-1786 du 29 décembre 2015, article 103 VI : le présent article entre en vigueur à une date fixée par décret, et au
-plus tard le 31 décembre 2016.
+Ce rapport comprend la liste détaillée des opérations ayant bénéficié de la garantie de l'Etat dans le domaine de l'énergie,
+réparties par type d'opérations mentionnées au même article L. 432-2 et par type de ressources. Il précise les volumes
+financiers engagés et la durée des garanties octroyées, les entreprises directement ou indirectement bénéficiaires, les pays
+dans lesquels ont lieu les opérations et leurs principaux impacts sociaux et environnementaux ainsi que, le cas échéant, les
+mesures visant à réduire au minimum, à atténuer ou à corriger ces impacts.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 103 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 201 (V)
 
 
 ###### Article L432-5
