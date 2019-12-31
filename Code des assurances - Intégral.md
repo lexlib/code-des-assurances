@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-11-16
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -4037,10 +4037,10 @@ _Cité par_:
 
 Le contrat stipule qu'en cas de désaccord entre l'assureur et l'assuré au sujet de mesures à prendre pour régler un
 différend, cette difficulté peut être soumise à l'appréciation d'une tierce personne désignée d'un commun accord par les
-parties ou, à défaut, par le président du tribunal de grande instance statuant en la forme des référés. Les frais exposés
-pour la mise en oeuvre de cette faculté sont à la charge de l'assureur. Toutefois, le président du tribunal de grande
-instance, statuant en la forme des référés, peut en décider autrement lorsque l'assuré a mis en oeuvre cette faculté dans des
-conditions abusives.
+parties ou, à défaut, par le président du tribunal judiciaire statuant selon la procédure accélérée au fond. Les frais
+exposés pour la mise en oeuvre de cette faculté sont à la charge de l'assureur. Toutefois, le président du tribunal
+judiciaire statuant selon la procédure accélérée au fond peut en décider autrement lorsque l'assuré a mis en oeuvre cette
+faculté dans des conditions abusives.
 
 Si l'assuré a engagé à ses frais une procédure contentieuse et obtient une solution plus favorable que celle qui lui avait
 été proposée par l'assureur ou par la tierce personne mentionnée à l'alinéa précédent, l'assureur l'indemnise des frais
@@ -4050,19 +4050,20 @@ Lorsque la procédure visée au premier alinéa de cet article est mise en oeuvr
 pour toutes les instances juridictionnelles qui sont couvertes par la garantie d'assurance et que l'assuré est susceptible
 d'engager en demande, jusqu'à ce que la tierce personne chargée de proposer une solution en ait fait connaître la teneur.
 
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°88-260 1988-03-18
+  - Décret n°88-260 du 18 mars 1988
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-_Créé par_:
-
-  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 1
 
 _Cité par_:
 
@@ -6415,22 +6416,27 @@ des crédirentiers, ces derniers ne peuvent traiter avec l'assureur qu'après y 
 chambre du conseil sur simple requête. 
 
 L'estimation de la valeur actuelle, en pleine propriété, des immeubles cédés, est expressément stipulée aux contrats de
-rentes viagères et garantie sincère et véritable par un expert désigné par le tribunal de grande instance du ressort desdits
+rentes viagères et garantie sincère et véritable par un expert désigné par le   tribunal judiciaire du ressort desdits
 immeubles. L'attestation de l'expert, suivie de sa signature, figure aux contrats.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code civil - art. 2374 (V)
+  - Code civil - art. 2374
 
 _Cité par_:
 
@@ -6439,10 +6445,6 @@ _Cité par_:
   - Code des assurances - art. L193-1 (V)
   - Code des assurances - art. L194-1 (VD)
   - Code des assurances - art. L441-2 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des assurances L132-31 *causes de nullité*
 
 _Anciens textes_:
 
@@ -11980,28 +11982,36 @@ _Cite_:
 Les titres Ier, II et III du présent livre, à l'exception des articles L. 112-7, L. 112-8, L. 112-10, L. 113-15-2, L. 122-7,
 L. 125-1 à L. 125-6, L. 132-30 et L. 132-31, sont applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur
 antérieurement à la promulgation de la loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et
-financier. 
+financier.
 
 Les articles L. 112-10 et L. 113-15-2 sont applicables dans les îles Wallis et Futuna, à l'exception de l'avant-dernier
-alinéa de l'article L. 113-15-2. 
+alinéa de l'article L. 113-15-2.
 
 Les articles L. 122-7 et L. 125-1 à L. 125-6 sont applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur
-le 1er juillet 2000, à l'exception du quatrième alinéa de l'article L. 125-6 et sous réserve des adaptations suivantes : 
+le 1er juillet 2000, à l'exception du quatrième alinéa de l'article L. 125-6 et sous réserve des adaptations suivantes :
 
 a) Dans le deuxième alinéa de l'article L. 125-5, les mots : " et les dommages mentionnés à l'article L. 242-1 " sont
-supprimés ; 
+supprimés ;
 
-b) Dans le deuxième alinéa de l'article L. 125-6, les mots : 
+b) Dans le deuxième alinéa de l'article L. 125-6, les mots :
 
 " Cette obligation ne s'impose pas non plus " sont remplacés par les mots : " L'obligation prévue au premier alinéa de
-l'article L. 125-2 ne s'impose pas " ; 
+l'article L. 125-2 ne s'impose pas " ;
 
 Les articles L. 160-6 à L. 160-8 ainsi que le titre VII du présent livre sont applicables dans les îles Wallis et Futuna dans
-leur rédaction en vigueur lors de la promulgation de la loi n° 89-1014 du 31 décembre 1989 précitée. 
+leur rédaction en vigueur lors de la promulgation de la loi n° 89-1014 du 31 décembre 1989 précitée.
 
-Les articles L. 114-3, L. 132-21-1 et L. 132-29 sont applicables dans les îles Wallis et Futuna. 
+Les articles L. 114-3, L. 132-21-1 et L. 132-29 sont applicables dans les îles Wallis et Futuna.
+
+L'article L. 127-4 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant de l'ordonnance n° 2019-738 du
+17 juillet 2019.
 
 Le titre VII du présent livre est applicable dans les îles Wallis et Futuna.
+
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -12012,21 +12022,21 @@ _Cite_:
   - Code des assurances - art. L112-10
   - Code des assurances - art. L112-7
   - Code des assurances - art. L113-15-2
-  - Code des assurances - art. L114-3 (V)
+  - Code des assurances - art. L114-3
   - Code des assurances - art. L122-7
   - Code des assurances - art. L125-1
   - Code des assurances - art. L125-2
   - Code des assurances - art. L125-5
   - Code des assurances - art. L125-6
-  - Code des assurances - art. L132-21-1 (VD)
-  - Code des assurances - art. L132-29 (VD)
+  - Code des assurances - art. L132-21-1
+  - Code des assurances - art. L132-29
   - Code des assurances - art. L132-30
   - Code des assurances - art. L160-6
   - Code des assurances - art. L242-1
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 6
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 29
 
 _Anciens textes_:
 
@@ -19673,115 +19683,118 @@ de l'article L. 310-1 ou de l'article L. 310-1-1, une société de groupe d'assu
 compagnie financière holding mixte définie à l'article L. 517-4 du code monétaire et financier, ni être membre d'un organe
 collégial de contrôle de ces entreprises, sociétés ou compagnies, ni disposer du pouvoir de signer pour leur compte, ni être
 responsable d'une des fonctions clés mentionnées à l'article L. 354-1, s'il a fait l'objet depuis moins de dix ans d'une
-condamnation définitive : 
+condamnation définitive :
 
-1° Pour crime ; 
+1° Pour crime ;
 
-2° A une peine d'emprisonnement ferme ou d'au moins six mois avec sursis pour : 
+2° A une peine d'emprisonnement ferme ou d'au moins six mois avec sursis pour :
 
 a) L'une des infractions prévues au titre Ier du livre III du code pénal et pour les délits prévus par des lois spéciales et
-punis des peines prévues pour l'escroquerie et l'abus de confiance ; 
+punis des peines prévues pour l'escroquerie et l'abus de confiance ;
 
 b) Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévues à la section 2 du chapitre Ier du titre
-II du livre III du code pénal ; 
+II du livre III du code pénal ;
 
-c) Blanchiment ; 
+c) Blanchiment ;
 
-d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ; 
+d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ;
 
 e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
-l'autorité ; 
+l'autorité ;
 
-f) Participation à une association de malfaiteurs ; 
+f) Participation à une association de malfaiteurs ;
 
-g) Trafic de stupéfiants ; 
+g) Trafic de stupéfiants ;
 
 h) Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code
-pénal ; 
+pénal ;
 
-i) L'une des infractions prévues à la section 3 du même chapitre et à la section 6 bis du chapitre III du même titre II ; 
+i) L'une des infractions prévues à la section 3 du même chapitre et à la section 6 bis du chapitre III du même titre II ;
 
-j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de
-commerce ; 
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
 
-k) Banqueroute ; 
+k) Banqueroute ;
 
-l) Pratique de prêt usuraire ; 
+l) Pratique de prêt usuraire ;
 
-m) L'une des infractions à la législation sur les jeux de hasard, casinos et loteries, prévues par les dispositions des
-articles L. 324-1 à L. 324-10 du code de la sécurité intérieure ; 
+m) L'une des infractions à la législation sur les jeux d'argent et de hasard et les casinos prévues aux articles L. 324-1 à
+L. 324-4, L. 324-10 et L. 324-12 à L. 324-14 du code de la sécurité intérieure ;
 
-n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ; 
+n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
 
-o) Fraude fiscale ; 
+o) Fraude fiscale ;
 
 p) L'une des infractions prévues aux articles L. 121-2 à L. 121-4, L. 121-8 à L. 121-10, L. 411-2, L. 413-1, L. 413-2, L.
-413-4 à L. 413-9, L. 422-2, L. 441-1, L. 441-2, L. 452-1, L. 455-2, L. 512-4 et L. 531-1 du code de la consommation ; 
+413-4 à L. 413-9, L. 422-2, L. 441-1, L. 441-2, L. 452-1, L. 455-2, L. 512-4 et L. 531-1 du code de la consommation ;
 
-q) L'une des infractions prévues au code monétaire et financier ; 
+q) L'une des infractions prévues au code monétaire et financier ;
 
-r) L'une des infractions prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5 et L. 8224-1 du code du travail ; 
+r) L'une des infractions prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5 et L. 8224-1 du code du travail ;
 
-s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ; 
+s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ;
 
 t) L'une des infractions à la législation ou à la réglementation applicable aux entreprises régies par le code des
 assurances, aux institutions de prévoyance régies par le titre 3 du livre 9 du code de la sécurité sociale, à leurs unions,
 aux sociétés de groupe assurantiel de protection sociale et aux mutuelles, unions et fédérations régies par le code de la
-mutualité ; 
+mutualité ;
 
-3° A la destitution des fonctions d'officier public ou ministériel. 
+3° A la destitution des fonctions d'officier public ou ministériel.
 
 II. – L'incapacité prévue au premier alinéa s'applique à toute personne à l'égard de laquelle a été prononcée une mesure
 définitive de faillite personnelle ou une autre mesure définitive d'interdiction dans les conditions prévues par le livre VI
-du code de commerce. 
+du code de commerce.
 
 III. – Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la
-décision qui entraîne cette incapacité peut en réduire la durée. 
+décision qui entraîne cette incapacité peut en réduire la durée.
 
 IV. – Les personnes exerçant une fonction, une activité ou une profession mentionnée au premier alinéa du I qui font l'objet
 de l'une des condamnations prévues aux I et II doivent cesser leur activité dans un délai d'un mois à compter de la date à
 laquelle la décision de justice est devenue définitive. Ce délai peut être réduit ou supprimé par la juridiction qui a rendu
-cette décision. 
+cette décision.
 
 V. – En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
 constituant, selon la loi française, un crime ou l'un des délits mentionnés au I, le tribunal correctionnel du domicile du
 condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de la condamnation
 et l'intéressé ayant été dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue au
-premier alinéa du I. 
+premier alinéa du I.
 
 Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle
 prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande
 d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du
-domicile du condamné. 
+domicile du condamné.
 
 VI. – Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de
-l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation
-d'exercice. 
+l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
 
 VII. – Les personnes appelées à diriger une entreprise, une société ou une compagnie mentionnée au premier alinéa du I ou à y
 exercer une des fonctions clés mentionnées à l'article L. 354-1 doivent posséder l'honorabilité, la compétence ainsi que
-l'expérience nécessaires à leurs fonctions. 
+l'expérience nécessaires à leurs fonctions.
 
 Les membres du conseil d'administration ou du conseil de surveillance des personnes mentionnées aux 1°, 2° et 9° du B du I de
-l'article L. 612-2 du code monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience requises. 
+l'article L. 612-2 du code monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience requises.
 
 Pour apprécier la compétence des intéressés, l'Autorité de contrôle prudentiel et de résolution tient compte de leur
 formation et de leur expérience de façon proportionnée à leurs attributions, notamment l'expérience acquise en tant que
 président d'un conseil ou d'un comité. L'autorité tient compte également, dans l'appréciation portée sur chaque personne, de
 la compétence, de l'expérience et des attributions des autres membres de l'organe auquel elle appartient. Lorsque des mandats
 ont été antérieurement exercés, la compétence est présumée à raison de l'expérience acquise. Pour les nouveaux membres,
-l'autorité tient compte des formations dont ils pourront bénéficier tout au long de leur mandat. 
+l'autorité tient compte des formations dont ils pourront bénéficier tout au long de leur mandat.
 
 VIII. – Lorsque l'Autorité de contrôle prudentiel et de résolution est amenée à se prononcer sur la qualité des actionnaires
 ainsi que sur l'honorabilité, la compétence et l'expérience des personnes qui dirigent effectivement l'entreprise ou qui sont
 responsables de fonctions clés au sens de l'article L. 322-3-2 et lorsque ces personnes exercent de telles fonctions auprès
 d'une autre entité du même groupe au sens de l'article L. 356-1, elle consulte les autorités compétentes de cette autre
-entité. Elle communique à ces autorités les informations utiles à l'exercice de leurs missions. 
+entité. Elle communique à ces autorités les informations utiles à l'exercice de leurs missions.
 
 IX. – Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en
-régime d'établissement. 
+régime d'établissement.
 
 X. – Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Nota:**
+
+Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du
+1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -19801,7 +19814,7 @@ _Cité par_:
   - Code des assurances - art. L328-1 (V)
   - Code des assurances - art. L356-18 (MMN)
   - Code des assurances - art. L390-1 (V)
-  - Code des assurances - art. L423-4 (V)
+  - Code des assurances - art. L423-4 (M)
   - Code des assurances - art. L511-2 (Ab)
   - Code des assurances - art. L512-4 (VD)
   - Code des assurances - art. R143-2 (V)
@@ -19813,7 +19826,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 25
 
 _Cite_:
 
@@ -19828,7 +19841,7 @@ _Cite_:
   - Code monétaire et financier - art. L517-4
   - Code monétaire et financier - art. L612-2
   - Code du travail - art. L8221-1
-  - Code du travail - art. L8221-3 (V)
+  - Code du travail - art. L8221-3
   - Code du travail - art. L8224-1
   - Code des assurances - art. L310-1
   - Code des assurances - art. L310-1-1
@@ -26071,59 +26084,64 @@ Les institutions de retraite professionnelle mentionnées à l'article L. 370-1 
 de contrôle prudentiel et de résolution et, le cas échéant, d'autres autorités compétentes en France conformément aux
 dispositions législatives et réglementaires applicables aux opérations mentionnées à l'article L. 370-2. Ces autorités
 veillent à ce que ces institutions exercent leurs activités conformément aux dispositions du droit social et du droit du
-travail mentionnées à l'article L. 370-2 ainsi qu'au premier alinéa de l'article L. 370-3.
+travail mentionnées à l'article L. 370-2 ainsi qu'au premier alinéa de l'article L. 370-3. 
 
 Lorsqu'une institution de retraite professionnelle proposant sur le territoire de la République française les opérations
 mentionnées au premier alinéa de l'article L. 381-1 a enfreint l'une des dispositions mentionnées au premier alinéa,
 l'Autorité de contrôle prudentiel et de résolution, saisie le cas échéant par autorités compétentes, notifie cette infraction
 sans délai à l'autorité compétente de l'Etat dans lequel est agréée cette institution et lui demande de prendre, en lien avec
 elle, les mesures nécessaires pour mettre un terme à l'infraction. Si, passé un délai de deux mois après cette notification,
-l'infraction persiste, l'Autorité peut :
+l'infraction persiste, l'Autorité peut : 
 
 1° Interdire ou restreindre les activités de cette institution sur le territoire de la République française, y compris
 l'acceptation de primes ou le paiement des valeurs de rachat, la faculté d'arbitrages, le versement d'avances sur contrat ou
-la faculté de renonciation ou de transfert. Une telle mesure peut être prise notamment si l'institution :
+la faculté de renonciation ou de transfert. Une telle mesure peut être prise notamment si l'institution : 
 
-a) Ne protège pas de manière adéquate les intérêts des affiliés et des bénéficiaires ;
+a) Ne protège pas de manière adéquate les intérêts des affiliés et des bénéficiaires ; 
 
-b) Ne respecte plus ses règles ou conditions de fonctionnement ;
+b) Ne respecte plus ses règles ou conditions de fonctionnement ; 
 
 c) Ne respecte pas les exigences du droit social et du droit du travail en vigueur sur le territoire de la République
-française en matière de régimes de retraite professionnelle ;
+française en matière de régimes de retraite professionnelle ; 
 
 2° Prononcer à l'encontre de l'institution les sanctions disciplinaires mentionnées aux 1° à 3o de l'article L. 612-39 du
 code monétaire et financier, ainsi que la sanction pécuniaire mentionnée au même article. Pour la mise en œuvre de ces
 procédures, les dispositions du IV de l'article L. 612-15 et du dernier alinéa de l'article L. 612-43 ainsi que, le cas
 échéant, de l'article L. 612-28 du code monétaire et financier s'appliquent. L'Autorité peut décider de reporter sa décision
-à l'issue d'un délai qu'elle impartit à l'institution pour prendre toute mesure de nature à mettre fin à l'infraction.
+à l'issue d'un délai qu'elle impartit à l'institution pour prendre toute mesure de nature à mettre fin à l'infraction. 
 
 L'Autorité peut saisir les autorités compétentes de l'Etat membre ou autre Etat Partie à l'accord sur l'Espace économique
 européen dans lequel l'institution a son siège social ou son administration principale afin que celles-ci statuent sur
 l'établissement d'une comptabilité auxiliaire d'affectation pour les opérations de l'institution mentionnées au premier
-alinéa de l'article L. 381-1 du code des assurances et à l'article L. 3334-2 du code du travail.
+alinéa de l'article L. 381-1 du code des assurances et à l'article L. 3334-2 du code du travail. 
 
 L'autorité compétente de l'Etat membre ou autre Etat partie à l'accord sur l'Espace économique européen dans lequel
 l'institution a son siège social ou son administration principale peut adresser une demande à l'Autorité de contrôle
 prudentiel et de résolution, tendant à l'interdiction de la libre disposition d'actifs de cette institution détenus par un
 établissement habilité à exercer les activités de conservation ou d'administration d'instruments financiers en application de
 l'article L. 542-1 du code monétaire et financier et ayant son siège social en France. L'Autorité, sans préjudice du
-troisième alinéa de l'article L. 323-1-1, saisit le président du tribunal de grande instance territorialement compétent, afin
-qu'il se prononce, en référé, sur cette interdiction, lorsque celle-ci est nécessaire pour prévenir ou remédier à une
-irrégularité, y compris en matière de provisions techniques ou de couverture de ces provisions, qui porterait atteinte aux
-intérêts des affiliés et des bénéficiaires.
+troisième alinéa de l'article L. 323-1-1, saisit le président du   tribunal judiciaire territorialement compétent, afin qu'il
+se prononce, en référé, sur cette interdiction, lorsque celle-ci est nécessaire pour prévenir ou remédier à une irrégularité,
+y compris en matière de provisions techniques ou de couverture de ces provisions, qui porterait atteinte aux intérêts des
+affiliés et des bénéficiaires. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment les règles de placement et de
-couverture des engagements applicables aux institutions mentionnées à l'article L. 370-1.
+couverture des engagements applicables aux institutions mentionnées à l'article L. 370-1. 
 
 Un arrêté du ministre chargé de l'économie détermine en outre la nature et le contenu des informations et des documents que
 les institutions mentionnées à l'article L. 370-1 sont tenues de communiquer sur demande aux autorités compétentes pour leur
 permettre d'exercer la surveillance prévue au premier alinéa.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2019-575 du 12 juin 2019 - art. 3
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -26135,8 +26153,8 @@ _Cite_:
   - Code monétaire et financier - art. L612-43
   - Code du travail - art. L443-1-2
   - Code des assurances - art. L143-1
-  - Code des assurances - art. L370-2 (M)
-  - Code des assurances - art. L370-3 (V)
+  - Code des assurances - art. L370-2
+  - Code des assurances - art. L370-3
 
 _Cité par_:
 
@@ -36632,20 +36650,26 @@ La dissolution de l'association ou sa cessation d'activité en qualité de group
 d'un plan souscrit par elle est prononcée par l'assemblée générale de l'association convoquée à titre extraordinaire. Dans ce
 cas, la résolution relative à cette dissolution ou à cette cessation d'activité prévoit les conditions dans lesquelles les
 missions de l'association au titre de chaque plan sont reprises par une autre association ayant la qualité de groupement
-d'épargne retraite populaire, et les conditions dans lesquelles les actifs et les passifs correspondants lui sont transférés.
+d'épargne retraite populaire, et les conditions dans lesquelles les actifs et les passifs correspondants lui sont
+transférés. 
 
 La cessation d'activité de l'association en qualité de groupement d'épargne retraite populaire au titre d'un plan souscrit
-par elle peut également être prononcée par le tribunal de grande instance saisi par l'entreprise d'assurance, par le
-président de son comité de surveillance ou, à défaut, par au moins cent adhérents du plan lorsqu'ils constatent que
-l'association n'assure pas les missions qui lui sont confiées en qualité de groupement d'épargne retraite populaire. La
-reprise des activités de l'association au titre de ce plan par une autre association ayant la qualité de groupement d'épargne
-retraite populaire est organisée par l'entreprise d'assurance dans les conditions prévues à l'alinéa précédent.
+par elle peut également être prononcée par le   tribunal judiciaire saisi par l'entreprise d'assurance, par le président de
+son comité de surveillance ou, à défaut, par au moins cent adhérents du plan lorsqu'ils constatent que l'association n'assure
+pas les missions qui lui sont confiées en qualité de groupement d'épargne retraite populaire. La reprise des activités de
+l'association au titre de ce plan par une autre association ayant la qualité de groupement d'épargne retraite populaire est
+organisée par l'entreprise d'assurance dans les conditions prévues à l'alinéa précédent.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1635 du 23 novembre 2011 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R144-13
@@ -37617,17 +37641,26 @@ _Anciens textes_:
 
 Lorsque se sont écoulées deux années à compter du jour de l'opposition sans qu'un tiers porteur se soit révélé, l'opposant
 peut, sur production d'une simple lettre de l'entreprise attestant que l'opposition n'a pas été contredite, demander au
-président du tribunal de grande instance ou du tribunal d'instance, s'il s'agit d'un titre de capitalisation ou d'épargne,
-l'autorisation de se faire délivrer, à ses frais, un duplicata du contrat et exercer les droits qu'il comporte.
+président du tribunal judiciaire, s'il s'agit d'un titre de capitalisation ou d'épargne, l'autorisation de se faire délivrer,
+à ses frais, un duplicata du contrat et exercer les droits qu'il comporte.
 
 Au regard de l'entreprise, le duplicata est substitué à l'original qui ne lui est plus opposable, le porteur dépossédé
 conservant à l'égard de tous autres les recours du droit commun.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 1
 
 _Anciens textes_:
 
@@ -43762,40 +43795,45 @@ _Cite_:
 
 ###### Article R322-54-2
 
-I. - Lorsque la société d'assurance mutuelle est dirigée par un directoire, celui-ci est composé de deux à cinq membres au
+I.-Lorsque la société d'assurance mutuelle est dirigée par un directoire, celui-ci est composé de deux à cinq membres au
 plus. Le nombre des membres du directoire est fixé par les statuts ou, à défaut, par le conseil de surveillance. Les membres
 du directoire sont nommés par le conseil de surveillance qui confère à l'un d'eux la qualité de président.
 
-II. - Les statuts déterminent la durée du mandat des membres du directoire dans les limites comprises entre deux et six ans.
-A défaut de disposition statutaire, la durée du mandat est de quatre ans. En cas de vacance, le remplaçant est nommé pour le
+II.-Les statuts déterminent la durée du mandat des membres du directoire dans les limites comprises entre deux et six ans. A
+défaut de disposition statutaire, la durée du mandat est de quatre ans. En cas de vacance, le remplaçant est nommé pour le
 temps qui reste à courir jusqu'au renouvellement du directoire.
 
-III. - Avant sa nomination, la personne pressentie pour exercer les fonctions de membre du directoire est tenue de déclarer
+III.-Avant sa nomination, la personne pressentie pour exercer les fonctions de membre du directoire est tenue de déclarer
 l'ensemble des activités professionnelles et fonctions électives qu'elle entend conserver. Le conseil de surveillance se
 prononce sur la compatibilité de la poursuite de l'exercice de ces activités ou fonctions avec les fonctions de membre du
 directoire. Ultérieurement, il se prononce également sur les autres activités ou fonctions que le membre du directoire entend
 exercer.
 
-IV. - Les membres du directoire peuvent être révoqués par l'assemblée générale ainsi que, si les statuts le prévoient, par le
+IV.-Les membres du directoire peuvent être révoqués par l'assemblée générale ainsi que, si les statuts le prévoient, par le
 conseil de surveillance. Si la révocation est décidée sans juste motif, elle peut donner lieu à dommages-intérêts.
 
 Au cas où l'intéressé aurait conclu avec la société un contrat de travail, la révocation de ses fonctions de membre du
 directoire n'a pas pour effet de résilier ce contrat.
 
-V. - Si un siège de membre du directoire est vacant, le conseil de surveillance doit le pourvoir dans le délai de deux mois.
+V.-Si un siège de membre du directoire est vacant, le conseil de surveillance doit le pourvoir dans le délai de deux mois.
 
-A défaut, tout intéressé peut demander au président du tribunal de grande instance, statuant en référé, de procéder à cette
+A défaut, tout intéressé peut demander au président du tribunal judiciaire, statuant en référé, de procéder à cette
 nomination, à titre provisoire. La personne ainsi nommée peut, à tout moment, être remplacée par le conseil de surveillance.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R322-54-3
@@ -44095,71 +44133,76 @@ _Modifié par_:
 ###### Article R322-55-4
 
 I.-Les statuts de la société déterminent les règles relatives à la convocation et aux délibérations du conseil
-d'administration ou du conseil de surveillance. 
+d'administration ou du conseil de surveillance.
 
 1° Lorsqu'il ne s'est pas réuni depuis plus de deux mois, le tiers au moins des membres du conseil d'administration peut
 demander au président de convoquer celui-ci sur un ordre du jour déterminé. Le directeur général peut également demander au
-président de convoquer le conseil d'administration sur un ordre du jour déterminé. 
+président de convoquer le conseil d'administration sur un ordre du jour déterminé.
 
-Le président est lié par les demandes qui lui sont adressées en vertu des deux alinéas précédents. 
+Le président est lié par les demandes qui lui sont adressées en vertu des deux alinéas précédents.
 
 2° Le président du conseil de surveillance doit convoquer le conseil à une date qui ne peut être postérieure à quinze jours
 lorsqu'un membre au moins du directoire ou le tiers au moins des membres du conseil de surveillance lui présentent une
-demande motivée en ce sens. 
+demande motivée en ce sens.
 
 Si la demande est restée sans suite, ses auteurs peuvent procéder eux-mêmes à la convocation, en indiquant l'ordre du jour de
-la séance. 
+la séance.
 
 II.-Le conseil d'administration ou le conseil de surveillance ne délibère valablement que si la moitié au moins de ses
-membres sont présents. Toute clause contraire est réputée non écrite. 
+membres sont présents. Toute clause contraire est réputée non écrite.
 
 Sauf disposition contraire des statuts, le règlement intérieur peut prévoir que sont réputés présents les membres qui
 participent à la réunion par des moyens de visioconférence. Ces moyens de visioconférence doivent satisfaire à des
 caractéristiques techniques garantissant une participation effective à la réunion du conseil d'administration ou du conseil
-de surveillance, dont les délibérations sont retransmises de façon continue. 
+de surveillance, dont les délibérations sont retransmises de façon continue.
 
 A moins que les statuts ne prévoient une majorité plus forte, les décisions sont prises à la majorité des membres du conseil
-d'administration ou du conseil de surveillance. 
+d'administration ou du conseil de surveillance.
 
-Sauf disposition contraire des statuts, la voix du président de séance est prépondérante en cas de partage. 
+Sauf disposition contraire des statuts, la voix du président de séance est prépondérante en cas de partage.
 
 Les administrateurs ou les membres du conseil de surveillance, ainsi que toute personne appelée à assister aux réunions du
 conseil d'administration ou du conseil de surveillance, sont tenus à la discrétion à l'égard des informations présentant un
 caractère confidentiel et données comme telles par le président du conseil d'administration ou par le président du conseil de
-surveillance. 
+surveillance.
 
 III.-Il est tenu un registre de présence qui est signé par les administrateurs ou les membres du conseil de surveillance
 participant à la séance du conseil d'administration ou du conseil de surveillance et qui mentionne le nom des présents. Le
-vote par procuration est interdit. 
+vote par procuration est interdit.
 
 Les délibérations du conseil d'administration ou du conseil de surveillance sont constatées par des procès-verbaux établis
-sur un registre spécial tenu au siège social et coté et paraphé soit par un juge du tribunal d'instance ou du tribunal de
-grande instance, soit par le maire de la commune du siège social ou un adjoint au maire, dans la forme ordinaire et sans
-frais. 
+sur un registre spécial tenu au siège social et coté et paraphé soit par un juge du tribunal judiciaire, soit par le maire de
+la commune du siège social ou un adjoint au maire, dans la forme ordinaire et sans frais.
 
 Toutefois, les procès-verbaux peuvent être établis sur des feuilles mobiles numérotées sans discontinuité, paraphées dans les
 conditions prévues à l'alinéa précédent et revêtues du sceau de l'autorité qui les a paraphées. Dès qu'une feuille a été
 remplie, même partiellement, elle doit être jointe à celles précédemment utilisées. Toute addition, suppression, substitution
-ou interversion de feuilles est interdite. 
+ou interversion de feuilles est interdite.
 
 IV.-Le procès-verbal de la séance indique le nom des administrateurs ou des membres du conseil de surveillance présents ou
 réputés présents au sens du II, excusés ou absents. Il fait état de la présence ou de l'absence des personnes convoquées à la
 réunion du conseil d'administration ou du conseil de surveillance en vertu d'une disposition légale et de la présence de
 toute autre personne ayant assisté à tout ou partie de la réunion. Il fait également état de la survenance éventuelle d'un
-incident technique relatif à une visioconférence, lorsque cet incident a perturbé le déroulement de la séance. 
+incident technique relatif à une visioconférence, lorsque cet incident a perturbé le déroulement de la séance.
 
 Le procès-verbal est revêtu de la signature du président de séance et d'au moins un administrateur ou un membre du conseil de
 surveillance. En cas d'empêchement du président de séance, il est signé par deux administrateurs ou membres du conseil de
-surveillance au moins. 
+surveillance au moins.
 
 V.-Les copies ou extraits de procès-verbaux des délibérations sont valablement certifiés par le président du conseil
-d'administration ou du conseil de surveillance,  le directeur général , les directeurs généraux délégués ou un membre du
-directoire. 
+d'administration ou du conseil de surveillance, le directeur général , les directeurs généraux délégués ou un membre du
+directoire.
 
-Au cours de la liquidation de la société, ces copies ou extraits sont valablement certifiés par un seul liquidateur. 
+Au cours de la liquidation de la société, ces copies ou extraits sont valablement certifiés par un seul liquidateur.
 
 VI.-Il est suffisamment justifié du nombre des administrateurs ou des membres du conseil de surveillance en exercice ainsi
 que de leur présence à une séance par la production d'une copie ou d'un extrait du procès-verbal.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -44169,7 +44212,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 7
+  - Décret n°2019-913 du 30 août 2019 - art. 4
 
 _Cité par_:
 
@@ -44588,29 +44631,34 @@ _Modifié par_:
 Les sociétaires et l'assemblée générale sont substitués respectivement aux actionnaires et aux assemblées d'actionnaires pour
 l'application de la section VI du chapitre IV du titre Ier de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
 commerciales et de la section VI du chapitre IV du titre Ier du décret n° 67-236 du 23 mars 1967 sur les sociétés
-commerciales aux sociétés régies par la présente section. 
+commerciales aux sociétés régies par la présente section.
 
 Le droit de récuser un ou plusieurs commissaires aux comptes et le droit de demander en justice la désignation d'un expert
 chargé de présenter un rapport sur une ou plusieurs opérations de gestion sont ouverts aux sociétaires admis à faire partie
-de l'assemblée générale et représentant au moins le dixième de ceux-ci. 
+de l'assemblée générale et représentant au moins le dixième de ceux-ci.
 
-Le président du tribunal de grande instance statue en référé sur les requêtes en justice des sociétaires relatives au
-contrôle des commissaires aux comptes.
+Le président du tribunal judiciaire statue en référé sur les requêtes en justice des sociétaires relatives au contrôle des
+commissaires aux comptes.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°66-537 du 24 juillet 1966 (Ab)
-  - Décret n°67-236 du 23 mars 1967 (Ab)
+  - Loi n°66-537 du 24 juillet 1966
+  - Décret n°67-236 du 23 mars 1967
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 1
 
 _Cité par_:
 
@@ -44625,14 +44673,15 @@ _Anciens textes_:
 
 Le montant des honoraires des commissaires aux comptes est fixé d'un commun accord entre ceux-ci et la société.
 
-Le président du tribunal de grande instance du lieu du siège social, statuant en référé, est compétent pour connaître de tout
-litige tenant à la fixation du montant des honoraires.
+Le président du tribunal judiciaire du lieu du siège social, statuant en référé, est compétent pour connaître de tout litige
+tenant à la fixation du montant des honoraires.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Code des assurances - art. L322-1 (Ab)
 
 _Anciens textes_:
 
@@ -44640,11 +44689,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 1
 
 
 ###### Article R322-59
@@ -44938,16 +44987,21 @@ _Cite_:
 
 Les commissaires aux comptes sont convoqués, en même temps que les administrateurs ou les membres du directoire à la réunion
 du conseil d'administration ou du directoire qui arrête les comptes de l'exercice écoulé. Ils sont également convoqués, au
-plus tard lors de la convocation des sociétaires, à toutes les assemblées générales.
+plus tard lors de la convocation des sociétaires, à toutes les assemblées générales. 
 
 Les commissaires aux comptes ne peuvent convoquer l'assemblée générale qu'après avoir vainement requis sa convocation du
 conseil d'administration ou du directoire par lettre recommandée avec demande d'avis de réception. Si les commissaires aux
-comptes sont en désaccord sur l'opportunité de convoquer l'assemblée, l'un d'eux peut demander au président du tribunal de
-grande instance, statuant en référé, l'autorisation de procéder à cette convocation, les autres commissaires et le président
-du conseil d'administration ou du directoire dûment appelés.
+comptes sont en désaccord sur l'opportunité de convoquer l'assemblée, l'un d'eux peut demander au président du   tribunal
+judiciaire, statuant en référé, l'autorisation de procéder à cette convocation, les autres commissaires et le président du
+conseil d'administration ou du directoire dûment appelés. 
 
 La communication aux commissaires aux comptes de documents détenus par des tiers qui ont accompli des opérations pour le
-compte de la société est autorisée par le président du tribunal de grande instance statuant en référé.
+compte de la société est autorisée par le président du   tribunal judiciaire statuant en référé.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -44957,12 +45011,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
-  - Décret n°2005-7 du 3 janvier 2005 - art. 3 () JORF 7 janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ##### Sous-section 3 : Obligations des sociétaires et de la société.<a id=412></a>
@@ -45555,51 +45608,61 @@ _Modifié par_:
 
 ###### Article R*322-89
 
-Toute personne a le droit de prendre communication des pièces déposées au greffe du tribunal de grande instance ou même de
-s'en faire délivrer à ses frais expédition ou extrait par le greffier ou par le notaire détenteur de la minute.
+Toute personne a le droit de prendre communication des pièces déposées au greffe du tribunal judiciaire ou même de s'en faire
+délivrer à ses frais expédition ou extrait par le greffier ou par le notaire détenteur de la minute.
 
 Toute personne peut également exiger qu'il lui soit délivré, au siège de la société, une copie certifiée des statuts,
 moyennant paiement d'une somme qui ne peut excéder 1,5 euro.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 1
 
 
 ###### Article R322-85
 
 Dans le mois de la constitution de toute société d'assurance mutuelle, une expédition de l'acte constitutif, de ses annexes
 et une copie certifiée des délibérations prises par l'assemblée générale prévue à l'article R. 322-52 sont déposées en double
-exemplaire au greffe du tribunal de grande instance du siège social. 
+exemplaire au greffe du   tribunal judiciaire du siège social. 
 
 Ces mêmes documents doivent être déposés, dans le même délai, au ministère de l'économie et des finances.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
   - Code des assurances - art. R*322-86 (V)
   - Code des assurances - art. R322-106-10 (V)
-  - Code des assurances - art. R322-106-3 (V)
+  - Code des assurances - art. R322-106-3 (VD)
   - Code des assurances - art. R322-160 (V)
 
 _Cite_:
 
-  - Code des assurances - art. R322-52 (V)
+  - Code des assurances - art. R322-52
 
 _Anciens textes_:
 
@@ -45611,7 +45674,7 @@ _Anciens textes_:
 L'extrait doit contenir la dénomination adoptée par la société et l'indication du siège social, la désignation des personnes
 autorisées à gérer, administrer et signer pour la société, et, en outre, le nombre d'adhérents, le montant des cotisations
 versées au-dessous desquels la société ne pouvait être valablement constituée, l'époque où la société a été constituée, celle
-où elle doit finir et la date du dépôt au greffe du tribunal de grande instance.
+où elle doit finir et la date du dépôt au greffe du tribunal judiciaire.
 
 Il indique également le montant et le mode de constitution du fonds d'établissement et, s'il y a lieu, le montant du droit
 d'entrée.
@@ -45619,20 +45682,24 @@ d'entrée.
 L'extrait des actes et pièces déposés est signé, pour les actes publics, par le notaire et, pour les actes sous seing privé,
 par les membres du conseil d'administration ou du directoire.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-667 1976-07-16
+  - Décret n°76-667 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2005-7 du 3 janvier 2005 - art. 1 () JORF 7 janvier 2005
-  - Décret n°2005-7 du 3 janvier 2005 - art. 3 () JORF 7 janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code des assurances R321-1
+  - Code des assurances
 
 
 ##### Sous-section 7 : Nullités.<a id=416></a>
@@ -46138,7 +46205,7 @@ l'opération.
 La fusion prend effet : 
 
 1° En cas de création d'une société nouvelle, à la date de dépôt des documents mentionnés à l'article R. 322-85 au greffe du
-tribunal de grande instance du siège social ; 
+tribunal judiciaire du siège social ; 
 
 2° En cas de fusion avec une société existante, à la date de la dernière assemblée générale ayant approuvé l'opération, sauf
 si le projet de fusion prévoit que l'opération prend effet à une autre date, laquelle ne doit être ni postérieure à la date
@@ -46150,17 +46217,22 @@ société nouvelle est approuvé par l'assemblée générale de chacune des soci
 conditions prévues à l'article R. 322-65. Il n'y a lieu ni à l'approbation de l'opération par l'assemblée générale de la
 société nouvelle ni à l'application de l'article R. 322-51.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-12 du 8 janvier 2014 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code des assurances - art. R*322-51
   - Code des assurances - art. R*322-65
-  - Code des assurances - art. R322-85 (V)
+  - Code des assurances - art. R322-85 (VD)
 
 
 ###### Article R322-106-4
@@ -46223,30 +46295,29 @@ _Cite_:
 
 ###### Article R322-106-6
 
-Le projet de fusion est déposé au greffe du tribunal de grande instance du siège social de chacune des sociétés
-participantes. 
+Le projet de fusion est déposé au greffe du tribunal judiciaire du siège social de chacune des sociétés participantes.
 
 Le projet de fusion fait l'objet d'un avis, inséré par chacune des sociétés participant à l'opération, dans un journal
 habilité à recevoir des annonces légales du département du siège social. Au cas où l'une au moins de ces sociétés fait une
 offre au public de titres financiers, autre que celles mentionnées au 1° ou au 2° de l'article L. 411-2 du code monétaire et
-financier ou à l'article L. 411-2-1 du même code, l'avis est en outre inséré au Bulletin des annonces légales obligatoires. 
+financier ou à l'article L. 411-2-1 du même code, l'avis est en outre inséré au Bulletin des annonces légales obligatoires.
 
-Cet avis contient les indications suivantes : 
+Cet avis contient les indications suivantes :
 
 1° La dénomination sociale suivie, le cas échéant, de son sigle, la forme, l'adresse du siège, le numéro unique
 d'identification de l'entreprise attribué lors de l'inscription au répertoire des entreprises et, le cas échéant, la mention
 RCS suivie du nom de la commune où se trouve le greffe où elle est immatriculée, pour chacune des sociétés participant à
-l'opération ; 
+l'opération ;
 
 2° La dénomination sociale suivie, le cas échéant, de son sigle, la forme, l'adresse du siège de la société nouvelle qui
-résulte de l'opération de fusion ; 
+résulte de l'opération de fusion ;
 
-3° L'évaluation de l'actif et du passif dont la transmission à la société absorbante ou nouvelle est prévue ; 
+3° L'évaluation de l'actif et du passif dont la transmission à la société absorbante ou nouvelle est prévue ;
 
-4° La date d'effet du projet ainsi que les date et lieu du dépôt prescrit par le premier alinéa du présent article ; 
+4° La date d'effet du projet ainsi que les date et lieu du dépôt prescrit par le premier alinéa du présent article ;
 
 5° La mention selon laquelle, par l'effet de la fusion, les sociétaires de la ou des sociétés d'assurance mutuelles absorbées
-ou fusionnées deviendront sociétaires de la société absorbante ou nouvelle. 
+ou fusionnées deviendront sociétaires de la société absorbante ou nouvelle.
 
 Le dépôt au greffe et la publicité prévus au présent article ont lieu un mois au moins avant la date de la première assemblée
 générale appelée à statuer sur l'opération.
@@ -46255,7 +46326,7 @@ générale appelée à statuer sur l'opération.
 
 _Modifié par_:
 
-  - Décret n°2019-1097 du 28 octobre 2019 - art. 14
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -46341,15 +46412,20 @@ _Cité par_:
 
 ###### Article R322-106-11
 
-A  peine de nullité, les sociétés participant à une opération de fusion  sont tenues de déposer au greffe du tribunal de
-grande instance une  déclaration dans laquelle, d'une part, elles relatent tous les actes  accomplis en vue d'y procéder et,
-d'autre part, elles certifient que  l'opération a été réalisée conformément aux lois et règlements en  vigueur.
+A peine de nullité, les sociétés participant à une opération de fusion sont tenues de déposer au greffe du   tribunal
+judiciaire une déclaration dans laquelle, d'une part, elles relatent tous les actes accomplis en vue d'y procéder et, d'autre
+part, elles certifient que l'opération a été réalisée conformément aux lois et règlements en vigueur.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-12 du 8 janvier 2014 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -63913,27 +63989,33 @@ _Cité par_:
 ###### Article R421-14
 
 Les demandes d'indemnités doivent obligatoirement être accompagnées d'une expédition de la décision de justice intervenue ou
-d'une copie certifiée conforme de l'acte portant règlement transactionnel pour la fixation définitive de l'indemnité. 
+d'une copie certifiée conforme de l'acte portant règlement transactionnel pour la fixation définitive de l'indemnité.
 
 A défaut d'accord du fonds de garantie avec la victime ou ses ayants droit soit sur la transaction intervenue, soit sur la
 fixation de l'indemnité lorsque le responsable des dommages est inconnu ou lorsque la décision de justice invoquée est
 inopposable au fonds de garantie, soit sur l'existence des diverses conditions d'ouverture du droit à l'indemnité, la victime
-ou ses ayants droit saisissent, suivant le taux de la demande, le tribunal d'instance ou le tribunal de grande instance. Le
-litige peut être porté devant la juridiction du lieu où l'accident s'est produit. 
+ou ses ayants droit saisissent le tribunal judiciaire. Le litige peut être porté devant la juridiction du lieu où l'accident
+s'est produit.
 
 En dehors de ces cas mentionnés à l'alinéa précédent et des contestations auxquelles peut donner lieu l'application des
 dispositions du dernier alinéa de l'article R. 421-15, le fonds de garantie ne peut être cité en justice par la victime ou
 ses ayants droit, notamment en déclaration de jugement commun pour l'application de l'article L. 421-1.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°2019-913 du 30 août 2019 - art. 4
 
 _Cité par_:
 
@@ -63945,8 +64027,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L421-1 (V)
-  - Code des assurances - art. R421-15 (V)
+  - Code des assurances - art. L421-1
+  - Code des assurances - art. R421-15
 
 _Anciens textes_:
 
@@ -65728,22 +65810,27 @@ _Cite_:
 
 ###### Article R*421-74
 
-Les propriétaires intéressés doivent joindre à leur demande d'indemnité les pièces et informations suivantes : 
+Les propriétaires intéressés doivent joindre à leur demande d'indemnité les pièces et informations suivantes :
 
-1. Une copie certifiée conforme de l'acte de mutation immobilière par lequel ils ont acquis l'immeuble endommagé,
-accompagnée de la réponse donnée par le service de la publicité foncière à une demande de renseignements ou d'un extrait du
-feuillet du livre foncier délivré par le tribunal d'instance dans le ressort duquel est situé l'immeuble, permettant
-d'établir l'origine de propriété ; 
+1. Une copie certifiée conforme de l'acte de mutation immobilière par lequel ils ont acquis l'immeuble endommagé, accompagnée
+de la réponse donnée par le service de la publicité foncière à une demande de renseignements ou d'un extrait du feuillet du
+livre foncier délivré par le tribunal judiciaire dans le ressort duquel est situé l'immeuble, permettant d'établir l'origine
+de propriété ;
 
-2. Une description détaillée de l'immeuble avant les dommages et des dommages subis du fait de l'activité minière ; 
+2. Une description détaillée de l'immeuble avant les dommages et des dommages subis du fait de l'activité minière ;
 
-3. Tout document probant sur l'usage de l'immeuble à la date d'apparition des dommages ; 
+3. Tout document probant sur l'usage de l'immeuble à la date d'apparition des dommages ;
 
 4. Une déclaration sur l'honneur indiquant s'ils ont perçu ou s'ils sont susceptibles de percevoir une ou plusieurs
 contributions ayant le même objet que l'indemnité sollicitée, ainsi que la désignation des personnes qui les leur ont
 accordées. Dans le même document, ils indiquent si d'autres procédures relatives à l'indemnisation des mêmes dommages sont en
 cours et ils s'engagent sur l'honneur à reverser, dans la limite de l'indemnité perçue, toute indemnité dont ils pourraient
 bénéficier au terme de toute procédure en cours ou à venir visant à l'indemnisation de ces dommages.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -65753,7 +65840,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+  - Décret n°2019-966 du 18 septembre 2019 - art. 1
 
 
 ###### Article R421-73
@@ -77086,15 +77173,15 @@ _Cite_:
 
 ###### Article Annexe art. A211-11
 
-Notice destinée aux victimes d'accidents de la circulation mettant en cause un véhicule terrestre à moteur
+Notice destinée aux victimes d'accidents de la circulation mettant en cause un véhicule terrestre à moteur 
 
-Les informations suivantes ont pour but de vous expliquer ce que vous devez entreprendre et comment vous serez indemnisé.
+Les informations suivantes ont pour but de vous expliquer ce que vous devez entreprendre et comment vous serez indemnisé. 
 
 Elles ont été volontairement limitées à l'essentiel. Pour en savoir plus, il vous faut consulter :
 
 - la loi n° 85-677 du 5 juillet 1985 publiée au Journal officiel du 6 juillet 1985 ;
 
-- le décret n° 86-15 du 6 janvier 1986 publié au Journal officiel du 7 janvier 1986.
+- le décret n° 86-15 du 6 janvier 1986 publié au Journal officiel du 7 janvier 1986. 
 
 La loi du 5 juillet 1985 a amélioré la situation des victimes d'accident de la circulation dans lequel est impliqué un
 véhicule terrestre à moteur, ainsi que ses remorques ou semi-remorques, à l'exception des chemins de fer et des tramways
@@ -77102,7 +77189,7 @@ circulant sur des voies qui leur sont propres :
 
 - les cas de non-indemnisation sont désormais limités ;
 
-- une offre d'indemnité doit être faite par l'assureur dans un délai de huit mois en cas d'accident corporel.
+- une offre d'indemnité doit être faite par l'assureur dans un délai de huit mois en cas d'accident corporel. 
 
 _Qui a droit à indemnisation ? _
 
@@ -77112,20 +77199,20 @@ Pour les dommages corporels :
 
 - recherché volontairement son dommage ;
 
-- commis une faute inexcusable, cause exclusive de l'accident.
+- commis une faute inexcusable, cause exclusive de l'accident. 
 
 Toutefois, cette faute ne peut être opposée à la victime si elle est âgée de moins de seize ans ou de plus de soixante-dix
 ans ou encore si elle est atteinte d'une incapacité permanente ou d'une invalidité au moins égale à 80 % ;
 
 - les conducteurs de véhicule terrestre à moteur, sauf lorsqu'ils sont responsables de l'accident (la faute du conducteur
-peut en effet limiter voire exclure son droit à indemnisation).
+peut en effet limiter voire exclure son droit à indemnisation). 
 
 Pour les dommages matériels :
 
-- toutes les victimes dans la mesure où elles ne sont pas responsables de l'accident.
+- toutes les victimes dans la mesure où elles ne sont pas responsables de l'accident. 
 
 Attention.-Même si vous êtes indemnisé de vos dommages, vous pouvez être tenu de réparer ceux que vous avez causés à autrui
-si vous êtes responsable.
+si vous êtes responsable. 
 
 Comment se déroule l'indemnisation ?
 
@@ -77139,7 +77226,7 @@ Comment se déroule l'indemnisation ?
 
 - vous acceptez l'offre, l'assureur vous indemnise ;
 
-- vous refusez l'offre, vous devez alors réclamer l'indemnisation devant le tribunal.
+- vous refusez l'offre, vous devez alors réclamer l'indemnisation devant le tribunal. 
 
 _Qui doit vous contacter ?_
 
@@ -77151,63 +77238,63 @@ sont impliqués, un seul assureur fait l'offre pour le compte de tous ;
 - le Bureau central français, ou son représentant, s'il s'agit d'un véhicule étranger (BP 27-93171 Bagnolet Cedex) ;
 
 - si l'auteur de l'accident est inconnu ou non assuré, il vous appartient de saisir le Fonds de garantie (64, rue Defrance,
-94307 Vincennes Cedex).
+94307 Vincennes Cedex). 
 
-A la première correspondance, il vous est demandé de fournir les renseignements nécessaires à votre indemnisation.
+A la première correspondance, il vous est demandé de fournir les renseignements nécessaires à votre indemnisation. 
 
 Vous pouvez :
 
 - vous faire assister d'un avocat de votre choix ;
 
-- obtenir, sans frais, copie du rapport de police ou de gendarmerie.
+- obtenir, sans frais, copie du rapport de police ou de gendarmerie. 
 
 _Vous devez communiquer à l'assureur : _
 
-1° vos nom et prénoms ;
+1° vos nom et prénoms ; 
 
-2° vos date et lieu de naissance ;
+2° vos date et lieu de naissance ; 
 
-3° votre activité professionnelle et l'adresse de votre ou de vos employeurs ;
+3° votre activité professionnelle et l'adresse de votre ou de vos employeurs ; 
 
-4° le montant de vos revenus professionnels avec les justifications utiles ;
+4° le montant de vos revenus professionnels avec les justifications utiles ; 
 
 5° la description des atteintes à votre personne accompagnée d'une copie du certificat médical initial et autres pièces
-justificatives en cas de consolidation ;
+justificatives en cas de consolidation ; 
 
-6° la description des dommages causés à vos biens ;
+6° la description des dommages causés à vos biens ; 
 
-7° les nom, prénoms et adresse des personnes à votre charge au moment de l'accident ;
+7° les nom, prénoms et adresse des personnes à votre charge au moment de l'accident ; 
 
-8° votre numéro d'immatriculation à la Sécurité sociale et l'adresse de la caisse d'assurance maladie dont vous relevez ;
+8° votre numéro d'immatriculation à la Sécurité sociale et l'adresse de la caisse d'assurance maladie dont vous relevez ; 
 
-9° la liste des tiers payeurs appelés à vous verser des prestations, ainsi que leurs adresses ;
+9° la liste des tiers payeurs appelés à vous verser des prestations, ainsi que leurs adresses ; 
 
-10° le lieu où les correspondances doivent être adressées.
+10° le lieu où les correspondances doivent être adressées. 
 
-Si la victime décède, le conjoint et chacun des héritiers doivent communiquer à l'assureur :
+Si la victime décède, le conjoint et chacun des héritiers doivent communiquer à l'assureur : 
 
-1° ses nom et prénoms ;
+1° ses nom et prénoms ; 
 
-2° ses date et lieu de naissance ;
+2° ses date et lieu de naissance ; 
 
-3° les nom et prénoms, date et lieu de naissance de la victime ;
+3° les nom et prénoms, date et lieu de naissance de la victime ; 
 
-4° ses liens avec la victime ;
+4° ses liens avec la victime ; 
 
-5° son activité professionnelle et l'adresse de son ou de ses employeurs ;
+5° son activité professionnelle et l'adresse de son ou de ses employeurs ; 
 
-6° le montant de ses revenus avec les justifications utiles ;
+6° le montant de ses revenus avec les justifications utiles ; 
 
-7° la description de son préjudice, notamment les frais de toute nature qu'il a exposés du fait de l'accident ;
+7° la description de son préjudice, notamment les frais de toute nature qu'il a exposés du fait de l'accident ; 
 
-8° son numéro d'immatriculation à la Sécurité sociale et l'adresse de la caisse d'assurance maladie dont il relève ;
+8° son numéro d'immatriculation à la Sécurité sociale et l'adresse de la caisse d'assurance maladie dont il relève ; 
 
-9° la liste des tiers payeurs appelés à lui verser des prestations, ainsi que leurs adresses ;
+9° la liste des tiers payeurs appelés à lui verser des prestations, ainsi que leurs adresses ; 
 
-10° le lieu où les correspondances doivent être adressées.
+10° le lieu où les correspondances doivent être adressées. 
 
 Vous devez répondre à toutes ces questions dans un délai de six semaines. Si vous tardez ou si votre réponse est incomplète,
-vous retardez l'indemnisation.
+vous retardez l'indemnisation. 
 
 _Vous êtes convoqué à un examen médical. _
 
@@ -77219,9 +77306,9 @@ Vous êtes avisé au moins quinze jours avant l'examen médical :
 
 - de l'objet de l'examen ;
 
-- du nom de l'assureur pour le compte duquel l'examen est demandé.
+- du nom de l'assureur pour le compte duquel l'examen est demandé. 
 
-Vous recevrez copie du rapport dans les vingt jours.
+Vous recevrez copie du rapport dans les vingt jours. 
 
 Vous pouvez :
 
@@ -77232,7 +77319,7 @@ Vous pouvez :
 - refuser de vous faire examiner par le médecin choisi par l'assureur ; dans ce cas, l'assureur peut vous proposer un autre
 médecin ou demander au tribunal d'en désigner un ;
 
-- demander vous-même au tribunal la désignation d'un médecin expert.
+- demander vous-même au tribunal la désignation d'un médecin expert. 
 
 _Que contient l'offre d'indemnisation ? _
 
@@ -77241,16 +77328,16 @@ d'indemnisation comprenant la réparation :
 
 - du préjudice corporel ;
 
-- du préjudice matériel lorsqu'il n'a pas fait l'objet d'un règlement préalable.
+- du préjudice matériel lorsqu'il n'a pas fait l'objet d'un règlement préalable. 
 
 Selon votre état de santé, cette offre peut être :
 
 - définitive si votre état de santé est consolidé et que l'assureur en a été informé dans les trois mois suivant l'accident ;
 
 - provisionnelle dans le cas contraire, l'offre définitive vous sera présentée au plus tard cinq mois après que l'assureur
-aura été informé de votre consolidation.
+aura été informé de votre consolidation. 
 
-L'offre doit couvrir tous les éléments de votre préjudice, c'est-à-dire :
+L'offre doit couvrir tous les éléments de votre préjudice, c'est-à-dire : 
 
 En cas de blessure :
 
@@ -77265,7 +77352,7 @@ rémunérée, des indemnités forfaitaires peuvent vous être allouées ;
 
 - l'indemnisation des souffrances endurées ;
 
-- les autres préjudices (esthétique, d'agrément...) ;
+- les autres préjudices (esthétique, d'agrément...) ; 
 
 En cas de décès :
 
@@ -77275,18 +77362,18 @@ En cas de décès :
 
 - les préjudices économiques ;
 
-- les autres préjudices ;
+- les autres préjudices ; 
 
 Dans tous les cas :
 
-- les préjudices matériels annexes aux préjudices corporels ou mortels (vêtements, prothèses...).
+- les préjudices matériels annexes aux préjudices corporels ou mortels (vêtements, prothèses...). 
 
 Attention.-Les sommes calculées subissent, s'il y a lieu, une réduction résultant :
 
 - de votre responsabilité ;
 
 - des sommes payées ou à payer par les organismes participant à l'indemnisation de votre préjudice (organismes sociaux,
-employeurs, assureurs d'avances sur indemnités...) ; une copie des décomptes de ces organismes est jointe à l'offre.
+employeurs, assureurs d'avances sur indemnités...) ; une copie des décomptes de ces organismes est jointe à l'offre. 
 
 _Qui doit recevoir l'offre d'indemnisation ?_
 
@@ -77295,65 +77382,65 @@ _Qui doit recevoir l'offre d'indemnisation ?_
 - les héritiers et le conjoint (en cas de décès) ;
 
 - le représentant légal et, selon le cas, le juge des tutelles ou le conseil de famille si la victime est mineure ou majeure
-incapable.
+incapable. 
 
 _Les suites à donner. _
 
-Lorsque vous recevez l'offre, vous pouvez :
+Lorsque vous recevez l'offre, vous pouvez : 
 
-Accepter.
+Accepter. 
 
 Dans les quinze jours qui suivent votre accord, vous pouvez le dénoncer par lettre recommandée ou par envoi recommandé
-électronique avec accusé de réception.
+électronique avec accusé de réception. 
 
 Si vous agissez en tant que représentant légal d'un mineur ou d'un majeur incapable, il vous faut l'accord du juge des
-tutelles ou du conseil de famille.
+tutelles ou du conseil de famille. 
 
-Discuter.
+Discuter. 
 
-Refuser.
+Refuser. 
 
 Vous pouvez :
 
 - vous adresser aux tribunaux pour obtenir l'indemnisation ;
 
-- réclamer des dommages-intérêts en cas d'offre manifestement insuffisante.
+- réclamer des dommages-intérêts en cas d'offre manifestement insuffisante. 
 
-Dans tous les cas, faites part de votre décision à l'assureur qui vous a présenté l'offre d'indemnisation.
+Dans tous les cas, faites part de votre décision à l'assureur qui vous a présenté l'offre d'indemnisation. 
 
 Attention.-Vous devez informer votre caisse d'assurance maladie de toute transaction intervenue avec l'assureur ou de toute
-action judiciaire.
+action judiciaire. 
 
-Quand êtes-vous indemnisé ?
+Quand êtes-vous indemnisé ? 
 
 Vous êtes indemnisé :
 
 - au plus tard quarante-cinq jours après l'accord conclu entre l'assureur et vous ;
 
-- en cas de procès, à l'issue de celui-ci.
+- en cas de procès, à l'issue de celui-ci. 
 
-Vous pouvez réclamer des intérêts en cas de retard imputable à l'assureur.
+Vous pouvez réclamer des intérêts en cas de retard imputable à l'assureur. 
 
-Conseils pratiques.
+Conseils pratiques. 
 
 Vous pouvez confier la défense de vos intérêts à toute personne de votre choix ; en cas de procès, un avocat doit vous
-représenter devant le tribunal de grande instance.
+représenter devant le   tribunal judiciaire. 
 
-En adressant une feuille de soins à la Sécurité sociale, précisez bien qu'il s'agit d'un accident et indiquez sa date.
+En adressant une feuille de soins à la Sécurité sociale, précisez bien qu'il s'agit d'un accident et indiquez sa date. 
 
 Constituez votre dossier en conservant l'original ou à défaut la copie de toute pièce médicale, les décomptes de la Sécurité
-sociale, les justificatifs de vos frais ainsi qu'une copie de toute correspondance.
+sociale, les justificatifs de vos frais ainsi qu'une copie de toute correspondance. 
 
-Vous devez adresser à l'assureur les pièces justifiant les préjudices que vous avez subis.
+Vous devez adresser à l'assureur les pièces justifiant les préjudices que vous avez subis. 
 
 Vous pouvez prendre l'avis de spécialistes, agent ou courtier d'assurances, avocat, conseiller juridique, médecin...
 Toutefois, les frais et honoraires de ces intervenants peuvent rester à votre charge sauf si vous bénéficiez d'une garantie
-de protection juridique ou de l'aide judiciaire en cas de procès.
+de protection juridique ou de l'aide judiciaire en cas de procès. 
 
 Surveillez les délais afin d'accélérer le règlement de votre dossier. En particulier si un mois après l'accident vous n'avez
-aucune nouvelle de l'assureur du responsable, prenez contact avec lui.
+aucune nouvelle de l'assureur du responsable, prenez contact avec lui. 
 
-Remarque.
+Remarque. 
 
 Le dispositif mis en place par la loi a pour objet de réduire le nombre de procès et d'accélérer l'indemnisation des
 victimes. Cependant, vous avez la possibilité à tout moment :
@@ -77372,6 +77459,11 @@ cas d'inaction persistante de l'assureur du responsable ;
 - de vous constituer partie civile ou d'engager une procédure judiciaire à l'encontre des auteurs de l'accident que vous
 estimez responsables.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -77381,7 +77473,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Arrêté du 27 mars 2018 - art. 15
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ### Titre II : L'assurance des engins de remontée mécanique<a id=662></a>
@@ -80022,10 +80114,10 @@ maximal de trois mois à dater de l'avis de l'autorité, ci-dessus prévu.
 
 S'il y a désaccord entre les conclusions des deux experts, il est immédiatement procédé à la désignation du tiers expert,
 soit après accord entre les parties, par l'autorité, soit, à défaut d'accord entre les parties, dans les quinze jours du
-dépôt des conclusions des deux experts, à la requête de la partie la plus diligente, par le président du tribunal de grande
-instance de la situation du siège social ou du siège spécial pour la France, ou, dans le cas d'opérations réalisées en France
-en libre prestation de services, du lieu de situation des actifs immobiliers, statuant en référé sur assignation. Le tiers
-expert doit déposer ses conclusions et les notifier aux deux parties dans les deux mois de sa désignation. 
+dépôt des conclusions des deux experts, à la requête de la partie la plus diligente, par le président du   tribunal
+judiciaire de la situation du siège social ou du siège spécial pour la France, ou, dans le cas d'opérations réalisées en
+France en libre prestation de services, du lieu de situation des actifs immobiliers, statuant en référé sur assignation. Le
+tiers expert doit déposer ses conclusions et les notifier aux deux parties dans les deux mois de sa désignation. 
 
 Si, après avoir été désigné dans les formes ci-dessus prévues, un expert se trouve empêché de remplir sa mission dans les
 délais fixés, il est immédiatement procédé à une nouvelle désignation dans les mêmes formes, et les délais sont dûment
@@ -80039,11 +80131,16 @@ l'état de leurs vacations, frais et honoraires et en remettent une copie à l'A
 résolution. Dans le délai de quinzaine de la réception dudit état par l'entreprise, celle-ci doit faire connaître à
 l'autorité ou qu'elle a effectué le paiement, ou qu'elle se propose de contester la somme réclamée.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 décembre 2015 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -80054,8 +80151,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. R343-11 (V)
-  - Code des assurances - art. R343-12 (V)
+  - Code des assurances - art. R343-11
+  - Code des assurances - art. R343-12
 
 
 ###### Article A343-2-2
