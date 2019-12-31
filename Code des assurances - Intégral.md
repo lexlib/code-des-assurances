@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-10-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -4037,10 +4037,10 @@ _Cité par_:
 
 Le contrat stipule qu'en cas de désaccord entre l'assureur et l'assuré au sujet de mesures à prendre pour régler un
 différend, cette difficulté peut être soumise à l'appréciation d'une tierce personne désignée d'un commun accord par les
-parties ou, à défaut, par le président du tribunal de grande instance statuant en la forme des référés. Les frais exposés
-pour la mise en oeuvre de cette faculté sont à la charge de l'assureur. Toutefois, le président du tribunal de grande
-instance, statuant en la forme des référés, peut en décider autrement lorsque l'assuré a mis en oeuvre cette faculté dans des
-conditions abusives.
+parties ou, à défaut, par le président du tribunal judiciaire statuant selon la procédure accélérée au fond. Les frais
+exposés pour la mise en oeuvre de cette faculté sont à la charge de l'assureur. Toutefois, le président du tribunal
+judiciaire statuant selon la procédure accélérée au fond peut en décider autrement lorsque l'assuré a mis en oeuvre cette
+faculté dans des conditions abusives.
 
 Si l'assuré a engagé à ses frais une procédure contentieuse et obtient une solution plus favorable que celle qui lui avait
 été proposée par l'assureur ou par la tierce personne mentionnée à l'alinéa précédent, l'assureur l'indemnise des frais
@@ -4050,19 +4050,20 @@ Lorsque la procédure visée au premier alinéa de cet article est mise en oeuvr
 pour toutes les instances juridictionnelles qui sont couvertes par la garantie d'assurance et que l'assuré est susceptible
 d'engager en demande, jusqu'à ce que la tierce personne chargée de proposer une solution en ait fait connaître la teneur.
 
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°88-260 1988-03-18
+  - Décret n°88-260 du 18 mars 1988
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-_Créé par_:
-
-  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 1
 
 _Cité par_:
 
@@ -11974,28 +11975,36 @@ _Cite_:
 Les titres Ier, II et III du présent livre, à l'exception des articles L. 112-7, L. 112-8, L. 112-10, L. 113-15-2, L. 122-7,
 L. 125-1 à L. 125-6, L. 132-30 et L. 132-31, sont applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur
 antérieurement à la promulgation de la loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et
-financier. 
+financier.
 
 Les articles L. 112-10 et L. 113-15-2 sont applicables dans les îles Wallis et Futuna, à l'exception de l'avant-dernier
-alinéa de l'article L. 113-15-2. 
+alinéa de l'article L. 113-15-2.
 
 Les articles L. 122-7 et L. 125-1 à L. 125-6 sont applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur
-le 1er juillet 2000, à l'exception du quatrième alinéa de l'article L. 125-6 et sous réserve des adaptations suivantes : 
+le 1er juillet 2000, à l'exception du quatrième alinéa de l'article L. 125-6 et sous réserve des adaptations suivantes :
 
 a) Dans le deuxième alinéa de l'article L. 125-5, les mots : " et les dommages mentionnés à l'article L. 242-1 " sont
-supprimés ; 
+supprimés ;
 
-b) Dans le deuxième alinéa de l'article L. 125-6, les mots : 
+b) Dans le deuxième alinéa de l'article L. 125-6, les mots :
 
 " Cette obligation ne s'impose pas non plus " sont remplacés par les mots : " L'obligation prévue au premier alinéa de
-l'article L. 125-2 ne s'impose pas " ; 
+l'article L. 125-2 ne s'impose pas " ;
 
 Les articles L. 160-6 à L. 160-8 ainsi que le titre VII du présent livre sont applicables dans les îles Wallis et Futuna dans
-leur rédaction en vigueur lors de la promulgation de la loi n° 89-1014 du 31 décembre 1989 précitée. 
+leur rédaction en vigueur lors de la promulgation de la loi n° 89-1014 du 31 décembre 1989 précitée.
 
-Les articles L. 114-3, L. 132-21-1 et L. 132-29 sont applicables dans les îles Wallis et Futuna. 
+Les articles L. 114-3, L. 132-21-1 et L. 132-29 sont applicables dans les îles Wallis et Futuna.
+
+L'article L. 127-4 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant de l'ordonnance n° 2019-738 du
+17 juillet 2019.
 
 Le titre VII du présent livre est applicable dans les îles Wallis et Futuna.
+
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -12006,21 +12015,21 @@ _Cite_:
   - Code des assurances - art. L112-10
   - Code des assurances - art. L112-7
   - Code des assurances - art. L113-15-2
-  - Code des assurances - art. L114-3 (V)
+  - Code des assurances - art. L114-3
   - Code des assurances - art. L122-7
   - Code des assurances - art. L125-1
   - Code des assurances - art. L125-2
   - Code des assurances - art. L125-5
   - Code des assurances - art. L125-6
-  - Code des assurances - art. L132-21-1 (VD)
-  - Code des assurances - art. L132-29 (VD)
+  - Code des assurances - art. L132-21-1
+  - Code des assurances - art. L132-29
   - Code des assurances - art. L132-30
   - Code des assurances - art. L160-6
   - Code des assurances - art. L242-1
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 6
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 29
 
 _Anciens textes_:
 
@@ -43905,71 +43914,76 @@ _Modifié par_:
 ###### Article R322-55-4
 
 I.-Les statuts de la société déterminent les règles relatives à la convocation et aux délibérations du conseil
-d'administration ou du conseil de surveillance. 
+d'administration ou du conseil de surveillance.
 
 1° Lorsqu'il ne s'est pas réuni depuis plus de deux mois, le tiers au moins des membres du conseil d'administration peut
 demander au président de convoquer celui-ci sur un ordre du jour déterminé. Le directeur général peut également demander au
-président de convoquer le conseil d'administration sur un ordre du jour déterminé. 
+président de convoquer le conseil d'administration sur un ordre du jour déterminé.
 
-Le président est lié par les demandes qui lui sont adressées en vertu des deux alinéas précédents. 
+Le président est lié par les demandes qui lui sont adressées en vertu des deux alinéas précédents.
 
 2° Le président du conseil de surveillance doit convoquer le conseil à une date qui ne peut être postérieure à quinze jours
 lorsqu'un membre au moins du directoire ou le tiers au moins des membres du conseil de surveillance lui présentent une
-demande motivée en ce sens. 
+demande motivée en ce sens.
 
 Si la demande est restée sans suite, ses auteurs peuvent procéder eux-mêmes à la convocation, en indiquant l'ordre du jour de
-la séance. 
+la séance.
 
 II.-Le conseil d'administration ou le conseil de surveillance ne délibère valablement que si la moitié au moins de ses
-membres sont présents. Toute clause contraire est réputée non écrite. 
+membres sont présents. Toute clause contraire est réputée non écrite.
 
 Sauf disposition contraire des statuts, le règlement intérieur peut prévoir que sont réputés présents les membres qui
 participent à la réunion par des moyens de visioconférence. Ces moyens de visioconférence doivent satisfaire à des
 caractéristiques techniques garantissant une participation effective à la réunion du conseil d'administration ou du conseil
-de surveillance, dont les délibérations sont retransmises de façon continue. 
+de surveillance, dont les délibérations sont retransmises de façon continue.
 
 A moins que les statuts ne prévoient une majorité plus forte, les décisions sont prises à la majorité des membres du conseil
-d'administration ou du conseil de surveillance. 
+d'administration ou du conseil de surveillance.
 
-Sauf disposition contraire des statuts, la voix du président de séance est prépondérante en cas de partage. 
+Sauf disposition contraire des statuts, la voix du président de séance est prépondérante en cas de partage.
 
 Les administrateurs ou les membres du conseil de surveillance, ainsi que toute personne appelée à assister aux réunions du
 conseil d'administration ou du conseil de surveillance, sont tenus à la discrétion à l'égard des informations présentant un
 caractère confidentiel et données comme telles par le président du conseil d'administration ou par le président du conseil de
-surveillance. 
+surveillance.
 
 III.-Il est tenu un registre de présence qui est signé par les administrateurs ou les membres du conseil de surveillance
 participant à la séance du conseil d'administration ou du conseil de surveillance et qui mentionne le nom des présents. Le
-vote par procuration est interdit. 
+vote par procuration est interdit.
 
 Les délibérations du conseil d'administration ou du conseil de surveillance sont constatées par des procès-verbaux établis
-sur un registre spécial tenu au siège social et coté et paraphé soit par un juge du tribunal d'instance ou du tribunal de
-grande instance, soit par le maire de la commune du siège social ou un adjoint au maire, dans la forme ordinaire et sans
-frais. 
+sur un registre spécial tenu au siège social et coté et paraphé soit par un juge du tribunal judiciaire, soit par le maire de
+la commune du siège social ou un adjoint au maire, dans la forme ordinaire et sans frais.
 
 Toutefois, les procès-verbaux peuvent être établis sur des feuilles mobiles numérotées sans discontinuité, paraphées dans les
 conditions prévues à l'alinéa précédent et revêtues du sceau de l'autorité qui les a paraphées. Dès qu'une feuille a été
 remplie, même partiellement, elle doit être jointe à celles précédemment utilisées. Toute addition, suppression, substitution
-ou interversion de feuilles est interdite. 
+ou interversion de feuilles est interdite.
 
 IV.-Le procès-verbal de la séance indique le nom des administrateurs ou des membres du conseil de surveillance présents ou
 réputés présents au sens du II, excusés ou absents. Il fait état de la présence ou de l'absence des personnes convoquées à la
 réunion du conseil d'administration ou du conseil de surveillance en vertu d'une disposition légale et de la présence de
 toute autre personne ayant assisté à tout ou partie de la réunion. Il fait également état de la survenance éventuelle d'un
-incident technique relatif à une visioconférence, lorsque cet incident a perturbé le déroulement de la séance. 
+incident technique relatif à une visioconférence, lorsque cet incident a perturbé le déroulement de la séance.
 
 Le procès-verbal est revêtu de la signature du président de séance et d'au moins un administrateur ou un membre du conseil de
 surveillance. En cas d'empêchement du président de séance, il est signé par deux administrateurs ou membres du conseil de
-surveillance au moins. 
+surveillance au moins.
 
 V.-Les copies ou extraits de procès-verbaux des délibérations sont valablement certifiés par le président du conseil
-d'administration ou du conseil de surveillance,  le directeur général , les directeurs généraux délégués ou un membre du
-directoire. 
+d'administration ou du conseil de surveillance, le directeur général , les directeurs généraux délégués ou un membre du
+directoire.
 
-Au cours de la liquidation de la société, ces copies ou extraits sont valablement certifiés par un seul liquidateur. 
+Au cours de la liquidation de la société, ces copies ou extraits sont valablement certifiés par un seul liquidateur.
 
 VI.-Il est suffisamment justifié du nombre des administrateurs ou des membres du conseil de surveillance en exercice ainsi
 que de leur présence à une séance par la production d'une copie ou d'un extrait du procès-verbal.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -43979,7 +43993,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-513 du 7 mai 2015 - art. 7
+  - Décret n°2019-913 du 30 août 2019 - art. 4
 
 _Cité par_:
 
@@ -63700,27 +63714,33 @@ _Cité par_:
 ###### Article R421-14
 
 Les demandes d'indemnités doivent obligatoirement être accompagnées d'une expédition de la décision de justice intervenue ou
-d'une copie certifiée conforme de l'acte portant règlement transactionnel pour la fixation définitive de l'indemnité. 
+d'une copie certifiée conforme de l'acte portant règlement transactionnel pour la fixation définitive de l'indemnité.
 
 A défaut d'accord du fonds de garantie avec la victime ou ses ayants droit soit sur la transaction intervenue, soit sur la
 fixation de l'indemnité lorsque le responsable des dommages est inconnu ou lorsque la décision de justice invoquée est
 inopposable au fonds de garantie, soit sur l'existence des diverses conditions d'ouverture du droit à l'indemnité, la victime
-ou ses ayants droit saisissent, suivant le taux de la demande, le tribunal d'instance ou le tribunal de grande instance. Le
-litige peut être porté devant la juridiction du lieu où l'accident s'est produit. 
+ou ses ayants droit saisissent le tribunal judiciaire. Le litige peut être porté devant la juridiction du lieu où l'accident
+s'est produit.
 
 En dehors de ces cas mentionnés à l'alinéa précédent et des contestations auxquelles peut donner lieu l'application des
 dispositions du dernier alinéa de l'article R. 421-15, le fonds de garantie ne peut être cité en justice par la victime ou
 ses ayants droit, notamment en déclaration de jugement commun pour l'application de l'article L. 421-1.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Décret n°2004-176 du 17 février 2004 - art. 1 () JORF 24 février 2004
+  - Décret n°2019-913 du 30 août 2019 - art. 4
 
 _Cité par_:
 
@@ -63732,8 +63752,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des assurances - art. L421-1 (V)
-  - Code des assurances - art. R421-15 (V)
+  - Code des assurances - art. L421-1
+  - Code des assurances - art. R421-15
 
 _Anciens textes_:
 
