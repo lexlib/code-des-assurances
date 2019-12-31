@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2019-10-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -4023,10 +4023,10 @@ _Cité par_:
 
 Le contrat stipule qu'en cas de désaccord entre l'assureur et l'assuré au sujet de mesures à prendre pour régler un
 différend, cette difficulté peut être soumise à l'appréciation d'une tierce personne désignée d'un commun accord par les
-parties ou, à défaut, par le président du tribunal de grande instance statuant en la forme des référés. Les frais exposés
-pour la mise en oeuvre de cette faculté sont à la charge de l'assureur. Toutefois, le président du tribunal de grande
-instance, statuant en la forme des référés, peut en décider autrement lorsque l'assuré a mis en oeuvre cette faculté dans des
-conditions abusives.
+parties ou, à défaut, par le président du tribunal judiciaire statuant selon la procédure accélérée au fond. Les frais
+exposés pour la mise en oeuvre de cette faculté sont à la charge de l'assureur. Toutefois, le président du tribunal
+judiciaire statuant selon la procédure accélérée au fond peut en décider autrement lorsque l'assuré a mis en oeuvre cette
+faculté dans des conditions abusives.
 
 Si l'assuré a engagé à ses frais une procédure contentieuse et obtient une solution plus favorable que celle qui lui avait
 été proposée par l'assureur ou par la tierce personne mentionnée à l'alinéa précédent, l'assureur l'indemnise des frais
@@ -4036,19 +4036,20 @@ Lorsque la procédure visée au premier alinéa de cet article est mise en oeuvr
 pour toutes les instances juridictionnelles qui sont couvertes par la garantie d'assurance et que l'assuré est susceptible
 d'engager en demande, jusqu'à ce que la tierce personne chargée de proposer une solution en ait fait connaître la teneur.
 
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°88-260 1988-03-18
+  - Décret n°88-260 du 18 mars 1988
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°89-1014 1989-12-31 art. 60 *date d'effet*
-
-_Créé par_:
-
-  - Loi n°89-1014 du 31 décembre 1989 - art. 5 () JORF 3 janvier 1990 en vigueur le 1er juillet 1990
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 1
 
 _Cité par_:
 
@@ -11932,28 +11933,36 @@ _Cite_:
 Les titres Ier, II et III du présent livre, à l'exception des articles L. 112-7, L. 112-8, L. 112-10, L. 113-15-2, L. 122-7,
 L. 125-1 à L. 125-6, L. 132-30 et L. 132-31, sont applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur
 antérieurement à la promulgation de la loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et
-financier. 
+financier.
 
 Les articles L. 112-10 et L. 113-15-2 sont applicables dans les îles Wallis et Futuna, à l'exception de l'avant-dernier
-alinéa de l'article L. 113-15-2. 
+alinéa de l'article L. 113-15-2.
 
 Les articles L. 122-7 et L. 125-1 à L. 125-6 sont applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur
-le 1er juillet 2000, à l'exception du quatrième alinéa de l'article L. 125-6 et sous réserve des adaptations suivantes : 
+le 1er juillet 2000, à l'exception du quatrième alinéa de l'article L. 125-6 et sous réserve des adaptations suivantes :
 
 a) Dans le deuxième alinéa de l'article L. 125-5, les mots : " et les dommages mentionnés à l'article L. 242-1 " sont
-supprimés ; 
+supprimés ;
 
-b) Dans le deuxième alinéa de l'article L. 125-6, les mots : 
+b) Dans le deuxième alinéa de l'article L. 125-6, les mots :
 
 " Cette obligation ne s'impose pas non plus " sont remplacés par les mots : " L'obligation prévue au premier alinéa de
-l'article L. 125-2 ne s'impose pas " ; 
+l'article L. 125-2 ne s'impose pas " ;
 
 Les articles L. 160-6 à L. 160-8 ainsi que le titre VII du présent livre sont applicables dans les îles Wallis et Futuna dans
-leur rédaction en vigueur lors de la promulgation de la loi n° 89-1014 du 31 décembre 1989 précitée. 
+leur rédaction en vigueur lors de la promulgation de la loi n° 89-1014 du 31 décembre 1989 précitée.
 
-Les articles L. 114-3, L. 132-21-1 et L. 132-29 sont applicables dans les îles Wallis et Futuna. 
+Les articles L. 114-3, L. 132-21-1 et L. 132-29 sont applicables dans les îles Wallis et Futuna.
+
+L'article L. 127-4 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant de l'ordonnance n° 2019-738 du
+17 juillet 2019.
 
 Le titre VII du présent livre est applicable dans les îles Wallis et Futuna.
+
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -11964,21 +11973,21 @@ _Cite_:
   - Code des assurances - art. L112-10
   - Code des assurances - art. L112-7
   - Code des assurances - art. L113-15-2
-  - Code des assurances - art. L114-3 (V)
+  - Code des assurances - art. L114-3
   - Code des assurances - art. L122-7
   - Code des assurances - art. L125-1
   - Code des assurances - art. L125-2
   - Code des assurances - art. L125-5
   - Code des assurances - art. L125-6
-  - Code des assurances - art. L132-21-1 (VD)
-  - Code des assurances - art. L132-29 (VD)
+  - Code des assurances - art. L132-21-1
+  - Code des assurances - art. L132-29
   - Code des assurances - art. L132-30
   - Code des assurances - art. L160-6
   - Code des assurances - art. L242-1
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1497 du 18 novembre 2015 - art. 6
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 29
 
 _Anciens textes_:
 
