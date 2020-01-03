@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-04
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -44813,8 +44813,10 @@ La convocation doit mentionner l'ordre du jour ; l'assemblée ne peut délibére
 jour.
 
 L'ordre du jour ne peut contenir que les propositions du conseil d'administration, du directoire ou du conseil de
-surveillance et celles qui lui auront été communiquées vingt jours au moins avant la réunion de l'assemblée générale avec la
-signature d'un dixième des sociétaires au moins, ou de cent sociétaires si le dixième est supérieur à cent.
+surveillance et celles qui lui auront été communiquées vingt-cinq jours au moins avant la réunion de l'assemblée générale
+avec la signature d'un dixième des sociétaires au moins, pour les sociétés de moins de mille sociétaires, de cent sociétaires
+au moins pour les sociétés de mille à dix mille sociétaires, d'un centième des sociétaires au moins pour les sociétés de dix
+mille à cent mille sociétaires, et de mille sociétaires au moins pour les sociétés de plus de cent mille sociétaires.
 
 Tous les sociétaires qui en auront fait la demande devront être informés de la réunion de chaque assemblée générale dans le
 délai imparti pour la convocation de cette assemblée.
@@ -44827,12 +44829,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-229 du 30 mars 2018 - art. 12
+  - Décret n°2020-1 du 2 janvier 2020 - art. 1
 
 _Cité par_:
 
   - Code des assurances - art. R*322-102 (V)
-  - Code des assurances - art. R322-119-2 (V)
+  - Code des assurances - art. R322-119-2 (M)
   - Code des assurances - art. R322-63 (V)
 
 _Anciens textes_:
