@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-01-04
+Version Consolidée au 2020-02-12
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -12327,6 +12327,26 @@ _Modifié par_:
   - Loi n°2007-1774 du 17 décembre 2007 - art. 1
 
 
+###### Article L211-1-1
+
+Le contrat d'assurance prévu à l'article L. 211-1 prévoit que lorsque l'assuré d'un véhicule techniquement ou économiquement
+irréparable n'accepte pas la proposition d'indemnisation prévue à l'article L. 327-1 du code de la route, la résiliation du
+contrat d'assurance est conditionnée à la fourniture d'un justificatif de destruction du véhicule, de sa réparation ou de
+souscription d'un contrat auprès d'un nouvel assureur. Un décret précise la nature du justificatif et les modalités de mise
+en œuvre du présent article.
+
+L'assureur est tenu de rembourser à l'assuré la partie de prime ou de cotisation qui correspond à la période pendant laquelle
+le risque n'a pas couru, période calculée à compter de la date de cession du véhicule en vue de sa destruction.
+
+Les dispositions du présent article sont d'ordre public et s'appliquent aux contrats en cours à compter du 1er juillet 2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-105 du 10 février 2020 - art. 102
+
+
 ###### Article L211-2
 
 Les dispositions de l'article L. 211-1 ne sont pas applicables aux dommages causés par les chemins de fer et les tramways.
@@ -12685,6 +12705,18 @@ _Cité par_:
   - Code des assurances - art. L211-22 (M)
   - Code des assurances - art. R211-31 (V)
   - Code des assurances - art. R211-39 (V)
+
+
+###### Article L211-10-1
+
+A l'occasion de sa première correspondance avec la victime, l'assureur est tenu d'informer cette dernière de ses obligations
+prévues par le code de l'environnement en matière de cession d'un véhicule hors d'usage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-105 du 10 février 2020 - art. 103
 
 
 ###### Article L211-11
