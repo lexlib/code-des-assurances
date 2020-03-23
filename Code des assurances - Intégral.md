@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-02-12
+Version Consolidée au 2020-03-24
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -29492,30 +29492,32 @@ pourcentage des dommages et intérêts et des sommes allouées en application de
 pénale. Ce pourcentage est fixé par arrêté du ministre chargé des assurances. 
 
 Lorsque l'auteur de l'infraction a fait l'objet d'une obligation d'indemnisation de la victime dans le cadre d'une peine de
-sanction-réparation, d'un sursis avec mise à l'épreuve ou d'une décision d'aménagement de peine ou de libération
-conditionnelle, la partie de la somme recouvrée sous le contrôle du procureur de la République ou du juge de l'application
-des peines et dans le respect des conditions fixées par ce dernier ou par son délégué ne sera assortie d'aucune pénalité au
-titre des frais de gestion. 
+sanction-réparation, d'un      sursis probatoire ou d'une décision d'aménagement de peine ou de libération conditionnelle, la
+partie de la somme recouvrée sous le contrôle du procureur de la République ou du juge de l'application des peines et dans le
+respect des conditions fixées par ce dernier ou par son délégué ne sera assortie d'aucune pénalité au titre des frais de
+gestion. 
 
 Le fonds recouvre par ailleurs les frais d'exécution éventuellement exposés.
 
 **Nota:**
 
-Loi n° 2008-644 du 1er juillet 2008 article 14 : Les articles 1er et 2 sont applicables à toutes les décisions
-juridictionnelles rendues à compter du premier jour du troisième mois suivant la date de publication de la présente loi (1er
-octobre 2008).
+Conformément au XIX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur un an après
+la publication de la présente loi. Les peines de contrainte pénale prononcées avant cette date s’exécutent jusqu’à leur terme
+conformément aux dispositions applicables au jour de leur prononcé, sous la réserve que les attributions confiées en
+application de l’article 713-47 du code de procédure pénale au président du tribunal judiciaire ou au juge désigné par lui
+sont exercées par le juge de l’application des peines.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2008-644 du 1er juillet 2008 - art. 2
 
 _Cité par_:
 
   - Arrêté du 28 novembre 2008 - art. 1 (V)
   - Code de procédure pénale - art. 474-1 (V)
   - Code des assurances - art. L422-10 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 81
 
 _Cite_:
 
