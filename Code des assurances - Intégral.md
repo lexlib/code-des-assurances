@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-03-25
+Version Consolidée au 2020-04-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -627,7 +627,7 @@ au plan d'épargne retraite populaire (art. R144-18 à R144-31)](#328)
       - [Titre II : Informations à fournir par les distributeurs et règles de conduite (art. R521-1 à R521-4)](#622)
         - [Chapitre unique  : Dispositions applicables à l'ensemble des contrats d'assurance (art. R521-1 à R521-4)](#623)
       - [Titre IV : Dispositions applicables dans les îles Wallis et Futuna (art. R541-1)](#624)
-  - [Partie réglementaire - Arrêtés (art. A111-1 à A512-8)](#625)
+  - [Partie réglementaire - Arrêtés (art. A111-1 à A522-1)](#625)
     - [Livre Ier : Le contrat (art. A111-1 à A160-4)](#626)
       - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes (art. A111-1 à A113-1)](#627)
         - [Chapitre Ier : Dispositions générales. (art. A111-1 à A111-6)](#628)
@@ -739,11 +739,13 @@ au plan d'épargne retraite populaire (art. A144-1)](#648)
       - [Titre IV : Régimes particuliers d'assurance (art. A441-1 à A441-6)](#733)
         - [Chapitre Ier : Dispositions relatives à certaines opérations de prévoyance collective et d'assurance. (art. A441-1 à A441-6)](#734)
           - [Section II : Règles techniques et comptables. (art. A441-1 à A441-6)](#735)
-    - [Livre V : Intermédiaires d'assurance (art. A512-1 à A512-8)](#736)
+    - [Livre V : Intermédiaires d'assurance (art. A512-1 à A522-1)](#736)
       - [Titre Ier : Intermédiation en assurance (art. A512-1 à A512-8)](#737)
         - [Chapitre II : Principes généraux (art. A512-1 à A512-8)](#738)
           - [Section I : Obligation d'immatriculation. (art. A512-1 à A512-3)](#739)
           - [Section II : Autres conditions d'accès et d'exercice. (art. A512-4 à A512-8)](#740)
+      - [Titre II : Informations à fournir par les distributeurs et règles de conduite (art. A522-1)](#741)
+        - [Chapitre Ier : Exigences en ce qui concerne les contrats de capitalisation et certains contrats d'assurance vie (art. A522-1)](#742)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Le contrat<a id=2></a>
@@ -74452,7 +74454,7 @@ du contrat provenant de la participation aux bénéfices ou des reprises de prov
 – le taux d'intérêt servi à l'assuré, net de frais et, le cas échéant, des taxes et des prélèvements sociaux prélevés lors de
 l'inscription des intérêts au contrat.
 
-II. – Pour l'application du huitième alinéa de l'article L. 132-22, les informations communiquées à l'assuré sont les
+II. – Pour l'application du dixième alinéa de l'article L. 132-22, les informations communiquées à l'assuré sont les
 suivantes :
 
 1° Pour les contrats auxquels des actifs sont affectés en vertu de dispositions législatives, le taux de rendement de ces
@@ -74465,7 +74467,7 @@ identification distincte pour satisfaire à des stipulations contractuelles, le 
 y compris ceux provenant de la participation aux bénéfices, affectés aux provisions mathématiques relatives à la catégorie
 d'opérations mentionnée à l'article A. 344-2, dont relève le contrat.
 
-III. – Pour l'application du neuvième alinéa de l'article L. 132-22, l'information annuelle du souscripteur ou, en cas de
+III. – Pour l'application du onzième alinéa de l'article L. 132-22, l'information annuelle du souscripteur ou, en cas de
 contrat de groupe, de l'adhérent comporte :
 
 – la valeur des unités de compte sélectionnées ;
@@ -74478,14 +74480,19 @@ contrat de groupe, de l'adhérent comporte :
 
 – le cas échéant, le produit des droits attachés à la détention de l'unité de compte conservé par l'entreprise d'assurance.
 
+Pour chaque unité de compte sélectionnée, les informations relatives à la performance brute de frais, à la performance nette
+de frais, aux frais prélevés et aux rétrocessions de commission perçues au titre de la gestion financière des actifs
+représentatifs des engagements exprimés en unités de compte sont présentées sous la forme d'un tableau mentionné en annexe de
+l'article A. 522-1.
+
 Les modifications significatives affectant chaque unité de compte sélectionnée, constituée sous la forme d'une part ou d'une
 action d'organisme de placement collectif, sont celles affectant ses caractéristiques principales, telles que définies à
 l'article A. 132-6.
 
-IV. – 1° Pour l'application du treizième alinéa de l'article L. 132-22, l'estimation du montant de la rente viagère qui
-serait versée à l'adhérent au titre des droits exprimés en euros peut être présentée distinctement de l'estimation établie à
-partir des droits exprimés en unités de comptes, qui elle-même peut être présentée distinctement de celle établie à partir
-des droits exprimés en parts de provision de diversification. L'estimation du montant de la rente viagère et celles réalisées
+IV. – 1° Pour l'application du seizième alinéa de l'article L. 132-22, l'estimation du montant de la rente viagère qui serait
+versée à l'adhérent au titre des droits exprimés en euros peut être présentée distinctement de l'estimation établie à partir
+des droits exprimés en unités de comptes, qui elle-même peut être présentée distinctement de celle établie à partir des
+droits exprimés en parts de provision de diversification. L'estimation du montant de la rente viagère et celles réalisées
 dans un scénario moins favorable sont présentées distinctement et en précisant clairement les hypothèses avec lesquelles
 elles sont réalisées. Ces hypothèses sont déterminées en fonction des risques susceptibles d'affecter le résultat final de
 l'évaluation.
@@ -74527,6 +74534,11 @@ date de l'information, en précisant si cette table est susceptible d'évoluer a
 l'affilié. Cette information est accompagnée d'une mention précisant que ces indications sont d'ordre statistique et ne
 constituent pas une évaluation de l'espérance de vie réelle de l'affilié.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 12 de l'arrêté du 26 décembre 2019, ces dispostions entrent en vigueur le 1er
+avril 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -74535,7 +74547,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 27 juin 2019 - art. 1
+  - Arrêté du 26 décembre 2019 - art. 5
 
 _Cite_:
 
@@ -74543,7 +74555,7 @@ _Cite_:
   - Code des assurances - art. A132-14
   - Code des assurances - art. A132-6
   - Code des assurances - art. A132-8
-  - Code des assurances - art. A344-2
+  - Code des assurances - art. A344-2 (V)
   - Code des assurances - art. L132-22
 
 _Cité par_:
@@ -83018,5 +83030,50 @@ _Cite_:
 
   - Code des assurances - art. L511-2
   - Code des assurances - art. R512-13-1 (VD)
+
+
+### Titre II : Informations à fournir par les distributeurs et règles de conduite<a id=741></a>
+
+#### Chapitre Ier : Exigences en ce qui concerne les contrats de capitalisation et certains contrats d'assurance vie<a id=742></a>
+
+###### Article A522-1
+
+L'information mentionnée au quatrième alinéa de l'article L. 522-5 contient une énonciation des unités de compte de référence
+et, pour chaque unité de compte, une indication : 
+
+i) De la performance de l'actif en représentation de l'unité de compte au cours du dernier exercice clos, brute des frais de
+gestion, exprimée en pourcentage ; 
+
+ii) Des frais de gestion prélevés sur l'actif en représentation de l'unité de compte au cours du dernier exercice clos,
+exprimés en pourcentage ; 
+
+iii) De la performance de l'unité de compte au cours du dernier exercice clos, nette des frais de gestion mentionnés au ii),
+exprimée en pourcentage ; 
+
+iv) Des frais récurrents prélevés sur le contrat, exprimés en pourcentage ; 
+
+v) De la performance finale de l'investissement au cours du dernier exercice clos, nette des frais de gestion et des frais
+récurrents mentionnés aux ii) et iv), exprimée en pourcentage ; 
+
+vi) De la quotité de frais ayant donné lieu à des rétrocessions de commission au profit des intermédiaires d'assurance, des
+gestionnaires délégués, du dépositaire ou de l'entreprise d'assurance, au cours du dernier exercice clos. 
+
+Les frais mentionnés au ii) correspondent aux frais courants mentionnés au 2 (b) de l'article 10 du règlement européen (UE)
+n° 583/2010 de la Commission européenne du 1er juillet 2010. 
+
+Les frais récurrents du contrat mentionnés au iv) incluent notamment les frais de gestion du contrat sur les unités de compte
+et, le cas échéant, les frais liés au financement de l'association souscriptrice. 
+
+Cette information est présentée sous la forme d'un tableau mentionné en annexe du présent arrêté.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 26 décembre 2019 - art. 6
+
+_Cite_:
+
+  - Code des assurances - art. L522-5 (V)
 
 
