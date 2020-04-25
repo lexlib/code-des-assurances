@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-04-01
+Version Consolidée au 2020-04-26
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -30679,7 +30679,7 @@ prélever le montant correspondant à ladite garantie sur les crédits d'aide à
 
 e) Pour des opérations de réassurance des entreprises habilitées à pratiquer en France des opérations d'assurance-crédit, au
 titre des opérations d'assurance des risques politiques et commerciaux à l'exportation d'une durée de paiement inférieure à
-deux ans que celles-ci réalisent vers des pays étrangers dans la limite globale de deux milliards d'euros. L'octroi de cette
+deux ans que celles-ci réalisent vers des pays étrangers dans la limite globale de cinq milliards d'euros. L'octroi de cette
 garantie est subordonné à la constatation d'une défaillance du marché de l'assurance-crédit. L'Etat n'est financièrement
 exposé au titre de ces opérations que pour autant que l'assureur-crédit, cosignataire du traité de réassurance, conserve une
 exposition au risque sur les entreprises bénéficiant du financement faisant l'objet de l'assurance-crédit. Un décret en
@@ -30756,7 +30756,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2020-289 du 23 mars 2020 - art. 5
+  - Loi n°2020-473 du 25 avril 2020 - art. 15
 
 
 ###### Article L432-3
