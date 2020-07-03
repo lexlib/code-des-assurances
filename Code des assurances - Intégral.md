@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-04-26
+Version Consolidée au 2020-07-04
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -40865,22 +40865,16 @@ _Anciens textes_:
 Lorsqu'il statue, en vertu des articles L. 215-1 et L. 215-2, en matière d'assurance de responsabilité civile des locataires
 et des bailleurs ou de responsabilité civile des copropriétaires, sur la saisine d'une personne assujettie aux obligations
 énoncées à ces articles, le Bureau central de tarification peut décider l'application d'une franchise dont le montant maximum
-par sinistre est fixé à 1 000 euros. 
+par sinistre est fixé à 1 000 euros.
 
 Lorsqu'il statue, en vertu de l'article L. 215-2, en matière d'assurance de responsabilité civile des syndicats de
 copropriétaires, sur la saisine d'une personne assujettie aux obligations énoncées à cet article, le Bureau central de
-tarification peut décider l'application d'une franchise dont le montant maximum est fixé à : 
+tarification peut décider l'application d'une franchise dont le montant maximum est fixé à :
 
-5 000 euros par sinistre pour les syndicats de copropriétaires mentionnés à la deuxième phrase du deuxième alinéa de
-l'article 14-3 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis ; 
+5 000 euros par sinistre pour les syndicats de copropriétaires mentionnés à l'article 41-8 de la loi n° 65-557 du 10 juillet
+1965  fixant le statut de la copropriété des immeubles bâtis ;
 
 10 000 euros par sinistre pour les autres syndicats.
-
-**Nota:**
-
-Conformément à l'article 5 du décret n° 2015-518 du 11 mai 2015, les présentes dispositions entrent en vigueur à la date de
-la première réunion de chacune des formations mentionnées au 1° à 5° de l'article R. 250-1 du code des assurances dans leur
-composition résultant de l'article 1er dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -40888,11 +40882,11 @@ _Cite_:
 
   - Loi n°65-557 du 10 juillet 1965 - art. 14-3
   - Code des assurances - art. L215-1
-  - Code des assurances - art. L215-2 (V)
+  - Code des assurances - art. L215-2
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-518 du 11 mai 2015 - art. 3
+  - Décret n°2020-834 du 2 juillet 2020 - art. 52
 
 
 ###### Article R250-5
