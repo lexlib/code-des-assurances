@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-08-01
+Version Consolidée au 2020-09-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -29286,6 +29286,10 @@ Le fonds de garantie est tenu, dans un délai d'un mois à compter de la demande
 provisions à la victime qui a subi une atteinte à sa personne ou, en cas de décès de la victime, à ses ayants droit, sans
 préjudice du droit pour ces victimes de saisir le juge des référés.
 
+Pour procéder à l'examen médical de la victime mentionnée à l'article L. 126-1, le fonds de garantie choisit un médecin
+spécialisé en évaluation des dommages corporels inscrit sur les listes des experts judiciaires dressées par les cours
+d'appel.
+
 Le fonds de garantie est tenu de présenter à toute victime une offre d'indemnisation dans un délai de trois mois à compter du
 jour où il reçoit de celle-ci la justification de ses préjudices. Cette disposition est également applicable en cas
 d'aggravation du dommage.
@@ -29297,21 +29301,13 @@ Le fonds rembourse aux régimes d'assurance maladie les dépenses mentionnées a
 du code de la sécurité sociale.
 
 Le présent article s'applique lorsque la juridiction reconnaît le droit à indemnisation de la victime. En ce cas, le délai
-mentionné au deuxième alinéa court à compter du jour où la décision de la juridiction est exécutoire.
+mentionné au troisième alinéa court à compter du jour où la décision de la juridiction est exécutoire.
 
 **Nota:**
 
-Conformément aux dispositions du VIII de l'article 64 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en
-vigueur le premier jour du mois suivant la publication de ladite loi. A cette date, les procédures en cours devant les
-juridictions civiles sont transférées en l'état au tribunal de grande instance de Paris.
-
-Les affaires peuvent être renvoyées par la juridiction initialement saisie avant la date mentionnée au premier alinéa dudit
-VIII pour une audience postérieure à cette date devant le tribunal de grande instance de Paris.
-
-Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus avant le transfert des
-procédures. Les parties sont informées par la juridiction antérieurement compétente qu'il leur appartient d'accomplir les
-actes de la procédure devant le tribunal de grande instance de Paris. Les archives et les minutes du secrétariat de la
-juridiction antérieurement compétente sont transférées au greffe du tribunal de grande instance de Paris.
+Conformément aux dispositions du VIII de l'article 64 de la loi n° 2019-222 du 23 mars 2019, les dispositions de l'article L.
+422-2 telles qu'elles résultent du a du 2° du V et du VI dudit article entrent en vigueur le premier jour du dix-huitième
+mois suivant la publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -29322,7 +29318,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D169-4 (V)
   - Code de la sécurité sociale. - art. L169-1 (V)
   - Code de la sécurité sociale. - art. L169-10 (VD)
-  - Code de la sécurité sociale. - art. L169-4 (VD)
+  - Code de la sécurité sociale. - art. L169-4 (V)
 
 _Modifié par_:
 
