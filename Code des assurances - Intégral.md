@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-09-01
+Version Consolidée au 2020-10-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -6951,18 +6951,18 @@ I. - Le conseil d'administration des associations souscriptrices de contrats d'a
 capitalisation dont le lien qui unit l'adhérent au souscripteur ne rend pas obligatoire l'adhésion au contrat est composé,
 pour plus de la moitié, de membres ne détenant ou n'ayant détenu au cours des deux années précédant leur désignation aucun
 intérêt ni aucun mandat dans l'organisme d'assurance signataire du contrat d'assurance de groupe, et ne recevant ou n'ayant
-reçu au cours de la même période aucune rétribution de la part de ce même organisme. 
+reçu au cours de la même période aucune rétribution de la part de ce même organisme.
 
-Les adhérents à ces contrats sont membres de droit de l'association  souscriptrice ; ils disposent d'un droit de vote à
-l'assemblée générale  et peuvent proposer à celle-ci une résolution. 
+Les adhérents à ces contrats sont membres de droit de l'association souscriptrice ; ils disposent d'un droit de vote à
+l'assemblée générale et peuvent proposer à celle-ci une résolution.
 
-L'assemblée générale a seule qualité pour autoriser la modification des  dispositions essentielles du contrat d'assurance de
-groupe souscrit par  l'association. 
+L'assemblée générale a seule qualité pour autoriser la modification des dispositions essentielles du contrat d'assurance de
+groupe souscrit par l'association.
 
 Un décret en Conseil d'Etat précise, pour ces associations, les droits des adhérents lors des assemblées générales.
 
 II. - Le I ne s'applique pas au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la
-fonction publique. 
+fonction publique.
 
 III. - Le I ne s'applique pas à la convention d'assurance de groupe ayant pour objet la mise en œuvre du régime de la
 complémentaire retraite des hospitaliers, souscrite par le comité de gestion des œuvres sociales des établissements
@@ -6970,11 +6970,19 @@ hospitaliers publics. Les affiliés à cette convention sont informés individue
 fixée pour la réunion de l'assemblée générale, de son ordre du jour. Ils sont destinataires du relevé des décisions votées
 par l'assemblée générale et peuvent, sur demande, obtenir communication de son procès-verbal.
 
+IV.-L'assemblée générale adopte des règles de déontologie visant à prévenir et résoudre les conflits d'intérêt, dans des
+conditions précisées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément au II de l’article 9 de l’ordonnance n° 2019-766 du 24 juillet 2019, ces dispositions s'appliquent à compter
+d'une date fixée par décret et au plus tard le 1er décembre 2020.
+
+Aux termes du III de l'article 9 du décret n° 2019-807 du 30 juillet 2019, la date d'entrée en vigueur mentionnée au II de
+l'article 9 de l'ordonnance n° 2019-766 du 24 juillet 2019 portant réforme de l'épargne retraite est fixée au 1er octobre
+2020.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 85
 
 _Cité par_:
 
@@ -6985,6 +6993,10 @@ _Cité par_:
   - Code des assurances - art. R141-6 (V)
   - Code des assurances - art. R144-6 (V)
   - Code des assurances - art. R382-4 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-766 du 24 juillet 2019 - art. 5
 
 
 #### Chapitre II : Plans d'épargne retraite donnant lieu à l'adhésion à un contrat d'assurance de groupe<a id=31></a>
