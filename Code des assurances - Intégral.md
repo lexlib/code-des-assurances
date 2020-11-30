@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-10-01
+Version Consolidée au 2020-12-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -2061,24 +2061,29 @@ _Cite_:
 ###### Article L113-12
 
 La durée du contrat et les conditions de résiliation, particulièrement le droit pour l'assureur et l'assuré de résilier le
-contrat tous les ans, sont fixées par la police.
+contrat tous les ans, sont fixées par la police. 
 
-Toutefois, l'assuré a le droit de résilier le contrat à l'expiration d'un délai d'un an, en adressant une lettre recommandée
-ou un envoi recommandé électronique à l'assureur au moins deux mois avant la date d'échéance de ce contrat.
+Toutefois, l'assuré a le droit de résilier le contrat à l'expiration d'un délai d'un an, en adressant une notification dans
+les conditions prévues à l'article L. 113-14 à l'assureur au moins deux mois avant la date d'échéance de ce contrat. 
 
 Lorsque l'assuré a souscrit un contrat à des fins professionnelles, l'assureur a aussi le droit de résilier le contrat dans
-les mêmes conditions.
+les mêmes conditions. 
 
 Dans les autres cas, l'assureur peut résilier le contrat à l'expiration d'un délai d'un an, à la condition d'envoyer une
-lettre recommandée à l'assuré au moins deux mois avant la date d'échéance du contrat.
+lettre recommandée à l'assuré au moins deux mois avant la date d'échéance du contrat. 
 
 Il peut être dérogé à ces règles de résiliation annuelle pour les contrats individuels d'assurance maladie et pour la
-couverture des risques autres que ceux des particuliers.
+couverture des risques autres que ceux des particuliers. 
 
-Le délai de résiliation court à partir de la date figurant sur le cachet de la poste ou de la date d'expédition de l'envoi
-recommandé électronique.
+Le délai de résiliation court à partir de la date figurant sur le cachet de la poste ou de la date d'expédition de la
+notification. 
 
 Les dispositions du présent article ne sont pas applicables aux assurances sur la vie.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
@@ -2093,7 +2098,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 3
+  - Loi n°2019-733 du 14 juillet 2019 - art. 1
 
 _Cité par_:
 
@@ -2102,8 +2107,12 @@ _Cité par_:
   - Code de la consommation - art. L313-31 (VD)
   - Code de la consommation - art. L313-32 (VD)
   - Code des assurances - art. L113-12-1 (V)
-  - Code des assurances - art. L113-12-2 (VD)
+  - Code des assurances - art. L113-12-2 (V)
   - Code des assurances - art. L113-13 (Ab)
+
+_Cite_:
+
+  - Code des assurances - art. L113-14
 
 
 ###### Article L113-12-1
@@ -2171,9 +2180,26 @@ _Cite_:
 
 ###### Article L113-14
 
-Dans tous les cas où l'assuré a la faculté de demander la résiliation, il peut le faire à son choix, soit par une déclaration
-faite contre récépissé au siège social ou chez le représentant de l'assureur dans la localité, soit par acte extrajudiciaire,
-soit par lettre recommandée ou par envoi recommandé électronique, soit par tout autre moyen indiqué dans la police.
+Lorsque l'assuré a le droit de résilier le contrat, la notification de la résiliation peut être effectuée, au choix de
+l'assuré :
+
+1° Soit par lettre ou tout autre support durable ;
+
+2° Soit par déclaration faite au siège social ou chez le représentant de l'assureur ;
+
+3° Soit par acte extrajudiciaire ;
+
+4° Soit, lorsque l'assureur propose la conclusion de contrat par un mode de communication à distance, par le même mode de
+communication ;
+
+5° Soit par tout autre moyen prévu par le contrat.
+
+Le destinataire confirme par écrit la réception de la notification.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
@@ -2183,7 +2209,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 3
+  - Loi n°2019-733 du 14 juillet 2019 - art. 1
 
 _Cité par_:
 
@@ -2229,21 +2255,26 @@ date limite d'exercice par l'assuré du droit à dénonciation du contrat doit �
 annuelle de prime ou de cotisation. Lorsque cet avis lui est adressé moins de quinze jours avant cette date, ou lorsqu'il lui
 est adressé après cette date, l'assuré est informé avec cet avis qu'il dispose d'un délai de vingt jours suivant la date
 d'envoi de cet avis pour dénoncer la reconduction du contrat. Dans ce cas, le délai de dénonciation court à partir de la date
-figurant sur le cachet de la poste ou certifiée par un horodatage satisfaisant à des exigences définies par décret.
+figurant sur le cachet de la poste ou certifiée par un horodatage satisfaisant à des exigences définies par décret. 
 
 Lorsque cette information ne lui a pas été adressée conformément aux dispositions du premier alinéa, l'assuré peut mettre un
-terme au contrat, sans pénalités, à tout moment à compter de la date de reconduction en adressant une lettre recommandée ou
-un envoi recommandé électronique à l'assureur. La résiliation prend effet le lendemain de la date figurant sur le cachet de
-la poste ou de la date d'expédition de l'envoi recommandé électronique.
+terme au contrat, sans pénalités, à tout moment à compter de la date de reconduction en adressant une notification par
+lettre, tout autre support durable ou moyen prévu à l'article L. 113-14 à l'assureur. La résiliation prend effet le lendemain
+de la date figurant sur le cachet de la poste ou de la date de notification. 
 
 L'assuré est tenu au paiement de la partie de prime ou de cotisation correspondant à la période pendant laquelle le risque a
 couru, période calculée jusqu'à la date d'effet de la résiliation. Le cas échéant, l'assureur doit rembourser à l'assuré,
 dans un délai de trente jours à compter de la date d'effet de la résiliation, la partie de prime ou de cotisation
 correspondant à la période pendant laquelle le risque n'a pas couru, période calculée à compter de ladite date d'effet. A
-défaut de remboursement dans ces conditions, les sommes dues sont productives d'intérêts au taux légal.
+défaut de remboursement dans ces conditions, les sommes dues sont productives d'intérêts au taux légal. 
 
 Les dispositions du présent article ne s'appliquent ni aux assurances sur la vie, ni aux assurances de groupe relevant de
 l'article L. 141-1.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
@@ -2259,52 +2290,66 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 3
+  - Loi n°2019-733 du 14 juillet 2019 - art. 1
 
 _Cite_:
 
+  - Code des assurances - art. L113-14
   - Code des assurances - art. L141-1
 
 
 ###### Article L113-15-2
 
 Pour les contrats d'assurance couvrant les personnes physiques en dehors de leurs activités professionnelles et relevant des
-branches définies par décret en Conseil d'Etat, l'assuré peut, à l'expiration d'un délai d'un an à compter de la première
-souscription, résilier sans frais ni pénalités les contrats et adhésions tacitement reconductibles. La résiliation prend
-effet un mois après que l'assureur en a reçu notification par l'assuré, par lettre ou tout autre support durable. 
+branches ou des catégories de contrats définies par décret en Conseil d'Etat, l'assuré peut, après expiration d'un délai d'un
+an à compter de la première souscription, résilier sans frais ni pénalités les contrats et adhésions tacitement
+reconductibles. La résiliation prend effet un mois après que l'assureur en a reçu notification par l'assuré.
 
 Le droit de résiliation prévu au premier alinéa est mentionné dans chaque contrat d'assurance. Il est en outre rappelé avec
-chaque avis d'échéance de prime ou de cotisation. 
+chaque avis d'échéance de prime ou de cotisation.
 
-Lorsque le contrat est résilié dans les conditions prévues au premier alinéa, l'assuré n'est tenu qu'au paiement de la partie
-de prime ou de cotisation correspondant à la période pendant laquelle le risque est couvert, cette période étant calculée
+Le droit de résiliation prévu au même premier alinéa n'est pas ouvert à l'adhérent lorsque le lien qui l'unit à l'employeur
+rend obligatoire l'adhésion au contrat.
+
+Lorsque le contrat est résilié dans les conditions prévues au premier alinéa, l'assuré n'est redevable que de la partie de
+prime ou de cotisation correspondant à la période pendant laquelle le risque est couvert, cette période étant calculée
 jusqu'à la date d'effet de la résiliation. L'assureur est tenu de rembourser le solde à l'assuré dans un délai de trente
 jours à compter de la date de résiliation. A défaut de remboursement dans ce délai, les sommes dues à l'assuré produisent de
-plein droit intérêts au taux légal. 
+plein droit intérêts au taux légal.
+
+Pour les contrats d'assurance de personnes souscrits par un employeur ou une personne morale au profit de ses salariés ou
+adhérents et relevant des catégories de contrats définies par décret en Conseil d'Etat, le droit de résiliation prévu au même
+premier alinéa est ouvert au souscripteur.
 
 Pour l'assurance de responsabilité civile automobile définie à l'article L. 211-1 et pour l'assurance mentionnée au g de
 l'article 7 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi
 n° 86-1290 du 23 décembre 1986, le nouvel assureur effectue pour le compte de l'assuré souhaitant le rejoindre les formalités
 nécessaires à l'exercice du droit de résiliation dans les conditions prévues au premier alinéa du présent article. Il
-s'assure en particulier de la permanence de la couverture de l'assuré durant la procédure. 
+s'assure en particulier de la permanence de la couverture de l'assuré durant la procédure.
+
+Dans le cas où l'assuré souhaite résilier un contrat conclu pour le remboursement et l'indemnisation des frais occasionnés
+par une maladie, une maternité ou un accident afin de souscrire un nouveau contrat auprès d'un nouvel organisme, celui-ci
+effectue pour le compte de l'assuré souhaitant le rejoindre les formalités nécessaires à l'exercice du droit de résiliation
+dans les conditions prévues au premier alinéa du présent article. Les organismes intéressés s'assurent de l'absence
+d'interruption de la couverture de l'assuré durant la procédure.
 
 Un décret en Conseil d'Etat précise les modalités et conditions d'application du présent article.
 
 **Nota:**
 
-Loi n° 2014-344 du 17 mars 2014 art. 61 II : Ces dispositions s'appliquent aux contrats conclus ou tacitement reconduits à
-compter de la publication du décret mentionné au dernier alinéa de l'article L. 113-15-2 du code des assurances .
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
+
+Le droit de résiliation ou de dénonciation prévu à l'article L. 113-15-2 du code des assurances, aux articles L. 932-12-1 et
+L. 932-21-2 du code de la sécurité sociale et à l'article L. 221-10-2 du code de la mutualité, dans leur rédaction résultant
+de ladite loi, est applicable aux adhésions et contrats existants à cette date.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°89-462 du 6 juillet 1989 - art. 7 (V)
-  - Code des assurances - art. L211-1 (V)
-
-_Créé par_:
-
-  - Loi n°2014-344 du 17 mars 2014 - art. 61 (V)
+  - Loi n°89-462 du 6 juillet 1989 - art. 7
+  - Code des assurances - art. L211-1
 
 _Cité par_:
 
@@ -2313,6 +2358,10 @@ _Cité par_:
   - Code des assurances - art. L194-1 (VD)
   - Code des assurances - art. R113-11 (V)
   - Code des assurances - art. R113-12 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-733 du 14 juillet 2019 - art. 1
 
 
 ###### Article L113-16
@@ -2735,22 +2784,27 @@ _Anciens textes_:
 
 En cas de décès de l'assuré ou d'aliénation de la chose assurée, l'assurance continue de plein droit au profit de l'héritier
 ou de l'acquéreur, à charge par celui-ci d'exécuter toutes les obligations dont l'assuré était tenu vis-à-vis de l'assureur
-en vertu du contrat.
+en vertu du contrat. 
 
 Il est loisible, toutefois, soit à l'assureur, soit à l'héritier ou à l'acquéreur de résilier le contrat. L'assureur peut
 résilier le contrat dans un délai de trois mois à partir du jour où l'attributaire définitif des objets assurés a demandé le
-transfert de la police à son nom.
+transfert de la police à son nom. 
 
 En cas d'aliénation de la chose assurée, celui qui aliène reste tenu vis-à-vis de l'assureur au paiement des primes échues,
 mais il est libéré, même comme garant des primes à échoir, à partir du moment où il a informé l'assureur de l'aliénation par
-lettre recommandée ou par envoi recommandé électronique.
+lettre, tout autre support durable ou moyen prévu à l'article L. 113-14. 
 
 Lorsqu'il y a plusieurs héritiers ou plusieurs acquéreurs, si l'assurance continue, ils sont tenus solidairement du paiement
-des primes.
+des primes. 
 
-Il ne peut être prévu le paiement d'une indemnité à l'assureur dans les cas de résiliation susmentionnés.
+Il ne peut être prévu le paiement d'une indemnité à l'assureur dans les cas de résiliation susmentionnés. 
 
 Les dispositions du présent article ne sont pas applicables au cas d'aliénation d'un véhicule terrestre à moteur.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
@@ -2758,35 +2812,45 @@ _Codifié par_:
 
   - Décret n°76-666 du 16 juillet 1976
 
-_Anciens textes_:
-
-  - Loi n°1930-07-13 art. 19
-
 _Modifié par_:
 
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 5
+  - Loi n°2019-733 du 14 juillet 2019 - art. 1
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. L111-38 (V)
   - Code des assurances - art. L243-7 (V)
 
+_Cite_:
+
+  - Code des assurances - art. L113-14
+
+_Anciens textes_:
+
+  - Loi n°1930-07-13 art. 19
+
 
 ###### Article L121-11
 
 En cas d'aliénation d'un véhicule terrestre à moteur ou de ses remorques ou semi-remorques, et seulement en ce qui concerne
 le véhicule aliéné, le contrat d'assurance est suspendu de plein droit à partir du lendemain, à zéro heure, du jour de
-l'aliénation ; il peut être résilié, moyennant préavis de dix jours, par chacune des parties.
+l'aliénation ; il peut être résilié, moyennant préavis de dix jours, par chacune des parties. 
 
 A défaut de remise en vigueur du contrat par accord des parties ou de résiliation par l'une d'elles, la résiliation
-intervient de plein droit à l'expiration d'un délai de six mois à compter de l'aliénation.
+intervient de plein droit à l'expiration d'un délai de six mois à compter de l'aliénation. 
 
-L'assuré doit informer l'assureur, par lettre recommandée ou par envoi recommandé électronique, de la date d'aliénation.
+L'assuré doit informer l'assureur, par lettre, message sur support durable ou moyen prévu à l'article L. 113-14, de la date
+d'aliénation. 
 
-Il ne peut être prévu le paiement d'une indemnité à l'assureur, dans les cas de résiliation susmentionnés.
+Il ne peut être prévu le paiement d'une indemnité à l'assureur, dans les cas de résiliation susmentionnés. 
 
 L'ensemble des dispositions du présent article est applicable en cas d'aliénation de navires ou de bateaux de plaisance quel
 que soit le mode de déplacement ou de propulsion utilisé.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
@@ -2794,17 +2858,21 @@ _Codifié par_:
 
   - Décret n°76-666 du 16 juillet 1976
 
-_Anciens textes_:
-
-  - Loi n°1930-07-13 art. 19 bis
-
 _Modifié par_:
 
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 5
+  - Loi n°2019-733 du 14 juillet 2019 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L113-14
 
 _Cité par_:
 
   - Code des assurances - art. L192-2 (V)
+
+_Anciens textes_:
+
+  - Loi n°1930-07-13 art. 19 bis
 
 
 ###### Article L121-12
@@ -8479,15 +8547,25 @@ _Cite_:
 
 ###### Article L145-8
 
-Le souscripteur et l'entreprise d'assurance peuvent résilier le contrat tous les ans par notification à l'autre partie au
-moins deux mois avant la date d'échéance. Cette notification doit être faite par lettre recommandée ou, dans le cas où la
-résiliation est demandée par l'assuré, par lettre recommandée ou envoi recommandé électronique.
+Sans préjudice de l'article L. 113-15-2, le souscripteur et l'entreprise d'assurance peuvent résilier le contrat tous les ans
+par notification à l'autre partie au moins deux mois avant la date d'échéance. Cette notification doit être faite par lettre
+recommandée ou, dans le cas où la résiliation est demandée par le souscripteur, par lettre recommandée ou envoi recommandé
+électronique.
+
+**Nota:**
+
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 7
+  - Loi n°2019-733 du 14 juillet 2019 - art. 1
+
+_Cite_:
+
+  - Code des assurances - art. L113-15-2
 
 
 ###### Article L145-9
@@ -11947,8 +12025,9 @@ L. 125-1 à L. 125-6, L. 132-30 et L. 132-31, sont applicables dans les îles Wa
 antérieurement à la promulgation de la loi n° 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et
 financier.
 
-Les articles L. 112-10 et L. 113-15-2 sont applicables dans les îles Wallis et Futuna, à l'exception de l'avant-dernier
-alinéa de l'article L. 113-15-2.
+Les articles L. 112-10, L. 113-14, L. 113-15 et L. 113-15-2 sont applicables dans les îles Wallis et Futuna dans leur
+rédaction résultant de la loi n° 2019-733 du 14 juillet 2019 relative au droit de résiliation sans frais de contrats de
+complémentaire santé, à l'exception du sixième alinéa de l'article L. 113-15-2.
 
 Les articles L. 122-7 et L. 125-1 à L. 125-6 sont applicables dans les îles Wallis et Futuna dans leur rédaction en vigueur
 le 1er juillet 2000, à l'exception du quatrième alinéa de l'article L. 125-6 et sous réserve des adaptations suivantes :
@@ -11973,8 +12052,8 @@ Le titre VII du présent livre est applicable dans les îles Wallis et Futuna.
 
 **Nota:**
 
-<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
-s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
@@ -11999,6 +12078,7 @@ _Cite_:
 
 _Modifié par_:
 
+  - Loi n°2019-733 du 14 juillet 2019 - art. 1
   - Ordonnance n°2019-738 du 17 juillet 2019 - art. 29
 
 _Anciens textes_:
