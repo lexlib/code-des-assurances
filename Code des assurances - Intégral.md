@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-12-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -15340,25 +15340,26 @@ _Cite_:
 
 ###### Article L310-1-1-1
 
-L'article L. 225-102-1 du code de commerce est applicable, dans les conditions prévues pour les sociétés mentionnées au 1° de
-son I, aux entreprises d'assurance et de réassurance mentionnées aux articles L. 310-1 et L. 310-1-1 qui revêtent la forme
-sociale de société anonyme et dont le total du bilan ou le chiffre d'affaires et le nombre de salariés excèdent, le cas
-échéant sur une base consolidée ou combinée, les seuils prévus pour les sociétés mentionnées au 1° du I du même article.
+L'article L. 22-10-36 du code de commerce est applicable, aux entreprises d'assurance et de réassurance mentionnées aux
+articles L. 310-1 et L. 310-1-1 qui revêtent la forme sociale de société anonyme et dont le total du bilan ou le chiffre
+d'affaires et le nombre de salariés excèdent, le cas échéant sur une base consolidée ou combinée, les seuils prévus par le
+décret mentionné au I du même article.
 
 Cet article s'applique également aux sociétés mutuelles d'assurance, dans les conditions prévues pour les sociétés
-mentionnées au 2° de son I, lorsque le total de leur bilan ou leur chiffre d'affaires et leur nombre de salariés excèdent, le
-cas échéant sur une base consolidée ou combinée, les seuils prévus pour les sociétés mentionnées au 2° du I du même article.
+mentionnées à l'article L. 225-102-1 du code de commerce, lorsque le total de leur bilan ou leur chiffre d'affaires et leur
+nombre de salariés excèdent, le cas échéant sur une base consolidée ou combinée, les seuils prévus pour les sociétés
+mentionnées au même article.
 
 **Nota:**
 
-Conformément à l'article 15 de l'ordonnance n° 2017-1180 du 19 juillet 2017, ces dispositions sont applicables aux rapports
-afférents aux exercices ouverts à compter du 1er août 2017.
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-1180 du 19 juillet 2017 - art. 6
+  - Ordonnance n°2020-1142 du 16 septembre 2020 - art. 11
 
 _Cite_:
 
@@ -15368,7 +15369,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code des assurances - art. L390-1 (V)
+  - Code des assurances - art. L390-1 (VD)
 
 
 ###### Article L310-1-1-2
@@ -21379,29 +21380,34 @@ _Cite_:
 
 ###### Article L322-26-7
 
-I.-Des options peuvent être consenties dans les mêmes conditions qu'aux articles L. 225-177 à L. 225-179 du code de commerce
-par une entreprise contrôlée, directement ou indirectement, exclusivement ou conjointement, par des sociétés d'assurance
-mutuelles mentionnées aux articles L. 322-26-1 et L. 322-26-4 du présent code et appartenant au même périmètre de combinaison
-tel que défini par l'article L. 345-2, aux salariés de ces entités ainsi qu'à ceux des entités contrôlées, directement ou
-indirectement, exclusivement ou conjointement, par ces sociétés d'assurance mutuelles. 
-
-II.-Des actions peuvent être attribuées dans les mêmes conditions que celles prévues à l'article L. 225-197-1 du code de
-commerce par une entreprise contrôlée, directement ou indirectement, exclusivement ou conjointement, par des sociétés
+I.-Des options peuvent être consenties dans les mêmes conditions qu'aux articles L. 225-177 à L. 225-179 et L. 22-10-56 du
+code de commerce par une entreprise contrôlée, directement ou indirectement, exclusivement ou conjointement, par des sociétés
 d'assurance mutuelles mentionnées aux articles L. 322-26-1 et L. 322-26-4 du présent code et appartenant au même périmètre de
 combinaison tel que défini par l'article L. 345-2, aux salariés de ces entités ainsi qu'à ceux des entités contrôlées,
 directement ou indirectement, exclusivement ou conjointement, par ces sociétés d'assurance mutuelles.
 
+II.-Des actions peuvent être attribuées dans les mêmes conditions que celles prévues aux articles L. 225-197-1 et L. 22-10-59
+du code de commerce par une entreprise contrôlée, directement ou indirectement, exclusivement ou conjointement, par des
+sociétés d'assurance mutuelles mentionnées aux articles L. 322-26-1 et L. 322-26-4 du présent code et appartenant au même
+périmètre de combinaison tel que défini par l'article L. 345-2, aux salariés de ces entités ainsi qu'à ceux des entités
+contrôlées, directement ou indirectement, exclusivement ou conjointement, par ces sociétés d'assurance mutuelles.
+
+**Nota:**
+
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2014-856 du 31 juillet 2014 - art. 54
+  - Ordonnance n°2020-1142 du 16 septembre 2020 - art. 11
 
 _Cite_:
 
   - Code de commerce - art. L225-177
   - Code de commerce - art. L225-197-1
-  - Code des assurances - art. L322-26-1 (M)
+  - Code des assurances - art. L322-26-1
   - Code des assurances - art. L345-2
 
 
@@ -27612,23 +27618,24 @@ _Cite_:
 ###### Article L390-1
 
 Le présent livre est applicable dans les îles Wallis et Futuna, à l'exception de l'article L. 322-3-2 et des titres V, VI et
-VII. 
+VII.
 
 Les dispositions du premier alinéa s'appliquent aux entreprises d'assurance établies dans les îles Wallis et Futuna, y
 compris à celles qui, par dérogation aux dispositions de l'article L. 310-3-1, sont susceptibles de relever du régime dit "
-Solvabilité II ". 
+Solvabilité II ".
 
-Les articles L. 310-1-1-1 et L. 322-26-2-4 sont applicables dans leur rédaction résultant de l'ordonnance n° 2017-1180 du 19
-juillet 2017 relative à la publication d'informations non financières par certaines grandes entreprises et certains groupes
-d'entreprises. 
+Les articles L. 310-1-1-1 et L. 322-26-7 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16
+septembre 2020.
+
+L'article L. 322-26-2-4 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1180 du 19 juillet 2017.
 
 L'article L. 324-1 est applicable dans sa rédaction résultant de la loi n° 2015-990 du 6 août 2015 pour la croissance,
 l'activité et l'égalité des chances économiques.
 
 **Nota:**
 
-Conformément à l'article 15 de l'ordonnance n° 2017-1180 du 19 juillet 2017, ces dispositions sont applicables aux rapports
-afférents aux exercices ouverts à compter du 1er août 2017.
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -27640,7 +27647,7 @@ _Cite_:
 
   - Loi n°2015-990 du 6 août 2015
   - Ordonnance n°2017-1180 du 19 juillet 2017
-  - Code des assurances - art. L310-1-1-1
+  - Code des assurances - art. L310-1-1-1 (VD)
   - Code des assurances - art. L310-3-1
   - Code des assurances - art. L322-26-2-4
   - Code des assurances - art. L322-3-2
@@ -27648,7 +27655,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1180 du 19 juillet 2017 - art. 14
+  - Ordonnance n°2020-1142 du 16 septembre 2020 - art. 11
 
 _Anciens textes_:
 
@@ -31653,6 +31660,8 @@ d'assurance responsabilité civile desdits véhicules, l'information :
 2° De l'Etat dans le cadre de sa mission de contrôle de l'obligation d'assurance de responsabilité civile automobile prévue
 au chapitre Ier du titre Ier du livre II ; 
 
+2° bis De l'Etat dans le cadre de sa mission de lutte contre la gestion illégale des véhicules hors d'usage ; 
+
 3° Du fonds de garantie des assurances obligatoires de dommages dans le cadre de ses missions prévues au V de l'article L.
 421-1. 
 
@@ -31665,22 +31674,22 @@ conditions fixées par décret en Conseil d'Etat.
 
 **Nota:**
 
-Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
-d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
-
-Conformément aux dispositions des 1° du I et du II de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions
-de l'article L. 451-1-1 entrent en vigueur le 25 juillet 2018 à l'exception du dernier alinéa du I qui entre en vigueur le 31
-décembre 2018.
+Conformément aux dispositions du II de l'article 105 de la loi n° 2020-105 du 10 février 2020, les dispositions de l'article
+L. 451-1-1 entrent en vigueur le 1er janvier 2021.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 _Cité par_:
 
   - Décret n°2018-644 du 20 juillet 2018 - art. 3 (V)
+
+_Modifié par_:
+
+  - Loi n°2020-105 du 10 février 2020 - art. 105 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L421-1
 
 
 ###### Article L451-1-2
@@ -76920,35 +76929,38 @@ _Cite_:
 
 ###### Article A134-7
 
-I.-La répartition en provision mathématique et en provision de diversification des encours des engagements relevant de
-l'article L. 134-1, le nombre de contrats ou adhésions, comportant des engagements relevant de l'article L. 134-1, souscrits
-ou issus d'une transformation entrant dans le champ du 2° du I de l'article 125-0 A du code général des impôts, en fonction
-de la quotité de capital garanti à l'origine, s'il y a lieu, les primes versées ou montants transférés sur des engagements
-relevant de l'article L. 134-1, ainsi que l'encours de ces engagements, font l'objet d'une information annuelle, par année
-d'échéance de la garantie s'il y a lieu, pour chaque organisme d'assurance proposant des engagements relevant de l'article L.
-134-1. La répartition de actifs afférents aux engagements affectés à une comptabilité auxiliaire d'affectation mentionnée à
-l'article L. 134-2 fait également l'objet d'une information annuelle pour chaque organisme d'assurance proposant des
-engagements relevant de l'article L. 134-1. 
+Les éléments suivants relatifs aux engagements relevant respectivement du 1° et du 2° de l'article L. 134-1 sont adressés
+chaque année et au plus tard le 30 avril à l'Autorité de contrôle prudentiel et de résolution, par année d'échéance et par
+niveau de la garantie :
 
-II.-Ces informations sont agrégées par les fédérations professionnelles pour leurs adhérents et transmises à l'Autorité de
-contrôle prudentiel et de résolution et au ministre chargé de l'économie. Sur demande, ces autorités reçoivent directement
-des organismes d'assurance les informations désagrégées qui les concernent. 
+- le nombre de contrats ou adhésions en cours ;
 
-III.-Le format de l'information relative à la répartition de actifs afférents aux engagements affectés à une comptabilité
-auxiliaire d'affectation mentionnée à l'article L. 134-2 prévue au I est précisé chaque année afin de parfaire la
-connaissance géographique et par transparence des actifs en représentation.
+- le montant des provisions mathématiques ;
+
+- le montant de la provision de diversification ;
+
+- les primes versées et le montant des transferts ou arbitrages entrants ;
+
+- la valeur au bilan des actifs afférents aux comptabilités auxiliaires d'affectation mentionnées à l'article L. 134-2, selon
+la nomenclature de l'article R. 332-2.
+
+Le niveau de la garantie est fixé sur une échelle de proportion des primes versées garanties d'origine 0 et de pas de 5
+points.
+
+Ces informations, le cas échéant complétées par l'Autorité de contrôle prudentiel et de résolution après avis de la
+commission consultative mentionnée au I de l'article L. 612-14 du code monétaire et financier, sont agrégés par l'autorité et
+transmises au ministre chargé de l'économie, accompagnées de la liste des entreprises concernées.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 12 de l'arrêté du 26 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 13 juillet 2016 - art. 2
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 125-0 A
-  - Code des assurances - art. L134-1
-  - Code des assurances - art. L134-2
+  - Arrêté du 26 décembre 2019 - art. 1
 
 
 ### Titre IV : Les assurances de groupe<a id=642></a>
