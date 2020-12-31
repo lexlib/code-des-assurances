@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2020-12-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -31409,6 +31409,8 @@ d'assurance responsabilité civile desdits véhicules, l'information :
 2° De l'Etat dans le cadre de sa mission de contrôle de l'obligation d'assurance de responsabilité civile automobile prévue
 au chapitre Ier du titre Ier du livre II ; 
 
+2° bis De l'Etat dans le cadre de sa mission de lutte contre la gestion illégale des véhicules hors d'usage ; 
+
 3° Du fonds de garantie des assurances obligatoires de dommages dans le cadre de ses missions prévues au V de l'article L.
 421-1. 
 
@@ -31421,22 +31423,22 @@ conditions fixées par décret en Conseil d'Etat.
 
 **Nota:**
 
-Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
-d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
-
-Conformément aux dispositions des 1° du I et du II de l'article 3 du décret n° 2018-644 du 20 juillet 2018, les dispositions
-de l'article L. 451-1-1 entrent en vigueur le 25 juillet 2018 à l'exception du dernier alinéa du I qui entre en vigueur le 31
-décembre 2018.
+Conformément aux dispositions du II de l'article 105 de la loi n° 2020-105 du 10 février 2020, les dispositions de l'article
+L. 451-1-1 entrent en vigueur le 1er janvier 2021.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 _Cité par_:
 
   - Décret n°2018-644 du 20 juillet 2018 - art. 3 (V)
+
+_Modifié par_:
+
+  - Loi n°2020-105 du 10 février 2020 - art. 105 (V)
+
+_Cite_:
+
+  - Code des assurances - art. L421-1
 
 
 ###### Article L451-1-2
@@ -76488,35 +76490,38 @@ _Cite_:
 
 ###### Article A134-7
 
-I.-La répartition en provision mathématique et en provision de diversification des encours des engagements relevant de
-l'article L. 134-1, le nombre de contrats ou adhésions, comportant des engagements relevant de l'article L. 134-1, souscrits
-ou issus d'une transformation entrant dans le champ du 2° du I de l'article 125-0 A du code général des impôts, en fonction
-de la quotité de capital garanti à l'origine, s'il y a lieu, les primes versées ou montants transférés sur des engagements
-relevant de l'article L. 134-1, ainsi que l'encours de ces engagements, font l'objet d'une information annuelle, par année
-d'échéance de la garantie s'il y a lieu, pour chaque organisme d'assurance proposant des engagements relevant de l'article L.
-134-1. La répartition de actifs afférents aux engagements affectés à une comptabilité auxiliaire d'affectation mentionnée à
-l'article L. 134-2 fait également l'objet d'une information annuelle pour chaque organisme d'assurance proposant des
-engagements relevant de l'article L. 134-1. 
+Les éléments suivants relatifs aux engagements relevant respectivement du 1° et du 2° de l'article L. 134-1 sont adressés
+chaque année et au plus tard le 30 avril à l'Autorité de contrôle prudentiel et de résolution, par année d'échéance et par
+niveau de la garantie :
 
-II.-Ces informations sont agrégées par les fédérations professionnelles pour leurs adhérents et transmises à l'Autorité de
-contrôle prudentiel et de résolution et au ministre chargé de l'économie. Sur demande, ces autorités reçoivent directement
-des organismes d'assurance les informations désagrégées qui les concernent. 
+- le nombre de contrats ou adhésions en cours ;
 
-III.-Le format de l'information relative à la répartition de actifs afférents aux engagements affectés à une comptabilité
-auxiliaire d'affectation mentionnée à l'article L. 134-2 prévue au I est précisé chaque année afin de parfaire la
-connaissance géographique et par transparence des actifs en représentation.
+- le montant des provisions mathématiques ;
+
+- le montant de la provision de diversification ;
+
+- les primes versées et le montant des transferts ou arbitrages entrants ;
+
+- la valeur au bilan des actifs afférents aux comptabilités auxiliaires d'affectation mentionnées à l'article L. 134-2, selon
+la nomenclature de l'article R. 332-2.
+
+Le niveau de la garantie est fixé sur une échelle de proportion des primes versées garanties d'origine 0 et de pas de 5
+points.
+
+Ces informations, le cas échéant complétées par l'Autorité de contrôle prudentiel et de résolution après avis de la
+commission consultative mentionnée au I de l'article L. 612-14 du code monétaire et financier, sont agrégés par l'autorité et
+transmises au ministre chargé de l'économie, accompagnées de la liste des entreprises concernées.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 12 de l'arrêté du 26 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 13 juillet 2016 - art. 2
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 125-0 A
-  - Code des assurances - art. L134-1
-  - Code des assurances - art. L134-2
+  - Arrêté du 26 décembre 2019 - art. 1
 
 
 ### Titre IV : Les assurances de groupe<a id=642></a>
