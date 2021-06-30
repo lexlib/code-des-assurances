@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2021-07-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -2043,32 +2043,37 @@ _Anciens textes_:
 
 ###### Article L113-11
 
-Sont nulles : 
+Sont nulles :
 
 1° Toutes clauses générales frappant de déchéance l'assuré en cas de violation des lois ou des règlements, à moins que cette
-violation ne constitue un crime ou un délit intentionnel ; 
+violation ne constitue un crime ou un délit intentionnel ;
 
 2° Toutes clauses frappant de déchéance l'assuré à raison de simple retard apporté par lui à la déclaration du sinistre aux
 autorités ou à des productions de pièces, sans préjudice du droit pour l'assureur de réclamer une indemnité proportionnée au
-dommage que ce retard lui a causé ; 
+dommage que ce retard lui a causé ;
 
-3° Toutes clauses frappant de déchéance l'assuré en cas de non-respect des dispositions prévues aux articles L. 129-8 et L.
-129-9 du code de la construction et de l'habitation.
+3° Toutes clauses frappant de déchéance l'assuré en cas de non-respect des dispositions prévues aux articles L. 142-1 et L.
+142-2 du code de la construction et de l'habitation.
 
 **Nota:**
 
-LOI n° 2010-238 du 9 mars 2010 art 5 I : les présentes dispositions entrent en vigueur dans les conditions prévues par un
-décret en Conseil d'Etat et au plus tard au terme d'un délai de cinq ans à compter de la date de sa publication.
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-238 du 9 mars 2010 - art. 4
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cité par_:
 
   - Code des assurances - art. L145-1 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L142-1
+  - Code de la construction et de l'habitation. - art. L142-2
 
 _Anciens textes_:
 
@@ -3258,19 +3263,24 @@ _Cite_:
 ###### Article L122-9
 
 L'assureur peut prévoir une minoration de la prime ou de la cotisation prévue par la police d'assurance garantissant les
-dommages incendie lorsqu'il est établi qu'il est satisfait  aux obligations prévues aux articles L. 129-8 et L. 129-9 du code
+dommages incendie lorsqu'il est établi qu'il est satisfait aux obligations prévues aux articles L. 142-1 et L. 142-2 du code
 de la construction et de l'habitation.
 
 **Nota:**
 
-LOI n° 2010-238 du 9 mars 2010 art 5 I : les présentes dispositions entrent en vigueur dans les conditions prévues par un
-décret en Conseil d'Etat et au plus tard au terme d'un délai de cinq ans à compter de la date de sa publication.
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 3 (V)
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L142-1 (V)
+  - Code de la construction et de l'habitation. - art. L142-2 (V)
 
 
 #### Chapitre III : Les assurances contre la grêle et la mortalité du bétail.<a id=11></a>
@@ -14020,20 +14030,24 @@ _Cite_:
 
 Les obligations d'assurance ne s'appliquent pas à l'Etat lorsqu'il construit pour son compte.
 
+Des dérogations totales ou partielles peuvent être accordées par l'autorité administrative aux collectivités locales et à
+leurs groupements, ainsi qu'aux établissements publics, justifiant de moyens permettant la réparation rapide et complète des
+dommages.
+
 **Nota:**
 
-Ordonnance 2005-658 2005-06-08 art. 5 : Les dispositions du présent titre, à l'exception de celles de l'article 2, ne
-s'appliquent qu'aux marchés, contrats ou conventions conclus après la publication de la présente ordonnance.
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°76-666 1976-07-16
+  - Décret n°76-666 du 16 juillet 1976
 
 _Modifié par_:
 
-  - Ordonnance n°2005-658 du 8 juin 2005 - art. 3 () JORF 9 juin 2005
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 7
 
 _Cité par_:
 
