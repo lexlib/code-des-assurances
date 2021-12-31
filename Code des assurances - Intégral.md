@@ -1,5 +1,5 @@
 # Code des assurances  
-Version Consolidée au 2021-07-01
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L561-1)](#1)
     - [Livre Ier : Le contrat (art. L100-1 à L195-1)](#2)
@@ -29028,23 +29028,23 @@ _Cite_:
 ###### Article L422-1
 
 Pour l'application de l'article L. 126-1, la réparation intégrale des dommages résultant d'une atteinte à la personne est
-assurée par l'intermédiaire du fonds de garantie des victimes des actes de terrorisme et d'autres infractions. 
+assurée par l'intermédiaire du fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
 
 Ce fonds, doté de la personnalité civile, est alimenté par un prélèvement sur les contrats d'assurance de biens dans les
-conditions suivantes. 
+conditions suivantes.
 
 Ce prélèvement est assis sur les primes ou cotisations des contrats d'assurance de biens qui garantissent les biens situés
 sur le territoire national et relevant des branches 3 à 9 de l'article R. 321-1, dans sa rédaction en vigueur à la date de
 publication de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, et souscrits auprès d'une
-entreprise mentionnée à l'article L. 310-2. 
+entreprise mentionnée à l'article L. 310-2.
 
-Le montant de la contribution, compris entre 0 € et 6,50 €, est fixé par arrêté du ministre chargé des assurances. 
+Le montant de la contribution, compris entre 0 € et 6,50 €, est fixé par arrêté du ministre chargé des assurances.
 
-Cette contribution est perçue par les entreprises d'assurance suivant les mêmes règles et sous les mêmes garanties et
-sanctions que la taxe sur les conventions d'assurance prévue à l'article 991 du code général des impôts. Elle est recouvrée
-mensuellement par le fonds de garantie. 
+Cette contribution est recouvrée et contrôlée suivant les mêmes règles et sous les mêmes garanties et sanctions que la taxe
+sur les conventions d'assurance prévue à l'article 991 du code général des impôts. Les réclamations sont présentées,
+instruites et jugées selon les règles applicables à cette même taxe.
 
-Il est subrogé dans les droits que possède la victime contre la personne responsable du dommage. 
+Le fonds de garantie est subrogé dans les droits que possède la victime contre la personne responsable du dommage.
 
 Le fonds est également alimenté par des versements prévus au II de l'article 728-1 du code de procédure pénale. Lorsque ces
 versements sont effectués, la victime est alors directement indemnisée par le fonds à hauteur, le cas échéant, des versements
@@ -29055,6 +29055,10 @@ effectués et, à hauteur de ces versements, l'avant-dernier alinéa du présent
 L'article 111 de la loi n° 87-1060 du 30 décembre 1987 a complété le troisième alinéa du II de l'article 9 de la loi n°
 86-1020 du 9 septembre 1986 par les mots "ainsi que contre les personnes tenues à un titre quelconque d'en assurer la
 réparation totale ou partielle, dans la limite du montant des prestations à la charge desdites personnes".
+
+Conformément aux dispositions du VI de l'article 166 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de
+l'article L. 422-1, telles qu'elles résultent du 1° du I dudit article, s'appliquent aux contributions pour lesquelles un
+fait générateur d'imposition intervient à compter du 1er janvier 2022.
 
 **Liens relatifs à cet article**
 
@@ -29079,7 +29083,7 @@ _Cité par_:
   - Code des assurances - art. A422-1 (V)
   - Code des assurances - art. L126-1 (V)
   - Code des assurances - art. L422-1-1 (V)
-  - Code des assurances - art. L422-6 (V)
+  - Code des assurances - art. L422-6 (VD)
   - Code des assurances - art. R422-1 (V)
   - Code des assurances - art. R422-5 (V)
   - Code général des impôts, CGI. - art. 1628 quinquies (M)
@@ -29094,15 +29098,15 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 (V)
-  - Code général des impôts, CGI. - art. 991 (V)
-  - Code de procédure pénale - art. 728-1 (V)
-  - Code des assurances - art. L310-2 (V)
-  - Code des assurances - art. R321-1 (V)
+  - Loi n°2013-1279 du 29 décembre 2013
+  - Code général des impôts, CGI. - art. 991
+  - Code de procédure pénale - art. 728-1
+  - Code des assurances - art. L310-2
+  - Code des assurances - art. R*321-1
 
 _Modifié par_:
 
-  - Loi n°2014-896 du 15 août 2014 - art. 27
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 166 (V)
 
 
 ###### Article L422-1-1
@@ -29261,22 +29265,28 @@ _Cite_:
 
 ###### Article L422-6
 
-Les articles L. 422-1 à L. 422-5 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-
-Calédonie.
+L'article L. 422-1, à l'exception de son cinquième alinéa, et les articles L. 422-1-1 à L. 422-5 sont applicables dans les
+îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
+
+Dans ces collectivités, la contribution prévue à l'article L. 422-1 est perçue par les entreprises d'assurance suivant les
+mêmes règles et sous les mêmes garanties et sanctions que la taxe sur les conventions d'assurance prévue à l'article 991 du
+code général des impôts. Elle est recouvrée mensuellement par le fonds de garantie.
+
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 166 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de
+l'article L. 422-6, telles qu'elles résultent du 2° du I dudit article, s'appliquent aux contributions pour lesquelles un
+fait générateur d'imposition intervient à compter du 1er janvier 2022.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-644 du 1er juillet 2008 - art. 13
-
-**Liens**:
-
-  - DEPLACE: Loi n°2008-644 du 1er juillet 2008 - art. 2
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 166 (V)
 
 _Cite_:
 
-  - Code des assurances - art. L422-1
+  - Code des assurances - art. L422-1 (VD)
 
 
 ##### Section II : Aide au recouvrement des dommages et intérêts pour les victimes d'infractions.<a id=229></a>
